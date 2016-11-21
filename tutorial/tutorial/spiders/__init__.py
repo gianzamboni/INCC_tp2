@@ -34,6 +34,12 @@ def todasLasFechas():
 		pickle.dump(links, linksFile) 	
 	return links
 
+def getNewsLinks():
+	f = open("linksNoticias", "rb")
+	contenido = f.read()
+	links = contenido.split("\n")
+	return links
+
 class ClarinSpider(scrapy.Spider):
     name = "clarin"
     allowed_domains = ["clarin.com"]
@@ -54,3 +60,9 @@ class ClarinSpider(scrapy.Spider):
 
         with open(filename, 'wb') as f:
             f.write(noticias.encode("utf-8"))
+
+
+class ClarinNoticiasSpider(scrapy.spider):
+	name = "clarinNoticias"
+	allowed_domains = ["clarin.com"]
+	start_urls = getNewsLinks()
