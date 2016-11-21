@@ -1,6 +1,7 @@
 import scrapy
 import os
 import pickle
+import json
 
 
 def todasLasFechas():
@@ -16,9 +17,9 @@ def todasLasFechas():
 		month = int(date[4:6])
 		day = int(date[6:8])
 
-		prefijo = "http://www.clarin.com/ediciones-anteriores/"
+		prefijo = "http://www.clarin.com/archivo/pager.json?date={0}&page={1}"
 		while(date != "20161121"):
-	 		links.append(prefijo + date)
+	 		links.append(prefijo.format(date, page)		)
 	 		day += 1
 	 		if(day == 32):
 	 			day = 1
@@ -38,8 +39,18 @@ class ClarinSpider(scrapy.Spider):
     allowed_domains = ["clarin.com"]
     start_urls = todasLasFechas()
 
+    def start_request():
+    	return [scrapy.FormRequest()]
+
     def parse(self, response):
-        filename = "paginas/" + response.url.split("/")[-1] + ".html"
-        noticias = response.xpath('//div[@id="notesPlaceholder"]/ul').extract_first(default='not-found')
+        noticias = json.loads(response.body_as_unicode())
+        splittedUrl = response.url.split("=")
+        filename = "paginas/" + splittedUrl[-2] +  "." + splittedUrl[-1]
+        counter = int(splittedUrl[-1])
+        if(noticias['news'] != ""):
+        	splittedUrl[-1] = str(counter + 1)
+        	finalUrl = "".join(splittedUrl)
+        	start_urls.append(finalUrl)
+
         with open(filename, 'wb') as f:
             f.write(noticias.encode("utf-8"))
