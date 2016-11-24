@@ -1,7 +1,10 @@
+# -*- coding: utf-8 -*-
+
 import scrapy
 import os
 import pickle
 import json
+from bs4 import BeautifulSoup
 
 
 def todasLasFechas():
@@ -17,9 +20,9 @@ def todasLasFechas():
 		month = int(date[4:6])
 		day = int(date[6:8])
 
-		prefijo = "http://www.clarin.com/archivo/pager.json?date={0}&page={1}"
+		prefijo = "http://www.clarin.com/archivo/pager.json?date={0}&page=1"
 		while(date != "20161121"):
-	 		links.append(prefijo.format(date, page)		)
+	 		links.append(prefijo.format(date))
 	 		day += 1
 	 		if(day == 32):
 	 			day = 1
@@ -34,35 +37,33 @@ def todasLasFechas():
 		pickle.dump(links, linksFile) 	
 	return links
 
-def getNewsLinks():
-	f = open("linksNoticias", "rb")
-	contenido = f.read()
-	links = contenido.split("\n")
-	return links
+def getLinks(news):
+	htmlParseado = BeautifulSoup(news, 'html.parser')
+	links = [ x.get('href') for x in htmlParseado.find_all('a') if x.get('href') != '' and x.get('href')[-1] == "l"]
+	prefijo = "https://www.clarin.com"
+	totalLinks = []
+	for link in links:
+		splittedLink = link.split("/")
+		if(splittedLink[1] == "ieco" or splittedLink[1] == "politica" or splittedLink[1] == "opinion" or splittedLink[1] == "sociedad"):
+			totalLinks.append((prefijo + link).encode("utf-8"))
+
+	return totalLinks
 
 class ClarinSpider(scrapy.Spider):
     name = "clarin"
     allowed_domains = ["clarin.com"]
     start_urls = todasLasFechas()
 
-    def start_request():
-    	return [scrapy.FormRequest()]
-
     def parse(self, response):
-        noticias = json.loads(response.body_as_unicode())
+        noticias = json.loads(response.body[1:-1])
         splittedUrl = response.url.split("=")
-        filename = "paginas/" + splittedUrl[-2] +  "." + splittedUrl[-1]
+        filename = "listasNoticias/" + splittedUrl[-2] +  "." + splittedUrl[-1]
         counter = int(splittedUrl[-1])
         if(noticias['news'] != ""):
-        	splittedUrl[-1] = str(counter + 1)
-        	finalUrl = "".join(splittedUrl)
-        	start_urls.append(finalUrl)
+        	links = getLinks(noticias['news'])
+         	splittedUrl[-1] = str(counter + 1)
+         	finalUrl = "=".join(splittedUrl)
+         	self.start_urls.append(finalUrl)
 
-        with open(filename, 'wb') as f:
-            f.write(noticias.encode("utf-8"))
-
-
-class ClarinNoticiasSpider(scrapy.spider):
-	name = "clarinNoticias"
-	allowed_domains = ["clarin.com"]
-	start_urls = getNewsLinks()
+        	with open(filename, 'wb') as f:
+        		pickle.dump(links, f)
