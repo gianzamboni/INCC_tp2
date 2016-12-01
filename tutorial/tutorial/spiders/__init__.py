@@ -14,6 +14,7 @@ def todasLasFechas():
 	if os.path.isfile("listaLinks"):
 		linksFile = open("listaLinks", "rb")
 		links = pickle.load(linksFile)
+		linksFile.close()
 	else:
 		date = "20140702"
 		year = int(date[0:4])
@@ -35,6 +36,7 @@ def todasLasFechas():
 	 		date = str(year) + str(month).zfill(2) + str(day).zfill(2)
 		linksFile = open("listaLinks", "wb")
 		pickle.dump(links, linksFile) 	
+		linksFile.close()
 	return links
 
 def getLinks(news):
@@ -49,9 +51,53 @@ def getLinks(news):
 
 	return totalLinks
 
+DICCFECHAS = {}
+
+def todasLasNoticias():
+	
+	global DICCFECHAS
+	folder = "listasNoticias"
+	noticias = []
+	for filename in os.listdir(folder):
+		f = open(os.path.join(folder, filename), "rb")
+		noticiasDelArchivo = pickle.load(f)
+		noticias.extend(noticiasDelArchivo)
+		fecha = filename.split("&")[0]
+		for link in noticiasDelArchivo:
+			print(link.split("/")[-1])
+			DICCFECHAS[link.split("/")[-1]] = fecha
+		f.close()
+	return noticias;
+
+
+def getText(response, url):
+
+	htmlParseado = BeautifulSoup(response, 'html.parser')
+	divNota = htmlParseado.find("div", { "class" : "nota" })
+
+	quotes = divNota.find_all("p", {"style" : "text-align: right;"})
+	if(quotes != []):
+		for element in quotes:
+			element.extract()
+
+	contenido = divNota.text.encode('utf-8')
+
+	meta = htmlParseado.find("div", {"class" : "breadcrumb" }).find("ul").find_all("li")
+	categoria = meta[1].text.encode('utf-8')
+	fecha = DICCFECHAS[url.split("/")[-1]]
+	
+	titulos = htmlParseado.find("h1").text.encode('utf-8')
+	titulos = titulos.replace(" ", "_")
+	
+	filename = fecha + "_" + categoria + "_" + titulos	
+	file = open("NoticiasClarin/" + filename, "wb")
+	file.write(contenido)
+	file.close()
+	print("\033[1;31m" + "Archivo " + filename + " guardado" + "\033[0;37m")
+
 class ClarinSpider(scrapy.Spider):
     name = "clarin"
-    allowed_domains = ["clarin.com"]
+    allowed_domains = ["clarin.com", "ieco.clarin.com"]
     start_urls = todasLasFechas()
 
     def parse(self, response):
@@ -67,3 +113,11 @@ class ClarinSpider(scrapy.Spider):
 
         	with open(filename, 'wb') as f:
         		pickle.dump(links, f)
+
+class ClarinNoticiasSpider(scrapy.Spider):
+    name = "clarinNoticias"
+    allowed_domains = ["clarin.com"]
+    start_urls = todasLasNoticias()
+
+    def parse(self, response):
+        getText(response.body, response.url)

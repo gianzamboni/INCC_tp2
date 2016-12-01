@@ -1,0 +1,21 @@
+
+Una joven madre denunció hoy que fue obligada por tres policías a "guardar la teta", mientras caminaba amamantando a su bebe por una avenida de la localidad de Eldorado, en Misiones. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El testimonio de Norma Vogel / Radio Génesis Eldorado El caso fue divulgado a través de la prensa local por Norma Vogel, de 21 años, quien aseguró que el incidente ocurrió hace una semana, cuando se dirigía con su bebé a hacer trámites por la avenida San Martín de ese municipio, distante a 200 kilómetros al norte de Posadas. Mirá también: Un "tetazo" masivo llenó las plazas del país de mujeres amamantando En el camino, el bebé comenzó a llorar porque tenía hambre y la joven comenzó a amamantarlo mientras caminaba. Esa actitud, "me pareció lo más normal del mundo", aseguró.
+
+Pero un momento después, "dos policías, a quienes acompañaba un tercero, me agarraron de los brazos y me dijeron que había una ley que prohibía hacer eso", afirmó. Mirá también: Amamantar a libre demanda (y en los espacios públicos) es un derecho 
+ A raíz de la repercusión del caso, el jefe de la Unidad Regional III de la policía de Misiones, comisario Claudio Gazzano, dijo que "se iniciaron actuaciones administrativas internas para determinar la identidad, actuación y responsabilidad de los efectivos involucrados". Fuente: DyN
