@@ -35,12 +35,15 @@ def filtrarArchivo(nombreArchivo):
 	sinRepetidosConEnter = [palabra + "\n" for palabra in sinRepetidos]
 	contenidoSinRepetidos = "".join(sinRepetidosConEnter)
  
+	sinRepetidosArchivo = open(nombreArchivo + "-sR", "wb")
+	sinRepetidosArchivo.write(contenidoSinRepetidos)
+	sinRepetidosArchivo.close()
 
 	print(contenidoSinRepetidos)
 	
 if __name__ == "__main__":
 	listaArgumentos = sys.argv
 	archivo = listaArgumentos[1]
-
-	for filename in os.listdir(archivo):
-		filtrarListas(os.path.join(archivo, filename))
+	filtrarArchivo(archivo)
+	#for filename in os.listdir(archivo):
+	#	filtrarListas(os.path.join(archivo, filename))

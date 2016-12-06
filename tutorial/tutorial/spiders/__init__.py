@@ -6,7 +6,6 @@ import pickle
 import json
 from bs4 import BeautifulSoup
 
-
 def todasLasFechas():
 
 	links = []
@@ -26,7 +25,7 @@ def todasLasFechas():
 	 		links.append(prefijo.format(date))
 	 		day += 1
 	 		if(day == 32):
-	 			day = 1
+		 		day = 1
 	 			month += 1
 
 	 		if(month == 13):
@@ -37,6 +36,35 @@ def todasLasFechas():
 		linksFile = open("listaLinks", "wb")
 		pickle.dump(links, linksFile) 	
 		linksFile.close()
+	return links
+
+
+def todasLasFechasPagina12():
+	links = []
+	date = "2014-07-02"
+	year = 2014
+	month = 07
+	day = 02
+	prefijoPais = "https://www.pagina12.com.ar/diario/elpais/index-{0}.html"
+	prefijoEco = "https://www.pagina12.com.ar/diario/economia/index-{0}.html"
+	prefijoSoc = "https://www.pagina12.com.ar/diario/sociedad/index-{0}.html"
+	while(date != "2016-11-15"):
+	 	links.append(prefijoPais.format(date))
+	 	links.append(prefijoEco.format(date))
+	 	links.append(prefijoSoc.format(date))
+	 	day += 1
+	 	if(day == 32):
+	 		day = 1
+	 		month += 1
+
+	 	if(month == 13):
+	 		month = 1
+	 		year += 1
+
+	 	date = str(year) + "-" + str(month).zfill(2) + "-" + str(day).zfill(2)
+	linksFile = open("listaLinks", "wb")
+	pickle.dump(links, linksFile) 	
+	linksFile.close()
 	return links
 
 def getLinks(news):
@@ -65,7 +93,6 @@ def todasLasNoticias():
 		noticias.extend(noticiasDelArchivo)
 		fecha = filename.split("&")[0]
 		for link in noticiasDelArchivo:
-			print(link.split("/")[-1])
 			DICCFECHAS[link.split("/")[-1]] = fecha
 		f.close()
 	logFile.write(str(len(noticias)) + "\n")
@@ -96,8 +123,29 @@ def getText(response, url):
 	file.write(contenido)
 	file.close()
 	logFile.write("Archivo " + filename + " guardado\n")
-	print("\033[1;31m" + "Archivo " + filename + " guardado" + "\033[0;37m")
 	return filename
+
+
+def getNewsLinks(body, url):
+	logFile = open("log", "ab")
+
+	splittedUrl = url.split("/")
+	fecha = splittedUrl[-1][6:16]
+	categoria = splittedUrl[-2]
+	prefijo = "https://www.pagina12.com.ar"
+	
+	listFile = open("listasNoticiasPagina12/" + fecha + "_" + categoria, "wb")
+
+	pagina = BeautifulSoup(body, "html.parser")
+	noticias = pagina.find_all("div", { "class" : "noticia" })
+	linksNoticias = [ a.get('href') for a in [ h.find("a") for h in [n.find("h2") for n in noticias] ]]
+	logFile.write(str(linksNoticias))
+	
+	totalLinks = [ prefijo + link for link in linksNoticias]
+	pickle.dump(totalLinks, listFile)
+
+	logFile.close()
+	listFile.close()
 
 class ClarinSpider(scrapy.Spider):
     name = "clarin"
@@ -125,3 +173,12 @@ class ClarinNoticiasSpider(scrapy.Spider):
 
     def parse(self, response):
         getText(response.body, response.url)
+
+
+class pagina12Spider(scrapy.Spider):
+	name = "pagina12"
+	allowed_domains = ["pagina12.com.ar"]
+	start_urls = todasLasFechasPagina12()
+
+	def parse(self, response):
+		getNewsLinks(response.body, response.url)
