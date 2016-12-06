@@ -1,0 +1,76 @@
+
+Al cumplirse un nuevo aniversario (el 14°) de la Masacre de Avellaneda, en la que fueron asesinados por la policía bonaerense los jóvenes piqueteros Darío Santillán y Maximiliano Kosteki, el padre del primero, Alberto Santillán, y la hermana del segundo, Vanina Kosteki, reclamaron por la falta de avances en la causa penal por el las responsabilidades políticas del doble crimen, en las que están querellados, entre otros, el ex presidente Eduardo Duhalde, el entonces secretario general de la presidencia, Aníbal Fernández, y Felipe Solá, ex gobernador de la provincia de Buenos Aires. El escenario de los discursos fue un camión atravesado en el Puente Pueyrredón, sobre la mano que va de la provincia a la Capital; el mismo puente que los piqueteros no pudieron cortar el 26 de junio de 2002 debido a la sangrienta represión policial que dejó, además, un saldo de más de 40 heridos de bala y un centenar de detenidos. Santillán padre, en un enérgico discurso aseguró que el juicio y la condena de los autores materiales del hecho, el comisario Alfredo Fanchiotti y el cabo Alejandro Acosta, “se consiguió con la movilización en la calle y no en los despachos oficiales”, e instó a seguir por el mismo camino para conseguir el resto de los juzgamientos y condenas. Ambos cumplen condena perpetua.
+
+A su turno, Vanina, con voz por momentos quebrada por la emoción, alentó a los presentes (varios miles de personas) a “no ceder ni un centímetro de la calle” para conseguir las condenas de los autores intelectuales de las dos muertes. Un día antes, la hermana de Maxi Kosteki había dado a conocer unas declaraciones a través de los equipos de comunicación del Partido Obrero en las que califica a Aníbal Fernández como un “encubridor de los crímenes de Estado” por haber sido “uno de los voceros del libreto oficial, el que decía que los piqueteros se habían matado entre ellos”, y “el que avaló a la policía cuando habían liberado la zona para el asesinato de (el militante del PO) Mariano Ferreyra”, en octubre de 2010.
+
+En el escenario, en tanto, escuchaban los discursos Nicolás del Caño (PO), Vilma Ripoll (MST), Cristian Castillo (PTS) y diversos referentes de organizaciones sociales y piqueteras . Entre todas las agrupaciones consensuaron además un documento en el que, además de reafirmar el castigo a los “responsables políticos”, en el texto se rechazaron enérgicamente las “políticas de hambre y represión implementadas tanto por el gobierno nacional y los provinciales”, apuntando al gobierno de Mauricio Macri sin por eso absolver al kirchnerista ni a los gobernadores actuales de ese u otro signo político. En este marco, la nota discordante la dio la columna de Quebracho, cuando intentó marchar en la cabecera de la movilización con una gran pancarta con el nombre de su agrupación y la leyenda “Libertad a Milagro (Sala)”, lo cual fue rechazado por el resto, según explicaron los organizadores, por no haber sido acordado durante las reuniones previas y por incluir el nombre del movimiento. Luego, durante el acto, esta organización fue la única que aplaudió ruidosamente cuando desde el escenario se reclamó -entre muchos otros puntos- la liberación de la dirigente social kirchnerista Milagro Sala, detenida y procesada en Jujuy. 
+
+
+“No sólo por la efedrina y la corrupción: Aníbal Fernández también tiene que responder por los crímenes de Maxi y Darío”, dijo Vanina Kosteki.
+
+
+
+
+
+var act_122 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_122 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_122.setTitle('“No sólo por la efedrina y la corrupción: Aníbal Fernández también tiene que responder por los crímenes de Maxi y Darío”, dijo Vanina Kosteki.');
+act_122.setSubtitle('Aniversario'); 
+act_122.setLinkBack('http://www.clarin.com/politica/Recuerdan-Kosteki-Santillan-masacre-Avellaneda_0_1602439865.html');
+act_122.setDescription('Durante el acto, en el Puente Pueyrred&oacute;n, se reclam&oacute; por el juicio a los responsables pol&iacute;ticos del doble crimen, La querella alcanza a&nbsp;Eduardo Duhalde,&nbsp;An&iacute;bal Fern&aacute;ndez y Felipe Sol&aacute;, entre otros.');
+act_122.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Recuerdan-Kosteki-Santillan-masacre-Avellaneda_0_1602439865.html');
+
+var showShareBarUI_params_122=
+{ 
+containerID: 'shareQuote_122',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_122,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_122
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_122);
+  El frío que acompañó a las jornadas del fin de semana le evocaron a un antiguo militante del MTD de La Cañada, en lo más profundo de Quilmes, al que se vivió en la trágica jornada del 26 junio. "Ese día me puse dos camperas, una encima de la otra, por el frío pero también para amortiguar el impacto de las balas de goma". Una síntesis de lo que eran esos tiempos. Ahora, cerca de la estación, un oficial de la comisaría 2° de Avellaneda que se encontraba esta mañana a bordo de un solitario patrullero o frente a la estación dijo a Clarín que su orden era de intervenir sólo en caso de disturbios, y que esperaban no hacerlo porque la movilización “era pacífica”. Sobre el protocolo “antipiquetes”, que tipifica como delito a cualquier protesta que impida la libre circulación, dijo no tener “ninguna directiva” .
+
+La causa por las responsabilidades políticas, tema recurrente en todos los discursos pronunciados hoy, había quedado archivada en el Juzgado Federal Nº4, a cargo de Ariel Lijo, y se reabrió en diciembre de 2014 gracias a la insistencia de entidades querellantes como la Liga Argentina por los Derechos del Hombre y la Asamblea Permanente por los Derechos Humanos de La Matanza. La denuncia abarca a varios funcionarios de esa época: Alfredo Atanasof (jefe de gabinete), Juan José Alvarez (ssecretario de Seguridad Interior), Aníbal Fernández (secretario general de la presidencia), Carlos Soria (jefe de la SIDE, fallecido), Oscar Rodríguez (vicejefe de la SIDE), Jorge Matzkin (ministro del Interior), Felipe Solá (gobernador de Buenos Aires) y Luis Genoud (secretario bonaerense de Seguridad y Justicia). Los asesinatos ocurrieron el mediodía del 26 de junio de 2002 después de que diversas organizaciones de desocupados de la zona Sur del Gran Buenos Aires intentaran, sin éxito, cortar el Puente Pueyrredón, una forma de protesta que conmovió a la Argentina de esos años. Después, cuando la columna de manifestantes en la que marchaban Kosteki y Santillán se replegó por la avenida Hipólito Yrigoyen perseguida de cerca por la policía. Una primera ráfaga de disparos alcanzó a Maxi Kosteki, quien resultó herido en el pecho y llegó agonizando, cargado en hombros por sus compañeros, a la estación de tren. Allí, en el hall de la estación, Darío Santillán intentó asistirlo hasta que fue obligado por los policías a retirase, y al hacerlo le dispararon por la espalda en el patio que conduce a los andenes.
+
+Darío Santillán tenía 21 años, y los últimos dos y medio de su vida los había dedicado a organizar a los desocupados del barro Don Orione, en Claypole, donde vivía. Su pequeña organización confluyó con otras para fundar el Movimiento de Trabajadores Desocupados (MTD) de Almirante Brown, que luego se integró a la Coordinadora de Trabajadores Desocupados Aníbal Verón, en homenaje al trabajador salteño asesinado durante un piquete en noviembre de 2000. Pero en 2002 Darío había pasado a miliar en el MTD de Lanús. En el MTD de Guernica, en tanto, militaba desde hacía dos meses Maximiliano Kosteki, de 23 años, que planeaba estudiar Bellas Artes en la Universidad de La Plata. El doble crimen fue revelado en gran parte gracias a las fotos obtenidas por los reporteros gráficos Pepe Mateos (Clarín), Marcelo Espinosa y Sergio Kowalewski, y esto forzó al gobierno de Duhalde -que inicialmente había intentado desligarse del hecho- a adelantar las elecciones presidenciales.

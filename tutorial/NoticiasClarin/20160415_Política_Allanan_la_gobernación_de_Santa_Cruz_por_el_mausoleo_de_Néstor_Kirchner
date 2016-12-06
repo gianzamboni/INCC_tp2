@@ -1,0 +1,70 @@
+
+La Justicia ordenó este viernes el allanamiento de la gobernación de la provincia de Santa Cruz por orden del juez federal Sergio Torres. Es por la causa que instruye para concocer si en la construcción del mausoleo de Néstor Kirchner, en la ciudad de Rio Gallegos, se usaron fondos públicos. 
+
+
+El mausoleo donde descansan los restos del ex Presidente fue construido por el empresario amigo y socio comercial de los Kirchner.
+
+
+
+
+
+var act_997 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_997 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_997.setTitle('El mausoleo donde descansan los restos del ex Presidente fue construido por el empresario amigo y socio comercial de los Kirchner.');
+act_997.setSubtitle('LA PROVINCIA DE LOS KIRCHNER'); 
+act_997.setLinkBack('http://www.clarin.com/politica/Justicia-allana-gobernacion-Santa-Cruz_0_1559244327.html');
+act_997.setDescription('Por orden del juez Sergio Torres, la Polic&iacute;a de Seguridad Aeroportuaria realiza un procedimiento en la sede del gobierno provincial, hoy a cargo de Alicia Kirchner.');
+act_997.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Justicia-allana-gobernacion-Santa-Cruz_0_1559244327.html');
+
+var showShareBarUI_params_997=
+{ 
+containerID: 'shareQuote_997',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_997,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_997
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_997);
+ La semana pasada 24 horas después que Lázaro Báez fue detenido, la Policía Federal entregó un oficio del Juez Sergio Torres a la gobernación de Santa Cruz para conocer si la Provincia colaboró con fondos en la construcción del Mausoleo donde descansan los restos de Néstor Kirchner. Mirá también: Así contó el abogado cómo había comprado La Rosadita El imponente edificio fue construido por Austral Construcciones y el empresario K en su momento, informó que era un regalo para el ex familia presidencial. Según señalaron fuentes oficiales, el gobierno de Santa Cruz no había respondido el oficio del Magistrado y se procedió al allanamiento en busca de información.  Este mediodía, los efectivos de la Policia de Seguridad Aeroportuaria se presentaron en la casa de Gobierno de Santa Cruz, ubicada en Río Gallegos para comenzar un allanamiento que se está realizando en este momento a través del juzgado de Marta Yañez. Es el segundo allanamiento en la provincia en menos de una semana.
+
+En medio de la tensión política que vive la provincia gobernadora por Alicia Kirchner, diez efectivos de las fuerzas federales ingresaron con una orden de allanamiento a la casa de Gobierno ubicada sobre la calle Alcorta, a metros del centro de la capital santacruceña.   Mirá también: Quién es Jorge Chueco El personal de la PSA ingresó con cajas a la sede gubernamental y se dirigieron en primer lugar a las oficinas de la secretaría Legal y Técnica, y después siguieron por el área que dependen del ministerio de la secretaría general de Gobierno. Parte de los efectivos federales se trasladaron a las oficinas de la Administración de la casa de Gobierno, ubicada en frente a la sede gubernamental. La gobernadora y cuñada de Cristina Kirchner, se encuentra en la Provincia en medio de un paro de trabajadores estatales y un fuerte reclamo salarial.

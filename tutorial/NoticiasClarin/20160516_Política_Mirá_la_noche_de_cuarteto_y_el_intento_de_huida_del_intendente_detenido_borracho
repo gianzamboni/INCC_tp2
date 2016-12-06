@@ -1,0 +1,34 @@
+
+"Oiga, no se puede ir", le dice el policía a Daniel Elías, el intendente de la localidad de Chamical, en La Rioja."¿Pero vos estás loco chango? ¿Que? ¿Querés que me vuelva a Chamical con los niños en la camioneta?", contesta Elías. "Solamente le estoy diciendo que espere. Ya viene mi superior", alega el oficial. Así es el final del crucede Elías con el policía que decidió detenerlo. Primero, el funcionario intentó esquivar el control policial y, segundo, intentó huir antes deque llegaran los inspectores de tránsito para realizarle el control de alcoholemia. En un extracto anterior de la escena que registró el policía, se ve cómo lo acusan de tener "aliento etílico" pero Elías se excusa apelando a un insólito argumento: que se estaba "curando una muela con alcohol". Mirá también: Detuvieron a un intendente por manejar borracho: dijo que se estaba curando "una muela con alcohol" 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La desgrabación del nuevo video filtrado: Elías: ¡No! ¿Quién te creés que sos vos,? No voy a esperar, papón. Policía: ¿Por qué me dice papón?  Elías: Porque sos un irrespetuoso, chango. Hace una hora que me tenés acá parado. Policía: No, señor. Hace 15 minutos. Y yo no le estoy faltando el respeto. Usted me está diciendo papón, caballero. Oiga, no se de a la fuga. Escuchemé. Elías: ¿Qué fuga? Me voy a dormir..con los niños (y señala a los asientos traseros de la camioneta 4x4) Policía: Señora, por favor. Haga entrar en razón a su marido. Dígale que espere. La mujer le pide al oficial que se comunique con sus superiores, en señal de que tuviesen "banca" con los jefes del policía que los detuvo. Policía: Simplemente le pido que se realice un control de alcoholemia porque usted evadió el control policial. Elías: Ustedes están muy mal, están errados. Piensan que ustedes van a sumar puntos, que van a ganar mucha plata [con la detención del intendente] Policía: No se vaya, espere. Elías: Usted le está faltando el respeto a la provincia. ¿Qué quiere? ¿Venir a esposarme? ¿Vos sabés escribir? Policía: Sí, se escribir. Pero se me está yendo. ¿Cómo quiere que yo trabaje si se me está yendo? Elías: ¿Cómo podés actuar si no tenés ni una pipeta? Policía: Por eso le estoy diciendo que espere. Policía: Mirá dónde me venís a agarrar chango. Me estás persiguiendo. Esto es una persecución. El video, grabado por el propio policía, concluye. Pero un tercer video se filtró. Muestra las horas previas a la detención de Elías. Al intendente se lo ve en una actuación de su banda de cuarteto "La Kuartetera": 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El 3 de noviembre de 2015, en diálogo con la radio riojana VIVA, Elías declaró: "Si Macri gana nos vamos a tener que dedicar a la música".

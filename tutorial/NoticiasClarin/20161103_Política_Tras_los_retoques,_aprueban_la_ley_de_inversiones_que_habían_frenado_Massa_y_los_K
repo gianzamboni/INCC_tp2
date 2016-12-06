@@ -1,0 +1,22 @@
+
+El proyecto de inversiones para obras de infraestructura conocido como “PPP” (Participación Público Privada), cuyo tratamiento había fracasado la semana pasada en Diputados, fue aprobado luego de reingresar al recinto con los cambios realizados en comisión para favorecer a la industria nacional y a las PyMEs. Ahora el Senado deberá ratificar las modificaciones para convertirlo en ley. Minutos antes de las 16, con 151 votos afirmativos, 77 negativos y 6 abstenciones, entre ellos las de Facundo Moyano y Héctor Daer, del Frente Renovador, el proyecto quedó aprobado. El oficialismo obtuvo el apoyo dividido del massismo y del Bloque Justicialista. El FPV, la Izquierda y los progresistas votaron en contra.  El miércoles pasado, Cambiemos no pudo aprobarlo porque el Frente para la Victoria y el massismo votaron la vuelta a comisiones. Allí, el oficialismo negoció algunas cuestiones claves que permitieron destrabar el proyecto. Mirá también: Reflotan el acuerdo por la ley de inversiones que  frenaron Massa y el FpV  Entre los principales puntos, se especificó el “compre nacional”, estableciendo que las inversiones deben tener un piso de 33% de participación de componente nacional en bienes y servicios que se contratan, un tema que significó un fuerte reclamo de los empresarios y trabajadores. De hecho, el martes el presidente de la Cámara Baja, Emilio Monzo, se reunió con la cúpula de la CGT, el triunvirato que integran Héctor Daer, Juan Carlos Schmid y Carlos Acuña. Ahí quedó explicitado el acuerdo del “mínimo de un tercio” de participación nacional, porcentaje que en un inicio de la modificación, se pensaba en un 25%.
+
+También quedó establecido que las obras que se realicen bajo esta modalidad, sólo pueden abarcar un 5 % del Presupuesto 2017 y las licitaciones tienen que tener previamente un dictamen que indique cuántos puestos de trabajo nacional se generarán y en qué porcentaje se beneficia a las PyMEs. El Frente Renovador también negoció la creación de una comisión bicameral de control que podrá monitorear teniendo acceso a toda la información, incluyendo los contratos. La prórroga de jurisdicción extranjera para los casos de controversia, cuya aprobación queda en manos del Ejecutivo, es un ítem en el que no lograron ponerse de acuerdo con la oposición. Ese artículo fue votado aparte y obtuvo 137 votos a favor y 89 en contra. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/facundogarreton/status/793895012153102336",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79389501215310233")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ “El proyecto ha mejorado muchísimo en el ámbito de los controles del Estado, de asegurar a las pymes y la industria nacional y los controles para operaciones de este tipo”, destacó el presidente de la comisión de Legislación General, Daniel Lipovetzky (PRO). Desde el FPV consideraron un "maquillaje" a las modificaciones realizadas. El diputado Axel Kicillof, consideró la iniciativa como parte de un paquete de “leyes neoliberales”. “Se desnacionaliza, se desestatiza”, denunció y advirtió: “Como está planteado el proyecto, casi cualquier obra y servicio que realizaría el Estado ahora va a aparecer como iniciativa privada”. El espacio que lidera Margarita Stolbizer se opuso: “Consideramos que a pesar de los esfuerzos por cambiarla, responde a una concepción del desarrollo social y económico de país que considera a la inversión extranjera como el moto de la economía. Y cuando esa concepción se impuso fue cuando peor nos fue en Argentina”, indicó Graciela Cousinet del interbloque Progresista.
+
+Y también lo hizo la Izquierda: “La ley es un ataque comparable a la ley que votó el pago a los fondos buitres”, sentenció Myriam Bregman (PTS).

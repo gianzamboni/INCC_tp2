@@ -1,0 +1,18 @@
+
+El ministro Rogelio Frigerio y Jorge Macri defendieron el aumento de tarifas en el programa del domingo de Mirtha Legrand y días después del fallo de la Corte Suprema de Justicia que retrotrajo los incrementos. "Si seguíamos con esa mentira nos pasaba lo de Venezuela, nos quedábamos sin energía", sostuvo el ministro del Interior en Canal 13. "Estoy harta de las tarifas", lanzó la conductora y cuestionó los errores de comunicación del Gobierno. A su turno, el ministro Frigerio defendió la política de Cambiemos y le apuntó al kirchnerismo al calificar de"mentira" el congelamiento de las tarifas, porque "van diez años donde los precios de la economía en general subieron más del mil por ciento". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/frigeriorogelio/status/767398977645977601",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76739897764597760")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Macri corre del centro a Aranguren y busca una solución “en equipo” Y, remarcó que "hay una recesión que viene de hace cinco años" a raíz de "las malas políticas que se tomaron". Por su parte, el intendente de Vicente López y primo del Presidente reconoció: "Era algo que había que hacer (los aumentos), pero fue una decisión muy difícil".  E insistió: "El precio en el que las tarifas estaban era inviable". La Diva de los Almuerzos reprochó que se debió hacer "progresivamente" y "no tan violento". Mirá también: Frigerio dijo que Macri "va a ser implacable" con los casos de corrupción La pobreza fue otro de los puntos que se tocó en la mesa, donde Mirtha salió al cruce del ministro al remarcarle que "hay más pobres ahora". "Eso tiene que ver por cómo medimos, sacamos de abajo de la alfombra la basura que intentaban esonder", sostuvo Frigerio. Y sentenció "Hace 5 años que el país no puede crecer por las malas políticas que se tomaron". "¿Este es un gobierno para los ricos?", preguntó la conductora. A lo que el funcionario respondió que es una pregunta que "molesta", debido a que "cada vez que nos juntamos con el Presidente para definir las políticas públicas siempre se tiene en cuenta a los que menos tienen". "Dentro de cuatro años si no pudimos cumplir con reducir la pobreza, habremos fracasado", concluyó Frigerio.

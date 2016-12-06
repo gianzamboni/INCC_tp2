@@ -1,0 +1,68 @@
+
+La presión ejercida por vecinos y comerciantes finalmente frenó la iniciativa. A poco de asumir, Néstor Grindetti anunció un servicio de Metrobus a lo largo de 4,6 kilómetros sobre la Avenida Remedios de Escalada, desde el Puente Alsina hasta Hipólito Yrigoyen. La construcción estaba prevista para la segunda mitad del año. Sin embargo, algunos cuestionamientos y asuntos financieros llevaron al anteproyecto a dormir en un cajón y que por el momento quede descartado. El secretario de Desarrollo Urbano municipal, Carlos Silva, fue quien confirmó la marcha atrás en el Club Sportivo Alsina durante el anuncio de obras pluviales que se iniciarán en la zona para evitar las inundaciones que afectan los alrededores del Puente Alsina cuando llueve. “No habrá Metrobus en Valentín Alsina. El costo era muy alto. Debían hacerse expropiaciones y había cuestiones técnicas insoslayables que no lo hacen viable por ahora”, les confió a los presentes. 
+
+
+No se pudo resolver el tema sin las expropiaciones, es por eso que se decidió dejar de lado el proyecto", señaló Carlos Silva, secretario de Desarrollo Urbano de Lanús a Clarín.
+
+
+
+
+
+var act_96b = new gigya.socialize.UserAction();
+
+var emailBodyCustom_96b = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_96b.setTitle('No se pudo resolver el tema sin las expropiaciones, es por eso que se decidió dejar de lado el proyecto", señaló Carlos Silva, secretario de Desarrollo Urbano de Lanús a Clarín.');
+act_96b.setSubtitle('Valentín Alsina'); 
+act_96b.setLinkBack('http://www.clarin.com/sociedad/Marcha-construccion-Metrobus-Lanus_0_1638436318.html');
+act_96b.setDescription('Tras la oposición de vecinos y la necesidad de expropiar terrenos, no harán carriles exclusivos en la Avenida Remedios de Escalada. ');
+act_96b.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/Marcha-construccion-Metrobus-Lanus_0_1638436318.html');
+
+var showShareBarUI_params_96b=
+{ 
+containerID: 'shareQuote_96b',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_96b,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_96b
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_96b);
+ La propuesta había provocado una fuerte resistencia por parte de asociaciones vecinales y representantes de entidades como la Cámara de Comercio, el Club de Leones y la Biblioteca Sarmiento. Uno de los mayores temores era que el desvío de las líneas de colectivos, que actualmente circulan por Presidente Perón, provoque menos circulación de gente y ello afecte directamente la actividad de los negocios de la zona. Mirá también: El Metrobus del Sur ya tiene su estación "San Lorenzo" “Yo saco los juguetes a la vereda y los clientes los ven desde el colectivo. Los cuelgo para que se luzcan. Algunos me piden lo que vieron desde la ventanilla de un colectivo. Si los desviaban, teníamos mucho para perder”, contó Andrea, la dueña de una juguetería que se encuentra cerca de la Plaza Constitución. Lo cierto es que el 80% de los vecinos, según una encuesta llevada a cabo por la Cámara de Comercio de Alsina, estaban en contra del proyecto, el cual veían como una amenaza a las ventas y al impacto ambiental. “El Metrobus iba a perjudicar a todo el centro comercial de Alsina. Hace un tiempo intentaron hacer la avenida mano única y tampoco se pudo. Acá peleamos mucho por suerte nos escucharon”, argumentó Jorge Khoury, vecino del barrio. Pareciera ser que finalmente los vecinos de Alsina ganaron “su batalla”, ayudados por las dificultades económicas que representa expropiar cinco manzanas para la construcción de los carriles exclusivos, ubicados sobre la Avenida Remedios de Escalada. Además, hay varios puntos estructurales en contra como el ancho de las calles, el levantamiento de un espacio verde y el traslado a otros barrios de monumentos históricos.

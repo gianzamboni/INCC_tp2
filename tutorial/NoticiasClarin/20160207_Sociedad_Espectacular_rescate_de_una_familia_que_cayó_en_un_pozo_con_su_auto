@@ -1,0 +1,18 @@
+
+Un buen susto se llevó una familia que circulaba con su auto por  Trujillo, en Perú, cuando no pudieron esquivar un enorme agujero en el medio de la calle y cayeron a un  pozo de varios metros de profundidad.   En las imágenes publicadas en Youtube por la Municipalidad de Trujillo se observa al auto hundido en el pozo y a un grupo de vecinos intentando rescatar al matrimonio y a su hija de dos años.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Como señaló la Municipalidad Provincial de Trujillo, "los transeúntes y moradores" consiguieron prestar ayuda a las personas atrapadas, rescatándolos "indemnes pero muy asustados". El pozo apareció después de varias jornadas con intensas lluvias. El matrimonio y su hija fueron conducidos a los servicios médicos una vez lograron ser rescatados.

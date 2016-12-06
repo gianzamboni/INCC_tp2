@@ -1,0 +1,26 @@
+
+El Presidente de la Nación Mauricio Macri recibió esta tarde el alta médica luego de someterse a una artroscopía en su rodilla derecha, tras haber sufrido un esguince cuando jugaba al pádel el lunes en la Quinta de Olivos. El Jefe de Estado se retiró por sus medios -caminando- del Sanatorio Agote rumbo a Olivos, acompañado por su mujer Juliana Awada. La cirugía quedó a cargo del especialista Jorge Batista, subdirector del departamento médico de Boca y duró alrededor de 25 minutos. "Le extrajeron un pedacito del menisco que le obstruía la rodilla.De acá está se va a Olivos. Va a salir caminando", anunció el vocero presidencial Iván Pavlosvky. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_ddcnjx5o",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_ddcnjx5o"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_ddcnjx5o").after(scriptEl);
+ Al mandatario se le practicó una artroscopía diagnóstica y terapéutica en la rodilla derecha. Se le detectó una ruptura en flap del menisco interno y se le realizó una menisectomía parcial interna y un toilette artroscópico, se detalla en el estudio firmado por Batista. 
+
+Pavlovsky señaló que en principio el Presidente no modificará su agenda, pero no dio por seguro que el mandatario viaje a los Estados Unidos para presenciar el domingo la final de la Copa América. "La recuperación es sencilla, la normal en una operación de meniscos", añadió el vocero. 
+
+Hasta el quirófano el Presidente había sido acompañado por su padre, quien habló a la salida del Sanatorio Agote.  "Hay Mauricio por siglos", fue la frase de Franco Macri al retirarse del sanatorio a donde llegó para acompañar al Presidente antes de ingresar al quirófano.
+
+Mauricio Macri llegó a las 11.20 al Sanatorio Agote, en Recoleta, para ser sometido a una artroscopía. El mandatario llegó al Sanatorio luego del acto de presentación del proyecto de reforma electoral en el Centro Cultural Kirchner. Unos minutos después arribó Batista. Mirá también: Antes de la operación de rodilla, Macri presentó el proyecto de reforma electoral en el CCK La zona estuvo totalmente vallada y con una fuerte presencia de efectivos de la Policía Federal. Apenas algunos vecinos se asomaron a sus balcones para presenciar la llegada de Macri, sorprendidos también por la enorme cantidad de prensa. Detrás del Presidente llegó su padre Franco Macri, quien se retiró minutos después, con su pulgar arriba, dijo ante los medios. "Está todo muy bien", afirmó el empresario.

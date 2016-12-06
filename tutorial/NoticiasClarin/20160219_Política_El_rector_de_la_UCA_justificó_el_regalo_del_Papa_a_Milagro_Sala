@@ -1,0 +1,54 @@
+
+El rector de la Universidad Católica Argentina, monseñor Víctor Fernández, aclaró hoy las razones por las cuales Francisco le envió un rosario a la detenida líder de la agrupación Tupac Amaru, Milagro Sala.  En una extensa columna de opinión publicada en el diario La Nación, titulada "Razones del rosario del Papa a Milagro Sala", el teólogo de confianza del Sumo Pontífice salió al cruce de la controversia generada entre la dirigente K y el Vaticano.
+
+En el texto, Fernández revela que Milagro Sala le escribió una carta a Francisco, desde su lugar de detención en la provincia de Jujuy, ya que se conocen personalmente cuando la líder social lo visitó el año pasado en el Vaticano. "Pero él optó por mandar sólo un rosario, que es un instrumento para orar, sin decir más palabras que implicaran emitir una opinión o interferir en un proceso judicial que no deja de ser formalmente dudoso en su gestación", explicó el arzobispo titular de Tiburnia. Leé también: El extracto de “Pibes Villeros”, la cooperativa de Milagro Sala que se quedó con millones para viviendas Al respecto, el rector de la UCA indicó que "es coherente que el Papa haya enviado un rosario a una presa que todavía no está en condiciones de recibir una condena, porque de hecho hizo lo mismo con culpables ya condenados por delitos muy graves". Además recordó que visitó cárceles y repartió rosarios "en lugares repletos de criminales peligrosos".
+
+Para el rector, "pretender prohibirle este gesto al Papa muestra un deseo de tensar la cuerda, que no es precisamente una ayuda a la pacificación de la Argentina" y agregó que no se sabe "si dentro de unos meses una justicia independiente encontrará culpable a Sala de crímenes más o menos graves".  En la columna, el propio Fernández cuenta que recibió comentarios de gente "con mirada de odio" por la calle, que le aseveró: "Dígale a ese papa que se calle la boca, porque se está equivocando muy mal, es un irresponsable". El mismo repudio se vio reflejado en las redes sociales, preferentemente, en Twitter.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/AndresZiegler/status/700694441305239552",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70069444130523955")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/PalermoTito/status/700676237744672768",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70067623774467276")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/AlejandroPRB/status/700662847420784641",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70066284742078464")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Por último, el rector de la Universidad Católica (UCA) expresó su deseo de que "quienes se declaran católicos se dejen interpelar por estas actitudes del Papa, en este año dedicado a la misericordia".

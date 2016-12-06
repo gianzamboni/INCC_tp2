@@ -1,0 +1,57 @@
+
+Es jueves por la noche y no queda claro si la India está convulsionada debido al festival masivo por la paz que comienza este fin de semana -y donde habrá dos mil argentinos- o si la India es así de convulsionada normalmente. Nueva Delhi es una mezcla de Once con el Camino de Cintura, pero multiplicado por un millón. Imaginen esto: el bar donde leen el diario o el teléfono esta mañana, pero alrededor de su mesa, no dos, sino 25 personas. El colectivo que tomaron para ir al trabajo, pero arriba, no 40, sino 80 personas. La peluquería, no con tres clientes por delante, sino con 15. El caos en la tierra. 
+
+
+Dos postales de Nueva Delhi  Parejas que se casan y parientes vestidos en todas las gamas del color, bailes devocionales en las veredas, música de tambores, monos que corren por los techos, ardillas que trepan entre los cables, basura y vacas, hombres y niños que piden limosna, un ciego que camina por en medio de los autos y los autos que lo esquivan como si nada, bocinas frenéticas y este cronista perdido en la locura. Parece contradictorio que en este marasmo anide alguna forma de paz. Pero estamos en la meca de la meditación y de la búsqueda del ser interior. Llegar a la India para meditar equivale a ser artista y exponer en el MOMA o ser futbolista y jugar en Barcelona. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Eso sienten los argentinos que conversan con Clarín. Están pacificados, emocionados, cantan mantras. Si el tráfico atasca el auto que los traslada, asumen que pronto pasará algo milagroso y el vehículo volverá a avanzar. Dicen que pasan cosas increíbles. Son veganos, ríen, se sienten plenos. Algunos vienen de Bangalore, la ciudad donde nació este movimiento global laico conocido como El Arte de Vivir hace 35 años. Han pasado días de dieta ayurvédica y ahora llegaron a Delhi, esta brutalidad, para la fiesta de la paz convocada por el Sri Sri Ravi Shankar, el líder espiritual de todos ellos y de los 4 millones de personas que vinieron al festival. Están exultantes. La ciudad, su rutilante movimiento, los tiene sin cuidado.
+
+
+Participantes de la meditación masiva en Nueva Delhi Este cronista los mira impactado. Intenta comprender qué han descubierto para estar así, en este aparente estado de felicidad. Dicen que todo es mejor si se medita, pero no hacen alharaca, no quieren convencer a nadie. Proponen dejarse llevar. Pero es imposible bajar la guardia en Delhi. Delhi no te suelta, Delhi te pide que la mires en todas las formas que encarna: un linyera que parece muerto, una mujer negra que venera a Alá, un notario vaya uno a saber de qué que atiende a sus clientes en una vereda y toma nota con una vieja máquina de escribir, un curso de computación que se enseña en la vereda también con máquinas de escribir, tipos que te agarran de la ropa y te quieren llevar a algún lugar, un chico que te araña porque le negás limosna. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+
+Todo eso sucede en el ecosistema de Delhi, donde resulta imposible abstraerse a menos que uno haya sido convocado por este movimiento reunido para celebrar la paz. ¿Qué saben? ¿Qué vieron? De eso se trata el evento que comienza hoy y habrá que vivir estos tres días para poder saberlo.  Gonzalo Sánchez (Desde Nueva Delhi)

@@ -1,0 +1,68 @@
+
+El ex secretario de Obras Públicas kirchnerista José López fue procesado hoy el juez Daniel Rafecas en la causa por "enriquecimiento ilícito" y se le trabó un embargo de sus bienes por 200 millones de pesos. Mirá también: A lo "Lopecito", guardaba los dólares en baldes y los escondía en las paredes El magistrado, no obstante, mantuvo la competencia, es decir se quedó con la causa pese a un pedido del fiscal Federico Delgado para que le remitiera el expediente a su colega Julián Ercolini. Mirá también: La Carta Abierta más cerrada Además, aceptó a la Oficina Anticorrupción como querellante,  Rafecas consideró que López no justificó la posesión en su patrimonio de las sumas de casi 9 millones de dólares, 153.000 euros, 59.000 pesos y dos relojes Rolex que les fueran secuestrados el 14 de junio ppdo. en la localidad de General Rodríguez, pcia. de Buenos Aires. Por otra parte, según el portal CIJ, el juez ordenó extraer copias del procesamiento y poner a disposición del Juez Ercolini y del Fiscal Pollicita la totalidad de las actuaciones de la causa, para que, en paralelo con este proceso por enriquecimiento ilícito, se las tenga en cuenta en la investigación respecto de López por posibles delitos contra la administración desde su rol de Secretario de Obras Públicas, en el marco de la megacausa donde se investiga una posible asociación ilícita por parte de empresarios de la obra pública y funcionarios del gobierno anterior (2003-2015). El Magistrado defendió así la autonomía del enriquecimiento ilícito (y rechazó su posible unificación con la causa del Dr. Ercolini) con vistas a una más pronta elevación a juicio, que derive en una eventual condena y en la recuperación del dinero en favor del Estado, cuestión ésta que se ha convertido en un reclamo social central en materia de lucha contra la corrupción. Asimismo, con relación a la posible unificación con la causa “Rovella y Carranza” del Juzgado Federal N° 5, el Dr. Rafecas compartió el planteo del Fiscal Delgado en cuanto a la posibilidad de que dicha causa resulte conexa con la megacausa “Kirchner” a cargo del Dr. Ercolini, pero entendió que quien debe así definirlo es el Dr. Pollicita, quien resulta ser el Fiscal tanto en uno como en otro proceso. Mirá también: Habló Milagro Sala: "Yo no soy López, no he robado nada" Por otra parte, de las 350 páginas que integran la resolución, más de la mitad están dedicadas a detallar las innumerables medidas de prueba que se llevaron adelante entre 2008 y hasta el presente, a lo largo de la cual se contó con la participación activa y/o colaboración de la Fiscalía Federal interviniente, de la Fiscalía de Investigaciones Administrativas, de la Oficina Anticorrupción, del Cuerpo de Peritos Tasadores de la Corte Suprema, del Departamento de Delitos Económicos de la Prefectura Naval, del Banco Central, del Mercado de Valores, de la ANSES, de la AFIP, del Ministerio de Economía, de la Dirección Nacional de Migraciones, y de prácticamente todos los organismos nacionales y provinciales dedicados al registro de bienes, así como la totalidad de entidades que forman parte del sistema financiero argentino, con más las empresas telefónicas y de otros servicios domiciliarios, empresas aéreas, etc., tratándose de una investigación exhaustiva sobre el período que fue objeto de requerimiento fiscal (2003-2008), ampliada incluso a su grupo familiar, con 23 cuerpos de actuaciones y dcoumentación reservada y que, sin embargo, no arrojó evidencias que permitiesen vislumbrar la detentación, por parte del imputado López, de los montos que le fueran secuestrados el día 14 de junio pasado. 
+
+
+Finalmente, el Dr. Rafecas aceptó a la Oficina Anticorrupción como parte querellante en la causa, haciendo lugar de este modo a un pedido en tal sentido presentado en el día de ayer
+
+
+
+
+
+var act_9e6 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_9e6 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_9e6.setTitle('Finalmente, el Dr. Rafecas aceptó a la Oficina Anticorrupción como parte querellante en la causa, haciendo lugar de este modo a un pedido en tal sentido presentado en el día de ayer');
+act_9e6.setSubtitle('CORRUPCIÓN K'); 
+act_9e6.setLinkBack('http://www.clarin.com/politica/Procesaron-Lopez-enriquecimiento-embargaron-millones_0_1604839538.html');
+act_9e6.setDescription('El magistrado se quedó con la causa pese a un pedido del fiscal Delgado para que le remita el expediente a su colega Ercolini. Y aceptó a la Oficina Anticorrupción como querellante, ');
+act_9e6.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Procesaron-Lopez-enriquecimiento-embargaron-millones_0_1604839538.html');
+
+var showShareBarUI_params_9e6=
+{ 
+containerID: 'shareQuote_9e6',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_9e6,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_9e6
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_9e6);
+ Mirá también: Aníbal tildó de "inútil" a Vidal y le respondieron: "Está nervioso, tiene miedo de ir preso"

@@ -1,0 +1,50 @@
+
+Entrevistada por Alejandro Fantino en la segunda emisión de su programa Animales Sueltos, Elisa Carrió apuntó contra Daniel Angelici y Cristina Kirchner, y volvió a hacer hincapié en sus polémicas declaraciones sobre el Papa Francisco. Tras ser consultada sobre el caso Petrobras y las sospechas en el accionar del ex presidente Lula Da Silva, Carrió realizó una analogía con los casos Repsol y Hotesur, causas que definió como estancadas a causa del accionar directo del presidente de Boca Juniors.  "Yo me estoy ocupando de esto y me voy a seguir ocupando aunque Angelici quiera impedir que haya justicia. Estoy hablando del presidente de Boca Juniors, quien interfiere en la justicia con el consentimiento del Presidente. Angelici, no maneje la Justicia Federal porque voy a ir contra usted, no mantenga a Di Santo como jefe de la Federal, porque ensució el crimen de Nisman. Yo tengo una relación excepcional con el presidente Macri, pero nunca voy a acordar con nadie la impunidad ni el manejo político de la búsqueda de la Justicia", declaró. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Además, la diputada se encargó de defender tanto a Guillermo Dietrich como a Susana Malcorra, actuales funcionarios del Gobierno apuntados por su pasado como directores de empresas privadas. "El hecho de tener dinero no te hace de por sí un antipatriota, porque sino la primer antipatria sería Cristina, que tiene millones. No se necesita ser pobre para ser patriota. Ser buena o mala persona no depende de los orígenes ni de sus trabajos anteriores, sino de su conducta en dichos trabajos. Vos podés ser un gran gerente de una empresa y un día decidir poner esos conocimientos al servicio del Estado". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Sobre sus recientes dichos sobre el Papa Francisco, a quien tildó de tener predilección por gente menor y mediocre, refiriéndose a la relación de Bergoglio con Guillermo Moreno, Milagro Sala y Omar "Caballo" Suárez (ex director del SOMU), entre otros, Carrió reavivó la polémica."No quiero habla más del Papa. No crean que el Papa es ingenuo, conoce más de la país y del peronismo que todos nosotros". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Y continuó: "Yo lo digo como fiel, si él me dice que del mal hay que alejarse, ¿por qué se acerca? Si él me dice que el mal es la corrupción, ¿por qué se saca fotos con corruptos?  Si quiere la paz del mundo y se se saca fotos con Moreno, que pone un revólver sobre  la mesa, yo como fiel no lo entiendo. Quiero un Papa pastor y no político, que demuestre con sus actos lo que promulga con la palabra", finalizó.

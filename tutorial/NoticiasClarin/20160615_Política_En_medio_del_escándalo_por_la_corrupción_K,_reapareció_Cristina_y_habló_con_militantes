@@ -1,0 +1,18 @@
+
+Luego de la escandalosa detención del ex secretario de Obras Públicas kirchnerista José López, mientras intentaba esconder casi nueve millones de dólares en un convento del GBA, la ex presidenta de la Nación Cristina Kirchner reapareció en un video casero filmado por militantes que la esperaron en El Calafate para dialogar y sacarse fotos. No hizo referencia alguna al arresto de López. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Schoklender se acordó de Kirchner: "Murió el jefe de la banda y cada uno siguió robando"  “Bueno, bueno, tranqui, tranqui”, les dijo Cristina al puñado de militantes que la esperaban, mientras descendía del vehículo en el que se movilizaba. Instantes después, dialogó con ellos durante algunos minutos y se sacó fotos. Mirá también: Piden determinar si el dinero de López tiene relación con De Vido y que se lo afecte al embargo por Once  “¿Cómo está la gente en Mar del Plata? Me dijeron que mal. Y escuchame un cachito, lo que es importante, ¿como está recibiendo la gente más humilde los problemas?, preguntó. Y agregó. “Esto es miseria planificada. Son las palabras de Rodolfo Walsh en la carta famosa a las juntas militares, donde después de mencionar las cuestiones de derechos humanos entra decididamente en la cuestión económica y habla de miseria planificada”. Mirá también: El llamado al 911 que alertó sobre la presencia de López en el convento  Luego, para cerrar la charla, Cristina Kirchner les preguntó a los militantes si habían visitado el glaciar Perito Moreno.

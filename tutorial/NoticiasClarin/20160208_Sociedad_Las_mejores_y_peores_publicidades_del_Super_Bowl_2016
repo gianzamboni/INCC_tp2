@@ -1,0 +1,878 @@
+
+El año pasado fueron 114 millones de espectadores. Este año, casi 120.000.000. La tanda de la final del Super Bowl, en su 50 aniversario, cotizó a US$ 167.000 el segundo y fue el momento más preciado por las marcas para situar sus spots y llegar a la audiencia a nivel mundial. Pero, a tanta exposición en directo igual número de críticas en las redes sociales. Desde el absurdo de un “cachorromonobebé” para promocionar una bebida a un parto inducido por un feto que se desespera por comer unos Doritos, las publicidades del Super Bowl que más llamaron la atención este año dejaron a un lado los mensajes conmovedores y optaron por el humor bizarro para ganarse los comentarios, buenos y malos, de la gente.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160208_0018 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160208_0018_249";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Super Bowl 2016',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/08/VID/CLAVID20160208_0018/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Super-Bowl_CLAVID20160208_0018_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160208_0018',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/08/VID/CLAVID20160208_0018/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Super-Bowl_3_1519078095.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160208_0018.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160208_0018){
+            //getBBTStats_CLAVID20160208_0018();
+            varModIdReprod_CLAVID20160208_0018 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+La bebida Kickstart de Mountain Dew, que combina jugo y cafeína. Leé también: El aviso hot que censuraron de la tanda del Super Bowl En la noche más grande la liga de fútbol americano y la publicidad, los autos marcaron la presencia de siempre y Audi hizo un buen trabajo mostrando a un astronauta retirado y deprimido que recupera la alegría de vivir manejando un Audi R8 con su hijo y David Bowie de acompañante desde la banda sonora. Pero poco se dijo en las redes de este comercial que muchos catalogaron como "bueno, pero nada más". En cambio, Hyundai -que optó por el humor y subió sus avisos a YouTube antes del SuperBowl- se ganó un lugar entre los mejores, según las menciones que tuvo en Twitter: 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160208_0010 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160208_0010_10d";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Super Bowl 2016',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/08/VID/CLAVID20160208_0010/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Super-Bowl_CLAVID20160208_0010_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160208_0010',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/08/VID/CLAVID20160208_0010/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Super-Bowl_3_1519078087.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160208_0010.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160208_0010){
+            //getBBTStats_CLAVID20160208_0010();
+            varModIdReprod_CLAVID20160208_0010 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+"Ryanville", con Ryan Reynolds en el papel de todos los hombres de una ciudad y poniendo a prueba el sistema de frenado frente a peatones del Hyundai Elantra.  
+
+ Un padre sigue los pasos de la cita de su hija con el Car Finder de su Hyundai Genesis.  La cadena CBS cobró unos 5 millones de dólares por cada 30 segundos de spot,  y Honda también pagó su espacio en el Super Bowl pese a que, como Hyundai y otra marcas, ya había subido el anuncio en su canal del YouTube. Con unas ovejas cantando Queen, tiene casi 5 millones de reproducciones y es uno de los que más se compartió el domingo en Facebook: 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160208_0011 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160208_0011_257";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Super Bowl 2016',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/08/VID/CLAVID20160208_0011/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Super-Bowl_CLAVID20160208_0011_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160208_0011',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/08/VID/CLAVID20160208_0011/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Super-Bowl_3_1519078088.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160208_0011.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160208_0011){
+            //getBBTStats_CLAVID20160208_0011();
+            varModIdReprod_CLAVID20160208_0011 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+También leé: Ya empezaron a estrenar los avisos del SuperBowl El de Doritos fue el anuncio más "raro" de la tanda del Super Bowl y, a la vez, dividió Twitter entre quienes lo consideraron "el mejor de la noche" o "el peor de Doritos en la historia de sus comerciales": 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160208_0014 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160208_0014_1d3";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Super Bowl 2016',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/08/VID/CLAVID20160208_0014/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Super-Bowl_CLAVID20160208_0014_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160208_0014',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/08/VID/CLAVID20160208_0014/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Super-Bowl_3_1519078091.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160208_0014.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160208_0014){
+            //getBBTStats_CLAVID20160208_0014();
+            varModIdReprod_CLAVID20160208_0014 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+En general, los anunciantes fueron a lo seguro con celebridades como Anthony Hopkins (TurboTax), Alec Baldwin (Amazon) o Liam Neeson (LG). Pero Snickers se destacó en la redes por haber elegido a Willem Dafoe para que se convierta en Marilyn Monroe después de darle un mordisco al chocolate: 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160208_0015 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160208_0015_365";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Super Bowl 2016',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/08/VID/CLAVID20160208_0015/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Super-Bowl_CLAVID20160208_0015_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160208_0015',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/08/VID/CLAVID20160208_0015/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Super-Bowl_3_1519078092.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160208_0015.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160208_0015){
+            //getBBTStats_CLAVID20160208_0015();
+            varModIdReprod_CLAVID20160208_0015 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+Y, como detectó el ojo crítico de los usuarios, hubo dos errores o "ideas desafortunadas" de los creativos que llevaron a dos farmacéuticas al podio de los peores anuncios del Super Bowl. Uno promocionaba la medicación contra la diarrea, Xifaxan, -con un personaje con forma de intestino que ocupaba una butaca en el estadio-:  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160208_0017 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160208_0017_f40";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Super Bowl 2016',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/08/VID/CLAVID20160208_0017/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Super-Bowl_CLAVID20160208_0017_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160208_0017',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/08/VID/CLAVID20160208_0017/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Super-Bowl_3_1519078094.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160208_0017.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160208_0017){
+            //getBBTStats_CLAVID20160208_0017();
+            varModIdReprod_CLAVID20160208_0017 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+Otra publicidad intentaba concientizar sobre el estreñimiento producido por los analgésicos. Mala jugada: 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160208_0019 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160208_0019_c74";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Super Bowl 2016',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/08/VID/CLAVID20160208_0019/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Super-Bowl_CLAVID20160208_0019_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160208_0019',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/08/VID/CLAVID20160208_0019/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Super-Bowl_3_1519078096.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160208_0019.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160208_0019){
+            //getBBTStats_CLAVID20160208_0019();
+            varModIdReprod_CLAVID20160208_0019 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+

@@ -1,0 +1,18 @@
+
+El fiscal federal Carlos Rívolo -quien está a cargo de la causa del vuelo del escándalo- habló hoy a la mañana con la prensa y aseguró que lo que sucedió con Victoria Xipolitakis y los dos pilotos de Aerolíneas Argentinas fue un delito y que si la Cámara de Casación toma una resolución pronto, el juicio oral podría ser a fin de año. Ayer, la Cámara Federal porteña rechazó una apelación de la modelo y confirmó su procesamiento en la causa en la que también están procesados los pilotos.  “El delito es la puesta en peligro de una aeronave a sabiendas y tiene pena de 2 a 8 años. No se necesita un accidente, ya se consuma el delito con la puesta en peligro”, explicó Rívolo y luego agregó: “Lo que se ve en las imagenes es de una inseguridad tremenda. Yo creo que si ellos bajaban y lo contaban nadie les hubiese creído, porque justamente lo que pasó es increíble”. También leé: "Para el fiscal, Xipolitakis accionó la palanca del avión" Sin embargo, para Rívolo no habrá condenas: “Para mí no quedará nadie preso. El fiscal del juicio, que no seré yo, tendrá que evaluar si Victoria Xipolitakis conocía del riesgo que estaba ocasionando. Es como si un cirujano te dijera 'cortá acá' y vos lo hacés: estás poniendo en riesgo la vida del paciente”. Luego Rívolo recordó lo que pasó con el accidente de Lapa: “No quiero mezclar las cosas, pero en el avión de Lapa por desatenciones murieron 65 personas”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El fiscal habló en Radio La Red, donde le preguntaron si había existido abuso sexual por parte de los pilotos contra la vedette: “En la causa no apareció nada sobre abuso, en el video no se ve nada, sólo una conducta inapropiada con charlas subidas de tono, pero nada más que eso. Lo más grave es el manejo técnico del avión, donde se muestra la inseguridad que da ver a los pilotos sacándose fotos de espalda a la trompa del avión”. Mirá también: Ottavis confirmó que se casa con Vicky y dijo: "Máximo está un poco enojado" El hecho que dio origen a esta causa ocurrió el 22 de junio en el vuelo 2708 de Austral, que iba de Aeroparque a Rosario. Xipolitakis viajó en la cabina invitada por Zocchi, y filmó el viaje con su celular. Además del clima distendido y alejado de los procedimientos de seguridad, lo más impactante de esas imágenes es cuando la vedette apoya su mano en el acelerador y "ayuda" al comandante a despegar la aeronave.

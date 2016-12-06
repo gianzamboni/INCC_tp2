@@ -1,0 +1,22 @@
+
+Hace 13 años, Josefina Goñi -diseñadora de indumentaria- y Sofía Piqué -abogada- eran dos desconocidas que viajaban por Bolivia sin saber que una patineta uniría sus vidas, sus sueños y los de cientos de chicos de Argentina, Bangladesh y próximamente Etiopía. Se hicieron amigas durante esas vacaciones y hace dos años gestaron el proyecto solidario Deslizate, a través del cual enseñan a fabricar tablas de skate a chicos de bajos recursos. Ahora acaban de lanzar una campaña a través de la plataforma Ideame (que financia proyectos sociales a través del crowdfunding) para poder llevarlo al país africano. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Jose andaba en skate desde chica, cuando veraneaba en Mar del Plata, un día tuvo ganas de volver a patinar y me invitó. Ibamos a la zona del río, en la Costanera, y después de varias tablas que terminaron hundidas en el agua -salían volando al hacer alguna prueba- a ella se le ocurrió construir una por su cuenta", recuerda Sofía.  En el estudio de arquitectura de los papás de Jose nació el primer diseño, "imitando una tabla de surf con cuatro ruedas, como eran las tablas old school. Ahí nos dimos cuenta que con la capacidad de ingenio de una y la de gestión de la otra podíamos enseñarles a otros a construir las propias", cuenta su creadora. Así fue como, sin recursos, presentaron el proyecto para desarrollarlo con los chicos que viven en la villa 1-11-14. A ese primer taller le siguió otro en La Cava de San Isidro, en Munro, en el Barrio Piletones, en Ushuaia, en Río Grande y en Tolhuin, en Tierra del Fuego.
+
+"El año pasado unos 200 chicos hicieron su skate, muchos de ellos ahora van patinando a la escuela, lo cual nos hace inmensamente felices. Y para este año queremos llegar a otros 400. Nosotras no donamos skates sino que buscamos que los chicos construyan el propio, se vinculen con herramientas y sientan que lo pueden hacer con sus propias manos", dice Josefina. "Y a la vez que sea una oportunidad de crear lazos en comunidad", agrega Sofía. 
+
+Las chicas recibieron el apoyo del Gobierno Porteño pero como no querían depender sólo de fondos públicos se les ocurrió otra idea paralela: lanzar una marca de skates y fabricar cinco modelos únicos hechos a mano. "Cuando pensamos en posibles maderas para hacerlo queríamos que fuera una nacional. Investigamos y descubrimos que en la provincia de Tierra del Fuego -que también apoyó el proyecto- podíamos contar con madera recuperada de bosques de lenga reforestados en el fin del mundo. "La lenga es flexible, liviana y muy resistente. Además es autóctona. Los aserraderos fueguinos se convirtieron en aliados de este proyecto y nos donan los descartes", cuentan las chicas. Las tablas, hechas a mano y con diseños únicos, se pueden comprar a través de la tienda online de Good People y en Soul Surfer de Perú Beach, en Acassuso. "Donde más vendemos es a través de Mercado Libre, hay desde Penny Board a Long Board. Ninguna es igual a la otra -todas salen $2.500- y tienen un fin social y de impacto ambiental porque además de ser ecológicas, con la venta financiamos los talleres de armado", explica Sofía.  Con el fin de expandir la propuesta, las chicas se unieron a un equipo de patinadores profesionales y a Megabi Skate (muh-gah-be), un proyecto para jóvenes y niños de muy bajos recursos de Etiopía, que busca a través de lecciones de skate, música  y programas después de clases mostrarles que hay una salida posible. Incluso lograron el primer equipo femenino de skate de Africa del este.  Junto a ellos el próximo desafío es llegar a esta comunidad, que dependen exclusivamente de donaciones de tablas, y llevarles los talleres de capacitación para que también ellos aprendan a fabricar las suyas. Para viajar, el equipo de Deslizate necesita recaudar $75.000. Quienes quieran colaborar pueden acceder directamente a su campaña en Ideame: www.idea.me/deslizate o entrar a www.deslizate.org y conocer más sobre el proyecto solidario. 

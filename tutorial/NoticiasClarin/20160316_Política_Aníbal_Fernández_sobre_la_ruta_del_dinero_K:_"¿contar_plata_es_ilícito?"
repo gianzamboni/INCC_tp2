@@ -1,0 +1,81 @@
+
+Tras el polémico paso de Guillermo Moreno por Animales Sueltos, Alejandro Fantino recibió en su mesa de invitados a otro referente de la era kirchnerista, el ex senador y Jefe de Gabinete Aníbal Fernández. Alejado de los medios de comunicación, Fernández reapareció y  aprovechó la ocasión para responder acusaciones y ofrecer su particular punto de vista sobre las sospechas de corrupción en la era K y su vinculación a la mafia de la efedrina, entre otras temas. "Yo tengo que trabajar para vivir. Crecí como pude pero no me da como para no trabajar."  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Cristina sería incapaz de robar un peso, de la gente que la rodea no puedo decir nada porque no los conozco" 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"A Lázaro Báez lo vi una sola vez, no sé de que vive, no puedo opinar sobre temas que no conozco, ¿contar plata es ilícito en el país?" 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"No me importa lo que diga Lanatta, yo no tengo nada que ver con esa causa. A esos tipos les pagaron para que digan determinadas cosas" 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Bossio está en el peor de los lugares, porque los que hoy están recibiendo su voto y su quórum, tampoco lo quieren. Es el mismo caso que Cobos" 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

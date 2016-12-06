@@ -1,0 +1,18 @@
+
+Tres sobrevivientes de la Compañía de Monte Ramón Rosa Jiménez del ERP (Tucumán) denunciaron -vestidos de uniforme- la absolución de los militares culpables de asesinar a sus compañeros en lo que se llamó la masacre de Capilla del Rosario. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ A través de una entrevista en el programa “Resumen Latinoamericano”, Mario “Indio” Paz, Martín Jaime y Ángel Gutiérrez, advirtieron que la decisión de la Cámara de Casación de absolver recientemente a los militares condenados a prisión perpetua Carlos del Valle Carrizo Salvadores, Mario Nakagama, y Jorge Acosta, marca “una grave involución en lo que hace a abrir las puertas de la impunidad para quienes participaron en múltiples asesinatos”.  Este video cobra relevancia tras la decisión del Tribunal Oral Federal 1 de La Plata quien concedió el beneficio del arresto domiciliario al represor y condenado por crímenes de lesa humanidad Miguel Etchecolatz. Mirá también: Scioli le contestó a Macri: "Los trabajadores no ponen palos, ponen el hombro"  El ex policía Etchecolatz cumple varias condenas a reclusión perpetua por delitos de lesa humanidad y genocidio cometidos durante la última dictadura militar y es el principal sospechoso de la desaparición del testigo Jorge Julio López en 2006: por todo esto, permanecerá detenido en el Hospital Penitenciario de Ezeiza donde el represor de 87 años realiza una huelga de hambre. Mirá también: Urtubey se junta con gobernadores peronistas, en una apuesta al peronismo post Cristina Kirchner  En el video de “Resumen Latinoamericano”, los tres hombres se mostraron vestidos de fajina y reivindicando el accionar del ERP en los años ‘70: los tres sobrevivientes de lo que se llamó la Compañía de Monte “Ramón Rosa Jiménez”, del Ejército Revolucionario del Pueblo, denunciaron a tres jefes militares que participaron, como ejecutores de la Masacre de Capilla del Rosario (Catamarca) en agosto de 1974, donde fueron asesinados 16 guerrilleros, 14 de ellos después de haberse rendido. Mirá también: Revelan nuevas amenazas a Vidal: dejaron un cartucho de escopeta en su garaje  Los participantes del programa televisivo justificaron el uso del uniforme en función de “reivindicar la memoria de lucha” que los llevó a comprometerse “como tantos jóvenes de aquellos años” en la pelea por una sociedad “sin explotadores ni explotados”.  La Masacre de Capilla del Rosario aconteció tras el fracaso de la ocupación por parte del ERP del Regimiento 17 de Infantería Aerotransportada de Catamarca, en la que participaron 47 militantes de la Compañía de Monte que llegaron desde Tucumán, donde estaban asentados y luchando contra el ejército del gobierno constitucional de Isabel Perón.  

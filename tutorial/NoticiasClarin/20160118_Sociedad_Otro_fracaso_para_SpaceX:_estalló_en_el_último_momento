@@ -1,0 +1,133 @@
+
+La sociedad SpaceX fracasó este domingo al tratar de hacer aterrizar de forma controlada el cohete Falcon 9 sobre una barcaza tras el lanzamiento del satélite franco-estadounidense Jason 3 de observación oceanográfica.
+
+“La primera etapa (del cohete) llegó hasta la barcaza, pero parece que el aterrizaje fue brutal”, señaló la empresa en un mensaje de Twitter. La operación de aterrizaje no pudo ser transmitida en directo debido a que la barcaza estaba ubicada muy lejos de la costa, explicó SpaceX.        Se trata del cuarto intento de posar la primera parte del cohete haciéndolo aterrizar en una plataforma en el mar. “Bueno ¡al menos los pedazos fueron más grandes esta vez!”, escribió Elon Musk, el director ejecutivo de la empresa californiana, en su cuenta de Twitter.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160118_0007 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160118_0007_a3d";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'SpaceX no logra que su cohete aterrice sin daños sobre una plataforma móvil en el Pacífico',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/18/VID/CLAVID20160118_0007/video_web.flv",
+        image: "http://images.clarin.com/ciencia/SpaceX-cohete-aterrice-plataforma-Pacifico_CLAVID20160118_0007_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160118_0007',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/18/VID/CLAVID20160118_0007/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/44/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/ciencia/SpaceX-cohete-aterrice-plataforma-Pacifico_3_1506479344.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160118_0007.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160118_0007){
+            //getBBTStats_CLAVID20160118_0007();
+            varModIdReprod_CLAVID20160118_0007 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+El 22 de diciembre la sociedad fundada por el millonario había conseguido hacer aterrizar el Falcon 9 cerca de Cabo Cañaveral, 11 minutos después de su lanzamiento y tras colocar 11 satélites en órbita. SpaceX considera fundamental recuperar el primer cuerpo del cohete pues permitirá reutilizarlo y ahorrar dinero, ya que los componentes de estos aparatos cuestan millones de dólares y suelen terminar como desechos tras cada lanzamiento. A pesar de que los aterrizajes en el mar son más complicados, la empresa busca perfeccionar esta técnica porque es “necesaria para misiones de alta velocidad”, indicó Musk en Twitter. Tras el fracaso añadió: “Definitivamente es más difícil aterrizar sobre un barco”.  
+
+El cohete Falcon 9 despegó en medio de la bruma desde su plataforma de lanzamiento en la base aérea Vandengerg en California. La primera parte del cohete se separó de la segunda, que transporta al satélite, 2 minutos y 37 segundos después del despegue. Luego comenzó a reorientarse para comenzar su descenso hacia la Tierra. Mirá también: Así cayó al mar una nave espacial Para realizar esa maniobra, el cohete tuvo que volver a encender sus motores en varias oportunidades en retroceso para frenar su velocidad.    Pero al final, el aterrizaje no se frustró ni por la velocidad del cohete ni por turbulencias en el mar, sino porque una de sus patas no se desplegó como estaba previsto. “Así que se volteó luego de aterrizar”, precisó Musk. 
+
+El satélite Jason 3 es fruto de la cooperación entre el Centro Nacional de Estudios Espaciales (CNES), de la Organización Europea para la Explotación de Satélites Meteorológicos (EUMETSAT), la Nasa y la Agencia estadounidense Oceánica y Atmosférica (NOAA). El aparato evolucionará en una órbita de 1.336 kilómetros de altitud y medirá la elevación de los océanos con una precisión inferior a cuatro centímetros. El lanzamiento de este domingo es el segundo realizado por cohete SpaceX desde la explosión de uno de sus cohetes de lanzamiento en junio pasado poco después de salir de Cabo Cañaveral. Fuente: AFP

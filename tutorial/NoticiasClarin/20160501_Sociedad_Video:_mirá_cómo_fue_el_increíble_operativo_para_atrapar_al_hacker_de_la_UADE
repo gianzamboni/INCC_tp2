@@ -1,0 +1,152 @@
+
+Primero, cortaron la luz de la manzana de avenida Juan de Garay al 3200, hicieron volar dos drones para evitar una posible de fuga y pusieron bajo vigilancia las redes wi-fi para que no destruyera la información. Todas esas medidas fueron necesarias paracapturar en su casa al hacker que cambiaba las notas de los alumnos de la Universidad Argentina de la Empresa (UADE). 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ El sospechoso, quien ya fue puesto a disposición de la Justicia pero que no está detenido, era, justamente, alumno de esa universidad: cursa tercer año de la carrera de Ingeniería Informática. Tiene solo 21 años. Mirá también: “Esto es un disparate”, le dijo el hacker a su abogado  Fuentes del caso informaron a Clarín que todo comenzó cuando un profesor de la UADE notó que un alumno figuraba en sus planillas como “aprobado” cuando no era así: “Pensando que se había tratado de un error propio, lo corrigió en la base de datos. Pero al mes se dio cuenta de que nuevamente esa persona figuraba como “aprobado”. Fue entonces que denunció el caso a las autoridades”.
+
+ El área de Cibercrimen de la Policía Metropolitana detectó al hacker luego del ataque al sistema informático de la UADE, y la Fiscalía Especializada en Ciber-delitos de la Ciudad, a cargo de Daniela Dupuy, la que ordenó la investigación en los servidores de esa universidad.  En ese análisis se constató que el hacker había ingresado en los sistemas y a las bases de datos de los alumnos, profesores y usuarios administradores de la red y que varias veces había cambiado las notas de exámenes y trabajos. Mirá también: El hacker ya había sido investigado por una estafa informática "Con los registros donde figuraban las IP [el DNI de cada computadora] desde donde habían atacado los sistemas de la UADE, llegaron hasta la empresa de telefonía celular Claro: también se detectó que había sido atacada por este hacker", ​dijeron las fuentes. ¿Cómo? La compañía recibía gran volumen de datos sobre sus servidores desde varios puntos, un ataque conocido como “Denegación de Servicio Distribuida”, con el objetivo de que el autor no sea identificado en la red, y así encubrir el verdadero ataque a la universidad. 
+
+
+El sospechoso, de 21 años, es alumno de tercer año de la carrera de Ingeniería Informática. Sus notas registradas en el sistema de la universidad no coinciden con las asentadas en papel.
+
+
+
+
+
+var act_5f4 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_5f4 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_5f4.setTitle('El sospechoso, de 21 años, es alumno de tercer año de la carrera de Ingeniería Informática. Sus notas registradas en el sistema de la universidad no coinciden con las asentadas en papel.');
+act_5f4.setSubtitle('Delitos informáticos'); 
+act_5f4.setLinkBack('http://www.clarin.com/sociedad/increible-operativo-atrapar-cambiaba-UADE_0_1568843168.html');
+act_5f4.setDescription('De 21 a&ntilde;os, cursa tercero de Ingenier&iacute;a en Inform&aacute;tica en esa universidad. Lo capturaron en su casa, pero para evitar que se fugue o borre informaci&oacute;n, cortaron la luz de la manzana y usaron drones.');
+act_5f4.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/increible-operativo-atrapar-cambiaba-UADE_0_1568843168.html');
+
+var showShareBarUI_params_5f4=
+{ 
+containerID: 'shareQuote_5f4',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_5f4,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_5f4
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_5f4);
+  El hacker había introducido un “malware” (código malicioso) en la página de la UADE que le dio acceso a la red. "Una vez conectado, habilitó las tarjetas de los molinetes de ingreso al edificio y con ellas entró a clases, en donde conectaba su notebook para completar la última parte del ataque", informaron. Mirá también: Habló el padre del hacker: "Es ridículo creer que mi hijo cambió notas" Fue entonces que descubrieron que el hacker era alumno de la universidad y que sus notas registradas por sistema no se correspondían con las asentadas en papel. Tras revisar sus redes sociales, dieron con su ubicación: vivía sobre la avenida Juan de Garay al 3200, en el límite de los barrios de San Cristóbal y Parque Patricios.  Hasta allí llegó la Policía, pero antes cortaron la luz de toda la manzana, usaron dos drones para controlar que no se fugue por las casa vecinas y se pusieron a analizar las redes wi-fi para que no destruya la información. 
+
+
+Las fuentes confiaron que fue un profesor quien detectó que había un alumno que figuraba como "aprobado" en su materia cuando no era así. Corrigió el error, pero al mes lo detectó nuevamente.
+
+
+
+
+
+var act_703 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_703 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_703.setTitle('Las fuentes confiaron que fue un profesor quien detectó que había un alumno que figuraba como "aprobado" en su materia cuando no era así. Corrigió el error, pero&nbsp;al mes lo detectó nuevamente.');
+act_703.setSubtitle('Delitos informáticos'); 
+act_703.setLinkBack('http://www.clarin.com/sociedad/increible-operativo-atrapar-cambiaba-UADE_0_1568843168.html');
+act_703.setDescription('De 21 a&ntilde;os, cursa tercero de Ingenier&iacute;a en Inform&aacute;tica en esa universidad. Lo capturaron en su casa, pero para evitar que se fugue o borre informaci&oacute;n, cortaron la luz de la manzana y usaron drones.');
+act_703.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/increible-operativo-atrapar-cambiaba-UADE_0_1568843168.html');
+
+var showShareBarUI_params_703=
+{ 
+containerID: 'shareQuote_703',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_703,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_703
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_703);
+  “Con todo ese operativo en marcha, el jueves se allanó la vivienda que comparte con sus padres y un hermano dos años menor. Lo encontraron oculto en un cuarto, intentando borrar información. Pero el corte de luz fue clave para que no se perdiera nada”, dijeron las fuentes a este diario.  Se secuestraron varias notebooks, teléfonos celulares, discos, dispositivos de red, cámaras, micrófonos ocultos y nueve servidores que en el momento del ingreso se encontraban realizando una denegación de servicio distribuida, como el que había hecho en la empresa Claro. Mirá también: Los hackers en Argentina, entre los más codiciados del mundo

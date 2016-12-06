@@ -1,0 +1,69 @@
+
+Cientos de llamados, miles de mails, mensajes de aliento y consejos de amigos y desconocidos. Son sólo algunas de las reacciones que generó el pedido de ayuda de Pablo y Andrea Castagnola, una pareja que la semana pasado empapeló la ciudad con afiches buscando a su perro Tayron. Uno de ellos les permitió reencontrarse con su mascota, pero unos cuantos más les trasmitieron la angustia de otros dueños que pasaban por su mismo calvario. Por eso ahora armaron una comunidad donde comparten esas búsquedas. El lugar de encuentro para la "galería" de mascotas perdidas es la página de Facebook que Pablo y Andrea abrieron para encontrar su bulldog francés: Buscamos a Tayron. "Nosotros estamos felices porque lo recuperamos. El nos había cambiado la vida porque nos dio la tranquilidad y el cariño que necesitaba Andrea para quedar embarazada. Ahora él está con nosotros pero queremos ayudar a otros que pasan por la misma angustia", explica Pablo, que se ocupa de compartir y difundir las fotos de otros perritos extraviados ya sea en facebook o en grupos de What´s App.   
+
+
+" Sabemos que la sociedad va a responder como respondió en nuestro caso. Queremos devolver algo de lo que recibimos".
+
+
+
+
+
+var act_251 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_251 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_251.setTitle('&quot;&nbsp;Sabemos que la sociedad va a responder como respondi&oacute; en nuestro caso. Queremos devolver algo de lo que recibimos&quot;.');
+act_251.setSubtitle('Una historia emocionante.'); 
+act_251.setLinkBack('http://www.clarin.com/sociedad/Tayron-ayudan-duenos-buscar-mascotas_0_1533446860.html');
+act_251.setDescription('Encontraron a su perro tras hacer&nbsp;6 mil afiches. Por eso comparten otras b&uacute;squedas.');
+act_251.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/Tayron-ayudan-duenos-buscar-mascotas_0_1533446860.html');
+
+var showShareBarUI_params_251=
+{ 
+containerID: 'shareQuote_251',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_251,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_251
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_251);
+ Mirá también: Emocionante historia: empapelaron la ciudad con afiches buscando a su perro, y apareció La historia que más moviliza a la pareja ahora es la de Morena, una nena de cinco años que perdió a sus dos mascotas: Apolo y Oliva el 21 de febrero en el barrio porteño de Villa Real. "Pablo nos ofreció su ayuda y la aceptamos porque estamos desesperados. Abrieron la reja y se llevaron a nuestros dos bulldogs franceses de nuestra casa en Irigoyen y Varela . Apolo es un macho blanco y Olivia una hembrita negra con una quemadura en el lomo. Desde el día en que se fueron Morena no quiere ir al jardín, no juega ni come", cuenta Jorge Zambrano, quien no sólo tiene que apoyar a su mujer y a su hija que están tristes porque extrañan a sus perritos, sino que además se quedó sin trabajo porque trabajaba en negro en un bar de Floresta y lo echaron cuando se demoró en llegar porque se quedó buscando a sus mascotas. Una historia que Pablo y Andrea se ocupan ahora de difundir para quetenga datos de Apolo y Olivia se comunique con la familia que los busca. 
+

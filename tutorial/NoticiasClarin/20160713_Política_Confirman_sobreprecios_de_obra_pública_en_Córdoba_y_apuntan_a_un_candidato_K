@@ -1,0 +1,70 @@
+
+Un terremoto político se desató en Córdoba luego de que un informe oficial de la Auditoría General de la Nación (AGN) revelara que el Ente Intermunicipal de Desarrollo Regional (Eninder), que durante años administró el ex intendente de Villa María y ex candidato a gobernador kirchnerista Eduardo Accastello, adjudicó obras que tuvieron sobreprecios de hasta el 148%. Incluso, Accastello, quien fue intendente de Villa María y ex ministro de Gobierno durante los primeros mandatos de José de la Sota, fue denunciado penalmente ante la Justicia federal por la Asamblea contra la Corrupción y la Impunidad que se formó en 2015 en esta ciudad ubicada a 150 kilómetros al sudeste de la ciudad de Córdoba. La Asamblea acusó al ex intendente de los presuntos delitos de malversación de caudales públicos, tráfico de influencias, negociaciones incompatibles con la función pública y enriquecimiento ilícito. Todas las obras realizadas por el Eninder fueron financiados con fondos que enviaba la Casa Rosada durante el Gobierno kirchnerista. Eduardo Accastello aseguró a la radio cordobesa Cadena 3: “Que la AGN controle el dinero de la Nación nos parece muy bien, deben hacerlo con todas las obras, pero las obras nuestras están cargadas en la página del Eninder desde que éste comenzó”; y a modo de defensa intentó despegarse de José López, el funcionario K que fue descubierto enterrando dólares en un convento: “López tenía muy mala relación con los municipios”; la relación era ministro-intendente y eso permitió la firma de los convenios”. Sobre este escándalo, Darío Capitani, ex concejal del PRO de Villa María y actual legislador de Cambiemos, apuntó: “Todos sabemos que López es un empleado de Julio de Vido, lo que agrava la situación de Accastello, hablaba directamente con el jefe”; y aclaró: “Los concejales y tribunos de cuenta de los municipios nunca tuvimos acceso a los números, a los costos de la contratación; porque el que llevaba adelante las obras era el Eninder a libro cerrado”. 
+
+
+"Todas las obras fueron realizadas y no hubo sobreprecios", se defendió Accastello.
+
+
+
+
+
+var act_6ad = new gigya.socialize.UserAction();
+
+var emailBodyCustom_6ad = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_6ad.setTitle('"Todas las obras fueron realizadas y no hubo sobreprecios", se defendió Accastello.');
+act_6ad.setSubtitle('Sospechas de corrupción'); 
+act_6ad.setLinkBack('http://www.clarin.com/politica/Confirman-sobreprecios-Cordoba-apuntan-candidato_0_1612638826.html');
+act_6ad.setDescription('La Auditoria General de la Nación (AGN) detectó que el Ente Intermunicipal de Desarrollo Regional, a cargo de Eduardo Accastello, pagó por obras un 148% más. ');
+act_6ad.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Confirman-sobreprecios-Cordoba-apuntan-candidato_0_1612638826.html');
+
+var showShareBarUI_params_6ad=
+{ 
+containerID: 'shareQuote_6ad',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_6ad,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_6ad
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_6ad);
+ La semana pasada, en la sesión del Colegio de Auditores de la AGN, se aprobó un informe presentado por Alejandro Nieva y Jesús Rodríguez, en el cual señalan serias irregularidades en el Eninder cordobés. Este trabajo ya fue elevado al Congreso y está a disposición de la Comisión Interparlamentaria de diputados y senadores: “Esperemos que este informe sea tenido en cuenta por los parlamentarios para garantizar que los recursos públicos se gestionen de un modo eficiente y eficaz, en beneficio de la sociedad”, había anticipado Alejandro Nieva al diario cordobés La Voz del Interior.
+
+La auditoría detectó sobreprecios en algunas obras a cargo del Eninder, entre ellas la pavimentación de calles en los 44 municipios que integran el Ente; además de la remodelación y el techado del anfiteatro de Villa María, y el nuevo puente que une Villa María y Villa Nueva. En esta última ciudad nació el ex poderoso secretario de Legal y Técnica de la Presidencia y ex candidato a vicepresidente, Carlos Zannini. Esta mañana, Accastello cuestionó duramente el informe de la Auditoría General de la Nación en declaraciones a la radio cordobesa Cadena 3: “Todas las obras fueron realizadas y no hubo sobreprecios. El Eninder no fijaba los precios, los precios los fijaba la Secretaría de Obras Públicas de la Nación”. No es la primera vez que el ex funcionario delasotista y hombre fuerte del kirchnerismo cordobés es cuestionado: -Ya en enero de 2014, Darío Capitani había apuntado contra el intendente: “Gracias a su alineamiento con la Casa Rosada, Accastello consiguió sortear el cepo cambiario que impide la compra de divisas, y en octubre de 2013, se hizo con US$ 360 mil para pagar el adelanto y el traslado de los equipos de sonido de Maná”, la banda mexicana que abrió la 47ª edición del Festival de Peñas. “Realmente es un despropósito, más que un Festival de Peñas, es un festival de dólares. El 21 de octubre de 2013 la Municipalidad de Villa María realiza un primer pago a Palapa Music, que es la productora de Maná por US$ 260 mil a una cotización de $ 5,865. Y ese mismo día hace otro pago de US$ 100 mil, con la misma cotización por el primer pago del transporte de los equipos”, le contó Capitani esa vez a Clarín. El legislador de Cambiemos precisó hace dos años y medio que el giro se hizo desde el Banco Nación de Villa María a una sucursal de Nueva York y allí se transfirió a otro banco en Guadalajara: “Yo no tengo nada contra Maná, me encantan sus letras. El problema es que los vecinos de Villa María debemos saber cuánto nos costará este show. Y cuánto se les pagará a los otros artistas extranjeros. Nos parece obsceno gastar tremenda cantidad de dólares en plena crisis”. En febrero pasado, el ex intendente se vio involucrado en una operación con CBI, una entidad financiera ilegal, cuando apareció una caja de seguridad con US$ 290 mil a su nombre y de Fernado Boldú, ex intendente de Laguna Larga y secretario parlamentario del bloque de legisladores K, Córdoba Podemos. Y hace un mes, el pasado 9 de junio, cerró el diario La Mañana de Córdoba, que explotaban Gerardo Raúl Varetto y Eduardo Varetto, dos empresarios ligados a la obra pública en Villa María, que fueron acusados por los trabajadores de ser testaferros de Accastello. Antes, La Mañana había sido manejada por el condenado Ricardo Jaime.

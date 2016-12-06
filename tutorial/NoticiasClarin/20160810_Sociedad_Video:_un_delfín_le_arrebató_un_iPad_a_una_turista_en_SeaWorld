@@ -1,0 +1,18 @@
+
+Una mujer trataba de tomar una foto de un delfín en SeaWorld, en Florida (Estados Unidos), con su iPad cuando el animal le arrebató la tableta de las manos. Mirá también: Descubren una nueva especie de ballena negra con hocico de delfín Sucedió el sábado. Un video tomado por otro visitante del parque acuático muestra al delfín asomándose sobre el borde del estanque y dirigiéndose hacia donde estaban los espectadores. El animal agarra el iPad de la mujer y lo lanza al agua. Ella rápidamente recupera el aparato y se aleja.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Se equivocó de camino por el GPS y salvó a un delfín Pocos segundos después, el grupo de delfines empieza a salpicar agua y a mojar al público. "¡Un par de delfines vinieron hacia mí alzándose, como si trataran de tomar mi cámara también! Fue muy gracioso y era loco de ver", contó Kuadiel Gomez, el joven que publicó el video en Facebook.  Mirá también: Rusia busca delfines de combate para su ejército Luego, para concluir la insólita escena, en los parlantes se escucha una voz que dice: "Como ven, los delfines pueden agarrar tus objetos sueltos". La filmación, que también fue difundida por FOX News, superó las 9 millones de reproducciones. Fuente: AP

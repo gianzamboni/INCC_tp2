@@ -1,0 +1,18 @@
+
+El blusero Miguel Vilanova, conocido en el ambiente como Botafogo, le dedicó una canción al empresario kirchnerista Cristóbal López en la que le reclamó por "los sueldos de los músicos", nada más ni nada menos que en un programa en vivo y en su señal de noticias. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Escuchá el tema que Botafogo le dedicó al empresario Cristóbal López.  El hecho anecdótico sucedió ayer a la medianoche durante "¿Quién dijo que es tarde?", el programa que conduce Nicolás Magaldi, de 22 a 24, por C5N. Tras una segmento de blues, el joven conductor le pidió a Botafogo que realizara una improvisación, una de situación que fue aprovechada al máximo con una canción que criticaba con dureza el accionar del cuestionado empresario K. Por otra parte, el juez federal Julián Ercolini lleva adelante una causa donde se investiga una deuda de 8.000 millones de pesos sobre el impuesto a los combustibles líquidos, un dinero que según la denuncia Cristóbal López desvió y usó para financiar empresas periodísticas del grupo Indalo. La letra de Botafogo contra Cristóbal López:  "Escúcheme Don Cristóbal, yo quiero hablar con usted: los músicos deben cobrar por su trabajo. A usted que se levanta de la cama y se le caen los fajos...Por favor, el músico también es un trabajador. Gastamos mucho dinero en nuestros amplificadores, nuestros cables, nuestras guitarras, en estudiar, comprar instrumentos, pagarles a nuestros luthieres... Trabaja mucha gente con nosotros: los sonidistas, los iluminadores...Por favor Cristóbal, los músicos deben cobrar por su trabajo. No hay nadie en este canal, en este momento, que no tenga su sueldo. Salvo los músicos. Este es el blues de Cristóbal. Para que un día se ablande su corazón y su bolsillo y le pague a los músicos por su trabajo. Nosotros venimos acá porque Magaldi es un gran muchacho y es músico... Este es el blues de Cristóbal. Los músicos deben cobrar por su trabajo. Los músicos deben cobrar por su trabajo...Como los canales de aire que nos pagan. Como Juan Alberto Badía que le pagaba a todos los músicos. Este es el blues de Cristóbal... Espero que no sea como el otro (José) López... Este es el blues de Cristóbal... Los músicos deben cobrar por su trabajo... Somos trabajadores...Ooohhh".

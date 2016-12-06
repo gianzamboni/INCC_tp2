@@ -1,0 +1,34 @@
+
+El fenómeno oceánico-atmosférico El Niño, que está detrás de las fuertes precipitaciones e inundaciones que afectan el noreste argentino, "se viene comportando igual" que el evento de este tipo más fuerte de los últimos 50 años, según advirtieron desde el Servicio Meteorológico Nacional (SMN). En lugar de disiparse, "podría tener un segundo pico entre fines del otoño y principios del invierno", dijo el SMN, tal como ocurrió en 1997-1998. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/SMN_Argentina/status/684419343355097088",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68441934335509708")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+Hace 18 años, El Niño tuvo un fuerte impacto en Argentina, con 32.800 evacuados y 290.000 personas afectadas por el desborde de ríos, anegamiento de vastos territorios y lluvias torrenciales registrados fundamentalmente en las provincias de Entre Ríos, Santa Fe, Corrientes, Misiones, Chaco y Formosa, según un informe de la Organización Panamericana de la Salud (OPS). A nivel global, en 1997-1998, produjo la muerte de 24.120 personas, el desplazamiento de 6,25 millones y pérdidas económicas por 33.200 millones de dólares.Caracterizado como de tipo "fuerte", el evento El Niño -o fase cálida del ciclo ENOS (El Niño, Oscilación Sur)- que a fines de noviembre alcanzó su pico de calentamiento superficial en el Pacífico Ecuatorial, "va a seguir por lo menos hasta marzo", aseguró Cindy Fernández, meteoróloga del SMN. "Los modelos están indicando que a partir de marzo comienza a debilitarse, pero el problema es que este Niño se viene comportando de manera similar al del '97/'98, que a principios de otoño había empezado a decaer, pero que en junio-julio tuvo un repunte y volvió a tener un máximo de 2,7 grados centígrados por sobre la temperatura media del mar", dijo.Para que un evento de El Niño sea considerado fuerte, la temperatura del Pacífico ecuatorial debe superar en más de 1,5 grados la media para la época, durante cinco meses consecutivos. En El Niño actual, la temperatura promedio del mar para el trimestre agosto-septiembre-octubre se ubicó 1,7 grados por encima de la media -con un pico de 3 grados durante la última semana de noviembre- y rondaría los 2,3 grados entre diciembre y marzo.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/SMN_Argentina/status/684417325123170305",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68441732512317030")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+"Los valores de El Niño del '97/'98 eran parecidos a este y hasta ahora los dos se comportan igual en cuanto a lo que tardó en calentarse el océano, cómo se expandió la anomalía de temperatura en las aguas superficiales y cuánto tardó en acoplarse la atmósfera", dijo Fernández.Así lo advirtió también a fines de diciembre la NASA, para la que El Niño "ha creado un caos climático en todo el mundo". A través de un comunicado, la agencia informó que las imágenes satelitales de observación oceánica de fines de diciembre pasado "tienen un parecido sorprendente" a las de la misma época de 1997, en cuanto a altura del mar (otro indicador) y prolongación en el tiempo del fenómeno.(La imagen muestra la similitud entre el clima de 2015 y el de 1997, cuando hubo grandes inundaciones. NASA)"Aunque la señal de altura de la superficie del mar en 1997 fue más intensa y alcanzó su pico en noviembre de ese año, en 2015 la zona de los altos niveles del mar es más grande y esto podría significar que aún no hemos visto el pico de este Niño", afirmó el oceanógrafo Josh Willis en el informe de la agencia espacial estadounidense.Y el cambio climático no sería ajeno a la repetición de Niños fuertes: "Se está estudiando la relación entre ambos porque el cambio climático trae también calentamiento de las aguas del océano, pero son fenómenos completamente distintos: mientras El Niño es una variabilidad que se dio siempre, el cambio climático comenzó con la era industrial", dijo la meteoróloga. "Los Niños que se forman hoy se sospecha que están influenciados por el cambio climático y los de 50 años atrás no, por eso compararlos no es muy riguroso", agregó.Leé también: Por El Niño ‘ganará’ el norte de Brasil y ‘perderá’ la playa localEn total coherencia con los efectos de El Niño, el SMN pronosticó lluvias superiores a las normales en la región del Litoral (Corrientes, Misiones y Entre Ríos), este de Santa Fe, Chaco y Formosa, por lo menos hasta febrero. Además, se producirán registros normales a levemente superiores a lo normal en Mendoza, Santiago del Estero, Buenos Aires, La Pampa, San Luis; centro y oeste de Formosa y Chaco; sur de La Rioja; y noroeste de Río Negro.La expresión "fase cálida del ciclo ENOS" (El Niño, Oscilación Sur) es el de mayor precisión para designar a este evento, que implica la conjunción de dos fenómenos, uno oceánico y otro atmosférico. Por un lado, la de la corriente oceánica El Niño, que produce un calentamiento de las aguas superficiales del Pacífico Ecuatorial frente a las costas del Perú. Por el otro, la variante negativa de la Oscilación del sur de presión atmosférica, que provoca una disminución de este indicador en las costas peruana y ecuatoriana y un aumento en las de Australia.Leé también: Ya son más de 40 los muertos por tornados e inundaciones en EE.UU.Estas anomalías provocan cambios en la intensidad y dirección de los vientos, la temperatura del aire, el nivel del mar y los registros pluviométricos a nivel global; que a su vez originan alteraciones importantes en la flora y la fauna en varios países de América Latina.El fenómeno de El Niño se presenta con intervalos regulares de entre dos y siete años, se inicia cerca de Navidad (de allí su nombre, que hace referencia al nacimiento de Jesús) y dura de 12 a 18 meses.Fuente: Télam

@@ -1,0 +1,18 @@
+
+Australia está probando el uso de aviones no tripulados para vigilar las costas tras una serie de ataques de tiburones contra nadadores en la costa este, informó el Ministerio de Agricultura y Materias Primas del estado de Nueva Gales del Sur.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Los primeros drones despegaron ayer por primera vez de Coffs Harbour, unos 540 kilómetros al norte de Sidney. Cuando las cámaras observen tiburones enviarán una foto con las coordenadas del avistaje a los vigilantes de las playas, que sacarán a los bañistas del agua.Si el experimento sale bien, en el futuro los drones serán controlados directamente por los socorristas.Mirá también: Video: con un dron, registró cómo tiburones se acercaban a surfersEste año hubo frente a las costas de Australia 31 ataques de tiburones, algunos de ellos mortales. En 2014 fueron en total 18.Los drones son solamente una parte de la "estrategia antitiburones" que se desplegará para proteger a los nadadores, por valor de 16 millones de dólares australianos (unos 11 millones de euros), comentó el ministro Niall Blair.Leé también: Segundos de terror, así atacó un tiburón a un grupo de buceadoresSe han creado estaciones de observación subacuáticas y habrá patrullas de helicópteros, así como expediciones para marcar a los animales y llevárselos a aguas alejadas de la costa.Fuente: DPA.

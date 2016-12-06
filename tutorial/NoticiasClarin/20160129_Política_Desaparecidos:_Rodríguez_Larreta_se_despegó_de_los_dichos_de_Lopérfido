@@ -1,0 +1,127 @@
+
+El jefe de Gobierno porteño, Horacio Rodríguez Larreta, se despegó anoche de su secretario de Derechos Humanos, Darío Lopérfido, al aclarar que "no suscribo" lo afirmado por ese funcionario sobre los desaparecidos durante la última dictadura.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160129_0001 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160129_0001_4a5";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Desaparecidos: Rodríguez Larreta se despegó de los dichos de Lopérfido',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/29/VID/CLAVID20160129_0001/video_web.flv",
+        image: "http://images.clarin.com/politica/Desaparecidos-Rodriguez-Larreta-despego-Loperfido_CLAVID20160129_0001_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160129_0001',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/29/VID/CLAVID20160129_0001/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/2/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/politica/Desaparecidos-Rodriguez-Larreta-despego-Loperfido_3_1513078678.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160129_0001.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160129_0001){
+            //getBBTStats_CLAVID20160129_0001();
+            varModIdReprod_CLAVID20160129_0001 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+"Es una opinión personal que no suscribo", aclaró el mandatario porteño al ser consultado esta noche por TN sobre las afirmaciones de Lopérfido, quien desacreditó la cifra de 30 mil desaparecidos sostenida por los organismos de derechos humanos.Rodríguez Larreta aclaró que "para mí, personalmente, es un tema muy sensible: Mi padre fue chupado por los milicos, lo llevaron de mi casa, pero a Dios gracias volvió a aparecer", recordó.Luego, señaló que "Lopérfido me explicó que fue sacado de contexto", aunque inmediatamente reiteró, sobre el posicionamiento del secretario sobre el tema: "Yo no lo suscribo".Además de Rodríguez Larreta, hoy el secretario nacional del área, Claudio Avruj, se diferenció de Lopérfido durante un encuentro con organizaciones de derechos humanos, y al respecto remarcó que "no hay ningún retroceso posible en las políticas de Memoria, Verdad y Justicia".

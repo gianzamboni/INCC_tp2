@@ -1,0 +1,116 @@
+
+Martín Sabbatella y su partido Nuevo Encuentro organizan por estas horas una movilización al Aeroparque Metropolitano para darle la bienvenida a la expresidenta Cristina Fernández de Kirchner, que arribará el lunes por la noche a la Ciudad de Buenos Aires para declarar ante el juez Claudio Bonadio en el marco de una causa por la venta de dólar futuro.  Mirá también: El kirchnerismo duro salió a defender a Cristina y agitar la convocatoria a Tribunales El pedido de imputar a CFK por lavado de dinero en la causa de la Ruta del Dinero K, que realizó el fiscal Guillermo Marijuan el sábado, hizo que (mientras se prepara una gran marcha para el 13 de abril) también se gestara una convocatoria para apoyar a la exmandataria apenas aterrice su avión. "Vuelve Cristina. Vamos a recibirla. Lunes 11/4, 21 hs. Aeroparque", escribió el extitular del AFSCA en Twitter.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Sabbatella/status/719001502795358208",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71900150279535820")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Los datos del vuelo de Cristina fueron publicados por la cuenta @CasaRosadaAR, para ahuyentar cualquier tipo de dudas sobre su viaje a la Capital. Fue un mensaje destinado al juez Sebastián Casanello, que la semana pasada ordenó detener al empresario Lázaro Báez por desconocer el plan de vuelo del avión que lo traía a Buenos Aires. Adujo que había peligro de fuga. Mirá también: Cristina quiere su 17, pero está acorralada por las denuncias Así, Cristina partirá en el vuelo 1893 de Aerolíneas Argentinas desde El Calafate  a las 19:30 y su horario de llegada, de no mediar demoras, está programado para las 22.15. 
+
+
+Sabbatella: "Pongo las manos y el cuerpo entero en el fuego por Cristina"
+
+
+
+
+
+var act_8ee = new gigya.socialize.UserAction();
+
+var emailBodyCustom_8ee = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_8ee.setTitle('Sabbatella: &quot;Pongo las manos y el cuerpo entero en el fuego por Cristina&quot;');
+act_8ee.setSubtitle('Tras su imputación'); 
+act_8ee.setLinkBack('http://www.clarin.com/politica/llaman-marchar-aeroparque-recibir-Cristina_0_1556244717.html');
+act_8ee.setDescription('La expresidenta llega el lunes por la noche desde Santa Cruz y Nuevo Encuentro ir&aacute;&nbsp;a darle la bienvenida.&nbsp;Luis D&#39;El&iacute;a planifica una vigilia y caminata desde la iglesia de San Cayetano.');
+act_8ee.addActionLink('VER MÁS', 'http://www.clarin.com/politica/llaman-marchar-aeroparque-recibir-Cristina_0_1556244717.html');
+
+var showShareBarUI_params_8ee=
+{ 
+containerID: 'shareQuote_8ee',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_8ee,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_8ee
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_8ee);
+ Aunque no hay un cálculo de cuánta gente podría asistir, los organizadores de la movilización marcan que lo importante es recibir a la expresidenta. Estar con ella cuando vuelva, como pasó el 10 de diciembre pasado, cuando dejó el poder y se recluyó en Santa Cruz.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/gabicerru/status/718984458838388736",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71898445883838873")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Nuevo encuentro también convocó para el 13 de abril a otra movilización en los Tribunales de Comodoro Py. Allí, junto con La Cámpora y otras organizaciones K, quieren recrear lo que denominan como "un nuevo 17 de octubre", en referencia a la histórica movilización popular de 1945 para pedir la liberación de Juan Domingo Perón.  Mirá también: Vanoli dijo que vendió dólares a futuro para evitar una devaluación El piquetero ultrakirchnerista, Luis D'Elía, es otro que, desde las redes sociales, se sumó al operativo clamor para recibir a Cristina. El titular del MILES convocó a un paro general para "rescatar a Cristina de los brazos de la oligarquía".  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Luis_Delia/status/719209498406207488",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71920949840620748")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El dirigente opositor llamó a "pasar por arriba" de las centrales sindicales que no adhieren a su pedido de paro general y sostuvo: "Perón hoy se llama Cristina Fernández de Kirchner".  No solo eso, el piquetero quiere encabeza una procesión a los Tribunales de Comodoro Py, para darle un marco aún más "herórico" a su convocatoria. D'Elía convoca el martes por la noche -a las 21- en la Parroquía de San Cayetano en Liniers para caminar hasta el juzgado de Claudio Bonadio y hacer una vigilia en defensa de la expresidenta. 

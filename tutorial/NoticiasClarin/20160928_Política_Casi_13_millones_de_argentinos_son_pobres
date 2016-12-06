@@ -1,0 +1,88 @@
+
+La pobreza en el país alcanzó al 32,2% de la población en el segundo trimestre de 2016, de los cuales 6,3% están en la indigencia, informó el INDEC, al reanudar la publicación de un indicador que había sido discontinuado hace tres años.  Según estas cifras 13 millones de argentinos están en situación de pobreza y de ellos 1,7 millones son indigentes, indicó el organismo. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_cb5i0inn",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_cb5i0inn"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_cb5i0inn").after(scriptEl);
+  El estudio se realizó en base a 31 conglomerados urbanos de todo el país con unos 27 millones de personas. La población total de Argentina alcanza los 40 millones.  La derrota de la pobreza es uno de los principales objetivos del gobierno de Mauricio Macri que asumió la presidencia el 10 de diciembre pasado.  Las estadísticas sobre pobreza habían sido descontinuadas en 2013 durante el gobierno de Cristina Kirchner (2007-2015) en medio de las sospechas de manipulación de los índices estadísticos.  La última cifra que se conocía hasta ahora corresponde al segundo semestre de 2012 e indicaba que entonces había un 5,4% de pobres en el país sudamericano.   Hasta ahora los únicos informes sobre la evolución de la pobreza provenían de estudios privados.  El Observatorio de la Deuda Social de la Universidad Católica (UCA) había calclulado que a finales de 2015 la pobreza afectaba al 29% de los argentinos, mientras que en agosto el indicador arrojó 32,6%.  "La clase media baja es la más vulnerable, es el sector que más sufre el ajuste, frente a la actual fase de caída del consumo, aumento de los precios y el mayor riesgo de despido o caída de la actividad", había alertado el informe de la UCA. 
+
+
+El indicador de pobreza difundido por Todesca fue de 32,2%. Lo que determina que 8.772.000 argentinos son pobres.
+
+
+
+
+
+var act_c38 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_c38 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_c38.setTitle('El indicador de pobreza&nbsp;difundido por Todesca fue de 32,2%. Lo que determina que&nbsp;8.772.000 argentinos son pobres.');
+act_c38.setSubtitle('La situación social'); 
+act_c38.setLinkBack('http://www.clarin.com/politica/Anticipo-dato-oficial-pobreza-rondara_0_1658834189.html');
+act_c38.setDescription('Así acaba de difundir el Indec que volvió a medir la pobreza en el país. El drama alcanza al 32,2% de la población. La estadística había sido discontinuada en 2013. Son indigentes 1,7 millones de personas.');
+act_c38.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Anticipo-dato-oficial-pobreza-rondara_0_1658834189.html');
+
+var showShareBarUI_params_c38=
+{ 
+containerID: 'shareQuote_c38',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_c38,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_c38
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_c38);
+  La economía argentina se encuentra sumergida en una recesión que se profundizó en el segundo trimestre de este año con una caída del Producto Bruto Interno (PIB) de 2,1% respecto al primero (-0,5%), y una de 3,4% respecto al mismo trimestre de 2015, según el INDEC.  La tasa de desempleo es de 9,3% y la inflación supera el 40% anual, aunque con sígnos de desaceleración. El poder de compra de los salarios cayó 12% en el primer semestre, según el privado Centro de Estudios de Política Económica (CEPA).  La inflación golpea sobre todo el precio de los alimentos. Según el INDEC una familia tipo de cuatro integrantes necesitó en agosto 12.489 pesos (810 dólares estadonidenses) para no caer en la pobreza.
+
+ Desde que asumió Macri el organismo estadístico comenzó una revisión de sus índices que habían sido cuestionados durante los gobiernos kirchneristas (2003-2015).  

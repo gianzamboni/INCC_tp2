@@ -1,0 +1,21 @@
+
+Madonna y el director de cine británico Guy Ritchie pelean desde hace meses por la custodia de su hijo Rocco, de 15 años. Pero el miércoles pasado un tribunal de Nueva York autorizó al adolescente a seguir viviendo con su padre en Londres, y allí seguirá estudiando. 
+ "Nadie debe obstaculizar este hogar. El menor está escolarizado, dejemos que continúe su vida normal sin forzarlo a dejar la escuela", dijo la jueza Deborah Kaplan, de la Corte Suprema de Manhattan, donde se litiga la batalla por la custodia. Además, pidió que los padres no presionen tanto al adolescente y les advirtió que si no se ponen de acuerdo en los próximos meses el tribunal decidirá el futuro del muchacho. Mirá también: "El egoísmo de Madonna"
+
+(Los representantes de la ex pareja y la jueza Deborah Kaplan, durante la audiencia. AP) El representante legal del chico dijo que se siente presionado por la disputa entre sus padres. Al principio, Rocco pasaba un tiempo con cada uno, hasta que a fines de 2015 decidió quedarse en Reino Unido con su papá. En ese momento, Madonna estaba haciendo una gira y el muchacho se quejó de las constantes ausencias de su madre. Además, según el portal TMZ, le dijo a su padre que ella lo trata "más como un trofeo que como un hijo" y que no le gusta que lo someta a una estricta dieta y le prohíba tocar la guitarra por las noches. Mirá también: Madonna canta Imagine en París en recuerdo de las víctimas de los atentados Madonna asegura que lo extraña mucho y quiere pelear por su custodia. Incluso, la cantante se "quebró" en un recital que hizo el viernes en la Vector Arena de Auckland, Nueva Zelanda. "No hay amor más fuerte que el de una madre por su hijo. Si hablo de él demasiado, voy a llorar", dijo la "Reina del pop", sentada en medio del escenario. "Si oyes esto en alguna parte quiero que sepas lo que mucho que te extraño", agregó y le dedicó a Rocco una canción. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La pareja, que se separó en 2008 después de ocho años de matrimonio, comparte además la tenencia de su hijo adoptivo David, de 10 años. La cantante tiene otras dos hijas, Lourdes, de 19 años, fruto de su relación con su ex entrenador Carlos León, y Mercy, de 10, nacida en Malawi igual que David.

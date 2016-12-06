@@ -1,0 +1,20 @@
+
+El jefe de Gabinete, Marcos Peña, salió a cruzar a Cristina Kirchner por las duras críticas contra el Gobierno, a raíz del uso de datos de la ANSES. El ministro acusó a la ex presidenta de intentar "demonizar" la gestión de Cambiemos y defendió el uso de la base de datos del organismo para la comunicación oficial. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_y673cpzs",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_y673cpzs"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_y673cpzs").after(scriptEl);
+  "Es una necesidad de Cristina de querer seguir mintiendo y demonizarnos, pero cada vez menos gente le cree y es cada vez más marginal su opinión", señaló en una extensa entrevista al diario La Capital de Rosario. Mirá también: Cristina acusó al Gobierno de "Estado policial" por el uso de datos de la ANSES Y detalló: "Esto se venía haciendo desde hace muchos años, y no son reservados, confidenciales ni sensibles. Son datos de contactación y la mayoría está en el padrón electoral. Lo que buscamos es reducir la fragmentación de que cada área del Estado tenga una mala base de datos. Y la de la Anses es una mala base, como la de Pami. Queremos integrarlas para una mejor atención ciudadana", afirmó en una extensa entrevista al diario La Capital de Rosario. Respecto a los dichos de Cristina,  quien le apuntó al Presidente por establecer un "Estado policial", el funcionario dijo que "no se entiende por qué dice eso". Y sentenció: "Ellos tomaron decenas de medidas similares. La ANSES tiene infinidad de convenios, y no sólo intra Estado sino con gobiernos provinciales y empresas privadas". Mirá también: Diputados K denunciaron a funcionarios del Gobierno por la utilización de datos de la Anses Peña, además, evaluó los primeros meses de gobierno de Mauricio Macri como "muy exitosos en general en términos de la política, economía, vínculos con el mundo y en cuanto a la posibilidad de cambiar la cultura", en contraposición "12 años de mucha mentira, mucho enfrentamiento y mucha corrupción", en referencia al kirchnerismo. El ministro coordinador también aseguró que una de las principales preocupaciones del Ejecutivo es el tema tarifas, del cual están pendientes para ver "cómo evoluciona el fallo de la Cámara Federal de La Plata" y de la "posibilidad del recurso hacia la Corte". "Pero es importante que todos entiendan que la Justicia no está planteando que no se pague el gas, está definiendo cuánto hay que pagar", agregó. "Estamos ante una crisis energética por las malas políticas del gobierno anterior, que nos llevaron de un país exportador a uno que no puede importar más de lo que ya importa. Tenemos que administrar esa escasez con un consumo más responsable y tomando conciencia", concluyó. Mirá también: Hebe de Bonafini comparó a Macri con Hitler por el uso de datos de la ANSeS 

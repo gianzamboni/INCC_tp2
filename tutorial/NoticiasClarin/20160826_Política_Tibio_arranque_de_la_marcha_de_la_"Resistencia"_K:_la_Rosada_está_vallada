@@ -1,0 +1,94 @@
+
+La marcha de la resistencia K en Plaza de Mayo comenzó puntual. A las 17 horas, encabezadas por las Hebe de Bonafini y las Madres de Plaza de Mayo, Martín Sabbatella y el diputado K Edgardo Depetri, militantes de la oposición -poco más de 1500- empezaron a caminar en una procesión que terminará mañana a las 17 con discursos de Hebe de Bonafini y Máximo Kirchner.   Con el paso de los minutos, llegaron otras figuras de peso dentro del kirchnerismo duro. Andrés "Cuervo" Larroque, Guillermo Morerno y Fernando Esteche dijeron presente en el comienzo de la maratónica protesta. "A Cristina la quieren encarcelar para que no sea candidata, la quieren proscribir", afirmó a Clarín Depetri. "Esta marcha es para los compañeros que no tienen trabajo, tienen que marchar sin parar, ustedes tienen que ser nuestras piernas, marchen compañeros", pidió Bonafini, que tras caminar la primera vuelta se sentó en una silla de ruedas. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_gc9fhbo0",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_gc9fhbo0"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_gc9fhbo0").after(scriptEl);
+ Desde temprano y sin funcionarios de peso en Balcarce 50 (la mayoría está en San Juan en una cumbre del PRO), los preparativos comenzaron coordinados por La Cámpora y Madres de Plaza de Mayo, que trabajaron frente a Casa Rosada para acondicionar el lugar.
+
+Mirá también: Sin funcionarios en la Rosada, el Gobierno prepara un fuerte operativo  La movilización empezó a las cinco de la tarde y terminará mañana a esa misma hora, con discursos, tras 24 horas de resistencia en la plaza más emblemática de la historia nacional.
+
+LA PREVIA Armar carpas, colgar banderas y montar un escenario es parte de la previa. Las agrupaciones esperan la llegada de gran cantidad de militantes de distintas partes de Buenos Aires y quieren estar listo para cuando eso pase. 
+
+
+La Casa Rosada fue vallada y se cortó el tránsito en Rivadavia y Avenida de Mayo con sentido a Puerto Madero.
+
+
+
+
+
+var act_1c0 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_1c0 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_1c0.setTitle('La Casa Rosada fue vallada y se cortó el tránsito en Rivadavia y Avenida de Mayo con sentido a Puerto Madero.');
+act_1c0.setSubtitle('El FpV se moviliza'); 
+act_1c0.setLinkBack('http://www.clarin.com/politica/Ultiman-detalles-Resistencia-frente-Rosada_0_1639036187.html');
+act_1c0.setDescription('El acto durará 24 horas y será cerrado por Hebe de Bonafini y Máximo Kirchner. Hay un fuerte operativo de Seguridad y varias calles cortadas. FOTOGALERIA HD. Miralo en vivo.');
+act_1c0.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Ultiman-detalles-Resistencia-frente-Rosada_0_1639036187.html');
+
+var showShareBarUI_params_1c0=
+{ 
+containerID: 'shareQuote_1c0',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_1c0,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_1c0
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_1c0);
+  "Nos vamos a quedar hasta mañana caminando todo el tiempo que podamos. Por lo que dice el lema de la marcha: el derecho a trabajar y Cristina conducción", comenta un grupo de universitarias de la Universidad de Madres. Mirá también: El kirchnerismo duro marcha contra Macri
+
+ Las carpas serán los lugares de contención para los militantes que prevén quedarse 24 horas marchando alrededor de la plaza. Paquetes de yerba y bidones de agua forman parte de las provisiones básicas. También se instalaron baños químicos en las veredas.  Mirá también: Preocupación en el Gobierno por la escalada de protestas kirchneristas  El escenario será el protagonista mañana, en el cierre de la marcha, mientras tanto hoy se usará su equipo de sonido para pasar música.
+
+Los vendedores de remeras con símbolos kirchneristas fueron los primeros en llegar. Además de las típicas con la cara de Cristina estampada y frases como "No fue magia", hay algunas que apuntan directamente contra Macri. "En el país de los globos el forro es rey" y "no vote corporaciones" con el logo de Shell de fondo son algunos de los diseños. Su precio: $100. 

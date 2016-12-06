@@ -1,0 +1,74 @@
+
+El director nacional de Epidemiología del Ministerio de Salud, Jorge San Juan, confirmó ayer que ya son 35 los muertos por gripe A en todo el país. Precisó que casi la totalidad de las víctimas pertenecía a los denominados "grupos de riesgo" y que además no estaban vacunadas. 
+
+
+"Aunque seguimos con un retraso de tres semanas en cuanto a cifras oficiales, ya que debemos esperar el informe de cada una de las provincias, podemos confirmar 35 muertes por gripe A", señaló el funcionario.
+
+
+
+
+
+var act_935 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_935 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_935.setTitle('"Aunque seguimos con un retraso de tres semanas en cuanto a cifras oficiales, ya que debemos esperar el informe de cada una de las provincias, podemos confirmar 35 muertes por gripe A", señaló el funcionario.');
+act_935.setSubtitle('Casi todos pertenecían a grupos de riesgo'); 
+act_935.setLinkBack('http://www.clarin.com/sociedad/Datos-oficiales-muertos-gripe-pais_0_1586841320.html');
+act_935.setDescription('Lo confirm&oacute; el&nbsp;director nacional de Epidemiolog&iacute;a del Ministerio de Salud de la Naci&oacute;n.');
+act_935.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/Datos-oficiales-muertos-gripe-pais_0_1586841320.html');
+
+var showShareBarUI_params_935=
+{ 
+containerID: 'shareQuote_935',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_935,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_935
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_935);
+ Mirá también: Vacunarse más, sin abandonar la buena costumbre del beso Los decesos se registraron en la Capital Federal, la Provincia de Buenos Aires, Catamarca, Chubut, Córdoba, Entre Ríos, Jujuy, Río Negro, Salta, Santa Fe, Santiago del Estero y Tucumán, mientras que la mayor cantidad de casos de influenza H1N1 se reportaron en Salta, con más de 250 enfermos.
+
+Mendoza, vacunatorio central. Numerosas personas concurren a colocarse la vacuna preventiva contra la gripe. Entre los 35 fallecidos confirmados están los reportados ayer por autoridades cordobesas, que informaron la muerte de un hombre de 55 años (la tercera víctima fatal en esa provincia), aunque llevaron tranquilidad a la comunidad y afirmaron que se trataba de una persona con factores de riesgo y sin vacunación. Mirá también: En el hospital de Niños se duplicaron los casos de gripe A La provincia de Buenos Aires fue otra de las jurisdicciones que confirmó su número de muertes. El director de Epidemiología de ese distrito, Iván Insúa, precisó que ya son nueve los casos fatales, aunque negó que se hayan incrementado los casos de bronquiolitis. "La gripe A tiene un comportamiento cíclico y esperábamos un rebrote este año, por eso se empezó una campaña temprana de vacunación", explicó. La Plata reportó ayer dos muertos por gripe A, y sus autoridades sanitarias reafirmaron que también se trataba de personas pertenecientes a los grupos de riesgo y sin vacunar. Hasta fines de mayo se notificaron más de 800 casos de esa enfermedad en 19 provincias, incluida la Capital Federal. Se trata de Salta, Buenos Aires, Tucumán, Córdoba, Santa Fe, Chaco, Catamarca, Río Negro, Jujuy, Entre Ríos, Mendoza, Santiago del Estero, Chubut, Neuquén, Tierra del Fuego, Corrientes, La Pampa y San Luis. Mirá también: Por la gripe, aconsejan "besarse menos" La cartera sanitaria nacional confirmó además que el abastecimiento de vacunas antigripales "es total" en todo el país y recordó que las dosis están disponibles de forma gratuita para los grupos de riesgo en los hospitales y centros de salud públicos. "El Estado nacional compró para 2016 un total de 9,5 millones de dosis, que continúan siendo distribuidas a las provincias según la necesidad de cada una", precisaron en un comunicado.
+
+Vacuna contra la gripe A en el vacunatorio de Villa Urquiza. Foto: Mario Quinteros. Los grupos de riesgo están conformados por embarazadas y niños de entre seis meses y dos años, puérperas hasta el egreso de la maternidad, como máximo a diez días del parto si no la recibieron durante el embarazo, personas mayores de 65 años, personal de salud y personas de entre dos y 64 años con factores de riesgo como enfermedades cardíacas, respiratorias, renales crónicas, inmunodepresión, diabetes y obesidad. Asimismo, la cartera sanitaria nacional confirmó que no se registraron faltantes en el sector privado y afirmó que "si un centro de salud aplica todo el stock de vacunas antigripales que tenía en su establecimiento, vuelve a reponerse de forma inmediata". Al igual que otras infecciones respiratorias, la gripe se transmite por contacto con secreciones de personas infectadas a través de las gotitas que se diseminan al toser o estornudar y de superficies u objetos contaminados con esas secreciones. Mirá también: Raquel Mancini habló luego de sufrir gripe A La denominada "gripe A" es simplemente un tipo más de gripe, que al igual que los otros virus de la influenza puede presentar complicaciones en los grupos con mayor riesgo de sufrir dificultades, por lo que se insiste en la aplicación de la vacuna antigripal, que debe ser recibida anualmente.
+
+Vacunación contra la gripe en el hospital Cullen de la Ciudad de Santa Fe. Foto: José Almeida Los síntomas gripales suelen aparecer a las 48 horas de efectuado el contagio y la mayoría de los afectados se recupera en una o dos semanas sin necesidad de recibir tratamiento médico. Sin embargo, en niños pequeños, personas mayores y otras con otras afecciones médicas crónicas, la infección puede conllevar graves complicaciones, provocar neumonía e incluso la muerte. Mirá también: En menores de 34 años, los casos de gripe duplican los de 2015 Entre los síntomas figuran fiebre persistente mayor a 38 grados, dolor de garganta, de cabeza y muscular y malestar generalizado. En los niños pueden presentarse también problemas para respirar, vómitos o diarrea, irritabilidad o somnolencia. Ante esos síntomas es necesario consultar al centro de salud más cercano para recibir atención médica. Fuente: Télam.

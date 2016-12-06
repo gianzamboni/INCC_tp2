@@ -1,0 +1,18 @@
+
+Si bien hace unas semanas la Asamblea Legislativa del gobierno pro británico de las Malvinas mostró su satisfacción por el comunicado conjunto entre la Argentina y Gran Bretaña, no son pocos los isleños que protesta contra este acercamiento. La agencia de noticias Asociated Press estuvo en las islas recientemente, y allí realizó un informe especial que reflejó estos sentimientos encontrados entre los isleños. El endurecimiento de las políticas hacia las islas que implementó el kirchnerismo en la última década, contra la pesca, el petróleo, las comunicaciones y las comunicaciones, incrementaron el histórico rechazo de los kelpers hacia el continente. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Faith Felton por ejemplo, abrió un petitorio online contra los acuerdos entre Argentina y Gran Bretaña, que sin embargo apoyó el gobierno isleño. Felton dice que no hay que ir en contra para que ellos que "sacrificaron sus vidas para defender" la colonia. Se refiere a los 255 británicos que murieron en la guerra de 1982. "Vale la vida de ellos tus vacaciones baratas?" se preguntó en relación a las negociaciones que pueden desembocar en el inicio de una nueva ruta entre Río Gallegos o Buenos Aires y las Malvinas.

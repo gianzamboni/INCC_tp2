@@ -1,0 +1,131 @@
+
+El caparazón del gliptodonte que había sido encontrado a fines de diciembre pasado en la ciudad de Carlos Spegazzini, partido de Ezeiza, comenzó a ser desenterrado. Es el primer paso para iniciar los estudios que permitan entender cómo llegó hasta ahí y desde qué momento. La idea es primero examinarlo y luego exhibirlo para todo el público. Leé también: Qué harán con el extraño fósil encontrado en Ezeiza: sería de un gliptodonte La tarea no será sencilla. Por las características y la antigüedad de los restos que serían de un gliptodonte, todo este operativo está siendo coordinado y guiado por expertos: es un trabajo conjunto entre el Municipio y el Centro de Registro de Patrimonio Arqueológico y Paleontológico (CRePAP) de la Provincia. “Debemos primero sacar todo el sedimento, luego hacer un entablillado y al final colocarle yeso”, explicó Fernando Oliva, curador del Centro Paleontológico de Buenos Aires. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160204_0014 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160204_0014_171";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Operativo paleontológico para sacar un \"huevo gigante\". (TN)',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/04/VID/CLAVID20160204_0014/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Operativo-paleontologico-sacar-gigante-TN_CLAVID20160204_0014_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160204_0014',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/04/VID/CLAVID20160204_0014/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Operativo-paleontologico-sacar-gigante-TN_3_1516678331.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160204_0014.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160204_0014){
+            //getBBTStats_CLAVID20160204_0014();
+            varModIdReprod_CLAVID20160204_0014 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+El caparazón, que pesa aproximadamente una tonelada, fue descubierto el 29 de diciembre pasado por José Nievas, un vecino del lugar que pasaba por allí y que pensó en un primer momento que se trataba de una cubierta de un auto o de un huevo de dinosaurio. Al final se supo que pertenecería a un gliptodonte, un mamífero hervíboro que habitó en la zona pampeana hace unos 10.000 años.
+
+También leé: Qué es el "huevo" gigante que encontraron en Ezeiza Desde la Municipalidad aportaron el personal y las herramientas (pala retroexcavadora y todo lo necesario para mover la tierra, despejar y hacer el dragado). “Estuvo enterrado durante muchísimos años, entonces cambiarle las condiciones de manera repentina puede causar daños o roturas que serían irreversibles. Hay que hacerlo con mucho cuidado”, sostuvo Oliva, quien contó que estos animales caminaron por lo que hoy es la Plaza de Mayo.
+
+"Una vez realizada la extracción, el caparazón será trasladado a La Plata para su revisión, siempre y cuando no sea riesgoso. Si no, prepararemos un lugar especial en la zona para que pueda hacerse la investigación correspondiente", había detallado a Clarín el secretario de Cultura, Andrés Díaz, hace unos días. En cuanto a la futura exposición del fósil, será acordada entre el vecino que lo encontró, el Municipio y la Provincia.

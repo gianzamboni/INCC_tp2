@@ -1,0 +1,122 @@
+
+El ex vicepresidente Amado Boudou fue uno de los protagonistas de la marcha de las CTA y el kirchnerismo contra el Gobierno de Mauricio Macri y terminó abrazado con Luis D'Elía, Fernando Esteche y Gabriel Mariotto, dirigentes del partido MILES, protagonizando una postal insólita. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Debido al intenso calor que marcó la jornada, el compañero de fórmula de Cristina Fernández de Kirchner metió las "patas" en la fuente de Plaza de Mayo, donde el 17 de octubre de 1945 un grupo de militantes que pedían la liberación de Juan Domingo Perón se refrescaron. Mirá también: Las dos CTA y el kirchnerismo marchan contra el Gobierno en la Plaza de Mayo  "Ahora en Plaza de Mayo: Gabriel Mariotto, Luis D'Elía, Amado Boudou, Fernando Esteche y compañeros para recuperar la dignidad de los trabajadores", celebró el partido del piquetero kirchnerista.  Antes, Fernando Esteche había escrito: "Marchamos a Plaza de Mayo #4N. Otra vez decenas de miles a las calles contra el ajuste por la dignidad de los trabajadores".
+
+Antes, el ex ministro de Economía y vicepresidente K estuvo en el palco de dirigentes donde Pablo Miceli y Hugo Yasky criticaron al Gobierno y pidieron la reapertura de paritarias. Pero cuando la TV comenzó a mostraron, lo bajaron del escenario. "Debería quedarse en la casa y no venir a generar problemas", afirmó Micheli a la prensa. Cuando fue indagado por la presencia del ex vicepresidente, contó que cuando lo vio al costado del escenario, habló con Yasky y pidieron que los echaran. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_4eiu9s6x",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_4eiu9s6x"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_4eiu9s6x").after(scriptEl);
+ "Yo le pedí a los compañeros de la otra CTA que pongan siempre un palco secundario para que traigan a todos los invitados que ellos quieran, pero que yo no participo en actos donde estén funcionarios del gobierno anterior y, en particular, el ex vicepresidente", explicó Micheli. Micheli explicó que él no se había dado cuenta de la presencia de los referentes de MILES. "No había visto que estaban, Hugo tampoco se había dado cuenta", dijo. "Cuando Hugo Yasky se refirió en su discurso a que vamos discutiendo en la calle y que seguimos discutiendo arriba (en el escenario) es porque estábamos discutiendo por qué estaba Boudou ahí, entre otras cosas", añadió. La presencia de Boudou sobre todo generó problemas en el palco montado de espaldas a la Casa Rosada y delante de la Pirámide de Mayo. Los dirigentes del Movimiento Socialista de los Trabajadores (MST), Alejandro Bodart y Vilma Ripoll, fueron los primeros en bajarse en gesto de disconformidad y terminaron de ver el acto parados delante del escenario. 
+
+
+"Debería quedarse en la casa y no venir a generar problemas", dijo Micheli.
+
+
+
+
+
+var act_6e1 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_6e1 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_6e1.setTitle('"Debería quedarse en la casa y no venir a generar problemas", dijo Micheli.');
+act_6e1.setSubtitle('Marcha de la CTA'); 
+act_6e1.setLinkBack('http://www.clarin.com/politica/Boudou-patas-fuente-Plaza-Mayo_0_1681032019.html');
+act_6e1.setDescription('El ex vicepresidente K estuvo un rato en el escenario, pero luego fue bajado cuando la televisión lo mostró. Video.');
+act_6e1.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Boudou-patas-fuente-Plaza-Mayo_0_1681032019.html');
+
+var showShareBarUI_params_6e1=
+{ 
+containerID: 'shareQuote_6e1',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_6e1,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_6e1
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_6e1);
+ “Los sacaron porque otros nos iban a seguir. Es un acto de unidad pero no podemos estar al lado de Boudou, somos muy críticos además de esa etapa y de lo que representa”, le dijo Bodart a Clarín.
+
+Los organizadores de la CTA hicieron que Boudou y Esteche se bajaran. Quienes vieron partir al ex vice de Cristina Kirchner, contaron que lo vieron desencajado. Días atrás, cuando la ex presidenta Cristina Fernández declaró en Comodoro Py por una causa de corrupción en la obra pública destinada a Lázaro Báez, el gran ausente de la jornada fue su ex vice, que la vez anterior, en abril, cuando compareció por la causa dólar futuro concentró todas las miradas.  Mirá también: El tetris de Teresa Parodi, animal print K, Sabbatella en aprietos y lo que no se vio en Comodoro Py Es más, en esa oportunidad, con barba y pelos al viento, look que algunos consideraron similar al de la película "El Naufrago", Boudou habló con Clarín y le envió un mensaje a la ex Presidenta. "Fuerza Cristina, vamos a volver", dijo esa mañana de lluvia de Tribunales.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Informe: Guido Braslavsky

@@ -1,0 +1,74 @@
+
+La noticia menos deseada. El periodista y escritor Rogelio Carlos García Lupo, uno de los fundadores y grandes exponentes del género de investigación periodística en Argentina, murió a los 84 años en la Clínica de la Trinidad donde permanecía internado, confirmaron esta mañana fuentes familiares.
+
+"Pajarito", como lo apodaban, participó durante más de seis décadas en decenas de publicaciones de actualidad argentinas y extranjeras, incluyendo la fundación de la agencia cubana de noticias Prensa Latina (Prela) y en numerosos proyectos editoriales, entre ellos Eudeba. 
+
+
+García Lupo será velado en Córdoba 3677 a partir de las 18 del sábado
+
+
+
+
+
+var act_3d7 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_3d7 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_3d7.setTitle('García Lupo será velado en Córdoba 3677 a partir de las 18 del sábado');
+act_3d7.setSubtitle('Tenía 84 años'); 
+act_3d7.setLinkBack('http://www.clarin.com/sociedad/Fallecio-Rogelio-Garcia-Lupo-periodismo_0_1635436507.html');
+act_3d7.setDescription('Fue uno de los fundadores de la agencia cubana de noticias Prensa Latina. ');
+act_3d7.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/Fallecio-Rogelio-Garcia-Lupo-periodismo_0_1635436507.html');
+
+var showShareBarUI_params_3d7=
+{ 
+containerID: 'shareQuote_3d7',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_3d7,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_3d7
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_3d7);
+ Mirá también: García Lupo: seis décadas de periodismo y una vida de película Dejó media docena de libros que compilaron sus artículos publicados en diarios y revistas, que le dieron fama de sabueso metódico por el uso de datos precisos y fuentes diversas que mostraron aspecto ocultos pero decisivos de la realidad.
+
+Entre ellos figuran La rebelión de los generales (1962), Contra la ocupación extranjera (1968) y Mercenarios y Monopolios en la Argentina -de Onganía a Lanusse (1971), Diplomacia secreta y rendición incondicional (1983) y en El Paraguay de Stroessner (1989). Se retiró como colaborador de Clarín, pero hasta hace pocos años seguía editando libros para una editorial española, además de publicar sus sus últimas obras Últimas Noticias de Perón y su tiempo (2006) y Últimas noticias de Fidel y el Che (2007).
+
+Agencia: Télam

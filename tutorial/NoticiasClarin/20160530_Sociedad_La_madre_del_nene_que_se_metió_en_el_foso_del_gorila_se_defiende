@@ -1,0 +1,34 @@
+
+El sacrificio de un gorila este fin de semana en un zoológico de Estados Unidos para proteger a un nene de cuatro años que se metió el foso del animal sigue despertando polémicas. Mientras defensores de los animales están organizando una vigilia especial en el zoo de Cincinnati la madre del chico salió a dar la cara y a responder las críticas. Mirá también: Mataron a un gorila para salvar a un nene de 4 años en un zoológico  En su perfil de Facebook, Michelle Gregg, la mamá del nene, se defendió diciendo que lo que pasó fue “un accidente”. “Como sociedad somos rápidos para juzgar a un padre que pudo perder de vista a su hijo y si alguno me conoce sabe que mantengo mis ojos sobre mis hijos. Los accidentes ocurren y estoy agradecida de que la gente correcta estuvo en el lugar correcto hoy. Gracias a todos los que ayudaron a mi hijo hoy y, lo más importante, a Dios por haber sido el Dios tan maravilloso que es", escribió la madre. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ También utilizó la red social para dar un parte del estado del nene. “Les quiero agradecer a todos por sus pensamientos y plegarias hoy. Lo que comenzó como un día maravilloso se transformó en uno de terror. Para los que vieron las noticias o en las redes sociales el que se cayó en el recinto del gorila en el zoo es mi hijo. Dios lo protegió hasta que las autoridades pudieron agarrarlo. Mi hijo está bien y puede caminar con una contusión y algunas escoriaciones. No tiene huesos rotos ni lesiones internas".  Para preservar la integridad del chico, las autoridades del zoológico decidieron matar al gorila Harambe. “La muerte del gorila de 17 años es una tragedia sin sentido”, dijo Anthony Seta, defensor de los derechos de los animales, y aseguró que la vigilia que harán esta tarde es una forma de recordar y honrar al gorila, no para señalar a los padres del nene. Mirá también: Envenenaron a ocho leones de una famosa manada  El director del zoológico, Thane Maynard, defendió el proceder de los hombres de su equipo: “Tomaron una decisión difícil e hicieron lo correcto porque salvaron la vida del pequeño niño” y dijo que no usaron dardos tranquilizantes porque podrían haber tardado demasiado en hacer efecto.  Esta no es la primera vez que un nene se mete en el recinto de los gorilas. Hace casi 30 años, el 31 de agosto de 1986, un chico de cinco años se cayó en el foso de los gorilas del Durrell Wildlife Park en las Channel Islands, las islas que están en el Canal de la Mancha. Pero Jambo, el gorila, se acercó al chico y lo protegió. Personal del zoológico entró al recinto y logró rescatar al chico. Y Jambo, el gorila, se convirtió en un héroe y hasta tuvo su propia estatua. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ El incidente fue recordado por Brian Le Lion, un camarógrafo amateur que estaba ese día en el zoológico y grabó la secuencia mientras estaba de visita en las islas con sus padres. “La multitud estaba gritando, mi padre trataba de calmarlos. Había muchas emociones en ese moemnto. Yo seguí filmando y no me di cuenta hasta después de que la gente se se dio cuenta de que era importante”.   El chico al que Jambo protegió, Levan Merritt, hoy tiene 36 años. “Le agradezco por siempre a Jambo porque obviamente podría haber salido de dos maneras. Es increíble cómo el me protegió”, le dijo hace unos meses al Mail Online.  

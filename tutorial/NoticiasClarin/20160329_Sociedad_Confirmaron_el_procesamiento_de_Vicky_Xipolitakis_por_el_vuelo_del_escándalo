@@ -1,0 +1,18 @@
+
+La Cámara Federal porteña no dio lugar a la apelación presentada por la vedette y mediática Victoria Xipolitakis y confirmó su procesamiento y un embargo de 250 mil pesos en la causa en la que es investigada por haber puesto en peligro la seguridad de una aeronave de la compañía Austral. Irá a juicio oral. Leé también: Habló el piloto del vuelo con Xipolitakis: "Nunca me distraje" Xipolitakis está en la mira de la Justicia por haber participado el 22 de junio de 2015 del denominado “vuelo del escándalo”, en el que la vedette voló en la cabina y hasta accionó comandos de una aeronave que cubría el trayecto entre Aeroparque y Rosario. La acusada filmó diferentes momentos del vuelo con su celular y luego los difundió. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Leé también: Para el fiscal, Xipolitakis accionó la palanca del avión El juez federal Sergio Torres había procesado a Xipolitakis, al piloto Patricio Zocchi y al copiloto Federico Matías Soaje en noviembre del año pasado por el delito de atentado contra la seguridad de aeronaves, que tiene una pena de 2 a 8 años de prisión, debido a lo sucedido en el vuelo donde la vedette viajó durante todo el trayecto en la cabina, filmó gran parte del viaje –y allí se la ve accionando los comandos- y luego lo difundió en los medios. Los tres imputados permanecerán en libertad a la espera del juicio oral y público, que aún no tiene fecha.

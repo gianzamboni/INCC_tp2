@@ -1,0 +1,18 @@
+
+Mauricio Macri recorrió las obras del Metrobus, que atravesará el partido bonaerense de La Matanza, junto a María Eugenia Vidal y la intendente Verónica Magario. El Presidente acompañado por la gobernadora bonaerense; y el ministro de Transporte de la Nación, Guillermo Dietrich, se trasladó hasta la intersección de Ruta 3 y Federico Russo, en la localidad bonaerense de González Catán, para supervisar la obras que se llevan a cabo en el municipio más poblado del conurbano. "Este Metrobus va a ser el primero de varios que van a buscar darle más seguridad, tranquilidad y previsibilidad a muchísima gente y va a significar un gran cambio para La Matanza", dijo el Presidente. Y adelantó que la obra "debería estar lista para fines de marzo" del año próximo. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/magariovero/status/790544615774519296",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79054461577451929")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El Metrobus de La Matanza tendrá una traza de casi 16 kilómetros a través de la ruta 3 desde la avenida General Paz hasta el cruce con la ruta provincial 21, en González Catán, donde se está construyendo un centro de transbordo. Y circularán por el corredor 21 líneas de colectivos que conectan Ramos Mejía, Lomas del Mirador, San Justo, Isidro Casanova, Rafael Castillo, Gregorio de Laferrere y González Catán, informó Presidencia. Mirá también: El Gobierno impulsa una agencia de municipios con intendentes afines De la actividad participó también la jefa comunal y flamante titular de la Federación Argentina de Municipios (FAM), Verónica Magario, con quien el Gobierno mantiene un enfrentamiento político por el proyecto para dividir La Matanza en cuatro distritos. A diferencia del último acto en la planta de Manaos, en la que Magario se quejó por haberse quedado abajo del escenario, esta vez la anfitriona salió en la foto sonriente junto a Macri y Vidal, pese a los intententos por dejar a la intendente K fuera de la FAM frente y formar un triunvirato. Mirá también: Llega Tabaré y busca afianzar la nueva relación con Macri La agenda oficial del mandatario continuará con un encuentro en la Quinta Presidencial con su par de Uruguay. El jefe de Estado tiene previsto recibir a las 12.30 en la residencia de Olivos al mandatario uruguayo, Tabaré Vázquez, en lo que será el segundo encuentro bilateral entre ambos en lo que va del año, en el marco distendido de un 'asado de amigos', fuera de la diplomacia tradicional. La reunión de este mediodía tendrá el propósito de profundizar las relaciones bilaterales entre ambos países y analizar nuevas oportunidades de cooperación entre los gobiernos. También en Olivos pero a las 16, Macri recibirá a David Thomson, Presidente del Consejo de Directores de Thomson Reuters, que se formó en 2008 por la fusión de Thomson Corporation y la británica Reuters, y que cuenta con inversiones en periódicos, estaciones de radio y canales televisivos canadienses. Por último, a las 16.30, Macri recibirá al titular del Sistema de Medios y Contenidos Públicos, Hernán Lombardi, en una reunión de seguimiento de la labor de esa dependencia. Mirá también: Los senadores del FpV le ponen suspenso a las leyes de Macri

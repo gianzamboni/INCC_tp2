@@ -1,0 +1,18 @@
+
+Marina Joyce es una youtuber británica que da consejos sobre moda y belleza. Pero la joven, que tiene más de 1.700.000 seguidores, se convirtió en tendencia por una insólita campaña en Twitter (#savemarinajoyce), desatada por la preocupación por su salud. En sus últimos videos, sus fans advirtieron que tenía moretones, parecía asustada, y se veía más delgada. Las hipótesis eran que la habían secuestrado, que la estaban maltratando, y que tenía problemas con las drogas. Ahora, la chica contó su propia versión de los hechos. Mirá también: Mirá lo que le regaló un youtuber al Papa Francisco 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En una entrevista con el conductor y productor Philip DeFranco --- que superó el 1,6 millones de reproducciones--- la chica aseguró estar "muy bien". Consultada por el motivo de la aparición de sus moretones, Marina respondió: "Fui al bosque una vez, me tropecé con algo y me lastimé realmente mucho. Yo tengo hematomas con bastante facilidad. Me gusta tanto aventurar en el parque y hacer cosas como esas que terminé en el suelo. Y terminé teniendo todas estas lastimaduras. Así es cómo sucedió realmente". Mirá también: 100 capas de maquillaje: el último reto viral de YouTube Luego, el entrevistador le preguntó por los cambios de actitud que tuvo, que llamaron la atención de quienes seguían sus posteos. Ella lo relacionó con sus nuevas creencias religiosas. "Soy budista ahora", contó Marina, que antes era cristiana. "La gente pensaba que he cambiado debido a esto", agregó.  Luego, la youtuber aseguró que su extraña manera de actuar no se debió a la ingesta de sustancias, tal como muchos presuponían. "Les prometo, y lo pueden ver en mi cara, y lo pueden ver en mis ojos, les prometo que no estoy consumiendo drogas. Nunca lo haría, principalmente por mis seguidores y yo realmente cuido a mis seguidores", explicó. Mirá también: Nacha Guevara se convertirá en youtuber a los 75 años Ayer, Marina subió un video a su canal de YouTube, el primero después de la insólita campaña viral que pretendía salvarla, y que hasta llegó a involucrar a la policía local. Se dedicó a responder algunas preguntas sobre su vida y, a modo de cierre, dijo: "Gracias por el #SavingMarina. Creo que fue muy dulce, pero quiero hacerles saber que estoy bien, me siento realmente bien y soy una persona muy feliz". 

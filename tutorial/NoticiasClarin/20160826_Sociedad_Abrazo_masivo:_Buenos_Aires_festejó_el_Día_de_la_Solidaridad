@@ -1,0 +1,28 @@
+
+A tu izquierda, un desconocido. A tu derecha, otro más. El primero gira su cuerpo, te mira, y te rodea con sus brazos. Recibís su cariño, sentís su presencia durante unos segundos. Te das vuelta y hacés lo mismo con el siguiente, que espera su momento con ansiedad. Eso es una "ola de abrazos" y sucedió este mediodía, con 380 participantes, en la Plaza San Martín de Retiro. Mirá también: Una fiesta en la calle, el regalo de ocho primas para los chicos
+
+El objetivo fue celebrar el Día Nacional de la Solidaridad, que cada 26 de agosto recuerda el nacimiento de la Madre Teresa de Calcuta y busca establecer como valor la importancia de ayudar al prójimo. Pero --a diferencia de otras más comerciales-- la fecha suele pasar desapercibida. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"¿Qué mejor que un abrazo para acercarnos, para empatizar, para ponernos en el lugar del otro? Así surge la idea del abrazo solidario", cuenta a Clarín Paola Vaccaro, directora ejecutiva de Manos en Acción, la ONG que organizó el encuentro. También contó con el apoyo del Ministerio de Ambiente y Espacio Público de la Ciudad y de la empresa Western Union.
+
+Cerca de 400 personas rodearon el Monumento al General San Martín. Había trabajadores de la zona y otros que fueron expresamente, como Enrique Pares, un herrero de 53 años que llegó en tren desde San Isidro. "Vine porque con el abrazo pienso dar y recibir afecto", cuenta. Es la primera vez que participa en un encuentro solidario, al igual que --al menos en Argentina-- lo hizo el venezolano Juan Ramírez. "Creo que el abrazo es la mejor medicina para el ser humano", lanza este licenciado en computación de 33 años. Mirá también: Subastó su medalla olímpica para ayudar a un chico con cáncer
+
+"Quiero cosas de buena onda y esto es algo positivo. Creo que sirve para mucha gente", sostiene Ana Obarrio, una mujer de 82 años que ayuda "en todo lo que puede" y transmite esos valores a sus 10 hijos y 37 nietos. "Abrazarse significa amor. Es dar y recibir. Eso es lo que se necesita: abrazos", aconseja.
+
+El evento fue conducido por Ari Paluch, padrino de la ONG, y contó con la participación de Maru Botana y Catherine Fulop. Debajo del escenario los miraba Joel Spano, un estudiante de 19 años. "Es una hermosa iniciativa. Un abrazo sana, un abrazo cura, es una transmisión de energía", define. De la misma edad, la futura locutora Sofía Murray invitó a sus amigos para que se acercaran a la salida de la universidad. Mirá también: Conmovedor: un nene con "piel de cristal" pide que le devuelvan los perritos que le robaron
+
+¿Los argentinos somos solidarios? Vaccaro está convencida de que es así. "El año pasado nos tocó vivir una inundación muy fuerte en el río Luján. La movida que se generó fue inmensa. Tuvimos que abrir depósitos y nos llamaban personas que se ponían a disposición. Veíamos las ganas de la gente de ayudar", recuerda. Con ese mismo espíritu, se juntaron en pleno centro porteño para fundirse en un abrazo.

@@ -1,0 +1,22 @@
+
+Pequeños, pero poderosos. Argentina puso esta madrugada en órbita sus primeros nanosatélites comerciales, que miden menos de un metro de altura y llevan dos nombres bien “nacionales”: Fresco y Batata. El desarrollo de los nanosatélites fue realizado por la empresa privada Satellogic, creada por Emiliano Kargieman con apoyo del Ministerio de Ciencia y del Invap. Mirá también: Emiliano Kargieman, el hacker que rompió la seguridad de la DGI  Fue el propio Kargieman quien confirmó el lanzamiento exitoso esta madrugada, a la 1.30, desde su cuenta de Twitter: “Tenemos confirmación de la estación en Bariloche: Fresco & Batata están saludables y enviando fuertes señales. El lanzamiento es 100% exitoso”, escribió en inglés. Además, subió imágenes del equipo festejando en Buenos Aires. Justamente fue eso, un trabajo en equipo, lo que hizo posible el logro, remarcó Kargierman en su red social: “Mucha gente con mucho esfuerzo”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La compañía que ahora puso en órbita a Fresco y Batata es la misma que ya había tenido otros logros en el espacio. En abril de 2013 lanzó el Capitán Beto, en noviembre de ese mismo año a Manolito, y en junio de 2014 el satélite Tita. “En los tres primeros probamos tecnología. Con estos dos ya podemos ofrecer servicios”, explicó Kargierman al diario La Nación. Mirá también: El Capitán Beto ya va por el espacio ¿Cuáles serán los servicios que brindarán estos nano satélites? Principalmente, permitirán monitorear campos, cultivos, industrias petroleras e infraestructura en tiempo real. Para eso, cuentan con tres cámaras de un metro de resolución: una multiespectral, otra hiperespectral y otra térmica.
+
+Los datos que ya enviaron Fresco y Batata (Twitter Satellogic) Los satélites miden 80 centímetros de alto por 40 de ancho, pesan 35 kilos y pueden volar a 500 kilómetros de altura. Se lanzaron desde China y dan una vuelta a la tierra cada 93 minutos. Satellogic ya firmó cartas de intención con 10 clientes que comprarán sus servicios.
+
+El lanzamiento, desde una plataforma en China (Twitter Satellogic) Tanto estos nanosatélites como sus antecesores se diseñaron con tecnología hecha en Argentina y no serán los últimos: Satellogic planea lanzar otro en noviembre y dos más en marzo, con la idea de armar una constelación de microsatélites. El nombre que llevará también será un homenaje: Aleph. Mirá también: Manolito, un nuevo nano satélite argentino

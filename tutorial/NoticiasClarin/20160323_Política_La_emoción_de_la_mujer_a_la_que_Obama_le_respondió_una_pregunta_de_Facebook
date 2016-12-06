@@ -1,0 +1,22 @@
+
+María Pía Morteo atiende el teléfono y suelta confiada. “Estaba segura que mi pregunta iba a ser la elegida”, dice. Ayer, desde San Nicolás, ella comentó una publicación de la Casa Rosada en la que pedía preguntas para los presidente de Estados Unidos, Barack Obama, y de Argentina, Mauricio Macri, en la que más de 2200 personas dejaron sus inquietudes. Y fue la elegida o, como dirían en USA, the chosen one. “Señor presidente Obama, cuál fue su sueño cuando fue electo? ¿Lo pudo cumplir?”, preguntó ayer a las 16:09. “Y a nuestro presidente le preguntaría cuál es el suyo”, agregó.
+
+Hoy, temprano fue a trabajar al vivero que tiene con su marido, José, y volvió a su casa al mediodía para ordenar algunas cosas. En su cabeza, estaba la duda de a qué hora hablaría Obama y Macri en la Casa Rosada, con la corazonada latente de que su pregunta iba a ser leída. Entonces, su hijo la interrumpió: “Mamá, dejá lo que está haciendo, andá a mirar que están contestando tu pregunta”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Enseguida los teléfonos de su casa empezaron a sonar, ella prendió el televisor y vio al presidente del país más poderosos del planeta responderle su pregunta. “Me emocioné hasta las lágrimas. Estaba segura que iban a elegir mi pregunta, porque no era una pregunta de coyuntura, sino más profunda, de los sueños que todos tenemos”, le cuenta todavía feliz a Clarín en una charla telefónica. “Yo creo que desde que se puso a trabajar Obama fue por un sueño”, explica. Ella quería conocerlo y si lo había cumplido. Y también el de Macri. “Ya que se hayan tomado el tiempo para responderme, lo valoro mucho”, marca mientras de fondo siguen sonando las líneas y su Facebook estalla de felicitaciones.
+
+“HEY!!Pía ¿What do you say about the Obama'squestion? Congratulation!!!!”, le escribieron. “¡Felicitaciones!! por tu iniciativa de preguntar...es un orgullo como nicoleña para mí. Un abrazo grande!!!”, le dijo otra vecina. “Bien Pía! Lo dejaste pensando....y a nosotros...jajaja!!!”, comentó otra. Tras las respuestas de Obama y Macri, María Pïa dice: “Me interesaba la visita, que de repente empecemos a poder aparecer en el mundo, sin ser solo un en país del fin del mundo que nadie sabe dónde queda”. “Leí antes todas las preguntas, vi que la mayoría eran de coyuntura, y me pareció que no eran para estee momento, entonces me salio del alma, yo tengo un montón de sueños y le pregunté eso al presidente Obama”, relata.

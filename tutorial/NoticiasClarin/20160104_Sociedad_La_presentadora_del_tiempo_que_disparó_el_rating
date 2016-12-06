@@ -1,0 +1,33 @@
+
+Para las cadenas televisivas, la competencia por el rating puede ser feroz. Y en esa lucha, recurren a estrategias para atraer al espectador. La chica linda de curvas llamativas parece estar en alza. Un canal de noticias de Albania directamente puso a su presentadora casi en topless a dar las noticias. Sin llegar a ese extremo, la popular cadena mexicana Televisa eligió a una bella modelo para dar el pronóstico del tiempo. Y logró disparar la audiencia.Yanet García se hizo conocida el año pasado luego de su incorporación al programa "Gente Regia", que emite la señal de Televisa en Monterrey, la segunda ciudad en importancia de México. Rápidamente, la popularidad de la chica comenzó a crecer. Y también el rating del programa, que alcanzó mediciones como nunca antes.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La joven, de 25 años, da el pronóstico de un modo descontracturado, pero lo que más llama la atención no es su estilo sino la ropa que lleva puesta: siempre son conjuntos cortísimos y ajustados, que resaltan sus curvas y su generoso escote.La popularidad de Yanet la llevó a ser nota en varios medios internacionales. La última, de El País de España, destaca que la chica "irrumpe como un huracán" en la TV mexicana. En las redes, no para de crecer su éxito: desde octubre sumó más de 200.000 seguidores en Instagram (donde ya tiene 1,2 millón) y 40.000 en Twitter (tiene 269.000). A su canal de YouTube sube sus videos del pronóstico del tiempo y algunos llegaron a alcanzar los 3 millones de vistas en la red social.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

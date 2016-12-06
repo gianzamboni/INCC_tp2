@@ -1,0 +1,18 @@
+
+La tecnología avanza y con ella también la aparición de nuevos entretenimientos. Los drones -por ejemplo- ya forman parte de la vida cotidiana de las personas, y es por eso que un grupo de pilotos proponen crear la carrera de drones como el deporte del futuro.  Más de 100 personas se juntaron el fin de semana en Nueva York en un evento eliminatorio que permite acceder a los torneos nacionales de Estados Unidos, lo que es conocido como la Drone Racing League (la liga de carreras de drones). Para ellos, la adrenalina de esquivar objetos a más de 120 km por hora es como un viaje en una montaña rusa. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Casi de manera insólita -o por el contrario, para desafiar- la competencia tuvo lugar en Nueva York, una ciudad donde el uso de los drones está prohibido por lo complejo que es su espacio aérero. “Entiendo por qué no quieren drones, especialmente después del 11 de septiembre, pero no puedo imaginarme vivir ahí porque intenté salir a volar anoche y la policía nos echó, apenas empezamos”, señaló Colby Curtola, un piloto californiano clasificado al campeonato nacional estadounidense. También leé: "Un adolescente ganó 250 mil dólares en una carrera de drones" “La adrenalina que te da es casi como estar en una motocicleta o hacer motocross, practicar un deporte extremo”, dice Rafael Paiva, piloto brasileño de dron. El juego consta en utilizar el aparato con un joystick y hacerlo volar en una pista con obstáculos por donde deberá pasar. El jugador se coloca un visor en el que ve lo mismo que indica la cámara que tiene el dron, casi como si la persona estuviese sentada ahí, igual que en un auto de carreras. También leé: "Alocada carrera de drones en Las Vegas"

@@ -1,0 +1,134 @@
+
+     Tras la revelación de Clarín de una trampa para frenar la denuncia de Alberto Nisman contra Cristina Kirchner por encubrir a los sospechosos del atentado a la AMIA, el fiscal general Ricardo Sáenz y dirigentes de la DAIA calificaron el hecho como una “clara maniobra” para favorecer a la ex Presidenta de la Nación. 
+
+
+  "La maniobra es clara. Tratan de armar un tribunal para no investigar la causa Nisman”, señaló Ricardo Sáenz.
+
+
+
+
+
+var act_ea2 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_ea2 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_ea2.setTitle('  "La maniobra es clara. Tratan de armar un tribunal para no investigar la causa Nisman”, señaló Ricardo Sáenz.');
+act_ea2.setSubtitle('Justicia'); 
+act_ea2.setLinkBack('http://www.clarin.com/politica/Ricardo-Saenz-Quieren-Nisman-Cristina_0_1683431688.html');
+act_ea2.setDescription('El fiscal general dijo que es “una maniobra clara” de Justicia Legítima, la agrupación de funcionarios judiciales K. Desde la DAIA calificaron el hecho como “una ofensa y una burla al sistema judicial”.');
+act_ea2.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Ricardo-Saenz-Quieren-Nisman-Cristina_0_1683431688.html');
+
+var showShareBarUI_params_ea2=
+{ 
+containerID: 'shareQuote_ea2',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_ea2,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_ea2
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_ea2);
+ Mirá también: Una maniobra dejaría la denuncia de Nisman en manos kirchneristas   El fiscal General dijo por FM Milenium y por FM Latina que "lo que quieren hacer es que los jueces que están en la causa de Nisman sean reemplazados por otros". Y destacó: “"Habría que recordarle a la audiencia que el fiscal que denunció a Cristina está muerto".  La denuncia del fiscal Nisman contra Cristina Kirchner fue por una presunta maniobra "criminal" para intentar garantizar la "impunidad" de los iraníes acusados de perpetrar el atentado a la AMIA, mediante el pacto que la Presidenta firmó en 2013 con Teherán.  La denuncia del fiscal Nisman incluía un pedido para que Cristina sea llamada a declaración indagatoria y un pedido de embargo de 200 millones de pesos. Y además de la jefa de Estado, entre los denunciados como autores y cómplices del delito de encubrimiento agravado figuran el canciller Héctor Timerman, el diputado líder de La Cámpora Andrés Larroque, y los dirigentes Luis D'Elía y Fernando Esteche.   Nisman acusó a Cristina de "decidir, negociar y organizar la impunidad de los prófugos iraníes en la causa AMIA con el propósito de fabricar la inocencia de Irán" en la investigación del atentado de 1994.   Ahora, el fiscal Sáenz y la Delegación de Asociaciones Israelitas Argentinas advierten sobre una maniobra organizada por funcionarios judiciales pertenecientes a la organización kirchnerista “Justicia Legítima” para modificar la composición de tribunal y así, beneficiar a la ex presidenta Fernández de Kirchner.  "Me extraña que la política no diga nada", finalizó el fiscal general. 
+
+
+ En tanto, desde la DAIA denunciaron “una maniobra para digitar jueces” y la calificaron de “una ofensa y una burla al sistema”.
+
+
+
+
+
+var act_75c = new gigya.socialize.UserAction();
+
+var emailBodyCustom_75c = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_75c.setTitle(' En tanto, desde la DAIA denunciaron “una maniobra para digitar jueces” y la calificaron de “una ofensa y una burla al sistema”.');
+act_75c.setSubtitle('Justicia'); 
+act_75c.setLinkBack('http://www.clarin.com/politica/Ricardo-Saenz-Quieren-Nisman-Cristina_0_1683431688.html');
+act_75c.setDescription('El fiscal general dijo que es “una maniobra clara” de Justicia Legítima, la agrupación de funcionarios judiciales K. Desde la DAIA calificaron el hecho como “una ofensa y una burla al sistema judicial”.');
+act_75c.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Ricardo-Saenz-Quieren-Nisman-Cristina_0_1683431688.html');
+
+var showShareBarUI_params_75c=
+{ 
+containerID: 'shareQuote_75c',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_75c,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_75c
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_75c);
+   Según Santiago Kaplun, secretario general y abogado de la entidad, dijo a la Agencia Judía de Noticias que “la presunta maniobra que la agrupación kirchnerista Justicia Legítima realizaría para digitar qué camaristas de la Sala de Casación decidirán sobre la petición de la DAIA de impulsar la denuncia del fallecido Alberto Nisman sería una ofensa y una burla al sistema judicial”.   Además, Kaplun recordó que los denunciados por Nisman -aparte Cristina Kirchner y Timerman. son el diputado Andrés Larroque, el “polémico” dirigente kirchnerista Luis D’Elía, el presunto representante del gobierno iraní Jorge Alejandro “Yussuf” Khalil, el ex fiscal y juez Héctor Yrimia, el “supuesto espía Ramón Allan Bogado” y el líder de “la organización extremista Quebracho”, Fernando Esteche.  A todos ellos se los denunció por “encubrimiento por favorecimiento personal agravado de los imputados iraníes como autores ideológicos de ese ataque terrorista, impedimento o estorbo del acto funcional e incumplimiento de los deberes de funcionario público a través del inconstitucional Memorándum de Entendimiento con la República Islámica”, según dijo el dirigente de la DAIA.

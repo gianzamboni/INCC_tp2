@@ -1,0 +1,18 @@
+
+Cinco hermanos menores de edad fueron abandonados, pasaron más de 24 horas en el hospital Bocalandro del partido bonaerense de Tres de Febrero y fueron llevados a un hogar de abrigo en Quilmes, donde están bajo el cuidado de Acción Social. Paula Pérez, la médica residente que fue la primera en recibir a los nenes, contó que llegaron en malas condiciones de higiene y que el más chiquito -de siete meses- lloraba de hambre.  El reloj marcaba las diez de la noche cuando un movil policial llegó a la guardia del Hospital Bocalandro con los cinco hermanitos: “En la guardia sólo puede haber mayores de 14 años, por ende los ubicamos en una sala de pediatría. Las médicas los bañaron, le consiguieron ropa y juntaron plata para comprarles comida. Todo el hospital estaba pendiente de ellos”, relató la mujer. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Paula contó que el más chiquito de los hermanos, que tiene siete meses, lloraba mucho: “Casi desesperadamente, pero una vez que lo alimentaron y lo limpiaron se calmó. Es muy triste lo que pasa con los nenes”, describió la médica y dijo que su sensación que le quedó de todo lo vivido es de impotencia: “Esto es un problema social, viene de larga data. No le podemos echar la culpa a esa mamá porque ni siquiera conocemos su historia”, dijo en declaraciones radiales y televisivas. Mirá también: "Tiene diez años y estuvo varios días a cargo de sus cuatro hermanos"  La médica residente dio sus impresiones sobre lo que sucedió: “Los chicos dentro de todo llegaron sanitos, con hambre, frío y sucios, pero sanos, aunque ¿qué hubiese pasado si la maestra a donde los nenes van a la escuela no hubiese alertado a la policía de esta situación? Seguro no hubiese terminado bien”. Los hermanos son un varón de 10 años, tres nenas de 2, 5 y 8, y el bebé de 7 meses. Justamente la maestra de la mayor de las nenas fue la que advirtió que la chiquita estaba despeinada y, cuando le preguntó qué le pasaba, la nena le contó que estaban viviendo solos.  Mirá también: Por una alumna despeinada, la maestra supo que 5 hermanos rogaban auxilio  Después de dos días de análisis y y revisaciones, ayer los hermanitos fueron dados de alta y llevados a un hogar de abrigo de Quilmes, donde son asistidos con psicólogos y donde creen que su situación se resolverá en 90 días. “Les vamos a garantizar salud, educación y reconstruiremos su historia para ver quiénes son sus referentes afectivos”, explicó a Clarín Pilar Molina, subsecretaria de Niñez y Adolescencia de la provincia de Buenos Aires.

@@ -1,0 +1,18 @@
+
+"Son dos WhatsApp insertados en diálogos de dos personas que son irreconocibles", con estas palabras se defendió anoche Juan José Gómez Centurión, suspendido transitoriamente de su cargo como Director de la  Administración General de Aduanas. Anoche, en el programa La noche de Mirtha, dio su versión sobre los audios difundidos en los que se lo involucra en hechos de corrupción y subfacturación, que fueron presentados a la Justicia por Patricia Bullrich, ministra de Seguridad. También hubo una denuncia anónima en contra del ex militar. Por estos hechos Goméz Centurión fue apartado de su cargo en forma preventiva por el director de la AFIP, Alberto Abad, pero anticipó: "Voy a volver a mi puesto".  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Una reunión clave y los dichos de Perez Corradi dispararon la crisis en la Aduana Anoche, la conductora le preguntó en forma directa: "¿Le hicieron una cama". A lo que Gómez Centurión respondió:  "Yo creo que sí". Y aseguró que "veníamos impulsando y expulsando el delito de la estructura general de la Aduana -contrabando, droga, depósitos fiscales-; poniendo orden en un sistema que hacía muchísimos años estaba fuera de control y terminamos con una denuncia muy compleja". Goméz Centurión explicó una de las defraudaciones que descubrió en su gestión. La maniobra consistía en que ante cada importación "se pedía una declaración jurada para poder importar algo, lo que fuera, con eso se iba al Banco Central y se decía: 'Yo tengo una declaración jurada, véndame dólares a valor oficial'. Compraba los dólares y el Banco Central, a través de mi banco emisor, me autorizaba a hacer la transferencia de esos dólares bancarizados a una cuenta en el exterior".  En ese momento el valor del dólar oficial era menor al del mercado. Mirá también: Aduana: secuestran agendas de Gómez Centurión y copias de las computadoras El funcionario explicó que "hubo casi 3.000 millones de dólares que fueron sacados contra nada. Ni un tornillo trajeron". Toda esta operatoria habría ocurrido entre 2012 y 2015, en tiempos del cepo cambiario. Ante la decisión de su apartamiento, tomada por el presidente Mauricio Macri, Gómez Centurión, que recibió apoyo de la diputada Lilita Carrió, destacó que "a pesar de ser el afectado, valoro el hecho de cortar con la idea de proteger al funcionario que tiene una denuncia. El funcionario va a la justicia, resuelve y vuelve". También defendió su gestión y reveló que "hay circuitos de efedrina que no se cortaron en la Argentina". Sobre su labor destacó: "Nosotros nos dedicamos muchísimo a hacer un fronting a la droga a nivel nacional y hemos trabajado mucho. Por ejemplo, la aduana de la Quiaca incautó en el primer semestre, con binomios de perros, todo lo que se había incautado el año pasado". Mirá también: El Presidente, shockeado pero convencido de la decisión

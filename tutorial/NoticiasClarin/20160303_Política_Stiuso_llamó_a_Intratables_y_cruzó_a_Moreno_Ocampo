@@ -1,0 +1,18 @@
+
+El ex espía Jaime Stiuso protagonizó un extraño incidente esta noche cuando llamó al programa Intratables para cruzar en vivo a Luis Moreno Ocampo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Los panelistas discutían sobre el caso de la muerte del fiscal Nisman cuando le avisaron al conductor Santiago del Moro que Stiuso se había comuniado con la producción. Acto seguido, le pasaron un celular y ahí arrancó un corto diálogo que descolocó a todos los presentes. Mirá también: Carrió y el "asesinato" de Nisman: "No sé si no lo entregó Stiuso" Le endilgó que lo conocía, que habían tenido una reunión. La chicana no conmovió a Moreno Ocampo, que le respondió que nunca lo había visto en su vida y que, aún de ser así, en nada cambiaba lo que él creía de la "nefasta gestión pública" de Stiuso en la ex SIDE. Mirá también: Stiuso afirmó que la agrupación Quebracho podría haber matado a Nisman

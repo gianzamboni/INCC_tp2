@@ -1,0 +1,28 @@
+
+Dos hermanos canadienses pasaron la noche de Halloween en el castillo gótico que inspiró la leyenda de Drácula. Fueron las primeras personas en pernoctar allí en 70 años, y lo hicieron dentro de ataúdes con terciopelo rojo.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Toda la noche aulló un viento fuerte y frío, pero no fue eso lo que impidió que Robin Varma durmiese bien en el Castillo Bran en Transilvania: fue la incesante charla de su hermana."Él cerró su féretro para poder dormir... Estaba cansado de oírme hablar", bromeó Tami Varma, de 30 años. Mirá también: En un Halloween aterrorizado por los payasos, acá ganaron los zombies Tami y su hermano Robin fueron seleccionados entre 88.000 personas que se inscribieron en un concurso organizado por Airbnb, una aplicación que permite alojarse en casas o departamentos. Los ganadores tuvieron la oportunidad de cenar y dormir en el castillo ubicado en Rumania, durante la noche de Halloween.
+
+Oriundos de Ottawa (Canadá), Tami y Robin son los nietos de Devendra Varma, un académico especializado en literatura gótica inglesa y leyendas de vampiros que visitó el castillo en 1971. Convencieron a los jueces diciéndoles: "Esto sería absolutamente un sueño hecho realidad para mi hermano y para mí. Nuestro difunto abuelo era el mayor experto en literatura gótica en el mundo y era considerado un experto en Drácula y las leyendas de vampiros. Fue honrado dos veces por la reina por sus trabajos de archivo en ese terreno. Haríamos todo por ser huéspedes del vampiro original que lo inspiró''. Mirá también: Los ingenieros de la NASA festejan Halloween con un concurso de calabazas
+
+En este castillo se cree que vivió Vlad el Empalador, el príncipe que inspiró la novela Drácula, de Bram Stoker. Vlad empaló a sus víctimas como castigo por sus fechorías. Según los registros, entre ellas estaban todos los residentes ancianos de un pueblo como venganza por la muerte de su padre y su hermano. Mirá también: Los disfraces de Halloween 2016 más originales Construido en el siglo XIV, el castillo fue un bastión defensivo en Valaquia ante la expansión del Imperio Otomano. En 1920 el municipio de Brasov se lo regaló a la reina María de Rumanía, nieta de la reina Victoria de Inglaterra, quien lo utilizó como su residencia estival. En 1948 fue expropiado por el régimen comunista rumano y en 2006 restituido a los descendientes de sus propietarios originales.
+
+Ayer, una suave nevada caía sobre el castillo. Los hermanos arribaron en un coche tirado por dos caballos negros mientras un dron filmaba el acontecimiento. Fueron recibidos por Dacre Stoker, un sobrino bisnieto de Bram Stoker y guardián de la leyenda de Drácula. Más tarde cenaron pollo con paprika --la misma comida descrita en la novela-- acompañado con vino tinto, mientras un cuarteto de cuerdas tocaba en el salón. Mirá también: Las casas más lujosas que podés alquilar en Airbnb
+
+Luego se retiraron al dormitorio donde pasaron la noche en sus ataúdes. Por supuesto, no les resultó fácil dormir. "Tenemos la fuerte sensación de que había huéspedes invisibles caminando por los pasillos a la noche", dijo Tami, insinuando que el conde Drácula pudiera haber realizado una visita fugaz. "Pero sobrevivimos", concluyó la joven.
+
+Fuente: AP Mirá también: El último Halloween de Obama en la Casa Blanca al ritmo de Thriller

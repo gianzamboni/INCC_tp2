@@ -1,0 +1,68 @@
+
+La actividad industrial se retrajo en febrero 0,2% en relación a igual mes del año anterior y creció en el primer bimestre 0,1% interanual, según un informe dado a conocer hoy por la Fundación de Investigaciones Económicas Latinoamericanas (FIEL), que prevé perspectivas "inciertas" para los próximos meses para el sector. Asimismo, la producción fabril se contrajo en febrero 2,1% con respecto a enero en la medición desestacionalizada, aunque repuntó 1,9% si se tienen en cuenta factores estacionales. "Las perspectivas hacia los próximos meses se mantienen inciertas. Los desafíos que enfrenta la producción industrial trascienden el retroceso de la actividad en Brasil", evaluó FIEL. En este sentido, sostuvo que "la mejora en el acceso al mercado único y libre de cambios, junto con una mejora del tipo de cambio real, no resultan suficiente estimulo a la producción industrial de base no agropecuaria en presencia de otros ajustes de precios relativos (tarifas y tasas de interés) y una persistente debilidad de la productividad doméstica". Según el informe de FIEL, la producción automotriz fue el sector que verificó el mayor descenso en el primer bimestre con un derrumbe de 30,6% comparado con igual período de 2015. Detrás se ubicó la producción siderúrgica con una contracción en los dos primeros meses del año de 9,1% interanual. 
+
+
+Los sectores que crecieron fueron Insumos Químicos y Plásticos, Alimentos y Bebidas e Insumos Textiles.
+
+
+
+
+
+var act_1d1 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_1d1 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_1d1.setTitle('Los sectores que crecieron fueron Insumos Qu&iacute;micos y Pl&aacute;sticos, Alimentos y Bebidas e Insumos Textiles.');
+act_1d1.setSubtitle('Primer bimestre'); 
+act_1d1.setLinkBack('http://www.clarin.com/ieco/economia/FIEL-industria-mantiene-estancada_0_1549645372.html');
+act_1d1.setDescription('Para la fundaci&oacute;n, las expectativas son inciertas para los pr&oacute;ximos meses, independientemente del retroceso en Brasil.');
+act_1d1.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/economia/FIEL-industria-mantiene-estancada_0_1549645372.html');
+
+var showShareBarUI_params_1d1=
+{ 
+containerID: 'shareQuote_1d1',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_1d1,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_1d1
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_1d1);
+ Por su parte, el sector de Minerales no Metálicos evidenció en el bimestre una merma de 7% interanual, y la de Cigarrillos tuvo una disminución de 4,3%. También cayó en el primer bimestre la producción de los rubros Metalmecánica (-4,2%), Petróleo Procesado (-0,5%) y Papel y Celulosa (-0,2%). En cambio, entre los sectores que crecieron en el primer bimestre, el de mayor expansión fue Insumos Químicos y Plásticos, con un aumento de 13,5% interanual. Le siguieron el rubro Alimentos y Bebidas con un incremento de 8,1% y la producción de Insumos Textiles con una suba de 3,6%.

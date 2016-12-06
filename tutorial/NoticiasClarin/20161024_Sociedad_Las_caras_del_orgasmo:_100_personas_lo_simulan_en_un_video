@@ -1,0 +1,33 @@
+
+¿Podrías poner la cara como si tuvieses un orgasmo? Esa es la pregunta que le hicieron a 100 personas que con sus gestos recrearon aquel momento de placer y generaron así un gracioso video que ya es furor en las redes. Leé también: "Cien años de belleza, resumidos en un minuto"  En él se pueden ver a varias personas fingir su reacción al momento del orgasmo. El video ya tiene más de 500 mil visualizaciones. En menos de dos minutos, cien personas de ambos sexos y de diferentes edades muestran las reacciones y los gestos que creen que tienen cuando llegan al clímax. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ La idea fue llevada a cabo por el canal de YouTube WathCut, el mismo que realizó otros videos famosos como los 100 años de belleza en un minuto o los 100 años de la malla masculina. En este caso aunque no llegan a recrear el momento como en la escena de de Meg Ryan en la película “Cuando Harry conoció a Sally”, los voluntarios dejaron algunos rostros igual de graciosos. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

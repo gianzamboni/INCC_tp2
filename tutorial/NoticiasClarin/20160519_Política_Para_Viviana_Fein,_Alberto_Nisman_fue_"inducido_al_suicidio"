@@ -1,0 +1,152 @@
+
+Según la ex fiscal Viviana Fein, Alberto Nisman fue instigado "o lo indujeron" al suicidio. Para la funcionaria judicial que investigó el caso, hubo además "llamados sugestivos" entre MIlani, Stiuso y oficiales de Inteligencia. Lo dijo esta mañana en declaraciones a Radio La Red. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/RadioCutFm/status/733257447922667520",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73325744792266752")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+Fein dijo hoy: "Yo considero que Nisman se vio obligado, es muy probable que lo instigaron o indujeron a suicidio. Yo no puedo decirlo con certeza, es la posibilidad a la que yo me acerco más".
+
+
+
+
+
+var act_da5 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_da5 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_da5.setTitle('Fein dijo&nbsp;hoy: "Yo considero que Nisman se vio obligado, es muy probable que lo instigaron o indujeron a suicidio. Yo no puedo decirlo con certeza, es la posibilidad a la que yo me acerco más".');
+act_da5.setSubtitle('LA MUERTE DEL FISCAL'); 
+act_da5.setLinkBack('http://www.clarin.com/politica/Viviana-Fein-Nisman-inducido-suicidio_0_1579642036.html');
+act_da5.setDescription('Seg&uacute;n la ex fiscal que investig&oacute; la sospecha muerte,&nbsp;&quot;lo instigaron o lo indujeron&quot; a quitarse la vida. Y habl&oacute; de &quot;llamados sugestivos&quot; entre MIlani, Stiuso y oficiales de Inteligencia.');
+act_da5.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Viviana-Fein-Nisman-inducido-suicidio_0_1579642036.html');
+
+var showShareBarUI_params_da5=
+{ 
+containerID: 'shareQuote_da5',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_da5,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_da5
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_da5);
+ Además, afirmó que ella estuvo investigando el entrecruzamiento de llamadas entre "un grupo de gente que estaba a la espera de algo. Se comunicaron entre ellos. hablaron entre ellos para saber efectivamente qué pasó.Y que son el señor Pocino, Massino, el señor Stiuso, el señor Milani, el señor Mena, Es la intercomunicación de seis, siete personas, desde las 9 de la mañana hasta las 11 de la noche del domingo", dijo por Radio La Red. Así, Fein mencionó a ex integrantes de la SIDE -como Fernando Pocino y Jaime Stiuso-, el jefe del Ejército César Milani y Juan Martín Mena, segundo de Oscar Parrilli en la Agencia federal de Inteligencia. Justo hoy, el Gobierno nacional aceptó formalmente la renuncia de la ahora ex fiscal Viviana Fein, que estuvo a cargo de la investigación de la muerte de Alberto Nisman.  El Decreto 694/2016, publicado en el Boletín Oficial, detalla que la dimisión fue presentada el 1 de mayo pasado, y señala que "es necesario proceder a su aceptación". Mirá también: Revelan el llamado de la madre de Nisman a emergencias: "Vine a la casa y está muerto" La actuación de la hasta ahora titular de la Fiscalía de Instrucción N° 45 de la Ciudad de Buenos Aires recibió duras críticas desde distintos sectores, principalmente por parte de Sandra Arroyo Salgado, la ex esposa del fiscal que tenía a su cargo la UFI-AMIA, que la recusó en reiteradas oportunidades ante la jueza Fabiana Palmaghini. Mirá también la Fotogalería en HD Palmaghini tomó la causa a su cargo y luego, siguió un largo camino de presentaciones que terminaron en que la causa pase al fuero federal. 
+
+
+La fiscal Viviana Fein estuvo al frente de la investigación de la muerte de su colega Alberto Nisman hasta diciembre pasado y presentó su renuncia en el mes de abril y ya consiguió su jubilación.
+
+
+
+
+
+var act_04f = new gigya.socialize.UserAction();
+
+var emailBodyCustom_04f = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_04f.setTitle('La fiscal Viviana Fein estuvo al frente de la investigación de la muerte de su colega Alberto Nisman hasta diciembre pasado y&nbsp;presentó su renuncia en el mes de abril y&nbsp;ya consiguió su jubilación.');
+act_04f.setSubtitle('LA MUERTE DEL FISCAL'); 
+act_04f.setLinkBack('http://www.clarin.com/politica/Viviana-Fein-Nisman-inducido-suicidio_0_1579642036.html');
+act_04f.setDescription('Seg&uacute;n la ex fiscal que investig&oacute; la sospecha muerte,&nbsp;&quot;lo instigaron o lo indujeron&quot; a quitarse la vida. Y habl&oacute; de &quot;llamados sugestivos&quot; entre MIlani, Stiuso y oficiales de Inteligencia.');
+act_04f.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Viviana-Fein-Nisman-inducido-suicidio_0_1579642036.html');
+
+var showShareBarUI_params_04f=
+{ 
+containerID: 'shareQuote_04f',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_04f,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_04f
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_04f);
+
+
+Con el apoyo del fiscal Ricardo Sáenz, la Cámara del Crimen aceptó que Nisman podría haber sido muerto "por su actividad" y remitió el voluminoso expediente de veinte mil fojas al juez federal Julián Ercolini, quien resultó sorteado en un procedimiento que despertó las sospechas del titular de la Cámara Federal porteña, Martin Irurzum, y le hizo pedir una investigación. Mirá también: El juez Ercolini pidió que hagan una autopsia psicológica de Nisman En paralelo con el traspaso, el fiscal Eduardo Taiano recibió el encargo de formar un grupo especial de cuatro fiscales para investigar el caso.

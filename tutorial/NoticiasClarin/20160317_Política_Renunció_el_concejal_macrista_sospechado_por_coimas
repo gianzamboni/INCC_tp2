@@ -1,0 +1,18 @@
+
+El concejal macrista riojano, Enrique Cabrera, finalmente decidió presentar su renuncia, luego del escándalo que protagonizó al trascender un audio donde se lo podía escuchar ofreciendo un soborno. “Me dirijo a usted con el objeto de informarle que por la presente procedo a renunciar a la banca de concejal de la cual soy titular”, dice el texto del ex legislador. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+A raíz de la difusión del  audio, donde se escucha a Cabrera ofrecerle "beneficios" a su par Alcira Brizuela a cambio de apoyo para el intendente, el PRO le pidió la renuncia. Leé también: El PRO le pide la renuncia a un legislador propio por sospechas de corrupción "Si bien es cierto que considero que jurídicamente y en base a los antecedentes en nuestro país, la banca legislativa corresponde al candidato proclamado por las elecciones democráticamente celebradas en su distrito, en mi caso particular decido conceder mi banca de concejal al partido Propuesta Republicana (PRO) dado que con toda seguridad quien la ocupe la utilizará como herramienta para hacer una construcción políticamente sana en beneficio de los ciudadanos de esta ciudad Capital”, sostuvo en el la carta de renuncia,

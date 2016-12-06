@@ -1,0 +1,50 @@
+
+“Hoy ponemos fin al paradigma de la perpetuidad en el poder", así calificó Sergio Massa la aprobación en el Senado bonaerense para ponerle límite a la reelección por más de dos períodos de intendentes, legisladores y concejales en la provincia de Buenos Aires. Vía Twitter, el diputado destacó el tratamiento y aprobación del proyecto impulsado por el Frente Renovador, que pone un límite a la perpetuidad en los cargos públicos.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/SergioMassa/status/766041352916312064",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76604135291631206")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ "A todos los dirigentes que buscan atornillarse a un cargo: hoy se terminan en la Provincia de Buenos Aires las reelecciones indefinidas", señaló. Mirá también: Se terminaron las reelecciones indefinidas de intendentes La votación fue un avance en el marco de la Reforma Política en trámite de la Legislatura provincial y que fue acompañada por la gobernadora María Eugenia Vidal.  "Es una gran noticia. Esto es cumplirle a la gente lo que le prometimos: acabar con el clientelismo político, modernizar el Estado y reformar la política en serio", sostuvo el ministro de Gobierno bonaerense, Federico Salvai. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/SergioMassa/status/765989728160256000",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76598972816025600")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Massa: los dirigentes tienen "la obligación moral" de plantear "propuestas concretas" a los ciudadanos "La modificación de la ley ayudará a derrumbar una constante del conurbano y el interior bonaerense: jefes comunales y legisladores que se mantienen en sus sillones por décadas y que, salvo excepciones, sólo ven en peligro su permanencia cuando se salen de su curso habitual las elecciones provinciales y nacionales", sostuvo el líder del FR. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/SergioMassa/status/765989728160256000",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76598972816025600")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El objetivo de la restricción electiva es modificar la permanencia indefinida de varios alcaldes en distritos del Conurbano bonaerense, como la de algunos que están hace más de 20 años, como Julio Pereyra (Florencio Varela), o Gustavo Posse (San Isidro) con 15 ejercicios plenos en el municipio.

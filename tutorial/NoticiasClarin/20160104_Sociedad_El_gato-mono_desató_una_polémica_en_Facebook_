@@ -1,0 +1,17 @@
+
+¿Hasta dónde se puede confundir un chiste con crueldad? Un ejemplo ocurrió en la web el último día del año pasado, cuando la comunidad japonesa Cats compartió en su Facebook un video en el que se ve a un gato disfrazado de mono y comiendo una banana. La polémica no se detiene, sobre todo teniendo en cuenta que este clip ya tiene cerca de ocho millones de reproducciones. El video divide a los usuarios de esa red social, según describe el diario británico Daily Mail. Para algunos es simplemente de una forma original y graciosa de recibir el Año del Mono del Fuego, según el calendario chino, en tanto que para otros se convierte en una forma de maltratar a un animal. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

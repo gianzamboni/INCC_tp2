@@ -1,0 +1,84 @@
+
+La receta del whisky Jack Daniel's es obra de un esclavo de Tennessee (Estados Unidos). Así lo admitió la propia marca, como parte de los festejos por el 150° aniversario de su destilería, que es la más antigua de las registradas en ese país. Mirá también: En una casona de Belgrano, algo de Escocia y todo del whisky La historia que se sabía hasta el momento era que, en la década de 1850, cuando Jasper Newton “Jack” Daniel era un niño, trabajó como aprendiz de un destilador de alcohol llamado Dan Call, en su destilería de Tennessee. Este era el hombre que - se suponía - le había enseñado los secretos para fabricar un buen whisky. Pero una nota publicada el sábado en The New York Times revela el verdadero origen de la bebida: 
+
+
+"Daniel - dice la compañía ahora - no aprendió a destilar de Dan Call, sino que lo hizo de un hombre llamado Nearis Green, uno de los esclavos de Call", señala el artículo.
+
+
+
+
+
+var act_461 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_461 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_461.setTitle('"Daniel - dice la compañía ahora - no aprendió a destilar de Dan Call, sino que lo hizo de un hombre llamado Nearis Green, uno de los esclavos de Call", señala el artículo.');
+act_461.setSubtitle('Estados Unidos'); 
+act_461.setLinkBack('http://www.clarin.com/sociedad/Revelan-receta-famoso-robada-esclavo_0_1603639694.html');
+act_461.setDescription('La marca&nbsp;Jack Daniel&#39;s reconoci&oacute; su verdadera historia, como parte de los festejos por su 150&deg; aniversario.&nbsp;');
+act_461.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/Revelan-receta-famoso-robada-esclavo_0_1603639694.html');
+
+var showShareBarUI_params_461=
+{ 
+containerID: 'shareQuote_461',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_461,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_461
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_461);
+  Esta versión de la historia nunca fue un secreto, pero ahora la están difundiendo en tours y redes sociales, como parte de los festejos que está encarando la empresa. "Tiene que suceder algo como un aniversario para empezar a hablar de nosotros mismos", dijo Nelson Eddy, historiador de la compañía. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/JackDaniels_ES/status/734775953407148033",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73477595340714803")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+  La esclavitud y el whisky estuvieron entrelazadas. Los esclavos no solo hacían el trabajo de fuerza durante el destilado, sino que con frecuencia jugaban un rol central en el proceso de fabricación de la bebida. "De la misma manera en que los hombres blancos autores de libros de cocina se apropiaban de las recetas de sus cocineros negros, los dueños blancos de las destilerías tomaron crédito de su whisky", asegura el medio estadounidense. Mirá también: Mundos íntimos. Amo la magia y la sensualidad que hay detrás de un buen vino  La esclavitud se abolió en 1865 y un año después Daniel abrió su propia destilería en Tennessee, que está cumpliendo sus 150 años. Allí empleó a dos de los hijos de Green, el esclavo que le enseñó su receta mágica.

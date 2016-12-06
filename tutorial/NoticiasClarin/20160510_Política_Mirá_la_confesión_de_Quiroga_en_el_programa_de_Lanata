@@ -1,0 +1,18 @@
+
+En 2013 el ex director de las empresas de petróleo de Lázaro Báez, Horacio Quiroga -que apareció muerto esta mañana en el baño de su departamento- habló en el programa de Jorge Lanata. Relató cómo vió que un día llevaron a la oficina donde él trabajaba, siete millones de dólares de Néstor Kirchner para un proyecto petrolero.   
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"El dinero llegó al quinto piso. Había una mesa, un escritorio. Lo trajeron tres tipos. Había siete millones. Era el cálculo que teníamos de lo que iba a costar lo del pozo. Se la llevaron al sur y no la contabilizaron", relata en el video del programa de Lanata. El crudo testimonio es el de Horacio Quiroga, un empresario, exdirector de las empresas de petróleo de Lázaro Báez, que relató la manera en la que vio cómo un día llevaron a la oficina donde él trabajaba, siete millones de dólares de Néstor Kirchner para un proyecto petrolero. Según Quiroga, el dinero era para contratar los servicios de una operadora de los pozos petroleros que la empresa donde trabajaba necesitaba explotar urgente ya que había un faltante de dinero. "El agujero que teníamos era de 80 millones. Yo venía pujando por hacer alguna inversión. Yo ya me venía preso. Me iban a denunciar por estafa los otros colegas", sostuvo. Aquí el video: Mirá también: Un hombre clave en el negocio petrolero de Lázaro, que vio cómo contaban millones 

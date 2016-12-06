@@ -1,0 +1,82 @@
+
+Hoy, hace un año Mauricio Macri y Daniel Scioli se cruzaban en el recordado "Argentina Debate" en la Facultad de Derecho para exponer sus plataformas electorales. “Mauricio, no pudiste combatir los trapitos, ¿en serio crees resolver el tema de las drogas?", en boca del entonces candidato del Frente para la Victoria; y la respuesta del de Cambiemos “¿en qué te han transformado Daniel? Pareces un panelista de 6,7,8…”, son tal vez las dos frases más recordadas del histórico cruce que midió más de 50 puntos de rating. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: A un año del debate presidencial, cruzan a Macri con un hashtag y el video de la polémica con Mirtha El kirchnerismo salió con todo este 15 de noviembre, a través de las redes, a militar lo que dio en llamar: "El Día Nacional de la Mentira". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/EquipoCFK/status/798545415029325824",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79854541502932582")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Según explica el ex candidato a gobernador del FpV, Aníbal Fernández, en uno de los tantos videos que desde temprano circulan con el hashtag #DíaNacionalDeLaMentira, se conmemoran "las promesas, que como todos saben, en un año no cumplió practicamente ninguna" el actual presidente Mauricio Macri. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/la_campora/status/798514184791228416",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79851418479122841")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Por su parte, la cuenta @CasaRosadaAR, que se define como el "Twitter Presidencias Néstor Kirchner y Cristina Kirchner, del 25 de mayo de 2003 al 10 de diciembre de 2015", armó un video donde compila parte la intervención de Macri en el debate. Y remata con la frase: "A un año de la gran mentira". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/CasaRosadaAR/status/798545617832308737",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79854561783230873")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Macri y su obsesión: "Empezar y terminar obras es la dinámica que necesita Argentina" Así, sciolistas, kirchneristas y miembros de otras agrupaciones que se referencian en Scioli y la ex presidenta, se darán cita en las redes sociales poniendo frases y cortes de videos con promesas de campaña que -a su criterio- el ahora mandatario ha incumplido. Incluso, en algunos distritos K, como el de Moreno que conduce el camporista Walter Festa, se proyectará un documental de 50 minutos “para la militancia” con más desarrollo sobre el debate presidencial, que se produjo una semana antes del balotaje, en el que triunfó Cambiemos. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Scioli2O19/status/798463229487968256",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79846322948796825")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Parte de ese documental fue el que mostró Scioli en el programa de Mirtha Legrand y que suscitó un cruce con la Diva de los Almuerzos. Hasta el momento, desde el Gobierno nacional no trascendió una respuesta a la chicana virtual kirchnerista. Mirá también: Scioli le respondió a Mirtha Legrand: "De ninguna manera le impuse un video"

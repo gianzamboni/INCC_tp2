@@ -1,0 +1,17 @@
+
+El palo selfie, tan de moda en el último año, ya es cosa del pasado. La tendencia para este 2016 puede ser el Pic, algo así como un palo selfie, pero que trae la cámara en su extremo y es flexible, por lo que se puede enrollar en cualquier parte, desde la muñeca, el tobillo o el manubrio de la bicicleta. El objetivo será entonces poder tomar imágenes en ángulos que no estaban disponibles hasta ahora.Leé también: CES 2016: cuáles serán las novedades de este año de la mayor feria tecnoEl producto fue presentado dentro de las novedades de la feria electrónica más importante del mundo, el Consumer Electronic Show (CES) en Las Vegas. La principal característica en este objeto --que mide poco menos de un metro-- está relacionada con su flexibilidad, capaz de adaptarse a cualquier forma deseada, al estar construida con resina poliamida. Pic puede tomar imágenes de vídeo a Full HD 1080 y tiene la capacidad para grabar durante una hora.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

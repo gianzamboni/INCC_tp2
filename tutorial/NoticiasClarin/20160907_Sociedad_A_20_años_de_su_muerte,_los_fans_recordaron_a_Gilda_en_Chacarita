@@ -1,0 +1,23 @@
+
+Sus manos acarician el nicho 3635 del Cementerio de la Chacarita. Subió tres escalones y tiene miedo de resbalar. Por eso pide que alguien la sostenga de atrás. Tiene 68 años, se llama Gabriela y de sus ojos negros brota una lágrima. Pide en silencio por salud. Icono de la música tropical y de la cumbia, Gilda pasó de la popularidad a la inmortalidad. Sus fans todavía la recuerdan entre el amor y la devoción.  Desde temprano las personas se acercaron para ofrendarle flores, poemas, colgar banderas con su rostro y hasta poner las canciones de la “abanderada de la bailanta” en el celular, para que retumbara por los pasillos del cementerio. Para ponerle un poco de calor y color a la jornada fría y gris. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+“Viajamos desde Pablo Podestá para estar con ella y recordarla. También para agradecerle, siempre que le pedimos, cumple”, cuenta Belén Turchetti que tiene una hermana que se llama Gilda. “Cuando mi mamá estaba embarazada los médicos le detectaron una enfermedad terminal. Mi papá vino hasta acá y pidió que si se curaba vendría todos los domingos. Mi hermana nació y en el hospital dijeron que era un milagro. Por eso le pusieron ese nombre y por eso venimos una vez por semana”, dice acompañada por sus hijas de 10 y 9 años.
+
+
+Son 50 personas las que están ahora paradas en cercanías de donde descansa el cuerpo de Gilda. Muchos recuerdan cuando había que hacer fila durante horas para poder acercarse al nicho. Sus fans ahora toman mate, la recuerdan en anécdotas de los que la llegaron a conocer y colocan una caja para depositar cartas o mensajes que harán llegar luego al santuario en Entre Ríos, el otro lugar en donde miles demuestran su devoción popular por la ‘santa bailantera’
+
+¿Qué hizo que una maestra jardinera se convirtiera en una santa pagana? “Su música y sus milagros. Lo que ella enseñaba cada vez que daba un show. No existe un día en mi vida que no escuche una de sus canciones, todavía la extraño, hay días que la lloro. Para mi Gilda es todo”, dice Flavia Piana. De fondo se escucha “No me arrepiento de este amor”.

@@ -1,0 +1,18 @@
+
+El ministro de Hacienda y Finanzas Alfonso Prat-Gay presionó sutilmente anoche al Banco Central para que, cuanto antes, empiece a bajar las tasas de interés que paga por las Lebac a 35 días, hoy en el 38%.  En una entrevista concedida al programa de TN Odisea Argentina, Alfonso Prat-Gay dijo textualmente: "Lo que falta (para que bajen las tasas de interés que pagan las empresas) es que el Banco Central, que es una entidad independiente,encuentre cuál es el momento ideal para hacer ese recorrido (de tasas a la baja), no hay duda de que eso va a ocurrir más pronto que tarde". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Hasta ahora, el Banco Central se aferra a la idea de que las tasas de referencia de las Lebac van a bajar solo cuando encuentre indicios firmes de que la inflación está bajando. Por ahora los indicadores de precios están presionados por los cambios de precios relativos propios de una devaluación y, puntualmente, por los ajustes tarifarios en los servicios públicos. La semana pasada, el BCRA advirtió: "Más allá de que el bimestre febrero-marzo muestra una inflación más baja que la del bimestre anterior, los indicadores no sugieren una tendencia clara en la evolución reciente de la inflación". Para dar a entender que la caída de las tasas no será inmediata, el comunicado del organismo que preside Federico Sturzenegger advirtió: "Este Banco Central ha manifestado en oportunidades anteriores que bajará la tasa de  interés sólo cuando vea una inflación sustancialmente más baja que la observada hasta  ahora, y en descenso. Aunque los indicadores analizados por el BCRA semanalmente  sugieran una cierta desaceleración en abril de la inflación de precios no regulados,  esos signos no tienen la claridad ni la persistencia que se requeriría para alterar los  actuales niveles en las tasas de interés". El comunicado del BCRA, para despejar dudas, concluye así:  "Mientras la inflación supere los objetivos de esta institución, la tasa real se ubicará en niveles que continúen generando una inflación descendente. El objetivo de mediano plazo es obtener una tasa de inflación similar a la de otras economías emergentes". El sector empresario también viene pidiendo que las tasas de interés bajen, porque de lo contrario se demorará la tan esperada reactivación de la economía. Prat Gay también señaló que espera para el año que viene una inflación del 17%, lo que también fue una forma de marcarle la cancha al Banco Central. Vale recordar que el BCRA todavía no difundió oficialmente sus metas de inflación para este año, y mucho menos para el próximo. Prat-Gay sigue insistiendo en que 2016 cerrará con una inflación cercana al 25%. Cuando le preguntaron si estaba pensando en una reforma impositiva, Prat-Gay adelantó que se está trabajando en un proyecto para mover las escalas del impuesto a las Ganancias, pero que cualquier modificación regirá, de aprobarse, a partir de 2017.

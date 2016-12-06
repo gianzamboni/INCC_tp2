@@ -1,0 +1,36 @@
+
+Mauricio Macri avisó por Twitter que no iba a estar presente en el cierre de los festejos oficiales por el Bicentenario de la Independencia, pero dos horas más tarde cambio de opinión y se sumó al acto. Las repercusiones en las redes sociales por su ausencia en el Campo Argentino de Polo y las especulaciones en torno a su estado físico hicieron dar marcha atrás en la decisión.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/MindefArg/status/752188149758132224",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75218814975813222")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Macri dio marcha atrás y al final se suma al cierre de los festejos en Palermo El Presidente, tras haber tuiteado que no estaría en el cierre por el aniversario patrio, se encontraba mirando el desfile militar por televisión cuando les comunicó a sus asesores el cambio de opinión, pese al cansancio tras el regreso de la capital tucumana, donde ayer encabezó el acto central. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/mauriciomacri/status/752188712650498050",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75218871265049805")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ "Yo le sugerí que no fuera porque la agenda de Europa, Estados Unidos, Jujuy y Tucumán fue demoledora; a partir de mañana arranca otra vez fuerte y le sugerimos descansar", contó a Clarín Fernando De Andreis, secretario general de Presidencia.
+
+El presidente Macri en el palco, junto al jefe de Gabinete (Presidencia) Mirá también: Un desfile militar cierra los festejos por el Bicentenario en Palermo Finalmente, acompañado por el jefe de Gabinete, Marcos Peña, el jefe de Estado llegó al predio de Palermo para encabezar el final del acto oficial por el Bicentenario. Y avisó, por Twitter también, que ya se encontraba en el palco para presenciar el Encuentro Internacional de Bandas del Ejército. Mirá también: Rodríguez Saá y su faltazo en Tucumán: "Se iba a firmar un pronunciamiento muy lavadito"

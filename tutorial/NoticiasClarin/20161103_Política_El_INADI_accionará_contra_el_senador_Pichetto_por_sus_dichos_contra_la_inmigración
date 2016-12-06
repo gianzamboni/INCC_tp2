@@ -1,0 +1,18 @@
+
+A raíz de “varias denuncias recibidas en las últimas horas”, entre ellas la del embajador de Perú y el Consulado de Bolivia, el INADI adelantó hoy que iniciará actuaciones contra el senador Miguel Ángel Pichetto por sus dichos sobre la inmigración. En sus dichos, el jefe de la bancada del Frente para la Victoria en la Cámara alta había opinado que nuestro país funciona como "ajuste social de Bolivia y ajuste delictivo de Perú". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Pichetto, otra vez polémico: "¿Cuánta miseria podemos aguantar recibiendo inmigrantes pobres?"  También sostuvo días atrás en una entrevista a Canal 26, que en su teoría Perú "resolvió su problema de seguridad y transfirió a todo el esquema narcotraficante: las principales villas de la Argentina están tomadas por peruanos; y la Argentina incorpora toda esta resaca". “Las denuncias corresponden a particulares, organizaciones de la sociedad civil y se destacan las presentadas por el Consulado General del Estado Plurinacional de Bolivia, la del Embajador de Perú y el Cónsul General de la República de Perú”, indicaron desde el Instituto Nacional contra la Discriminación, la Xenofobia y el Racismo, que preside Javier Buján. En un comunicado, la entidad sostuvo que “actuará, en el marco de la Ley Antidiscriminatoria 23.592”.

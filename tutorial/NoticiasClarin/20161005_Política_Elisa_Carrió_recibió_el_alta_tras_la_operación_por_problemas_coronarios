@@ -1,0 +1,85 @@
+
+Un parte del Hospital Austral, poco antes de las 11, confirmó lo que el jefe de cardiología había adelantado a la mañana. Tras una buena evolución de la operación de ayer, cuando le colocaron dos stent para destapar una arteria y solucionar problemas coronarios, Elisa Carrió obtuvo su "alta domiciliaria". Allí se advierte de todos modos, que "deberá continuar con sus controles cardiológicos". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/elisacarrio/status/783672293474066432",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78367229347406643")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El que había hablado, bien temprano a la mañana, había sido el jefe de Cardiología del Austral, Alejandro Hita. "Está todo muy bien y lo más probable es que en el transcurso del día de hoy ya pueda irse a su casa", había adelantado. La noticia se confirmó horas más tarde. Hita también había explicado que la paciente "deberá dejar de fumar".
+
+Hita explicó que la intervención buscó "estabilizar la lesión de la arteria coronaria para evitar un mal mayor", como podría ser un infarto agudo de miocardio. Y agregó que Carrió "es una paciente muy expuesta, con mucho estrés, muchas cosas". La sorpresiva intervención quirúrgica de ayer, por caso, obligó a suspender el lanzamiento de la mesa nacional de Cambiemos, una actividad política a la que la diputada había comprometido a sumarse pese a que se venía sintiendo mal desde el fin de semana. Y agregó: "Obviamente a cualquiera no nos favorece estar en contacto con ese nivel de estrés; Carrió es una paciente que tiene factores de riesgo que vamos a trabajar y vamos a corregir".  "Hemos pactado juntos de que vamos a trabajar para que ella esté cada día mejor y así va a ser. Creo que va a andar muy bien", agregó Hita, quien explicó que "es algo realmente habitual" la intervención a la que fue sometida la diputada y que "obviamente fumar es uno de los factores de riesgo". También esta mañana, a través de un comunicado, la líder de la CC agradeció "el afecto" y contó que pasó "muy bien" la noche. "La diputada Nacional Elisa Carrió agradece todos los saludos y las muestras de afecto recibidas por parte de ciudadanos que le han acercado su cariño. Asimismo, agradece al Presidente de la Nación, Mauricio Macri, y a los funcionarios y legisladores nacionales, provinciales y municipales de todos los partidos políticos que se han interesado por su salud. Carrió pasó muy bien la noche y espera la evaluación del personal médico del Hospital Austral", dice el texto completo.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/elisacarrio/status/783672293474066432",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78367229347406643")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/elisacarrio/status/783801315671638016",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78380131567163801")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/elisacarrio/status/783801623298633728",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78380162329863372")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/elisacarrio/status/783803488077811712",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78380348807781171")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+  Mirá también: Los stents de Lilita que sonaron en el teléfono de Macri Durante la mañana, en Casa Rosada, corrió la versión (no confirmada) de que Macri podría visitar hoy a su aliada política. El nuevo episodio con la salud de Carrió comenzó el fin de semana, cuando había acordado acercarse al Hospital Austral para someterse a un "estudio angiográfico de las arterias coronarias", pero al detectarse "una lesión severa de la arteria circunfleja -una de las principales vías coronarias-, se procedió a una angioplastia con colocación de dos stents".
+

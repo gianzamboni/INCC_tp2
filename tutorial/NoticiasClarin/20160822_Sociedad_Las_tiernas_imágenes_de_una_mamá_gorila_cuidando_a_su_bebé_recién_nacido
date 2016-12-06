@@ -1,0 +1,36 @@
+
+Una gorila de 10 años que habita en el Bioparc Valencia dio a luz a un pequeño gorila en forma absolutamente natural y ante la presencia del público, que pudo presenciar un momento único del mundo animal. Mirá la fotogalería HD 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Nalani, la mamá gorila, tuvo una conducta ejemplar al cuidado de su pequeño. Luego del parto, la gorila procedió a comerse la placenta, asear y examinar al pequeño y también a mimarlo con mucha ternura, ante el asombro de quienes en ese momento estaban en el bioparque. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ La gorila llegó al bipoparque Valencia en 2014 proveniente de Hannover, Alemania, para integrar el grupo reproductor del gorila Mambie, el macho “espalda plateada” del bioparque español. Con 10 años, este es el primer hijo de Nalani y las autoridades del establecimiento destacaron su “instinto maternal y la naturalidad” de su comportamiento, que venía “motivado por haber presenciado otros nacimientos”.
+
+El grupo reproductor de Mambie cuenta además con otras dos hembras, Ali y Fossey, y con el pequeño Ebo. El periodo de gestación de los gorilas es de 8 meses. Por lo general tienen una sola cría, que al momento de nacer pesa aproximadamente dos kilos. Hasta los tres años, esa cría dependerá de su madre.  

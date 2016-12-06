@@ -1,0 +1,18 @@
+
+Periodistas y trabajadores de prensa de todo el país se movilizaron hoy desde el obelisco porteño hasta el ministerio de Trabajo de la Nación, para protestar por los despidos y la precarización en el sector y manifestarse a favor de de la libertad de expresión y del cumplimiento de estatutos y convenio de prensa.Bajo la consigna "Unidad y lucha contra los despidos y la precarización laboral" una multitud de periodistas y trabajadores de prensa recorrieron esta tarde el centro porteño para rechazar por el creciente cierre de empresas y por la mejora en las condiciones de trabajo en el sector, en una movilización considerada "histórica" por la Mesa Nacional de Trabajadores de Prensa, espacio convocante de la marcha.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En el marco de la conmemoración por el Día del Periodista, celebrado ayer, trabajadores de radio, televisión y prensa gráfica se movilizaron desde el Obelisco porteño hasta la cartera laboral, pasando por la sede de Radio Nacional donde se presentó un petitorio con demandas de los empleados de ese organismo."En el último semestre, la precarización endémica de la actividad periodística se agravó con la pérdida de más de 2.000 puestos de trabajo, entre públicos y privados", señalaron los gremios convocantes.En el acto realizado en la puerta del Ministerio de Trabajo que cerró la jornada, fueron oradores dirigentes de gremios de prensa de diferentes provincias que reiteraron el rechazo a los despidos y la precarización laboral en el sector, y reclamaron un salario mínimo no menor a la canasta familiar y se expresaron en defensa de la libertad de expresión, cumplimiento de estatutos y convenios.Entre los sindicatos que participaron, se destacaban la FATPREN- FETRACCOM, el Sindicato de Prensa de Buenos Aires (SIPREBA), el Sindicato de Prensa de Rosario (SPR), el Círculo Sindical de la Prensa y Comunicación (CISPREN, Córdoba), la Asociación de Prensa de Santa Fe (APSF), el Sindicato de Prensa de Mendoza - Asociación de Prensa de Tucumán (APT), la Asociación de Periodistas de Corrientes (APC) y el Sindicato de Prensa de Mar del Plata, entre otro medio centenar de gremios.Fuente: Télam

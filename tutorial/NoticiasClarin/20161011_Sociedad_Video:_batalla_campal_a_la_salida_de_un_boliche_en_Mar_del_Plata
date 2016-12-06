@@ -1,0 +1,20 @@
+
+Un fin de semana de furia y descontrol vivió Mar del Plata, entre una pelea entre jóvenes alcoholizados a la salida de un boliche en Playa Grande y una fiesta clandestina en una playa del sur denunciada por los vecinos. En ambos casos, testigos captaron imágenes con las cámaras de sus teléfonos y rápidamente comenzaron a circular en las redes sociales. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En la madrugada del lunes, a la salida de un boliche ubicado en el complejo la Normandina, en Playa Grande, cuando aún no había amanecido, dos grupos de jóvenes se enfrentaron a golpes. A trompadas, patadas y palazos, la pelea duró algunos minutos. En ningún momento hubo intervención policial. También en la madrugada del lunes, en las playas ubicadas al sur del Faro de Punta Mogotes hubo dos fiestas. Una legal, autorizada por la comuna en el balneario “Mute”, otra clandestina en el balneario “Tamarindo”, según denunciaron vecinos de Playa Serena.
+
+El vecindario acompañó su denuncia con imágenes que hicieron llegar a los medios locales. En una se ve cuando un patrullero pasa frente al predio donde se desarrollaba la fiesta y no interviene. Sin embargo, María Inés Benítez, de la Sociedad de Fomento del barrio Playa Serena, contó que en la comisaría le dijeron que no habían podido hacer llegar un móvil porque “habían estado trabajando con otras cuestiones bastante graves en la zona”. La otra foto es al final de la fiesta, al mediodía del lunes: un joven, supuestamente alcoholizado, durmiendo al costado de la ruta 11. Los vecinos cuentan que otros chicos caminaban “tambaléandose” al costado de la interbalnearia. Hubo unas 200 personas en la fiesta clandestina de Tamarindo. “Si no nos enteramos previamente no podemos intervenir”, dijo a Radio Brisas este mediodía el director de Inspección General de la municipalidad, Adrián Coali, que contó que desactivan fiestas ilegales “fin de semana por medio”. 

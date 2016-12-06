@@ -1,0 +1,22 @@
+
+Uno de los últimos sorteos del Quini 6 tuvo una llamativa coincidencia con la popular serie televisiva Lost que pasó casi desapercibida para el público general. En el sorteo del 12 de octubre pasado salieron cinco de los seis números que conforman la famosa combinación con la cual uno de los protagonistas se hace millonario. Mirá también: Un apostador bonaerense ganó más de 47 millones en el Quini 6 En el sorteo 2401 del popular juego de la Lotería de Santa Fe salieron el 4, 8, 15, 16, 23 y 28. En tanto, en el capítulo 18 de la primera temporada de Lost, el personaje Hugo Reyes gana la lotería con las mismas cinco primeras cifras más el número 42. Así fue la escena de uno de los capítulos más recordados: 
+
+ En el sorteo del Quini 6 del 12 de octubre un sólo apostador acertó todos los números y ganó un pozo de $13 millones, pero lo poco frecuentes es que 1.187 personas -una cantidad poco frecuente- acertaron cinco de los seis números y se llevaron $306,16 cada uno. Mirá también: El juego clandestino mueve más de 50 mil millones de pesos por año en la Provincia Desde que ese capítulo de Lost salió a la luz, el 2 de marzo de 2005, se registraron algunos casos de ganadores parciales. En 2011, 26.000 estadounidenses ganaron U$S 150 cada uno cuando cuatro de los seis números aparecieron en la lotería Mega Millions y en 2013, en Florida, dos mil personas obtuvieron 54 dólares, también con cuatro aciertos. Sin embargo, hasta hace dos semanas no había en el mundo casos reportados en los que apareciera un tramo más largo de la secuencia. Esta vez el Quini 6 hizo punta. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_h46o5j38",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_h46o5j38"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_h46o5j38").after(scriptEl);
+

@@ -1,0 +1,18 @@
+
+En la próxima revolución productiva, esa en la que las máquinas salen de su nicho en el sector industrial para ocupar posiciones también en el sector servicios (análisis de riesgo de créditos, transporte de mercancías y pasajeros, o limpieza, por citar sólo tres posibilidades muy cercanas), Google es una de las empresas protagonistas, con su obsesión por ordenar la información del mundo. Para Adriana Noreña, CEO en Hispanoámerica de la empresa del buscador, esta revolución no tiene por qué convertirse en una pérdida masiva de empleos, como muchos temen. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Herranz: "En 40 años, la retribución no dependerá solo del tiempo de trabajo"  "El año pasado se hizo un estudio de cuál era el impacto económico de Internet en la generación de valor y en la generación de empleos. Se demostró, en los países del G20, en los cuales está Argentina, Brasl y México, que con cada trabajo que se consideraba perdido por las nuevas tecnologías, se generaban 3,2 nuevos trabajos", dijo Noreña esta mañana en el Foro de Inversión y Negocios que se celebra en el Centro Cultural Kirchner. Mirá también: Andy Freire: "Tenemos mucho mejores perspectivas que Brasil como destino de inversiones"  Según Noreña, "en lo que tenemos que prepararnos todos es en saber cuáles van a ser esas profesiones del futuro": "Nosotros vemos que las habilidades digitales son claramente necesarias. Es un poco futurología, pero todo lo que es resolución de problemas, todo lo que va en linea con STEM, que son ciencia, tecnología, ingeniería y matemáticas (por sus siglas en inglés), que son el corazón de la resolución de problemas, la capacidad analítica. Van a continuar porque los datos van a venir procesados por una máquina. Se va a eficientizar quién hace qué". Mirá también: “Estamos evaluando formas de ampliar la presencia de SAP en Argentina”  - Siempre se dice que va a cambiar la calidad del trabajo, que va a subir de nivel, pero también se teme que cambie la cantidad, que haya trabajo para menos, ¿ustedes creen que no?  - No, porque se generan otras fuentes. Antes, lo que era análisis de datos no eran tan importante. Hoy eso se volvió mucho más importante. Yo cuestionaría qué empresa no tiene o no está pensando en tener a alguien que haga análisis de datos para tomar decisiones. Eso se va a volver un rol. Van a surgir muchas otras. Estadisticamente no sé cuántas pero sí van a surgir otras profesiones fascinantes. Mirá también: British Telecom anunció una inversión de $ 40 millones

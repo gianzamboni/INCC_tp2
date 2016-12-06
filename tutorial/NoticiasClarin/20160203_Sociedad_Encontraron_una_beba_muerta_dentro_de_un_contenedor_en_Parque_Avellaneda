@@ -1,0 +1,18 @@
+
+Un beba fue encontrada hoy sin vida dentro de una bolsa en un contenedor de residuos en el barrio Parque Avellaneda, en autopista Dellepiane y Mozart. Cerca a las 8.30, Ramoncito, un cartonero del barrio, halló una bolsa roja que le llamó la atención. Dentro de ésta había otra bolsa cerrada: al abrirla, encontró a la criatura envuelta entre una sábana blanca, una toalla azul y un forro de colchón. La beba estaba todavía con la placenta de la madre y el cordón umbilical, su diminuto dedo pulgar lo tenía metido en la boca. "Estaba enterita”, como cuenta una vecina , pero "su color era entre azul y morado". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Ante la terrible escena, los vecinos llamaron al 911. Enseguida, llegó la Policía Federal. Luego una ambulancia con los paramédicos, pero no había nada qué hacer: ya estaba sin signos vitales. Después arribaron los equipos de criminalísticas y forenses para hacer el levantamiento del pequeño cadáver. Las autoridades intentan determinar si la beba fue dejada con vida y murió como consecuencia de la asfixia, al estar encerrada dentro dos bolsas de supermercado, o si fue abandonada sin vida. También leé: Encontraron a una beba prematura abandonada en un basural El pasado domingo, otra beba, con aproximadamente siete meses de gestación y un peso de 900 gramos, fue encontrada abandonada adentro de una bolsa en un basural de la villa 20, en Villa Lugano. La beba fue hallada por dos mujeres que cuando pasaban por el lugar notaron que una bolsa se movía. Se acercaron, abrieron y asomó una manito. Enseguida dieron aviso al 911, la abrigaron con una manta y con ayuda de un vecino la llevaron al Hospital Piñero, donde permanece internada con estado reservado y evolucionando favorablemente.

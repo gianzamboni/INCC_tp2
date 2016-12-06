@@ -1,0 +1,88 @@
+
+Sam es un perrito de peluche astronauta, que enviaron en una "misión" y nunca volvió a la Tierra. El juguete formó parte de un experimento científico de un grupo de alumnos de una escuela inglesa. El equipo que lo trasladó hasta la estratósfera aterrizó, pero el muñeco no. Y ahora, los chicos que lo lanzaron crearon una campaña en las redes sociales para recuperar al pobre perrito.
+
+Como la perra Laika, pero de peluche. El lanzamiento fue una iniciativa de los alumnos de la escuela primaria de la bahía de Morecambe (Lancashire, Inglaterra). Se prepararon durante dos semanas con investigaciones sobre cómo funcionan los cohetes, hicieron experimentos, y exploraron el espacio en un planetario. Mirá también: La aventura del osito que viajó de Buenos Aires hasta Inglaterra para volver con su dueño 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El martes pasado se concretó el despegue. Ataron a Sam a un globo de helio y a una GoPro y lo mandaron rumbo a la estratosfera. Subió a una velocidad de 6 metros por segundo. Una vez alcanzados los 25 kilómetros de altitud, el globo explotó y el perrito se desprendió del resto del equipo al regresar a la troposfera. Esto fue lo que registró la cámara del viaje del peluche: 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Según lo publicado por La Vanguardia, el equipo aterrizó en un campo cercano y, gracias al GPS, los estudiantes de la escuela pudieron encontrar la cámara. Pero no hay ni rastro del peluche. De acuerdo con los datos del vuelo, se estima que Sam regresó a la Tierra dentro de un radio de entre 65 y 80 kilómetros del lugar de aterrizaje. Más precisamente, se cree que podría estar entre las ciudades británicas de Lancashire y York. Mirá también: El espectacular aterrizaje de un cohete en medio del mar
+
+Lejos de bajar los brazos, los chicos lanzaron una campaña por las redes sociales para dar con el paradero de Sam. Piden la colaboración ciudadana y ofrecen una pequeña recompensa: quien lo encuentre obtendrá una estadía gratuita en el hotel Midland de Morecambe, un 4 estrellas de estilo Art- Deco, que auspició el proyecto. Mirá también: La NASA difundió 3 millones de fotos de la Tierra desde el espacio
+
+En Facebook y en Twitter, una gran cantidad de usuarios respondieron y se están movilizando bajo la etiqueta #FindSam para encontrar el muñeco. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Fritosaurio/status/718985781818236928",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71898578181823692")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/brbint/status/719523915232583680",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71952391523258368")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Baquerbel/status/718734760454057984",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71873476045405798")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

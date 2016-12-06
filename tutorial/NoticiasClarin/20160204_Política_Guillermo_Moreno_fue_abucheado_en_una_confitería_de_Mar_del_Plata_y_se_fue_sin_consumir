@@ -1,0 +1,18 @@
+
+Guillermo Moreno, el controvertido ex secretario de Comercio del kirchnerismo, vivió un momento incómodo durante su paso por Mar del Plata para un encuentro militante. El ex funcionario viajó el viernes pasado a la ciudad balnearia para brindar un discurso en el Hotel sindical de ATILRA a los miembros de "La Néstor Kirchner", agrupación con la que competirá en la elección interna del PJ, el próximo 8 de mayo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Pero previo al evento, decidió ir a la clásica confitería Bostón, en la avenida Constitución. Allí, según pudo constatar Clarín, arribó acompañado de unos 20 militantes para tomar algo y pidió una mesa para el nutrido grupo. La presencia del polémico funcionario causó rápidamente un "revuelo" en la clientela que se encontraba dentro del local, que lo abucheó y repudió a su figura. Leé también: Lo que dejó la cumbre del PJ: traidores, gritos de Ishii y la salida de Zannini Moreno, sin apelar a su característico estilo confrontativo y para evitar que la cosa pase a mayores, se retiró raudamente del lugar, mientras los comensales retomaban más tranquilos el café y las medialunas. Desde la confitería confirmaron el paso del ex agregado económico de la embajada argentina en Roma por el local, pero minimizaron el episodio diciendo que sólo esperó sin llegar a consumir algo; y que se trató de un hecho que sucede con cualquier "figura reconocida", sin llegar a tratarse de un clásico "escrache". Sin embargo, algunos portales locales que consignaron la noticia, sostienen que hubo varios insultos por parte de los presentes, lo que motivó su partida del lugar. Leé también: Guillermo Moreno reapareció en el Congreso del PJ Horas más tarde, el ex hombre fuerte de Cristina Kirchner recibió sí todo el calor de "los muchachos peronistas", que coreaban: "Vamos a volver, a volver". Y brindó un discurso donde llamó a encarar una "afiliación masiva" de cara a las internas del justicialismo. Moreno competirá por la presidencia del PJ junto a Gabriel Mariotto, el ex vicegobernador bonaerense, y tendrán el apoyo de la CGT de Córdoba, a cargo de Mauricio Sailen, entre otras agrupaciones justicialistas del interior. Leé también: Guillermo Moreno rompió el silencio: "Fui muy blandito" Ayer, en la histórica sede de Matheu 130, el ex secretario hizo gala de su carácter temperamental, buscando pisar fuerte en el peronismo, su meta política para este año.

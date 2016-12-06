@@ -1,0 +1,18 @@
+
+ Una discusión de tránsito puede terminar de muchas maneras. Esta, que tuvo lugar en la ciudad británica de Leicester, fue, como mínimo, insólita. Enfurecido, un hombre se arrodilló en el capó del auto de otro. Le gritó al conductor, lo miró a los ojos de forma amenazante, y le pegó varios puñetazos al parabrisas. Mientras tanto, el vehículo nunca detuvo su marcha. Mirá también: Video: una mujer intervino a lo Bruce Lee en una feroz pelea en un comercio 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Todo sucedió ayer a las 17:50 (hora local) en la calle St Margret's Way en Leicester (Reino Unido). La escena fue filmada y compartida en Twitter por la periodista Amy Woodfield, quien casualmente presenció el momento. "Se podía ver la sangre saliendo de sus manos y rodillas", contó la mujer, que luego avisó a la policía. "Posiblemente era un peatón o un runner, porque estaba usando un equipo deportivo", agregó. Mirá también: Era luchador de kick boxing y lo acuchillaron en una pelea callejera  Según lo publicado en BBC News, testigos dijeron que el agresor se bajó del capó y empezó a golpear a otros autos. Incluso, estuvo cerca de violentar al que trasladaba a la periodista. La policía de Leicestershire informó que el hombre fue detenido y que lo trataron en un hospital por sus lesiones.

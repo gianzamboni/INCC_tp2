@@ -1,0 +1,20 @@
+
+¿Qué misterios podrían estar aún enterrados debajo de las pirámides de Egipto? Un equipo de expertos está usando nuevos escáneres con la esperanza de destapar secretos sepultados hace miles de años. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El equipo, que fue acompañado hoy por un ex ministro de antigüedades de Egipto y por el célebre arqueólogo Zahi Hawass, está poniendo a prueba la nueva tecnología debajo de la Gran Pirámide de Giza. Mirá también: Revelan un secreto de Tutankamón: de qué está hecho su puñal El escáner, que emplea partículas subatómicas conocidas como muons para examinar la estructura construida hace 4.500 años, fue instalado inicialmente el año pasado y terminará de recolectar su información este mes. "Ahora está funcionando y si logra detectar uno de los tres recintos que sabemos que existen adentro, continuaremos con la exploración'', expresó Hawass quien fue designado por el Ministerio de Antigüedades para dirigir la comisión que revisará los resultados de los escaneos. Leé también: Creen haber encontrado la tumba de Nefertiti en Egipto A fines del año pasado, el escaneo termal identificó una anomalía importante en la pirámide: tres piedras adyacentes en la base con temperaturas mayores a las de otras piedras. Hawass en el pasado ha desestimado la eficacia de los escaneos en sitios arqueológicos, afirmando que nunca han descubierto nada de importancia. Discrepóen público con el experto británico Nicolas Reeves, cuya teoría de que hay sepulcros escondidos detrás de la tumba de Tutankamón fue originada y luego confirmada por escaneos. Mirá también: Luxor y Asuán se quedan sin turistas Por más de una década Hawass fue una celebridad en el país, con frecuencia entrevistado para documentales y eventualmente administrando con autoridad absoluta el Ministerio de Antigüedades. Fue destituido tras el alzamiento de 2011 que derrocó al entonces presidente Hosni Mubarak y fue acusado de corrupción, pero eventualmente fue exonerado. 
+
+ Ahora que está involucrado en el nuevo proyecto, Hawass está más renuente a criticar las técnicas de escaneo. Afirmó que pueden ser eficaces si se usan por expertos cualificados. "Se necesita a los egiptólogos para supervisarlo todo, o de lo contrario se cometen errores'', declaró. Y agregó que: "Espero que estos escaneos nos ayuden a obtener información precisa''. Fuente: AP.​

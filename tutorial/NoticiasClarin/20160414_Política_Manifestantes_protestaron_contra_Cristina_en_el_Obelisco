@@ -1,0 +1,34 @@
+
+Manifestantes se concentraron esta noche en el Obelisco, con consignas contra Cristina Fernández y el kirchnerismo, en el mismo día en que la expresidenta declaró ante la Justicia y encabezó un acto para la militancia K. Desde las redes sociales empezaron a subir imágenes donde se veían carteles con la leyenda "Apoyemos al juez Bonadío", "Basta de impunidad" o "Cristina presa 'ya' por alta traición a la patria". Otros tenían pancartas con la frase "Justicia". Las manifestantes, unas 150 personas, cortaron carriles de la 9 de la Julio esquina Corrientes, en pleno centro porteño. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/unajo_dida/status/720386519010152448",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72038651901015244")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/sdipity889/status/720388654460317697",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72038865446031769")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+   

@@ -1,0 +1,18 @@
+
+“¿Será esa, la que dice cámara? ¿O no?”, “¿Dónde aparece la foto? A ver la otra”, “¿Por qué querés una selfie?”, “Nos tenemos que poner más juntas, vos no salís, Susana. Ponete más abajo”, “Que dos se sienten y dos paradas”, “No, qué inútiles” y “Apretá Susana que no tengo dedo”. El diálogo tan disparatado es real y se desarrolla entre cuatro mujeres que intentan sacarse una selfie, pero no lo logran. También leé: "Una selfie que corta la respiración: a 380 metros de altura" En la plataforma que el programa Espn Redes tiene en Facebook para difundir sus contenidos, se colgó este sábado un video que se volvió viral y que ahora recorre las redes sociales. En el video se puede ver entonces a cuatro mujeres que intentan de manera desesperada sacarse una selfie con el celular de una de ellas. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Prueban, intentan, mueven el teléfono, lo miran. Pero no hay caso. “¿Qué botón toco?, “¿Qué es esa luz roja?”, son algunas de las preguntas que se hacen. Nunca supieron que estaban filmando. El video fue visto por más de dos millones de personas y ya sumó más de 3600 comentarios, todos en apoyo absoluto a las señoras. Alguno hasta ya se ofreció a enseñarles. También leé: "Así se tomó la selfie un pasajero con el secuestrador de un avión de Egyptair"

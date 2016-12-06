@@ -1,0 +1,17 @@
+
+En esta era tecnológica ya nada es lo que parece. Muchas veces se popularizan videos o fotos que recorren el mundo, pero que en realidad son trucadas con alguna aplicación. Por eso, al ver viralizarse el video de un accidente extraño en China -donde parece que los autos levitan- muchas personas dudaron de su legitimidad. Pero esta vez es real.La grabación del insólito accidente fue captada por una cámara de seguridad vial instalada en una esquina de la ciudad china de Xingtai, donde se puede ver cómo dos automóviles "levitan" de manera misteriosa en plena calle al llegar a un paso de cebra.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

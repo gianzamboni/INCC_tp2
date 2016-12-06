@@ -1,0 +1,21 @@
+
+El presidente Mauricio Macri ensayó hoy algunos pasos de baile y siguió el ritmo tropical batiendo palmas al participar de la apertura del festival de cumbia que se realiza con entrada gratuita en Tecnópolis. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Macri, acompañado por el director del Sistema Nacional de Medios Públicos, Hernán Lombardi, se encontró con músicos y cantantes como Ariel Puchetta, Hernán Coronel (del grupo "Mala Fama") y el animador Daniel "La Tota" Santillán en el escenario donde se brindarán los conciertos durante toda la jornada. "¿Ya tiene el sonido conectado?", preguntó el Presidente, que se mostró ansioso para bailar.  Mirá también: Macri intentó otra vez con el baile: ahora se animó al chamamé Con vestimenta informal, Macri coreó también parte de la canción "Amores como el nuestro" que entonaba desde un micrófono Daniel Cardozo, ex cantante de "Los Charros", mientras el grupo era acompañado en la rítmica con un "guiro", un instrumento de percusión.
+
+El jefe de Estado se tomó también varias fotografías con los músicos y posó, con la mano en la cara, junto al cantante Coronel y a Lombardi, quien se destacó con una camisa blanca con lunares multicolores. Mirá también: Obama bailó tango y causó la sorpresa de una ministra de Macri El festival gratuito reunirá en los escenarios de Tecnópolis, en Villa Martelli, a los grupos Los Palmeras, La Nueva Luna, Mala Fama, La Repandilla, El Polaco, Nene Malo, Ariel Pucheta y La Otra Dimensión. Además, según lo anunciado en la agenda de actividades de Tecnópolis, habrá "batalla de DJs", presentación de los "mejores youtubers del país" y ex participantes de Gran Hermano, como el pampeano Martín Peppa. Mirá también: La realidad editada: un acto sin periodistas     Hoy explota #APuraCumbiaTecnopolis Vamosssss!!!! A photo posted by Martin Pepa (@martinpepaok) on Oct 1, 2016 at 9:23am PDT
+

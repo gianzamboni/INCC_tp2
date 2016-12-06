@@ -1,0 +1,82 @@
+
+Un pancho tiene dos ingredientes: un pan y una salchicha. Algunos le ponen mayonesa, mostaza o ketchup y lluvia de papas pays. También están los que son más sofisticados y le agregan verduras, chucrut u otros elementos. Pero más allá de todo eso, la clave para que esa comida sea un éxito es una sola: que la salchicha sea buena. Esa consigna, “la buena salchicha”, es el leit motiv al que apuestan Guillermo Moreno y César Milani, dos emblemáticos ex funcionarios kirchneristas, en su panchería “Tío Tola” que acaban de abrir en Ingeniero Maschwitz, provincia de Buenos Aires.
+
+Ubicada frente al Mercado de Maschwitz, sobre la ruta provincial 26, a metros de la colectora ramal este de Escobar, la pequeña casita de madera color beige y puertas bordó, con un techo a dos aguas, parece sacada de una pequeña aldea alemana.
+
+La única identificación es un cartel en blanco y negro donde un hombre fornido con un gorro de marino (con un ancla) sostiene un pancho y una cerveza con la ventana redonda de un camarote de fondo. “Tío Tola” se lee arriba y debajo figura el lema “la buena salchicha”.
+
+En su interior, la decoración es simple y moderna: una barra de madera con tapa de mármol, varias banquetas, pocas mesas, una heladera con bebidas, y un letrero que dice “abierto” en luces de neón. Colgado, un delantal de tela arpillera con el lema “la buena salchicha” y algunas pizarras negras escritas con tiza mostrando los precios. Nada más.
+
+Tal como reveló Clarín en exclusiva en febrero, Moreno y Milani se asociaron con el empresario Carlos Castelli, fundador de Visión 101 y de Blue Star Group, que desarrollan las marcas “Todo Moda” e “Isadora”, en Tío Tola S.A. para abrir una cadena de venta de panchos. La empresa fue registrada por 99 años con un capital de $100.000, según consta en el Boletín Oficial. Cuatro meses después, su primer negocio ya es una realidad y los ex funcionarios son  empresarios gastronómicos con todas las letras. Mirá también: Guillermo Moreno y el ex general Milani, socios: crearon una empresa para poner una panchería Sin embargo, Moreno y Milani no apostaron al pancho común y corriente, sino al sector más premium del mundo de los hot dogs. “Tío Tola” ofrece panchos de salchichas alemanas (100% de Germany, aclaran en un pizzarón) y la promoción de inauguración del local fue insuperable: una salchicha alemana más una gaseosa por solo $35. Otro detalle: prometen tenerlo listo en apenas 2 minutos. 
+
+
+“Me están pidiendo trabajo en la panchería periodistas que fueron echados de sus empleos en los últimos meses", dijo Moreno.
+
+
+
+
+
+var act_5c4 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_5c4 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_5c4.setTitle('“Me están pidiendo trabajo en la panchería periodistas que fueron echados de sus empleos en los últimos meses", dijo Moreno.');
+act_5c4.setSubtitle('Exclusivo'); 
+act_5c4.setLinkBack('http://www.clarin.com/politica/pancheria-Guillermo-Moreno-Cesar-Milani_0_1594640652.html');
+act_5c4.setDescription('Los ex funcionarios kirchneristas abrieron &ldquo;T&iacute;o Tola&rdquo; bajo el lema &ldquo;La buena salchicha&rdquo;. Est&aacute; en Ingeniero Maschwitz pero quieren expandirse a otras localidades. Los precios.');
+act_5c4.addActionLink('VER MÁS', 'http://www.clarin.com/politica/pancheria-Guillermo-Moreno-Cesar-Milani_0_1594640652.html');
+
+var showShareBarUI_params_5c4=
+{ 
+containerID: 'shareQuote_5c4',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_5c4,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_5c4
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_5c4);
+ La panchería ofrece además cuatro tipos de cervezas: $50 los porrones de Corona y la Patagonia, $45 la Stella Artois y $30 la Quilmes. Y $18 pesos las aguas saborizadas, minerales y las latas de gaseosas.
+
+El negocio de los ex funcionarios K en Maschwitz aparece como la opción económica de la calle que aglutina a decenas de restaurantes en una suerte de polo gastronómico de la localidad del partido de Escobar. Sus competidores ofrecen desde sushi, pasando por comida peruana, opciones veganas hasta milanesas o picadas, pero a precios mucho más altos que los panchos alemanes de Moreno y Milani. El menú ejecutivo más económico del lugar cuesta entre $120 y $140.
+
+ Cuando Clarín reveló su nueva veta de negocios, Moreno contó que estaba en tratativas para llevar sus pancherías a los complejos de Censosud, donde funcionan el supermercados Jumbo y el mayorista Easy. Uno de sus objetivos era el outlet de Parque Brown en Villa Lugano. Al día de hoy, no hay locales de Tío Tola en el lugar. Mirá también: Guillermo Moreno: "Videla tiraba gente al mar, pero no le sacó la comida a la gente" "Vamos a dar trabajo en un contexto que todos despiden", había prometido Moreno, que la semana pasada dijo que Macri era peor que el dictador Jorge Rafael Videla.  Anoche, en la pantalla de Canal 9, bromeó al respecto: “Me están pidiendo trabajo en la panchería periodistas que fueron echados de sus empleos en los últimos meses", dijo. Hoy al mediodía, dejar un currículum para Tío Tola era imposible: la panchería estaba cerrada. ADEMÁS SU N°2 ABRE UNA PANADERÍA​ Meses después de que Moreno y Milani se asociaran con el empresario Carlos Castelli en su panchería, Pablo Cerioli, mano derecha del ex funcionario K, se unió a la ecuación. El hombre que supo ser el número dos de Moreno en la secretaría de Comercio Interior y luego director de Papel Prensa en representación del Estado creó con Castelli la firma Tío Pepín SRL dedicada a la "fabricación, elaboración, comercialización y distribución de todo tipo de productos de panificación y alimenticios" con un capital de $100.000. Su domicilio es el mismo en el que Moreno registró con Milani y Castelli su empresa de panchos: Santo Domingo 2468.
+
+Otro detalle: Moreno y Cerioli son socios en la empresa Inversora Ausland SA que el ex funcionario posee con su esposa, Marta Cascales, y otros ex integrantes de su equipo en el Gobierno.  ​.

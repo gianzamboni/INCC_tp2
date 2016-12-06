@@ -1,0 +1,18 @@
+
+La búsqueda de una nena de 12 años continuaba hoy en la ciudad bonaerense de Bahía Blanca y sus alrededores. En el operativo intervienen policías, familiares y vecinos que a ocho días de la desaparición, afirman "no tener novedades". Micaela Aldana Ortega es buscada desde el sábado 23, cuando su madre denunció la desaparición luego de encontrar una carta de la adolescente que le anunciaba que se iba a la ciudad de Ingeniero White "con una amiga" a quien nadie conoce en la familia. El supuesto destino está a unos 10 kilómetros de su hogar. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Micaela mide algo más de 1,50 metro, tiene cabello rubio largo y tez blanca, vive en el barrio Noroeste de Bahía Blanca y vestía jeans negro con zapatillas la última vez que fue vista por sus allegados. Mónica Cid, su mamá, aseguró hoy al portal del diario local La Nueva Provincia que "no había novedades" porque no había recibido llamadas a su teléfono celular de parte de los investigadores. Y junto  a más familiares y vecinos volvían hoy a rastrillar en distintos lugares de la ciudad. "No tengo ni la más pálida idea de con quién se fue", señaló Cid en las últimas horas a radios locales , y le pidió a su hija que vuelva a su casa porque aseguró que está "desesperada". ​El martes se realizó una marcha pidiendo por el regreso de Micaela.  La búsqueda se extendió ayer por los barrios Colón, Villa Delfina y Loma Paraguaya con perros adiestrados de los bomberos de Punta Alta. "A más de una semana de la búsqueda estamos como cuando arrancamos", lamentó Claudio Ortega, padre de la niña, y señaló que le "sorprende que no haya ningún dato positivo" pese a que "se está trabajando". La madre destacó el aporte de vecinos que dicen que "la ven en todos lados, pero ni una señal" concreta de su paradero. "Para mí alguien la tiene retenida", había dicho días atrás la mujer y recordó que la niña le había dejado una carta en la que indicaba: "Te amo, soy una mala hija. Estoy con una amiga en White". Cid contó que "en la madrugada del sábado alguien se contactó con ella" a través de "su notebook. La superaron las redes sociales, tenía cuatro Facebook. Nosotros le decíamos que tuviera cuidado porque detrás de un chico en Facebook puede haber un mayor". La mujer contó que el viernes a la noche discutió con su hija. "No me parecía que a los 12 años debía tener novio y le saqué el celular", dijo. Sin embargo, el sábado a la mañana cuando la fueron a despertar la niña ya no estaba en la casa. " Se contactó con el novio: estaba durmiendo y no sabía nada", amplió, por lo que pidió ayuda a la población y a las autoridades para encontrar a la niña. Fuente: DyN

@@ -1,0 +1,18 @@
+
+Boeing, el principal fabricante de aviones del mundo, acaba de presentar un nuevo video del despegue del avión 787-9 Dreamliner, su nave insignia. Las imágenes no tardaron en viralizarse, ya que muestran a la aeronave despegar casi en forma vertical. En cinco días sumó 2,5 millones de visualizaciones en YouTube. Mirá también: El terror de los pasajeros durante un aterrizaje con viento cruzado  El video, que parece desafiar las leyes de la física, se suma a otro que la compañía difundió el año pasado, en el que mostró un despegue del mismo modelo, pero con una nave para otra compañía que se dirigía a la Feria de París. Esta vez, la aeronave forma parte de la aerolínea japonesa Ana. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La nave, capaz de transportar a 230 pasajeros, puede realizar un despegue en casi 90 grados. Aunque, claro, este despegue vertical que realizaron los pilotos Randy Neville, Van Chaney, y John Misuradze, fue sólo para testear su capacidad, pero no será puesto a prueba con pasajeros en su interior.  El primer Boeing 787-9 Dreamliner hará su debut internacional con un vuelo entre el Aeropuerto Internacional de Dallas/Fort Worth y el Aeropuerto Adolfo Suárez Madrid-Barajas el próximo 4 de noviembre, según informó American Airlines en un comunicado. Leé también: "El despegue del nuevo Boeing 787-9"  El nuevo avión cuenta con 30 asientos de Clase Ejecutiva, 27 asientos de Main Cabin Extra, 207 asientos de Clase Turista y 21 asientos de la nueva categoría Premium Economy. Todos ofrecen un sistema de entretenimiento personal con pantalla táctil, toma de corriente y entradas USB, WiFi y acceso sin costo a canales de televisión en vivo, con la posibilidad de ver 300 películas incluyendo 48 estrenos, programas de televisión y juegos. 

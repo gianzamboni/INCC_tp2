@@ -1,0 +1,84 @@
+
+Lo que el ex funcionario y mano derecha de Julio De Vido intentaba esconder en el convento de General Rodríguez no era sólo dinero. Además de los cuatro bolsos que le encontraron y que en su interior tenían, fajos de dólares, al ex secretario de Obras le secuestraron euros, relojes y un arma de largo calibre marca SIG SAGUER CAL 22 serie XA 033368 con cargador con 25 cartuchos. Mirá también: Video: así se llevaban detenido a José López del convento 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Exclusivo de Clarín: Así esposaban a José López También llevaba una valija cerrada, que quedó en poder de la Policía Científica, que luego constató que ahí también había dólares. La fiscalía de la UFI Nro. 10 de Moreno/General Rodríguez, a cargo de Antonella Carla Occhipinti, dispuso el conteo de dinero. 
+
+
+ ​El detalle final del conteo, que finalizó esta madrugada es el siguiente: 8.982.047 dólares, 153.610 euros, 59.114 pesos, 425 yuanes y 2 Ryales.
+
+
+
+
+
+var act_814 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_814 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_814.setTitle(' ​El detalle final del conteo, que finalizó esta madrugada es el siguiente:&nbsp;8.982.047 dólares,&nbsp;153.610 euros,&nbsp;59.114 pesos, 425 yuanes y 2 Ryales.');
+act_814.setSubtitle('Corrupción K'); 
+act_814.setLinkBack('http://www.clarin.com/politica/millonario-botin-encontraron-Jose-Lopez_0_1595240678.html');
+act_814.setDescription('Adem&aacute;s de los US$ 8.982.047&nbsp;millones tambi&eacute;n ten&iacute;a varios relojes, 153.610 euros, yenes, ryales y un fusil. Mir&aacute; el video.');
+act_814.addActionLink('VER MÁS', 'http://www.clarin.com/politica/millonario-botin-encontraron-Jose-Lopez_0_1595240678.html');
+
+var showShareBarUI_params_814=
+{ 
+containerID: 'shareQuote_814',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_814,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_814
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_814);
+ Mirá también: Macri habló de la detención de López: "Un episodio bochornoso" En total, el dinero estaba repartido en 160 bultos y algunos fajos estaban termosellados. Según pudo saber Clarín, al conteo del dinero hubo que realizarlo a mano porque los billetes estaban húmedos. Mirá también: Un ministro de Macri, lapidario: "Acá no hubo magia, hubo curro" La policía además encontró un recibo de compra de un banco en Beijing, dos celulares de Apple (Iphone 6), dos relojes Rolex, dos relojes Omega, dos Hamilton y un Tommy.

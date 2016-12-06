@@ -1,0 +1,22 @@
+
+Entre el 24 y el 31 de julio de este año, la Geological Survey de los Estados Unidos registró imágenes del enorme lago de lava de aproximadamente cinco kilómetros de largo y 3,2 de ancho en el interior del volcán Kilauea. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El volcán tiene una vida de entre 300.000 y 600.000 años de antigüedad y originalmente terminaba en una cumbre que, con el tiempo, dejó paso a una superficie plana donde ahora se ve un cráter de una profundidad de algo más de 150 metros.  Días atrás, una imagen de este volcán se hizo popular en Internet porque mostraba una configuración de lava que parecía, vista desde el aire, un emoticón de cara sonriente. Mirá también: Video: la "cara sonriente" de un volcán sorprende en Hawai Otra de las imágenes impactantes que entregó recientemente este volcán fue el de su lava vertiéndose en aguas del océano Pacífico.
+
+ Cuenta la agencia de noticias AP que en las últimas semanas, miles de personas de todo el mundo han acudido al Parque Nacional de los Volcanes, en la Gran Isla de Hawái para contemplar la escena de lava escurridiza, que además puede escucharse y olerse.
+
+ “La oleaginosa y resplandeciente materia murmura y silba y huele a azufre, al tiempo que se abre paso por la escarpada ladera hacia el mar”, describe la escena Caleb Jones, de AP. Mirá también: Volcán en erupción deslumbra a turistas  El volcán Kilauea es uno de los más activos del mundo. Entró en actividad en los años ochenta y periódicamente despide suficiente lava como para que la gente pueda verla.  El Parque Nacional de los Volcanes registra entre 1.000 y 1.500 visitantes más al día desde que la lengua de lava llegó al mar a finales de julio, explicaron responsables del centro que ahora atiende a unas 6.000 personas diarias.

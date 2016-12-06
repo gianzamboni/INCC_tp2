@@ -1,0 +1,22 @@
+
+A veces la mano del hombre busca colaborar con la naturaleza y no destruirla. Es el caso de quienes trabajan en The Kangaroo Sanctuary, un refugio situado en Australia que se dedica al cuidado de los canguros y a rescatar crías que  han quedado huérfanas. Pero esta semana el lugar acaparó la atención de personas de todo el mundo. Un video publicado recientemente en la cuenta del santuario en Instagram  que muestra cómo el cuidador brinda cariño a dos canguros bebés utilizando una funda de almohada como si fuese el marsupio o bolsa que las madres canguro tienen para llevarlos se convirtió en furor en la web y fue visto por más de 4 millones de personas.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Video: toda la ternura de una mamá koala con su cría La cuenta de The Kangaroo Sanctuary suele contar el día a día del refugio de estos peculiares marsupiales. Incluso la cadena BBC y el sitio de National Geographic documentaron el trabajo de conservación del lugar. Pero las imágenes publicadas por el refugio el 25 de agosto sobre la cría de los bebés de canguro que perdieron a su mamá llenaron de emoción a los fans de todo el mundo.  "Estamos felices de compartir en Instagram a nuestra bebé canguro Patty y nuestro santuario con mucha gente de todo el mundo", publicaron en el perfil de esa red local del refugio. 
+
+Las imágenes muestran cómo Christopher Brolga Barns, creador del santuario, usa una funda de almohada para hacerle sentir al bebé canguro que está protegido: "Tienes que imitar la bolsa de la madre. Por eso lo ponemos dentro de una funda de almohada y lo llevamos sobre nuestra panza para que pueda sentir nuestra respiración y el calor de nuestros cuerpos", cuenta el hombre tanto en Instagram como en Facebook. 
+
+Mirá también: Sorpresa en un zoo: una panda da a luz a mellizos Hace más de 10 años que Brolga se dedica al cuidado de los canguros en el Norte de Australia. Ahora planea construir un hospital para curar animales que no están en cautiverio. "Es un sueño cuidar animales salvajes, verlos crecer; y después un día, si todo va bien, observarlos correr hacia la puesta de sol y vivir libres en la naturaleza", confiesa el especialista en las redes. 

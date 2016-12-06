@@ -1,0 +1,94 @@
+
+Momentos de tensión se vivieron en la localidad de Ituzaingó, en el Oeste del Gran Buenos Aires, por el enfrentamiento entre vecinos y efectivos de la Policía Bonaerense luego de las denuncias de dos intentos de secuestros de chicos. Desde las redes sociales, la gente acusó por ambos casos a integrantes de un circo que funciona en la zona.
+
+
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_jtkrux2z",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_jtkrux2z"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_jtkrux2z").after(scriptEl);
+ A la madrugada, un grupo de jóvenes se juntó frente al circo ubicado en Avenida Ratti al 2100 y la Policía les pidió que se retirasen porque, según ellos, no había denuncias de secuestros. De todas maneras, ingresaron al lugar y provocaron destrozos. La tensión creció con el correr de las horas y esta tarde un grupo de vecinos volvió a concentrarse frente al circo, y comenzó a tirar piedras. La Policía respondió con balas de goma y gases lacrimógenos. Una parte de los manifestantes se retiró, pero llegaron otros del barrio humilde San Alberto con más piedras y se profundizó el conflicto. Se registraron enfrentamientos durante una hora y media. 
+ Al grupo inicial de efectivos de Infantería que intentó dispersar a los manifestantes sumaron refuerzos, y los enfrentamientos se extendieron hacia otras calles del barrio, como Grecia. Hubo al menos cuatro manifestantes detenidos. Uno de los policías a cargo del operativo que no se identificó admitió que "hay heridos (un agente fue atendido por un piedrazo en un ojo) y detenidos", y cuando le preguntaron si la protesta de los vecinos es por una denuncia de secuestro de una nena, respondió: "Tentativa...". 
+
+El intendente de Ituzaingó, Alberto Descalzo, explicó en diálogo con TN: "Sabemos que hace una semana se está convocando por las redes sociales en relación a que la gente del circo está secuestrando chicos en Ituzaingó, pero no ha ocurrido ningún hecho de secuestro de chicos aquí. Sí hay dos denuncias de vecinos de intentos, uno de ellos sin datos fehacientes. Estamos sorprendidos porque en Ituzaingó nunca pasan cosas así, creo que alguien está dando manija desde afuera, y no creo que venga de un sector político".
+
+ "Hay que llevar tranquilidad a la comunidad, no hay denuncias de secuestros", había comentado esta mañana el subcomisario Damián Contreras al programa Estación Ituzaingó, de la Radio Pública del Oeste. Y agregó: ​"No hay ningún secuestro denunciado. Las redes sociales potenciaron estos rumores pero no es así". #Ituzaingó Pueblada a una cuadra de casa. Vecinos denuncian que el "Circo Royal" secuestraba pibes en la zona pic.twitter.com/KPj6us0RPz— Ignacio Etchart (@etchart_ignacio) 30 de junio de 2016
+ Sin embargo, en medio de los disturbios, un joven llamado Jonathan Ferreira confirmó que habían intentado raptar a su hija de cuatro años. "Llevaba a la 1 de la tarde a mi nena al jardín, bajó un hombre de una camioneta blanca y forcejeó conmigo para intentar sacármela. '¡Dame a la nena, dame a la nena!', me decía. Al final no pudo y escapó. Si no fuese por un vecino que ayudó, a mi nena no la tengo. Hice la denuncia en la comisaría (la 4ª de San Alberto) el mismo día, el 22 de junio, pero extrañamente no llegó a ninguna fiscalía. Por eso ayer la concreté también en una fiscalía", afirmó. "Nosotros queremos seguridad, esto es una zona liberada", reclamó Jonathan, en sintonía con otros vecinos que pedían más patrullaje. 
+
+
+Llevaba a la 1 de la tarde a mi nena al jardín, bajó un hombre de una camioneta blanca y forcejeó conmigo para intentar sacármela. Si no fuese por un vecino que ayudó, a mi hija no la tengo", afirmó Jonathan Ferreira, quien realizó una de las denuncias.
+
+
+
+
+
+var act_2f3 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_2f3 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_2f3.setTitle('Llevaba a la 1 de la tarde a mi nena al jardín, bajó un hombre de una camioneta blanca y forcejeó conmigo para intentar sacármela. Si no fuese por un vecino que ayudó, a mi hija no la tengo", afirmó Jonathan Ferreira, quien realizó&nbsp;una de las denuncias.');
+act_2f3.setSubtitle('Ituzaingó'); 
+act_2f3.setLinkBack('http://www.clarin.com/sociedad/Piedrazos-vecinos-policias-polemico-circo_0_1604839623.html');
+act_2f3.setDescription('Hubo dos denuncias. La gente protestaba frente a un circo a cuyos integrantes acusan por los casos. Heridos y al menos cuatro detenidos. MIRA LA FOTOGALERIA HD');
+act_2f3.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/Piedrazos-vecinos-policias-polemico-circo_0_1604839623.html');
+
+var showShareBarUI_params_2f3=
+{ 
+containerID: 'shareQuote_2f3',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_2f3,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_2f3
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_2f3);
+ La gente empezó a vincular los casos al circo Royal, establecido hace unos dos meses en Ituzaingó, presuntamente porque el vehículo usado es similar a uno que tiene la compañía de artistas. El hijo del dueño del circo salió a desmentir cualquier relación con lo denunciado. "No tenemos nada que ver con lo que dicen. Si llega a pasar algo así, yo mismo agarro a la persona responsable del cogote y la llevo a la comisaría", sostuvo. Y agregó: "Anoche vinieron y nos rompieron todo. Nos íbamos a quedar en las vacaciones de invierno, pero ya empezamos a desarmar. Nos deja atónitos lo sucedido". Una vez que se dispersaron los vecinos, el subsecretario de Seguridad del Municipio, Hugo Rojas, señaló sobre la situación: "Sólo hubo dos denuncias de intentos de secuestro, una en Mirave y Ratti, el 22 de junio, y la otra del lado Sur, el 16 de junio". El episodio de Miravé y avenida Ratti fue a 20 cuadras de donde está el circo, pero desde la Comuna señalan que no hay indicios que lo vinculen con los trabajadores del lugar. Clarín Zonales 

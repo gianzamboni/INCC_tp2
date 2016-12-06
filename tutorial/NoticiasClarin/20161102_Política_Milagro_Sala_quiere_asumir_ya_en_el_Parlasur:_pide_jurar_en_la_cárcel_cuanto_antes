@@ -1,0 +1,92 @@
+
+A poco de cumplir 10 meses presa, Milagro Sala le reclamó hoy al presidente del Parlasur, el ex Canciller K Jorge Taiana, que viaje de manera urgente a Jujuy para tomarle juramento como parlamentaria del Mercosur, cargo en el que fue electa en las últimas elecciones pero que nunca asumió.  Mirá también: El fiscal de Estado criticó el informe del grupo de Trabajo de ONU por Milagro Sala A través de una carta escrita a mano, que le entregó a Gabriel Mariotto, que la visitó en la cárcel de Alto Comedero, la líder de la Tupac Amaru dijo: "En conocimiento de la propuesta de tomarme juramento en la penitenciaria de Alto Comedero donde estoy ilegalmente privada de la libertad, solicito a usted que a la brevedad se haga presente para realizar dicho acto estando en ejercicio pleno de mis derechos civiles y por el cual podré representar al pueblo en la función que he sido electa". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/gabmariotto/status/793921554849665024",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79392155484966502")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Para Sala, el dictamen que emitió la semana pasada una comisión de trabajo de Naciones Unidas, documento no vinculante que el Gobierno de Jujuy desestimó, "expone la arbitrariedad del poder judicial de mi provincia y el ensañamiento contra mi persona y el resto de los compañeros detenidos". En ese sentido, sostuvo que el gobernador Gerardo Morales "impone un brutal atropello interviniendo en otros poderes del Estado". Mirá también: Avruj sobre Milagro Sala: "El informe de la ONU no es vinculante" Desde hace semanas, los diputados del Parlasur alineados al Frente para la Victoria insisten con que el titular del cuerpo legislativo regional vaya hasta la cárcel para tomarle juramento a Sala, privada de su libertad desde el 16 de enero, por distintas causas vinculadas a corrupción y defraudación a la administración pública.  Mariotto visitó a Sala hoy en compañía de Fernando Esteche en Alto Comedero, como parte encuentros periódicos que mantienen desde la dirigencia de MILES con ella. "Está muy entusiasmada con el fallo de Naciones Unidas, que es categórico aunque Morales dice que no la van a soltar", afirmó en diálogo con Clarín el ex vicegobernador bonaerense, que el lunes le dará en mano la carta a Taiana.   "Entiendo que Taiana va a responder con la vocación de venir y tomarle juramento, el reglamento indica que se toma en el pleno del Parlasur, pero no prevé la imposibilidad de no poder concurrir", agregó Mariotto, que aclaró que Sala "no pide fueros", sino cumplir con sus derechos civiles, los mismos que le permitieron ser candidata.  En efecto, la líder de la Tupac estaba en libertad cuando asumieron los diputados del Parlasur, pero se ausentó del acto que tuvo lugar el 14 de diciembre de 2015, pocos días después de la asunción de Mauricio Macri como presidente de la Nación. Mirá también: Estas son las casas por las que Milagro Sala cobró millones de pesos y nunca terminó
+
+"Reclamo el ejercicio de jurar como parlamentaria y asumir como representante del pueblo que me votó nuevamente, le reclamo querido compañero la toma de juramento en mi injusto lugar de detención; esperando verlo próximamente por acá", cierra su breve misiva, que firma como "presa política".  Sala apela al dictamen emitido por el Grupo de Trabajo sobre la detención arbitraria de Naciones Unidas que sostuvo que "la detención de la señora Milagro Sala es arbitraria" y en consecuencia solicitó "al gobierno de la República Argentina liberarla de inmediato", según informó el Centro de Estudios Legales y Sociales (CELS). En efecto, la asunción de la líder de la Tupac no implicaría su liberación. El organismo de la ONU manifestó que ella contaba con fueros a la hora de su detención, algo que no es tan así por dos cuestiones:  primero, porque no llegó a asumir y, además, porque a raíz de una presentación judicial que hizo Gerardo Milman, cuando era diputado nacional, se anuló la inmunidad de arresto de los parlamentarios del Mercosur.   "Las condiciones de Alto Comedero son malas -graficó Mariotto a Clarín- la penitenciaria es de castigo, no de una reclusión racional. A pesar de eso la notamos muy bien de ánimo, estimulada por la preocupación de las instituciones de Naciones Unidas y los Comités de Solidaridad".
+
+En ese sentido y a pesar de que el Gobierno ya declaró que la decisión del grupo de trabajo de la ONU no es vinculante, Mariotto confía en que más temprano que tarde Sala será liberada. "La canciller Malcorra es diplomática de carrera y conoce qué significa una resolución de la ONU, confiamos que con racionalidad se va a cumplir", expresó. “No es posible que jure en la cárcel”, advirtió a Clarín Norma Aguirre, parlamentaria del Mercosur por Jujuy. “El cuerpo parlamentario es un órgano colectivo y la jura se hace ante el cuerpo, antes los demás parlamentario, se hace la asunción de la responsabilidad de representar a los votantes frente a los representantes de los votantes”, explicó. 
+
+
+"La única parlamentaria argentina de los 43 que no asumió fue Sala que no asistió a Montevideo", contó Aguirre.
+
+
+
+
+
+var act_248 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_248 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_248.setTitle('"La única parlamentaria argentina de los 43 que no asumió fue Sala que no asistió a Montevideo", contó Aguirre.');
+act_248.setSubtitle('Jujuy'); 
+act_248.setLinkBack('http://www.clarin.com/politica/Milagro-Sala-asumir-Parlasur-carcel_0_1679832144.html');
+act_248.setDescription('La líder de la Tupac Amaru le escribió una carta a Jorge Taiana para que viaje a Jujuy para tomar el cargo, aunque esté privada de la libertad. Mariotto, el cartero.');
+act_248.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Milagro-Sala-asumir-Parlasur-carcel_0_1679832144.html');
+
+var showShareBarUI_params_248=
+{ 
+containerID: 'shareQuote_248',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_248,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_248
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_248);
+   Para Aguirre, que ha estudiado los protocolos del Palasur a raíz de la detención de Sala, este reclamo de la líder de la Tupac “es una acción desesperada de un grupo que está en camino de fractura” y menciona que varios parlamentarios del FpV ya formaron una suerte de interbloque peronista.
+
+  Además, la legisladora radical recalcó que Sala podía haber asumido en diciembre pero no lo hizo. “Tenia un deber para con quienes la votaron y ella estaba en total libertad, el 14 de diciembre; uno no puede asumir cuando quiere, donde quiere, es algo muy serio el Parlasur y hay que tomarlo así”, sentenció ante la posibilidad de movilizar a los más de 200 parlamentarios hasta la cárcel en San Salvador de Jujuy para que jure como sus pares, frente a todo el Parlamento. Mirá también: Milagro Sala: "Yo no soy lo mismo que José López y Lázaro Báez" La carta completa:  Compañero Jorge Taiana, Presidente del Parlasur:  Por medio del compañero Gabriel Mariotto y en conocimiento de la propuesta de tomarme juramento en la penitenciaria de Alto Comedero donde estoy ilegalmente privada de la libertad, solicito a usted que a la brevedad se haga presente para realizar dicho acto estando en ejercicio pleno de mis derechos civiles y por el cual podré representar al pueblo en la función que he sido electa.  El dictamen de naciones unidas en reclamo de mi libertad expone la arbitrariedad del poder judicial de mi provincia y el ensañamiento contra mi persona y el resto de los compañeros detenidos de parte del gobernador que impone un brutal atropello interviniendo en otros poderes del Estado. Por ellos, reclamo el ejercicio de jurar como parlamentaria y asumir como representante del pueblo que me votó nuevamente, le reclamo querido compañero la toma de juramento en mi injusto lugar de detención; esperando verlo próximamente por acá. Milagro Sala​Presa política​ ​¿QUÉ DIJO TAIANA? Horas después de conocerse la carta de Milagro Sala, Jorge Taiana, titular del Parlasur, se refirió al pedido de la Líder de la Tupac. "Es posible que Milagro Sala jure en la cárcel, pero requiere consenso del Parlasur", afirmó a FutuRock FM. 
+
+"El Presidente pidió la libertad de Leopoldo López, quien también ha sido declarado detenido arbitrariamente por el Grupo de Tareas de la ONU. Hay un nivel de hipocresía importante por parte del presidente Macri", criticó al Jefe de Estado. 

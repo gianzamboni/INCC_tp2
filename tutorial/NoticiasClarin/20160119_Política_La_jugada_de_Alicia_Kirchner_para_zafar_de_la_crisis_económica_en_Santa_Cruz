@@ -1,0 +1,68 @@
+
+Con números en rojo y varios frente de reclamos laborales, la gobernadora Alicia Kirchner avanza hacia lo que diputados opositores y referentes gremiales consideran será una ley de emergencia económica en Santa Cruz. Con un déficit presupuestario de $ 4.600 millones, de los cuales $ 2.000 millones corresponden a la Caja de Previsión Social, la cuñada de Cristina Kirchner tiene fondos hasta fines de febrero para cubrir los gastos corrientes. La incertidumbre marca el ritmo político en Santa Cruz por estas horas.  "El gobierno busca justificar una emergencia que nosotros no vamos a avalar, la gobernadora empezó hace dos semanas con un decreto (en el plantea la reducción de personal estatal y revisión de números) planteando una crítica situación financiera y que a fines febrero le va a dar más datos para enviar en marzo la ley", advirtió a Clarín la diputada por Encuentro Ciudadano Gabriela Metelán. Alicia Kirchner, días atrás, cuando vino a la Rosada a buscar plata. La recibió Frigerio. Se fue sin nada El grupo de ocho diputados de Unión para Vivir Mejor espacio liderado por el radical Eduardo Costa, enviará esta semana un pedido de sesión extraordinaria a la gobernadora "para que se transparenten los números que dieron origen al decreto y a las declaraciones de Alicia de que la provincia está quebrada", indicó la legisladora provincial.  La oposición, además, sostiene con firmeza que no permitirán que el FPV conduzca a Santa Cruz nuevamente a una emergencia económica. La última fue implementada por Néstor Kirchner apenas asumió su gobernación, en 1991, y estuvo en vigencia durante 17 años, incluso cuando la Provincia era superavitaria, cerrando las paritarias salariales por todos esos años. "La gobernadora hace una descripción acertada de todo lo que los santacruceños vivimos, lo que ocurre es que no se hace cargo de que esta devastación es responsabilidad de este gobierno que cambió de rostros pero que hace 25 años que está en el poder sin rendir cuentas haciendo un manejo discrecional y arbitrario de los fondos públicos beneficiando empresarios amigos", denunció Metelán.  La mayor preocupación del gobierno de Alicia Kirchner es el saldo en rojo que la Caja de Previsión Social genera en las arcas provinciales. La semana pasada informó a los intendentes que comenzará a descontar los respectivos aportes de forma compulsiva, algo que hasta la fecha no se estaba realizando. Además, dejó de realizar anticipos de coparticipación a los municipios y en muchos casos se dificultó el pago de salarios. "Necesitamos ver bien los manejos que se realizan y cómo es el envío de fondos", planteó a Clarín un funcionario provincial al explicar la medida. Una protesta gremial en Río Gallegos, días atrás. En este escenario, los gremios están en alerta y no van a aceptar ninguna "crisis financiera" como argumento al momento de sentarse a discutir en paritarias. "Cada vez que hay que hablar de aumentos el gobierno está en crisis, no vamos a aceptarlo ni tampoco una emergencia", dijo Pedro Cormak, secretario general del gremio docente ADOSAC. Además de la discrecionalidad para disponer aumentos salariales, la emergencia económica le permitiría a la gobernadora un manejo también arbitrario de los gastos. También se frenaría el ingreso de personal. La UOCRA, con 1.800 despidos, generados por el empresario Lázaro Báez, amenaza con volver a las rutas si no se cumple el pago de aguinaldos esta semana. En zona norte, el sector petrolero se movilizó reclamando por despidos generados en firmas contratistas. El clima es de constante tensión. 
+
+
+"Quieren justificar una emergencia económica y hace 25 años ellos gobiernan Santa Cruz", advierte una opositora
+
+
+
+
+
+var act_3f6 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_3f6 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_3f6.setTitle('"Quieren justificar una emergencia económica y hace 25 años ellos gobiernan Santa Cruz", advierte una opositora');
+act_3f6.setSubtitle('TENSIÓN EN EL INTERIOR'); 
+act_3f6.setLinkBack('http://www.clarin.com/politica/oposicion-Alicia-Kirchner-emergencia-economica_0_1506449769.html');
+act_3f6.setDescription('La gobernadora y cuñada de Cristina tiene fondos hasta fines de febrero para pagar sueldos. Los gremios y diputados opositores acusan al FPV de avanzar hacia una emergencia, tal como hizo Kirchner en 1991.');
+act_3f6.addActionLink('VER MÁS', 'http://www.clarin.com/politica/oposicion-Alicia-Kirchner-emergencia-economica_0_1506449769.html');
+
+var showShareBarUI_params_3f6=
+{ 
+containerID: 'shareQuote_3f6',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_3f6,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_3f6
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_3f6);
+ Por su lado, el diputado massista y ex ministro de Economía José Blasiotto analizó los últimos números de la Provincia, remarcando que no están dadas las condiciones para avanzar hacia una emergencia. "Quieren culpar al Gobierno nacional de no enviar fondos y con eso justificar que no hay otro camino, ya lo vienen charlando con sus legisladores", indicó a Clarín y añadió: "Tienen $1.500 millones en un plazo fijo, pero les alcanzará hasta fines de febrero". Alicia Kirchner se reunió el viernes con el ministro del Interior Rogelio Frigerio solicitando ATN y asistencia financiera. El Gobierno nacional fue claro al remarcar que recibirá "la misma atención y ayuda que los demás gobernadores, sin preferencias", señalaron a este medio desde la Casa Rosada. El mensaje repercutió con inquietud en Santa Cruz. Con varios frentes complicados y el planteo sostenido que recibió una "provincia quebrada en sus finanzas" con una planta de empleados públicos "que no da para más", la gobernadora dejó sin efecto un impuesto hacia las mineras que había creado su antecesor Daniel Peralta. El ex gobernador la criticó por Twitter señalando que es "un error político". Con Cristina Kirchner y Carlos Zannini como principales consejeros de la gobernadora, Santa Cruz vive además por estas horas la paralización de la obra pública que estaba en manos del empresario K Lázaro Báez y sin la ayuda de la Nación, en el entorno de Alicia sostienen que "no hay muchas salidas".

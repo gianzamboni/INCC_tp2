@@ -1,0 +1,22 @@
+
+La polémica por el delfín que apareció muerto en la playa de Santa Teresita sumó hoy un nuevo capítulo tras la aparición de un video  que muestra cómo el animal fue sacado del agua por un grupo de turistas para tomarse fotografías con él. Las imágenes, que fueron grabadas por otro turista, muestran cómo el hombre que sacó del agua al animal asegura que ya estaba muerto. Sin embargo, algunos de los rodean recomiendan regresarlo al mar. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El portal de noticias Infozona ya había subido a su sitio web una serie de fotos que mostraban a los turistas posando con el el pequeño delfín. Sucedió el 5 de febrero en Santa Teresita. El animal quedó tirado en la orilla, sin vida.  No estaba claro si el delfín del Plata, conocido como franciscana y que suele ser visto en el estuario del Río de la Plata, estaba muerto al momento de las fotos. Las imágenes, no obstante, causaron una gran conmoción entre los usuarios de Internet.
+
+Ayelén Rodríguez, una joven que estuvo ese día en la playa, contó que le pidió a la gente que dejara de tocarlo para poder devolverlo al mar, pero que no pudo. "Con un hombre intentamos reanimarlo pero sus heridas eran graves, no pudo soportarlo. Era tan solo bebe. Un animal increible, que tuvo la mala suerte de toparse con la peor especie de mamíferos que son los humanos", escribió en el perfil de Facebook de ese portal de noticias.
+
+Fundación Mundo Marino envió un equipo de rescatistas al lugar pero cuando llegaron el ejemplar ya no estaba. En un comunicado, informaron que no sabían si estaba con vida o no al momento de ser sacado del mar por los turistas.   "En estos casos lo más importante es llamar a instituciones con personas idóneas y profesionales, como la Fundación Mundo Marino, para que atiendan correctamente al animal. Mientras se espera a los profesionales, si el animal está con vida, se lo debe mantener en su medio con asistencia de 1 o 2 personas, y alejar al resto del público para que no se estrese", reza el comunicado.  Leé también: Polémica por un grupo de turistas que se sacó fotos con un delfín Las imágenes causaron indignación y famosos, como Nicole Neumann, lo manifestaron en las redes sociales. Pobre animal,cuanta mala suerte podes tener para caer en manos de tantos ignorantes,imbéciles juntos?!?!?!?!....Indignada💔que impotencia...🐋— Nicole Neumann (@nikitaneumann) febrero 18, 2016

@@ -1,0 +1,82 @@
+
+Un total de 26.157 hogares continúan sin corriente eléctrica en el primer día de 2016, según datos publicados por el Ente Nacional Regulador de la Electricidad (ENRE), y que corresponden a las 12 del mediodía de este primer día del año.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/laulit/status/682906177416597504",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68290617741659750")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+En las redes sociales se multiplicaron las quejas de aquellos que debieron iniciar el nuevo año sin energía eléctrica.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/RoGarraza_AA/status/682780980327911424",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68278098032791142")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+Del total de 26.157 afectados, 11.986 corresponden a la empresa Edenor, mientras que los 14.171 restantes son de Edesur.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Julietallanov/status/682815207228477441",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68281520722847744")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ En cuanto a su ubicación geográfica, los clientes afectados de Edenor son de las localidades bonaerenses de Villa Ballester, José C. Paz y Caseros, todas en el Conurbano.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/aldiii793/status/682787593830985728",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68278759383098572")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mientras que los clientes de Edesur con problemas de electricidad son los ubicados en las localidades bonaerenses de Quilmes Oeste, Lanús Oeste, Cañuelas y Glew.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/asadodedomingo/status/682702527729676288",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68270252772967628")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+En algunos casos estiman que la electricidad volverá dentro de una hora, aunque en otros casos las distribuidoras no informan cuándo se restablecerá el servicio.

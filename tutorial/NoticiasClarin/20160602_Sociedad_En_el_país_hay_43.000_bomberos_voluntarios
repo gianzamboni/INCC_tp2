@@ -1,0 +1,18 @@
+
+Cuando escuchan la sirena, tienen que dejar a sus familias y ocupaciones y correr a sus cuarteles. No cobran por arriesgar el pellejo en los siniestros y a veces pierden sus empleos por acudir a una emergencia. Hoy se celebra en todo el país el Día Nacional del Bombero Voluntario en honor al aniversario de la creación del primer cuerpo de Argentina.  El primer cuartel de voluntarios se creó hace 132 años en La Boca, para combatir los frecuentes incendios en los conventillos. Hoy hay 900 en todo el país, conformados por vecinos y vecinas que sienten la necesidad de ayudar a los demás sin recibir nada a cambio. Los amparan leyes nacionales, provinciales y municipales, que no siempre se cumplen. Todos hacen cursos obligatorios de capacitación en sus cuarteles y son bomberos profesionales, pero deben conciliar ese oficio ad honorem con un empleo, que muchas veces pierden. En la actualidad, el Sistema Nacional de Bomberos Voluntarios cuenta con más de 43 mil bomberos, de las cuales 7 mil son mujeres a lo largo y ancho del país. “El bombero es una persona muy comprometida con su comunidad y tremendamente responsable porque el voluntariado de bomberos requiere de mucho profesionalismo. Ser bombero implica un voluntariado de 24 horas por 7 días, los 365 días del año” comentó Javier Ferlise, Presidente de Fundación Bomberos de Argentina. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Tanto se la juegan estos hombres y mujeres que a veces hasta dejan la vida. Entre los voluntarios no hay nadie que no recuerde lo que sucedió el 5 de febrero del 2014, cuando pasadas las 9 de la mañana, el fuego en el depósito de la empresa Iron Mountain, en Barracas obligó a armar un gran operativo que tuvo bomberos, agentes de Defensa Civil y policías de la Federal y la Metropolitana en el lugar y derrumbó todo el depósito de la compañía de origen estadounidense, incluso las paredes, que cayeron desplomadas sobre los rescatistas. También leé: "El impactante santuario de los 10 bomberos muertos en Barracas"  Ahí murieron siete bomberos y dos integrantes de Defensa Civil. Y doce días después falleció Facundo Ambrosi, un joven voluntario de 25 años que no soportó las heridas que sufrió por las llamas. Entre los muertos había una sola mujer: la subinspectora Anahí Garnica, de 27 años, madre de una nena y miembro de la primera promoción de mujeres en la Superintendencia de Bomberos.  Al día siguiente, en el entierro de aquellos bomberos héroes se vio una muestra de amor y dolor al mismo tiempo. Fueron despedidos con flores que los vecinos tiraban desde los balcones y en las esquinas por donde pasó el cortejo fúnebre la gente salió a ofrenderles su corazón con un aplauso o con una lágrima. También leé: "Homenaje desde el alma a los héroes de Barracas en el Día del Bombero"  En toda la Argentina, los bomberos cumplen un importante rol social en la prevención y cuidado de sus comunidades. Los cuerpos de bomberos no solamente asisten en situaciones de emergencia como incendios o inundaciones sino que también brindan capacitaciones y realizan acciones de difusión para promover sociedades más seguras.

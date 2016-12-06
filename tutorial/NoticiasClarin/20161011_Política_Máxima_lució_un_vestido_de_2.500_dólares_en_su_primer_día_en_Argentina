@@ -1,0 +1,72 @@
+
+La reina Máxima se lució hoy por Buenos Aires con un exclusivo vestido animal print que la prensa británica identificó como un auténtico Givenchy de 2.000 libras, 2.480 dólares , unos 37 mil pesos. Máxima es seguida a sol y sombra por la prensa sensacionalista europea, en una mirada completamente distinta a la que se refleja en Argentina. De hecho permanentemente, viven comparando los estilos de las monarquías, y siguen a sol y sombra su matrimonio, su vestuario y sus gestos. Lo cierto es que en ese tren, el Daily Mail publicó la cifra de lo que vale este modelo en realidad identificado como Leopard print, que en otros sitios se publica a un precio de 1500 dólares.
+
+Máxima se verá mañana con el presidente Mauricio Macri en la residencia de Olivos. Hoy estuvo con la canciller Susana Malcorra, con el presidente Federico Sturzenegger y con la vicepresidenta Gabriela Michetti. Por la tarde disertó en la UCA sobre Desafíos para fortalecer y expandir la inclusión financiera en Argentina”. Mirá también: Máxima arrancó un maratón de reuniones: se vio con Michetti, Malcorra y Sturzenegger
+
+La reina consorte de los Países Bajos, nacida en la Argentina, se encuentra en el país en calidad de "Asesora Especial del Secretario de las Naciones Unidas". 
+
+
+Alguna sitios ofrecen un suculento descuento para adquirir ese modelo: lo rebajan a 1000 libras.
+
+
+
+
+
+var act_9f2 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_9f2 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_9f2.setTitle('Alguna sitios ofrecen un suculento descuento para adquirir ese modelo: lo rebajan a 1000 libras.');
+act_9f2.setSubtitle('Alta costura'); 
+act_9f2.setLinkBack('http://www.clarin.com/politica/Maxima-vestido-libras-primer-Argentina_0_1666633436.html');
+act_9f2.setDescription('La reina de Holanda se vio hoy con Malcorra, Sturzenegger y Michetti con un exclusivo diseño animal print de Givenchy');
+act_9f2.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Maxima-vestido-libras-primer-Argentina_0_1666633436.html');
+
+var showShareBarUI_params_9f2=
+{ 
+containerID: 'shareQuote_9f2',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_9f2,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_9f2
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_9f2);
+ Pero en Gran Bretaña, donde hoy está de viaje su marido, el rey Willem Alexander, se encuentran más interesados en los aspectos personales de la monarquía holandesa. De hecho, en las fotos en que se la muestra en Buenos Aires, se la ve caminando espléndida, más delgada en las puertas del Palacio Duhau, donde se encuentra alojada.

@@ -1,0 +1,18 @@
+
+Natalia Inés Paratore, conocida como la "locutora militante", le reclamó al Estado nacional $ 7 millones en concepto de "locuciones para campañas audiovisuales oficiales" y ahora le hicieron una canción. El reclamo de la voz en los actos de Cristina Kirchner quedó servido en bandeja para que La Solano Lima haga de las suyas al ritmo de la cumbia. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"La locutora fue abandonada, la locutora estaba guionada, la locutora quiere taraska. Dio la vida por Cristina, andá a cobrarle a la abogada", dice el estribillo de la canción. Mirá también: "Me putean por reclamar algo que me corresponde”, dijo la locutora de Cristina Kirchner La nueva entrega de la agrupación macrista fue difundida a través de las redes sociales. Luego de la repercusión que tuvo su caso, Paratore se defendió. "Estuvieron casi cuatro años sin pagarme. Aún no hice un juicio, es solo un reclamo administrativo. Quiero saber cuándo van a pagarme lo que me deben", señaló durante una entrevista con Elizabeth Vernaci. Mirá también: La locutora de Cristina exige $ 7 millones al Estado Igualmente, no se salvó de la irónica mirada de los muchachos que se definen como "peronistas de la Revolución Libertadora en el PRO". Y que en su anterior entrega se habían hecho eco de los millones que cobró Andrea del Boca para una novela que nunca se emitió y también publicaron un tema titulado: "Andrea Ladrona". Mirá también: "Andrea ladrona", la actriz K ya tiene su video de parodia

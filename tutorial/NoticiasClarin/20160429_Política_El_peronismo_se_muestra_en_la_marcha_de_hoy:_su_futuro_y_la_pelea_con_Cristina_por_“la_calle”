@@ -1,0 +1,102 @@
+
+   El peronismo en todas sus vertientes se mostrará este viernes en la marcha de las centrales obreras y así, sus dirigentes volverán a mostrarse activos y críticos del gobierno de Mauricio Macri.  La nueva conducción partidaria -avalada por la Justicia esta semana- irá con el titular del PJ, el sanjuanino José Luis Gioja, quien se quedó en Buenos Aires para asistir al acto pero también para aceitar el vínculo con los sindicalistas. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/marialujanrodri/status/726107489419288577",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72610748941928857")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+  Antonio Caló y Andrés Rodríguez, entre otros, monitorearon la presencia de los justicialistas; de hecho, el metalúrgico titular de la CGT Balcarce es vicepresidente del nuevo PJ. Los que acompañaron a Gioja en esas tertulias dieron el compromiso de “no darle tono partidario ni subirse al palco ni nada de eso; el acto es de los muchachos”, dijeron. 
+
+
+ “Debe ser así, si los trabajadores son peronistas”, dijo Gioja al salir de uno de los encuentros con Caló.
+
+
+
+
+
+var act_c17 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_c17 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_c17.setTitle(' “Debe ser así, si los trabajadores son peronistas”, dijo Gioja al salir de uno de los encuentros con Caló.');
+act_c17.setSubtitle('MARCHA DE LAS CGT'); 
+act_c17.setLinkBack('http://www.clarin.com/politica/peronismo-muestra-marcha-futuro-Cristina_0_1567643297.html');
+act_c17.setDescription('Tanto la nueva conducci&oacute;n del PJ como los K se muestran&nbsp;en la movilizaci&oacute;n de hoy activos frente al Gobierno . C&oacute;mo la masividad de esta marcha puede opacar el poder en las calles del kirchnerismo.');
+act_c17.addActionLink('VER MÁS', 'http://www.clarin.com/politica/peronismo-muestra-marcha-futuro-Cristina_0_1567643297.html');
+
+var showShareBarUI_params_c17=
+{ 
+containerID: 'shareQuote_c17',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_c17,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_c17
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_c17);
+ Mirá también: Macri dijo que tiene la misma agenda que los gremios: "Bajar la inflación, generar empleo e inversiones"  Otro de los vices del peronismo, el ex candidato presidencial Daniel Scioli, se juntará en la esquina de Paseo Colón y México, con parte del peronismo bonaerense como el titular del PJ provincial, Fernando Espinoza. Esa unión pretende mostrar capacidad de movilización ante la pelea que se dará en la Provincia en las próximas definiciones electorales. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Yasky, sobre la marcha: "Nadie con sentido común puede decir que es una reacción prematura"  Otro sector que se mostrará con fuerza es el nuevo núcleo de intendentes bonaerenses. Con la cara de varios que debutan como alcaldes, marcharán unidos Martín Insaurralde, Gabriel Katopodis, Jan Zabaleta, Ariel Sujarchuk, entre otros. Los “dialoguistas” (según la propia Cristina) o los “nuevos” (según el Gobierno de María Eugenia Vidal) quieren mostrar su propia potencia, que los llevaría a dar pelea por la sucesión en la gobernación bonaerense.
+
+ También estarán en la marcha los dirigentes kirchneristas. Varios diputados irán (Héctor Recalde, Juliana Di Tullio, Wado De Pedro, Andrés Larroque) pero no desfilarán juntos sino que se mezclarán en la columna de diferentes organizaciones gremiales.  La presencia de los K generó cortocircuitos entre los propios organizadores de la marcha y el jefe de la CGT Azul y Blanco, Luis Barrionuevo, estalló y se bajó del acto, enojado con la participación de quienes considera responsables de la actual situación económica y social.  Pero otro detalle se juega en esta jornada y es el dominio de “la calle”. Los gremialistas, con Hugo Antonio Moyano a la cabeza, quieren alcanzar la cifra de 200.000 asistentes. Y así, mostrar que la capacidad de movilización tiene a los sindicatos a la cabeza. Mirá también: Para el Gobierno, la marcha será "un homenaje" por el 1° de mayo: "Otra cosa sería difícil de justificar"  Varios de los dirigentes peronistas que participarán hoy de la jornada se suman a esa idea: mostrarle al kirchnerismo que “la calle” ya no es más patrimonio de Cristina Elisabet Fernández. Y que la disputa con el Gobierno macrista por despidos y empleo es más afín a las banderas históricas del Peronismo que a la gestión ya finalizada de los Kirchner.  Por eso, gremialistas, intendentes y dirigentes tradicionales del peronismo prometen poner “toda la carne en el asador”. Más allá del frío pero sin pronóstico de lluvia en este viernes previo al 1° de mayo.

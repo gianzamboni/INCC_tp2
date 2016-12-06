@@ -1,0 +1,82 @@
+
+Tras años de esfuerzo en la universidad, María logró el miércoles recibirse de psicóloga. Planeaba festejarlo este sábado a la noche en Rosebar, un boliche de Palermo, con un grupo de 15 treintañeras como ella. Pero la noticia de que ningún local bailable tendría permitido abrir las puertas durante todo el fin de semana las llevó a cambiar de planes. "¡No lo puedo creer!", fue su expresión al enterarse. Y de inmediato comenzó a pensar alternativas con la ayuda de sus amigas. Primero evaluó ir a un bar o a una cervecería del Conurbano. Pero luego, para evitar más complicaciones, optó por celebrar su graduación con un simple asado. Mirá también: Disparatado fallo de un juez: prohibió todas las fiestas y boliches en la Ciudad Escenas como esta se repitieron en miles de hogares en la tarde de hoy, una vez que tomó estado público la medida del juez Roberto Gallardo, que por la noche quedó suspendida. A medida que los jóvenes se fueron enterando, comenzaron a preguntarles a los relacionistas públicos de los boliches si pensaban acatar la prohibición.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/luciopereira123/status/726179760879992832",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72617976087999283")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Fue también el caso de Hernán, un diseñador web de 25 años que llevaba días planeando su festejo de cumpleaños en un boliche de Palermo con más de 20 invitados. "Todo venía bien, había reservado mesa y todo hasta que un amigo me avisó lo de la medida. Lo primero que hice fue llamar a mi contacto del boliche y me ratificó que van a abrir igual. Espero que sea así porque no tenemos un alternativo", contó. Mirá también: Quién es el juez pro K que prohibió los boliches Muchos jóvenes, a lo largo del día, acudieron directamente a los perfiles de Facebook de las discos para consultar. En locales como Amérika y Niceto Club, ante las preguntas, representantes respondían que las actividades previstas seguían en pie. Otros, como Club Shampoo, lo confirmaban posteando la invitación para la noche como si nada hubiera pasado. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/MatiGazzera/status/726179754110492672",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72617975411049267")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ En otros casos, ante la falta de certezas, los grupos de jóvenes comenzaron a buscar alternativas para la salida en partidos bonaerenses cercanos como Avellaneda, San Martín y Vicente López. "No me imagino a los de Capital tomándose un tren para salir a bailar a Provincia", ironizaba un usuario de Twitter, donde el tema se mantuvo como el trending topic dominante. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Ovejero121/status/726179668752216064",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72617966875221606")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ "Díganme que los boliches en la Provincia no cierran por que me muerooooooooooooooo", exclamó un un adolescente en la red social."¿Cómo que prohibieron los boliches? ¿Y mi fiesta de egresados? ¿Me estan cargando?", se preguntó otra. Para otros, la única solución parecía no salir, aunque sin renunciar a la diverión:"Ya fue, sale previa en casa". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Agusguadalupe_/status/726063092099080193",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72606309209908019")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/albacetrini/status/726103242623598593",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72610324262359859")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

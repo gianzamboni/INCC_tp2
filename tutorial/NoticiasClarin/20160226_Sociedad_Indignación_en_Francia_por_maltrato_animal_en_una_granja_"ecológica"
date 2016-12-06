@@ -1,0 +1,18 @@
+
+La asociación francesa en defensa de los animales L214 publicó el 22 de febrero un vídeo en el que se muestra un día rutinario de trabajo en el matadero "ecológico" de Vigan, en la región de Languedoc-Rosellón, departamento de Gard. El video ya tiene cerca de 900.000 reproducciones y generó un escándalo en Francia por la extrema violencia y negligencia de los trabajadores para con los animales. La brigada veterinaria de esa localidad abrió una investigación junto a la policía de Vigan y las deplorables acciones de los carniceros recibieron la condena del ministro de Agricultura, Stéphane Le Foll. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Video editado del original subido a YouTube por L214 En cuatro minutos y medio, se ve cómo arrojan a los corderos contra un pasillo y hasta se ve a un trabajador divirtiéndose mientras le aplica, varias veces, corriente eléctica con una pinza a un cerdo para atontarlo (es un método que dicen usar las granjas ecológicas para dejar inconscientes a los animales pero que se ve que no es efectivo).  El resto de las imágenes no serán descriptas en esta nota y fueron editadas del video original. El final es una larga agonía para los animales antes de entrar al próximo proceso de la cadena frigorífica. El propio director del matadero reconoció que los métodos que se ven en el vídeo muestran "errores profesionales que de probarse deberán ser castigados", pero justifica a sus empleados asegurando que un veterinario controla diariamente esta rutina. "La carne feliz no existe", dice la cantante Nili Hadida que habla en el video. "Incluso en un matadero convertido en bio y local, los animales mueren con dolor", agrega y apoya el veganismo.

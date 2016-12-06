@@ -1,0 +1,17 @@
+
+De pronto, una escalera mecánica se aceleró y varios aficionados de Philadelphia Flyers se fueron al piso cuando salían del estadio tras disfrutar a su equipo. Por suerte no hubo que lamentar víctimas. "Escuchamos y vimos la escalera mecánica acelerar un poco. Y empezó a ir cada vez más rápido. La gente no podía salir de la manera lo suficientemente rápido", le dijo Megan McGreevy a NBC News sobre el episodio. El percance se produjo después de la victoria de los Aviadores de 3-2 sobre los Senadores de Ottawa, en Filadelfia, en el torneo de hóckey sobre hielo. Un representante de Comcast-Spectacor, dijo que la escalera mecánica fue inmediatamente cerrada y no estaba en uso cuando el equipo de baloncesto de los 76ers jugó al día siguiente. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

@@ -1,0 +1,18 @@
+
+Una chica de 12 años fue mordida por una víbora yarará. Sucedió mientras ella estaba tomando sol en la sede náutica del Club Universitario de Buenos Aires, en el barrio de Núñez, una zona invadida por camalotes.Leé también: Invasión de camalotes: en la costa de Quilmes temen que víboras y lagartos lleguen a las casasLa mordedura fue en el pie derecho de la chica. Según lo difundido por el canal de noticias TN, la serpiente no llegó a liberar su veneno. La víctima fue atendida en el Hospital Muñiz, especializado en enfermedades infecciosas, y los médicos confirmaron que está fuera de peligro. Después de lo sucedido, las autoridades del club cerraron un sector.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La aparición de una yarará en San Isidro.El 31 de enero, un hombre fue mordido por una serpiente venenosa en el Delta de Tigre y estuvo grave, en terapia intensiva. El caso, que fue el primero de estas características desde que aparecieron las plantas acuáticas, sumó preocupación y marcó la necesidad de extremar las precauciones en toda la zona ribereña.Al caso de la nena mordida en Nuñez y al del hombre que fue mordido en el Delta de Tigre, hay que sumarle otros. registrados en el Conurbano en los últimos días de enero. En Quilmes, al menos cinco personas sufrieron mordeduras, pero de especies no venenosas.A la vez, en la ribera de San Isidro, una yarará de casi un metro de largo fue matada por policías en enero, luego de que intentara agredir a un empleado de limpieza.A la costa de Vicente López también llegaron los ofidios: las cuadrillas municipales habían capturado más de 200 ejemplares hasta el 31 de enero.

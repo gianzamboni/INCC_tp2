@@ -1,0 +1,18 @@
+
+Martín Insaurralde, intendente de Lomas de Zamora, se cruzó en el programa Intratables (América TV) con el panelista Diego Brancatelli. Fue luego de que el periodista lo tildara de "tibio" al considerar que no revindicaba a la ex presidenta, Cristina Kirchner. "Yo soy un agradecido de Cristina Fernández de Kirchner. Ahora, eso no significa que yo no mire para adelante", dijo Insaurralde. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Brancatelli le retrucó: "Pero claro que tenés que ser agradecido. Si te ayudaron durante un montón de tiempo a elevarte a lo que hoy sos. Hay que tener lealtad y reconocimiento por los que te posicionan". Y tiró, chicanero, por lo bajo: "Tibio". Insaurralde, visiblemente molesto con el comentario, le contestó: "No me gusta eso. No sé qué significa 'tibio' para vos. Yo hice una campaña en el año 2013 durmiendo cuatro horas por día. En el 2015, jugué en la lista que llevó a Daniel Scioli como candidato a presidente. Ahora estoy dentro del peronismo dando la pelea. Soy un agradecido a Cristina. ¿Eso significa ser tibio?".

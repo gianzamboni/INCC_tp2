@@ -1,0 +1,127 @@
+
+Parece ciencia ficción, pero no lo es. Un grupo de 540 robots bailaron para celebrar el Año Nuevo Chino. En un increíble despliegue donde la tecnología fue la principal protagonista, fueron acompañados por  una flota de 29 drones que sobrevolaron el escenario.  Leé también: Colas de 100.000 personas para tomar un tren a casa en el Año Nuevo Chino La gala se realizó el domingo en la ciudad de Guangdong. Fue transmitida por la televisión local en el mismo momento en que las familias estaban reunidas en sus hogares para cenar y festejar el inicio del llamado Año del Mono. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160209_0013 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160209_0013_62e";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Los chinos celebraron su Año Nuevo con 540 robots bailarines',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/09/VID/CLAVID20160209_0013/video_web.flv",
+        image: "http://images.clarin.com/sociedad/chinos-celebraron-Ano-Nuevo-bailarines_CLAVID20160209_0013_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160209_0013',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/09/VID/CLAVID20160209_0013/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/chinos-celebraron-Ano-Nuevo-bailarines_3_1519678030.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160209_0013.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160209_0013){
+            //getBBTStats_CLAVID20160209_0013();
+            varModIdReprod_CLAVID20160209_0013 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+Arriba del escenario, los robots siguieron la coreografía con una sincronización perfecta. Movieron "brazos" y "piernas" al ritmo de la canción Camina a lo alto, interpretada por Sun Nan, un famoso cantante de ese país. Leé también: Grandes festejos y atracciones por el Año Nuevo chino "Cada robot contiene 16 piezas que fueron creadas por nuestros ingenieros en forma independiente. Los motores de dirección pueden imitar los movimientos de los humanos, por eso los robots se pueden mover con agilidad", explicó un experto al canal chino CCTV. Agregó que por lo general usan aplicaciones de smartphones para dirigir desde uno hasta seis robots, pero en este caso (que tuvieron que manejar 540) instalaron una antena para controlarlos de manera uniforme.

@@ -1,0 +1,68 @@
+
+El titular del Juzgado Federal 4 de La Plata, Alberto Recondo, aseguró que resolverá "hoy o mañana" el pedido para suspender las resoluciones del gobierno nacional que fijaron topes del 400 y del 500 por ciento en el aumento del gas, aunque advirtió que hay "una grave crisis energética" en el país que nadie puede desconocer. Mirá también: Más trabas en la Justicia para la discutida suba en las tarifas de gas "Hoy, mañana o pasado a lo sumo voy a resolver. No quiero ser un obstáculo a la decisión final que se está esperando por todos nosotros, y acá no hay cuestión del orden ideológico o partidario", señaló. Mirá también: El Gobierno aconseja no pagar el gas y las empresas se preocupan En declaraciones a radio La Red, el magistrado explicó que hoy culmina su subrogancia y no quiere dejarle el tema al juez que asuma la semana que viene, ya que fue él mismo el que habilitó la Feria judicial para tratar la cautelar presentada por el Centro de Estudios Para la Igualdad y la Solidaridad (CEPIS). 
+
+
+De todas formas, Recondo aseguró que no tienen "ninguna duda" de que la cuestión de fondo deberá resolverla la Corte Suprema.
+
+
+
+
+
+var act_f71 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_f71 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_f71.setTitle('De todas formas, Recondo aseguró que no tienen "ninguna duda" de que la cuestión de fondo deberá resolverla la Corte Suprema.');
+act_f71.setSubtitle('TARIFAS'); 
+act_f71.setLinkBack('http://www.clarin.com/politica/Juez-resolvera-cautelar-Corte-Suprema_0_1618038225.html');
+act_f71.setDescription('El magistrado de La Plata dijo que " acá no hay cuestión del orden ideológico o partidario". Y aceptó que "tenemos una grave crisis energética",  ');
+act_f71.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Juez-resolvera-cautelar-Corte-Suprema_0_1618038225.html');
+
+var showShareBarUI_params_f71=
+{ 
+containerID: 'shareQuote_f71',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_f71,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_f71
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_f71);
+ Si bien aclaró que no puede adelantar su fallo, dio su opinión sobre el escenario que vive el país con el tema tarifas, y advirtió que hay "una grave crisis energética". Mirá también: Macri se preparó como para un debate y salió a dar pelea en la TV "Los jueces no podemos anticipar lo que vamos a decidir. Pero en términos generales, como ciudadano de la República, hay una cuestión a la que no le quiero escapar. Tenemos una gravísima crisis energética, la he estudiado en profundidad, a la que no nos podemos hacer los tontos, no podemos hacernos los otarios. Los jueces no podemos mirar para el costado", sostuvo. En ese sentido, admitió que la resolución que debe tomar plantea un "gran dilema" porque "hay otro problema, tal vez más grave, que es que muchas familias no pueden pagar los aumentos". "También hay que reconocer el esfuerzo que hacen los funcionarios, con independencia de los nombres, porque no se puede cambiar un funcionario por otro. Más allá de echarnos culpas mutuas, hay que ser conscientes de la situación real que estamos viviendo en el país", agregó Recondo. 

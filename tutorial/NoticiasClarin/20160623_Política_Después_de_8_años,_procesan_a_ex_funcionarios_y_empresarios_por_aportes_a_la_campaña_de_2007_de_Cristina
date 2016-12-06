@@ -1,0 +1,134 @@
+
+El juez Ariel Lijo, titular del Juzgado Nacional en lo Criminal y Correccional Federal N° 4, dispuso este jueves el procesamiento de Héctor Capaccioli (ex superintendente de Servicios de la Salud e integrante de la Mesa Ejecutiva de la Alianza Frente para la Victoria), Sebastián Gramajo (ex legislador de la Ciudad de Buenos Aires y responsable político de la alianza electoral), Néstor Lorenzo, Carlos Torres, Gabriel Brito y Solange Bellone (viuda de Sebastián Forza, una de las víctimas del triple crimen de General Rodríguez). Mirá también: Por López, arde la interna del PJ que busca desprenderse de los K En su resolución -publicada por el portal judicial CIJ- el magistrado afirmó que los aportes efectuados por las empresas “Multipharma”, “Global Pharmacy” y “Seacamp” para la campaña electoral del Frente para la Victoria del año 2007 se puso en circulación en el mercado la suma total de ochocientos ochenta y seis mil pesos de origen ilícito, a los fines de disimular la fuente real de los fondos y obtener su apariencia de licitud. Mirá también: Ahora todos quieren ser celebrities 
+
+
+Ariel Lijo habló hoy por Radio nacional y dijo: "En la campana de Cristina se lavó dinero". 
+
+
+
+
+
+var act_a76 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_a76 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_a76.setTitle('Ariel Lijo habló hoy por Radio nacional y dijo: "En la campana de Cristina se lavó dinero".&nbsp;');
+act_a76.setSubtitle('POR LAVADO DE DINERO'); 
+act_a76.setLinkBack('http://www.clarin.com/politica/Despues-procesan-funcionarios-empresarios-Cristina_0_1600639937.html');
+act_a76.setDescription('Alcanza a H&eacute;ctor Capaccioli, Sebasti&aacute;n Gramajo, N&eacute;stor Lorenzo, Carlos Torres, Gabriel Brito y Solange Bellone. Para el juez, se puso en circulaci&oacute;n dinero de origen il&iacute;cito. Ese a&ntilde;o, la f&oacute;rmula fue Cristina-Cobos.');
+act_a76.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Despues-procesan-funcionarios-empresarios-Cristina_0_1600639937.html');
+
+var showShareBarUI_params_a76=
+{ 
+containerID: 'shareQuote_a76',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_a76,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_a76
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_a76);
+ El magistrado federal agregó que "parte del financiamiento de la campaña de Cristina tenía origen ilegal, hablamos de lavado de dinero". Dijo que "Capaccioli era el recaudador de la campaña de Cristina" y que tanto  "Capaccioli, Lorenzo, Brito como Gramajo podrían acogerse a la ley del arrepentido". En la resolución del juez federal se analizó que tanto Néstor Lorenzo como Héctor Capaccioli fueron los encargados de poner en circulación este dinero y aprovecharon la campaña política para llevarlo a cabo. En base a las limitaciones que presentaba la ley de financiamiento de los partidos políticos (Ley 26.215) necesitaban de compañías privadas para desarrollar la maniobra, ya que no podían realizar donaciones anónimas y, además, tenían un tope máximo por empresa. Mirá también: Tras el Caso López, Diputados trata la ley del arrepentido El juez demostró que la modalidad empleada por esta maniobra era la siguiente: las firmas en cuestión les entregaban a los responsables de la campaña electoral un cheque con el aporte correspondiente, recibiendo a cambio el recibo por parte de éstos y, en la fecha de cobro, las libranzas eran cubiertas con depósitos de dinero en efectivo. En tal sentido, se verificó que “Multipharma”, “Seacamp” y “Global Pharmacy” no contaban con capacidad económica suficiente para hacer frente a los aportes que aquí se registraron, las sumas aportadas no guardaban similitud con los parámetros de dinero que manejaban, y además no poseían registros contables de los correspondientes aportes realizados. Así, destacó que las empresas carecían de fondos suficientes para ello e igualmente realizaron esos aportes bajo un supuesto modo de donación. Mirá también: En el Gobierno esperan que se rompa el “pacto de silencio K” Indicó además que las operaciones realizadas por esas tres empresas no guardaban semejanza con su realidad económica. Aclaró que carecía de sentido realizar una donación por un monto mayor al que la compañía podía manejar, y sólo era posible llevarlo a cabo si ese dinero no le pertenecía. Por ello, sostuvo que se trataba de blanquear dinero de origen espurio que no se encontraba debidamente declarado. Sumado a esa insuficiencia económica de las empresas, destacó el hecho de que en la misma fecha en la que era presentado el cheque para su cobro en el banco interviniente se cubría el monto necesario con depósitos de dinero en efectivo por caja. Incluso recalcó que había cuentas bancarias que hasta ese momento presentaban saldo negativo. Analizó que la forma en la que era realizados los depósitos permitió que no quedara rastro de quién fue el que efectuó el correspondiente aporte, puesto que la normativa bancaria no contemplaba la individualización del depositante y, de tal modo, el aportante se volvía anónimo. Mirá también: La catarsis K en el instituto de Cristina por el caso José López: "Tan enterrados no estamos" Asimismo, se destacó que Lorenzo retuvo para sí los recibos de los aportes “Multipharma S.A.”, “Global Pharmacy Service S.A.” y hasta aquellos librados a título personal por Torres, los cuales fueron oportunamente incautados de su domicilio en los allanamientos practicados en los autos nro. 1787/07 en el que se investigaba la llamada “mafia de los medicamentos”. Así, a raíz de todas las pruebas colectadas, el magistrado consideró que quedó evidenciado que las circunstancias y el contexto en las que los activos fueron manejados permitían deducir indefectiblemente que los fondos aportados sólo podían provenir de la comisión de un delito. En efecto, destacó que no existiría razón alguna para encubrir el origen del dinero si ello no fuera así. Respecto del origen ilícito del dinero tuvo en cuenta tres cuestiones: (i) incremento patrimonial injustificado u operaciones financieras anómalas; (ii) inexistencia de actividades económicas o comerciales legales; y (iii) vinculación, relación o conexión con actividades de tráfico de estupefacientes, o con otras actividades delictivas, o con personas o grupos relacionados con ellas. Luego de verificar los dos primeros en base a las circunstancias anteriormente señaladas el juez se expidió en relación a la vinculación con grupos delictivos. En ese orden el magistrado indicó que las personas involucradas fueron procesadas en el marco la llamada “mafia de los medicamentos”. Es decir, que las mismas personas que aquí emplearon un mecanismo de lavado de dinero fueron procesados y elevados a juicios por formar parte de una asociación ilícita dedicada a realizar diversos delitos. Así tuvo por probado un vínculo delictivo directo entre ellos. Sin embargo, destacó que también existían otras pruebas que los vinculaban a otros grupos delictivos. Así las cosas, sostuvo que se advirtieron indicios de que el dinero pudo haber provenido de carteles de droga de México. En ese orden, mencionó que el propio Forza indicó oportunamente que el dinero que aportó su empresa “era plata del narcotráfico, más precisamente de los carteles de México”. Al respecto, sostuvo que través de los elementos colectados se estableció que Torres, Lorenzo y Forza habitualmente transitaban por las cooperativas (o entidades financieras irregulares) donde iban a cambiar sus cheques para la obtención de dinero. En ese ámbito se relacionaban y conocían muchos empresarios que –conforme fuera comprobado en el marco del expediente del “Triple Crimen”- se encontrarían vinculados al tráfico de efedrina, como lo eran Ibar Pérez Corradi, Luis Marcelo Tarzia, Ariel Vilán, entre otros. 
+
+
+Concluyó, en base a lo expuesto, que una de las hipótesis es que el dinero aportado en la campaña haya provenido del tráfico de efedrina.
+
+
+
+
+
+var act_947 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_947 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_947.setTitle('Concluyó, en base a lo expuesto, que una de las hipótesis es que el dinero aportado en la campaña haya provenido del tráfico de efedrina.');
+act_947.setSubtitle('POR LAVADO DE DINERO'); 
+act_947.setLinkBack('http://www.clarin.com/politica/Despues-procesan-funcionarios-empresarios-Cristina_0_1600639937.html');
+act_947.setDescription('Alcanza a H&eacute;ctor Capaccioli, Sebasti&aacute;n Gramajo, N&eacute;stor Lorenzo, Carlos Torres, Gabriel Brito y Solange Bellone. Para el juez, se puso en circulaci&oacute;n dinero de origen il&iacute;cito. Ese a&ntilde;o, la f&oacute;rmula fue Cristina-Cobos.');
+act_947.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Despues-procesan-funcionarios-empresarios-Cristina_0_1600639937.html');
+
+var showShareBarUI_params_947=
+{ 
+containerID: 'shareQuote_947',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_947,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_947
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_947);
+ En síntesis, a raíz de la demostrada incapacidad económica de las empresas aportantes, la forma en la que fueron cubiertos los cheques librados, el hecho de que los correspondientes recibos fueran encontrados en el domicilio del propio Lorenzo, la vinculación existente entre los intervinientes –quienes fueron procesados por conformar una asociación ilícita-, como así también sus conexiones con actividades delictivas como el tráfico de efedrina, el juez afirmó que indudablemente el dinero aportado en la campaña tiene origen ilícito. La denuncia, que adelantó Clarín ya en el año 2008, fue realizada por los dirigentes de la Coalición Cívica-ARI Fernando Sánchez y Sebastián Cinquerrui.

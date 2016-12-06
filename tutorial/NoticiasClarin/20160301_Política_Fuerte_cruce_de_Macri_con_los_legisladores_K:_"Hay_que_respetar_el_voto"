@@ -1,0 +1,20 @@
+
+Justo después de que Mauricio Macri apuntara al gobierno anterior por la inflación, desde la bancada del Frente para la Victoria comenzaron los gritos y las quejas. "La inflación existe porque el Gobierno anterior la promovió y la consideró un instrumento válido de la política económica", fue la frase que desató los cruces. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Muchos de los legisladores kirchneristas levantaron carteles que habían llevado con acusaciones al actual gobierno por el aumento de la inflación y por los despidos en el Estado. Mientras, el ex ministro de Economía, Axel Kicillof, sonreía nerviosamente negando las palabras de Macri.  Mientras la vicepresidenta Gabriela Michetti pedía "silencio" para que el Presidente continuara con su discurso, fue el propio Macri quien se encargó de pedirle a los legisladores opositores "respetar el voto demócrático". Luego el ministro del Interior, Rogelio Frigerio, habló de "actitudes aisladas de gente intolerante".  La bancada oficialista fue entonces la que se puso de pie y, en medio de aplausos arengó con un "Sí se puede, sí se puede". Fue parte del tono que dominó todo el discurso del Presidente ante la Asamblea Legislativa. 
+
+En su discurso, Macri dijo: "Hace una década que la Argentina es uno de los países con mayor inflación en el mundo, con un promedio anual por arriba del 20% y una inflación acumulada de aproximadamente 700% en los últimos 10 años. La causa principal de esta inflación fue la utilización del Banco Central para financiar el gasto público y atender los servicios de la deuda, tanto emitiendo pesos como usando sus reservas. Esto sometió a la población a una suba de precios constante, que daña sobre todo a los hogares de menos ingresos". Mirá también: El kirchnerismo llegó al recinto y pegó carteles anti Macri 

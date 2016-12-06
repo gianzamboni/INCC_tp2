@@ -1,0 +1,129 @@
+
+Japón lanzó este miércoles al espacio con éxito el satélite astronómico Astro-H, diseñado para observar los rayos x emanados por agujeros negros y agrupaciones de galaxias.  El satélite fue lanzado a bordo de un cohete H-2A a las 17.45 horas (8.45 GMT) desde la estación espacial situada en la isla de Tanegashima, en la prefectura de Kagoshima (suroeste del país).  El lanzamiento estaba originalmente previsto para el pasado 12 de febrero pero tuvo que ser cancelado debido a las malas condiciones meteorológicas.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160217_0016 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160217_0016_737";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'El Astro-H fue lanzado con éxito',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/17/VID/CLAVID20160217_0016/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Astro-H-lanzado-exito_CLAVID20160217_0016_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160217_0016',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/17/VID/CLAVID20160217_0016/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Astro-H-lanzado-exito_3_1524477553.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160217_0016.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160217_0016){
+            //getBBTStats_CLAVID20160217_0016();
+            varModIdReprod_CLAVID20160217_0016 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+El Astro-H fue lanzado con éxito Con este son 24 lanzamientos exitosos consecutivos del H2-A, desarrollado por la Agencia de Exploración Aeroespacial de Japón (JAXA) y Mitsubishi Heavy Industries.  El Astro-H tiene unos 14 metros de largo y pesa unas 2,7 toneladas, lo que lo convierte en el satélite más pesado lanzado hasta ahora por Japón. 
+
+El dispositivo, fabricado por JAXA y la NASA estadounidense, junto a otras instituciones, orbitará a unos 580 kilómetros de altura y observará agujeros negros y agrupaciones galácticas distantes a través de sus detectores de rayos gamma y cuatro telescopios de rayos X.  Entre estos destaca el "Micro-calorímetro de rayos X", un instrumento de última generación que ostenta el mayor espectro para observar rayos X en el espacio diseñado hasta la fecha.  Los científicos esperan comenzar a obtener datos a gran escala dentro de unos meses. Fuente: EFE 

@@ -1,0 +1,74 @@
+
+Más complicaciones para el empresario kirchnerista. La Justicia decidió la inhibición de todos los bienes activos de Cristóbal López. 
+
+
+El juez federal Julián Ercolini dispuso la inhibición general de bienes de Cristóbal López, Fabián de Souza y de todas las empresas que integran el Grupo Indalo.
+
+
+
+
+
+var act_757 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_757 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_757.setTitle('El juez federal Julián Ercolini dispuso la inhibición general de bienes de Cristóbal López, Fabián de Souza y de todas las empresas que integran el Grupo Indalo.');
+act_757.setSubtitle('CORRUPCIÓN K'); 
+act_757.setLinkBack('http://www.clarin.com/politica/Justicia-embargo-bienes-Cristobal-Lopez_0_1612638805.html');
+act_757.setDescription('Lo dispuso el juez Ercolini. El empresario no podrá disponer de su dinero libremente, y las empresas no podrán ni vender bienes ni traspasar acciones. Alcanza a su socio Fabián de Souza y a las empresas del Grupo Indalo.');
+act_757.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Justicia-embargo-bienes-Cristobal-Lopez_0_1612638805.html');
+
+var showShareBarUI_params_757=
+{ 
+containerID: 'shareQuote_757',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_757,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_757
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_757);
+ La inhibición se aplicó en la causa que es investigado por la evasión fiscal de $ 8.000 millones correspondientes al impuesto al combustible, dinero que no tributó durante el gobierno de Cristina Kirchner y utilizó para financiar su holding. No podrá disponer de su dinero libremente, y no se podrán traspasar ni bienes ni acciones, "al menos hasta después de la indagatoria, desde allí habrá diez días para decidir", señalaron a Clarín desde el entorno del empresario K tras conocer la decisión de la Justicia.  Inhiben los bienes de Cristobal López by Clarin.com on Scribd Mirá también: En la AFIP, Echegaray llegó a mandar siete inspecciones a sus propios empleados López deberá ir el 23 de agosto a los Tribunales de Comodoro Py, al igual que su socio Fabián De Souza, Ricardo Echegaray -ex titular de la AFIP- y el ex director de la Dirección General Impositiva (DGI), Ángel Rubén Toninelli, sospechados de ser partes de una trama que habría generado una "defraudación al Estado".
+
+La medida de hoy, se convierte en la primera inhibición a las cuentas personales de López y la totalidad de sus bienes, alcanza también a Fabián de Souza igual. El juez Ercolini indicó en su fallo que la inhibición general es para "prevenir manejos, transferencias o disposiciones de bienes y/o ganancias", considerando la importancia "de la cuantía de la deuda". A su vez, señala que se desconoce de forma "precia y fehaciente los bienes registrables" que podrían garantizar el cobro del crédito fiscal" que asciende a $ 8.000 millones, "dada la situación de riesgo de insolvencia esgrimida", advierte el Magistrado.  Esta inhibición de bienes alcanza a todas las empresas del Grupo Indalo: Alcalis de la Patagonia, Argentina Corre, Consulplan, CPC, CVI Concesionario Vial, Desarrollo Electrónicos Informáticos, DH Com, Establecimiento Santa Elena, Esluvial SA, Ganadera Santa Elena, Gestiones Tallion ARG, Ideas del Sur, IGD, Imagen Radia, Indalo Inversiones, Inverco del Cono Sur, Inversora M & S, Oil Combustibles, La Salamandra, M&S Consulting, Oil Construcciones, Oil M & S, Paqary SA, Parador Diez, Paraná Metal, Petrolera Cerro Negro, Promet, Radio Productora 2000 SA, Serma, South Media Investments, South Minera, Urbanizadora Gea, Telepiu y Voltionis.
+
+Dos de estas empresas son inquilinas de Los Sauces SA, propiedad de Cristina Kirchner a quien también la Justicia le inhibió sus bienes y cuentas. Se trata de Inversora M & S donde trabaja su sobrina Romina Mercado y Alcalis de la Patagonia, que emplea a Osvaldo Sanfelice ex socio de Máximo Kirchner en la Inmobiliaria. La Justicia laboral ya había congelado cuentas del Grupo por $ 25 millones a raíz de los juicios que mantiene con empleados despedidos de C5N, Radio 10 y FM Pop. La medida se tomó en la causa que investiga la evasión fiscal de $ 8.000 millones, que correspondían al impuesto al combustible durante 2011, algo que el actual Gobierno quiere cobrar, pero que según fuentes oficiales, "corre riesgo de no llegar a recuperarse nunca". La Justicia logró detener la venta de varias firmas del Grupo y colocó siete veedores para controlar los movimientos financieros del mismo. Esto se sumó a una serie de allanamientos que se hicieron después en el marco de la misma investigación. Mirá también: Las pruebas del despilfarro alrededor del FPT La deuda fiscal se generó, tal como reveló La Nación, por la omisión del pago del impuesto a la Transferencia de los Combustibles (ITC). Estos fondos se direccionaron a dos empresas del Grupo Indal, Inversora M&S (inquilina de Los Sauces SA de la ex Presidenta y donde trabaja Romina Mercado, sobrina de Cristina Kirchner y presidenta de Hotesur), y Oil M&S. Estas firmas utilizaron los miles de millones de pesos para hacer frente a la crisis financiera que afrontan desde hace unos años y acentuada en el último año.  Mirá también: Dalbon, polémico abogado de Cristina, contra Stolbizer: "Tendrá que ahorrar dinero porque le va a salir caro" Ahora, Cristóbal López que buscó escindir su grupo y separarse de Fabián De Souza, afronta un embargo completo de sus bienes, para evitar que realice cualquier tipo desprendimiento de sus compañías, al igual que su socio. En principio podría avanzar en la venta de algunas empresas -que no estén dentro de Indalo-, pero no dispondrá del dinero libremente, según informaron desde el Grupo. El empresario K tiene en planes vender varias de sus firmas en cuanto la Justicia se lo permita. Ya avanzó en la venta de su participación accionaria en Casinos Club, donde tenía el 28 % del paquete. 
+
+En marzo presentó a Oil Combustibles en concurso de acreedores ante la justicia de Comodoro Rivadavia, pero quedó en manos de la Justicia Nacional en lo Comercial, que se declaró competente. La AFIP denunció a la firma por "insolvencia fiscal fraudulenta" ante la Justicia Penal Económico, y logró una medida cautelar en el fuero Contencioso Administrativo, que frenó cualquier movimiento en varias de las empresas del Grupo Indalo. Mirá también: Gas: en la nueva resolución, el Gobierno reconoce que se equivocó Los últimos meses, López según confirmaron a Clarín, esperaba la finalización de una auditoría aún en proceso, para vender su Banco Finansur adquirido el año pasado. También con el 70% de la venta se incluía la aseguradora Generali Argentina. Nada de esto podría avanzar con la nueva medida judicial.

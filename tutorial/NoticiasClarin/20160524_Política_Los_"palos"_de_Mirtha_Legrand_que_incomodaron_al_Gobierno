@@ -1,0 +1,145 @@
+
+Mirtha Legrand cambiará su habitual rol y esta vez le tocará ser la invitada a un almuerzo en la Casa Rosada, no en un estudio de televisión, y en donde el anfitrión será Mauricio Macri. La conductora viene de una semana en la que mantuvo un tono crítico con el Gobierno, a raíz de la visita de Jaime Durán Barba a su programa y la polémica en torno al hambre en Argentina, que despertó su cruce con el actor Joaquín Furriel. "Su intervención no fue feliz", dijo la Diva de los Almuerzos, al referirse al consultor ecuatoriano. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Días atrás, durante otra emisión del programa que tuvo como invitado al ministro de Trabajo, Jorge Triaca, la conductora se quebró al borde del llanto al remarcarle al funcionario la pobreza que hay en el país. Leé también: Frases picantes, el look sexy de Awada y otras perlitas de Macri con Mirtha Sin embargo, en diciembre, 5 días antes de asumir como Presidente, Macri fue a su programa de los sábados por la noche con su esposa Juliana Awada y su hija Antonia. Mirtha siempre se jacta de decir las cosas que piensa sobre la realidad política. Y así fue durante la campaña electoral del año pasado, expresó su apoyo al entonces candidato de Cambiemos. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160223_0032 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160223_0032_271";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Mirtha Legrand: “Apoyé mucho a Macri, pero veo cosas que no están bien”',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/23/VID/CLAVID20160223_0032/video_web.flv",
+        image: "http://images.clarin.com/extrashow/Mirtha-Legrand-Apoye-Macri-cosas_CLAVID20160223_0032_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160223_0032',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/23/VID/CLAVID20160223_0032/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/10226/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/extrashow/Mirtha-Legrand-Apoye-Macri-cosas_3_1528077209.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160223_0032.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160223_0032){
+            //getBBTStats_CLAVID20160223_0032();
+            varModIdReprod_CLAVID20160223_0032 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+Pero a principios de este año, cuando sólo había transcurrido poco más de dos meses de la gestión de Macri, la diva no dudó en advertir al aire al Presidente su disgusto con algunas cosas de la gestión. Leé también: Macri-Tinelli: de las cenas en pareja a un verano de guerra fría No fue la única famosa que criticó al mandatario. Marcelo Tinelli, otro crítico del kirchnerismo y que veía con buenos ojos "el cambio", también comenzó a mostrar distancia con el mandatario, en medio de las negociaciones por la presidencia de la Asociación de Fútbol Argentino (AFA). Leé también: Beatriz Sarlo, dura con el gobierno de Macri Anoche, la intelectual Beatriz Sarlo, quien también fue dura con la gestión de Cristina Kirchner, criticó fuertemente los primeros meses de gestión, en los que se fue "poniendo por encima las necesidades de los empresarios y los ricos y por debajo a la de los pobres".
+
+Macri y Awada, en el programa de Mirtha en diciembre. (Foto: Stracuzzi) "Yo lo veo con ojos muy independientes. Yo apoyé mucho a Macri pero veo cosas que no están bien", señaló durante uno de los almuerzos de verano, que realiza en Mar del Plata. Leé también: Mirtha Legand le pegó a Durán Barba tras el cruce con Joaquín Furriel En esos meses lsus palabras sorprendieron, debido a que fue una de las figuras que más criticó al kirchnerismo y que le había dado su voto de confianza a Macri, aunque -claro- no titubeó a la hora de cuestionar los aspectos, que a su criterio fueron negativos durante los primeros días de gobierno. Hoy, Macrirecibirá a Mirthaen la Rosada, en una comida en la que también estarán presentes el jefe de Gabinete, Marcos Peña, y el secretario General de la Presidencia, Fernando de Andreis. Leé también: Mirtha Legrand criticó al Gobierno: "Veo cosas que no están bien" ​ 

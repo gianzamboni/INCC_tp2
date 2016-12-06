@@ -1,0 +1,18 @@
+
+"El compromiso del presidente (Mauricio) Macri es bajar las retenciones, las vamos a bajar porque entendemos que son un mal impuesto". El ministro de Agroindustria, Ricardo Buryaile, habló esta mañana de las "conversaciones en Olivos" para analizar una baja a las retenciones. "Siempre se habló de cinco puntos", dijo sobre el porcentaje de la posible reducción. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ "Para nosotros las retenciones deben desaparecer, nosotros hicimos un compromiso que en nuestro Gobierno íbamos a bajar 20 puntos y lo vamos a hacer", dijo esta mañana en el Foro de Inversión y Negocios de Argentina.  Según el ministro, en el Gobierno están analizando "cuándo, cómo y cuánto, teniendo en cuenta el compromiso presidencial, la realidad de las economías regionales y la situación fiscal".  - ¿Hay una fecha límite para la decisión sobre las retenciones? - No es una fecha límite pero sería bueno que, para el tratamiento en el Congreso del Presupuesto, tengamos en claro cuánto es y qué asignación se le va dar a este fondo de la soja en el caso de su rebaja o de su no rebaja.

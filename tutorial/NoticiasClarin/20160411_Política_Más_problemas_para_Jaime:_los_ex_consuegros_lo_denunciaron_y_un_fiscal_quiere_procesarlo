@@ -1,0 +1,68 @@
+
+Tal como habían anticipado el viernes, los ex consuegros de Ricardo Jaime, Norberto y Graciela Ledantes, lo denunciaron esta mañana por estafa y presunta asociación ilícita, involucrando también a su hija Julieta Jaime y otros individuos. El miércoles se presentarán ante el juez federal Sebastián Casanello. 
+
+
+Además, un fiscal pidió procesar con prisión preventiva por peculado y cohecho a los ex secretarios Ricardo Jaime y Juan Pablo Schiavi.
+
+
+
+
+
+var act_7ad = new gigya.socialize.UserAction();
+
+var emailBodyCustom_7ad = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_7ad.setTitle('Adem&aacute;s, un fiscal pidi&oacute; procesar con prisi&oacute;n preventiva por peculado y cohecho a los ex secretarios Ricardo Jaime y Juan Pablo Schiavi.');
+act_7ad.setSubtitle('CORRUPCIÓN K'); 
+act_7ad.setLinkBack('http://www.clarin.com/politica/problemas-Jaime-consuegros-denunciaron-procesarlo_0_1556844495.html');
+act_7ad.setDescription('Sus ex parientes lo&nbsp;denunciaron por estafa&nbsp;por una propiedad en Carlos Paz. Y el fiscal Delgado lo apunt&oacute; por la compra de trenes.');
+act_7ad.addActionLink('VER MÁS', 'http://www.clarin.com/politica/problemas-Jaime-consuegros-denunciaron-procesarlo_0_1556844495.html');
+
+var showShareBarUI_params_7ad=
+{ 
+containerID: 'shareQuote_7ad',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_7ad,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_7ad
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_7ad);
+ El fiscal federal Federico Delgado pidió esta mañana que se procese con prisión preventiva a los ex secretarios de Transporte kirchneristas en la causa en la que fueron indagados por la compra de trenes a España y Portugal, y ahora la decisión está en manos del juez federal Julián Ercolini  Respecto de sus ex consuegros, Ricardo Jaime le regaló la casa a su hija y a su marido Sebastián Ledantes, el ex funcionario le pidió a sus suegros que figuren como titulares de la propiedad, ya que su hija Julieta no tenía los ingresos suficientes como para justificar la adquisición. A raíz de este hecho, el matrimonio quedó imputado como testaferro del ex secretario de Transporte, tras ser acusados por el fiscal federal Carlos Rivoló por la compra del inmueble. Es así que ahora, los ex consuegros lo denunciaron por estafa argumentando que la operación "no fue de buena fe, sino que tuvo siempre por detrás la intención de recuperar después la propiedad", según consignaron al matutino. Por otro lado, el abogado de la familia, Carlos Nayi, aseguró que Norberto y Graciela Ledantes darán detalles útiles para las causas que involucran a Jaime, como por ejemplo datos sobre cómo fue adquirido el Hotel Saint Tropes, que pertenecía de Ricardo Jaime. Mirá también: Otra denuncia para Jaime: ahora le apuntan los ex consuegros Jaime permanece detenido desde el sábado 2 de abril, por orden del juez federal Julián Ercolini, por una causa en la que se investiga la compra de material ferroviario en desuso a España y Portugal. Esta es otras de las tantas investigaciones que involucran el ex funcionario, entre ellas la tragedia de Once, percepción de dádivas y uso de autos del Estado. Su hija Julieta fue procesada el jueves pasado por enriquecimiento ilícito. Mirá también: El calendario del desfile K por la Justicia

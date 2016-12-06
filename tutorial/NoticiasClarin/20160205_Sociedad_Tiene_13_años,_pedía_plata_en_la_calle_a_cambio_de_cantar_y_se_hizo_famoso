@@ -1,0 +1,159 @@
+
+Un chico correntino de trece años ganó una inesperada fama cuando un video en el que se lo ve cantando a capela en la calle fue subido a YouTube y fue visto cientos de miles de personas. Tanto fue el éxito del chico, que pasó de cantar en la calle por monedas a distintos escenarios, entre ellos el del anfiteatro Mario del Tránsito Cocomarola, adonde fue invitado por el grupo Los Alonsitos en la última Fiesta Nacional del Chamamé. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El joven cantante se llama Guido Encinas y comenzó a hacerse notar cuando una tarde de septiembre pasado, en plena costanera correntina se acercó a un grupo de amigos que estaba reunido y, tras presentarse muy amablemente, les preguntó si le darían dinero si él les cantaba. El sí no se hizo esperar y el video casero tomado con un celular tampoco. Guido es hijo de una conocida abogada correntina y su padre trabaja en una empresa de telecomunicaciones. Y su "travesura" de pedir dinero a cambio de cantar en la calle, algo que hacía acompañado de dos amigos de su misma edad, sorprendió a sus padres.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Buen alumno en el primer año de la escuela secundaria según quienes lo conocen y dueño de una voz extraordinaria, Guido fue primero llevado a un programa de televisión por el periodista correntino Héctor Ranaletti, que además es un muy conocido animador de los carnavales correntinos.Leé también: Video: un nene con síndrome de Down recita el abecedario y emociona Desde entonces comenzó a subir a los escenarios grandes. Primero fue con el bandoneonista Diego Gutiérrez, uno de los últimos ganadores del programa de TV Talento Argentino. Y dos semanas atrás el premio que recibió por cantar fue más fuerte y de un público aun más numeroso: Los Alonsitos lo invitaron a cantar durante su presentación en la Fiesta Nacional del Chamamé, donde miles de espectadores le dieron algo más valioso que las monedas que recibía en la calle: un efusivo aplauso.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160203_0032 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160203_0032_672";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Guido Encinas cantando con Diego  Gutierrez',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/03/VID/CLAVID20160203_0032/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Guido-Encinas-cantando-Diego-Gutierrez_CLAVID20160203_0032_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160203_0032',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/03/VID/CLAVID20160203_0032/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Guido-Encinas-cantando-Diego-Gutierrez_3_1516078409.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160203_0032.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160203_0032){
+            //getBBTStats_CLAVID20160203_0032();
+            varModIdReprod_CLAVID20160203_0032 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+ Quienes lo conocen o lo escucharon aseguran que tiene un futuro enorme como cantante. Pasa de género en género musical sin temor y se desenvuelve en el escenario con naturalidad, dejando ver que su vocación por el canto no es un amor de verano.

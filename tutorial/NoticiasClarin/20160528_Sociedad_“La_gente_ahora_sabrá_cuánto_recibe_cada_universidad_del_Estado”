@@ -1,0 +1,140 @@
+
+Desconocido para la mayoría, Albor Cantard es, sin embargo, bien conocido dentro del ámbito universitario y político. Militante radical, fue durante ocho años rector de la Universidad Nacional del Litoral. También presidió el Consejo Interuniversitario Nacional (CIN), que reúne a los rectores de todas las universidades nacionales. Conoce bien la política universitaria y en eso habrá reparado Esteban Bullrich al elegirlo, tras la fallida postulación de Juan Cruz Avila, el productor de “Animales Sueltos”. Así y todo, sus primeros días fueron bien agitados. - ¿Imaginaba un conflicto tan fuerte como el que enfrentó? No lo esperábamos y nos pareció exagerado. La paritaria vencía el 31 de mayo, y la convocamos a fines de marzo, dos meses antes. Quince días antes que termine llegamos a un acuerdo ventajoso para los docentes. Mirá también: Paritaria universitaria: el Gobierno mejoró la propuesta y hay acuerdo - ¿Cómo encontró el sistema? - Venimos de ahí, así que lo conocemos muy bien. Pero encontramos dos grandes dificultades. Una deuda muy importante de 2015 y 2014, particularmente los últimos tres meses de 2015. No se habían pagado las cuotas 9 y 10 (las dos últimas) a más de 50 mil estudiantes becados, tampoco el refuerzo de 600 millones a las universidades. Además, la secretaría tenía compromisos por más de $ 2.500 millones y el presupuesto que quedó no llegaba a 1.400. - Algunas universidades reclaman que no reciben los recursos... - Nos encontramos con un decreto de Cristina Fernández del 4 de diciembre, por el cual transfirieron a 6 universidades $ 432 millones que estaban previstos para todo el sistema. Las transferencias se hicieron esos días y no pudimos dar marcha atrás al decreto: los fondos ya estaban giradas. Ante la crisis, le planteamos a esas universidades que vamos a atender primero las necesidades del resto del sistema. Y pusimos al día a las otras más de 50 universidades.
+
+- Precisamente, ¿qué van a hacer con las llamadas universidades K? - Queremos que aumenten su prestigio. Hoy una universidad no es solo un plan de estudio, una carrera y otorgar un título. Es un lugar donde se investiga, se genera conocimiento, hay una fuerte vinculación con lo social y lo productivo. Y esto no se logra en 4 o 5 años. Estamos invitando a las universidades de más trayectoria de la misma región a que colaboren. 
+
+
+"Nos encontramos con un decreto de Cristina Fernández del 4 de diciembre, por el cual transfirieron a 6 universidades $ 432 millones que estaban previstos para todo el sistema"
+
+
+
+
+
+var act_e84 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_e84 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_e84.setTitle('"Nos encontramos con un decreto de Cristina Fernández del 4 de diciembre, por el cual transfirieron a 6 universidades $ 432 millones que estaban previstos para todo el sistema"');
+act_e84.setSubtitle('Habla Albor Cantard, nuevo secretario de Políticas Universitarias'); 
+act_e84.setLinkBack('http://www.clarin.com/sociedad/gente-ahora-sabra-recibe-universidad_0_1584441704.html');
+act_e84.setDescription('En 2015 se transfirieron $1.900 millones desde distintos ministerios. El Gobierno publicar&aacute; los datos en Internet.&nbsp;');
+act_e84.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/gente-ahora-sabra-recibe-universidad_0_1584441704.html');
+
+var showShareBarUI_params_e84=
+{ 
+containerID: 'shareQuote_e84',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_e84,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_e84
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_e84);
+ - Muchos expertos afirman que tienen fines más políticos que académicos. ¿Coincide? - Han habido casos. El CIN muchas veces tuvo posiciones negativas, por considerar que las propuestas institucionales no eran pertinentes o no eran una necesidad de la región. La expansión universitaria se puede hacer de otras formas, más rápidas y a menor costo que crear una nueva universidad. Ahora bien, las universidades están creadas y somos respetuosos de la ley. Ahora vamos a trabajar para que compartan el nivel de calidad que tiene el resto del sistema universitario. 
+
+
+"Las nuevas universidades están creadas y somos respetuosos de la ley. Ahora vamos a trabajar para que compartan el nivel de calidad que tiene el resto del sistema universitario"
+
+
+
+
+
+var act_abf = new gigya.socialize.UserAction();
+
+var emailBodyCustom_abf = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_abf.setTitle('"Las nuevas&nbsp;universidades están creadas y somos respetuosos de la ley. Ahora vamos a trabajar para que compartan el nivel de calidad que tiene el resto del sistema universitario"');
+act_abf.setSubtitle('Habla Albor Cantard, nuevo secretario de Políticas Universitarias'); 
+act_abf.setLinkBack('http://www.clarin.com/sociedad/gente-ahora-sabra-recibe-universidad_0_1584441704.html');
+act_abf.setDescription('En 2015 se transfirieron $1.900 millones desde distintos ministerios. El Gobierno publicar&aacute; los datos en Internet.&nbsp;');
+act_abf.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/gente-ahora-sabra-recibe-universidad_0_1584441704.html');
+
+var showShareBarUI_params_abf=
+{ 
+containerID: 'shareQuote_abf',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_abf,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_abf
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_abf);
+ - Entre octubre y noviembre, esta secretaria aprobó fondos discrecionales para esas universidades. Ustedes dijeron que iban a investigar y a tomar medidas. ¿qué hicieron? - A Hurlingham, una nueva universidad, que recién a partir de este año tiene estudiantes, le habían asignado fondos para una pileta techada y climatizada. Hemos acordado con el rector cambiarle el destino y usarlos para aulas y laboratorios. Conseguían esas cosas por ventajas políticas, tenían más llegada a los órganos decisorios. Mirá también: Tarifazo de gas: una universidad fueguina pasó de pagar $12.000 a $150.000 por mes - También hubo denuncias de “tercerización” de servicios para evitar controles. ¿Qué van a hacer? - Donde se detecte una maniobra que tenga una sospecha de ilegalidad tiene que denunciarse a la Justicia. Aclaro que en ninguno de los casos, que han tenido trascendencia pública, estuvo involucrado el Ministerio de Educación, sino otras áreas de gobierno, como Planificación, Jefatura de Gabinete, Desarrollo Social, etc.
+
+- Pero eran universidades... - Sí, de hecho las transferencias de otros ministerios al sistema universitario en 2015 fue de casi $ 1.900 millones. Por eso, para lograr la mayor transparencia, crearemos un registro único, para que la comunidad conozca claramente las transferencias que se hacen desde distintos órganos del Estado. Estará en Internet. - ¿A partir de cuándo? - El decreto ya está, y en estos días vamos a crear el registro. --------------- La discusión por el presupuesto 2017 “No lo pueden definir los padrinos” Hace dos semanas, el secretario Cantard, junto al ministro Bullrich, fueron al Senado a brindar un informe sobre las universidades. Llevaron unos Excel que muestran cómo impactó el crecimiento del presupuesto universitario aprobado por el Congreso en cada casa de estudios en los últimos tres años. Allí se ve la dispersión y el favoritismo para ciertas universidades. Arriba de la lista figuran José C. Paz con un crecimiento de 698,82%, Arturo Jauretche con 333,72%, la de Tierra del Fuego con 299,27%, la de Tres de Febrero con 254,59, la de General San Martín con 242,20% y la de Avellaneda con 210,20%. En el otro extremo aparecen universidades tradicionales como la de Rosario con apenas 127,08%, la de Córdoba con 126,86%, la UBA con 123,29% y la del Noroeste con 117,36%.
+
+“La intención es poner esto en debate para que cuando, en los próximos meses, se empiece a discutir en el Congreso el presupuesto 2017 empecemos a lograr los equilibrios necesarios y que la distribución presupuestaria tenga que ver con una lógica de crecimiento del sistema y la responsabilidad planificada de la educación pública y no con qué universidad tiene mejor padrino dentro del Congreso para conseguir mejor presupuesto”, afirma el secretario Albor Cantard.

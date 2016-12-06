@@ -1,0 +1,70 @@
+
+María Eugenia Vidal encabezará hoy en La Plata su reunión de Gabinete provincial. Y luego de ese encuentro, formalizará la incorporación del neurocientífico Facundo Manes a su elenco de trabajo. Consultado por Clarín, el autor de "Cerebro argentino", dijo: "Aportaré como médico y científico a una unidad ejecutora dedicada a la promoción y protección del bienestar y el capital mental de los bonaerenses". 
+
+
+"Trabajaremos ad honorem junto a otros especialistas del área de la nutrición, las neurociencias, la educación y la salud para articular acciones y proyectos en la Provincia de Buenos Aires",, detalló Manes.
+
+
+
+
+
+var act_69f = new gigya.socialize.UserAction();
+
+var emailBodyCustom_69f = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_69f.setTitle('"Trabajaremos ad honorem junto a otros especialistas del área de la nutrición, las neurociencias, la educación y la salud para articular acciones y proyectos en la Provincia de Buenos Aires",, detalló Manes.');
+act_69f.setSubtitle('PROVINCIA DE BUENOS AIRES'); 
+act_69f.setLinkBack('http://www.clarin.com/politica/Facundo-Manes-Torre-equipo-Vidal_0_1609039101.html');
+act_69f.setDescription('Consultado por Clarín, el autor de "Cerebro argentino", dijo que aportará "como médico y científico para la promoción del bienestar y el capital mental de los bonaerenses".');
+act_69f.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Facundo-Manes-Torre-equipo-Vidal_0_1609039101.html');
+
+var showShareBarUI_params_69f=
+{ 
+containerID: 'shareQuote_69f',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_69f,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_69f
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_69f);
+
+
+Mirá también: Vidal suma a Facundo Manes y al intendente De la Torre Luego de esa foto entre Vidal y Manes, será el turno de otra incorporación: junto a su ministro de Gobierno, Federico Salvai, la gobernadora sumará a su Gabinete al intendente de San Miguel. Joaquín De la Torre dejará la poltrona de su distrito y asumirá al frente del Ministerio de Producción bonaerense. En tanto, el actual titular de esa cartera, el radical Jorge Elustondo, quedará al frente de Ciencia y Tecnología. Mirá también: Para Ernesto Sanz, el caso López acelera la caída del kirchnerismo y le da "oxígeno" al gobierno En tanto, el ministro de Gobierno, Federico Salvai, recibirá a las 14 horas a los senadores nacionales por la provincia de Buenos Aires, Juan Manuel Abal Medina y María Laura Leguizamón, del peronismo, y al aliado de Stolbizer, Jaime Linares, para debatir sobre el Fondo del Conurbano, tema por el que la Provincia ya reclama ante la Corte Suprema de Justicia. Mirá también: En una carta, Cristina volvió a cargar contra Bonadio y Stolbizer

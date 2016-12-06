@@ -1,0 +1,34 @@
+
+El telescopio espacial Hubble ha tomado imágenes del centro de nuestra galaxia, en una zona de la constelación de Sagitario, ubicada a 27.000 años luz de la Tierra. El núcleo está “abarrotado” por “numerosos objetos misteriosos” que rodean el agujero negro supermasivo central de la galaxia, indicó la Agencia Espacial Europea (ESA), responsable del telescopio junto con la NASA, en un comunicado. Los astrónomos utilizaron la visión infrarroja del Hubble para hacer visibles estos objetos ocultos, a través del oscuro polvo de espesas nubes en el corazón de la galaxia. Para mostrar la imagen “en todo su esplendor” los científicos asignaron longitudes de onda visibles al ojo humano. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Las estrellas azules de la imagen son las más cercanas a la Tierra, mientras que las rojas están en segundo plano y en contacto con polvo galáctico, incluso algunas incrustadas en él. Las nubes “extremadamente densas” de gas y polvo dibujan una silueta negra que contrasta con el brillo de las estrellas. Las nubes son tan gruesas que ni el Hubble las pudo penetrar. Los científicos estiman que hay unos 10 millones de estrellas en la imagen que no se observan. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Aparte de tomar esta fotografía del cúmulo de estrellas del centro de la Vía Láctea en alta resolución, los astrónomos también midieron sus movimientos durante un periodo de cuatro años. Los investigadores usaron esta información para inferir sus propiedades y analizar cómo se formó el clúster de estrellas. La fotografía es un mosaico de nueve imágenes distintas tomadas en septiembre de 2011 por la cámara de gran angular WFC3, uno de los instrumentos a bordo del telescopio. La Vanguardia

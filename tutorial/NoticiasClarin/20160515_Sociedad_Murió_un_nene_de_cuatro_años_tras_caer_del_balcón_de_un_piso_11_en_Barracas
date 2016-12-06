@@ -1,0 +1,20 @@
+
+Un nene de cuatro años murió esta mañana tras haber caído de un undécimo piso, en el barrio porteño de Barracas, según informó el titular del SAME, Alberto Crescenti, en diálogo con el canal de noticias TN. Y añadió que cuando llegó la ambulancia al lugar del hecho, el menor ya se encontraba sin vida. Hasta el momento, se desconocen cómo ocurrió el accidente. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La tragedia que conmocionó a los vecinos de Barracas ocurrió alrededor de las 10.30, en California y Montes de Oca. Según le comentó a Clarín un vecino, de la casa lindera al edificio, el chico tenía "entre siete y ocho años".
+
+De acuerdo a los datos aportados por Crescenti, cuando llegó la ambulancia del SAME no pudieron hacer nada por el nene, que murió por el impacto que le provocó la caída desde el piso 11º del edificio. "Cuando llegó la ambulancia del Same, lamentablemente estaba fallecido", lamentó Crescenti ante TN. Hasta el momento se desconocen los motivos por los que el menor cayó al vacíos. Una ambulancia con un equipo del SAME permanecía en el lugar esperando que llegara el padre de la víctima, que no estaba en el departamento en el momento del hecho.

@@ -1,0 +1,66 @@
+
+Hace 10 días, el audio impactó. Un jefe policial de Pinamar se jactaba de sus abusos y la corrupción. Entre otras cosas, contaba "anécdotas" de cómo recaudaba dinero ilegal con maniobras ilícitas: a través de un micro trucho, allanamientos sin órdenes y acuerdos con comerciantes desprotegidos. El agente fue desplazado de su cargo y el intendente lo denunció en la Justicia. Esta mañana, el mismo jefe comunal, Martín Yeza, del PRO, contó que en la madrugada le abrieron el auto y sembró sospechas: dijo que fue "el único" que abrieron en todo el barrio. Mirá también: Le ponen custodia al oficial que grabó a un comisario corrupto Según reconstruyó Yeza, se dio cuenta del hecho hoy a las 7.30. Y dejó más dudas: "Forzaron la puerta", pero "no se llevaron nada". "Lo mas llamativo es que es el único auto de todo el barrio al que le hicieron esto". Luego, concluyó con un mensaje con sello macrista: "A seguir el día, hay mucha Argentina por transformar". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/martinyeza/status/758275611630723072",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75827561163072307")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/martinyeza/status/758275910084726785",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75827591008472678")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/martinyeza/status/758276171784151040",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75827617178415104")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/martinyeza/status/758276297261023232",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75827629726102323")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Los tuits de Yeza fueron acompañados por fotos del vehículo. Y si bien en ningún momento mencionó al agente desplazado, en medios locales ya se especulaba esta mañana con la posibilidad de algún "mensaje". El policía de polémica se llama Fabián Guiñazú. Lo corrieron de su cargo (Jefe de la Estación Comunal de Pinamar). Lo denunciaron en Asuntos Internos y se le abrió un sumario. Pero además, Yeza llevó el caso a la Justicia. Mirá también: "Lo tenía entre ceja y ceja", dijo el intendente de Pinamar sobre el policía acusado de corrupción  "Hace dos meses tuve un encontronazo con él, donde una noche nos comunicó que se le había roto un móvil y dijo que 'solo quedaba rezarle a Dios'. La respuesta de un funcionario de seguridad fue que vaya a patrullar. Este tipo simboliza la corrupción policial", contó en su momento el joven intendente (ganó el año pasado con sólo 29 años).  "Nosotros tenemos entre 1 y 3 hechos delictivos por noche, esa noche tuvimos 14. Lo primero que pensé es que me había liberado la zona. Lo teníamos entre ceja y ceja", agregó entonces.

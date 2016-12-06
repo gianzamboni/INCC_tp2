@@ -1,0 +1,134 @@
+
+El director ejecutivo del Pami, Carlos Regazzoni, defendió hoy en la Cámara de Diputados su plan para cambiar la política de medicamentos que da el organismo público a los jubilados y pensionados. Pero recibió críticas de legisladoras kirchneristas, como Juliana Di Tullio y Carolina Gaillard, que preside la comisión de Salud. Le señalaron que implicaba un "ajuste".  Regazzoni, que es médico y asumió a su cargo en diciembrecon el Gobierno de Mauricio Macri, explicó hoy que al hacerse cargo de su gestión encontró al Pami en una situación "insostenible" y que los mayores de 65 años más pobres fueron "abandonados" en los últimos años. Durante el plenario, que estuvo liderado por la comisión de Personas Mayores, que conduce la massista Mirta Tundis, Regazzoni detalló cuál era la situación en la que encontró al organismo. Dijo que "una industria para robar el dinero del PAMI adulterando los padrones". Especificó que encontraron en los padrones que el organismo mandaba tiras reactivas para la diabetes a afiliados que habían fallecido. Regazzoni orientó su discurso del comienzo y sus intervenciones posteriores hacia la gestión kirchnerista que terminó el 10 de diciembre pasado. Pero varias legisladoras del Frente para la Victoria, le salieron al cruce y le señalaron cuestionamientos a su gestión actual. Mirá también: El titular del PAMI mostró escenas insólitas de cómo encontró la obra social de jubilados La diputada Gaillard lamentó la ausencia de Regazzoni en la Comisión de Salud que se realizó hace dos semanas, apenas se dictó la resolución 439 con el plan nuevo sobre los medicamentos para afiliados del Pami. “Estamos muy preocupados porque esta medida se ha fundamentado en la falta de eficacia clínica comprobada de estos medicamentos, pero contradictoriamente no los retiraron de circulación, sino que siguen siendo prescriptos, teniendo el jubilado que pagar de su magro bolsillo la diferencia que el PAMI ya no le cubre", expresó Gaillard. La legisladora, que representa a Entre Ríos, también disparó: “Me pregunto si usted como titular del PAMI le notificó a la ANMAT que no continúe con la comercialización de estos medicamentos ya que no son eficaces clínicamente”. Y agregó: “Consideramos que esta decisión no es una política de medicamentos a favor de la salud de los jubilados, sino que es una medida concreta de recorte de derechos y la quita de un subsidio social que se establecía para esta población”. 
+
+
+​El Pami pagará los precios de los medicamentos que imponga la industria de los medicamentos", le criticaron desde la oposición a Regazzoni.
+
+
+
+
+
+var act_b7e = new gigya.socialize.UserAction();
+
+var emailBodyCustom_b7e = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_b7e.setTitle('​El Pami pagará los precios de los medicamentos que imponga la industria de los medicamentos", le criticaron desde la oposición a Regazzoni.');
+act_b7e.setSubtitle('Salud y personas mayores'); 
+act_b7e.setLinkBack('http://www.clarin.com/sociedad/titular-PAMI-defendio-plan-medicamentos_0_1570043110.html');
+act_b7e.setDescription('Fue a dar un informe a tres&nbsp;comisiones de Diputados sobre la cobertura para&nbsp;los afiliados.');
+act_b7e.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/titular-PAMI-defendio-plan-medicamentos_0_1570043110.html');
+
+var showShareBarUI_params_b7e=
+{ 
+containerID: 'shareQuote_b7e',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_b7e,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_b7e
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_b7e);
+ Se le criticó también el convenio que el PAMI prorrogó recientemente con la industria farmacéutica: “El nuevo convenio establece que los precios de los medicamentos no se regirán por el Vademecum Nacional, con controles de precios a cargo de la Secretaria de Comercio de la Nación, sino que se regirán por el Manual Farmacéutico de la Editorial AlfaBeta, que es el manual de la industria farmacéutica. Es decir, que a partir de ahora el Pami pagará los precios de los medicamentos que imponga la industria de los medicamentos". En cambio, Regazzoni insistió con la defensa de las medidas que adoptó. "Todos los insumos para la diabetes están garantizados con la mejor cobertura posible", afirmóy aclaró que la intención del organismo es trabajar con los médicos para capacitarlos y que puedan prescribir mejor los medicamentos. El titular del Pami regresó nuevamente al pasado. Dijo que hay 22 causas penales en curso sobre situaciones producidas durante la gestión kirchnerista como prestaciones por ambulancias que no existían o sobreprecios pagados en prótesis. "El PAMI no fue una isla en el país de Lázaro Báez, hubo fraude a la administración pública", sostuvo. Mientras Regazzoni defendíasu resolución que quitó algunos medicamentos del vademecum nacional, un representante de los centros de jubilados que estaba presente en la sala del segundo piso del Edificio Anexo de Diputados gritó:"No somos mercancías del mercado, sino seres humanos". 
+
+
+No sabe de lo que está hablando. Usted no sabe el desastre que se hacía (durante la gestión anterior)", respondió el titular del Pami a una diputada K.
+
+
+
+
+
+var act_c0b = new gigya.socialize.UserAction();
+
+var emailBodyCustom_c0b = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_c0b.setTitle('No sabe de lo que está hablando. Usted no sabe el desastre que se hacía (durante la gestión anterior)", respondió el titular del Pami a una diputada K.');
+act_c0b.setSubtitle('Salud y personas mayores'); 
+act_c0b.setLinkBack('http://www.clarin.com/sociedad/titular-PAMI-defendio-plan-medicamentos_0_1570043110.html');
+act_c0b.setDescription('Fue a dar un informe a tres&nbsp;comisiones de Diputados sobre la cobertura para&nbsp;los afiliados.');
+act_c0b.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/titular-PAMI-defendio-plan-medicamentos_0_1570043110.html');
+
+var showShareBarUI_params_c0b=
+{ 
+containerID: 'shareQuote_c0b',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_c0b,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_c0b
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_c0b);
+ También el titular del Pami rechazó las críticas de la diputada del Frente para la Victoria, Araceli Ferreyra, que cuestionó el aumento de los viáticos de los directivos de la obra social. Otra vez, Regazzoni volvió a señalar críticas a la gestión pasada. Le dijo a la legisladora "no sabe de lo que está hablando. Usted no sabe el desastre que se hacía (durante la gestión anterior). Se gastaban 40 millones de pesos en viajes. Ustedes festejaban los cumpleaños en los aviones de Aerolíneas Argentinas, y ¿me viene a cuestionar una actualización de viáticos?". Ante la falta de tiempo para continuar con las consultas de diputados y de asociaciones de médicos que asistieron al encuentro, y como la sala debía ser cedida para otra reunión de comisión, Tundis propuso a Regazzoni volver a reunirse en los próximos meses a la Cámara de Diputados para responder las preguntas que quedaron pendientes. 

@@ -1,0 +1,18 @@
+
+Era un simple combate de Kung-fu en el que se definía quién de los dos avanzaba hacia la final del campeonato europeo de Lvov (Ucrania), pero los valores deportivos quedaron de lado luego de que se iniciara una batalla campal entre las delegaciones de Armenia y Azerbaiyán. El ring se llenó de gente en pocos segundos y volaron los golpes en todas las direcciones.  El incidente comenzó cuando el luchador de Armenia David Petrosyan estaba a punto de ganar el combate contra Orkhan Mehdiyev. Lo tenía todo listo para conseguir la victoria, cuando los miembros del equipo de Azerbaiyán empezaron a increparlo. El árbitro intentó frenar la discusión, pero en ese momento todo se desmadró y el ring se inundó de gente. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Decenas de personas sacaron lo peor de sí para golpearse los unos a los otros con piñas, patadas, barras de hierro y hasta revoleando algunas sillas. En la batalla campal también se vieron involucrados menores de edad que estaban allí para animar a su selección. También mirá: "Video: una discusión de tránsito terminó en una pelea viral"  Las imágenes de la pelea fueron filmadas por un espectador en una de las tribunas y gracias a YouTube más de 600.000 personas ya vieron lo ocurrido en el campeonato. También leé: "Se viralizó una batalla campal en un local de comidas rápidas en Córdoba" Por fortuna no hubo que lamentar ninguna víctima de gravedad, pero el equipo azerbaiyano fue descalificado de la competición “por conducta indebida” mientras que Armenia pasó a la final.

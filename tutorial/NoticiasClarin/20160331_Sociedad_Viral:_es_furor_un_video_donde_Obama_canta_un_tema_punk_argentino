@@ -1,0 +1,20 @@
+
+Fue un artilugio para no aburrirse durante Semana Santa pero terminó generando un boom en Internet. Un video que armó un joven músico de Escobar en el que el presidente de los Estados Unidos, Barack Obama, canta un tema de punk barrial argentino, tuvo 65 mil visitas en unas pocas horas y miles de comentarios de fans de todo el mundo en las redes sociales.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El curioso clip muestra a Obama cantando con su peculiar pronunciación el tema "Ya no sos igual", de "Dos Minutos", banda punk de Valentín Alsina.  Hay frases como "Sos botón", que nadie esperaría escuchar en sus labios. Para armarlo, su creador, Mauro Leonardi, dedicó todo el Jueves Santo y la mitad del viernes y vio cientos de veces unos 30 discursos del presidente estadounidense. Mirá también: Después de la visita de Obama, en The New York Times publicitan una parrilla de “inspiración argentina” "Había visto videos de Obama cantando en inglés distintos temas y se me ocurrió hacer lo mismo pero con un tema bien argento. Elegí punk porque me encanta y tengo un proyecto en ese género", cuenta el joven de 21 años que rastreó las pocas veces en que el mandatario utilizó palabras en español en México y en la Usina del Arte, durante su reciente visita a la Argentina, y formó otras palabras a partir de sílabas pronunciadas en inglés. Mirá también: Macri ya llegó a Washington y se encuentra con Obama El resultado fue un clip reproducido ya 65 mil veces en Youtube y que fue compartido en todas las redes sociales. "No tenía idea de que se iba a desatar un fenómeno semejante. Me llegaron comentarios de todas partes del mundo", admite Leonardi, que incluso tuvo que pedirle a Google que diese de baja una copia de su video que había compartido en su canal un usuario norteameriacano como propio y superó en pocas horas las 140 mil vistas.
+
+"Me gustó el resultado y manejo estos programas desde que tengo 12 años, así que en cuanto tenga un tiempo libre voy a hacer otro video parecido", promete el joven que este año se dio el gusto de tocar en Cosquín Rock con "CasiqueVa", la banda que armó con algunos de sus compañeros de Secundaria. En el barrio ahora le piden la inversa. Quieren ver a un arquetipo nacional como Horacio Guarany animársele a algún tema clásico en inglés.  Clarín Zonales

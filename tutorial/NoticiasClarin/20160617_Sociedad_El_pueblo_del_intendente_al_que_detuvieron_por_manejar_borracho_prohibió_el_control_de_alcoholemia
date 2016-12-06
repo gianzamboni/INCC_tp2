@@ -1,0 +1,18 @@
+
+El Concejo Deliberante de Chamical prohibió a la Policía riojana que aplique un decreto provincial y la ley nacional de tránsito para hacer controles de alcoholemia en el distrito, un mes después de la detención del intendente por conducir ebrio. Mirá también: Detuvieron a un intendente por manejar borracho  La mayoría de los ediles que responden a Daniel Elías, el jefe comunal, aprobaron ayer una minuta de comunicación que le prohíbe a la fuerza de seguridad “realizar controles” de alcoholemia en el distrito. Elías fue detenido hace un mes por conducir en estado de ebriedad a la salida de una fiesta, hizo abuso de poder contra el agente que lo controlaba, al llamarlo “papón” y advertirle que él no era un “caballero”, sino “el intendente”. Todo eso saltó a la luz en un video .Después, el jefe comunal dio un insólito argumento para justificar por qué manejaba borracho: dijo que se estaba curando "una muela con alcohol". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ En la sesión de ayer del Concejo, Elías cumplió con lo prometido: que en su departamento quede de hecho derogado un decreto provincial, el 840, que desde el año pasado pena con altas multas, detención y retiro del vehículo a quienes conduzcan con alcohol en sangre. Karina González, edil de la oposición en Chamical, relató que el comisario de Chamical, Fidel Nieto, les dijo en una reunión que la minuta no puede ser aplicada porque “la Policía se rige por una ley nacional de tránsito, que a su vez la Provincia adhirió y modificó en el decreto 840”. Entre los fundamentos de la insólita medida, se expresa que no se pueden cobrar multas altas a ciudadanos con “sueldos bajos”, entre otras razones. Pero Elías ya había anticipado que iba a "hacer todo lo posible para desactivar el decreto 840", que permitió multarlo por ebriedad. "Ha sido una gran persecución, fue todo muy raro. En menos de una hora ya estaban difundiendo el video, ya estaba editado". Mirá también: La revancha del intendente detenido borracho: quiere derogar las multas por ebriedad  Elías fue detenido por unas horas, hasta que un certificado médico por hipertensión hizo que lo liberaran. Tuvo que pagar una multa de unos 15.000 pesos por conducir en estado de ebriedad y tener la licencia vencida. Además, le incautaron la camioneta en la que viajaba junto a su familia.  

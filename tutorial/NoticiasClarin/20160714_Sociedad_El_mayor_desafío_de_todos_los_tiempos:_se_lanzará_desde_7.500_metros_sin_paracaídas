@@ -1,0 +1,34 @@
+
+Hay personas que parecen no temerle a nada, como si tuvieran súperpoderes. Ese podría ser el caso de Luke Aikins, amante de las alturas y el paracaidismo, que intentará lanzarse desde un avión a más de 7.500 metros de altura sin paracaídas, y así lograr una hazaña sin precedentes.  El hombre formó parte como asesor del récord logrado por Felix Baumgartner hace 3 años, cuando el austriaco superó la barrera del sonido en caída libre  y logró el salto más grande jamás alcanzado hasta ese momento, desde más de 38.000 metros de altura. Pero ahora Luke quiere ser tambiél él protagonista de la historia. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Para llevar a cabo la hazaña que llevará el nombre de “Heaven Sent” (Enviado del Cielo), Aikins se lanzará con una máscara de oxígeno, un sistema GPS y cámaras para grabar el suceso. La caída de este hombre será amortiguada por un sistema de redes de 30 metros por lado, que absorberá el impacto. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Casado y de 42 años, el estadounidense lleva 26 desafiando las leyes de la gravedad. 18.000 saltos avalan su experiencia para que "el mayor desafío de todos los tiempos", como ya nombran a éste sin paracaídas, no termine en tragedia. La cita será el próximo 30 de julio, pero no se informó dónde será. Sí se anticipó que la aventura será retransmitida en directo por televisión y por Internet a través de streaming. También leé: "El hombre que saltó al vacío desde la estratósfera ahora intentará llegar a la luna"  Aikins lleva meses preparandóse para este reto. “Todo el mundo quiere saber cómo lo voy a hacer, aunque lo único que puedo decir que es hay físicos, matemáticos e ingenieros que trabajan codo a codo”, cuenta sin aclarar el misterio. Habrá que esperar para saber si Luke se transforma en superhéroe.

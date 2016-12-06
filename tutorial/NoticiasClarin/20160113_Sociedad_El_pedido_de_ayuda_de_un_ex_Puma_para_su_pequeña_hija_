@@ -1,0 +1,114 @@
+
+Mucho se ha dicho sobre la "garra puma". Pero en estos momentos, ninguna disputa en la cancha se asemeja siquiera al partido que está jugando el ex rugbier Martín Schusterman: el ex deportista pidió en las redes sociales ayuda para su pequeña hija, a la que le acaban de diagnosticar leucemia. Olivia tiene seis años y fue diagnosticada la semana pasada con leucemia linfoblastica aguda. Su papá contó en contó por las redes sociales que la pequeña inició un tratamiento para recuperase y solicitó la colaboración de donantes de sangre y plaquetas. Su pedido rápidamente se viralizó: desde anoche, su pedido en Facebook fue compartido casi mil veces por hora.Bajo el hashtag #VamosOli, el ex jugador de la selección de rugby inició una campaña para salvar a su hija. En la publicación que hizo en su perfil cuenta que durante su tratamiento en el Hospital Austral, debe recibir transfusiones periodicamente. "Se necesitan dadores de sangre y plaquetas de cualquier tipo para Olivia Schusterman en el Hospital Austral de lunes a viernes de 8.30 a 11.30", pidió Schusterman. "Con su invaluable ayuda, Oli se va a poder curar. Muchas gracias a todos por su solidaridad y difusion del mensaje", escribió.La repercusión no tardó en llegar. El mundo del rugby se vio conmovido y grandes estrellas argentinas del deporte empezaron a movilizar el pedido. Nico Sánchez, Gonzalo Tiesi, Manuel Carriza, Juan Imhoff, Gabriel Ascarate, entre otros fueron algunos de los que ya se sumaron y se solidarizaron con su colega.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/dariobarassi/status/687263694883930116",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68726369488393011")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/NicoFSanchez/status/687266880835444736",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68726688083544473")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Imhoffjuan/status/687256828036657152",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68725682803665715")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/manuchocarizza/status/687253440934866948",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68725344093486694")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Ascarate_G/status/687204626484072448",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68720462648407244")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/GonzaTiesi/status/687175914673836032",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68717591467383603")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+Olivia es sobrina del actor Darío Barassi, quien también pidió ayuda en las redes sociales para la pequeña.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/dariobarassi/status/687263694883930116",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68726369488393011")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+Schusterman es un ex jugador de rugby que participó en los Pumas en el mundial Francia 2007, donde Argentina alcanzó el histórico tercer puesto. Debutó en 1997 en el San Isidro Club (SIC), donde también terminó su carrera. Luego del retiro, Martín dirigió  a la selección nacional de Seven de Brasil hasta el 2012, cuando volvió a Argentina para supervisar las Divisiones Juveniles de Asociacion Deportiva Francesa, club de rugby de la zona norte de Buenos Aires.Olivia se empezó a sentir mal la semana pasada con vómitos y fiebre muy elevada. Los padres la trasladaron de manera inmediata al hospital Austral, donde rápidamente recibió el diagnóstico de leucemia linfoblastica aguda. Ahora tanto, Schusterman como todo el universo del rugby están movilizados para ayudar a la pequeña Olivia.

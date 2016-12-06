@@ -1,0 +1,18 @@
+
+En las próximas semanas, el cielo de Londres tendrá un nuevo invitado y, en este caso, poco común. Se trata de una aeronave que comenzará sus primeros viajes dentro de quince días, aunque no es una aeronave cualquiera, sino de la más grande del mundo.  Se llama Airlander 10, efectuará su primer vuelo dentro de unos quince días desde Cardington, un poblado de Bedfordshire, ciudad ubicada en el este de Inglaterra. La aeronave mide 92 metros de largo, 18 metros más que las otras dos gigantes de la aviación comercial: el Airbus A380 y el Boeing 747-8. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Esta mezcla de avión, helicóptero y dirigible, lleno de helio, puede además aterrizar a control remoto prácticamente en cualquier parte, incluso sobre el agua. De hecho, no necesita de pista de despegue o aterrizaje y puede ser operado por una tripulación de nada más dos personas. Sin embargo su principal objetivo no será transportar personas, sino mercancías. Puede cargar hasta 10 toneladas y una de sus grandes ventajas es que puede alcanzar zonas de difícil acceso, como lugares donde se produjo alguna catástrofe y no existe aeropuerto. También leé: "Cómo es por dentro el avión más grande del mundo" El Airlander fue desarrollado y construido en Estados Unidos inicialmente con propósitos militares, pero por recortes presupuestarios, el proyecto tuvo que ser cancelado. Sin embargo consiguió proseguir como propuesta comercial. "Es un 70% más ecológico que un avión de carga, y sólo se necesitan dos personas para hacerlo volar" declaró Bruce Dickinson, cantante de Iron Maiden, y uno de los inversores del proyecto.

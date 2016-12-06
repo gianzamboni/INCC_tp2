@@ -1,0 +1,34 @@
+
+ Natalia Inés Paratore, conocida como la "locutora militante", a pesar de seguir siendo empleada de la TV Pública, inició una demanda administrativa contra el Estado nacional por más de $ 7 millones en concepto de "locuciones para campañas audiovisuales oficiales". De acuerdo a una publicación del diario La Nación,  Paratore reclama porque esas locuciones "jamás fueron abonadas" por el gobierno kirchnerista para el cual trabajó, entre 2011 y 2015, segundo mandato de Cristina Fernández de Kirchner, a quien Paratore siempre presentaba como "la Presidenta de los 40 millones de argentinos". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Gremialistas y analistas, entre Valeria Mazza y la prudencia del Gobierno nacional  La campaña "Cedo mi subsidio", de diciembre de 2011; la publicidad "Alta en el Cielo", con la que se identificó a Aerolíneas Argentinas luego de su estatización; la campaña nacional contra el neumococo, o el lanzamiento del satélite Arsat, en agosto de 2015, fueron sólo algunas de las 691 locuciones que Paratore llevó a cabo durante esos años, por las que hoy pide cobrar la millonaria suma de $ 7.048.200. En el escrito, presentado por el abogado Jorge Martín Irigoyen, la locutora detalla que sus trabajos fueron solicitados por el entonces secretario de Medios, Alfredo Scoccimarro; su jefe de gabinete, Daniel Rosso, y otros funcionarios de esa área a los que cita como testigos. Mirá también: Macri felicitó a Trump: "Espero que podamos trabajar por el bien de nuestros pueblos"  "Su voz quedó absolutamente identificada con el gobierno anterior y la condicionó a futuro", agregó el abogado, quien sin embargo aclaró: "Este es un reclamo contra el Estado, no contra el Gobierno", afirmó, y recordó que reclamos anteriores de su defendida no fueron escuchados. Su presentación recayó en la Secretaría de Medios. Desde el Gobierno evitaron responder sobre el reclamo de Paratore, que según pudo averiguar La Nación, cobra alrededor de $ 60.000 de sueldo bruto actualmente en el canal estatal. "Ellos pueden pedir lo que quieran, pero es dinero de todos nosotros", se quejaba por lo bajo un funcionario al tanto del expediente, que tiene -por el momento- escasas chances de prosperar. Hoy, desde su cuenta de Twitter, Paratore pidió que "dejen de decir mentiras". Pero no aclaró el alcance de su acción contra el Estado argentino. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/niparatore/status/796337809405734912",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79633780940573491")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

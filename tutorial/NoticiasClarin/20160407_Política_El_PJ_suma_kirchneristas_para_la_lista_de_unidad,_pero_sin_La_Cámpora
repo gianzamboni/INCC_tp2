@@ -1,0 +1,70 @@
+
+El peronismo avanzó desde anteayer con una lista de unidad donde el kirchnerismo perdió casi cualquier capacidad de influencia. Una anécdota muestra hasta dónde: el gobernador de La Pampa volvió al partido,sumando así a provincias que ya no participaban del PJ como Santiago del Estero y San Luis. Carlos verna tomó la palabra y afirmó, delante de unos pocos caciques: “Las personas más importantes del peronismo, vivos o muertos, fueron Juan y Eva Perón”. Ante este gesto contundente, otro peronista intentó tender un puente hacia los kirchneristas, que andaban por allí; Fernando “Chino” Navarro terció; “Yo estoy conformando la unidad y eso incluye a Perón, Evita y también, a Néstor y Cristina”. 
+
+
+Pero allí, el gobernador pampeano estalló: “¡Ustedes ponen en el texto a Néstor y Cristina y yo me voy a la mierda!”.
+
+
+
+
+
+var act_458 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_458 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_458.setTitle('Pero all&iacute;, el gobernador pampeano estall&oacute;: &ldquo;&iexcl;Ustedes ponen en el texto a N&eacute;stor y Cristina y yo me voy a la mierda!&rdquo;.');
+act_458.setSubtitle('LA VIDA INTERNA DEL PERONISMO'); 
+act_458.setLinkBack('http://www.clarin.com/politica/PJ-kirchneristas-lista-unidad-Campora_0_1553845122.html');
+act_458.setDescription('La f&oacute;rmula Gioja-Scioli lleva reppresentantes de todo el pa&iacute;s para evitar la posibilidad de una intervenci&oacute;n judicial.');
+act_458.addActionLink('VER MÁS', 'http://www.clarin.com/politica/PJ-kirchneristas-lista-unidad-Campora_0_1553845122.html');
+
+var showShareBarUI_params_458=
+{ 
+containerID: 'shareQuote_458',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_458,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_458
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_458);
+
+
+En ese clima, la lista de unidad la encabezaron José Luis Gioja y Daniel Scioli y sumó la representación federal de todo el país con  los gobernadores, para evitar así la posibilidad de una intervención judicial (ver recuadro) y con vistas a las internas nacionales del 8 de mayo. Ayer no se terminó de cerrar la posibilidad de sumar a los kirchneristas autoexcluidos, como La Cámpora o el ahora intendente Jorge Milton Capitanich. Pero uno de los gobernadores puso reparos, en diálogo con Clarín, sobre una llegada del ex jefe de Gabinete de Cristina a la conducción del partido: “Hermano, la soberbia tarde o temprano se paga”. Mirá también: Cristina se ve en el reflejo de Menem Este miércoles, La Cámpora ocupó su tiempo en la sesión de la Cámara de Diputados -donde logró colocar a Juan Ignacio Forlón, amigo de Máximo Kirchner- en la Auditoría General de la Nación. Y también, en tertulias que se ocuparon del impacto del caso Lázaro Báez: “Esto nos tiene tomados. Y sobre el Pj, seguimos esperando instrucciones desde el Sur”, reconoció una fuente camporista a Clarín. En tanto, en una oficina de la zona de Congreso, el ex gobernador José Luis Gioja se reunió con representantes del PJ Bonaerense, quienes mostraron su esquema para estar representados en el partido nacional. Allí, además de Fernando Espinoza, Julián Domínguez e intendentes jóvenes como Mariano Cascallares o Leonardo Nardini, estuvieron alcaldes embanderados en el kirchnerismo como Walter Festa y Santiago Maggiotti, de Moreno y Navarro.

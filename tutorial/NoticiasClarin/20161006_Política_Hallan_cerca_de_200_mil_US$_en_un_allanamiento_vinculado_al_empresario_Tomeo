@@ -1,0 +1,56 @@
+
+Otra vez dinero en efectivo. El juez federal Luis Armella ordenó hoy cinco allanamientos en el marco de la causa por lavado de dinero contra el empresario Carlos Daniel Tomeo. En uno de los procedimientos, pudo saber Clarín de fuentes judiciales, se secuestraron cerca de 200 mil dólares en efectivo. El domicilio pertenece a un ex socio de Tomeo de nacionalidad china.  En ese mismo operativo, en la Ciudad de Buenos Aires, también se encontró una credencial del Ministerio de Planificación que supo comandar Julio De Vido y documentación sobre un auto de Tomeo.  También se allanó un departamento en Puerto Madero a nombre de Pablo Colli, un socio actual de Tomeo. Esa vivienda actualmente es alquilada por un legislador del PRO y una funcionaria de la provincia de Buenos Aires. "Ese procedimiento fue negativo", dijo una fuente de la causa. 
+
+Por último, en el marco de la causa contra Tomeo, Armella allanó un domicilio en Rio Grande que pertenece al ex vicegobernador de Tierra del Fuego, Daniel Oscar Gallo. ¿Por qué?. "Tomeo compró un auto importado y había dado una dirección de Gallo (son amigos) para poder retirarlo de la isla", explicó la misma fuente.  Se trata de una Ferrari modelo 430 del año 2009 (dominio IAG 320).  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/nestorschumy/status/784032499454337024",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78403249945433702")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ En el allanamiento en la casa de Gallo. en la calle Arteche 723, participaron empleados de la AFIP, que llevaron perros entrenados en la detención de billetes, y una docena de efectivos de la Prefectura Naval.  La causa por lavado de dinero comenzó con una denuncia de la diputada Elisa Carrió, quien acusó a Tomeo, dueño de la tabacalera Espert SA, de ser un testaferro del ex jefe de Gabinete Aníbal Fernández. Cuando le allanaron sus casas en el country Abril, se descubrió que guardaba mas de 4 millones de pesos. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_xids73v0",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_xids73v0"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_xids73v0").after(scriptEl);
+ "A Aníbal Fernández no lo conozco, nunca lo he visto en mi vida, nunca he estado en obra pública, no soy proveedor del Estado, solo me he dedicado a trabajar, mi negocio es el tabacalero", se había defendido el empresario luego del allanamiento a su casa.  
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_beqj229o",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_beqj229o"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_beqj229o").after(scriptEl);
+ 

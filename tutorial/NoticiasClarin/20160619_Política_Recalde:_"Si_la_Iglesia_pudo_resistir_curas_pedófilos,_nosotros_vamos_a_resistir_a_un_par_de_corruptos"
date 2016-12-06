@@ -1,0 +1,70 @@
+
+Comparando al kirchnerismo con la iglesia católica, el presidente del bloque de diputados del Frente para la Victoria (FPV), Héctor Recalde, sostuvo que la detención del ex funcionario K José López cuando intentaba esconder 9 millones de dólares fue "un mazazo duro por lo obsceno del espectáculo, corrupción explícita", pero afirmó que "si la Iglesia resistió a cuántos curas pedófilos, por qué no vamos a resistir nosotros a un par de corruptos". "No nos han vencido, no nos va a vencer un corrupto", enfatizó Recalde en una entrevista al diario Página/12. Mirá también: De Vido, en el eje del esquema de negocios K más redituable El jefe de los diputados del FpV reconoció que la detención de López -en medio de una escena cinematográfica- "alimenta todas esas fantasías" de que no se trató de un hecho aislado dentro del espacio que lidera la ex presidenta Cristina Fernández de Kirchner.  Mirá también: El plan de la esposa de López: "Seremos uno de los diez matrimonios más ricos de la Provincia" Además, criticó el pedido de diputados oficialistas para allanar a De Vido, que la semana fue rechazado por la Cámara Baja, pero esta semana volverá a tratarse a raíz de un pedido de Elisa Carrió. "Es un planteo extemporáneo e improcedente. Si un juez quiere allanar, tiene que pedir el desafuero y el juez Luis Rodríguez (que lo investiga por presunto enriquecimiento ilícito) no lo pidió", dijo. Agregó que "insistir con el allanamiento después de tres semanas es nada más que para las portadas de los medios. La Cámara podría decidir el desafuero, es un hecho político, no tiene nada que ver con la justicia". Mirá también: Apareció un contrato de alquiler que vincula a López con Lázaro Báez Sobre el rol de De Vido apuntó que "puede haber responsabilidad administrativa, política incluso pero no delictual" y añadió que "es muy difícil probar que alguien coimea".
+
+El caso López destapó el quiebre que hay dentro del peronismo entre los kirchneristas y los que tras perder las elecciones se despegaron. Ayer, sin ir lejos en el tiempo, el ex gobernador tucumano José Alperovich fue tajante:"El kirchnerismo se terminó", sentenció y adelantó la posibilidad de dejar el bloque de diputados que conduce Recalde. 
+
+
+"Si la Iglesia resistió a cuántos curas pedófilos, por qué no vamos a resistir nosotros a un par de corruptos", dijo Recalde.
+
+
+
+
+
+var act_f9a = new gigya.socialize.UserAction();
+
+var emailBodyCustom_f9a = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_f9a.setTitle('"Si la Iglesia resistió a cuántos curas pedófilos, por qué no vamos a resistir nosotros a un par de corruptos", dijo Recalde.');
+act_f9a.setSubtitle('Corrupción K'); 
+act_f9a.setLinkBack('http://www.clarin.com/politica/Recalde-Iglesia-resistir-pedofilos-corruptos_0_1598240178.html');
+act_f9a.setDescription('El titular del bloque K en Diputados apel&oacute; a esa met&aacute;fora para negar el fin del kirchnerismo. &quot;No nos han vencido&quot;, dijo.');
+act_f9a.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Recalde-Iglesia-resistir-pedofilos-corruptos_0_1598240178.html');
+
+var showShareBarUI_params_f9a=
+{ 
+containerID: 'shareQuote_f9a',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_f9a,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_f9a
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_f9a);
+ Al respecto, Recalde desmintió rupturas y no le dio importancia a los versiones que indican que José Luis Gioja haría "rancho aparte" formando un nuevo bloque peronista. "No hay nada. Gioja votó contra el blanqueo con el FpV. Yo hablé con Maurice Closs y es cierto que los misioneros armaron un bloque propio. Ellos bajaron al recinto antes que nosotros. Votaron en general el proyecto del oficialismo pero tenemos muchas coincidencias. No es trágica la cosa", señaló. Mirá también: Antes de ir al convento, López pasó por Pilar "Tuvimos una reunión de bloque de tres horas y media el martes a la tarde, se hizo catarsis. Nos aguantamos a pie firme toda la presión, sabiendo que estábamos en minoría y que se iba a perder", expresó.

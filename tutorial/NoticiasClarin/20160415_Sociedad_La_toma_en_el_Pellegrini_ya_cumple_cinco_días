@@ -1,0 +1,20 @@
+
+Por quinto día consecutivo los estudiantes de la Escuela Superior de Comercio Carlos Pellegrini continuaban hoy con la toma del establecimiento ubicado en el barrio porteño de Recoleta, en reclamo del "apartamiento" de dos preceptores a los que acusan de "violentos".
+
+Mirá también: Tomaron el Pellegrini en protesta por el ascenso de un preceptor La medida, según dijo a Télam la secretaria general del centro de estudiantes, Victoria Camino, "es ratificada diariamente en asamblea por los alumnos de los tres turnos" del establecimiento dependiente de la Universidad de Buenos Aires. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/thebadthorn/status/720746084822331392",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72074608482233139")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Se trata de los preceptores Héctor Mastrogiovanni y Fernando Jodara, a quienes el Centro de Estudiantes acusa de "actos violentos", como "agredir a dos alumnas y besar forzadamente una alumna de 14 años", respectivamente. Mirá también: Toma en el Nacional Buenos Aires en reclamo por los alumnos libres La toma de la escuela se resolvió porque, pese a los sumarios, Mastrogiovanni "fue ascendido al cargo de regente del turno tarde, subregente del turno noche y secretario de contraturnos", según denunciaron los estudiantes. En este marco, el reclamo de los estudiantes es que se ponga en práctica el Protocolo de intervención Institucional ante denuncias por violencia de género, acoso sexual y discriminación de género, que se aprobó en la UBA y aún no rige en el colegio. Los representantes del Centro de Estudiantes y varios padres ya se reunieron con representantes de la UBA y con autoridades del Pellegrini, "pero sin llegar hasta el momento a una solución". "Queremos que sean calificadas de violentos y no de negligentes, como se hizo en el pasado con Mastrogiovanni, y que se vayan del colegio", dijo Camino. Fuente: Télam

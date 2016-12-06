@@ -1,0 +1,28 @@
+
+Hace una década parecía imposible tomar un vino de la Patagonia chilena, pero el cambio climático está permitiendo una producción de alta gama en sus increíbles paisajes de volcanes y bosques milenarios. El aumento de la temperatura hizo el milagro para los amantes de esta bebida. Mirá la fotogalería en HD Algunos parajes del tradicionalmente frío y lluvioso sur de Chile son ahora tan soleados como para hacer madurar las uvas con las que se produce, desde hace dos años, el Pinot Noir "Puelo Patagonia", un tinto refinado. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Encontramos un microclima cuyas temperaturas oscilan entre los 14 y 32 grados en verano", explica Sergio Subiabre, director comercial de la viña Villaseñor, productora de vino que se dedica a la exportación. Esas temperaturas permiten que "las uvas logren una maduración forzada en los últimos 2-3 meses de crecimiento", haciendo que el vino tenga "las mismas características, graduación alcohólica y cantidad de azúcar" que los que se obtienen en la zona central del país. Mirá también: Este año se va a romper el récord histórico de calor A orillas del prístino río Puelo, flanqueadas por los volcanes y las montañas nevadas de Los Andes, bosques milenarios y decenas de ovejas pastando, crecen alejadas de la civilización las parras que dan vida a este vino. Más de tres horas por carretera separan los viñedos del aeropuerto más cercano, en la ciudad de Puerto Montt. Luego, hay que navegar río arriba otra media hora en una barcaza hasta desembarcar en la pequeña localidad de Puelo, a unos 1.000 kilómetros al sur de Santiago.
+
+Las primeras uvas se plantaron en esta zona hace seis años y en 2014 la viña Villaseñor vendió 1.500 botellas de Pinot Noir. Sus enólogos están experimentando con otras cepas como Rose, Sauvignon Gris y Pinot Gris, favorecidas también por el aumento de las temperaturas en casi dos grados en esta zona, donde hace una década se registraban también un 30% más de lluvias. La mineralización procedente de los volcanes y montañas hacen el resto. "Esto es lo que diferencia a los vinos de la zona central de Chile. Aquí tenemos vinos con más sabores, más características de la fruta de cada variedad", describe Subiabre.
+
+Pero, aunque las uvas se han visto beneficiadas por el cambio climático, el ecosistema de la Patagonia sufre una "variabilidad climática" que causó la reducción de los caudales de ríos y un aumento de la radiación solar en los últimos 30 años, afirman científicos. "En el río Puelo hubo una baja de los caudales por la disminución de las precipitaciones y la menor formación de nieve", afirma José Luis Iriarte, experto del Centro de Investigación Dinámica de Ecosistemas Marinos de Altas Latitudes (IDEAL) de la Universidad Austral de Chile. Mirá también: Sommeliers, los nuevos creadores de vino Con exuberantes parajes naturales que atraen a miles de turistas cada año, su origen patagónico fue un gran soporte para la comercialización de este vino: el siguiente lote ya está reservado para clientes chinos y estadounidenses, a unos 120 dólares por botella, un precio alto para un vino chileno. Lo mismo pasó con la primera producción en 2014. Las botellas fueron vendidas por completo al mercado chino, todo un hito comercial.
+
+"Chile siempre tuvo una debilidad porque siempre fue conocido como un productor de vinos económicos. Con este tipo de iniciativas generas un valor agregado que supera diez veces el promedio de la caja exportada", explica Maximiliano Morales, ingeniero agrónomo y consultor en marketing de vinos. Mirá también: Entre 200 vinos, la gente eligió los que más le gustan En el futuro, Villaseñor planea ampliar y diversificar la producción en otras 40 hectáreas. Mientras, otros productores están experimentando con otras cepas en la Patagonia chilena, como ya lo han hecho antes del lado argentino, donde se elaboran más de una decena de bebidas patagónicas.
+
+"Siempre hubo una carrera por producir vinos al sur y eso generó que muchos privados experimenten. Aquí vemos un ejemplo fehaciente de que, de acuerdo al aumento de las temperaturas, se está generando una nueva actividad económica", dice Morales. Mirá también: El vino con soda, un “invento” mendocino Recientemente, enólogos descubrieron cerca de la localidad de San Rosendo, en la región del Biobío (a unos 520 kilómetros al sur de Santiago), un malbec puro de unos 100 años de antigüedad, un vino tradicionalmente producido en Argentina y Francia que habría sido traído a Chile por colonos franceses en el siglo XIX.
+
+Pero el cambio climático no beneficia a todos de la misma manera. En 2016, la producción mundial de vino fue de las más bajas en 20 años debido sobre todo a las condiciones climáticas, que afectaron la producción en varios países, según la Organización Internacional de la Viña y el Vino (OIV). En América del Sur, la producción disminuyó en nuestro país y también en Chile y Brasil, como consecuencia de la meteorología desfavorable, de acuerdo con la OIV. Fuente: AFP

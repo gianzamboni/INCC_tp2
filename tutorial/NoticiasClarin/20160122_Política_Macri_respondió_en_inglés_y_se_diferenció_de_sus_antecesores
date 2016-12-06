@@ -1,0 +1,127 @@
+
+Esta mañana, Mauricio Macri se convirtió en el primer presidente de la última era democrática en responder a una entrevista en inglés. Hizo lo mismo durante la conferencia de prensa que brindó junto con el ministro de Economía, Alfonso Prat-Gay, quien lució un perfecto inglés británico.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160122_0013 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160122_0013_787";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Mauricio Macri habla con Bloomberg',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/22/VID/CLAVID20160122_0013/video_web.flv",
+        image: "http://images.clarin.com/politica/Mauricio-Macri-habla-Bloomberg_CLAVID20160122_0013_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160122_0013',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/22/VID/CLAVID20160122_0013/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/2/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/politica/Mauricio-Macri-habla-Bloomberg_3_1508879110.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160122_0013.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160122_0013){
+            //getBBTStats_CLAVID20160122_0013();
+            varModIdReprod_CLAVID20160122_0013 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+Durante la entrevista, concedida a la agencia de noticias financieras Bloomberg durante el Foro Económico Mundial, en Davos, Macri dijo que "hemos entendido que los hombre trabajan juntos, conjuntamente con el resto del Mundo, compartiendo capacidades y talentos, y no dejando que las diferencias ideológicas se impongan como la mejor solución", expresó en avanzado inglés.Por otro lado, en la conferencia de prensa brindada ante periodistas de todo el mundo, expresó su entusiasmo "por haber participado una vez más en Davos, esta vez representando a mi país".Leé además: Macri cerró su paso por Davos y dijo que no hay resultados concretos con los holdoutsEn lo que se refiere a sus antecesores, se sabe que el ex presidente por la Alianza, Fernando De la Rúa sí hablaba el idioma, aunque nunca lo hizo en conferencias o entrevistas públicas. Cristina Kirchner, por su parte, expresó algunas ideas en inglés durante algunas conversaciones ("bad information"), pero su conocimiento del idioma era muy precario. Lo mismo ocurrió con Carlos Menem.

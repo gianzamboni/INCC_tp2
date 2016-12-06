@@ -1,0 +1,50 @@
+
+El granadero Sebastián Mildemberger se sacó una desopilante selfie en el desfile del Bicentenario y revolucionó las redes sociales. En la foto se muestra junto a Hostil, un caballo que parecía mirar a cámara y hasta sonreír, lo que convirtió a la imagen en un ícono del evento. Ahora, el oficial compartió un video donde agradece "a todos los seguidores". Mirá también: El coro de alumnos que cantó el himno sin conocerse las caras 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ "Estamos agradecidos totalmente por los mensajes increíbles que todo el mundo nos hizo llegar a través de las redes sociales. Así que les mandamos un abrazo", dice Mildemberger en el video publicado en Twitter. "Un abrazo enorme a todos los seguidores y gracias por los mensajes de afecto", concluye el oficial del Ejército Argentino, que tiene 30 años y pertenece al Regimiento de Granaderos a Caballo desde hace dos años. Mirá también: Histórica ovación a héroes de Malvinas en el desfile de cierre por el Bicentenario  ¿Cuál es la historia detrás de esta famosa selfie? Un rato antes de que empezara el desfile, Sebastián agarró su teléfono y se sacó la foto junto al caballo. Al instante, la compartió con el grupo de WhatsApp que tiene con su familia, que estaba en Paraná mirando el desfile por televisión. Pero el fotógrafo del Regimiento, Carlos Ravazzani, lo capturó mientras se sacaba la selfie y publicó la escena en Twitter, en la cuenta oficial del organismo. El post se viralizó rápidamente. Luego, una amiga del oficial, Felicitas Dozo, le pidió la foto original y la publicó en la red social. Nuevamente hubo un aluvión de retuits. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Granaderosarg/status/752145755180306432",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75214575518030643")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/felidozo/status/752201107552731136",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75220110755273113")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+  Hostil pertenece al escuadrón Junín del Regimiento de Granaderos a Caballo. Sebastián lo define como "muy manso" y dice que le dan caramelos como premio, por lo que "está todo el tiempo buscando azúcar". Estaba saboreando un poco de azúcar cuando hizo ese gesto tan peculiar que el oficial no dudó en capturar. Mirá también: Festejos del Bicentenario: así fueron los gastos en el interior del país

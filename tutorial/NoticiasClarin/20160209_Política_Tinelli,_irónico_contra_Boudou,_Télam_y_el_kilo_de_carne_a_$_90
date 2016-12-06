@@ -1,0 +1,66 @@
+
+La ironía, la burla y la risa no sólo se quedan en su programa de TV. Arrancando el año y ya definiendo los participantes del Bailando 2016, Marcelo Tinneli se puso ácido con el asado a $90, la barbas de los dirigente del FPV y hasta le dio el tiempo de acordarse del saqueo de documentos en Télam. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/cuervotinelli/status/697096507724402692",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69709650772440269")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ “Yo si fuera Victoria Beckham invertiría la plata del divorcio en 3 kilos de asado”, dijo en su cuenta de Twitter, en relación la ahora desmentida separación entre David Beckham y la ex Spice Girls.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/cuervotinelli/status/697096743926673410",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69709674392667341")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Leé también: Un video muestra a gerentes de La Cámpora llevándose documentación de Télam 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/cuervotinelli/status/697096295274577920",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69709629527457792")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/cuervotinelli/status/697095990042431488",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69709599004243148")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+El conductor apeló una vez más a la ironía, mientras se prepara para presentarse en las elecciones de AFA.

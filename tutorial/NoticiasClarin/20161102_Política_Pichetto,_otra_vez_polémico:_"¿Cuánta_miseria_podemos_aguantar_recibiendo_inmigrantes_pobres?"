@@ -1,0 +1,18 @@
+
+Miguel Ángel Pichetto volvió a expresar su preocupación por la inmigración y la llegada de extranjeros a nuestro país. El senador del Frente para la Victoria expuso su posición en el programa "La Mirada" por Canal 26. "La Argentina tiene que controlar. Hay una migración muy compleja y no hay ningún tipo de reciprocidad", dijo. Y preguntó: "¿Cuánta miseria puede aguantar Argentina recibiendo inmigrantes pobres?". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El jefe de bloque del FpV en la Cámara Alta continuó con su controvertido análisis: "Tenemos que dejar de ser tontos, el mundo está cambiando, es un mundo que se cierra". Mirá también: Reproches, tensión y difíciles acuerdos Para el senador, nuestro país funciona como "ajuste social de Bolivia y ajuste delictivo de Perú", que en su teoría "resolvió su problema de seguridad y transfirió a todo el esquema narcotraficante: las principales villas de la Argentina están tomadas por peruanos; y la Argentina incorpora toda esta resaca". No es la primera vez que Pichetto expone su particular visión, en agosto, en el marco de la comisión de Asuntos Constitucionales del Senado, para tratar los pliegos de los jefes de Inteligencia, Gustavo Arribas y Silvia Majdalani, el senador habló en contra del acuerdo para la llegada de refugiados sirios. Al tiempo que pidió modificar la Ley de migraciones y cuestionó la política de puertas abiertas. Mirá también: Frigerio, Massa, Messi y Boateng: todos cruzados en la discusión por las leyes que necesita Macri Su postura también lo expuso a una polémica en 2014, a raíz de su pedido de "deportar a extranjeros que cometen delitos" y sobre los senegaleses que "venden cosas truchas". Esta vez insistió en que "no tenemos control migratorio" y subrayó su preocupación por las "distintas corrientes migratorias que se instalan en Argentina y las vemos en las calles" El domingo, en el programa que conduce Roberto García, volvió a dejar en claro su pensamiento, aunque también reconoció: "Uno corre el riesgo que le pongan la etiqueta, el problema en Argentina es la cultura igualitaria y en los medios de comunicación lo políticamente correcto".

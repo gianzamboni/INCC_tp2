@@ -1,0 +1,86 @@
+
+Mauricio Macri anunció hoy el Plan de Primera Infancia, junto al intendente de San Martín, Gabriel Katopodis, y al secretario General de la Presidencia, Fernando De Andreis. El Presidente lo hizo en un centro de desarrollo infantil llamado "Chispitas", ubicado en Campos 844, del partido de San Martín. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El programa anunciado tiene el propósito de fortalecer los niveles de intervención, así como establecer líneas que faciliten la coordinación público-privada y que se enriquezcan el trabajo en áreas clave relacionadas con la primera infancia. Mirá también: Macri va a un distrito peronista, con el foco en lo social El Presidente le habló a las maestras, a la portera, a quienes preparan la comida y a las madres: "Quiero ayudar a que cada argentino tenga su oportunidad". Y elogió el trabajo en ese centro ya que "lo que más nos importa es lo que les pasa a nuestros hijos". Macri también dijo  que hay que trabajar por "una Argentina sin exclusión, donde les enseñemos anuestros chicos a respetar la ley". 
+
+
+"Quiero una Argentina donde no haya impunidad", subrayó Macri.
+
+
+
+
+
+var act_9d5 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_9d5 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_9d5.setTitle('&quot;Quiero una Argentina donde no haya impunidad&quot;, subray&oacute; Macri.');
+act_9d5.setSubtitle('EN SAN MARTÍN'); 
+act_9d5.setLinkBack('http://www.clarin.com/politica/Macri-Quiero-Argentina-impunidad_0_1556844459.html');
+act_9d5.setDescription('El Presidente anunci&oacute; un plan de primera infancia. Dijo que debemos trabajar&nbsp;por &quot;una Argentina sin exclusi&oacute;n, donde les ense&ntilde;emos a nuestros chicos a respetar la ley&quot;.');
+act_9d5.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Macri-Quiero-Argentina-impunidad_0_1556844459.html');
+
+var showShareBarUI_params_9d5=
+{ 
+containerID: 'shareQuote_9d5',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_9d5,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_9d5
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_9d5);
+
+
+Más tarde, a las 16, el primer mandatario mantendrá en su despacho de la Casa Rosada un encuentro con referentes sociales para analizar diversos temas de la agenda de gestión. Media hora más tarde, ingresarán a su despacho miembros del Partido Comunista Chino "con la voluntad de estrechar lazos y de ampliar la cooperación y potenciar el diálogo para incrementar el conocimiento mutuo". Mirá también: El PJ frente al barro del kirchnerismo A las 17, recibirá a la Organización para la Cooperación y el Desarrollo Económicos (OCDE), que agrupa a 34 países miembros y su misión es promover políticas que mejoren el bienestar económico y social de las personas alrededor del mundo. Mirá también: Lápices K y rosca de sushi Por último, a las 21 compartirá una cena con directivos de la CIPPEC, entidad abocada a la política social y económica.

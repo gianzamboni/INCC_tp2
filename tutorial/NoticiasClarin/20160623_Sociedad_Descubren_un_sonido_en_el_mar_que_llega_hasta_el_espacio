@@ -1,0 +1,18 @@
+
+Un grupo de científicos encontró algo muy extraño cuando estudiaban las corrientes del Mar Caribe. Según lo publicado en la revista 'Geophysical Research Letters', los investigadores descubrieron un sonido de tono grave que se emitía desde el fondo del océano y que llega a escucharse hasta el espacio. El sonido, similar a un zumbido, no es audible para el oído humano, aunque es tan potente que puede ser percibido desde más allá del planeta Tierra. "En vez de encontrar un suelo marino tranquilo, descubrimos unas grandes e inexplicables oscilaciones", le dijo a BBC Mundo el investigador Chris Hughes de la Universidad de Liverpool. Leé también: "Así suena el abismo más profundo de la Tierra" Todo comenzó cuando los investigadores encontraron una anomalía en el análisis de los datos del nivel del mar y la presión de la zona del mar Caribe durante los últimos 60 años. Esta porción de océano corresponde al área entre Las Antillas (Cuba, República Dominicana o Puerto Rico) al norte y Venezuela al sur. Escuchá el sonido que surge del mar y llega hasta el espacio: 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ En el contexto del misterioso sonido, los investigadores afirmaron que el mar Caribe funciona como una especie de silbato gigante, ya que en él se forman corrientes marinas muy rápidas y angostas que generan una vibración que se traduce en oleaje. El oleaje, provoca una resonancia similar al aire dentro de un silbato, lo que es el origen del sonido. Quien causa ese ruido es una gran ola, conocida como la ola de Rossy, que recorre de este a oeste el mar en unos 120 días. Cuando desaparece en la costa occidental, aparece en el extremo oriental para volver a atravesar la región. Esa ola interactúa en el suelo marino, haciendo que se produzca ese zumbido. Leé también: "La misteriosa 'música espacial' de la cara oculta de la Luna"  Pero sin dudas el detalle particular de este fenómeno es que la frecuencia es tan baja que no puede ser captado por el oído humano, pero, al mismo tiempo, tan poderoso que pudo ser detectado desde el espacio por el satélite Grace de la NASA.

@@ -1,0 +1,76 @@
+
+Juliana Awada, visitó este jueves, la provincia de Entre Ríos. La primera dama visitó centros sociales y una cooperativa de horticultores de Paraná, junto a la ministra de Desarrollo Social, Carolina Stanley, y el intendente municipal Sergio Varisco.
+
+Apenas llegada a la capital entrerriana, Awada recorrió el Parque Hortícola de Paraná, donde trabajan de manera cooperativa 60 productores que proveen de alimento a la zona periurbana.  Según la gacetilla oficial, "los huerteros le mostraron la metodología con que cultivan hasta 330 toneladas de lechuga, 250 toneladas de tomate y 125 toneladas de pimientos por año en cuatro hectáreas bajo invernáculos, y la forma en la que paralelamente producen brócoli, cebolla de verdeo, acelga y espinaca en ocho hectáreas al aire libre".
+
+Así, volvió a agitarse la idea de una eventual candidatura de la esposa de Mauricio Macri, algo que es negado rotundamente en el entorno del Presidente de la Nación. Mirá también: Por qué Juliana repitió el vestido en la apertura de los Juegos Además de comercializar los productos, los horticultores donan alimentos frescos al Asilo Municipal de ancianos de Paraná, y brindan cursos de capacitación sobre cultivos, alimentos y cuidado del medio ambiente. Luego de dialogar con los horticultores y de conocer las áreas de cultivo, Awada se dirigió al segundo destino en la capital entrerriana: el centro de Día “Virgen de la Esperanza”, que ofrece diariamente desayuno y merienda a 70 niños y niñas.
+
+
+
+
+Allí se mostró con Carolina Stanley: la ministra también suena como una de las posibles cartas electorales del Gobierno nacional para la elección parlamentaria de 2017.
+
+
+
+
+
+var act_891 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_891 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_891.setTitle('Allí se mostró con Carolina Stanley: la ministra también suena como una de las posibles cartas electorales del Gobierno nacional para la elección parlamentaria de 2017.');
+act_891.setSubtitle('LA MUJER DEL PRESIDENTE'); 
+act_891.setLinkBack('http://www.clarin.com/politica/Juliana-candidata-primera-recorrida-Rios_0_1639036134.html');
+act_891.setDescription('Junto a la ministra Carolina Stanley, visitó centros sociales y una cooperativa de horticultores de Paraná. En el Gobierno desmienten que pueda competir electoralmente.');
+act_891.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Juliana-candidata-primera-recorrida-Rios_0_1639036134.html');
+
+var showShareBarUI_params_891=
+{ 
+containerID: 'shareQuote_891',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_891,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_891
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_891);
+ Mirá también: Juliana Awada con agenda propia: museos, milanesa y compras en Berlín recorrió los espacios en los que se coordinan y realizar las actividades deportivas, recreativas, y de apoyo escolar, e incluso participó de actividades de cocina con los niños y niñas del centro. La primera dama además,  "intercambió miradas sobre la situación social en la ciudad de Paraná con los profesionales que conforman el gabinete psicopedagógico".
+
+¿Habrá carrera electoral para la madre de Antonia o solo será una contribución con su imagen a la performance del Gobierno? Mirá también: Poncho para Awada y Vidal 0 Km.

@@ -1,0 +1,18 @@
+
+Se hizo esperar, pero cumplió: el glaciar Perito Moreno dio su espectáculo a plena luz del día, a la vista de todos. Mirá también: Espectáculo único: rompió el Glaciar Perito Moreno La inmensa masa de 250 kilómetros cuadrados de hielo regaló esta mañana un show que fue visto, a través de Internet, en todo el mundo.  Mirá también: Las otras caídas del Glaciar Perito Moreno Aquí, el video del momento de la ruptura del puente sobre la península de Magallanes, a las 10.56 de la mañana: 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá la fotogalería en HD

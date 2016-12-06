@@ -1,0 +1,18 @@
+
+Ayer, el presidente estadounidense Barack Obama llegó a Nueva York para participar desde hoy en la Asamblea General de las Naciones Unidas. En una ciudad que sigue conmovida por los ataques con explosivos caseros, los desplazamientos del mandatario casi no tienen precedentes. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: En Wall Street, Macri llamó a invertir en una Argentina "diferente" Clarín pudo ver el operativo que lo acompaña. Es casi un ejército pequeño. A la comitiva la preceden cinco motos de la policía de Nueva York, que circulan como avanzada por un recorrido prefijado de antemano que está vallado en sus dos veredas y blindado por varias decenas de patrulleros, grúas, camionetas y equipos de comunicaciones de la policía de Nueva York. Por ese camino, que corta la ciudad en dos durante al menos media hora y se va armando y desarmando con el paso de la comitiva, circula la escolta propiamente dicha. La preceden otras tres motos policiales, que guían a 14 camionetas blindadas negras del Servicio Secreto que se mezclan con las tres limusinas negras blindadas conocidas como "La Bestia", cinco patrulleros, dos camionetas de bomberos y una ambulancia. Tres motos policiales más cierran esa "burbuja", que deja a turistas y locales boquiabiertos. Mirá también: Cae  el sospechoso de colocar las bombas en Nueva York 

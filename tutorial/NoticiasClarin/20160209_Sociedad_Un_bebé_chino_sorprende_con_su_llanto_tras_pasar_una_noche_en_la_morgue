@@ -1,0 +1,129 @@
+
+Lo daban por muerto y estaba a punto de ser incinerado luego de haber pasado un día en la cámara frigorífica de la morgue, pero un milagro lo devolvió a la vida. Se trata de un bebé chino de tan sólo meses de vida. Sin embargo ahora los médicos son pesimistas sobre las posibilidades de que sobreviva.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160209_0025 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160209_0025_09f";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Dieron por muerto a un bebé en china, pero en la morgue volvió a respirar',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/09/VID/CLAVID20160209_0025/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Dieron-muerto-morgue-volvio-respirar_CLAVID20160209_0025_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160209_0025',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/09/VID/CLAVID20160209_0025/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Dieron-muerto-morgue-volvio-respirar_3_1519678042.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160209_0025.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160209_0025){
+            //getBBTStats_CLAVID20160209_0025();
+            varModIdReprod_CLAVID20160209_0025 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+ Los empleados de una pompa fúnebre del distrito de Pan'an, en la provincia de Zhejiang (este), "preparaban el viernes pasado la cremación de un bebé, cuando de golpe éste comenzó a gemir", informó la televisión provincial en su blog oficial. También leé: "La conmovedora historia de un bebé que dieron por muerto y logró sobrevivir" El bebé había sido declarado muerto la víspera y había pasado unas quince horas en la cámara frigorífica de la morgue, a una temperatura de -12 grados, indicó la televisión.
+
+Certificado de muerte del bebé en China. / The Telegraph.  Asombrados, los empleados avisaron de inmediato al padre y a los servicios de socorro, que hospitalizaron al bebé en una sala de cuidados intensivos. El relato, acompañado con fotos del bebé y de su acta de fallecimiento, se apoderó de todos los medios y de las redes sociales durante el fin de semana de las fiestas del Año Nuevo lunar chino. También leé: "Cumplió dos años Santino, el chico al que dieron por muerto al nacer" "Es la primera vez que veo un caso así, es un verdadero milagro", declaró el doctor Chen, médico del hospital de Pan'an, donde el bebé había nacido prematuramente. Tras su nacimiento, a comienzos de enero, el bebé había pasado 23 días en una incubadora, pero su padre lo retiró para que pasara en familia las fiestas del Año del Mono, el nuevo año lunar chino. Pero, dos días después, el padre llevó al bebé al hospital en grave estado de salud, con todo el cuerpo morado, donde falleció el 4 de febrero. Un médico del servicio de urgencias había certificado que su corazón había dejado de latir. Antes de colocarlo en la cámara frigorífica de la morgue, el padre había envuelto al bebé con dos vestimentas de lana y un espeso saquito de dormir, que fue, quizás, lo que le salvó la vida. AFP

@@ -1,0 +1,18 @@
+
+Los aumentos en los colectivos, trenes y subtes, que regirán a partir del viernes, no pasaron desapercibidos para una agrupación macrista, que suele hacer videos de parodias con noticias del momento.  La Solano Lima publicó un video a través de las redes sociales titulado: "El costo de vida en Argentina", al ritmo de una canción de Juan Luis Guerra, donde le pega a los funcionarios del Gobierno por el aumento de costos, pero también al kirchnerismo por los casos de corrupción 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Leé también: Mirtha y la monja Pelloni arrinconaron a Dietrich por las subas de transporte y los despidos Los ministros de Energía y Transporte, Juan José Aranguren y Guillermo Dietrich, aparecen bailando, con imágenes de sus explicaciones por el ajuste tarifario. Pero también desfilian los nombres del kirchnerismo y el escándalo de los videos de "La Rosadita". "Ah ah chorros K, oh oh es el PRO", dice el estribillo de la canción. Y con bastante de autocrítica: "A mí si me importa, ya ves, porque te voté. No voté el ajuste, no, no, ni CEO ni ONG". La anterior entrega de la agrupación que se define como "peronistas republicanos en el PRO" le apuntó al de los artistas K contra el acuerdo con los holdouts. Leé también: Una agrupación macrista parodió el video de los artistas K sobre la deuda ​"Tenemos derechos. Exigimos vivir en un país legal donde los políticos y burócratas del Estado no se roben nuestra plata. Cárcel y expropiación de bienes y capitales a los corruptos K", dice el texto con el que finaliza el video.

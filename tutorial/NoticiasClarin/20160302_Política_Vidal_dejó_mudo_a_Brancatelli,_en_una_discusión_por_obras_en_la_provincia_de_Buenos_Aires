@@ -1,0 +1,84 @@
+
+María Eugenia Vidal dejó mudo a Diego Brancatelli en la emisión de este martes del siempre polémico programa “Intratables”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La gobernadora de Buenos Aires se cruzó con el panelista K sobre el estado de las obras para las inundaciones en la provincia: "Pasaron 14 años para las obras", le dijo la mandataria.  Mirá también: Vidal contra Scioli: "Vamos a denunciar todo lo que haya que denunciar" Brancatelli comenzó diciendo que "lamentablemente va a seguir lloviendo, hablo del Oeste, en Morón las obras están detenidas, así en La Matanza, Lomas de Zamora, no es que se ha hecho nada... Se ha hecho muchísimo. Dicen algunos intendentes que les dan obras si les dan apoyo político. ¿Esto es así?", le preguntó el periodista kirchnerista. Mirá también: Ya no quedan detenidos por la Triple Fuga y Vidal le apuntó a la Justicia Vidal comenzó con una sonrisa:"Además de los 3 mil millones de pesos que les damos a los intendentes en seguridad, les vamos a dar $7 mil millones para obras. Te digo que pasaron 14 años para la obra de la cuenca Boquerón, la conozco bien, no lo resolvieron ni el Intendente, el Gobernador ni la Presidenta".. Brancatelli insistió: "Estaban haciendo un montón de obras". 
+
+
+Pero Vidal lo despachó diciendo que "cuando llegamos las obras estaban todas paradas, 39 colchones, pacientes esperando su medicación, esa era la situación el 10 de diciembre", cerró Vidal.
+
+
+
+
+
+var act_99d = new gigya.socialize.UserAction();
+
+var emailBodyCustom_99d = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_99d.setTitle('Pero Vidal lo despach&oacute; diciendo que &quot;cuando llegamos las obras estaban todas paradas, 39 colchones, pacientes esperando su medicaci&oacute;n, esa era la situaci&oacute;n el 10 de diciembre&quot;, cerr&oacute; Vidal.');
+act_99d.setSubtitle('EN INTRATABLES'); 
+act_99d.setLinkBack('http://www.clarin.com/politica/Vidal-Brancatelli-provincia-Buenos-Aires_0_1532846887.html');
+act_99d.setDescription('El panelista K le pregunt&oacute; sobre los trabajos por las inundaciones. La gobernadora retruc&oacute; que&nbsp;&ldquo;pasaron 14 a&ntilde;os&quot; sin que se hiciera nada.');
+act_99d.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Vidal-Brancatelli-provincia-Buenos-Aires_0_1532846887.html');
+
+var showShareBarUI_params_99d=
+{ 
+containerID: 'shareQuote_99d',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_99d,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_99d
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_99d);
+ Así,  Vidal dejó sin palabras a Diego Brancatelli en una discusión por las obras en la provincia de Buenos Aires. Mirá también: Vidal llamó a la unidad y dijo: “No estoy acá para hacerme rica”

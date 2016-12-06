@@ -1,0 +1,18 @@
+
+En medio de las denuncias y sospechas de corrupción sobre la gestión de Daniel Scioli en la provincia de Buenos Aires, una agrupación macrista le puso un poco de humor al tema. Se trata de La Sola Lima, con una amplia experiencia en el tema, echó mano al clásico de Los Auténticos Decadentes, "Vení Raquel" y creó "Vení Daniel". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Scioli calificó de "falsa" y "engañosa" la denuncia por supuesto retiro de $ 20. 000 millones La canción hace un repaso por la trayectoria de Scioli desde sus tiempos de motonauta hasta su irrupción en la política junto a Carlos Menem y luego con el kirchnerismo. "Ahora Daniel, vos sos un millonario. Vení Daniel, las cuentas hay que rendir. Vení Daniel y ya no tengas miedo a desfilar por Comodoro Py", reza el pegadizo estribillo. Mirá también: Fariña: el ex gobernador manejaba su “club de la obra pública” La denuncia contra el ex gobernador y candidato presidencial del FpV, a cargo del fiscal Álvaro Garganta, apunta al supuesto retiro a través de ventanilla de más de 20.000 millones de pesos entre 2014 y 2015, que habrían sido utilizados en la campaña electoral del año pasado. Ayer, el ex gobernador calificó de "falsa" y "engañosa" la denuncia sobre su gestión. Mirá también: Otra parodia de una agrupación macrista sobre la corrupción K El tema fue difundido a través de las redes sociales de la agrupación que se define como "los peronistas" dentro del PRO. Los muchachos se vienen haciendo una panzada con la multiplicidad de casos de corrupción que implican a la dirigencia kirchneristas. Sus últimas entregas apuntaron a "las monjitas K" del convento de General Rodríguez y el "desfile K" por los Tribunales.

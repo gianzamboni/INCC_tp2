@@ -1,0 +1,24 @@
+
+Dos mujeres murieron y otras 17 personas resultaron heridas, al menos cuatro de ellas de gravedad, al volcar esta madrugada un ómnibus en Río Cuarto, sobre la ruta A005, un trazado que une las rutas 8 y 36. Fuentes policiales informaron a la agencia de noticias DyN que el accidente se produjo alrededor de las 2.30 sobre una rotonda y fue protagonizado por un micro de la empresa Andesmar. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_ccxvromu",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_ccxvromu"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_ccxvromu").after(scriptEl);
+ Las identidades de las víctimas fatales, dos pasajeras del micro, no habían sido suministradas oficialmente esta mañana. Mirá también: Video: llueve y un nene conduce a 100 km/h por una autopista Los primeros datos indican que el accidente se produjo cuando el micro, por motivos que no están claros, "siguió de largo" en una rotonda que no está iluminada aunque contaría con la señalización correspondiente.
+
+En diálogo con el canal de noticias TN, Marcelo Pecorari, bombero de Río Cuarto, explicó que la rotonda es nueva, que tiene un "dibujo particular" y no está iluminada. “Es un colectivo de dos pisos. Es una ruta donde hay una rotonda. A la rotonda le falta iluminación. Perdió el control el conductor y se desplazó a la banquina dándose vuelta sobre el costado derecho de la unidad”, dijo el jefe de Bomberos de Río Cuarto, Guillermo Rafti, al diario La Voz del Interior. “Cuando llegamos muchos (de los heridos) ya eran trasladados en móviles policiales. (...) Sé que eran entre 25 y 30 pasajeros”, agregó el bombero en conversación con Radio Mitre Córdoba.
+
+Seis de las personas que viajaban en el micro quedaron atrapadas y debieron ser rescatadas por bomberos y efectivos policiales, indica La Voz. Pecorari le contó a TN que las últimas personas atrapadas recién fueron sacadas del micro pasadas las cinco de esta mañana, unas tres horas después del accidente. Las primeras informaciones señalan que el ómnibus se dirigía desde la capital cordobesa a la ciudad de Mendoza. Los heridos fueron llevados al Hospital San Antonio de Padua de la ciudad de Río Cuarto.

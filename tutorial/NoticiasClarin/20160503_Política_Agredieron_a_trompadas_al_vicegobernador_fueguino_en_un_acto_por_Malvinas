@@ -1,0 +1,87 @@
+
+El vicegobernador de Tierra del Fuego, Juan Carlos Arcando, fue agredido por un grupo de trabajadores estatales y municipales que lo agarraron a trompadas y le tiraron huevazos cuando estaba en Ushuaia, en un homenaje a los caídos durante el ataque al Crucero General Belgrano, en la guerra de Malvinas. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Arcando había llegado al acto antes de las 16 para participar del 34 aniversario del hundimiento del crucero Naval, en el que murieron 323 argentinos durante el conflicto bélico con Reino Unido. Al arribar, notó una trifulca a lo lejos, pero jamás imaginó el violento desenlace que iba a explotar en cuestión de minutos. En diálogo con Clarín, el vicegobernador contó que estaba terminando el acto cuando, de repente, un grupo de 40 personas apareció para increparlo. 
+
+
+ "Me querían agredir, me ahorcaron de la corbata y me partieron el traje en dos", relató. "Eran unos 40", detalló.
+
+
+
+
+
+var act_74b = new gigya.socialize.UserAction();
+
+var emailBodyCustom_74b = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_74b.setTitle(' "Me querían agredir, me ahorcaron de la corbata y me partieron el traje en dos", relató. "Eran unos 40", detalló.');
+act_74b.setSubtitle('Tierra del Fuego'); 
+act_74b.setLinkBack('http://www.clarin.com/politica/Agredieron-trompadas-vicegobernador-fueguino-Malvinas_0_1570043036.html');
+act_74b.setDescription('Ocurri&oacute; en Ushuaia, cuando encabezaba un acto por el 34&ordm; aniversario del hundimiento del crucero General Belgrano. &quot;Me ahorcaron de la&nbsp;corbata y me rompieron el traje&quot;, dijo a Clar&iacute;n.');
+act_74b.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Agredieron-trompadas-vicegobernador-fueguino-Malvinas_0_1570043036.html');
+
+var showShareBarUI_params_74b=
+{ 
+containerID: 'shareQuote_74b',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_74b,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_74b
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_74b);
+ Un video publicado por el sitio Crónicas Fueguinas mostró los forcejeos, que casi le hicieron imposible caminar el funcionario, y también peleas a trompadas entre oficiales de la policía que llegaron corriendo a socorrerlo con manifestantes que fueron a escracharlo.
+
+El vicegobernador de Rosana Bertone vinculó la agresión al conflicto con los estatales que atraviesa la provincia desde hace más de 63 días, luego de una reforma previsional que impulsó el ejecutivo, al derogar el régimen jubilatorio de los 25 inviernos, que habilitaba a los trabajadores a jubilarse a los 47 años. "Querían que los reciba, pero les dije que no iba a dialogar con ellos porque mañana está pautada la reunión en Tolhuin“, explicó Arcando, que lamentó que la violencia se haya apoderado de un acto de homenaje a los caídos en el Crucero General Belgrano. Arcando denunció la agresión y una médica constató las lesiones que sufrió antes de poder refugiarse en la legislatura provincial. Luego de su ingreso al edificio, una manifestación de más de 100 personas se congregó en el ingreso y para repudiarlo. Fuentes del gobierno provincial apuntaron "fundamentalmente a integrantes del gremio municipal SOEM, encabezados por el dirigente Horacio Gallegos" como autores del ataque, informó la agencia DyN. Este no es el primer episodio de violencia que se vive en la isla en el contexto de la protesta de los gremios con la gobernadora. El 13 de abril pasado, camioneros y estatales se enfrentaron en el ingreso a una planta de combustible en medio de un piquete que impedía la salida de vehículos con nafta.  Así se enfrentaron camioneros y estatales en un piquete en la planta de combustibles Orion que abastece a la isla pic.twitter.com/exLXcFOJ41— Pablo Javier Blanco (@payitoweb) 13 de abril de 2016
+ "Lo importante es que estoy bien, uno ha vivido cosas peores en la vida", afirmó a Clarín Arcando. El vicegobernador fueguino es un ex oficial de la Armada que al asumir en su cargo juró por “por la memoria y el recuerdo de mis compañeros que quedaron en Malvinas y en las aguas frías del Atlántico Sur”. Ayer, cuando los recordaba, fue agredido.

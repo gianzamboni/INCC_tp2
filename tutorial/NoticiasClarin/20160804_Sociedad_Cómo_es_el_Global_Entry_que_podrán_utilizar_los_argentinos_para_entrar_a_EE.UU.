@@ -1,0 +1,34 @@
+
+"La relación entre Estados Unidos y Argentina es vibrante", retuiteó la cuenta oficial @CancilleríaArgentina a partir del mensaje que esta tarde publicó en Twitter @USAenEspañol. Con dicho tuit, el Departamento de Estado de EE.UU. celebró en las redes el anuncio formal de que facilitará la entrada a ese país de los viajeros argentinos, aunque siga exigiendo la obtención de la visa.  Así es el sistema que presentó hoy la canciller argentina Susana Malcorra junto a su par estadounidense,  John Kerry.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/CancilleriaARG/status/761251483258060800",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76125148325806080")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El Global Entry, es un "programa de protección de la frontera y la aduana estadounidense" que se desprende de Aduanas y Protección Fronteriza (CBP, en inglés) y facilita el proceso de admisión migratoria a viajeros "preaprobados" y de "bajo riesgo" en el preciso momento en que llegan a los Estados Unidos. "La implementación se realizará de manera coordinada entre ambas naciones con la información provista y a través de las distintas bases de datos", agregaron desde el Ministerios de Seguridad, ya que no todos los ciudadanos van a poder acceder al beneficio. Mirá también: Estados Unidos facilita el ingreso a los ciudadanos argentinos Para ser miembro hay que crear una cuenta en Global Online Enrollment System (GOES) y completar el formulario de postulación. El costo del trámite es de 100 dólares y la validez del documento debe renovarse cada 5 años. Luego de ser aceptado como miembro, habrá que presentarse a una entrevista -con el pasaporte vigente y el DNI o la licencia de conducir- en el centro de Global Entry que se especifique.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Los "miembros" argentinos de Global Entry ingresarán a EE.UU a través de centrales -kioskos- automáticos en determinados aeropuertos de ese país y, particularmente,  en Miami, Houston, Dallas y Nueva York, puntos altos de entrada de ciudadanos de estas tierras, sin necesidad de interactuar con oficiales de inmigración. En el aeropuerto deberán ingresar sus pasaportes y huellas dactilares a modo de escaneo de reconocimiento y completar una declaración jurada de aduana. Al finalizar el trámite se les entregará un comprobante y podrán caminar hacia las cintas para retirar las valijas. Si bien el beneficio va dirigido a viajeros internacionales frecuentes (somos el tercer país de América Latina en participar, después de México y Panamá) no hay un mínimo de viajes para calificar como "viajero seguro". Para acceder al beneficio los viajeros deben pasar con éxito una entrevista personal y una averiguación de antecedentes. Mirá también: EE.UU. entregará hoy a Argentina documentos desclasificados sobre dictadura Sobre este aspecto, la página oficial del U.S Customs and Border Protection explica que no podrán ser miembros de Global Entry quienes tengan antecedentes penales o enfrentes cargos penales, hayan violados leyes aduaneras o regulaciones agrícolas en cualquier país del mundo, hayan conducido en estado de ebriedad y/o estén siendo investigados por una agencia federal, estatal o local en los EE.UU. El cambio de sistema no interfiere con la obtención de la visa estadounidense, la cual deberá tramitarse sin excepción para viajar. Pese a que el viajero ya sea miembro de Global Entry, si la seguridad lo requiere, pueden ser entrevistados en migraciones durante el ingreso a Estados Unidos. A su vez, el beneficio puede ser revocado si un miembro del programa viola las condiciones del sistema.

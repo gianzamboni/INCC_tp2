@@ -1,0 +1,134 @@
+
+Las exportaciones de Argentina representan el 11,1% del tamaño de su economía. Hay sólo ocho países en el mundo con una participación de sus exportaciones en el PBI más baja que Argentina: Sudan, Burundi, Afganistán, República Centroafricana, Sudan del Sur, Etiopía, Paquistán y Kiribati. Por otro lado, Argentina registra las importaciones más bajas en relación al producto: 11,9%. Los datos salen de un ranking que Marcelo Elizondo, titular de la consultora DNI, elaboró a partir de cifras del Banco Mundial. “La Argentina es una de las cinco economías más cerradas del mundo”, dice Elizondo tomando en cuenta la participación de importaciones y exportaciones en el PBI.   ¿Qué significa que Argentina sea una economía cerrada? En términos económicos, genera dos impactos. Primero, pone de manifiesto los límites que el país halla para generar divisas por cuenta propia y por qué el Gobierno busca dólares a través de los mercados o de la llegada de inversiones extranjeras. 
+
+
+El país exporta hoy el mismo volumen de productos que hace diez años
+
+
+
+
+
+var act_32f = new gigya.socialize.UserAction();
+
+var emailBodyCustom_32f = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_32f.setTitle('El país exporta hoy el mismo volumen de productos que hace diez años');
+act_32f.setSubtitle('El debate por el proteccionismo'); 
+act_32f.setLinkBack('http://www.clarin.com/ieco/Argentina-economias-cerradas-mundo_0_1685831555.html');
+act_32f.setDescription('Es el país con menos importaciones. Y sus exportaciones en volúmenes están igual que hace una década.');
+act_32f.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/Argentina-economias-cerradas-mundo_0_1685831555.html');
+
+var showShareBarUI_params_32f=
+{ 
+containerID: 'shareQuote_32f',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_32f,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_32f
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_32f);
+ Segundo, explica la falta de competencia y precios altos en el mercado interno. “El cierre se convierte entonces en un factor explicativo crucial, acaso el principal, de nuestros sobreprecios”, dice el economista Federico Muñoz en un informe reciente. Miguel Kiguel, en su último documento, muestra que 57 economías más desarrolladas que la argentina registran una participación de sus importaciones más alta. Estos datos cruzan las denuncias de industriales por una avalancha importadora en estos días. El país exporta hoy el mismo volumen de productos que hace diez años luego del pico 2010-2011. Según el Banco Mundial, las exportaciones eran 18,8% del PBI en 2010 pero entonces comenzaron a caer y en 2014 descendieron a 14,3%. En 2015 equivalieron a 11,1%. La Argentina en los últimos años redujo su inserción en el comercio internacional. En 2010 las ventas externas eran 0,46% de las exportaciones globales. En 2015 fueron 0,35%. 
+
+
+La Argentina en los últimos años redujo su inserción en el comercio internacional
+
+
+
+
+
+var act_f4c = new gigya.socialize.UserAction();
+
+var emailBodyCustom_f4c = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_f4c.setTitle('La Argentina en los últimos años redujo su inserción en el comercio internacional');
+act_f4c.setSubtitle('El debate por el proteccionismo'); 
+act_f4c.setLinkBack('http://www.clarin.com/ieco/Argentina-economias-cerradas-mundo_0_1685831555.html');
+act_f4c.setDescription('Es el país con menos importaciones. Y sus exportaciones en volúmenes están igual que hace una década.');
+act_f4c.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/Argentina-economias-cerradas-mundo_0_1685831555.html');
+
+var showShareBarUI_params_f4c=
+{ 
+containerID: 'shareQuote_f4c',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_f4c,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_f4c
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_f4c);
+ La caída del volumen y la participación de las exportaciones argentinas se explica, en buena parte, porque hace diez años el 15% de las ventas externas eran de petróleo y derivados. Hoy esa cifra llega a 3%. La pérdida fue compensada con mayores con mayores envíos de productos primarios y agropecuarios. “Este año se registrará el primer aumento, que de todas maneras será leve, en los volúmenes de exportaciones”, dice Elizondo. Argentina es la economía más cerrada de Sudamérica. Le sigue Brasil (ver infografía). Paraguay y Bolivia están entre las economías más abiertas de la región. Ambas tienen las mejores chances de crecimiento para el año que viene. El FMI estima que crecerán 3,6% y 3,9% respectivamente. La economía que crecerá más rápido en 2017 según el FMI también es más abierta que la Argentina: Perú. Hay distintas explicaciones sobre por qué la economía Argentina es más cerrada que en otros países. Una sostiene que si el Gobierno abriera las fronteras con el dólar a $15, los sectores sensibles no podrían competir. Otra dice que el problema es la estructura impositiva y la falta de infraestructura. Elizondo en su informe marca que las economías cerradas no son las que más reciben inversiones extranjeras directas como el Gobierno aspira o dice que desea recibir. “Los principales receptores de IED en el mundo son países que ingresan en una de tres posibles categorías: son grandes economías por el tamaño de su mercado, grandes exportadores o importadores en términos absolutos, o países con un grado elevado de integración internacional”. Corresponden a las primeras dos categorías Estados Unidos, China o la Unión Europea y a la tercera Malasia, México o Sudáfrica. “Argentina tendrá que aumentar su participación de exportaciones e importaciones para ingresar en la lista de beneficiarios de IED”. “El país firmó acuerdos comerciales con países que representan sólo el 10% del PBI global mientras que Chile se asoció a economías que manejan el 90% de la producción global”, explica Kiguel. “Esto significa que por ejemplo vinos argentinos tienen que pagar impuestos en EE.UU. o Japón mientras que los chilenos no”. El Gobierno estima que las exportaciones este año serán US$ 58.326 millones. Elizondo calcula que rondarán los US$ 57.000 millones. En 2017 el Gobierno proyecta un aumento a US$ 64.278 millones .

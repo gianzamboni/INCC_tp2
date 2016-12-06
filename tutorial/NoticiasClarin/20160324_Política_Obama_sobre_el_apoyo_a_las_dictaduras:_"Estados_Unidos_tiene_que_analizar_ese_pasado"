@@ -1,0 +1,222 @@
+
+El presidente estadounidense, Barack Obama, visitó hoy el Parque de la Memoria, en el último día de su viaje oficial a la Argentina y en coincidencia con el 40/o aniversario del último golpe militar en el país. Mirá la FOTOGALERÍA en HD
+
+Obama llegó al Parque de la Memoria a las 10:20 horas. Frente al Río de la Plata, se erige un monumento en recuerdo de las víctimas del terrorismo de Estado durante la dictadura de 1976 al 83. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/mauriciomacri/status/712997289355292673",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71299728935529267")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Obama ingresó al parque, se saludó con Mauricio Macri y recorrieron parte del predio. Y arrojó flores al río, en homenaje a las víctimas de la represión y la dictadura militar. 
+
+
+ Luego, se ubicaron en dos atriles y allí, el mandatario estadounidense dijo que "Es conmovedor estar aquí con el Presidente Macri. Estoy emocionado, este parque es un homenaje a la valentía"
+
+
+
+
+
+var act_f2b = new gigya.socialize.UserAction();
+
+var emailBodyCustom_f2b = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_f2b.setTitle('&nbsp;Luego, se ubicaron en dos atriles y all&iacute;, el mandatario estadounidense dijo que &quot;Es conmovedor estar aqu&iacute; con el Presidente Macri. Estoy emocionado, este parque es un homenaje a la valent&iacute;a&quot;');
+act_f2b.setSubtitle('EN EL PARQUE DE LA MEMORIA'); 
+act_f2b.setLinkBack('http://www.clarin.com/politica/Obama-Macri-Parque-Memoria_0_1546045543.html');
+act_f2b.setDescription('El jefe de Estado pidi&oacute; &quot;que se cumpla el &#39;Nunca M&aacute;s&quot;. Y asegur&oacute; que su pa&iacute;s desclasificar&aacute; m&aacute;s archivos militares y&nbsp;de&nbsp;inteligencia.');
+act_f2b.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Obama-Macri-Parque-Memoria_0_1546045543.html');
+
+var showShareBarUI_params_f2b=
+{ 
+containerID: 'shareQuote_f2b',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_f2b,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_f2b
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_f2b);
+ Aseveró que "los familiares lideraron los esfuerzos. Que se cumpla la promesa 'Nunca Más", y mencionó a las Abuelas de Plaza de Mayo y a los científicos que ayudaron a identificar a las víctimas de todo el mundo". Y dijo hoy que su país tiene que "analizar ese pasado" que lo llevó a respaldar a las dictaduras de la región "y ser responsables hacia el futuro y eso es lo que vamos a hacer"
+
+
+
+
+Obama: "Sus incesantes y constantes acciones para que se cumpla con la promesa del Nunca Más"
+
+
+
+
+
+var act_455 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_455 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_455.setTitle('Obama: &quot;Sus incesantes y constantes acciones para que se cumpla con la promesa del Nunca M&aacute;s&quot;');
+act_455.setSubtitle('EN EL PARQUE DE LA MEMORIA'); 
+act_455.setLinkBack('http://www.clarin.com/politica/Obama-Macri-Parque-Memoria_0_1546045543.html');
+act_455.setDescription('El jefe de Estado pidi&oacute; &quot;que se cumpla el &#39;Nunca M&aacute;s&quot;. Y asegur&oacute; que su pa&iacute;s desclasificar&aacute; m&aacute;s archivos militares y&nbsp;de&nbsp;inteligencia.');
+act_455.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Obama-Macri-Parque-Memoria_0_1546045543.html');
+
+var showShareBarUI_params_455=
+{ 
+containerID: 'shareQuote_455',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_455,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_455
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_455);
+ "Estados Unidos reflexiona sobre lo que pasó" durante los tiempos de la dictadura militar: "Sé que existen polémcias sobre el rol durante esos tiempos. Es algo sobre lo que estamos trabajando", Aseguró. dijo que hubo ocasiones en la que no se estuvo "a la altura de los valores" que pregonan desde el país norteamericano. 
+
+
+“Las democracias deben tener el valor de reconocer cuando no se está a la altura de defender los ideales que defendemos, cuando hemos tardado en defender los derechos humanos; ese fue el caso de Argentina”
+
+
+
+
+
+var act_cf0 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_cf0 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_cf0.setTitle('&ldquo;Las democracias deben tener el valor de reconocer cuando no se est&aacute; a la altura de defender los ideales que defendemos, cuando hemos tardado en defender los derechos humanos; ese fue el caso de Argentina&rdquo;');
+act_cf0.setSubtitle('EN EL PARQUE DE LA MEMORIA'); 
+act_cf0.setLinkBack('http://www.clarin.com/politica/Obama-Macri-Parque-Memoria_0_1546045543.html');
+act_cf0.setDescription('El jefe de Estado pidi&oacute; &quot;que se cumpla el &#39;Nunca M&aacute;s&quot;. Y asegur&oacute; que su pa&iacute;s desclasificar&aacute; m&aacute;s archivos militares y&nbsp;de&nbsp;inteligencia.');
+act_cf0.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Obama-Macri-Parque-Memoria_0_1546045543.html');
+
+var showShareBarUI_params_cf0=
+{ 
+containerID: 'shareQuote_cf0',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_cf0,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_cf0
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_cf0);
+ Mirá también: Macri: "Gracias por acompañarnos en este momento doloroso de nuestra historia" Por eso, aseguró que el jefe de Estado estadounidense aseguró que "su país desclasificará archivos militares y documentos de inteligencia de los años de la dictadura argentina. Las Madres y Abuelas de Plaza de Mayo no concurrieron a ese acto y fustigaron el hecho de que Obama visite el país en esta fecha ya que acusan a Washington de haber sido promotor y defensor del régimen militar Horas después, por la tarde, distintos organismos de derechos humanos, con las Madres y Abuelas de Plaza de Mayo a la cabeza, así como varios partidos políticos, se movilizarán a Plaza de Mayo en repudio del golpe y en homenaje a los 30.000 desaparecidos que dejó la dictadura
+
+Mirá también: Bariloche, alterada por la visita de Obama: ¿habrá golf con Macri? Obama, tras su visita al Parque de la Memoria, partirá rumbo a la ciudad de Bariloche, en la Patagonia, sur del país, donde descansará hasta la noche. Según la agenda, podría visitar la sede de la empresa estatal Invap (Investigación Aplicada), que fabrica satélites espaciales Por la noche, Obama y su comitiva, que incluye a su esposa Michelle y a sus hijas, partirá rumbo a Buenos Aires y desde allí a Washington Mirá también: Entre el deshielo y el respaldo a Macri Ayer Obama se reunió con el presidente argentino Mauricio Macri y luego habló a jóvenes emprendedores en el teatro Usina del Arte. Por la noche participó en una cena junto a Macri y su delegación en el Centro Cultural Kirchner, donde bailó un tango Mirá también: Ojo de bife y provoleta: Michelle Obama fue a comer a una parrilla de San Telmo Obama pondrá hoy fin a su viaje por la región que tuvo como primera etapa una histórica visita a Cuba

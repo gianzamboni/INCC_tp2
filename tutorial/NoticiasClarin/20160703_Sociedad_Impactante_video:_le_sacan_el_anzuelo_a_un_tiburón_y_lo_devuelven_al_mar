@@ -1,0 +1,20 @@
+
+Lo que se ve es asombroso. Un hombre forcejea un tiburón gigante sólo con sus manos y sin ningún equipo especial. El episodio tuvo lugar en Topsail Beach, en Carolina del Norte, y es parte de una investigación que se está realizando para conocer la cantidad de tiburones que hay en la zona y cuál es su situación.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Matan a un tiburón en Punta Cana: lo sacan del mar y se toman fotos con él David Schmidt, es un infante de la Marina de Estados Unidos que forma parte de este proyecto. En las imágenes se puede ver cómo, solo y sin ayuda, da vuelta al animal que mide cuatro metros de largo y le abre la mandíbula para poder chequear su estado. Ahí llega lo más fuerte: le desenganchan un anzuelo que tenía clavado en su boca. 
+
+El video fue filmado por Laura Harrell, una vecina del lugar, que lo subió a su Facebook e inmediatamente se convirtió en un fenómeno viral: en pocas horas fue visto por dos millones y medio de personas que lo compartieron por la red.  Finalmente, el animal fue devuelto al mar.  Mirá también: La conmovedora historia del elefante que pidió ayuda tras recibir un disparo

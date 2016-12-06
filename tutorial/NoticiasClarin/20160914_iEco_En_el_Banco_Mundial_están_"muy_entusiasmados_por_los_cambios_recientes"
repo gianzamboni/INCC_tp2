@@ -1,0 +1,18 @@
+
+"Estamos muy entusiasmados por los cambios recientes en Argentina", dijo el mexicano Jorge Familiar a Clarín en el Foro de Inversión y Negocios que se celebra estos días en el Centro Cultural Kirchner. Según el vicepresidente del Banco Mundial para América Latina y el Caribe, "se ha sorprendido al mundo por la velocidad y profundidad del cambio". Mirá también: Federico Weil: la reactivación inmobiliaria comenzará por el segmento premium  En opinión de Familiar, pese al entorno económico "complejo", se advierten "instituciones comprometidas con el desarrollo, con el crecimiento y con la reducción de la pobreza". Mirá también: Buen clima, elogios al Gobierno y reclamos en el foro de empresarios 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ - Parece que hay una desconexión entre lo que dicen los analistas y lo que sienten muchas personas que han perdido el empleo o el poder adquisitivo...  - La desconexión es una parte siempre de procesos como estos. Hay expectativas y a muchos agentes económicos, a muchos individuos les gustaría que las cosas sucedieran muy rápido, pero desafortunadamente las reformas y los cambios toman algo de tiempo. También creo yo que en un momento como el que vivimos en la actualidad en América Latina, adaptarse a la nueva realidad económica es algo que afortunadamente podemos hacer de forma gradual. También veo yo que proteger a los más vulnerables es una parte central de la agenda, precisamente para atender estas inquietudes que válidamente tiene una parte de nuestra población. Mirá también: El Eximbank de EE.UU. volverá a operar en la Argentina luego de 15 años  - ¿En qué medida el Gobierno está protegiendo a los más vulnerables?  - Un ejemplo muy concreto es la ampliación de algunos programas de protección social, la asignación universal por hijo, por ejemplo, que es una que estamos apoyando nosotros con financiamiento. Hace algunos meses, por ejemplo, hubo un nuevo crédito por parte del Banco Mundial a Argentina por alrededor de 600 millones de dólares para estos efectos. Mirá también: Impulsan una marca de alimentos para productos del Norte  

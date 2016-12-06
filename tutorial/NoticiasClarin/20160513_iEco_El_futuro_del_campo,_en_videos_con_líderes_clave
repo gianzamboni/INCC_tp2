@@ -1,0 +1,17 @@
+
+Con el cambio de Gobierno cambiaron también las reglas de juego para el sector agroindustrial. La gestión de Mauricio Macri arrancó eliminando retenciones para el trigo, el maíz y otros cultivos, reduciéndolas para la soja y pasando al olvido el sistema de ROE que trababa la comercialización de productos, además unificar el tipo de cambio. Hay un nuevo escenario.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

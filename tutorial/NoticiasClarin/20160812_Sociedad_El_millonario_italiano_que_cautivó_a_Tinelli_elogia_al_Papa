@@ -1,0 +1,39 @@
+
+Admirador del papa Francisco y de la "vieja galanteria", promotor de una "vida sana con deporte y sin drogas", el empresario italiano Gianluca Vacchi se convirtió, a los 49 años recién cumplidos, en el personaje de moda en el verano europeo con exóticos bailes a bordo de su yate que filma y comparte con sus millones de seguidores en redes sociales. Aquí, se hizo conocido porque con sus bailes cautivó a Marcelo Tinelli. Sus coreografías a bordo del yate con el que recorre las aguas que rodean a Cerdeña baten récords en Instagram mientras IMA, la empresa familiar de la que tiene un 30%, factura mil millones de euros al año por la producción de máquinas dedicadas a productos farmacéuticos, cosméticos y alimentarios. "Lo que hago es mostrar una vida sin máscaras. Trabajé 20 años muy duro en el rubro empresario pero hace un tiempo me dieron ganas de vivir una segunda vida y comencé a explorar con curiosidad cómo estaban cambiando las formas de comunicar de los jóvenes con las redes sociales", repasó Vacchi en entrevista con Télam en Italia.
+
+Esa exploración lo llevó a convertirse en las últimas semanas en uno de los personajes de moda del verano europeo: su coreografía de "La Mordidita", de Ricky Martin, junto a su novia, la escultural modelo italiana Giorgia Gabriele, superó las siete millones de reproducciones en una semana, en medio de otros pequeños clips donde se los ve haciendo deporte y compartiendo vacaciones con sus amigos. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Hace unos días el propio Marcelo Tinelli se divirtió tanto con el movimiento de sus caderas que publicó en su cuenta de Twitter el video que había compartido un usuario: Jajajaja geniales!! Quienes son??? https://t.co/329CDC7q0z— marcelo tinelli (@cuervotinelli) 5 de agosto de 2016
+ 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Descubrí que los jóvenes son más inteligentes de lo que se cree. Ellos entienden los videos y mensajes que comparto sin falsos moralismos ni impronta burguesa. Entienden el espíritu con el que hago esto. Es un mensaje de vida sana basada en el deporte y en compartir con amigos", relató Vacchi, y reveló que bajo los más de 100 tatuajes que cubren su cuerpo hay sangre argentina: tuvo una abuela, Mercedes, nacida de Buenos Aires. El empresario destacó la figura del papa Francisco porque es "cercano a la gente" y enfatizó la vuelta a la ética que propone el Pontífice: "Por fin tenemos un Papa cercano a la gente. Que le habla a los jóvenes sin filtros, los escucha. Que propone un sentido más humano". También leé: "El multimillonario italiano que, con su excéntrico baile, cautivó hasta a Marcelo Tinelli" Durante la entrevista, en medio de una tarde soleada en Cerdeña, el hombre continuó con expresando sus pensamientos: "Hay muchos falsos moralistas que me dicen que ostento. Yo sólo trato de dar un mensaje positivo frente al moralismo burgués, sin culpa. Mi vida es una vida sana, que se basa en el deporte y compartirla toda con amigos. No bebo y detesto la droga. Con Giorgia bailamos porque el gran secreto de una pareja es divertirse juntos", agregó, antes de comenzar a fundamentar porqué prefiere "la vieja galantería" a la hora de conquistar una mujer. "A los chicos que me piden consejos para conquistar mujeres, les digo siempre lo mismo: vuelvan a la vieja galantería. A Giorgia la conquisté recién después de 200 cartas escritas a mano. Yo soy un hincha de la vieja escuela: es mucho más difícil decirle a una mujer que uno la quiere besar que mandarle un emoji con un beso", aconseja.
+
+"Sean educados y diviértanse. Las personas que no se ríen no son personas serias. Hay mucha gente que porque tiene tal o cual trabajo o posición, ni siquiera baila en la discoteca por temor al que dirán. A mí, sin embargo, me divierte y por eso quiero que se difunda el mensaje de que se puede ser una persona sensata siendo divertida e irónica y no tomándose todo demasiado en serio", finalizó. Entre sus videos deportivos y pasarla bien con amigos, en abril plasmó su concepto de vida en el libro "Enjoy", frase con la que resume su forma de ver el mundo: "Vivimos con la presunción de eternidad pero nos olvidamos que estamos de paso. Durante este paso debemos disfrutar de todo lo que la vida nos ofrece. Por eso "enjoy" es un viví la vida, un disfrutá".

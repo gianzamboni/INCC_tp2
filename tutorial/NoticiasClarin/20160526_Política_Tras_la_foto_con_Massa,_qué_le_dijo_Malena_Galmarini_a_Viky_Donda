@@ -1,0 +1,84 @@
+
+Ella estaba apoyada contra una columna. Él, pensativo, recibía la mirada de la diputada. La imagen en la que fueron fotografiados los diputados Sergio Massa y Victoria Donda en el Salón de los Pasos Perdidos del Congreso recorrió las redes sociales y disparó los comentarios más sugerentes. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Hasta hoy. Para despejar sospechas y rumores, ambas charlaron en el programa de TV Desayuno Americano. Galmarini aseguró: "A mí me generó mucha preocupación. Pero no por mi marido, sino respecto de cómo estamos inmersos y atravesados por la cultura machista". "No creo en los terceros en discordia, si los hay es porque en la pareja antes había un problema", agregó, en relación a los comentarios que se habían despertado por la foto.  Por su parte, Donda contó como vivió la situación: "Me puse a llorar de bronca. Nadie habló de lo que yo dije. Siempre la mujer tiene que trabajar el doble para que te crean que sos inteligente”, disparó. Mirá también: Donda tras la sugestiva foto con Massa: "Yo me paro así delante de un máquina de café"  Ambas coincidieron en que las sospechas de un romance tienen que ver con el machismo y la violencia de género. En referencia al planteo del tema en redes sociales y medios, Galmarini reflexionó: "Sergio aparece como un galán tratando de levantarse a una mina. Las cosas que dijeron de Donda me parecieron horrorosas. Guarda Sergio cuando vuelvas a tu casa, ¿no? Si esta foto hubiese sido con Lousteau, hubiese sido en el marco de una alianza política”. Sus comentarios tuvieron que ver con las aclaraciones que tuvieron que salir a hacer. “Sin embargo, como era un señor con una chica linda, inteligente, con convicciones, bien plantada, lo que genera son otras cuestiones”, agregó. 
+
+
+"Me puse a llorar de bronca", contó Viky Donda
+
+
+
+
+
+var act_030 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_030 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_030.setTitle('"Me puse a llorar de bronca", contó Viky Donda');
+act_030.setSubtitle('Polémica'); 
+act_030.setLinkBack('http://www.clarin.com/politica/Massa-Malena-Galmarini-Vicky-Donda_0_1583841734.html');
+act_030.setDescription('Asegur&oacute; que le genera preocupaci&oacute;n el machismo de la sociedad. &quot;Me gener&oacute; preocupaci&oacute;n, pero no por mi marido&quot;, solt&oacute; con la diputada a su lado.');
+act_030.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Massa-Malena-Galmarini-Vicky-Donda_0_1583841734.html');
+
+var showShareBarUI_params_030=
+{ 
+containerID: 'shareQuote_030',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_030,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_030
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_030);
+  "Esta foto debiera servir para reflexionar sobre los derechos de las mujeres", aseguró Malena Galmarini.

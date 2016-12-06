@@ -1,0 +1,112 @@
+
+El prófugo más buscado de la Argentina, Ibár Pérez Corradi, fue extraditado con destino a Buenos Aires para ser puesto a disposición de las autoridades judiciales y responder por los supuestos delitos de homicidio de Sebastián Forza, Damián Ferrón y Leopoldo Bina, en el marco del Triple Crimen de la efedrina, y también por narcotráfico. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_ya3tl3jz",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_ya3tl3jz"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_ya3tl3jz").after(scriptEl);
+ MIRA LA FOTOGALERIA HD Un avión de la Fuerza Aérea, TC 54 decoló con el preso a las 15:42 de la Argentina rumbo a la Ciudad de Buenos Aires.
+
+Una frondosa comitiva policial y judicial acompañó al hombre que fue capturado semanas atrás en Foz de Iguazú. 
+
+
+Según trascendió, Pérez Corradi declararía mañana a las 10 ante la jueza Servini de Cubría
+
+
+
+
+
+var act_2d6 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_2d6 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_2d6.setTitle('Según trascendió, Pérez Corradi declararía&nbsp;mañana a las 10 ante la jueza Servini de Cubría');
+act_2d6.setSubtitle('Narcotráfico y política'); 
+act_2d6.setLinkBack('http://www.clarin.com/politica/Perez-Corradi-llegara-pais-noche_0_1607839314.html');
+act_2d6.setDescription('La justicia paraguaya autorizó su traslado a nuestro país. El preso fue transportado en un avión argentino y arribó a Aeroparque a las 17:15. Videos. ');
+act_2d6.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Perez-Corradi-llegara-pais-noche_0_1607839314.html');
+
+var showShareBarUI_params_2d6=
+{ 
+containerID: 'shareQuote_2d6',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_2d6,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_2d6
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_2d6);
+ Pérez Corradi fue transportado hasta el aeropuerto internacional "Silvio Pettirossi" de Paraguay (Plataforma Militar) en una mini van, vehículo que fue escoltado por otros cuatro vehículos y dos motos con sirenas, tras desecharse su traslado en en helicóptero por la densa neblina que cubría a Asunción.
+
+La máquina de gran porte llegó, como estaba previsto, a las 17:15 al Aeroparque metropolitano. Allí, en conferencia de prensa, la ministra de Seguridad, Patricia Bullrich, afirmó: "Ibar Pérez Corradi no se entregó, a Pérez Corradi lo agarramos". Bullrich además indicó que "el imputado ha declarado que lo han querido asesinar" y resaltó que la misión ahora es "cuidar a los que están imputados para llegar a la verdad". 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_tv4yrt4t",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_tv4yrt4t"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_tv4yrt4t").after(scriptEl);
+ Mirá también: Pérez Corradi llega apuntando a Aníbal Fernández y Echegaray La mujer paraguaya de Pérez Corradi, Gladys Delgado Brítez, estuvo presente durante la partida en Asunción, pero no tuvo acceso a su pareja. Ella reiteró que su familia fue amenazada de muerte por las cosas que pudiera declarar Pérez Corradi en la Argentina. LA PREVIA Julián López, el magistrado que decretó la extradición, sólo esperaba que las autoridades argentinas le facilitaran los nombres de los agentes de Gendarmería que lo custodiarán, y las características del avión que lo trasladará a la capital argentina.
+
+El juez dispuso su traslado de Pérez Corradi en helicóptero desde su prisión en la sede de la Fuerza de Operaciones de la Policía Especializada (Fope) en Asunción hasta el aeropuerto internacional "Silvio Pettirossi", desde cuya plataforma militar partirá el vuelo hacia Buenos Aires. A su vez, el juez Oscar Delgado -que tramitaba una causa por producción de documento de identidad de contenido falso- dispuso la libertad inmediata de Pérez Corradi, a pedido de la fiscalía -que esgrimió como fundamento el "criterio de oportunidad"- sin afectar las demás causas que afronta en su país.
+
+Mirá también: Podría convertirse en el principal imputado privilegiado Delgado notificó enseguida a su colega López, encargado del proceso natural de extradición. "En un tratado de extradición, el Estado requirente se hace cargo de todos los costos", dijo López a periodistas. El avión argentino que llevará a Pérez Corradi a su país aún no llegó a Asunción. "Mi juzgado tiene vía libre para proceder a la entrega del detenido a las autoridades argentinas", anunció el juez. Y dijo que esas autoridades argentinas ya estaban preparadas para recibir al supuesto cerebro del triple crimen de la efedrina.

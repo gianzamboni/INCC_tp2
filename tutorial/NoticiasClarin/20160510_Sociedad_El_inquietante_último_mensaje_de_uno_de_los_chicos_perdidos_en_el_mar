@@ -1,0 +1,73 @@
+
+Dos chicos desaparecidos en el mar protagonizan un caso que conmueve a Estados Unidos. Son Perry Cohen y Austin Stephanos, ambos de 14 años, residentes de la localidad de Tequesta, en Florida. Fueron vistos por última vez el 24 de julio de 2015, cuando partieron en una excursión de pesca. Mirá también: Un iPhone podría resolver el misterio de los chicos que desaparecieron en el mar
+
+(Perry Cohen y Austin Stephanos desaparecieron en alta mar). Antes de salir en la embarcación, Perry Cohen le mandó un mensaje a su madre, Pamela. Como su tablet no funcionaba, le escribió desde el iPhone de su amigo Austin. Este aparato estaba dentro del bote en el que navegaban los chicos y fue hallado - junto a otros objetos personales - en marzo de 2016, en las costas de Bermudas. 
+
+
+ "Mamá, es Perry. Mi iPad está muerto, te envío un mensaje de texto en un rato. Te amo", le escribió esa mañana el adolescente, según lo publicado en CBS Miami. Ella le respondió: "Ok. Quería que durmieras en casa hoy, te extraño. Salimos el domingo para Nueva York. ¿Qué hay de tu trabajo?". Y el chico le contestó: "Pero iba a dormir en..." Nunca terminó el mensaje.
+
+
+
+
+
+var act_1bd = new gigya.socialize.UserAction();
+
+var emailBodyCustom_1bd = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_1bd.setTitle(' "Mamá, es Perry. Mi iPad está muerto, te envío un mensaje de texto en un rato. Te amo", le escribió esa mañana el adolescente, según lo publicado en CBS Miami. Ella le respondió: "Ok. Quería que durmieras en casa hoy, te extraño. Salimos el domingo para Nueva York. ¿Qué hay de tu trabajo?". Y el chico le contestó: "Pero iba a dormir en..." Nunca terminó el mensaje.');
+act_1bd.setSubtitle('Estados Unidos.'); 
+act_1bd.setLinkBack('http://www.clarin.com/sociedad/inquietante-ultimo-mensaje-chicos-perdidos_0_1574242602.html');
+act_1bd.setDescription('Dos adolescentes partieron en una excursi&oacute;n de pesca, pero&nbsp;nunca volvieron. Hubo una conversaci&oacute;n inconclusa entre uno de ellos&nbsp;y su madre.&nbsp;');
+act_1bd.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/inquietante-ultimo-mensaje-chicos-perdidos_0_1574242602.html');
+
+var showShareBarUI_params_1bd=
+{ 
+containerID: 'shareQuote_1bd',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_1bd,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_1bd
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_1bd);
+ Por esta conversación -inconclusa y angustiante- Pamela Cohen tiene la esperanza de que ese teléfono contenga información sobre lo que le pasó a su hijo. Primero le pidió a Carly Black y William Blu Stephanos (padres de Austin) que se lo dieran a un grupo de investigadores para analizar su contenido. Luego fue más allá: interpuso una demanda para exigir que lo entreguen. El tema fue tratado en una audiencia que se realizó el viernes en una corte del condado de Palm Beach. Allí, el juez Gregory Keyser ordenó que el teléfono sea enviado a la empresa de tecnología Apple, para que intente recuperar la información y luego envíe los resultados a la corte.
+
+(El teléfono encontrado en el bote donde navegaban Austin y Perry). Mientras tanto, Pamela comparte en su cuenta de Instagram mensajes y fotos dedicados a su hijo. "Soy muy afortunada de haber sido la mamá de Perry. Él me enseñó mucho sobre el amor y la risa. Mientras tuve la responsabilidad de la maternidad, nuestras almas siempre estaban conectados y hemos aprendido mucho el uno del otro", escribió. "Perry y yo compartimos un amor de libro de cuentos, un amor que deseo que todo el mundo experimente, ya que tu vida nunca será verdaderamente completa hasta que lo hayas compartido. Soy amada y Perry es amado. Por siempre y para siempre", concluye esta madre desolada. Mirá también: Un nuevo video muestra a la chica desaparecida en Bahía Blanca con un hombre     I am so fortunate to have been Perry's mom. He taught me so much about love and laughter. While I hold the responsibility of motherhood - our souls were always connected and we learned so much from each other. We shared many of the same traits; fiercely loyal, faithful, loving and kind - these were our Foundation. I am honored to be the mother of such an extraordinary human being and lover of all of nature, his family and friends. His mark will forever be felt and seen in this world. As it should be. Perry and I shared a story book love - a love that I wish for everyone to experience, as your life will never truly be complete until you have shared it. I am loved and Perry is loved. Forever and Always. ❤️❤️❤️ #bestboy #bestgirl @perryjcohenfoundation Una foto publicada por Pamela Cohen (@perminak) el 8 de May de 2016 a la(s) 6:46 PDT
+

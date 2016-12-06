@@ -1,0 +1,18 @@
+
+Este fin de semana, con el arranque de la segunda quincena, los turistas colmaron Mar del Plata y la ciudad vuelve a mostrar su postal más habitual, luego del flojo comienzo de temporada. Arenas colmadas, sombrillas por doquier, chicas en malla, turistas comiendo en los restaurantes, sol en el cielo: la imagen de La Feliz que todos tenemos asociada en el imaginario.  En estos días de verano, en las redes volvió a compartirse una colección de fotos que muestra todo eso de Mar del Plata... hace más de 50 años.   Son las fotos de la ciudad que tomó a fines de la década del 50 un fotógrafo de la prestigiosa revista Life. Las publicó en su Facebook el taller de fotografía Salto Luz y luego el sitio Historia de Mar del Plata. Las imágenes las captó en el verano de 1958 Dmitri Kessel, un fotógrafo nacido en Ucrania en 1902. “Emigró a América después de la revolución bolchevique. Desde pequeño, su posesión mas preciada fue una cámara fotográfica. Kessel trabajo como fotógrafo industrial, corresponsal de guerra y colaborador para la revista Life. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En esta ocasión, retrató a una ciudad que podría contar la historia argentina entera en su fachada, sus playas y su infraestructura”, explica el sitio. Kessel murió en 1995 y estas fotos muestran una Mar del Plata muy diferente en muchos aspectos, pero a la vez reconocible en otros.  “La difusión de la sindicalización y los derechos laborales en la década del 40 permitió que las clases trabajadoras comenzaran a elegir a “La Feliz” para pasar sus vacaciones, fenómeno facilitado por el aguinaldo (decimotercera paga recibida a fin de año) y el turismo social. Por este motivo los sindicatos adquirieron más de treinta hoteles. En el momento que retratan estas fotos, diez años después, las clases medias se empezaron a volcar masivamente a poseer un departamento en Mar del Plata, generando un auge de la construcción y un cambio notable de su estructura edilicia. Ya en los 60 la clase alta comenzaría a abandonar Mar del Plata como balneario turístico, para instalarse principalmente en Punta del Este, Uruguay”, resume el sitio web sobre la historia de la ciudad.               

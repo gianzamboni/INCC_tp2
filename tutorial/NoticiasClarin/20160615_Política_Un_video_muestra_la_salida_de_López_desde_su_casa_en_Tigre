@@ -1,0 +1,37 @@
+
+El ex secretario de Obras Públicas durante toda la era kirchnerista, José López, salió de su casa en el barrio de Dique Luján, en Tigre, a la 1 de la mañana del martes en su Chevrolet Meriva. Así lo muestran las imágenes captadas por las cámaras de Seguridad de Tigre a las que tuvo acceso Clarín. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Por ahora, nadie sabe a ciencia cierta qué hizo entre esa hora y las 3, cuando fue visto por un vecino de General Rodríguez tirando bolsos dentro del Monasterio de las Monjas Orantes y Penitentes de Nuestra Señora de Fátima. Ese hombre llamó a las 3.53 al 911 para avisar que había visto un hombre hacía una hora estacionado frente a la puerta del monasterio. Mirá también: El llamado al 911 que alertó sobre la presencia de López en el convento Las filmaciones muestran la Chevrolet Meriva patente FEI444 circulando por las calles de Tigre a la 1.04, pocos minutos después de dejar la casa deBelgrano al 1018, con salida al Río Luján, a pocas cuadras de la quinta La Ñata donde vive el ex gobernador bonaerense Daniel Scioli. 
+ De noche, el viaje entre la casa de López en Tigre y el monasterio de General Rodríguez no tarda más de una hora, con lo cual la Justicia investiga si el ex funcionario kirchnerista hizo una parada intermedia para cargar o descargar parte del dinero con el que llegó -dos horas más tarde de dejar su casa- al convento que solía visitar al menos una vez por año. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Además de los bolsos con los casi 9 millones de dólares, el rifle calibre 22 y algunos relojes, López llegó al convento con dos teléfonos Iphone 6 Plus, con lo cual la Justicia podría determinar qué células se activaron con esos teléfonos para determinar qué camino tomó. Las cámaras de los peajes del Camino del Buen Ayre y el Acceso Oeste, si es la ruta que eligió López, podrían contribuir con más información sobre el itinerario. En cambio, si hubiese querido dejar menos rastros, López podría haber optado por la Ruta 26 desde Dique Luján hasta Pilar y desde allí hasta General Rodríguez, una vía más insegura por la falta de iluminación a la madrugada pero más útil para evitar dejar rastros. Según la información que pudo recoger Clarín de fuentes de la Municipalidad de Tigre, 27 cámaras de seguridad del Municipio tomaron el recorrido que hizo el auto.
+
+Según datos del Centro de Operaciones Tigre (COT), la primera grabación del trayecto del vehículo es del "lunes 13 de junio, a las 17:18, cuando es divisado en el Camino de los Remeros, sentido desde Av. Liniers hacia la Ruta 27. Las cámaras muestran al Chevrolet Meriva transitando durante los siguientes minutos por la citada ruta 27, hasta que a las 17:32, ingresa a Dique Luján". Al día siguiente, las cámaras lo toman ya en dirección al monasterio. "El segundo registro de imágenes es del día martes 14 de junio, a la 1:04 am, cuando el vehículo de López es tomado por las cámaras en 12 de octubre y Ruta 26, momento en el que abandona el partido de Tigre", informó el COT.  

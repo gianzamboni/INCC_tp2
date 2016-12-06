@@ -1,0 +1,154 @@
+
+José Luis Gioja encendió la mecha y desde el macrismo salieron hoy a responderle con dureza. "Es de los que rifaron un partido histórico" y "debería repensar qué hicieron para perder las elecciones" fueron algunas frases que referentes del Gobierno le dedicaron al titular del Partido Justicialista, luego de que éste calificara de "boludo" al Presidente. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Hay muchos funcionarios que entienden el cambio y que se suman a la gobernabilidad, y otros que vienen poniendo palos en la rueda desde el principio, desde el arranque", cuestionó el ministro del Interior, Rogelio Frigerio. Mirá también: Gioja insultó a Macri: "El boludo del presidente que tenemos va a tocar timbre" "Antes que insultar y poner en ridículo algunas políticas de comunicación de nuestro Gobierno, debería repensar qué hicieron para perder las elecciones", remarcó en declaraciones a Radio Continental. Además, sostuvo que "falta un poco de humildad" de parte de Gioja "porque es el presidente del partido que perdió las elecciones" del año pasado.Gioja, actual diputado nacional, había afirmado que "en esta época del marketing, el boludo de Presidente que tenemos va a tocar el timbre". Lo hizo en una unidad básica del PJ en su provincia, rodeado de afiliados y militantes. Horas más tarde, sus voceros salieron a intentar bajarle el tono a sus dichos. 
+
+Frigerio puso al ex gobernador de San Juan entre los "muchos dirigentes que no cambiaron el chip" tras el triunfo de Cambiemos y juzgó que "no pueden sacarse la camiseta partidaria por un momento" para ponerse "la camiseta nacional". 
+
+
+Tomé el insulto como algo del pasado de la Argentina", dijo Frigerio.
+
+
+
+
+
+var act_42c = new gigya.socialize.UserAction();
+
+var emailBodyCustom_42c = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_42c.setTitle('Tomé el insulto como algo del pasado de la Argentina", dijo Frigerio.');
+act_42c.setSubtitle('Lo había calificado de "boludo"'); 
+act_42c.setLinkBack('http://www.clarin.com/politica/macrismo-cruzo-Gioja-insulto-Presidente_0_1685831490.html');
+act_42c.setDescription('Afirmaron que el titular del PJ está entre "los que rifaron un partido histórico". Fuertes frases de Rogelio Frigerio y Ritondo.');
+act_42c.addActionLink('VER MÁS', 'http://www.clarin.com/politica/macrismo-cruzo-Gioja-insulto-Presidente_0_1685831490.html');
+
+var showShareBarUI_params_42c=
+{ 
+containerID: 'shareQuote_42c',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_42c,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_42c
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_42c);
+ "Tomé el insulto como algo del pasado de la Argentina", remató el ministro y marcó que el Gobierno tiene "una excelente" relación con el actual gobernador de San Juan, Sergio Uñac. Desde las filas de Cambiemos en la Provincia de Buenos Aires el que alzó la voz fue el ministro de Seguridad, Cristian Ritondo. Mirá también: Macri encabezó otro timbreo con Vidal: ahora visitaron Suipacha “Gioja forma parte de ese país que todos queremos cambiar donde el boludo es el que toca timbre y se preocupa por las necesidades del vecino, y el vivo le roba los impuestos y llena bolsos con millones de dólares”, disparó.
+
+“El país esta cambiando y los ciudadanos de a pie ahora vemos cómo los vivos desfilan por los tribunales”, agregó en referencia a los funcionarios del kirchnerismo involucrados en causas de corrupción, una situación que también alcanza a la ex presidenta Cristina Fernández. 
+
+
+El país está cambiando y los ciudadanos de a pie ahora vemos cómo los vivos desfilan por los tribunales", lanzó Ritondo.
+
+
+
+
+
+var act_dce = new gigya.socialize.UserAction();
+
+var emailBodyCustom_dce = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_dce.setTitle('El país está cambiando y los ciudadanos de a pie ahora vemos cómo los vivos desfilan por los tribunales", lanzó Ritondo.');
+act_dce.setSubtitle('Lo había calificado de "boludo"'); 
+act_dce.setLinkBack('http://www.clarin.com/politica/macrismo-cruzo-Gioja-insulto-Presidente_0_1685831490.html');
+act_dce.setDescription('Afirmaron que el titular del PJ está entre "los que rifaron un partido histórico". Fuertes frases de Rogelio Frigerio y Ritondo.');
+act_dce.addActionLink('VER MÁS', 'http://www.clarin.com/politica/macrismo-cruzo-Gioja-insulto-Presidente_0_1685831490.html');
+
+var showShareBarUI_params_dce=
+{ 
+containerID: 'shareQuote_dce',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_dce,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_dce
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_dce);
+  Ritondo siguió con sus críticas: “Gioja es parte de los que rifaron un partido histórico y hoy pretenden volver a camuflarse en él, pero son los mismos que estuvieron los últimos años agachando la cabeza y acatando las ordenes de los K”.  “Cuando se le faltaba el respeto a la ex Presidenta, sus funcionarios llamaban a defender la investidura presidencial. Al parecer se creyeron el verso de Cristina eterna y hoy deben asumir que Mauricio Macri es el presidente de todos los argentinos”, apuntó Ritondo. Frigerio, por su parte, defendió también la estrategia de "timbreo" de Cambiemos, indicó que al Gobierno lo "caracteriza el acercamiento con la gente" y criticó que "gran parte del problema del Gobierno anterior fue haber estado desconectado con la realidad, creer que en la Argentina no había pobres, que no había inflación, que éramos como Alemania". "Había funcionarios del Gobierno anterior que durante muchos años no habían tenido contacto con los vecinos y uno va perdiendo perspectiva de la realidad si se queda aislado de la gente", consideró.

@@ -1,0 +1,42 @@
+
+Se viene un fin de semana con lluvia y una opción --bajo techo-- es visitar "Nuestros Caballos y Nuestros Perros", que se hará hasta el domingo en La Rural. La exposición ofrece varias curiosidades y nos presenta a los animales de maneras insólitas. Desde los perros que rescatan a personas en el agua hasta los que se "lookean" con estilistas. Desde los caballos más chicos del mundo hasta los que participan en shows de acrobacia. Hay para todos los gustos. Mirá también: Espectacular hallazgo: un perrito de la Edad del Hielo
+
+Los caballos "mini", de la raza Falabella. Gustavo Ortiz.  Este año, la mayor novedad es la instalación de una pileta de 12 metros, donde los perros rescatistas muestran su trabajo. De raza terranova, son sometidos (durante 7 meses a 2 años) a un entrenamiento cognitivo emocional para salvar a personas en el mar. "Son un complemento de los guardavidas. Los ayudan en la tracción, porque los perros tienen una tracción de dos toneladas en el agua: pueden traer hasta un bote con personas", le cuenta a Clarín Hernán Sánchez Dorrego, representante argentino de SOS Can. Mirá la Fotogalería en HD También en la pileta, un border collie llamado Kobu y una jack rusell de nombre Kiara muestran su agilidad y destreza. Hacen las pruebas junto a Marysol Rey, una muchacha que supo unir --en el agua-- sus grandes pasiones: practica stand up paddle (deporte acuático que se realiza con una tabla y remos) y dirige la escuela de entrenamiento canino Patita Patita.   
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La muestra también premia a la belleza: en la Copa Groom van a competir más de 200 estilistas caninos de todo el mundo. "Los perros pasaron a ser como hijos para mucha gente. Esto fue creciendo tan rápido que necesitábamos agruparnos todos los profesionales", cuenta Roberto Nugnes, que hace dos años creó la Asociación de Peluqueros Caninos. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La asociación tiene 250 socios, aunque se estima que hay 4.000 "groomers" (así se llaman estos estilistas) en la Argentina. "Cada vez más perros se hacen recortes de pelo, usan accesorios o moñitos, y hasta se les pone rubor en los pelos de la cara, de dura uno o dos días", detalla Nugnes.   Mirá también: Eligieron al perro más lindo del mundo
+
+Roberto Nugnes "lookea" a un caniche gigante. Gustavo Ortiz. Sobre el escenario, también hay espectáculos de saltos y piruetas. Los acróbatas pertenecen, por supuesto, al mundo canino. El despliegue fascinó a Chantal (con "C", aclara), de ocho años, que por primera vez visita la muestra, junto a su hermanito Agustín y sus padres, Néstor y Flavia. En casa tienen un caniche, pero se diferencia mucho de los del show: "sólo hace travesuras", dice la nena.
+
+Toda la familia disfruta de los espectáculos. Gustavo Ortiz. Del lado de los caballos, la expo cuenta con las 13 razas equinas más importantes del país, 700 ejemplares de la mejor genética, y 3.000 criadores de cabañas de elite. Se puede ver el Concurso internacional de volteo (acrobacias sobre el caballo) y disfrutar de competencias de polo, de pato de picadero y de rodeo, junto a exhibiciones de saltos hípicos Mirá también: Estudio revela que los caballos entienden el estado de ánimo de las personas Sorprende la presencia de cuatro caballos "mini": son de la raza Falabella, que es la más pequeña del mundo. Fue creada en la Argentina, hace más de 80 años, y figura en el libro Guiness de los récords. "Mantienen la estructura de un caballo normal, pero en miniatura. Son más chicos que los llamados ponis", explica a Clarín Evaristo Falabella, sobrino-nieto del creador de la raza. Están domesticados y son muy sociables. "La idea es tener un caballo donde no podrías tener un caballo. Lo podés criar en el jardín de tu casa. Es muy buscado con esa finalidad, como mascota", señala Evaristo y muestra fotos de un ejemplar mirando la TV con su dueño, en el living de su casa.
+
+Evaristo y sus minicaballos. Gustavo Ortiz. Además, la agenda incluye actividades infantiles, paseos en caballos, desfile de carruajes, arte en vivo y shows para toda la familia. Se puede visitar hasta el 3 de abril, de 10 a 20 horas, en La Rural. La entrada cuesta 70 pesos y para los menores de 8 años es gratis. Mirá la Fotogalería en HD

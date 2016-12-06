@@ -1,0 +1,18 @@
+
+Parece un juguete, pero no lo es. Es un animal real y hay quienes dicen que tiene la mirada más tierna del mundo. Tanto que hasta levantó suspiros de los científicos que lo encontraron en el fondo del mar. Se trata de una especie de calamar púrpura que con sus ojos y sus once centímetros conmueve a todos en Internet.  Un coro de "oooh" se escucha al inicio del video por parte de los científicos ante la sorpresa de encontrar al animal, un ejemplar de Rossia pacifica, estrechamente emparentado con la sepia a pesar de su parecido con el pulpo. Esta especie de calamar pasa los días en el fondo marino, enterrado en el sedimento con los ojos asomados al exterior para poder atrapar alguna presa (camarones y peces pequeños, sobre todo). 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Parece de juguete, como si a un niño se le hubiera caído su peluche", dice una de las científicas en el video que fue subido a YouTube y que ya suma más de un millón de reproducciones, 2.000 me gusta y cientos de comentarios. Algunos incrédulos insisten con que no puede ser real. También leé: "El asombroso encuentro de un buzo con un raro pez"  Vive en el Pacífico Norte, desde Japón hasta el sur de California, a una profundidad mínima de 300 metros. Es un calamar pequeño, de hasta 11 centímetros de longitud y 5 centímetros de ancho. Cambia de color cuando es sorprendido y protege su cuerpo con una pegajosa capa de mucosidad.

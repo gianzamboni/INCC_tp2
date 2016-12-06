@@ -1,0 +1,18 @@
+
+El padre del hacker investigado por cambiar notas en la UADE defendió esta mañana a su hijo frente a los medios y aseguró que “no hizo nada, es inocente, no tiene nada que ver”. Mirá también: Habló el padre del hacker: "Es ridículo creer que mi hijo cambió notas" Sin embargo, el joven de 21 años ya había estado investigado en 2013 en una causa por una estafa informática, en la que también se allanó el mismo departamento de San Cristóbal donde ayer efectivos de la Policía Metropolitana lo atraparon en un operativo de película. Mirá también: El increíble operativo para atrapar al hacker que cambiaba notas de los alumnos en la UADE  TN difundió esta mañana un video de archivo en el que el abogado Manuel Romero Victorica, que también representa ahora al hacker, lo defendía en esa causa, iniciada cuando era casi un adolescente.  “La operación cuestionada es una transferencia a través del sistema llamado Dinero Mail, en el que una de las partes dice que se realizó a través de un virus y pasó a la cuenta del otro. Mi cliente dice que no realizó ese transferencia, y de hecho cuando se acreditó el dinero en su cuenta se comunicó con la gerencia de Dinero Mail y reintegró el importe”, explicó entonces el abogado. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Romero Victorica describió a su cliente como “un chico que estudia” y que “tiene avanzados conocimientos en computación”, pero lo desligó del delito de estafa que se le imputaba y aseguró que la denuncia llegó de un “particular” que era su competencia en el negocio del hosting. “El chico alquilaba computadoras para que usuarios que pagaban un alquiler pudieran utilizarlas”, explicó el abogado, y dijo que lo hacía para costearse sus estudios. Mirá también: Los hackers en Argentina, entre los más codiciados del mundo  El padre del hacker, que según Romero Victorica es ingeniero, dio hoy una explicación similar sobre a qué se dedica su hijo. Dijo que “alquilaba computadoras y luego se fundió con el valor del dólar. Las máquinas las estaba vendiendo, la mayoría están sin disco, vendía las computadoras por parte”.

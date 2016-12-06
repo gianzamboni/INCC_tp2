@@ -1,0 +1,22 @@
+
+El cantautor Bob Dylan recibió este jueves el Premio Nobel de Literatura "por crear nuevas expresiones poéticas dentro de la gran tradición musical estadounidense". Si bien estuvo nominado en el pasado, su nombre no estaba entre los favoritos. Clarín recopiló información imprescindible para conocerlo con más profundidad. ​Esenciales sobre su vida Bob Dylan tiene 75 años y nació en Duluth, Minnesota (EE.UU.), aunque al nacer fue anotado por sus padres como Robert Allen Zimmerman. Su carrera musical comenzó en la década del '60 como cantante de folk, aunque se convirtió en una de las máximas estrellas de la historia del rock. Sus letras fueron ícono de la música de protesta. Bob Dylan, letras y premios Si bien estuvo nominado en varias oportunidades, Bob Dylan ganó el Nobel de Literatura recién en 2016. Fue el ganador de la 109° entrega que realizó la Academia Sueca. Su lirismo exquisito le valió otros reconocimientos: Príncipe de Asturias (2007), Pulitzer (2008) y la Medalla Presidencial de la Libertad (2012), entregada por el presidente Barack Obama.
+
+Una discografía prolífica Bob Dylan editó 37 discos grabados en estudio, 10 realizados en vivo, 9 álbumes que curan sus grandes éxitos y 62 sencillos. El último Fallen Angels (2016). Es uno de los artistas de rock que más discos ha vendido en los Estados Unidos superando las 100 millones de copias. ¿Escribió algún libro? Además de sus canciones, Bob Dylan tiene dos obras literarias: "Tarántula" (1965-1966), un libro de poemas escrito en forma de monólogo interior, y "Crónicas. Volúmen 1" (2004), una autobiografía en donde cuánta cómo llegó a ser quién es. Canciones más escuchadas De acuerdo con la base de datos de Spotify y Youtube -los dos principales sitios para escuchar música en el mundo-, las obras de Dylan más demandadas actualmente por los usuarios son: Knockin' on heaven's doors, Times They Are A Changin, Hurricane y Like a Rolling Stone. Esta última, por lejos, es la más demandada. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Cover históricos de Bob Dylan Algunas leyendas del rock contemporáneo han tomado canciones escritas por el Premio Nobel de Literatura 2016 para realizar nuevas versiones, que también pasaron a la historia. De acuerdo con las revista Rolling Stone, algunos de los ejemplos más emblemáticos son: All Along the Watchtower (Jimi Hendrix), Knockin' on Heaven's Door (Guns N' Roses), Mr. Tambourine Man (The Byrds). 
+
+ Frases que muestran su obra El escritor Salman Rushdie describió a Dylan como "una fuente de inspiración para todo tipo de escritores". Seleccionamos cinco frases de su autoría que representan su obra y personalidad: 1. "Detrás de cada cosa hermosa, hay cierto tipo de dolor"2. "Te dejo estar en mis sueños si tú me dejas estar en los tuyos"3. "Las canciones están ahí. Tienen una existencia propia, y lo único que esperan es a que alguien las escriba."4. "Ser famoso puede ser una gran carga. Jesucristo fue crucificado porque se hizo notar. Entonces yo desaparezco a menudo".5. "Aquél que no está ocupado naciendo, está ocupado muriendo". ¿"The Rolling Stones" se llaman así por la canción de Bob Dylan? No. En efecto, la asociación es un mito. La canción de Bob Dylan Like a Rolling Stone se editó en 1965, mientras que la banda británica fue fundada en 1962. Más allá, el propio Mick Jagger explicó que el nombre de la banda corresponde a una canción de Muddy Waters, quien escribió "Rollin' Stone".

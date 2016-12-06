@@ -1,0 +1,84 @@
+
+
+
+
+“Lilita tiene, en determinados temas, esa sensibilidad que le ha dado hoy una reacción espontánea frente a algo que hoy es de las mayores preocupaciones y de lo que se habla en cualquier lugar”.
+
+
+
+
+
+var act_04b = new gigya.socialize.UserAction();
+
+var emailBodyCustom_04b = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_04b.setTitle('&ldquo;Lilita tiene, en determinados temas, esa sensibilidad que le ha dado hoy una reacci&oacute;n espont&aacute;nea frente a algo que hoy es de las mayores preocupaciones y de lo que se habla en cualquier lugar&rdquo;.');
+act_04b.setSubtitle('EN LA CRÍTICA A MEDIDAS DEL GOBIERNO DE MACRI'); 
+act_04b.setLinkBack('http://www.clarin.com/politica/Ahora-Scioli-elogia-Elisa-Carrio_0_1550245120.html');
+act_04b.setDescription('Tras las cr&iacute;ticas de la diputada a Macri por los ajustes y Angelici, el ex candidato presidencial del FpV elogi&oacute; &ldquo;esa sensibilidad que tiene Lilita con algunos temas&rdquo;.');
+act_04b.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Ahora-Scioli-elogia-Elisa-Carrio_0_1550245120.html');
+
+var showShareBarUI_params_04b=
+{ 
+containerID: 'shareQuote_04b',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_04b,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_04b
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_04b);
+ Esa frase no la dijo ningún integrante de la Coalición Cívica o del ARI. Tampoco de CAMBIEMOS, la alianza política que capitanea el PRO: la realizó ni más ni menos que Daniel Osvaldo Scioli, el ex candidato presidencial del Frente para la Victoria. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Ahora Carrió critica el “ajuste brutal” en agua, transportes y gas En un programa en el canal METRO, el ex gobernador bonaerense elogió la “sensibilidad” que la chaqueña habría mostrado al calificar de “ajustes brutales” los próximos aumentos en gas, transporte y nafta que prevé el Gobierno de Mauricio Macri. Mirá también: Macri discutió con Carrió por sus críticas a las tarifas y a Angelici Scioli dijo que “a la gente le cuesta cada vez más llegar a fin de mes. Hay empresarios que tienen que despedir gente, productores teatrales que tienen que apagar las marquesinas”. Mirá también: Teléfono para Carrió: Macri ya eligió a su "hermano" Caputo y su "amigo" Angelici “Cuando Carrió habló, como le dije a los muchachos de mi partido: éste es nuestro tema, la esencia del peronismo es defender a los trabajadores”, dijo Scioli, hoy sorprendiendo con un elogio a Carrió, una dura crítica de las gestiones de Néstor, Cristina y del propio Scioli en la provincia de Buenos Aires.

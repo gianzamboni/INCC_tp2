@@ -1,0 +1,34 @@
+
+Un fotógrafo capturó el momento exacto en que un rayo impactó en el Empire State, uno de los edificios más altos y emblemáticos de Nueva York. Sucedió el lunes, durante una tormenta de verano. Mirá también: Prueban una "máquina mata drones" para los aeropuertos de Estados Unidos 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El video fue publicado por Henrik Moltke, periodista y fotógrafo de The Intercept, en su cuenta de YouTube. Pronto superó las 1,2 millones de visualizaciones y se viralizó en las redes sociales. "Lo tengo", se escucha que dice Moltke en la filmación. Mirá también: Los ocho videos virales que engañaron a todo el mundo Cuando se inauguró, el edificio medía 381 metros. En 1953 alcanzó los 443,2 metros, al instalarse una antena y una torre de emisión. Según lo informado en el sitio web oficial, "el Empire State es un pararrayos para los alrededores. Es alcanzado por un rayo un promedio de 23 veces al año". Sin embargo, rara vez una cámara logra registrar ese momento exacto. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/moltke/status/757970571061755904",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75797057106175590")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Las imágenes fueron tomadas el lunes a la noche. En medio de una ola de calor, una tormenta de verano afectaba a los vecinos y turistas de Nueva York. Mirá también: Susto en Platense por la caída de un rayo: "Fue muy fuerte, se nos pararon los pelos"

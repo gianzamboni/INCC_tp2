@@ -1,0 +1,18 @@
+
+La Estación Espacial Internacional (ISS) ya nos regaló fotos increíbles de la Tierra tomadas desde el espacio. También, nos sorprendió con su peculiar mirada de la Ciudad de Buenos Aires, entre otras metrópolis del mundo. Ahora, desde el espacio la NASA produjo un video con escenas de nuestro planeta en ultra alta definición. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El video en 4K se titula "Home" (Hogar) y fue difundido en el canal oficial de YouTube de la agencia espacial estadounidense. Además de las imágenes de nuestro planeta, muestra escenas de la vida cotidiana de los tripulantes de la estación: qué comen, cómo se las ingenian para vestirse y de qué manera se desplazan, entre otros detalles. "La NASA monitorea los signos vitales del planeta desde la tierra, el aire y el espacio. La Estación Espacial Internacional hospeda una variedad de investigaciones relacionadas con el clima, las predicciones meteorológicas, el monitoreo de huracanes, la contaminación, la respuesta a los desastres, y más", explica el organismo en el post. Mirá también: Un astronauta probó el habitáculo inflable de la NASA para vivir en el epacio  Las imágenes fueron registradas con una cámara de ultra alta definición (4K), que tiene una resolución cuatro veces mayor a las cámaras de alta definición. Gracias a esta tecnología, en octubre de 2015 vimos a los astronautas "jugar" con burbujas que flotaban en el aire. "La mayor resolución y la mayor cantidad de cuadros por segundo de las imágenes puede revelar más información cuando son usadas en las investigaciones científicas, dándole a los científicos una valiosa nueva herramienta a bordo de la estación espacial", explicaron en ese momento. Mirá también: Un astronauta que va a la Estación Espacial buscará romper un récord en el espacio La Estación Espacial Internacional es un centro de investigación en la órbita terrestre, cuya administración, gestión y desarrollo está a cargo de la cooperación internacional. Está considerada como uno de los logros más grandes de la ingeniería.

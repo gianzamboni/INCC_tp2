@@ -1,0 +1,36 @@
+
+Finalmente, el Presidente y Marcelo Tinelli sellaron la paz. Al cabo de la cumbre en la Quinta de Olivos que se prolongó por alrededor de una hora, Mauricio Macri y el conductor de TV se mostraron juntos, sonrientes y hasta jugaron a "intercambiar" sus caras con el programa "face swap". Todo un gesto de distensión tras el fuego cruzado de las últimas semanas. Eso sí: según pudo saber Clarín de fuentes oficiales, no se puso bajo discusión la imitación que el humorista Freddy Villarreal hace del jefe de Estado en Showmatch, por lo que se descuenta que continuará de la misma manera. El encuentro en la residencia fue "mano a mano", sin intermediarios ni asesores. Ese trato directo entre ambos ya había quedado claro ayer, cuando el propio Macri habló con Tinelli y se encargó él mismo de acordar la cita.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/mauriciomacri/status/758333168143462400",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75833316814346240")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Fue la segunda ocasión que Tinelli pasó por Olivos desde que Macri es Presidente. La vez anterior fue el 29 de marzo, cuando el conductor de TV aún pujaba por quedarse con la conducción de la AFA, lo que finalmente no ocurrió y provocó malestar en el dirigente de San Lorenzo. Mirá también: Ponen en duda el informe que revelaría el ataque del PRO contra Tinelli Tinelli entró a la Quinta presidencial cerca de las 12 y rápidamente fue recibido por Macri. Las primeras imágenes de la cita las subió el propio Macri a su Twitter. Y escribió: "Recibiendo a @cuervotinelli en Olivos".  En otro gesto hacia el animador de Showmatch, pese a que por la Quinta desfilaron funcionarios de primera línea, incluido el secretario de Coordinación interministerial Mario Quintana, Macri decidió recibir a Tinelli "a solas", según contaron fuentes del Gobierno a este diario.
+
+Mirá también: Peña: "No tenemos ningún problema con Tinelli ni con el humor político"  El encuentro se dio luego de dardos cruzados entre ambos, que incluyó una denuncia de Tinelli por una campaña viral presuntamente orquestada, según deslizó, por el Gobierno y que tuvo como pico máximo la nota que dio el Presidente el domingo pasado a La Nación, donde acusó al conductor de satirizarlo "de mala manera" y consideró "increíble que se ofenda porque lo critican 30.000 tuiteros". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Luego de esos cruces, hablaron por teléfono y ellos mismos acordaron verse hoy. La reunión, dijeron en la Casa Rosada, fue pedida por Tinelli. Tras el encuentro, Macri subió a sus redes sociales videos con Tinelli en Olivos. En uno de ellos, se los ve bromeando con Face Swap, una herramienta que permite intercambiar caras en vivo. "Estamos muy bien ahí", dice el animador de TV, quien sostiene el celular. "¿Alguien se va a dar cuenta que somos nosotros?", contestó, con una ironía, el jefe de Estado. Desde Casa Rosada, más allá de las imágenes y comentarios que subió el Presidente en sus redes sociales, en público por el momento eligieron el silencio.  Sin embargo, por lo bajo, dijeron que la reunión fue en los mejores términos. "Se había hecho una bola donde no había nada. El programa nos divierte, ellos tienen la mejor y va a seguir de esa manera", aseguraron cerca de Macri.  Y negaron querer que Tinelli discontinúe la imitación realizada por Freddy Villarreal, algo que había irritado al Presidente, según sus dichos publicados a La Nación: "No tenemos problemas (con la imitación). Desde que Macri está en política que lo imitan", aseguraron. Y para refrendar que la reunión permitió zanjar cualquier diferencia, el conductor de TV, minutos antes de las 14, tuiteó: "Gracias al Presidente @mauriciomacri por recibirme en Olivos. Muy linda, profunda y divertida charla. Hablamos de todo". Se prevé que en su programa del jueves cuente más detalles, esta vez sin "apagón" impulsado por los tuiteros que comulgan con el Gobierno... 

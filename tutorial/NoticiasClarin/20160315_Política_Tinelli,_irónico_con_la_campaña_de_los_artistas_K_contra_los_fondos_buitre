@@ -1,0 +1,50 @@
+
+Marcelo Tinelli volvió a pegar en Twitter a su manera. Pero esta vez no fue contra el Gobierno ni los árbitros. El conductor usó su humor ácido y unas simpáticas memes para reirse de la campaña de los artistas K contra el acuerdo con los fondos buitre. Ayer, minutos después de que se diera a conocer el spot y las fotos del "No volvamos al fondo", Tinelli, irónico, anticipó que “aparecen nuevos personajes que se suman a la campaña contra el Fondo”. “Estén atentos”, advirtió. Y cumplió. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/cuervotinelli/status/709527765599571968",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70952776559957196")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/cuervotinelli/status/709528569383362561",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70952856938336256")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Tinelli sigue enojado con Macri: ahora le pegó por el INDEC 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/cuervotinelli/status/709527765599571968",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70952776559957196")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El conductor jugó con varias aristas. Aparece él pidiendo "No juguemos con tres en el fondo" (¿mensaje al técnico de San Lorenzo, Pablo Guede?) o un colectivero avisando que "Hay lugar en el fondo". Todos con el cartelito correspondiente. La campaña K no sólo generó respuestas humorísticas. Uno de los actores que aparecen involucrados, el reconocido Roberto Carnaghi, salió hoy disgustado a aclarar que a él no le avisaron de qué se trataba el tema cuando un conocido le acercó el cartelito. Algo parecido dijo también el futbolista de Racing Gustavo Bou.

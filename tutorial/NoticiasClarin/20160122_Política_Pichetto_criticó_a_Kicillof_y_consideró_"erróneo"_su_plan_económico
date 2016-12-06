@@ -1,0 +1,127 @@
+
+El presidente del bloque de senadores del FPV dijo anoche que "el proceso económico de los últimos años fue erróneo". Además, elogió al actual gobierno en la salida del cepo cambiario y la baja en las retenciones.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160122_0018 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160122_0018_872";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Miguel Ángel Pichetto no se guardó nada',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/22/VID/CLAVID20160122_0018/video_web.flv",
+        image: "http://images.clarin.com/politica/Miguel-Angel-Pichetto-guardo_CLAVID20160122_0018_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160122_0018',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/22/VID/CLAVID20160122_0018/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/2/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/politica/Miguel-Angel-Pichetto-guardo_3_1508879115.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160122_0018.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160122_0018){
+            //getBBTStats_CLAVID20160122_0018();
+            varModIdReprod_CLAVID20160122_0018 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+Miguel Angel Pichetto, presidente del bloque de senadores del kirchnerismo, dio su visión del último gobierno de CFK y consideró que "el proceso económico de los últimos años fue erróneo. El ministro de Economía Kicillof se equivocó". También se refirió a la nueva administración: "Me parece que hay algunos temas que el gobierno ha hecho bien".Anoche, en el programa Código Político que emite TN, el senador Pichetto hizo una crítica del último gobierno del Frente Para la Victoria, particularmente al plan económico, del cual consideró que "hay cosas que se podían haber hecho de otra manera. El proceso económico de los últimos años fue erróneo. El ministro de Economía Kicillof se equivocó", dijo.Leé además: Máximo dijo que Cristina "está atenta a todo"Por otro lado, dio su visión sobre el gobierno de Mauricio Macri: "ha salido bien del cepo [cambiario], cuando eso implicó una devaluación. "Yo no digo que este Gobierno es una dictadura ni nada de eso. Tampoco creo en el esquema asambleario de las plazas. Hace 35 días que asumió Macri. Que ponga en marcha su agenda, que la muestre, que la sociedad la perciba y después hay que hacer una evaluación", expresó.Además, cuestionó la seguidilla de DNU del actual gobierno: "Cuánto dura la exepcionalidad del presidente mediante decreto y Decreto de Necesidad y Urgencia? Que además, no nos asusta como instrumento. Ha habido un componente de fuerte decisionismo presidencial para decir, "bueno, yo no soy [el ex presidente] De la Rúa. Pero no se puede gobernar todo el tiempo de esta manera", sentenció.También destacó la necesidad de discutir sobre el financiamiento de las provincias. "El tema de la coparticipación, del 15% que se le quitó a las provincias, y que le corresponde. Porque si le corresponde a Córdoba, Santa Fé y San Luís, también le corresponde al resto. Y más temprano que tarde, las provincias van a tener el reclamo y la reparación".

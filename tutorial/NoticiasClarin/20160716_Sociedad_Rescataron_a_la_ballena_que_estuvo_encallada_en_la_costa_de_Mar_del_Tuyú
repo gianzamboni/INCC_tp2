@@ -1,0 +1,34 @@
+
+La ballena que encalló ayer a la mañana en la costa de Mar del Tuyú fue rescatada hoy a la tarde tras un intenso operativo contrarreloj.  El animal estuvo durante más de un día volcado sobre uno de sus flancos, a pocos metros de la costa en medio de una sudestada que complicó aún más las tareas para liberar al cetáceo, que llegó a su fin minutos antes de las 18. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ "El animal está agotado, estuvo toda la noche con la rompiente golpeándolo", había señalado horas antes de que pudieran rescatarla Karina Álvarez, una de las biólogas de Mundo Marino que participó del operativo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Durante el día de hoy, grupos de agentes de Prefectura Naval y de la fundación le colocaron por debajo de las aletas una manguera planta de las que usan los bomberos para poder luego remolcarla con una linga de acero hacia una nave guardacostas. Así, y con ayuda de la marea, pudo ser liberada. Mirá también: Apareció una ballena varada en Mar del Tuyú  La ballena, de unos 15 metros de largo y cerca de 10 toneladas de peso, había quedado encallada a la altura de la Calle 84.  El coordinador Ejecutivo para el Desarrollo Sostenible de la provincia, Mirko Schavartzma, dijo que se trató "de la especie megaptera novaeangliae o jorobada", una de "las ballenas de mayor tamaño". Esta especie, añadió, "suele visitar el mar argentino, pero nunca se acercan tanto a la costa como la del tipo franca". Mirá también: Planean que un barco arrastre a la ballena encallada en Mar del Tuyú  Del operativo de rescate participaron técnicos y personal de la fundación Mundo Marino, Prefectura Naval Argentina, Guardavidas de La Costa y Bomberos Voluntarios. 

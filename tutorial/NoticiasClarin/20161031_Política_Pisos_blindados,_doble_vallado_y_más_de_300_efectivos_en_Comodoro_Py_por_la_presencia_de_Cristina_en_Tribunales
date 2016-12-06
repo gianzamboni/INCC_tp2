@@ -1,0 +1,68 @@
+
+Las adyacencias de los tribunales federales de Retiro se encuentran valladas desde la madrugada de este lunes y con presencia de más de 300 efectivos de seguridad, en el marco del operativo dispuesto para la indagatoria prevista que comenzó poco después de las 10 a la ex presidenta Cristina Fernández de Kirchner. Cristina se presentó en el despacho del juez federal Julián Ercolini para declarar en la causa en la que se le atribuye haber orquestado un plan para adjudicar obra pública al detenido empresario Lázaro Báez. Mirá también: ¿Libre o presa? Por qué un juez podría o no detener a Cristina ahora Pocos minutos después de las 8, solo unas banderas del partido Miles que lidera Luis D'Elía anticipaban la convocatoria de militantes anunciada para las 9 en apoyo de la ex mandataria. Unos 280 efectivos de las policías Federal y Metropolitana y de la Gendarmería custodiaban el doble vallado ubicado en el perímetro de los tribunales de Comodoro Py, a los que se suman otros 40 apostados en el interior del edificio, que fue inspeccionado previamente por la Brigada de Explosivos. 
+
+
+Bien temprano, un grupo de perros de la Brigada Antiexplosivos inspeccionó todo el edificio judicial y se blindó el acceso al 4° piso a todo personal ajeno al despacho del juez Ercolini.
+
+
+
+
+
+var act_92c = new gigya.socialize.UserAction();
+
+var emailBodyCustom_92c = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_92c.setTitle('Bien temprano, un grupo de perros de la Brigada Antiexplosivos&nbsp;inspeccionó todo el edificio judicial y se blindó el acceso al 4° piso a todo personal ajeno al despacho del juez Ercolini.');
+act_92c.setSubtitle('Justicia'); 
+act_92c.setLinkBack('http://www.clarin.com/politica/Pisos-efectivos-Comodoro-Py-Cristina_0_1678632134.html');
+act_92c.setDescription('La ex jefa de Estado se presentó ante el juez Ercolini. Escasa militancia la acompañó a la salida de los tribunales de Retiro.');
+act_92c.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Pisos-efectivos-Comodoro-Py-Cristina_0_1678632134.html');
+
+var showShareBarUI_params_92c=
+{ 
+containerID: 'shareQuote_92c',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_92c,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_92c
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_92c);
+ Mirá también: El penal de Máximo y Polino a la política

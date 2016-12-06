@@ -1,0 +1,28 @@
+
+Hacía más de una semana que Lucas Cesio (13) tenía la mochila preparada: dos carpetas negras explotadas de hojas rayadas y cuadriculadas. Dos cuadernos grandes y y una cartuchera transparente con una lapicera, lápiz, goma de borrar y algunos marcadores de colores completaban la lista de útiles. La expectativa era total: desde que salió de su casa quería saber qué materia iba a tener, con qué compañeros nuevos iba a compartir el aula.
+
+“Primer año de la secundaria es difícil, es un cambio grande al que tendrá que adaptarse”. La que lo dice es Marisa, la mamá de Lucas, que le repite una y otra vez sobre la importancia de estudiar para luego poder seguir una carrera. Se lo viene diciendo desde comienzos del verano, casi desde cuando los invitaron a Mar del Plata para que el chico conociera el mar: “Se lo recalco para que no crea que todo es cámara de televisión y fotos en los diarios. Ahora se terminó la joda”, explica la mujer, seria, mientras su hijo asiente. La charla transcurre en la línea B del subte, que Lucas deberá tomar todos los días (tras combinar con la C) desde su casa en Constitución. Es la vivienda que el Gobierno de la Ciudad le cedió cuando su historia se hizo conocida en diciembre, luego de una nota que publicó Clarín: había logrado terminar la primaria pese a haber vivido la mayor parte de esos años en un auto.
+
+En Federico Lacroze llega el momento de combinar con el ferrocarril Urquiza y así completar el recorrido hasta la escuela Federico García Lorca, en Chorroarín al 300. Durante el viaje no habla de otra cosa que no sea del colegio: se pregunta si podrá compartir el aula con los compañeros que tenía en la primaria y que eligieron la misma escuela; espera que para el primer día de clases le toque como materia Lengua y Literatura y no Matemática, que es la que más le cuesta; desea conocer a alguien hincha de Argentinos Juniors para poder ir juntos a la cancha. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+“Estaba con muchas ganas de empezar. Después de tener que hacer la tarea o estudiar en la calle para terminar la primaria, ahora en la secundaria todo será más fácil. Aunque también sé que es complicado todo lo que piden los profesores, como ya me contaron mi mamá y mi madrina, pero estoy seguro de que lo voy a poder hacer bien”, dice Lucas, agarrado a uno de los pasamanos del subte.
+
+En el camino, algunos lo saludan y le desean suerte. En su mochila de color azul lleva los útiles que fueron donados por la gente que conoció su historia a través de los medios. También le donaron ropa y alimentos, el Rotary Club le otorgó una beca que durará toda su etapa en la secundaria y la concesionaria del subte, Metrovías, le obsequió la posibilidad de viajar gratis. Fue un vuelco importante en su vida. Lucas y su familia habían vivido seis años en un Peugeot 505 color champagne. Un auto fundido que un vecino de Villa Urquiza les dejó usar como refugio cuando no tenían casa. Allí, adentro, hacía la tarea, mientras que ahora cuenta con una mesa y una silla para poder estudiar. El último año de la primaria, el chico demoraba tres horas en llegar a su escuela, desde la casilla precaria a la que se habían mudado en Florencio Varela hasta Villa Urquiza. Ahora, en cambio, tarda 40 minutos hasta La Paternal.
+
+Al llegar a la puerta del colegio su madre lo deja ir y Clarín también lo despide en la puerta. Unas horas después, finalizado el primer día de clases, saldrá con sus expectativas satisfechas: si bien tuvo Matemática, que es lo que menos quería, también tuvo Literatura; le tocó compartir el curso con varios compañeros de la primaria; y como no podía ser de otra manera en ese barrio, varios de sus compañeros son hinchas de Argentinos Juniors, por lo que en el futuro seguramente podrá ir a la cancha con ellos. También leé: "Vivió años en un auto y en una plaza, pero logró terminar la primaria" “Lo primero que nos dijeron fue que nos presentáramos, en cinco oraciones. Yo no me di a conocer como el que vivió en la calle o el que salió en la tele. No me gusta hacerme conocer por eso. Prefiero que sea por ser buena persona”, dice Lucas ya de regreso en su casa. “Fui uno más”, asegura y completa: “Por suerte no me mandaron tarea, estoy muy cansado”.
+
+Ahora sabe que su futuro depende más que nunca de él mismo. Hasta hace poco dudaba cuando le preguntaban que quería estudiar de grande: “Mecánico o veterinario”, respondía. Pero desde que los pilotos Emanuel Moriatis y Matías Rossi lo invitaron a los boxes del TC, lo tiene claro: “Voy a estudiar para ser mecánico de autos”. 

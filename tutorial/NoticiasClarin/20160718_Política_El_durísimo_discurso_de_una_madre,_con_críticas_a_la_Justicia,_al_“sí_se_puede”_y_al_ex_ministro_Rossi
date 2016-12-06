@@ -1,0 +1,70 @@
+
+Sofia Guterman, familiar de una de las víctimas del atentado a la AMIA, reclamó hoy por "una Justicia independiente" y sostuvo que "el negro humo de la bomba aún sigue flotando, tapando la luz y la verdad porque para los familiares también significó el adiós a nosotros mismos", a la vez que afirmó que "hace 22 años que están muertos y sus verdugos están libres" porque, dijo "hasta ahora ningún gobierno pudo esclarecer el atentado". Mirá también: "Cuando la Justicia está ensangrentada no es Justicia, es corrupción" Guterman dijo, en un emotivo discurso, que “si seguimos sin culpables tendremos un certificado de defunción para la causa. La politización de la causa fue el peor cáncer".  Y luego pronunció una serie de fuertes frases, fustigando al ex ministro kirchnerista Agustín Rossi, y al slogan de Cambiemos “sí se puede”. - "Los familiares de la víctimas no pensamos aplaudir a ningún poderoso. Es hora de que prometan menos y resuelvan más"
+
+- “La politización de la causa amia fue el principal cáncer que carcomió la investigación y la dejó casi moribunda." - "Unidos por la memoria hagamos una fortaleza contra los que atentan. Los argentinos rechazamos la violencia, el terrorismo y la corrupción" - "El juicio por el encubrimiento tiene más oscuros que claros" -  "Esclarecer el atentado de AMIA es cuestión de Estado" - "La Justicia que se merecen está tan muerta como ellos. Los derechos humanos deben ser universales, sin importar credo" - "El gobierno no emitió un comunicado condenando el atentado terrorista en Tel Aviv" 
+
+
+- "Para el Sr Agustín Rossi: Los judíos fueron perseguidos y asesinados solo por ser judíos y no por ser corruptos y ladrones"
+
+
+
+
+
+var act_8e0 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_8e0 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_8e0.setTitle('- "Para el Sr Agustín Rossi: Los judíos fueron perseguidos y asesinados solo por ser judíos y no por ser corruptos y ladrones"');
+act_8e0.setSubtitle('22 AÑOS DEL ATENTADO DE AMIA'); 
+act_8e0.setLinkBack('http://www.clarin.com/politica/durisimo-discurso-Justicia-ministro-Rossi_0_1615638472.html');
+act_8e0.setDescription('Sofía Guterman perdió a su hija Andrea el 18 de julio del ‘94. Al cerrar el acto en la calle Pasteur, aseguró que “la politización de la causa fue el peor cáncer”. FOTOGALERÍA EN HD');
+act_8e0.addActionLink('VER MÁS', 'http://www.clarin.com/politica/durisimo-discurso-Justicia-ministro-Rossi_0_1615638472.html');
+
+var showShareBarUI_params_8e0=
+{ 
+containerID: 'shareQuote_8e0',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_8e0,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_8e0
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_8e0);
+ - "Hubo mucha inhumanidad contra Nisman tras su muerte". "Hoy se cumple un año y medio de la muerte violenta del fiscal Nisman, es la muerte política más importante de la democracia" - "Cuando la Justicia está ensangrentada no es justicia, es corrupción" - "El memorándum ya no tendrá vigencia para ser aplicado. ¿Qué había detrás de ese memorándum?" - "Celebramos la decisión del gobierno nacional de confirmar la nulidad del pacto con Irán" - "Hace 22 años que están muertos y sus verdugos están libres" - "85 víctimas inocentes conocieron el sonido que hacía la vida cuando se marchaba. Viajaron a un último viaje jamás planeado" - Al finalizar, tomó el slogan ‘Sí se puede’ de Cambiemos, para decir que esperaba se pudiera en el futuro, hablar así de la Justicia para el caso del atentado: “Se pudo, aún no podemos pronunciarlo respecto de la cláusula AMIA.” “Se pudo hacer justicia, terminó la impunidad. Que así sea, amén". 

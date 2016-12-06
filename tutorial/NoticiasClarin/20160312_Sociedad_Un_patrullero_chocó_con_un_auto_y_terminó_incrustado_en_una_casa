@@ -1,0 +1,35 @@
+
+Un patrullero se incrustó en el living de una casa en Villa Luzuriaga. Sucedió ayer cerca de las 22.30, cuando un móvil del Comando de Prevención Comunitaria de La Matanza que se dirigía a un operativo chocó con un Volkswagen Fox y terminó adentro de una vivienda.  De milagro, estaba desocupada: hace dos semanas la familia que la alquilaba dejó la propiedad.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El hecho ocurrió en el cruce de Zapiola y con la avenida América, que hoy por la mañana continuaba cortada al tránsito, según alertaban vecinos de la zona en la red social Twitter. El Fox era conducido por una médica, que tuvo que ser trasladada a un centro de salud Junto con los dos policías que viajaban en la camioneta. Los tres están fuera de peligro.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Estaba cenando con mi hermana a 70 metros. Escuchamos un estruendo e inmediatamente pasó una vecina avisando que había sucedido esto. Se escucharon sirenas. enseguida empezaron a llegar otros patrulleros", contó al canal de noticias TN Gustavo, hermano de la dueña de la casa. "Cuando llega a la esquina choca a un Fox y la camioneta termina incrustada en la casa. El patrullero cruzó como venía", agregó.  La propiedad tiene ahora destruida parte de la pared del frente, que pertenece al living, y toda la reja de entrada al garaje, donde había un auto estacionado. Personal de Defensa Civil y Bomberos trabajó ayer en el lugar. 
+ El incidente, aunque en esta oportunidad no fue tan trágico, se suma a una ya importante lista de accidentes en el GBA que involucran a patrulleros. Dos de los más resonantes ocurrieron en San Martín. Allí, un móvil policial que circulaba en contramano atropelló y mató a una jubilada, e hirió a una menor. Pocos días después, un chico de seis años murió en Villa Ballester, al ser embestido por otra camioneta de la Bonaerense.  

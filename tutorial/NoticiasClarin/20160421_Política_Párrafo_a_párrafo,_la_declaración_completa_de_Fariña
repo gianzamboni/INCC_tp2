@@ -1,0 +1,794 @@
+
+“Ante todo quiero aclarar que dado los recientes actos que se han producido en la causa, quiero decir que estoy viendo garantías para mi declaración. Tras haber visto las medidas y el trabajo desarrollado por el fiscal de la causa, también quiero aclarar que en determinadas situaciones no he declarado algunas cosas por un sentimiento de presión que tenía. Mirá también: Se difundió la declaración de Fariña: "Cristina piensa que lo que hizo Lázaro Báez fue robarle dinero" Quiero agregar que, además del avión LV-ZSZ, que se incendió, la firma Top Air poseía otro avión Turbo Comander que adquirió a precio vil a Aero Chaco, es un avión turbo hélice. Los aviones que aterrizan en campo tienen que ser turbo hélice. Ese avión lo compraron a 200 mil dólares, cuando no vale menos de un millón.” Preguntado para que diga cuánto cobraron en esa operación, respondió: “vos ahí tenés de euro a peso, calculen que el spread que ganan es de 7 a 10 centavos. Y de peso a dólar entre 4 y 6 centavos, en valores de ese momento. No existen los aviones con dinero físico a Panamá, o Uruguay o ninguna parte del mundo. Como segunda medida de prueba, sería obtener registros migratorios”. 
+
+
+ se transformó en la caja primordial de lo que sería el gobierno que inició Néstor Kirchner
+
+
+
+
+
+var act_018 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_018 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_018.setTitle('&nbsp;se transform&oacute; en la caja primordial de lo que ser&iacute;a el gobierno que inici&oacute; N&eacute;stor Kirchner');
+act_018.setSubtitle('La ruta del dinero K'); 
+act_018.setLinkBack('http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+act_018.setDescription('Levantado el secreto de sumario, aqu&iacute; todo lo que le dijo el ahora &quot;arrepentido&quot; &nbsp;al juez Sebasti&aacute;n Casanello.');
+act_018.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+
+var showShareBarUI_params_018=
+{ 
+containerID: 'shareQuote_018',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_018,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_018
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_018);
+ También quiero manifestar que luego de dos años de haber estado detenido y de haber visto muchas cosas, es el momento de que todos los imputados colaboremos para que esto se cierre. Previo a empezar quiero hacer una introducción que en parte es una valoración personal sustentada en todo el tiempo y experiencia que he adquirido en la etapa que he trabajado para Austral Construcciones. Creo que el marco de esta causa debe investigarse y entenderse como un plan sistémico cuyo objeto fue el vaciamiento de las arcas públicas mediante la obra pública. Mirá también: Fariña y la peor confesión para Lázaro Báez: cómo compromete a su hijo Martín Cuando empecé en el año dos mil diez a trabajar para Austral Construcciones desarrolle un vínculo de confianza tanto con el Sr. Lázaro Báez como con su entorno, por más que ésta haya sido negada en reiteradas oportunidades pero a su vez reivindicada en la realidad por las pruebas que constan en el expediente. Desde que empecé a trabajar en Austral me comencé a meter en el mundo de la obra pública. Por tal motivo, puedo asegurar que esto se transformó en la caja primordial de lo que sería el gobierno que inició Néstor Kirchner. Como en la década del noventa fue la ex Secretaría de Inteligencia y/o el PAMI, con el anterior modelo fue la obra pública. En el marco de esta causa no se puede investigar de manera aislada el lavado de activos. Este es un sistema que genera como rédito dinero en efectivo pero que consta de cinco pasos. En primer lugar, sobreprecio en la obra pública; dos, adelanto financiero de obra; tres, facturación apócrifa; cuatro, cohecho y cinco, lavado de activos. Ya expliqué en mi primer declaración cómo llegué a Lázaro Báez. En la auditoría que realicé para Austral Construcciones se ve una clara incongruencia entre el giro comercial de la empresa y las imputaciones de algunos costos. Por ejemplo, el señor Lázaro Báez, propietario de Austral Construcciones, era a su vez dueño de las empresas de combustible a las cuales se re-facturaban. Sin embargo, me quedó a la vista, sospechoso pero más que evidente, que el costo de adquisición facturado de un litro de combustible de su propia empresa a su otra empresa propia era muy superior al costo de venta del litro de combustible de una estación de servicio al público. Como estos casos hay varios más, siempre vinculados a lo que hace a la escala de costos de la empresa. La realidad luego de un exhaustivo análisis arroja un diagnóstico que las empresas de obra pública del grupo descapitalizaban su propio giro. De hecho, si mal no recuerdo, el balance de Austral Construcciones del ejercicio fiscal del año 2009 arroja una ganancia neta de ocho millones de pesos sobre trescientos de facturación. Mirá también: Es posible que Fariña pueda cambiar de identidad y hasta su DNI 
+
+
+En primer lugar, sobreprecio en la obra pública; dos, adelanto financiero de obra; tres, facturación apócrifa; cuatro, cohecho y cinco, lavado de activos
+
+
+
+
+
+var act_9f3 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_9f3 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_9f3.setTitle('En primer lugar, sobreprecio en la obra p&uacute;blica; dos, adelanto financiero de obra; tres, facturaci&oacute;n ap&oacute;crifa; cuatro, cohecho y cinco, lavado de activos');
+act_9f3.setSubtitle('La ruta del dinero K'); 
+act_9f3.setLinkBack('http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+act_9f3.setDescription('Levantado el secreto de sumario, aqu&iacute; todo lo que le dijo el ahora &quot;arrepentido&quot; &nbsp;al juez Sebasti&aacute;n Casanello.');
+act_9f3.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+
+var showShareBarUI_params_9f3=
+{ 
+containerID: 'shareQuote_9f3',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_9f3,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_9f3
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_9f3);
+ Quiero explicar la estructura societaria del grupo Austral. Lo que se llama la nave insignia era Austral Construcciones, luego se adquiere Kank y Costilla y, posteriormente, se compra la sucesión de Adelmo Biancalani e hijos. Si se remiten a la estructura de la emisión del fideicomiso Austral I de Nación Fideicomisos, estas tres empresas que nombré son los soportes de aporte de los certificados de obra dados en garantía para las emisiones del fideicomiso. Lo que esconde esta trama societaria es el porqué de la enajenación de empresas de obra pública que no responde a una mera adjudicación de obras. La ley de obra pública establece que las obras adjudicadas a las empresas de obra pública responden estrictamente a una ecuación de dos ratios: capacidad técnica y capacidad financiera. La calificación de la capacidad técnica de la empresa depende de una sub-comisión que depende del Ministerio de Planificación Federal. Y las adjudicaciones de obra o lo que se llaman pooles de licitación dependen de la Cámara de la Construcción. Cuando asume el Sr. Néstor Kirchner como Presidente de la Nación, traslada su equipo de Planificación de la Provincia de Santa Cruz a Planificación de la Nación. Ordena después la asignación de un presidente de la Cámara de la Construcción que se llama Carlos Wagner. ¿Por qué digo ordena? Porque por estatuto era imposible que esa persona presida la Cámara ya que él tenía una PyME. Sin embargo, el estatuto se modificó y tomó la Presidencia. En conjunto con el Ministerio de Planificación y La Cámara se digitaban las empresas adjudicatarias de la obra pública. Hay que sumarle a este circuito el rol de la SIGEN, que es la encargada de controlar la gestión de la asignación de la obra pública. Y otro dato importante es que en esa época se cambió en la Ley de Obra Pública el acopio de materiales por el adelanto financiero que oscilaba entre el 10 y el 210% del valor total de la obra asignada. A su vez, regulaba lo que se llama certificado CISE, que es el Certificado de Ajuste de Obra por Inflación, que nunca podía superar el índice que arrojaba la Cámara de la Construcción. Ya a su vez estipula que los adelantos de obra deben ser imputados a la obra ajustada. En Austral Construcciones estos preceptos no se aplicaban y el adelanto de obra o adelanto financiero era el retorno que se debía pagar por la adjudicación de las obras. Tengamos en cuenta el siguiente escenario: Si el 822% o el 80% de la obra pública de la Provincia de Santa Cruz fue asignada al Grupo Austral, significa que el 82% de la capacidad técnica de certificación de la totalidad de las obras corresponden a una empresa. Como tal ratio es imposible, se empezaron a comprar empresas de obra pública para aumentar la capacidad técnica de obra. Como así también, se debía generar el gasto ficticio para sacar del circuito o del giro comercial el dinero en efectivo, o en su defecto, pagarle a terceras empresas servicios o prestaciones simuladas. Quiero decir que este circuito se puede corroborar mediante el análisis de los estados contables en lo que es la relación ingreso y gasto de las empresas de obra pública anteriormente mencionadas. Como es de público conocimiento, es al menos un tanto llamativo que un determinado grupo de empresas hayan empezado a generar niveles sobredimensionados de facturación como consecuencia de la adjudicación masiva de obras, como también puedo citar el ejemplo de ESUCO, que si se remiten al listado de obras adjudicadas en favor de Austral Construcciones, en varias ocasiones van juntas en UTE. También se puede corroborar que ESUCO, siendo una PyME, pasó a facturar dos mil millones de pesos a partir del año 2006. Para resumir este circuito, para tener la adjudicación de mayor cantidad de obras debe ampliarse la capacidad técnica que es limitada por empresa. Este es el motivo por el cual se empiezan a expandir las compras de empresas de obra pública. Otro dato importante que hay que destacar, es que hay empresas que no figuran en el dominio registral de Báez, pero, sin embargo, es él quien las controla directa o indirectamente. Este es el caso de Gotti Hermanos S.A., que no pudo ser incluida en el fideicomiso estructurado a partir del año dos mil diez por dicho motivo. En el tiempo que estuve en Austral, que fue de marzo de 2010 hasta abril de 2011, me constan los estrechos contactos entre el Sr. Báez y el Sr. Kirchner como, a su vez, posteriormente a su muerte con la Dra. Cristina Fernández.Cuando yo inicio la auditoría en Austral Construcciones yo estaba trabajando para un fondo de inversión que se llama Genevieve Financial Corporation de Argentina. Con dicha empresa estábamos gestionando la compra de SOFORA (Controlante de Telecom Argentina). Dicho negocio se lo ofrecí al Sr. Báez, el cual le fue comunicado por él al Sr. Néstor Kirchner en una comunicación telefónica cuya respuesta fue: “Que lástima llegaron tarde; se la quedan los Werthein”. Otra operación que merece un exhaustivo análisis es la adjudicación por parte de Epsur S.A.y Misahar S.A. de ocho zonas de petróleo en Santa Cruz cuya adjudicación es técnicamente incompatible con esas empresas. Para ejemplificar, Epsur y Misahar no llegaban a los diez millones de patrimonio neto entre las dos y las ocho zonas representaban después de YPF el segundo caudal de petróleo en Argentina y con todos los plazos vencidos para la opción de inversión, ese contrato seguía en poder de esas empresas cuyo dueño es Lázaro Báez. Me pongo a total disposición de analizar los estados contables de las empresas nuevamente para demostrar el sobreprecio en las obras adjudicadas como así también los gastos inflados y/o simulados tendientes a sacar del giro comercial los retornos necesarios. Así también podemos ver que los certificados de ajuste por inflación de certificación de obra pública no solamente superan el índice de inflación de la Cámara de Construcción sino que en algunos casos en un periodo de dos años llegan a igualar el valor de adjudicación de la obra. Más allá de esto, considero que la ecuación a realizar es bastante simple. El valor total de la sumatoria de los pliegos adjudicados más las sumatorias de ajustes de inflación de certificados de obra, igualándolos con los pagos ingresados a las empresas, son superiores al porcentaje de obra que tuvieron que haber realizado mediante esa ecuación. Otro claro ejemplo que me ha tocado vivir fue la planificación en el año 2010 de Cóndor Clyff, actualmente denominado represa Néstor Kirchner/Carlos Cepernik. En el año 2010 el precio de obra a licitar era quince mil cien millones de pesos y el costo real era nueve mil ochocientos. Este dicho, más allá de esbozarlo yo por mi presencia en la empresa al menos en la acreditación de la tenencia en mi poder de ese pliego, puede ser acreditada por la empresa IMPSA a quienes me presenté en sus oficinas para ofrecerles en nombre de Austral parte de la subcontratación del movimiento grueso de suelo. Más allá de este sistema que requiere de la connivencia de funcionarios con empresarios, dicho circuito está sustentado por tres personas a mi criterio fundamentales: el Contador César Andrés, que es el contador personal de Lázaro Báez; el Escribano Fabián Albornoz, que dicho sea de paso, como en varias declaraciones indagatorias todos han dicho desconocerme, quiero aclarar que Albornoz tiene un vuelo conjunto conmigo en el avión LV-ZSZ. En ese vuelo veníamos Martín Báez, el contador Claudio Bustos, el escribano Albornoz, la hija mayor de Lázaro Báez y yo. Fue en febrero o marzo de dos mil once, y el trayecto fue Río Gallegos/San Fernando. Ernesto Clarens, dueño de Invernes S.A., es la tercer persona que, de manera paradójica, el Directorio de dicha empresa estaba conformado por César Andrés. Otro dato importante a analizar que yo he visto y que figura en los papeles de la empresa es el encubrimiento en el manejo y en la situación fiscal de la empresa. Con esto me refiero a sinfines de planes especiales de pagos iniciados caídos y re-establecidos cuando la ley de procedimiento tributario lo impide. Por todo este desorden es que yo propongo establecer el fideicomiso que finalmente se emitió, que no es más que un fideicomiso para la reestructuración de pasivos. Un dato fundamental es que semejante empresa hacía tan negro lo blanco, refiriéndome al circuito comercial, que llegaba a financiarse con giro y sobregiro en descubierto de sus bancos como también me consta, y esto habría que pedirlo a la UIF o al BCRA, la cancelación de un giro en descubierto de diecisiete millones de pesos que se hizo en efectivo en la sucursal del Banco Nación en Santa Cruz en el año 2010. También quiero expresar en este proceso que todo el armado del fideicomiso fue iniciado y supervisado en presencia del por entonces presidente del Banco Nación, Juan Carlos Fábregas, con quienes nos reunimos en la central del Banco Nación junto con Martín Báez y Claudio Bustos, quien a su vez nos derivó con, no recuerdo si era Doctora o Contadora, Inés Yamus, por entonces presidenta de Nación Fideicomisos. Mis contactos dentro Nación Fideicomisos con los que me tocó estar fueron Juan Ignacio Macedo Moresi, Sergio Molina y el Dr. Matías Casal. El primero y el último yo ya los conocía de cuando trabajaba en Genevieve Financial Corporation. Para resumir el punto, de manera global quiero remarcar dos cosas: primero, para que todo este proceso que consta de un ilícito, hasta donde yo podría corroborar por cuestiones presenciales, participaba una parte del Poder Ejecutivo designando a una parte del Ministerio de Planificación. A su vez, designando a un órgano de contralor al Ministerio que era la SIGEN, cuya titular era la esposa del Ministro de Planificación, lo que es, al menos, poco ético desde el punto de vista profesional. Utilizando como tecno estructura organismos individualizados de contralor como la AFIP, en el caso de las facturas apócrifas, o como la reivindicación de planes caídos, o como de la UIF o BCRA o bancos locales en la aceptación o extracción de depósitos en gran volumen, cosa que debió haber sido controlada o impedida. Y, segundo punto, quiero decir que, para que haya un circuito de sobreprecios, dichos elementos deben estar contemplados en partidas presupuestarias. Si no peco de ignorante, el presupuesto es firmado por el Poder Ejecutivo, enviado al Congreso, sancionado, promulgado y publicado, por lo cual carecería de sentido decir que el sobreprecio en una obra pública esmérito o acción de un privado. Ahora me voy a referir a las operaciones realizadas para Lázaro Báez por fuera del Grupo Austral.Cabe destacar que con posterioridad a la muerte de Néstor Kirchner el señor Báez accede a realizar determinadas operaciones con parte de su caudal de dinero negro. Quiero acentuar que fue después de su muerte, ya que primero, parte de ese dinero había sido guardado por Lázaro pero era propiedad de Néstor y segundo, porque al momento de iniciar determinadas operaciones, en su momento la Presidenta de la Nación no tenía conocimiento de la existencia de algunas cosas. Voy a referirme entonces a las operaciones con S.G.I. A mí, Federico Elaskar me fue presentado por el señor Matías Molinari. La operación de compra-venta se estipula en tres millones quinientos cincuenta mil euros en efectivo. El dinero le fue entregado en el departamento de Federico Elaskar en Madero Center y fue llevado a dicho lugar por dos personas de custodia de Báez. El precio de la operación incluía la compra de la oficina contigua a SGI que si mal no recuerdo terminó siendo OACI S.A., para separación de sectores de operaciones y reforma de las instalaciones y mejoras en tecnología en cuanto a los sistemas de trabajo financiero.En ese momento SGI contaba con Bloomberg, que es un sistema de información financiera, Nosis, pantallas integradas de bolsa. A su vez incluía dos vehículos blindados para el traslado de valores, el mobiliario completo incluyendo los circuitos cerrados de televisión. SGI contaba con una línea de descuento de nueve millones de pesos por día cuyo mayor afluente de dichas líneas era Cambio Metrópolis S.A. SGI consta de tres sociedades, SGI Financiera, SGI Bursátil y Vanquish Capital Group, La estructura societaria contaba con el 98% de las acciones en cabeza de Federico Elaskar, uno por ciento en nombre de Gustavo Fernández y uno por ciento en cabeza de Alejandro Ons Costa. ¿Por qué se compró SGI? La estrategia consistía en lo siguiente: Austral tenía grandes problemas financieros, la idea de comprar la financiera y recapitalizarla para aumentar la línea de descuento era para que Austral le diga a todos sus proveedores y contratistas a los cuales les pagaba con cheque a plazo que en vez de que los descuenten en Santa Cruz, lo hagan en SGI, cuyo dueño iba a ser Báez. De tal manera, los proveedores se ahorraban un costo en el descuento del cheque. En ese momento, un cheque en Santa Cruz se estaba descontando entre un ocho y un diez por ciento directo mensual, esto en un cheque a treinta días, mientras que en la city porteña, entre un tres y un cuatro por ciento. De tal manera, la diferencia de ese spread era recupero de costo para Austral o, en su defecto, ganancia para SGI, que era lo mismo.  Otro capital que teníaimportante SGI era que tenía cuenta en Pershing, cuyo titular era Federico Elaskar en persona. Esto permitía dos cosas: hacer contado con liquidación y transferir fondos al exterior por medio de compra de títulos. Otro motivo de la compra de SGI fue la posibilidad de hacer descuento por cheque propio, técnicamente a costo cero. Austral emitía para esto un cheque, lo tomaba luego SGI, esta lo descuenta y le entrega circulante líquido a Austral con un cheque respaldado por su propia empresa. En realidad es lo mismo, es un círculo. Otra alternativa era hacer una cadena de back to back. ¿En qué consiste esto? Vanquish tenía una cuenta en Panamá, si esta se capitalizaba, Vanquish hacía un back to back con SGI y SGI le hacía un mutuo dándole apariencia lícita a una operación simulada. ¿Cómo se tenía que hacer la operación de compra? A Federico Elaskar se le entregó en efectivo los 3.550.000 euros en billetes de quinientos, en su departamento de Madero Center. Esto fue en los últimos días de diciembre dos mil diez, en horas de la tarde. Estaba también presente en la operación el Sr. Maximiliano Goff Dávila. El dinero había sido traído por dos custodios de Báez cuyos nombres desconozco, quienes por lo general llevaban el dinero en camionetas Peugeot Partner de color gris o blanco, o en una camioneta Toyota Hilux de color negro. Los custodios solían hacer tiempo en la casa de Santa Cruz. Los vehículos estaban registrados a nombre de Austral se hacía una operación. Así, el dinero se guardaba en un departamento del barrio de Belgrano perteneciente a Lázaro Báez. Y, ocasionalmente, se guardaba en el departamento de Julio Mendoza en el mismo barrio. En el período en el que yo estuve vinculado a toda esta gente el dinero venía del sur, y paralelamente, entre fines del año dos mil diez y principios del año dos mil once, empezaron a llevar físicamente por tierra mucho dinero en camiones de Austral a la provincia del Chaco, donde tienen la empresa denominada Adelmo Biancalani e Hijos. Esto puntualmente era en la ciudad de Resistencia. 
+
+
+Yo sólo usé tres veces el avión de Lázaro Báez, es decir solo tres tramos. 
+
+
+
+
+
+var act_060 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_060 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_060.setTitle('Yo s&oacute;lo us&eacute; tres veces el avi&oacute;n de L&aacute;zaro B&aacute;ez, es decir solo&nbsp;tres tramos.&nbsp;');
+act_060.setSubtitle('La ruta del dinero K'); 
+act_060.setLinkBack('http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+act_060.setDescription('Levantado el secreto de sumario, aqu&iacute; todo lo que le dijo el ahora &quot;arrepentido&quot; &nbsp;al juez Sebasti&aacute;n Casanello.');
+act_060.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+
+var showShareBarUI_params_060=
+{ 
+containerID: 'shareQuote_060',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_060,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_060
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_060);
+ Había dos empresas más con la que ellos hacían las UTE, una era ESUCO y la otra Ricardo Contreras S.A. En esas empresas también van a encontrar facturas apócrifas y sobrefacturación. El dinero se enviaba al Chaco para guardarlo allá. Volviendo a la modalidad de traslado del dinero, este podía hacerse por aire o tierra, pero yo no participaba de esta acción. Yo sólo usé tres veces el avión de Lázaro Báez, es decir solo tres tramos.  El marco jurídico de la operación de SGI se dio de la siguiente manera: se iba a instrumentar mediante un sistema leverage by out. A Federico se le entregó el dinero y se iba a hacer un contrato mediante el cual una persona física o jurídica que ellos debían designar le compraba con las ganancias futuras generadas por la empresa. Este sistema se usa mucho en los Estados Unidos. En este caso era la manera de generar el pago legal a futuro y se le iba a dar apariencia de licitud a los tres millones y medio de euros que ya había cobrado. Hay una copia de este contrato que lo tiene el estudio Llerena, que es el estudio de escribanos propuesto por Federico. De esto tiene que haber cruces de mails entre Federico, el estudio y yo. En el medio, cuando Federico tenía que firmar los papeles no lo quiso hacer y ya había recibido el dinero. Por tal motivo. Yo informo a Martín Báez de la situación y este me pone a disposición a Daniel Pérez Gadín a quién en conjunto con Jorge Chueco y Jorge Cerrota, le doy el teléfono de Federico y Gadín lo llama. Yo antes le avisé a Federico que alguien lo iba a llamar y que me desentendía de la situación. Entonces Gadín lo llamó a Federico y al toque me llama Gustavo Fernández diciéndome que Federico estaba muy asustado porque una persona lo había llamado y lo había amenazado y que estaban yendo a la oficina. No me consta cómo fue la amenaza pero eso es lo que me dijeron. Si mal no recuerdo me dijo que lo había llamado un matón. Esto fue entre mayo y antes de mi luna de miel, que creo que fue a principios de junio del año dos mil once si mal no recuerdo. Quiero aclarar que para ese momento yo ya estaba en una etapa de auditoría hacia mí por parte de la gente de Báez, sobre las operaciones que había hecho y porque yo ya era conocido. A través de un barrido fino, es posible que comprueben la presencia, en SGI, primero de Federico Elaskar con Gustavo Fernández seguro, y al rato la de Pérez Gadín con Jorge Cerrota y Jorge Chueco. Yo estaba en Libertador 2423. Un dato certero de qué pasó. De ahí en adelante no sé. Lo que sí sé es que negociaron, le entregaron 750 mil dólares más y le quedaron debiendo otros 750 mil dólares hasta que ellos pudieran ver las contingencias de la empresa. Sé que Federico se fue a Estados Unidos y cuando volvió no le quisieron pagar y fue a hablar con Lanata. Al primero que recurrió Federico Elaskar, por medio de Ubeira, fue a Luís Barrionuevo. Además de todo lo anterior, Federico se quedó también con un depósito de casi dos millones de dólares. En SGI se habían depositado creo que 1.850.000 dólares en la cuenta de Pershing de SGI, que en realidad era una cuenta de Federico Elaskar, porque estaba a nombre de él. SGI tenía en una cuenta de EEUU de Pershing, que es una operadora norteamericana de valores de bolsa, que estaba a nombre de Elaskar y la manejaba Juan Pisano Costa. Eso era SGI Bursatil, te la enmascaraban con que tenían una acción de oro en Mendoza pero era mentira, no hacían operaciones en Argentina. Para aclarar: suena un tanto irrisorio en esta instancia que Federico diga que lo apretaron y le robaron la empresa, porque si me remito a los dichos de él, teóricamente le robaron la empresa porque estaba muy prolija y con todos los papeles en orden. ¿Qué quiero decir con esto? No conozco a nadie que le toquen la puerta, lo aprieten y le hagan ceder la empresa sin que antes hubiese habido una negociación. La mejor manera de corroborar todo esto es investigando el patrimonio de Federico Elaskar en el exterior. Ahí van a ver un incremento patrimonial muy grande acorde a ésta fecha. A lo que quiero llegar es a la cuenta del Merryl Lynch de Federico Elaskar, porque él ya tenía un patrimonio en negro preexistente. Previo a esta operación, yo a Federico le conozco, en Miami, una Ferrari 430, patente “Petito 1”, color rojo. Una Range Rover, color negra, patente “Petito 2”, un departamento, que desconozco la calle porque no se bien cómo es Miami. Posteriormente montó una oficina que se llama SGI Miami, en conjunto con Carlos Molinari, en el mismo edificio que están las oficinas de Global Development Inc. Previo a febrero o marzo, viajan juntos a Estados Unidos Elaskar, Molinari y Gustavo Fernández y montan esa oficina. Si consultan el sistema migratorio van a coincidir los tres en Miami. La prueba más contundente es que entre la comisión de la venta de SGI, que me da Federico, y mi regalo de casamiento, me da doscientos mil dólares, que me los da en una extensión de tarjeta de crédito American Express Platinum, con cuenta del banco Merryl Lynch, cuyo titular es Federico Elaskar. La medida de prueba a pedir es resumen de tarjeta de crédito a nombre del compareciente, entre las fechas marzo y julio de 2011. La cuenta de Merryl Lynch es importante porque la imputación que le hacen a Elaskar, sobre la compra de la Ferrari 430, el respaldo sobre la licitud de los fondos está sustentada por un back to back, que hace desde su cuenta personal en el Merryl Lynch hacía Vanquish Capital Group. Después compra un campo de papas, en un millón y medio de dólares en efectivo, recomendado por uno de las hijas o familiar de Blaquier, Anastasia Balquier, la hermana de Estefanía, esta operación se llevó a cabo. También hizo una compra de un Porsche Cayman. Cuando lo sacan de SGI, tuvo que responder con bienes por operaciones que hizo utilizando a SGI, cuando él ya estaba afuera de la empresa, entre ellos unos pagarés con Acero Cali. Por eso, cuando él vuelve, Helvetic Services Group no lo quiere pagar los setecientos cincuenta mil dólares que faltaban, porque le dicen “Flaco, te fuiste y me vinieron a tocar la puerta ochenta personas que les debías guita”, porque justo antes de irse tomaba plata y ponía como respaldo a SGI. Federico Elaskar, por bastante tiempo, se quedó con las entradas de los circuitos cerrados de televisión y de los mails, que controlaba de manera remota. 
+
+
+Jorge Chueco, es lo mismo que Pérez Gadín, lo único que éste último hacía los números y Chueco era el abogado.
+
+
+
+
+
+var act_2da = new gigya.socialize.UserAction();
+
+var emailBodyCustom_2da = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_2da.setTitle('Jorge Chueco, es lo mismo que P&eacute;rez Gad&iacute;n, lo &uacute;nico que &eacute;ste &uacute;ltimo hac&iacute;a los n&uacute;meros y Chueco era el abogado.');
+act_2da.setSubtitle('La ruta del dinero K'); 
+act_2da.setLinkBack('http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+act_2da.setDescription('Levantado el secreto de sumario, aqu&iacute; todo lo que le dijo el ahora &quot;arrepentido&quot; &nbsp;al juez Sebasti&aacute;n Casanello.');
+act_2da.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+
+var showShareBarUI_params_2da=
+{ 
+containerID: 'shareQuote_2da',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_2da,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_2da
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_2da);
+ Desde la cuenta de Merryl Lynch, se puede llegar a las transferencias que tiene con Molinari. Elaskar puso como domicilio un casillero postal en Miami, que lo hizo para evitar que en caso de un allanamiento le encuentren los papales. Yo a Federico lo conozco bastante, Federico está especulando con algo; o que se le acerquen a ofrecerle dinero como ya lo hicieron una vez o tener algún tipo de protección jurídica ante cualquier eventual hecho. Por lo cual, lo que yo aseguro es que el Sr. Elaskar en cuanto a información a aportar sobre el Sr. Lázaro Báez y su entorno, no tiene nada porque nunca lo vio, no lo conoce, sólo conoce al hijo en una única entrevista, la cual fue explicada en la primera indagatoria, y lo único que aportó fue el certificado de Teegan Inc. Company, que me lo robó junto con dos relojes de la caja fuerte de su departamento mientras yo vivía con él, antes de mudarme al mío. Como dijo que me vio unas cuatro o cinco veces, quiero dejar en claro que él firmó la garantía otorgada por la compañía de seguros que sustenta mi contrato de alquiler por el departamento del Madero Center. Jorge Chueco, es lo mismo que Pérez Gadín, lo único que éste último hacía los números y Chueco era el abogado. Todo lo que sabe Gadín lo sabe Chueco, porque estuvo jurídicamente sustentado por él. Lo que tiene que ver con las cuentas en el exterior, el armado de las cuentas en el exterior fue llevado a cabo por Santiago Walter Carradori, creo que era funcionario vinculado a un ente de energía y había tenido un problema por usurpación de títulos y honores. Yo lo conocía a Walter y le llevó el negocio de diseñar una estructura societaria en el exterior de Báez. Lo que se había armado era la emisión de cien millones de dólares al exterior, para ingresar a lo que se denomina HYPP, High Yeld Pleasure Program/ Plan de Alto Rendimiento. Son plataformas bancarias donde uno deposita cien millones de dólares,sólo se ingresa por invitación, y en esas plataformas se hacen inversiones que traen muchísimas ganancias. Creo que la invitación fue del Credit-Swiss o UBS. Yo no creo que Walter tenga problemas en declarar, él tiene copia de toda la documentación, vive en City Bell, en una casa quinta y tiene las oficinas en Puerto Madero. A mí a Santiago Walter Carradori me lo presenta Juan Ignacio Macedo Moresi, del Nación Fideicomiso, que creo que hoy tiene un puesto bastante importa en Banco Nación. Carradori tenía conocimiento de quién era Lázaro Báez, y que ese dinero pertenecía en parte a Néstor Kirchner. Acá surge el primer problema, que era la dificultad que tenía un banco para abrir una cuenta a nombre de Lázaro Báez, porque todos los bancos del exterior para abrir una cuenta hacen una serie de requerimiento de información. Los bancos del exterior no toman dinero de personas vinculadas al narcotráfico, al tráfico de armas, a la trata de blancas y muchos bancos a los políticos o empresarios vinculados a la función pública. Para esto hay un sistema mundial de información que se llama WCI (World Check Information). Yo tuve en la mano el WCI de Lázaro Báez, para el mundo Lázaro Báez es testaferro de Néstor Kirchner, del Pali Mayo, de Rudy Ulloa y ellos mismos hacen referencia al sistema de la obra pública como ilícito. Por este motivo, la mayoría de los bancos negaban la apertura de cuenta a nombre de ellos. 
+
+
+Yo pasé a ser un nexo. Con el único que trataba era conmigo hasta que me reemplaza Pérez Gadín.
+
+
+
+
+
+var act_441 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_441 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_441.setTitle('Yo pas&eacute; a ser un nexo. Con el &uacute;nico que trataba era conmigo hasta que me reemplaza P&eacute;rez Gad&iacute;n.');
+act_441.setSubtitle('La ruta del dinero K'); 
+act_441.setLinkBack('http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+act_441.setDescription('Levantado el secreto de sumario, aqu&iacute; todo lo que le dijo el ahora &quot;arrepentido&quot; &nbsp;al juez Sebasti&aacute;n Casanello.');
+act_441.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+
+var showShareBarUI_params_441=
+{ 
+containerID: 'shareQuote_441',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_441,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_441
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_441);
+ Lo primero que hizo Santiago fue comprar una holding en España que se llama Samber & Tarex, lo que pasaba era que comprabas una sociedad preexistente con cuentas abiertas en la cual lo único que tenés que hacer es formar un directorio nuevo. Primigeniamente, de ésta sociedad el titular fue él, Carradori. Se le entregó una fotocopia del pasaporte de Carradori a Lázaro Báez, que se lo di yo, en Carabelas 241, para que sepa quién era. Lo que Báez no quería nunca, era cruzarse con gente.  Yo pasé a ser un nexo. Con el único que trataba era conmigo hasta que me reemplaza Pérez Gadín. Una medida de prueba a solicitar, registros migratorios de Santiago Carradori, entre el 15 de noviembre del 2010 y el 15 de febrero del 2011, ahí vas a ver que fue a España y Suiza. La cuenta principal de éste holding estaba en el banco Sabadell. Y también abrió una cuenta a título personal para aumentar los canales de fondeo de Argentina al exterior. ¿Por qué? Porque había dos problemas: el primero es que ninguna cuenta del exterior resiste un giro demasiado grande sin justificarlo con una operación respaldatoria. Ahora les voy a dar el ejemplo de cómo fue lo de Teegan Inc. El segundo es que si no se consigue desde el territorio argentino la compensación de una transferencia entre privados, es decir, alguien que tiene que sacar mucho y alguien que tiene que entrar mucho, hay que empezar a acopiar cables de financieras. Que en un día,más de tres millones de dólares, promedio, no se puede sacar. Eso en conjunto. Ese es el motivo de porque se abrió el holding con las cuentas y una cuenta a título personal de Carradori. Porque era necesario abrir canales de fondeo. En paralelo, yo por medio de la financiera Provalor Soc. de Bolsa, sita creo que en la calle Sarmiento, me contactan con un representante del Banco Lombard Odier, de Suiza. El Lombard Odier lo que nos ofrece es el armado de una cuenta en el banco pero por intermedio de lo que se llama una cuenta puente. Por eso le arman la cuenta a nombre de Martín Báez en persona. Explico. La cuenta puente es un sistema de dos cuentas. Vos tenés, en el banco propiamente dicho, la cuenta del beneficiario final y tenés también lo que se llama la cuenta puente, que es una cuenta intermedia entre el cable de salida del país emisor y la cuenta final emisora. Esa cuenta puente tiene una duración automática de ciento ochenta días. En el día 180 se da de baja y no queda registro del cable de emisión. Con lo cual, la única que a vos te queda es ir al banco o encontrar el documento de tenencia de las acciones, que son al portador. Esa cuenta puente tiene una duración automática de ciento ochenta días. En el día 180 se da de baja y no queda registro del cable de emisión. Con lo cual, la única que a vos te queda es ir al banco o encontrar el documento de tenencia de las acciones, que son al portador. Esa cuenta final, que está en el Banco Lombard Odier de Suiza, está respaldada en una sociedad radicada, en este caso, en Belice. La cuenta final del beneficiario es una cuenta numérico-cifrada en el Banco Lombard Odier. La cuenta puente no existe más. La de Lombard Odier, yo sólo participé en la transferencia originaria por 1 millón y medio de dólares, que me llevaron de Carabelas 241 en la Hilux Negra, no me acuerdo el nombre del que manejaba, pero era un hombre mayor que está siempre en Carabelas y fue con Martín Báez. De ahí lo llevan a Provalor que tenían un carnet que los dejaban entrar con auto al microcentro. Yo nunca llevaba el dinero solo. Si no me equivoco, los titulares eran de apellido Rabinovich y se entraba a un lugar reservado, por una puerta lateral a la derecha de la puerta principal. El dinero se entregaba a los dueños de la financiera, porque ellos sabían que si vos vas a solicitar estos servicios... ellos sabían que el dinero de Lázaro Báez. Ellos cobran el 1,5% del monto total de la operación como comisión. Ahí a vos te muestran una computadora, en donde la pantalla figura la transferencia a la cuenta puente que sólo existe por ciento ochenta días, por lo que nunca van a encontrar un rastro,y desde esa cuenta puente se transfiere a una cuenta del Lombard Odier, numérico-cifrada, a nombre de una sociedad radicada en Belice con títulos al portador, que es casi imposible de rastrear. Si Elaskar no robaba ese documento, prácticamente ni con un exhorto accedes a esa información.  En realidad, los bancos suizos tienen representantes en todos lados del mundo que hay movimiento de dinero negro. Porque por ejemplo, en este banco no tiene representación en Argentina. Entonces, ¿qué es lo que hacen? Mandan sujetos o tienen convenios con gente del sistema financiero local. Si yo no iba a Provalor, para mí el Lombard Odier no existía.  Entre 9 de julio, Reconquista, Corrientes y Sarmiento, vos tenés cinco o seis financieras que te manejan todo el mercado. Todo empieza firmando los papeles de apertura de cuenta, que en este caso los firma Martín Báez. En paralelo, ellos son los que te dan la sociedad en otro lugar. Son estructuradores. Finalmente te entregan una carpeta con las acciones al portador y el Tolken, que es un dispositivo similar a una calculadora, donde ellos te transmiten los códigos para validar las transferencias. Yo pude ver la carpeta completa con el Tolken de la cuenta de Teegan que se le entregó el representante del banco a Martín Báez en las oficinas de Carabelas, un día después de que Martín regresara de un viaje a España al que había ido con Diego Mónaco, Presidente de Epsur. Puede ser que haya sido el mismo día que volvió porque me acuerdo que Martín Báez estaba con un traje marrón y él nunca usa traje. Vuelvo a repetir que yo me quedé con una copia de la constitución de Teegan, que es la que me sustrajo Elaskar y que obra en la causa.  El Lombard Odier ofrecía que cuando la cuenta esté capitalizada en quince millones de dólares te otorgaba la disponibilidad de ese dinero tras la máscara de un fondo de inversión. Recordemos que el fondo de inversión no expone los titulares y se maneja bajo el régimen de protección de identidad. Y en Argentina, a excepción de una entidad financiera, ese fondo de inversión puede ser propietario registral de cualquier bien. Es la mecánica que tienen todos los agentes de los bancos. Este tipo cuando estaba en Buenos Aires estaba en el Palacio Duhau o en el Alvear. Me acuerdo que era un tipo grandote, alto, pelo morocho, siempre bien trajeado, pelo cortito negro. Él se dedicaba a hacer Argentina y Chile. Me consta que a esa cuenta se transfirieron 1,5 millones de dólares y la firma Provalor movió una suma de 11 millones de dólares para las cuentas de las holding de España y de las que era titular Carradori”. Preguntado para que diga si lo que reflejan las imágenes se compara con un eslabón de este tipo de operaciones, Fariña manifestó: “Que sí, a través de la presencia de Martín Báez representando al dueño, Lázaro Báez, acompañado de una persona de confianza, Pérez Gadín. A SGI lo empezaron a utilizar como un lugar necesariamente de paso ya que en Puerto Madero está a cinco cuadras de la city. En ese lugar tenés Alehc Group, y cuatro o cinco lugares que se dedican a mandar guita, bajo la máscara de oficinas de Puerto Madero. Voy a hablar de otros lugares a través de los cuales se envió dinero: Maguitur,Turimar, Cohen Sociedad de Bolsa y Forex cambio, todas ubicadas en microcentro. Esta última fue la primera financiera a través de la cual se mandó dinero y es la única cuenta cuyo titular es Lázaro Antonio Báez en persona. La cuenta se abrió con 10.000 dólares.Ahí fuimos Martín Báez, Santiago Carradori y yo a entregar esos 10.000 dólares para abrir la cuenta. Se le transfirieron 900.000 dólares y el nombre de la cuenta es “messier 31” en el banco PKB de Suiza, sede en Lugano. La fecha de esta operación es entre el 15 y 30 de noviembre de 2010. 
+
+
+En un día llevamos tres millones de euros.
+
+
+
+
+
+var act_0a0 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_0a0 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_0a0.setTitle('En un d&iacute;a llevamos tres millones de euros.');
+act_0a0.setSubtitle('La ruta del dinero K'); 
+act_0a0.setLinkBack('http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+act_0a0.setDescription('Levantado el secreto de sumario, aqu&iacute; todo lo que le dijo el ahora &quot;arrepentido&quot; &nbsp;al juez Sebasti&aacute;n Casanello.');
+act_0a0.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+
+var showShareBarUI_params_0a0=
+{ 
+containerID: 'shareQuote_0a0',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_0a0,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_0a0
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_0a0);
+ Hay un grupo de chinos que los conoce Maximiliano Goff Dávila que transfirieron 500.000 dólares compensando cables. La transacción se hizo en Marlin Group, que está en la calle Florida. Ese día estábamos Maximiliano Goff, yo y el suegro de Maxi. Nosotros le dimos 500.000 dólares en la mano y los chinos transfirieron ahí mismo desde la computadora la plata en una cuenta radicada en España, en el banco Sabadell. En cuanto a las transferencias, hubo un problema bastante grave con Santiago Punturo. Esa financiera está en frente de la Casa de Santa Cruz. Ese Santiago Punturo era el que menos cobraba, 0,5% para las transferencias y el dinero se llevaba al banco HSBC y ahí es donde actuaba la mesa negra del HSBC. Acá se han sacado dos o tres millones de dólares. Este Punturo un día no transfiere el dinero aduciendo que se había trabado el clearing, que no había impactado el cable, y en realidad, cuando pasaban dos días, fuimos a reclamarle y había hecho una operación de compra de granos, y ahí nos enteramos que este tipo es socio de Rudy Ulloa”. Preguntado para que diga si en todas estas operaciones intervino alguna otra persona políticamente expuesta y o cualquier otro tercero que no haya mencionado, manifestó: “No. Salvo lo que voy a exponer en otro caso, que tiene relación con la Embajada de Estados Unidos. Un día en Provalor, se llevaron cerca de tres millones de euros para transferir. Yo estaba en Provalor, estaban los dos Rabinovich, uno te lo voy a describir: es un tipo bajito que tiene un problema motriz, que usa unas muletas que tienen un soporte de plástico en la cintura. En un día llevamos tres millones de euros. Los traen en la camioneta como siempre. Siempre Martín Báez va en la camioneta, la camioneta nunca viaja sola. Era una Hilux también. Una sola vez trajeron dinero en una Partner. 
+
+
+"Lázaro decía textualmente: «Néstor era mi amigo desde siempre. Ella no. Esto lo hice con mi amigo y queda acá», refiriéndose a su emporio"
+
+
+
+
+
+var act_a4e = new gigya.socialize.UserAction();
+
+var emailBodyCustom_a4e = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_a4e.setTitle('&quot;L&aacute;zaro dec&iacute;a textualmente: &laquo;N&eacute;stor era mi amigo desde siempre. Ella no. Esto lo hice con mi amigo y queda ac&aacute;&raquo;, refiri&eacute;ndose a su emporio&quot;');
+act_a4e.setSubtitle('La ruta del dinero K'); 
+act_a4e.setLinkBack('http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+act_a4e.setDescription('Levantado el secreto de sumario, aqu&iacute; todo lo que le dijo el ahora &quot;arrepentido&quot; &nbsp;al juez Sebasti&aacute;n Casanello.');
+act_a4e.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+
+var showShareBarUI_params_a4e=
+{ 
+containerID: 'shareQuote_a4e',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_a4e,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_a4e
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_a4e);
+ Para hacer la transferencia, no tenían cable en euro, tenían cable en dólar, por lo cual había que pasar de euro a peso y de peso a dólar. Ese día, porque en esa época el euro se manejaba en la city mucho menos de lo que se maneja ahora, el euro negro pasó a estar más barato, esto se lo pueden fijar porque fue entre el 15 de noviembre de 2010 y el 20 de diciembre de 2010, el euro blue estaba más barato que el euro oficial, eso es lo que se llama inundar al mercado. En esos días, hubo dos o tres días puntuales que fueron eso, que habíamos conseguido mucho cable para sacar, diríamos que teníamos para transferir unos siete u ocho millones en tres días. Para un solo cliente es una locura. Por semana te dejan sacar 600, 700 o con mucha suerte un palo. Entre esos días, pasó lo del euro, y hay una nota que saca La Nación que en una hora, entre las diez de la mañana y las doce del mediodía, dice “el día que el dólar bajó misteriosamente entre 34 y 37 centavos en una hora”. Hay que aclarar que en el año 2010 no existía ni que de un día para el otro que el dólar suba o baje cinco centavos. Ese día, yo estaba caminando en el microcentro y me llama Lázaro que quería hablar urgentemente conmigo, me cita a las oficinas de la calle Carabelas". Preguntado para que diga a qué teléfono se lo llama, manifestó: “Yo había fundado una sociedad que se llama Andrómeda, con esa sociedad se compraron siete i-phones con siete líneas de personal a nombre de Andrómeda. Los números eran correlativos terminando entre 01 y 07, yo tenía uno, Lázaro tenía otro, Martín tenía otro, Leandro tenía otro, Maxi Goff tenía otro, el hermano de Maximiliano Goff tenía otro, los dos trabajaban en Marlín Group, y Maximiliano Acosta también tenía uno. Ese teléfono que usaba yo lo tiene Carradori, es un i-phone gris del año 2010. Me había llamado Norma, que era una de las secretarias de Lázaro”. 
+
+
+A partir de la muerte de Néstor Kirchner, también se puede ver cómo disminuyó la adjudicación de la obra pública al grupo Austral Construcciones
+
+
+
+
+
+var act_a9d = new gigya.socialize.UserAction();
+
+var emailBodyCustom_a9d = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_a9d.setTitle('A partir de la muerte de N&eacute;stor Kirchner, tambi&eacute;n se puede ver c&oacute;mo disminuy&oacute; la adjudicaci&oacute;n de la obra p&uacute;blica al grupo Austral Construcciones');
+act_a9d.setSubtitle('La ruta del dinero K'); 
+act_a9d.setLinkBack('http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+act_a9d.setDescription('Levantado el secreto de sumario, aqu&iacute; todo lo que le dijo el ahora &quot;arrepentido&quot; &nbsp;al juez Sebasti&aacute;n Casanello.');
+act_a9d.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+
+var showShareBarUI_params_a9d=
+{ 
+containerID: 'shareQuote_a9d',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_a9d,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_a9d
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_a9d);
+ Preguntado para que diga cuándo pierde el poder del teléfono, manifestó: “Son pruebas que guarda Carradori”. Preguntado para que diga dónde las guarda, manifestó: “No sé si en la casa, la oficina no la tiene más. Carradori tiene armado un montón de personas y sociedades, él se dedica a eso. Con respecto a los números, lo que yo digo es, pidiendo un informe a Telecom Personal Argentina tienen, por barrido fino, todas las antenas mías con Lázaro Báez y Martín Báez, y van a ver cuándo ellos estaban en Santa Cruz, cuándo yo estaba acá y cuándo estábamos todos juntos. Son como GPS esas líneas, porque eran exclusivas para hablar de esas cosas”.Continúa el compareciente su relato: “En ese tramo, de esos tres días que se movió esa aguja, me llama Lázaro que vaya a Carabelas, voy a Carabelas, me atiende sólo y me dice que había venido de hablar con la jefa, que es Cristina Kirchner y que le había preguntado si él estaba sacando dinero al exterior porque desde la Embajada de Estados Unidos le habían comunicado eso. A lo cual, él me dice que le responde que de ninguna manera, pero me dice que seamos más prudentes con los movimientos. La realidad es que a diferencia de otros empresarios, más allá del negocio que tenía en común Nestor Kirchner con Lázaro Baez, Lázaro guardaba parte del dinero de Néstor Kirchner proveniente de los negocios y cuando Néstor muere, Cristina no estaba al tanto de todo lo que Báez tenía.Esto me lo contó Lázaro Baez a mí, como se lo contaba a un montón de personas. Por este motivo, los primeros movimientos de dinero al exterior, se hicieron posteriores y muy cercanos a la muerte de Néstor Kirchner. Porque ella junto con su hijo, fueron golpeando a los empresarios más emblemáticos amigos del marido, reclamando lo que teóricamente era de él, y ahí es donde viene el cortocircuito entre Lázaro Báez y Cristina Kirchner.Lázaro decía textualmente: “Néstor era mi amigo desde siempre. Ella no. Esto lo hice con mi amigo y queda acá”, refiriéndose a su emporio. A partir de la muerte de Néstor Kirchner, también se puede ver cómo disminuyó la adjudicación de la obra pública al grupo Austral Construcciones. 
+
+
+[Cristina Kirchner] junto con su hijo, fueron golpeando a los empresarios más emblemáticos amigos del marido, reclamando lo que teóricamente era de él
+
+
+
+
+
+var act_70d = new gigya.socialize.UserAction();
+
+var emailBodyCustom_70d = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_70d.setTitle('[Cristina Kirchner] junto con su hijo, fueron golpeando a los empresarios m&aacute;s emblem&aacute;ticos amigos del marido, reclamando lo que te&oacute;ricamente era de &eacute;l');
+act_70d.setSubtitle('La ruta del dinero K'); 
+act_70d.setLinkBack('http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+act_70d.setDescription('Levantado el secreto de sumario, aqu&iacute; todo lo que le dijo el ahora &quot;arrepentido&quot; &nbsp;al juez Sebasti&aacute;n Casanello.');
+act_70d.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+
+var showShareBarUI_params_70d=
+{ 
+containerID: 'shareQuote_70d',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_70d,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_70d
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_70d);
+ Otra anécdota para contar, es que en una tanda de billetes,los últimos de un fajo quedaban inservibles por humedad y hongos, porque uno de los famosos lugares donde se guardaba dinero era la supuesta bodega, la bodega no eran solamente lockers, eran cajas ciegas en la parte de abajo, esos cajones daban al piso. En la chacra donde siempre comíamos los viernes, guardaban una cantidad importante de dinero. A diferencia de lo que se ve en el vídeo de SGI, nunca vi fajos con banda de bancos, siempre eran con gomitas. Posteriormente, hasta donde yo tengo conocimiento, Daniel Pérez Gadin, Martín Baez, Jorge Chueco y Santiago Carradori viajan todos juntos a España en el año 2011 y de España a Suiza a hacer la concentración de los fondos que estaban en Europa. Hay que pedir registro migratorio de esas cuatro personas que viajan todos juntos de Ezeiza a España. Lo que sí me dijo muy puntualmente Santiago Carradori es que él se había quedado con un millón cien mil de dólares por no haber llegado a juntar los cien millones de dólares para el HYPP. Todo esto es lo que a mí me consta que existe que pasó, y fueron los primeros movimientos de dinero al exterior de Lázaro Báez. Porque los famosos primeros diez millones de euros en la cuenta de Liechtenstein en el Hypobank fueron producto de la intermediación de una trader con Fernadno Butti para la compra de máquinas a China para el uso en Argentina para desarrollar su actividad comercial. En el medio, según él dice, le traban la plata porque Butti le quiere robar. Tengo entendido que al año 2009 estaba declarado y él fue sobreseído. El dinero lo repatriaron y lo incorporaron al balance”. 
+
+
+Mal y pronto: Cristina piensa que lo que hizo Lázaro Báez fue robarle dinero
+
+
+
+
+
+var act_965 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_965 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_965.setTitle('Mal y pronto: Cristina piensa que lo que hizo L&aacute;zaro B&aacute;ez fue robarle dinero');
+act_965.setSubtitle('La ruta del dinero K'); 
+act_965.setLinkBack('http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+act_965.setDescription('Levantado el secreto de sumario, aqu&iacute; todo lo que le dijo el ahora &quot;arrepentido&quot; &nbsp;al juez Sebasti&aacute;n Casanello.');
+act_965.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+
+var showShareBarUI_params_965=
+{ 
+containerID: 'shareQuote_965',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_965,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_965
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_965);
+ Preguntado por el Sr. Fiscal para que diga si, además de la conversación que tuvo con Lázaro Báez de que Cristina Kirchner estaba preocupada por el tema de movimientos de fondos al exterior, tuvo alguna otra conversación con Lázaro Báez referida a Cristina Kirchner o algún otro miembro de la familia, manifestó: “Sí, la de la ruta inter-balnearia. Fueron Lázaro Báez, Martín Báez y Claudio Bustos a la quinta de Olivos a encontrarse con la Presidenta, y vinieron enojados porque les bajó la adjudicación que le había dado de palabra de la refacción y concesión de los peajes de la ruta inter-balnearia y nosotros ya la habíamos puesto en el cash flow del armado del fideicomiso. Volvemos a lo que dije antes, las obras estaban digitadas a dedo, de antemano; hasta la muerte de Néstor Kirchner, ellos ya sabían lo que iban a tener. Como dije antes, a partir de la muerte de Néstor Kirchner, empieza a caer la adjudicación de las obras públicas. Ellos estaban re calientes. Ahí deja traslucir eso de que “lo que yo hice con mi amigo es nuestro”. Mal y pronto: Cristina piensa que lo que hizo Lázaro Báez fue robarle dinero”. Preguntado por el Sr. Fiscal para que diga si puede ubicar temporalmente la reunión entre esas cuatro personas en la Quinta de Olivos, manifestó: “Fines de Noviembre de 2010. Era habitual. Ellos iban a tener reuniones con el Presidente, de lo que se iba a hacer y lo que no se iba a hacer. Desde marzo del 2010 hasta la muerte de Néstor, Lázaro venía una vez por semana y se juntaba con él para que le destrabe pagos, porque la empresa no tenía efectivos, y a hablar cosas de ellos, tales como el negocio de Telecom y la posible compra de YPF. También hablaban por teléfono como lo más normal. Lázaro le decía “profesor” a Néstor”. Continúa el compareciente con su descargo: “Ahora me voy a referir a la operación de Uruguay, con el campo El Entrevero. La operación la trae Maximiliano Goff Dávila, era una compra de 154 hectáreas, en Punta del Este, en la zona de José Ignacio, incluyendo playa propia. Lo trajo Maximiliano Goff Dávila junto con Julio De Marco, la inmobiliaria participante fue Walter Perazo Inmobiliaria y el escribano interviniente Adolfo Pittaluga Shaw. El titular de ese campo era un español llamado Walter Kobilansky. El precio pactado fue 16.5 millones de dólares”. 
+
+
+Lázaro le decía “profesor” a Néstor”.
+
+
+
+
+
+var act_675 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_675 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_675.setTitle('L&aacute;zaro le dec&iacute;a &ldquo;profesor&rdquo; a N&eacute;stor&rdquo;.');
+act_675.setSubtitle('La ruta del dinero K'); 
+act_675.setLinkBack('http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+act_675.setDescription('Levantado el secreto de sumario, aqu&iacute; todo lo que le dijo el ahora &quot;arrepentido&quot; &nbsp;al juez Sebasti&aacute;n Casanello.');
+act_675.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+
+var showShareBarUI_params_675=
+{ 
+containerID: 'shareQuote_675',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_675,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_675
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_675);
+ Preguntado por el Sr. Fiscal para que diga quién quiere comprar el campo, manifestó: “Lázaro Báez fue quien quiso comprar el campo. Hoy en día el campo está a nombre de Pérez Gadín. Goff Dávila me comenta el negocio, yo se lo comento a Báez, que me dice que sí. Goff Dávila me muestra el negocio en Argentina, después yo voy a Uruguay. A Lázaro en Buenos Aires yo siempre lo ví en Carabelas. La seña la llevó Maximiliano Acosta por ruta a Montevideo, a la oficina del escribano Pittaluga. Maximiliano en esa época tenía una C63 AMG blanca, que se lo compra a Ignacio Munafó. La seña fue firmada por Antonio De Marco, no recuerdo si eran 400 o 500 mil dólares en efectivo para el escribano. Ahí se compraba también una sociedad que se llamaba Traline S.A., que también era una sociedad de acciones al portador, que tenía como presidente a Acosta. La idea original era que el campo termine estando a nombre del fondo ofrecido por el Banco Lombard Odier. Había una idea de llevar a Austral Construcciones, desembarcar en Uruguay y hacer el desarrollo inmobiliario de ese campo. Cinco de esos 16 y medio millones de dólares se encargó de mandarlos Elaskar sin tener conocimiento que ese campo era para Báez, cuyo cable lo había conseguido Pancho Pisano padre. Según dijeron, ellos habían utilizado una sociedad de bolsa que yo no sé cuál es. Esos cinco millones fueron con coordenadas a la cuenta de Panamá de Kobilansky. Las coordenadas y certificados de trasferencia de esos cinco millones de dólares le fueron remitidas de Elaskar a Maximiliano Goff Dávila y de éste a Adolfo Pitalugo Shaw. Se hicieron dos letras de cambio del Banco Santader Río Uruguay en favor de Adolfo Pitaluga Shaw, se transfirieron dos millones de dólares más vía financiera a la cuenta de Walter Kobilansky y los últimos tres millones de dólares se encargó de pagarlos Pérez Gadín. La sociedad que se compra es Traline S.A.; Maximiliano Acosta se pone como Presidente del directorio.  No recuerdo bien la fecha, creo que fue abril, el día exacto fue un día que yo me presenté con Karina en el programa de Petitnato a la noche, ese mismo día, esa fecha a la tarde, Pérez Gadin y Jorge Chueco viajan a Uruguay, en avión a Montevideo, y se encuentran con el escribano Pittaluga. Lo que tengo constancia es que de Traline se transfiere una sociedad que se llama Jumey, y de Jumey termina en cabeza de Pérez Gadín, teóricamente por lo que dicen. En esa operación denuncian un faltante de cinco millones de dólares, que por los números no da. Esa situación complicada la viví un día a la mañana en un Club que Gadín y Chueco juegan al paddle, en San Juan y casi el bajo, mano izquierda por San Juan, donde me dicen “el faltante de SGI”, a lo que yo le digo que no me hago responsable de eso y me dicen que vaya viendo cómo me hacía cargo del faltante. Previamente, Acosta me había dicho que Gadín lo había apretado por teléfono. Y  Y en el medio, hubo una situación muy particular donde Maximiliano Acosta le cede un boleto a Chueco de un semipiso en Libertador 2424, en frente de dónde vivía yo, que yo no sabía la existencia de ese departamento.  Goff con Chueco y Gadín siempre siguieron el contacto. Como Gadín y Báez, que siguieron en contacto con todos los integrantes de SGI,a excepción de Elaskar. Cuando se hizo pública la supuesta investigación de Campagnoli,es una clave en maniobra de lavado de dinero, es en cierta manera lo que se había armado con el juego de las financieras (para descuento), las cooperativas y el banco, queríamos hacer un circuito tripartito. Helvetic Services Group no deja de ser una sociedad offshore, que tomó el control de SGI, cuyo dueño o presidente es Gadín, y Gadín es testaferro de Lázaro Báez hoy. No me extrañaría que cuando hablen con Carradori y les muestren como confluyeron la sesión de todos los fondos en el exterior, hayan terminado en una cuenta de Helvetic Services Group que es de ellos”. Continúa el compareciente: “Además se compraron cuatro cooperativas, ese negocio también lo trajo Maximiliano Goff Dávila. Cada cooperativa tenía uno de los cuatro códigos de descuento. El lugar físico era el mismo edificio donde estaba Marlin Group,pero dos pisos arriba, el que está sobre Paraguay y Florida. Al tener las cuatro cooperativas, uno de los cuatro códigos era el código sueldo. La idea era que todos los empleados del grupo Austral, mediante recibo de sueldo, sean parte de esa cooperativa, por lo cual la cooperativa le presta contra el recibo de sueldo, porque el que le está prestando es el mismo empleador en la figura de cooperativa. Austral le pasaba a dar servicio a los nuevos empleados. Como empleador, le prestás mediante recibo de sueldo. Segundo, tenían código de descuento para préstamo de vivienda, Austral tenía una empresa que se dedicaba a construir viviendas. En tercer lugar, Austral podía tomar créditos de la cooperativa, crédito para proveeduría y consumo. De hecho, en esas cooperativas se ingresaron fondos de un fideicomiso armado en Holanda que recapitalizó las cooperativas y la idea era que ese dinero entre en forma de mutuo Austral Construcciones. Todo eso se pagó 7 millones de dólares en efectivo”.  Preguntado para que diga en qué financieras se han hecho las operaciones en la City porteña, manifestó: “De las otras que nombré -Maguitur, Pasamar, Turimar, Forexcambio y Santiago Punturo- todos los cables fueron pactados por Santiago Carradori. A algunos lugares yo acompañé, en otros fue Santiago. A diferencia de Forex cambio, todas las demás financieras de la city no aceptaban, por el riesgo eventual, sacar el dinero de Lázaro Báez” Preguntado para que diga cuándo fue la última vez que habló con Santiago Carradori,manifestó: “La última vez fue en el año 2013, me lo crucé en el centro de La Plata, yo estaba con mi papá”. Preguntado para que diga por qué en Provalor operaba directamente y no en las otras,manifestó: “Porque el contacto lo conseguí yo. De hecho fueron a mi casamiento, como también Pittaluga Shaw y Walter Perazzo”. Preguntado para que diga si ratifica la presentación de fs. 14.066/14.073 y para que se explaye respecto de la operatoria de la estancia El Carrizalejo, ubicada en la provincia de Mendoza, manifestó: “Con respecto a la primera compra, preferiría que se resuelva un recurso pendiente que yo tengo en La Plata, hasta que se resuelva el recurso prefiero no hablar. Lo que sí les puedo decir es que la operación se hizo en efectivo, dólar billete, en Maxinta, una financiera. Creo que hay un dictamen del fiscal que hace referencia a una causa que citan que mi celular estaba ahí no en Mendoza. El escribano Rosta es quien hace el boleto de compra venta en comisión conjuntamente con un poder irrevocable para escrituración en favor mío. Ese boleto de compra venta y ese poder dicen que se extiende en los 16 días del mes de diciembre en Tupungato, Mendoza, pero en realidad ese boleto y ese poder se extiende en la financiera Maxinta, por lo cual como no está especificado el traslado del protocolo, ese poder puede ser irrevocable”. Preguntado para que diga si tenía noticia de una inversión de Lázaro Báez en Tortuguitas,manifestó: “Fideicomiso Northville está incorporado como activo de las inversiones al patrimonio de Austral Construcciones desde el año 2009. Considero que no puede llegar a generar cinco millones de dólares”. Preguntado para que diga si tenía noticia de una inversión de Lázaro Báez en Tortuguitas,manifestó: “Fideicomiso Northville está incorporado como activo de las inversiones al patrimonio de Austral Construcciones desde el año 2009. Considero que no puede llegar a generar cinco millones de dólares”. En este acto se le exhiben los videos aportados por la División de Individualización Criminal de Personas de la P.F.A. y preguntado para que se explaye al respecto, manifestó: “Reconozco a Martín Báez, Daniel Pérez Gadin, Ariel Pérez Gadin, Juan Pisano Costa, Miguel Echévez, Fabián Rossi y Walter Zanzot. Miguel Echévez es el que está de camisa a cuadros color rojizo con anteojos y jean, y Juan Pisano Costa es el que aparece en el minuto 5 segundo 37 de traje oscuro y camisa blanca y que está apoyado en la puerta [el archivo al cual se refiere es EVENTO 3 - SIN FECHA - PARTE 2 - FILE 082 , el archivo es la Secuencia 07”. Preguntado por el Sr. Agente Fiscal para que diga si, según sus dichos, puede aportar más datos de la cuenta de Vanquish en Panamá. Manifestó: “La firma autorizada de la cuenta autorizada de ese banco es Fabián Rossi. No recuerdo el nombre del banco. Esa sociedad con esa cuenta es la que teóricamente paga la Ferrari 430 negra. Podría ser factible que sea el banco Merryl Lynch”. Preguntado por el Sr. Fiscal para que diga si, según sus dichos, conoce que Federico Elaskar posea sociedad en Estados Unidos, en tal caso aporte los nombres. Manifestó: “Sí. SGI Miami. Además de esa, no me consta otra sociedad.”. Preguntado por el Sr. Fiscal para que diga si, según sus dichos, puede aportar más detalles de los relojes que Elaskar sacó de la caja fuerte. Manifestó: “Un Hublot de color negro Big Bang color negro, y un Tag Heuer, ambos de su propiedad.” Preguntado por el Sr. Fiscal para que diga si, según sus dichos, puede aportar algún otro dato de la compra del campo de papas. Manifestó: “Sé que tenía que ver con Anastasia Blaquier, ella lo mete en ese negocio. Me consta porque la ví por Skype. Era un campo en Argentina. Elaskar en el mes de Marzo/ Abril 2011, no me acuerdo si viaja a París o Londres que era donde estaba Anastasia que, creo, estaba de vacaciones.”. 
+
+
+“Ahora queda claro quién es el ‘jefe’. Lo digo por Báez”.
+
+
+
+
+
+var act_79e = new gigya.socialize.UserAction();
+
+var emailBodyCustom_79e = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_79e.setTitle('&ldquo;Ahora queda claro qui&eacute;n es el &lsquo;jefe&rsquo;. Lo digo por B&aacute;ez&rdquo;.');
+act_79e.setSubtitle('La ruta del dinero K'); 
+act_79e.setLinkBack('http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+act_79e.setDescription('Levantado el secreto de sumario, aqu&iacute; todo lo que le dijo el ahora &quot;arrepentido&quot; &nbsp;al juez Sebasti&aacute;n Casanello.');
+act_79e.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Parrafo-parrafo-declaracion-completa-Farina_0_1562843809.html');
+
+var showShareBarUI_params_79e=
+{ 
+containerID: 'shareQuote_79e',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_79e,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_79e
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_79e);
+ Preguntado por el Sr. Fiscal para que diga si, según sus dichos en cuanto a que los custodios de Lázaro Báez se movían en camionetas Hilux negras y Partner blanca y gris y que eran los mismos que los buscaban en San Fernando, puede aportar algún dato más. Manifestó: “Las personas que son dueñas de las empresa de aviación y los pilotos pueden ingresar con sus autos particulares directamente por el costado, por la puerta lateral, directamente a los hangares. Báez tenía una serie de custodias en Santa Cruz y otra serie de gente en Buenos Aires, siempre eran de las fuerzas especiales de Santa Cruz. Y en Santa Cruz usaba custodia perimetral. Las veces que yo he ido a San Fernando nos han buscado en camionetas Hilux y Partner. Top Air es de Walter Zanzot y de Lázaro Báez, y a su vez, poseen también la empresa Aviación del Atlántico Sur, pero esa es de reparación de aviones. Los dos negocios de aviación de Báez los maneja Zanzot. Preguntado a instancias del Sr. Fiscal para que diga de por qué era tan valiosa SGI,manifestó: “Porque tenía una línea de descuento de cheques de 9 millones de pesos diarios. Sobre el vaciamiento de SGI, el papel de Teegan Inc. Y de los otros papeles que habla, a los cuales hace referencia, respondió que Walter Carradoni tiene toda la documentación respaldatoria”. Preguntado a instancias de la Fiscalía para que diga, toda vez que las obras públicas se pagan en pesos, quién era el responsable de efectuar el cambio de esa clase de moneda por divisas, responde: “El encargado era Ernesto Clarens a través de Invernes”. Preguntado para que diga si desea agregar o corregir algo a lo manifestado, expresó: que desea aclarar que en su primera declaración indagatoria solicitó que le saquen copia de los mensajes que había enviado Fabián Rossi a su celular haciendo alusión a que declarara bien y que no vaya en contra del “jefe”. “Ahora queda claro quién es el ‘jefe’. Lo digo por Báez”.

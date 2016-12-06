@@ -1,0 +1,85 @@
+
+La legisladora porteña Graciela Ocaña es postulada para ser la futura Defensora del Pueblo de la Nación. Ayer, se conoció el respaldo del embajador argentino en Estados Unidos, Martín Lousteau y desde la página change.org, Ocaña sumó 5.342 personas que firmaron esa petición para ocupar el cargo que dejó vacante Eduardo Mondino en 2009. La iniciativa que promueve su nombramiento destaca "su probada e incansable labor en defensa de los derechos de la ciudadanía siendo su paso por el PAMI y Ministerio de Salud de la Nación una muestra cabal de su profundo compromiso con la transparencia en la gestión pública y su lucha contra la corrupción en defensa de la institucionalidad de nuestro país". Mirá también: Defensoría: internas y mentiras por un bocado de 500 millones En caso de conseguir las siete mil quinientas firmas requeridas, esa petición será entregada a las cámaras de Diputados y Senadores para que sea evaluada en el recinto. 
+
+
+Pero los apoyos a la ex titular del PAMI llegaron desde Twitter: "Estoy convencido de que Graciela Ocaña será una excelente Defensora del Pueblo", escribió Lousteau en su cuenta de Twitter para expresar su respaldo, así como también lo hizo el cineasta Juan José Campanella.
+
+
+
+
+
+var act_7df = new gigya.socialize.UserAction();
+
+var emailBodyCustom_7df = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_7df.setTitle('Pero los apoyos a la ex titular del PAMI llegaron desde Twitter: "Estoy convencido de que Graciela Ocaña será una excelente Defensora del Pueblo", escribió Lousteau en su cuenta de Twitter para expresar su respaldo, así como también lo hizo el cineasta Juan José Campanella.');
+act_7df.setSubtitle('Ombudsman'); 
+act_7df.setLinkBack('http://www.clarin.com/politica/Tinelli-Campanella-Ocana-Defensora-Pueblo_0_1689431079.html');
+act_7df.setDescription('Lo hicieron a través de una convocatoria de Change.org y desde Twitter. También se sumó el embajador Lousteau.');
+act_7df.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Tinelli-Campanella-Ocana-Defensora-Pueblo_0_1689431079.html');
+
+var showShareBarUI_params_7df=
+{ 
+containerID: 'shareQuote_7df',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_7df,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_7df
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_7df);
+ Y también se sumó desde Twitter el conductor televisivo Marcelo Hugo Tinelli. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/cuervotinelli/status/799592565662044161",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79959256566204416")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ La legisladora porteña, quien el año próximo termina su mandato, compartió el link del sitio en las redes sociales y manifestó: "Comparto lo que un grupo de ciudadanos me acercó. Agradezco tanto afecto y te pido que si estás de acuerdo, me apoyes".
+

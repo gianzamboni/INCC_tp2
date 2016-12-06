@@ -1,0 +1,22 @@
+
+El intendente de Quilmes, Martiniano Molina (Cambiemos), confundió durante una conferencia de prensa al centro clandestino de detención conocido como "El Pozo de Quilmes" con un bache, en la víspera del 40° aniversario del inicio de la dictadura cívico militar argentina. Tras las repercusiones y críticas que sus palabras tuvieron ayer durante la jornada de conmemoración del 24 de marzo, Molina hoy salió a explicar: "No escuché la pregunta".
+
+El diálogo fue el siguiente: - Periodista quilmeño: "Teniendo en cuenta esto de no olvidar, y el pedido y el reclamo de que el Pozo de Quilmes  se convierta en un museo de la memoria, ¿esto será posible, que el Municipio de Quilmes lo articule?". - Molina: -"Te referís...?" - Periodista: Al Pozo de Quilmes, la ex Brigada. - Molina: "La verdad es que nosotros estamos trabajando para solucionar todos los problemas en Quilmes. Nos encontramos con un municipio complejo, donde las personas que estaban preparadas, que eran de carrera, fueron dejadas de lado. La situación es compleja y para resolver los problemas tuvimos que desandar muchísimo. Entonces, cada una de las problemáticas, ya sea las cuestiones que tienen que ver con los servicios, el bacheo, las luminarias, todo lo que tienen que ver con la obra pública, las escuelas, la situación edilicia del municipio es muy compleja. Por eso vamos de a poco y destinamos recursos de a poco, no queremos hacer cosas alocadas. El gobierno nacional y el gobierno provincial nos están acompañando. Las obras se van a ver, se está haciendo un trabajo fuerte, no sólo en ese lugar, sino también en todo lo que tiene que ver con el desarrollo social, con Maru a la cabeza, y la verdad es que es también compleja la situación. Hoy nosotros detectamos más de 2 mil casos denunciados de violencia de género en Quilmes, cosa que antes no se hablaba. Para resolver un problema hay que reconocerlo, y creo que estamos por ese camino". Mirá la nota con el error: 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Ante las críticas, el cocinero que ganó la intendencia en octubre del año pasado y se convirtió en el jefe comunal que más votos obtuvo en la historia de Quilmes, dijo que no había escuchado bien la pregunta. "Yo le pido que me repita la pregunta porque no entendí... Y tampoco entiendo lo que me vuelve a decir. Y como yo me había quedado con lo del pozo, y en Quilmes hubo varios barrios en los que le festejaban los cumpleaños a los pozos, porque es tremendo cómo ha quedado nuestra ciudad, entonces yo hablé de eso. Honestamente lo digo", sostuvo esta mañana en diálogo con el programa Arriba Juan, de La Once Diez. Y agregó: "Si hubiese entendido la pregunta, habría dicho que sí trabajaría porque allí funcione un museo".
+
+El Pozo de Quilmes, también conocido como "Chupadero Malvinas", fue un centro clandestino de detención y maternidad que funcionó durante 1975 y 1979 en Quilmes. Está ubicado en la esquina de Garibaldi y Allison Bell, donde hoy funciona la sede de la Brigada de Investigaciones de la Policía. Desde hace años hay un pedido de organizaciones de Derechos HUmanos para que el lugar se convierta en un museo de la memoria.  "¿Cómo no voy a conocer qué es el Pozo de Quilmes? Mi familia estuvo vinculada a esa época. Mi padre, Jorge Molina, estuvo vinculado a la resistencia aquí en Quilmes. No era de armas tomar, pero estaba en ese grupo de trabajo", continuí Molina. Y señaló: "Mi madre lo mismo. Cuando llega Perón en el '72, mi mamá, embarazada de mi hermana, fue a buscarlo a Ezeiza junto a mi padre. Tenemos una historia familiar vinculada a eso. Cómo no voy a conocer el Pozo, el Chupadero, que aparte estaba a cuatro cuadras de mi casa".

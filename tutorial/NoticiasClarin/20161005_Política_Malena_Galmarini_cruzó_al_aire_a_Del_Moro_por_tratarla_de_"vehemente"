@@ -1,0 +1,18 @@
+
+Tras la sanción de la Cámara de Diputados bonaerense de la ley de paridad de género, una iniciativa de Malena Galmarini, la esposa de Sergio Massa estuvo a la noche en Intratables donde cosechó algunos "elogios" y protagonizó un cruce con el conductor del programa. Santiago del Moro arrancó el programa presentando a la mujer, preguntándole si estaba feliz por la aprobación de la ley. "Así la ven con esa cara de niña buena y es una muñeca brava", le dijo el conductor. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Es ley la paridad de género para cargos electivos en la provincia de Buenos Aires Rápidamente, la respuesta fue: "No, soy muy buena yo". A lo que que el conductor debió corregir: "No dije que sea mala, es vehemente, apasionada". Luego de un informe, la secretaria de Política y Desarrollo Humano de Tigre hubo un largo debate sobre la ley de paridad en el parlamento bonaerense y la "cultura machista". Y por supuesto, Galmarini le retrucó a Del Moro. “Cuando me dijiste vehemente, me dijiste loca. No te imagino diciéndoselo a un hombre”, le reprochó. Mirá también: "Un paso histórico para renovar la política" E insistió, ante el pedido de disculpas del conductor: : “No, negri. Te resulta muy extraño de lo que estamos charlando porque venís de una cultura distinta”. “Dijiste algo que no me gustó. Cuando dije vehemente, quise referirme a que eras valiente, visceral. Siempre decimos aquí que son mujeres que tienen ovarios”, respondió Del Moro. “No, no dicen ovarios”, retrucó Galmarini.  “En fin, creo que se deben saltar las cuestiones más sensibles que no hacen a la cuestión y escucharnos un poco más”, concluyó el conductor. Mirá también: Sancionan la ley que obliga a partidos y frentes a incluir 50% de mujeres en sus listas 

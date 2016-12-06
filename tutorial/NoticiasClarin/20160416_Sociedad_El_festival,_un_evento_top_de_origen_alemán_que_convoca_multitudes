@@ -1,0 +1,18 @@
+
+El festival Time Warp, que se realizaba en Costa Salguero, tiene origen en Alemania y 20 años de tradición en aquel país. Es reconocido como uno de los eventos más importantes de la música tecno ya que en él se presentan los mejores artistas del género. Por eso, a cada edición concurren miles de espectadores. Es la tercera vez que llegaba a la Argentina. Su principal objetivo es la fusionar la música con la ambientación y la iluminación. Generalmente convoca a los mejores artistas internacionales y en él participan miles de jóvenes. También asisten artistas famosos que son admiradores de este tipo de música. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Cuatro jóvenes muertos durante una fiesta eléctrónica en Costa Salguero En esta doble jornada prevista en Costa Salguero fueron convocados artistas como los internacionales Sven Väth, Jamie Jones, Ricardo Villalobos, Luciano, Maceo Plex y Tale Of Us, todos ellos reprentantes del tecno alemán. La fiesta se hizo en los Pabellones 2, 3 y 5 de Costa Salguero. Anoche fue la primera de las dos jornadas que componían el festival.El pack de entradas para las dos fechas se ofrecía en Multitiket por $ 850 + $ 95 de cargo por servicio. Los set de los djs estaban anunciados a partir de las 21, y el último se iniciaba a las 4 AM. Había dos escenarios simultáneos y en total se precentaban diez djs.Para hoy sábado, se anunciaban 12 disck Jockeys. Los primeros arrancaban a las 20 y a las 3 empezaban los últimos. Sin embargo, a media mañana, los organizadores todavía no habían informado sobre la continuidad del festival, y el fiscal de la causa iba hacia al predio para clausurarlo.

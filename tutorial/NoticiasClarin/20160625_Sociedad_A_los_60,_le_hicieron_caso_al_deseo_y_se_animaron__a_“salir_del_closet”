@@ -1,0 +1,136 @@
+
+Durante años ajustaron sus vidas a lo que la sociedad exigía de ellos dejando de lado sus propios deseos y expectativas. Los mandatos familiares y lo que culturalmente estaba “bien visto” los hizo reprimir, entre otras cosas, su preferencia sexual. Así fue que salieron del closet recién de grandes. Le pasó a Mercedes Sánchez (70) y a Marcelo Robles (62) quienes, a pocos días de la celebración del Orgullo Gay, compartieron sus historias con Clarín. Según Graciela Balestra, presidenta de la Asociación Civil Puerta Abierta a la Diversidad y coordinadora del primer y único Centro de Jubilados LGBT del país, ellos no son los únicos que blanquearon a la edad de jubilarse. “En los últimos años, se duplicaron las consultas de adultos mayores que se acercan a pedir asistencia psicoterapéutica para salir del closet y hablar con sus familias sobre el tema”, sostiene Balestra quien remarca que también llegan buscando un grupo de pares que los contenga y entienda. Y el reconocimiento público muchas veces viene de la mano del casamiento. Así queda evidenciado en los números: en lo que va del 2016, hubo más de una boda gay de mayores de 60 por semana en Capital.
+
+Este último dato surge del Registro Civil de la Ciudad, desde donde precisaron a Clarín que este año ya se registraron 171 matrimonios igualitarios y que 27 de ellos fueron de personas de más de 60, es decir que, hasta el momento, los adultos mayores resultaron protagonistas de casi el 16% de los casamientos en el ámbito porteño, celebrando una boda cada aproximadamente cinco días. 
+
+
+"La vi y me enamoré. Ese día me contó que se estaba mudando de la casa en la que vivía con su marido y sus cuatro hijas... Al final del encuentro, le dije que me gustaba mucho", Mercedes Sánchez.
+
+
+
+
+
+var act_866 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_866 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_866.setTitle('"La vi y me enamoré. Ese día me contó que se estaba mudando de la casa en la que vivía con su marido y sus cuatro hijas... Al final del encuentro, le dije que me gustaba mucho", Mercedes&nbsp;Sánchez.');
+act_866.setSubtitle('El fin del secreto'); 
+act_866.setLinkBack('http://www.clarin.com/sociedad/hicieron-deseo-animaron-salir-closet_0_1601839958.html');
+act_866.setDescription('Enfrentan a hijos y nietos para confesarles sus sentimientos y arman v&iacute;nculos con personas del mismo sexo, despu&eacute;s de separarse o enviudar. En Capital, ya se casa por semana una pareja gay mayor de 60 a&ntilde;os.');
+act_866.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/hicieron-deseo-animaron-salir-closet_0_1601839958.html');
+
+var showShareBarUI_params_866=
+{ 
+containerID: 'shareQuote_866',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_866,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_866
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_866);
+ En el caso de Mercedes Sánchez, que es psicóloga social, la salida del closet vino efectivamente acompañada de la unión legal con su actual pareja Claudia Lagos (53), cuando ella tenía 67. “Ni la sociedad ni yo estábamos preparadas antes para la verdad”, afirma Mercedes sobre la razón por la que esperó tanto para “dejar las tinieblas”. De joven, tuvo varias parejas heterosexuales que no funcionaron. “Yo me aburría pero seguía buscando, pensaba que no tenía suerte con los hombres”, resume. Eso fue hasta pasados los 30 cuando entendió lo que le sucedía, pero se lo guardó. Por esa época, conoció a Alicia que fue su pareja por 20 años, hasta que falleció. “Vivíamos juntas pero decíamos que éramos amigas. La gente sospechaba pero nunca preguntaron ni nosotras contamos”, relata. Con poco tiempo de diferencia, además de Alicia murió su mamá, y ella se quedó sin las, hasta entonces, dos mujeres de su vida. Recién hizo el duelo cuando llegó a Puerta Abierta y comenzó a participar de un grupo de reflexión a los 61. Dos años después, tomó coraje y empezó a mostrarse libremente. En ese camino, conoció a Claudia en el cumpleaños de una amiga en común de la Asociación. “Ni bien la vi me enamoré. Ese día me contó que se estaba mudando de la casa en la que vivía con su marido y sus cuatro hijas”, suma. La charla siguió por Facebook hasta que concretaron una salida. “Al final del encuentro, que empezó en una plaza y terminó en mi casa, le dije que me gustaba mucho”, sigue Mercedes. A los pocos días, se pusieron de novias y no se separaron más. Hace tres años, tuvieron su matrimonio igualitario, del que participaron las hijas de Claudia y su nietito que ahora dice que, de ese lado, tiene “dos abuelas y un abuelo”. 
+
+
+"Un día los senté a mis hijos y les conté. Al principio, no les causó ninguna gracia. Con el tiempo, cuando vieron que no me salían cuernos ni alas, la cosa se fue ablandando", Marcelo Robles.
+
+
+
+
+
+var act_aa9 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_aa9 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_aa9.setTitle('"Un día los senté a mis hijos y les conté. Al principio, no les causó ninguna gracia. Con el tiempo, cuando&nbsp;vieron que no me salían cuernos ni alas, la cosa se fue ablandando", Marcelo Robles.');
+act_aa9.setSubtitle('El fin del secreto'); 
+act_aa9.setLinkBack('http://www.clarin.com/sociedad/hicieron-deseo-animaron-salir-closet_0_1601839958.html');
+act_aa9.setDescription('Enfrentan a hijos y nietos para confesarles sus sentimientos y arman v&iacute;nculos con personas del mismo sexo, despu&eacute;s de separarse o enviudar. En Capital, ya se casa por semana una pareja gay mayor de 60 a&ntilde;os.');
+act_aa9.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/hicieron-deseo-animaron-salir-closet_0_1601839958.html');
+
+var showShareBarUI_params_aa9=
+{ 
+containerID: 'shareQuote_aa9',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_aa9,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_aa9
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_aa9);
+ Marcelo Robles siempre se sintió atraído por los varones más que por las chicas. Sin embargo, a los 31 se casó con una mujer con la que tuvo tres hijos. Casi 20 años después, se separó y empezó a experimentar con hombres. “Un día los senté a mis hijos y les conté. Ellos se merecían una explicación”, dice Marcelo quien confía que, al principio, “no les causó ninguna gracia”. “Con el tiempo, cuando vieron que no me salían cuernos ni alas y que seguía siendo el mismo, la cosa se fue ablandando”, explica. Tres años después de esa revelación, conoció a través de un chat gay a Gustavo Michanie (47), que es presidente de la Asociación Judíos Argentinos Gays (JAG) con el que se casó el año pasado, a sus 61. Marcelo, que es arquitecto, dice que cuando conoció a Gustavo sufrió el “efecto ladrillazo”. “Fue como si me hubieran dado un golpe en la cabeza: sentí que por primera vez tenía certeza absoluta de lo que quería”, cierra Marcelo, feliz de haberse animado a dar el gran paso.

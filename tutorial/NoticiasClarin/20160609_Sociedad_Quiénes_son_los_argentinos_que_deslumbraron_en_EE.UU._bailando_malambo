@@ -1,0 +1,22 @@
+
+America’s Got Talent es uno de los realities más populares de la televisión estadounidense, que aquí tuvo su versión con “Talento argentino”, el ciclo que emitía Telefé. Y fue justamente el “talento argentino” el que fascinó a los jurados y al público del ciclo: un grupo de Malambo deslumbró con su presentación, que rápidamente se hizo viral.
+
+  Los ocho jóvenes de “Malevo Compañía de Malambo” hicieron su presentación bailando malambo en la primera ronda, frente al exigente jurado integrado por Heidi Klum, Melanie C, Howie Mandel y Simon Cowell. A medida que el grupo folclórico avanzaba con sus figuras, el jurado empezó a mostrar su aprobación y también el público, que se levantó y zapateó al ritmo del grupo folclórico.  “Fue muy hot, muy excitante. No puedo esperar a verlos de nuevo”, felicitó Klum al grupo, que pasó a la segunda ronda. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Los Malevo son ocho. Llegaron al concurso porque uno de ellos se contactó con uno de los productores del programa. El grupo está integrado por los Nicolás Morales, Adrían Saldivia, Alejo Acosta, Leandro Palavecino, Marcos Olivera, Sebastián Lucero, Matías Rivas y el coreógrafo y también bailarín Matías Jaime. En el video de presentación, bromearon sobre sus largas cabelleras y contaron que crecieron en la pobreza, sin luz y sin agua. Todos se dedican a otras cosas para sobrevivir: uno es carpintero, otro albañil y un tercero trabaja en una estación de servicio.  En una entrevista en TN, Matías y Leandro contaron luego que “no pudimos creer lo que pasó en el programa. Ayer salió y fue viral. Es increíble”.
+
+También aseguraron que no estaban nerviosos, sino muy ansiosos por mostrar lo que saben hacer. “Trabajamos mucho para llegar, para estar en ese país, al nivel de ellos, con los jurados.  Estábamos zapateando y vimos que la gente se paró, era impresionante. Teníamos ganas de decirnos ‘Se están parando, loco’”, relataron. Ahora, aseguran, se tienen fe para la segunda ronda. Y quieren llevar su show a Las Vegas. 

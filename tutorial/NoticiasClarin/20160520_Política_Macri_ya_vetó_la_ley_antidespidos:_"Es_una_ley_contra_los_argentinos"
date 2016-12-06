@@ -1,0 +1,204 @@
+
+El presidente Mauricio Macri firmó esta tarde el veto a la Ley de Emergencia Ocupacional, sancionada por ambas cámaras legislativas, que prohíbe los despidos por 180 días e implementa la doble indemnización. Tras revisarlo con el secretario de Legal y Técnica Pablo Clusellas, la decisión será publicada el lunes en el Boletín Oficial. Es el primer veto de su gestión. Hoy, en su visita matutina a la planta de la empresa avícola Cresta Roja, en la localidad bonaerense de El Jagüel, partido de Esteban Echeverría, el presidente había anunciado el veto porque la "ley es contra los argentinos", según justificó. 
+
+
+"Voy a vetar la ley antiempleo. Es una ley contra los argentinos", dijo Mauricio Macri en Cresta Roja, con la gobernadora María Eugenia Vidal a su lado.
+
+
+
+
+
+var act_c6d = new gigya.socialize.UserAction();
+
+var emailBodyCustom_c6d = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_c6d.setTitle('"Voy a vetar la ley antiempleo. Es una ley contra los argentinos", dijo Mauricio Macri en Cresta Roja, con la gobernadora María Eugenia Vidal a su lado.');
+act_c6d.setSubtitle('Lo firmó esta tarde'); 
+act_c6d.setLinkBack('http://www.clarin.com/politica/Macri-anuncia-veto-total-antidespidos_0_1580242001.html');
+act_c6d.setDescription('El&nbsp;Presidente hizo&nbsp;uso de la facultad constitucional por primera vez. As&iacute; lo hab&iacute;a anticipado en un&nbsp;acto por la ma&ntilde;ana, donde adem&aacute;s&nbsp;dispar&oacute;:&nbsp;&quot;Llevamos 5 a&ntilde;os sin generar empleo&quot;.&nbsp;');
+act_c6d.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Macri-anuncia-veto-total-antidespidos_0_1580242001.html');
+
+var showShareBarUI_params_c6d=
+{ 
+containerID: 'shareQuote_c6d',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_c6d,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_c6d
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_c6d);
+ De esta forma, Macri hizo uso de la facultad constitucional de vetar una norma por primera vez desde que asumió su mandato, el 10 de diciembre pasado.
+
+"Estoy seguro que este es el camino que soñamos y nos merecemos", comenzó y luego expresó que "si buscaban un mago, ése no era yo. Tenían que ir a Las Vegas a buscar a Cooperfield. No soy un líder que se cree todo", aseguró al inicio de su discurso. 
+
+
+"Estoy seguro que en un año vamos a ver los frutos", señaló Macri con María Eugenia Vidal a su lado.
+
+
+
+
+
+var act_823 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_823 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_823.setTitle('"Estoy seguro que en un año vamos a ver los frutos", señaló Macri con María Eugenia Vidal a su lado.');
+act_823.setSubtitle('Lo firmó esta tarde'); 
+act_823.setLinkBack('http://www.clarin.com/politica/Macri-anuncia-veto-total-antidespidos_0_1580242001.html');
+act_823.setDescription('El&nbsp;Presidente hizo&nbsp;uso de la facultad constitucional por primera vez. As&iacute; lo hab&iacute;a anticipado en un&nbsp;acto por la ma&ntilde;ana, donde adem&aacute;s&nbsp;dispar&oacute;:&nbsp;&quot;Llevamos 5 a&ntilde;os sin generar empleo&quot;.&nbsp;');
+act_823.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Macri-anuncia-veto-total-antidespidos_0_1580242001.html');
+
+var showShareBarUI_params_823=
+{ 
+containerID: 'shareQuote_823',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_823,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_823
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_823);
+ "Nos proponen cepos al trabajo; sin importarles los que trabajan en negro, que esa ley va a traer más pobreza. Por eso, queriendo trabar ese progreso, proponen leyes que desconfían de lo que somos capaces los argentinos", dijo con tono enérgico,. 
+
+
+Y siguió: "No quieren que progresemos. Dicen `no queremos que le vaya bien a este gobierno`. Pero llevamos 5 años sin generar empleo", aseveró.
+
+
+
+
+
+var act_84b = new gigya.socialize.UserAction();
+
+var emailBodyCustom_84b = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_84b.setTitle('Y siguió: "No quieren que progresemos. Dicen `no queremos que le vaya bien a este gobierno`. Pero llevamos 5 años sin generar empleo", aseveró.');
+act_84b.setSubtitle('Lo firmó esta tarde'); 
+act_84b.setLinkBack('http://www.clarin.com/politica/Macri-anuncia-veto-total-antidespidos_0_1580242001.html');
+act_84b.setDescription('El&nbsp;Presidente hizo&nbsp;uso de la facultad constitucional por primera vez. As&iacute; lo hab&iacute;a anticipado en un&nbsp;acto por la ma&ntilde;ana, donde adem&aacute;s&nbsp;dispar&oacute;:&nbsp;&quot;Llevamos 5 a&ntilde;os sin generar empleo&quot;.&nbsp;');
+act_84b.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Macri-anuncia-veto-total-antidespidos_0_1580242001.html');
+
+var showShareBarUI_params_84b=
+{ 
+containerID: 'shareQuote_84b',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_84b,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_84b
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_84b);
+ Mirá también: Sube 33% el salario mínimo y será de $ 8.060 en enero La norma, que prevé la suspensión de despidos por 180 días y la doble indemnización, fue aprobada tras una maratónica sesión en la Cámara de Diputados, en una votación que contó con el respaldo de la mayoría de los bloques opositores y la abstención del oficialismo. Mirá también: Macri veta la ley antidespidos que logró imponer la oposición Hoy, en el marco de su segunda visita a la planta avícola que estuvo a punto de cerrar luego de declarar la quiebra en diciembre y volvió a funcionar con el apoyo del Gobierno el 21 de abril pasado con la reincorporación de 1.300 operarios, Macri comunicó su decisión de vetar la ley. Mirá también: Veto político a una jugada política Al acto asistieron la gobernadora bonaerense, María Eugenia Vidal; los ministros nacionales de Trabajo, Jorge Triaca, y de Producción, Francisco Cabrera; el intendente de Esteban Echeverría, Fernando Gray, no estará presente. Gray dijo a Clarín que "tengo una relación de respeto con el Gobierno nacional. El Presidente vino ya dos veces al distrito y lo acompañé. Pero como se informa en los medios, anunciará el veto a la ley antidespidos;con lo que por mi pertenencia peronista, represento a los más humildes y los desprotegidos, y no acuerdo con el veto", detalló.
+
+Macri finalizó su discurso a las 10:40 y se despidió: "Por eso les digo gracias. Gracias por acompañarme y necesito que sigamos juntos", afirmó y luego saludó y se fotografió con trabajadores de Cresta Roja que presenciaron el acto. Mirá también: Bajo presión, el oficialismo salió a hacer política

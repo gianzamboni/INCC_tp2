@@ -1,0 +1,68 @@
+
+Padres y alumnos de la Primaria N° 37 y Secundaria N° 20 de Grand Bourg dieron la voz de alarma por varios casos confirmados de tuberculosis entre los estudiantes. Sin respuestas oficiales, salieron a reclamar que las autoridades provinciales y municipales dieran a conocer oficialmente la situación, e iniciaran campañas en el barrio para evitar nuevos casos. Extraoficialmente hablan de siete infectados, pero en los hospitales Garrahan y Gutiérrez diagnosticaron a cuatro chicos con esa enfermedad. Una de ellas está internada y en observación en un centro privado. Muchos de los chicos dejaron de asistir a clases desde hace 15 días porque los padres, ante el panorama incierto y el temor, decidieron retirarlos de la escuela, ubicada en Cangallo y San Lorenzo, en el Partido bonaerense de Malvinas Argentinas. En la zona todos la conocen como la escuela "del tanque" porque queda frente a una plaza con un gran tanque de agua. 
+
+
+Queremos que al menos nos expliquen cómo prevenir la enfermedad, que salgan a informar", dice la madre de una de las alumnas contagiadas.
+
+
+
+
+
+var act_ad4 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_ad4 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_ad4.setTitle('Queremos que al menos nos expliquen cómo prevenir la enfermedad, que salgan a informar", dice la madre de una de las alumnas contagiadas.');
+act_ad4.setSubtitle('La Primaria 37 y Secundaria 20 de Malvinas'); 
+act_ad4.setLinkBack('http://www.clarin.com/sociedad/Miedo-colegio-GBA-confirmados-tuberculosis_0_1664833587.html');
+act_ad4.setDescription('Es en Grand Bourg, donde hay cuatro alumnos diagnosticados con esa enfermedad. Muchos padres dejaron de mandar a sus hijos a clase, y le reclaman respuestas al Municipio y la Provincia.');
+act_ad4.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/Miedo-colegio-GBA-confirmados-tuberculosis_0_1664833587.html');
+
+var showShareBarUI_params_ad4=
+{ 
+containerID: 'shareQuote_ad4',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_ad4,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_ad4
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_ad4);
+ "Tengo cuatro hijos y dos sobrinos que van a distintos grados del colegio. Mi nena de tercer año recibió tratamiento por tuberculosis y tiene varios compañeros infectados. Una chica, incluso, está internada porque tuvo una recaída", explica Lorena Sosa, una de las mamás que exigen una respuesta oficial.   El temor y enojo provienen, explican, de la falta de respuestas claras para encarar el brote de esta enfermedad altamente contagiosa. "Ya hubo un caso el año pasado y ahora, desde hace dos meses, volvemos con lo mismo, pero con más chicos afectados", sostiene Sosa. Y agrega: "Al principio suspendían las clases con frecuencia, supuestamente para hacer desinfección. Pero no decían concretamente qué ocurría. Nos enteramos porque una de las nenas enfermas fue al Garrahan y ahí le dieron el diagnóstico".  Tuberculosis fue la confirmación de los médicos del hospital de pediatría porteño. Las familias también denuncian que desde el centro de salud municipal, el Hospital de Trauma "Federico Abete", les decían que era neumonía. "Algunas mamás empezaron a interrogar a los médicos hasta que admitieron que sí era tuberculosis", advierten.  Mirá también: Avance de científicos argentinos en la lucha contra la tuberculosis La tuberculosis es una infección bacteriana altamenta contagiosa que se inicia en los pulmones y puede generar complicaciones en otros órganos. Para arribar al diagnóstico, los pacientes con síntomas sospechosos deben someterse a radiografías de tórax, análisis de sangre, inyección de antígenos (Test de Mantoux) y exámenes de laboratorio (prueba de BAAR, un examen sobre una muestra de saliva para detectar la presencia de la bacteria).  Ayer a las 14, el grupo de madres fue a la Municipalidad de Malvinas Argentinas para solicitar por segunda vez una reunión con el intendente Leonardo Nardini, pero fueron recibidos por el Subsecretario de Salud, quien se mostró predispuesto a ayudar pero, según los padres, "no adelantó ninguna medida concreta" para afrontar la situación. "Hemos hablado con el Ministerio de Salud de la Provincia, con la Comuna, con la escuela, con el Consejo Escolar. Todos se pasan la pelota, nos mandan a hablar con otro. Hace dos meses que estamos con esto y ya no sabemos qué hacer para que nos den una respuesta", insiste Lorena. "Queremos que por lo menos den una charla en el colegio, nos informen bien en qué consiste la enfermedad y cuáles son las medidas de prevención. Así como se hicieron campañas por la Gripe A o el Dengue queremos que den pautas claras para prevenir futuros casos y si es necesario que lo cierren hasta que garanticen haber controlado el brote", agregó.  Desde la Comuna, el subsecretario de Salud, Fabián Basílico, dijo que están "al tanto de la situación" y admitió los casos confirmados, aunque aseguró que eran tres. "Estamos en contacto permanente con la comunidad educativa y ya dimos algunas charlas informativas sobre la enfermedad", dijo a Clarín. Y se refirió a la enfermedad: "Lamentablemente la tuberculosis sigue existiendo en Argentina, pero es importante no alarmar a la población. Las medidas para prevenir el contagio son la vacunación a todos los bebés recién nacidos, y una correcta alimentación para mantener las defensas altas". Además, pidió a "las familias que detecten síntomas compatibles con la enfermedad que consulten en los centros de salud más cercanos". La escuela, por lo pronto, sigue dando clases normalmente. Este tipo de casos deben ser notificados al Ministerio de Salud provincial para que decida cómo prevenir el contagio. Mirá también: Antibióticos. Las bacterias, cada vez más resistentes Los principales síntomas de la tuberculosis son tos crónica (que puede derivar en la expulsión de sangre), fiebre, sudoración nocturna, falta de apetito, pérdida de peso y cansancio permanente. La bacteria se transmite por el aire, cuando una persona infectada tose, por lo que la propagación de la enfermedad se multiplica en el contacto diario con los enfermos. De modo que la escuela aparece como un ambiente de mucha predisposición al contagio. 

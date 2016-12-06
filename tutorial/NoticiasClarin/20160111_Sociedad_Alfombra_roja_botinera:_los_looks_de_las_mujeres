@@ -1,0 +1,33 @@
+
+La ceremonia del Balón de Oro tiene su propia alfombra roja. Con mayoría de hombres protagonistas, claro, los trajes masculinos son la estrella del estilo, pero ellas, sus acompañantes, tampoco se quedan atrás. Así, la “red carpet botinera” mostró varios diseños espectaculares.Pilar Rubio, la mujer del defensor del Real Madrid Sergio Ramos, eligió el rojo.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/FIFAcom/status/686599471468130304",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68659947146813030")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+Después de varios años vistiendo Dolce & Gabbana, Leo Messi llegó a la gala de Zurich con un más sobrio y elegantísimo Giorgio Armani. A su lado, su mujer Antonella Roccuzzo también lucía un llamativo vestido de mangas largas y enorme tajo en plateado.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

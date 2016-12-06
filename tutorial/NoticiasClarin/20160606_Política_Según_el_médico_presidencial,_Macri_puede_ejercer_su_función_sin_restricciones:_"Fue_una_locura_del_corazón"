@@ -1,0 +1,68 @@
+
+El jefe de la Unidad Médica Presidencial, Simón Salzberg, aseguró hoy que Mauricio Macri tiene "un corazón sano", y que luego de la arritmia sufrida el viernes pasado, puede ejercer sus funciones sin restricciones. "Esta arritmia puede venir en un corazón sano, como en este caso, o en un corazón enfermo. Se la llama solitaria, porque uno mira el resto y está todo normal", explicó. Mirá también: El país que enferma a sus presidentes En un raid por los medios nacionales que realizó esta mañana, el médico indicó que no hay restricciones para el mandatario, y subrayó que "por supuesto" puede cumplir con sus funciones normalmente. El pasado viernes, el presidente Mauricio Macri sufrió una arritmia cardíaca leve, lo que lo obligó a someterse a una serie de estudios en una clínica privada. 
+
+
+"Esto no es un ataque cardíaco. No hubo necesidad de hacer cateterismo Esto fue una locura del corazón", dijo en declaraciones a varios radios porteñas.
+
+
+
+
+
+var act_c19 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_c19 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_c19.setTitle('"Esto no es un ataque cardíaco. No hubo necesidad de hacer cateterismo Esto fue una locura del corazón", dijo en declaraciones a varios radios porteñas.');
+act_c19.setSubtitle(' '); 
+act_c19.setLinkBack('http://www.clarin.com/politica/presidencial-Macri-funcion-restricciones-corazon_0_1590440957.html');
+act_c19.setDescription('El jefe de la Unidad M&eacute;dica Presidencial, Sim&oacute;n Salzberg, explic&oacute; que &quot;no fue un ataque card&iacute;aco&quot; y que no hubo necesidad de hacer cateterismo.');
+act_c19.addActionLink('VER MÁS', 'http://www.clarin.com/politica/presidencial-Macri-funcion-restricciones-corazon_0_1590440957.html');
+
+var showShareBarUI_params_c19=
+{ 
+containerID: 'shareQuote_c19',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_c19,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_c19
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_c19);
+ Mirá también: El mal estado en que dejó Cristina las instalaciones de la Casa Rosada Salzberg detalló que el mandatario "está con toda la medicación que tiene un paciente después de haber tenido un episodio como éste, como prevención, y también para evitar las complicaciones que puede traer otro episodio". En ese sentido, resaltó que Macri es un paciente "con hábitos excelentes", que es "muy lúcido", y contó que cuando le detectaron la arritmia, "se decidió entre todos los pasos a seguir". Mirá también: Macri "está bien" y hoy retoma la agenda de trabajo Por último, y tras la polémica por los vaivenes en la comunicación oficial del hecho, el médico aseguró que desde la Unidad Médica Presidencial comunicaron "lo que había que comunicar", y explicó que "no es bueno salir cada dos minutos a decir cómo está la cosa".

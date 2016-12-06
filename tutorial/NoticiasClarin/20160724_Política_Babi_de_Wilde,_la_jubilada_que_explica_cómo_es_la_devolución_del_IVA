@@ -1,0 +1,18 @@
+
+Luego de que se oficializara la devolución del IVA para jubilados y que ya arrancó este mes, el Gobierno publicó un video institucional para explicar cómo es el mecanismo. Esta vez, cambió la estrategia comunicacional y no apeló a ningún funcionario para que explique el nuevo esquema en una conferencia de prensa, sino que es "Babi de Wilde" la encargada de despejar las dudas. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La señora, sentada en el living de su casa con un perrito sobre su falda, le habla a cámara a todos los jubilados y pensionados, para explicar sencillamente que "con cada compra que hagas te devuelven el 15% del IVA". Mirá también: Ya rige la devolución del 15% de IVA para todas las compras El institucional fue publicado a través de la cuenta de Youtube Casa Rosada y difudido a través de las redes sociales, en un tono ameno y breve, en menos de dos minutos "Babi" cuenta que el tope mensual será de $ 300 y que para obtener la devolución del dinero sólo hay que pagar en comercios con tarjeta de débito. Mirá también: Jubilados: la devolución de impuestos es para todas las compras La devolución del IVA fue una iniciativa del Gobierno, que se reglamentó para que alcance a los Jubilados y pensionados que cobran el haber mínimo ( $ 4.959) , las pensiones no contributivas nacionales no superiores al haber mínimo, los que perciben la AUH (Asignación universal por hijo) y la Asignación por embarazo. Se estima que este beneficio llegue a un universo de 7 millones de personas.

@@ -1,0 +1,70 @@
+
+ Hace casi un año, en octubre de 2015, se llevó a cabo el allanamiento de un taller de costura, como parte de la lucha contra el trabajo esclavo en la Ciudad de Buenos Aires. Pero este procedimiento judicial lejos de esclarecer, terminó resultando un entramado judicial que derivó en el robo sistemático de maquinarias e insumos del sector textil. Así, todo condujo a la imputación penal de Gustavo Vera, legislador porteño e ícono de la lucha contra la trata de personas, y de Julio Piumato, gremialista moyanista y titular de la Unión de Empleados Judiciales de la Nación. Según publicó la revista Noticias, el expediente, número 7285/2016 lleva como carátula: “Vera, Gustavo Javier y otro s/ Malversación de Caudales Públicos”. La causa estuvo a cargo del juez Ariel Lijo, quien confiscó 19 máquinas y demás insumos destinados a la confección de ropa. En el procedimiento detuvo además a los responsables del taller, los ciudadanos bolivianos Faustino Mamani Chinche y a su esposa, Reyna Calizaya, y le ordenó a Gendarmería que se hiciera cargo de la custodia del taller y todo lo que se encontraba adentro.
+
+Según la revista Noticias, dos semanas después Vera y Piumato presentaron ante el juzgado de Lijo un escrito para que se le entregaran las máquinas y prendas secuestradas. El 23 de diciembre y sin que se encontrara firme ni una foja del expediente, el magistrado ordenó que le fuera entregado a Vera y Piumato en calidad de “depositario judicial” todo lo incautado en el procedimiento y los autorizó a entregar en comodato todo el material a dos entidades de la curia argentina: la Parroquia de Caacupé, y el Hogar Cristo Gaucho Antonio Gil. Según Lucas Schaerer, vocero de Vera, esto es un procedimiento habitual desde el 2008, fecha en la que el juez Sergio Torres sentó el precedente en un fallo, basado en el art. 23 del Código Penal, que establece que “si el bien decomisado tuviere valor de uso o cultural para algún establecimiento oficial o de bien público, la autoridad nacional, provincial o municipal respectiva podrá disponer su entrega a esas entidades”. Se trata de lo que llaman “incautación con reinserción social”: lo decomisado se utiliza con fines benéficos. Sin embargo, el abogado Alejandro Kim, defensor del matrimonio boliviano, los denunció por el delito de “malversación de caudales públicos”. En su escrito, Kim dejó constancia de que no había sentencia firme, y que no se trataba de un hecho aislado, sino de una forma de proceder de un grupo en el que se ven implicados jueces y fiscales que, con la excusa de combatir el trabajo esclavo en la ciudad de Buenos Aires, se apropian de bienes de los comerciantes textiles. A esa metodología Kim la calificó de “forum shopping”. La Cámara Nacional en lo Criminal y Correccional Federal coincidió con él: revocó todo lo actuado, dictó la falta de mérito sobre Mamani Chinche, le quitó el manejo de la causa a Lijo, y la envió nuevamente a sorteo para que intervengan otras autoridades judiciales con la orden de devolver inmediatamente lo incautado. La nueva instrucción recayó en el juez Marcelo Martínez de Giorgi, quien ordenó que reintegraran todo el material. Sin embargo, faltaban varias máquinas valuadas en miles de pesos, insumos y prendas confeccionadas. Semejante irregularidad disparó una investigación, a cargo de Claudio Bonadío, bajo la carátula de malversación de caudales públicos. Si bien según Schaerer “la semana pasada se terminó de devolver todo”, la querella sostiene que se trató de una maniobra dilatoria para evitar la indagatoria, pero que, según consta en una nueva denuncia, lo devuelto no se corresponde con lo sustraído. Y no sólo eso, las máquinas devueltas tenían el número de serie limado, lo que mostraría la intención de confundir a la justicia. Consultado por este nuevo revés, el diputado Gustavo Vera negó la imputación: “ya está todo aclarado, con la devolución quedó sin efecto la causa”. 
+
+
+Vera contestó a los gritos a la periodista Guadalupe Vázquez sobr esu imputación: “Ah, mirá vos, Stiuso está afilado, cuánto te paga la SIDE? Andá a trabajar con Majdalani. Esta es una operación berreta orquestada por la gente de Stiuso, que le garpan a los periodistas como vos. Estás mintiendo, lo que querés es perjudicarme para pegarle al Papa, a vos te pagaron para pegarle al Papa.”
+
+
+
+
+
+var act_745 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_745 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_745.setTitle('Vera contestó a los gritos a la periodista Guadalupe Vázquez&nbsp;sobr esu imputación: “Ah, mirá vos, Stiuso está afilado, cuánto te paga la SIDE? Andá a trabajar con Majdalani. Esta es una operación berreta orquestada por la gente de Stiuso, que le garpan a los periodistas como vos. Estás mintiendo, lo que querés es perjudicarme para pegarle al Papa, a vos te pagaron para pegarle al Papa.”');
+act_745.setSubtitle('JUSTICIA'); 
+act_745.setLinkBack('http://www.clarin.com/politica/Gustavo-Vera-Papa-maquinas-allanado_0_1662433775.html');
+act_745.setDescription('El legislador porteño es acusado, junto al gremialista Piumato, por apropiarse de elementos secuestrados en un allanamiento. La llamada “incautación con reinserción social” como excusa.');
+act_745.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Gustavo-Vera-Papa-maquinas-allanado_0_1662433775.html');
+
+var showShareBarUI_params_745=
+{ 
+containerID: 'shareQuote_745',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_745,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_745
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_745);
+ Según la querella “no es casual que los allanamientos apunten en su mayoría a fabricantes de jeans, porque usan máquinas e insumos más caros que otros tipos de prendas”. En el juzgado de Bonadío están esperando que se les remita lo actuado por Martínez de Giorgi para expedirse. Si se da lugar a la nueva denuncia, se fijará fecha para una nueva indagatoria y tanto el supuesto vocero papal como el gremialista Piumato deberán sentarse frente al juez.

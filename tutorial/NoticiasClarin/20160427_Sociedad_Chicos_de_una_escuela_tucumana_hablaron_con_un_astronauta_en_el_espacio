@@ -1,0 +1,24 @@
+
+Un grupo de estudiantes de una escuela secundaria de Tucumán logró hablar al espacio. Son los chicos del Colegio Santa Rosa de la capital provincial, que establecieron una comunicación con un astronauta que está en la Estación Espacial Internacional (ISS, por sus siglas en inglés) durante su paso sobre el territorio argentino. El evento ocurrió el 13 de abril cuando siete alumnos hablaron en inglés con el astronauta estadounidense Jeff Williams, que viajaba sobre sus cabezas a una altura de unos 410 kilómetros de altura.
+
+Una de las alumnas que habló con el astronauta  El colegio fue elegido entre otros 10.000 que envían sus datos a Radio Amateur, un proyecto educativo de la ARISS (Amateur Radio on the International Space Station). Es la primera vez que un colegio tucumano resulta elegido, y el segundo del país. Desde que se inició este proyecto el 30 de enero de 2001, cuando el comandante William Shepherd habló con estudiantes de la escuela Luther Burbank del sur de Chicago, hubo 1.007 contactos entre la Estación y colegios en la Tierra.
+
+Los chicos, escuchando la conversación  La idea llegó a la institución tucumana a través del presidente del Radio Club Tucumán Augusto Parra, padre de una alumna del establecimiento. Desde el departamento de inglés del colegio se preparó todo para el día de la comunicación con la nave. Todo era expectativa en la sede Yerba Buena del colegio, que debido a su gran campus libre de obstáculos permitía la instalación de los equipos por parte del Radio Club para entablar la comunicación. Unos 80 chicos acompañaron a los siete elegidos para hablar con Williams. La comunicación comenzó a las 11.02 y se extendió por seis minutos. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Las preguntas hechas por los chicos fueron preparadas junto al equipo de inglés, dirigido por la profesora Soledad Vidal, y aprobadas por ARISS. Estas fueron tres de ellas, y las respuestas que dio Williams:  --¿Qué le sorprendió a usted de vivir en la Estación Espacial? --Lo que más me sorprendió es la tremenda cantidad de oportunidades que tenemos para experimentar y vivir el espacio y el medioambiente sin viento, en la quietud. --¿Cuáles son las actividades que más le gustan y las que menos le gustan en la Estación Espacial? --Mi actividad favorita es mirar por la ventana a la Tierra y tomar fotos de ella. Es absolutamente magnífico. ---¿Qué experimentos e investigaciones que hacen ustedes ahí han sido las más interesantes para usted? --Es muy buena pregunta. Hacemos muchísimos tipos de experimentos e investigaciones, pero las que son más interesantes para mí son el estudio de las reacciones del cuerpo humano por el impacto del no peso y la gravedad, cómo reacciona el cuerpo estando en el espacio.
+
+El astronauta Jeff Williams (Twitter)  Luego, la gente del Radio Club explicó algunas cuestiones técnicas de interés y Parra les informó a los chicos que el Presidente de los Estados Unidos debe ser radioaficionado ya que lo impone una ley. Además destacó que comunicarse con la Estación solamente puede hacer por medio de ondas de radio y remarcó la gran labor social que realizan los radioaficionados en momentos de catástrofe.  

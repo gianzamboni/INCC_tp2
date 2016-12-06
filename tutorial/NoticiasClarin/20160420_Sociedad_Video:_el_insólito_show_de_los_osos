@@ -1,0 +1,18 @@
+
+En una primera impresión parecería que se tratara de dos personas disfrazadas. Pero no, son osos que caminan en dos patas y que sorprendieron a un grupo de turistas que viajaban dentro de un colectivo en un zoológico al aire libre de Canadá. También leé: "Una familia de osos invade un jardín y disfruta de la pileta de la casa" El autobús de los visitantes se paró al ver a los animales, lo que motivo a que los osos recibieran el alimento por parte de los instructores, parándose en las patas traseras. Pero no quedó ahí: uno de ellos caminó mientras el micro se movía, lo que causó sorpresa y risa entre los presentes. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+También mirá: "Mujer practicaba snowboard sin saber que un oso la perseguía" El hecho fue compartido en redes sociales, viralizándose rápidamente en la web. En YouTube -por ejemplo- alcanzó los 242 mil visualizaciones en menos de una semana. Algunos expertos aseguraron que lo que hicieron estos osos es algo muy poco visto.

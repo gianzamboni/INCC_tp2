@@ -1,0 +1,18 @@
+
+ Ampliá la ventana del video en tu pantalla. Sentate en un lugar cómodo. Ponete unos auriculares y subí el volumen. Solo una advertencia: lo que estás a punto de experimentar no es apto para cardíacos. ¿Preparado? Bienvenido a la montaña rusa con la caída vertical más alta del mundo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Este paseo virtual --filmado en primera persona y publicado en YouTube-- intenta demostrar las sensaciones que se viven arriba de Valravn, la última atracción del parque de diversiones Cedar Point ubicado en Ohio, Estados Unidos. El proyecto demandó seis meses de construcción y abrió al público la semana pasada. Mirá también: Cómo será la montaña rusa de Hulk  Quienes se animan a este "juego" son elevados a 68 metros de altura. Una vez en la cima, el tren se mantiene en el borde durante unos cuatro segundos "dándole a los clientes ansiosos inigualables vistas del parque", dice la empresa. Y entonces llega la caída libre: los valientes usuarios son arrojados en un ángulo completamente vertical, de 90 grados, alcanzando una velocidad máxima de 120 km/h. Mirá también: Diez amigos y dos horas de susto en lo más alto de una montaña rusa En un comunicado de prensa difundido en septiembre de 2015, durante su desarrollo, el parque informó que Valravn y el parque que la contiene iban a romper diez récords mundiales: * La montaña rusa de caída vertical más larga (1.040 metros). * La mayor cantidad de inversiones (giros) en una montaña rusa de caída vertical (3). * La caída más larga en una montaña rusa de caída vertical (65 metros). * La inversión (giro) más alta en una montaña rusa de caída vertical (50 metros). * La mayor cantidad de montañas rusas superiores a 61 metros de altura en un parque de diversiones (5). * La mayor cantidad de atracciones en un parque de diversiones (72). * La mayor cantidad de pista de acero de montañas rusas en un parque de diversiones (16.000 metros). * La mayor cantidad de pista de montañas rusas en un parque de diversiones (18.346 metros). Mirá también: Se viene la montaña rusa más larga, alta y rápida de Orlando

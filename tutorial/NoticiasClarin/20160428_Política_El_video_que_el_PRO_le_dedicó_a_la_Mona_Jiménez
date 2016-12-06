@@ -1,0 +1,18 @@
+
+La Mona Jiménez lanzó una canción, como un adelanto del CD número 88, en la que hace referencia al escándalo de los Panamá Papers, que salpica al presidente Mauricio Macri y una agrupación macrista salió a cruzar al rey del cuarteto. La Solano Lima armó una canción que tituló "La Mona K" donde le apuntan al músico por haber mantenido silencio respecto a la corrupción durante la décadakirchnerista y que ahora por el "marketing"de su nuevo disco habla del tema, que rápidamente prendió en los medios. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Leé también: En su último tema, la Mona Jiménez le pega duro a Macri "Bailaré, bailaré cuarteto otra vez, con Ulises me vas a ver, no más taxis pa´regalar, te tomaste un vino modelo K", reza el estribillo, en referencia a los sorteos de autos en los clásicos bailes del músico cordobés. La canción, además, acusa a La Mona de haber sido financiado por el kirchnerismo, recuerda sus polémicos episodios con mujeres arriba del escenario y también la vez que invitó al controvertido ex juez Norberto Oyarbide a cantar. "Nunca opinaste y estás caliente, se vino el cambio y no te mienten. Pero me acuerdo cuando bailabas con Oyarbide y lo chichoneabas", dice la letra de la canción. Leé también: "Eskrache", el irónico video de una agrupación macrista La agrupación macrista se caracteriza por este tipo de canciones y videos, que difunden por redes sociales. La anterior entrega se había llamado "Eskrache", en referencia a los episodios que sufrió Carlos Zannini.

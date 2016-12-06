@@ -1,0 +1,20 @@
+
+Como parte de la celebración de los 15 años de la fundación de la Coalición Cívica-ARI y antes de dar su discurso de cierre en el congreso partidario que se realiza en Villa Constitución, Santa Fe, la diputada nacional Elisa Carrió subió dos videos desopilantes para saludar a su fuerza. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Risueña, la legisladora se mostró vestida con un camisón rosa al despertarse esta mañana, y se prestó para armar una animación junto a sus colaboradores, al posar para el festejo. Tendida en un sofá, desde allí sopló las velitas por el aniversario de su partido político e incluso dejó que le estamparan un tortazo virtual de crema en la cara, ante las risas de su equipo. En el otro video que publicó en su cuenta de Twitter, manda un saludo a la militancia de la Coalición Cívica y remarca sus anteojos por los 15 años. Acostumbrada a usar las redes sociales para situaciones cómicas, en una ocasión anterior se había retratado tirada en el piso para contestarle en una pelea al jefe de Gabinete, Aníbal Fernández.
+
+El congreso de la CC-ARI empezó al mediodía en la Estancia Los Cerrillos de la localidad santafesina de Villa Constitución, a 60 kilómetros de Rosario. Mirá también: Carrió encabezará el congreso de la CC-ARI acompañada por Vidal, Larreta y otras figuras del PRO Al encuentro iban a asistir funcionarios de los gobiernos nacional, de la Ciudad y la Provincia de Buenos Aires, además de legisladores y dirigentes partidarios. Se destacan las presencias de la gobernadora María Eugenia Vidal y el jefe de Gobierno porteño, Horacio Rodríguez Larreta.

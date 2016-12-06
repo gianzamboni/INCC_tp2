@@ -1,0 +1,24 @@
+
+El dirigente kirchnerista Luis D'Elía irá a juicio oral por haber alentado o incitado al antisemitismo en declaraciones que hizo en su programa de radio y en su cuenta de Twitter, en 2011.  Fuentes judiciales informaron que el juez federal Luis Rodríguez clausuró la instrucción de la causa penal contra el titular del partido MILES y la elevó a la instancia oral y pública. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Según el magistrado, D'Elía difundió “por medios masivos de comunicación y por Twitter ideas cuyo contenido podría alentar y/o incitar al odio o persecución de la comunidad judía en nuestro país; toda vez que los identificó por sus apellidos y se refirió a todos los que profesan esa religión con el término 'paisano', creando el riesgo de que con esos pensamientos exteriorizados se lesione el consenso en la comunidad”.  doc-15796 (1) by Clarin.com on Scribd El 21 de junio de 2011, el dirigente K realizó fuertes declaraciones en su programa de radio (Siete Punto Cero en Radio Cooperativa, AM 770) al hablar del escándalo generado a partir de las revelaciones sobre los manejos de Sergio Schoklender mientras estuvo al frente de la Fundación Sueños Compartidos, que tenía como misión principal construir viviendas sociales gracias al aporte de fondos públicos del Estado nacional. Mirá también: D’Elía, a indagatoria por sus dichos contra Schoklender Ese día D’Elía consideró que “habría que investigar cuáles son las ligazones de este pibe con el servicio de inteligencia porque no se puede hacer tanto daño gratuitamente”. Y agregó: “Vos mirás la lista de estos muchachos y son todos paisanos, encabezados por ellos dos, hijos de un hombre traficante de armas vinculado a la dictadura”. Se refirió así a Schoklender y a su hermano Pablo, quienes manejaron los destinos de la Fundación. Mirá también: La DAIA acusó a D’Elía de antisemitismo   "Me parece un disparate que me llamen a declarar por haber dicho 'paisano', palabra que es sustantivo, no adjetivo. No califica a nadie. Es un abuso del sionismo en Argentina", había sostenido el piquetero kirchnerista, en declaraciones radiales, tras ser citado a indagatoria en 2011. De ser declarado culpable del delito de “incitación a la discriminación”, D'Elía podría sufrir una pena de hasta tres años de prisión.  Los tuits que complican a D'Elía @diegokravetz Decime una frase antisemita dicha por mi— Luis D'Elia (@Luis_Delia) 5 de julio de 2011
+ @Luis_Delia cuando hablas de "son todos paisanos estos" o vinculas un atentado a los israelíes no es exactamente un canto a la pluralidad— Diego Kravetz (@diegokravetz) 5 de julio de 2011
+ @diegokravetz El "estos" lo agrega Ud paisano y solo hable en su momento de la ultraderecha israeli contraria a los acuerdos de Camp David— Luis D'Elia (@Luis_Delia) 5 de julio de 2011
+ @diegokravetz A propósito como anda su patrón Alberto Fernandez y como le va con la formula paisana?— Luis D'Elia (@Luis_Delia) 5 de julio de 2011
+ @Luis_Delia no termino de entender xq un tipo q dice q tiene sensibilidad social es un antisemita. Te jode q Telerman y yo seamos judíos?— Diego Kravetz (@diegokravetz) 5 de julio de 2011
+ @diegokravetz La memoria del Holocausto debe servir para que no pase nunca mas no para justificar los crimenes del actual Gobierno de Israel— Luis D'Elia (@Luis_Delia) 5 de julio de 2011
+

@@ -1,0 +1,18 @@
+
+Cuando se concretó la Triple Captura tras dos semanas de la Triple Fuga, producto de un caso impactante como el del Triple Crimen de General Rodríguez, muchos coincidieron en que no era el final de nada, todo lo contrario, era el inicio de una historia que no tendrá final por mucho tiempo. Pero en el camino correrán denuncias, indagatorias, purgas policiales, pases de facturas, expresiones puras de impunidad...Este audio conmueve una vez más por este motivo, aunque ya casi ni sorprende. De un lado, "El Faraón", Marcelo Alejandro Melnyk, el amigo de Víctor Schillaci que está detenido tras admitir que recibió en su casa de Florencio Varela a los tres asesinos condenados a perpetua por el Triple Crimen de General Rodríguez, y se sospecha que colaboró con armas y también apoyo logístico aunque en su declaración haya dicho que "sólo les dio tres gaseosas heladas".
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Del otro lado, un comisario. Sí, Leonardo Julián, un jefe policial que estuvo a cargo de la comisaría Sexta de Ezpeleta (partido de Quilmes), y ahora fue reubicado como jefe de distrito de Almirante Brown. El llamado se dio y quedó grabado (ya forma parte de la investigación por la fuga de los Lanatta y Schillaci) entre la Triple Fuga, ocurrida el 27 de diciembre, y la detención de Melnyk, el 30.Leé también: La ostentosa vida de "El Faraón" amigo de SchillaciEl diálogo dura apenas un minuto y se percibe claramente la incomodidad de "El Faraón", que evidentemente acostumbrado a estas charlas amigables con poderosos jefes de las fuerzas policiales maneja con habilidad la charla, saca los datos que necesita y prefiere no excederse en el tiempo de comunicación. ¿Ya sabía que su nombre daba vueltas dentro de la investigación por la fuga de su amigo Víctor Schillaci?Leé también: La Morsa, El Faraón y una fuga a la argentinaJulián es el que llama, hace bromas y le ofrece a Melnyk libertad plena de acción en su nueva jurisdicción de Almirante Brown. Entre los detalles coloridos sobre la impunidad con la que se expresa en el cruce telefónico, está el de haber hecho el llamado desde el mismísimo teléfono fijo de su nueva oficina. El mano a mano entre Melnyk y Julián fue el siguiente:(Julián)- Marcelo!(Melnyk)- Agachate y conocelo!J- No boludo, Julián te habla, comisario de Ezpeleta.M- Mamaaa...J- Pelotudo! No me cortes!M- Pero si me están bolaceando... que querés que haga.J- Che boludo, no estoy más en Ezpeleta, eh?M- Eh?J- No estoy más en Ezpeleta.M- Ya sé, boludo..J- Ah bueno...M- ¿Donde estás? Te fuiste allá a Adrogué?J- Jefe de distrito de Almirante Brown.M- Mamaaá...J- Ahora tenés banca, eh?M- Jeje...J- Ahora tenés banca acá, loco...M- No digas nada que están todos los teléfonos pinchados.J- Bueno, sí, está pinchado... Escuchame pinchado, cuando quieras pasate por acá, loco...M- Noo, voy a pasar, pero la otra semana, viste Juliancito? así hablamos un poquito.J- Dale no hay problema, venite... Pero avisame nomás cuando venís.M- Dale Juliancito, gracias por llamar. ¿Este es tu celular Julián?J - No, este es el teléfono directo acá del distrito.M- Bueno pregunto por vos ahí.J- A partir de hoy tengo telefono, hoy a la noche tengo telefono.M- Mandame un whatsapp. Bajale whatsapp y mandame un whatsapp.J- Dale, te mando un whatsappM- Dale, un gusto Julián.J- Un abrazo.

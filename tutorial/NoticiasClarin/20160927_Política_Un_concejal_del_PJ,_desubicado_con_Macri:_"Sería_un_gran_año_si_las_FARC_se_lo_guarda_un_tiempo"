@@ -1,0 +1,34 @@
+
+Se presenta, primero, como "militante justicialista". Después repasa un par de cargos vinculados al fútbol de Paraná, su ciudad. Y luego completa con su cargo de concejal. Cuando se leen sus tuits (@caceresergio), sorprende poco la ¿ironía? de ayer de Sergio David Cáceres. Mientras el presidente Mauricio Macri visitaba Colombia, en el marco del histórico acuerdo de paz entre el Gobierno y la guerrilla, este político que en la provincia vinculan a Sergio Urribarri, se quiso hacer el gracioso. Quedó desubicado. "@TV_Publica hoy es un buen día porque @mauriciomacri se va a Colombia! Y seria un gran año si las FARC se lo guarda un tiempo...", tuiteó Cáceres. Siguió: "OJO no me malinterpreten! Es por la PAZ de nuestro pueblo...". Y completó: "Pido mil disculpas! La FARC no se lo merece... ellos no tienen la culpa de 1,5 millones de nuevos pobres...". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/caceresergio/status/780409331405688832",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78040933140568883")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/caceresergio/status/780422783876624384",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78042278387662438")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ La reacción de quienes lo leyeron en la red social fue mayoritariamente de repudio. Algunos más protocolares ("no me parece apropiado el concepto"), otros críticos y medidos ("Vergonzoso el nivel de nuestros representantes en la ciudad. Y pensar que cobran para esto...") y unos cuantos, varios, sacados ("No me extraña q haya gente q pida el voto calificado después de leer a este chorro", "LaKra como todo kirchnerista, hacele un favor a la Patria: MATATE", "Ud.es casado?tiene hijos?lo votaron para què?trabaje sr.y si robò cuidese,se terminò la joda K"). Tras la polémica que se desató anoche con sus dichos, el concejal borró de su portada el tuit. Pero se lo puede seguir leyendo cuando se amplían las conversaciones de otros de sus posteos. Luego, intentó bajar un tono con una nueva publicación: "Me acabo de dar cuenta que la ironía no es una de mis virtudes!". No lo logró. Esta mañana, Cáceres habló por radio. A su modo, reflexionó. "Si no se logró el sentido humorístico, pido disculpas. No es mi pensamiento. Bajo ningún punto de vista le deseo el mal a nadie, menos por cuestiones políticas". Y, por último, se preocupó en aclarar: "Reivindico el Gobierno K, el peronismo se mide en los hechos y no en los dichos. Pero me concibo peronista, no K" .

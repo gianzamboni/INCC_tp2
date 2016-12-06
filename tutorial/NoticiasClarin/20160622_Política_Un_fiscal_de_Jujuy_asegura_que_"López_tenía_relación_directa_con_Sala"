@@ -1,0 +1,131 @@
+
+El fiscal anticorrupción de Jujuy habló respecto a la relación entre Milagro Sala y los millones que recibió para obra pública -que quedaron inconclusas- de parte de José López. "Hay más de una persona en Jujuy que señala que López tenía una relación directa con Sala y venía seguido a la provincia", denunció Joaquín Millón, en diálogo con AM 950 Radio Belgrano. El fiscal fue a la Justicia y amplió una acusación contra el ex ministro de Planificación Federal, Julio De Vido, y sus subordinados:el detenidoLópez, Roberto Baratta y Germán Nivello,por los millones que le giraron a la Tupac Amaru. "La irregularidad más clara fue que desde Jujuy las obras se daban por terminadas 3 meses antes de otorgar esos adicionales, pero esto no estaba en la regulación que establecía e propio ministerio", explicó.Y agregó: "Esto lo firmaba Nivello. que estaba bajo la coordinación de López" Leé también: Piden investigar si los millones de José López son "retornos" de la Tupac Amaru Para el funcionario judicial, el dinero encontrado en los bolsos que el ex secretario de Obras Públicas quería esconder en un convento de General Rodríguez puede ser parte de "los retornos que debían ser aplicados a la obra pública". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160220_0005 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160220_0005_0d2";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Los millones de Milagro: otra extracción de $14 millones captada en video',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/20/VID/CLAVID20160220_0005/video_web.flv",
+        image: "http://images.clarin.com/ciudades/millones-Milagro-extraccion-captada-video_CLAVID20160220_0005_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160220_0005',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/20/VID/CLAVID20160220_0005/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/8/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/ciudades/millones-Milagro-extraccion-captada-video_3_1526277362.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160220_0005.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160220_0005){
+            //getBBTStats_CLAVID20160220_0005();
+            varModIdReprod_CLAVID20160220_0005 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+Además, detalló que faltaban construir en la provincia 1.800 viviendas, que había 500 en construcción, pero que figuraban como finalizadas."Detectamos un fraude a la administración por 700 millones de pesos y ampliamos la denuncia", explicó. "Ellos gestionaban obras y tenían una parte de ese retorno. Vamos a investigar a López porque en Jujuy faltan obras y hay otras sin terminar", sostuvo. Leé también: Polémica por las criptas del convento al que López llevó millones El fiscal se refirió también a los dichos de la diputada provincial Mabel Balconte, quien reveló los viajes de Sala a la Quinta de Olivos y los encuentros con De Vido, López y Nivello.
+
+La dirigente de la Tupac y la diputada provincial Balconte. "Tenemos muchísima información y estamos analizando los videos. Si bien es muy dificil encontrar una prueba directa pero hay muchos indicios que los dichos de Balconte son ciertos", concluyó. Leé también: "Yo vi entrar a Milagro Sala a la Quinta de Olivos" Sala y López, además de haber tenido relación con los millones que se movieron en obra pública durante el kirchnerismo y de encontrarse ambos en prisión en la actualidad, comparten una misma situación respecto a sus bancas en el Parlasur.
+
+López detenido y una de las valijas con millones que tenía en su poder. Ambos deberán afrontar los pedidos de expulsión del cuerpo legislativo. Por ahora, fracasó el primero intento de hacerlo con el ex funcionario. Leé también: Fracasó un primer intento de expulsar a López del Parlasur Aunque la diputada de Cambiemos, Mariana Zuvic, envió la iniciativa por comisión para votar por mayoría simple en el plenario y que ambos sean echados del parlamento del Mercosur.

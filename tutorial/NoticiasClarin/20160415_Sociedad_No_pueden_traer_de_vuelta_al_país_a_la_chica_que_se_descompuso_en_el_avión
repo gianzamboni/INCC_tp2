@@ -1,0 +1,20 @@
+
+María Elina Bernasconi viajaba a Tailandia con amigos, pero en pleno vuelo sufrió una embolia pulmonar. La internaron de urgencia en Qatar, con muerte cerebral. El gobierno provincial de Catamarca le confirmó a los familiares que ellos se harán cargo del traslado en el avión sanitario. Pero el viaje todavía no fue autorizado. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Acaba de llamarme su hermana y me da la información de que, aparentemente, María Elina no está autorizada a viajar hacia Argentina todavía", dijo su primo, Fernando Rivas, en diálogo con TN. Agregó que "hoy es un día que no se trabaja en Qatar" y que "no salió el informe oficial". Mirá también: Confirman la relación entre el zika y la microcefalia en los bebés La joven tiene 29 años, es traductora de inglés y trabaja en el registro automotor de la capital de Catamarca. "Es una chica sana, sin ningún tipo de problemas, sin vicios. Una chica común, que teóricamente era muy sana", definió su primo. Consultado sobre si tenía trombofilia o trombosis venosa profunda, Rivas negó que su prima tuviera algún diagnóstico de ese tipo.  
+
+Contó que la joven se descompensó 45 minutos antes de la bajada del avión, en Qatar, donde tenía una escala. No despertaba. "Cuando no la pueden despertar, sus compañeros - que estaban en otra fila de asientos- llamaron a emergencias y la llevaron al hospital. Según los médicos hacía 45 minutos que estaba en ese estado", detalló. Mirá también: Murió el hombre herido de una pedrada en un colectivo Agregó que la familia está conforme con la forma en que la están atendiendo. "Tengo conocimiento por una prima de ella, que vive cerca de Qatar y está con ella desde el primer día, que la atención es excelente. Está en un hospital de una tecnología de primera. Hacen todo lo posible por mantenerla con vida", precisó Rivas.

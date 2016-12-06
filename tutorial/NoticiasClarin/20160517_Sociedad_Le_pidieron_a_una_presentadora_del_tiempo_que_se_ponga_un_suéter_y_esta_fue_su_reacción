@@ -1,0 +1,69 @@
+
+La presentadora del tiempo de la cadena KTLA de Los Ángeles, Liberté Chan, vivió un momento muy incómodo cuando los directivos del canal le pidieron -en vivo- que se ponga un suéter después de que los espectadores calificaran de “inapropiado” el vestido negro con lentejuelas que llevaba puesto. No es la primera vez que sucede alguna polémica con “las chicas del tiempo” en la televisión, donde algunos canales de noticias las utilizan para obtener mayor rating.  En el video se puede ver cómo un compañero del programa le ofrece un suéter en directo, y la presentadora se lo coloca sin entender lo que está pasando. “¿Quieres me ponga esto?, ¿Por qué?, ¿Porque hace frío?”, pregunta Chan al equipo. “Estamos recibiendo muchos correos electrónicos”, se escucha decir a uno de sus compañeros. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ El video se convirtió en todo un fenómeno viral y las redes sociales se inundaron de comentarios sobre el tema. “Parecía que Liberté Chan se quedó hasta tarde de fiesta y llegó a trabajar con el mismo vestido. No es apropiado para un uniforme del tiempo. Los productores del programa no tendrían que haber permitido que trabajara así”, comentaba un espectador, según cuenta el diario La Vanguardia. También hubo defensores que argumentaron que las críticas hacia su look eran muy sexistas.  Para defenderse de las críticas, la propia meteoróloga se disculpó en su blog personal y aseguró que el vestido de lentejuelas que llevó fue un “vestido de emergencia” porque el que había elegido en un primer lugar generaba un mal efecto en pantalla. Even if it's early in the AM, can't beat a black beaded dress @KTLAMorningNews @AidanMattox @PistolandStamen pic.twitter.com/HYy1KUMYH1— Liberté Chan (@libertechan) 14 de mayo de 2016
+  “Trabajo en televisión desde hace 10 años y aprendí que cada uno tiene su opinión y que se debe ser prudente. Es un medio visual, a veces tu atuendo funciona y otras no. De verdad que amo mi trabajo, respeto a mis jefes y me encanta trabajar con mis compañeros. Quiero que sepan que nunca fue mi intención ofender a nadie”, concluye en su blog la presentadora.  Las chicas del tiempo son para algunos canales la estrategia a la que recurren las estaciones de TV para obtener mayor rating. La chica linda de curvas llamativas parece estar en alza. Un canal de noticias de Albania -con la excusa de mostrar “transparencia en las noticias”- directamente puso a su presentadora casi en topless a dar las informaciones del tiempo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Sin llegar a ese extremo, la popular cadena mexicana Televisa eligió a una bella modelo para dar el pronóstico. Y logró disparar la audiencia. Se trata de Yanet García, una joven de 25 años que llama la atención por la ropa que usa: siempre son conjuntos cortísimos y ajustados, que resaltan sus curvas y su generoso escote. Por ejemplo en el diario El País de España, destacan que la chica "irrumpe como un huracán" en la TV mexicana. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Otra presentadora del clima mexicana también generó polémica con su vestimenta y llegó a ser trending topic en en Gran Bretaña. Es que el diario Daily Star la bautizó a Susana Almeida como “la chica del clima más sexy del mundo", debido a su calza hiperajustada que marcó mucho más que las temperaturas ascendentes de México.     Buenos días!😘 #working #onair #canal4 #noticias #pronosticodeltiempo #reddress #redlips #blackhighheels #feelinggreat 😊😘 Una foto publicada por @susyalmeida1 el 17 de Feb de 2016 a la(s) 6:39 PST
+     Buenas noches! 🌟🌙 Una foto publicada por @susyalmeida1 el 14 de Ene de 2016 a la(s) 7:35 PST
+  ¿Y si esto pasara en Argentina?

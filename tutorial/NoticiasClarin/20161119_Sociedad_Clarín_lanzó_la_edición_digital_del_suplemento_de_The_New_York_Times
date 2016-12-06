@@ -1,0 +1,18 @@
+
+Con un acto realizado ayer, se lanzó la edición digital del suplemento The New York Times Internacional Weekly en Clarin.com. Se trata de la primera en todo el mundo para esta selección de noticias del diario estadounidense que cuenta con versiones en 4 idiomas en 17 países. La versión digital se suma a la edición impresa que sale los sábados con Clarín desde 2006 y aportará, además de los artículos sobre política internacional, arte y tendencias, los videos producidos por el Times, que se agregarán una vez por día. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El evento contó con la participación de políticos, empresarios, periodistas y figuras del mundo del cine y la televisión. Así, conversaron animadamente el jefe de gabinete Marcos Peña, la gobernadora bonaerense María Eugenia Vidal, el jefe de gobierno porteño Horacio Rodríguez Larreta y los diputados del Frente Renovador, Sergio Massa y del PJ, Diego Bossio. Junto a ellos se vio también al radical Jesús Rodríguez, actual auditor de la AGN, al titular de la Cámara de Diputados, Emilio Monzó, y a legisladoras como Mariana Zuvic y Graciela Ocaña. Estuvieron también el director de programación de Canal 13, Adrián Suar, los directores del film “El Ciudadano Ilustre”, Mariano Cohn y Gastón Duprat; María Laura Santillán, que condujo el evento, Magdalena Ruiz Guiñazú, Cristina Pérez (Telefé) y Carolina Cayazzo de la CNN. Asistieron además los embajadores de Estados Unidos, Noah Mamet, y de Israel, Ilan Sztulman, entre otros diplomáticos. Y los secretarios de medios de la Nación, la Ciudad y la Provincia, Jorge Grecco, Marcelo Nachón y Mariano Mohadeb. Del Grupo Clarín concurrieron los accionistas Héctor Magnetto y José Aranda, con Marcela y Felipe Noble Herrera y Marcia Magnetto. También participaron Jorge Rendo, Martín Etchevers, Pablo Casey y Hernán Verdaguer. Por el diario, asistieron Héctor Aranda, Ricardo Kirschbaum, Ricardo Roa, Fernando Fronza, Daniel Fernández Canedo, Marcelo Cantón, Silvia Fesquet, Julio Blanck, Eduardo Van der Kooy y Miguel Wiñazki. Desde temprano hubo presencia empresaria. Estuvieron, entre otros, el presidente de IRSA, Eduardo Elsztain; el de Pampa Energía, Marcelo Mindlin; el empresario Benito Roggio, Daniel Novegil de Techint, Jaime Campos de AEA, Federico Procaccini, de Google; Luis Galli, de Newsan; Guillermo Stanley y el productor agropecuario Santos Uribelarrea. Otros presentes fueronlos directores de comunicación de importantes empresas como Daniel Felici, Gonzalo Verdomar Weiss, Federico Etienott, Geraldina Marino, Alejandro Anderlic, Lucila Maldonado, Felicitas Castrillón y Sebastián Delgui, entre muchos otros. En la presentación habló el vicepresidente de The New York Times Company, Michael Golden, quien manifestó su satisfacción por los valores compartidos por ambos diarios. “La gente necesita más herramientas para poder entender la realidad. Estamos orgullosos de encarar este proyecto con Clarín, con quien tenemos una relación que ya lleva más de 25 años”. Junto a él estaban Alice Ting, vicepresidenta de Desarrollo de Marca y Licencias del NYT, y Christopher LaLime, director para Latinoamérica, quienes viajaron también especialmente para el lanzamiento. Por su parte, Ricardo Kirschbaum enfatizó el compromiso de Clarín para afianzar su plataforma digital y la calidad de sus contenidos y rescató una frase del propio Golden: “Michael siempre dice que The Times es una empresa digital que también tiene un diario”.

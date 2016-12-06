@@ -1,0 +1,34 @@
+
+Una impresionante invasión de langostas azota nuevamente a la ciudad santiagueña de Frías: tomaron campos, calles y árboles.Los insectos siempre aparecen en la provincia y desde principios de año están en Frías, una localidad de menos de 30 mil habitantes, ubicada al sudoeste de la provincia, casi en el límite con Catamarca.La gran cantidad de langostas genera preocupación en los pobladores, ya que representa una amenaza para los sembrados de la zona. Ya se han realizado fumigaciones, pero el problema persiste.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En uno de los videos que circulan en Youtube y fueron reproducidos también por medios locales, pueden verse paredes que aparentan estar pintadas de negro por la masiva cantidad de langostas amontonadas. También se visualiza un árbol completamente tomado por los insectos.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Las langostas tienen un tamaño aproximado de cinco centímetros y se caracterizan por su facilidad para migrar y reproducirse rápidamente. Son incapaces de volar hasta que se convierten en adultos. Pueden llega a formar devastadoras plagas capaces de acabar con la vegetación. La migración les permite evitar la competencia por el alimento.El año pasado se registró en la provincia una "manga" de langostas que abarcó unos 5 kilómetros de frente por 10 de largo, y azotó a una amplia zona productiva. 

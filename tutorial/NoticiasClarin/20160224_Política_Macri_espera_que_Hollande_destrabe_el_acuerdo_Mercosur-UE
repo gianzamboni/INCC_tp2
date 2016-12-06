@@ -1,0 +1,68 @@
+
+Con la llegada del presidente François Hollande, hoy, a Buenos Aires, las relaciones con Francia materializarán su nuevo rumbo, 19 años después de la última visita en su tipo que hizo Jacques Chirac, en 1997. Además de la veintena de acuerdos que firmarán los dos gobiernos en esta visita, en materia agrícola, en defensa, en seguridad, en asuntos nucleares, culturales, educativos, técnicos y deportivos, el Gobierno aspira a que en suelo argentino Hollande se comprometa a abrir las negociaciones entre el Mercosur y la Unión Europea para alcanzar un acuerdo de libre comercio al que aspiran desde los años ‘90.  En la última reunión de ministros de Comercio de la Unión Europea de noviembre, fue Francia la que –con sus políticas hiperproteccionistas en materia agrícola– se opuso a que la UE comenzara el primer intercambio de ofertas comerciales con el Mercosur. De esta manera, los dos bloques fracasaron en su intento de concretar el intercambio para antes de que terminara 2015. Francia, Polonia e Irlanda son de los países más duros a la hora de negociar sus mercados agrícolas. “El capítulo que trabó esos acuerdos fue el agrícola. y Francia es el gran protagonista en ese sentido. Depende mucho de Hollande”, dijo Macri en una entrevista con medios franceses antes de la visita de su colega y que fue publicada ayer. 
+
+
+“El capítulo que trabó esos acuerdos fue el agrícola. y Francia es el gran protagonista en ese sentido. Depende mucho de Hollande”, dijo Macri
+
+
+
+
+
+var act_453 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_453 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_453.setTitle('&ldquo;El cap&iacute;tulo que trab&oacute; esos acuerdos fue el agr&iacute;cola. y Francia es el gran protagonista en ese sentido. Depende mucho de Hollande&rdquo;, dijo Macri');
+act_453.setSubtitle('La visita del presidente francés'); 
+act_453.setLinkBack('http://www.clarin.com/politica/Macri-Hollande-destrabe-acuerdo-Mercosur-UE_0_1528047642.html');
+act_453.setDescription('El presidente cree que si Francia flexibiliza las trabas que pide el agro europeo, se puede avanzar en un tratado');
+act_453.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Macri-Hollande-destrabe-acuerdo-Mercosur-UE_0_1528047642.html');
+
+var showShareBarUI_params_453=
+{ 
+containerID: 'shareQuote_453',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_453,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_453
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_453);
+ Para el presidente argentino, el camino de un tratado de libre comercio entre el Mercosur y la UE es una de sus prioridades en la agenda exterior. Eso mismo le dijo al primer ministro de Francia, Manuel Valls, cuando se encontraron en Davos en enero. Mirá también: Hollande: "Francia apoya las diligencias de Argentina para lograr una solución de la cuestión central de la deuda" Además, son cuatro de los cinco miembros plenos del Mercosur los que quieren alcanzar un acuerdo ya con la UE y quieren abrir la negociación ahora que Uruguay está en la presidencia pro témpore del bloque. En el segundo semestre asume Venezuela el control, y como ya se ha oído de las autoridades de Caracas, el gobierno de Nicolás Maduro está presentando obstáculos a estas negociaciones, que ve como una “estrategia colonizadora” de parte de Europa para exportar sus excedentes a América latina. En la entrevista con los medios franceses, Macri también dijo que las negociaciones con los fondos buitre, “nos va a liberar energías en función del desarrollo, la inversión y la generación de trabajo”. Y además dijo estar “optimista” sobre la posibilidad de llegar a un acuerdo final. Los argentinos esperan de los franceses otro gesto de apoyo como lo hicieron bajo el gobierno de Cristina Kirchner en estas negociaciones y en la necesidad de conseguir financiamiento internacional. Hollande llegará este mediodía a Buenos Aires acompañado por ministros y por un importante grupo de empresarios y su primera actividad será en la Plaza San Martín junto a la canciller Susana Malcorra, con quien rendirá homenaje al Libertador. Después, se dirigirá a la Casa Rosada para el comienzo de sus actividades con Macri, con quien cenará esta noche en el Museo del Bicentenario. 

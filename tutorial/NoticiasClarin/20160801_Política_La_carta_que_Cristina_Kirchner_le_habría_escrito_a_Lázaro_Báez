@@ -1,0 +1,35 @@
+
+Periodismo para Todos difundió anoche una carta que le habría hecho llegar Cristina Fernández de Kirchner a Lázaro Báez, en un hecho ocurrido diez días después de la detención del empresario kirchnerista. La misiva, según el informe periodístico, fue entregada por Daniel Álvarez —secretario privado de Cristina— a Leandro Báez, uno de los hijos de Lázaro, con el objetivo de hacérsela llegar al padre. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En la carta, CFK le da sugerencias a Báez sobre cómo manejar el proceso judicial. El texto fue escrito a mano, según lo trascendido, por una asistente de la ex mandataria.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Joven y empresario: el perfil de Leandro Báez Santiago Viola, uno de los abogados de los hermanos Leandro, Luciana y Melina Báez, había hablado meses atrás sobre la existencia del documento y dijo que lo haría público "en el momento oportuno". Al día de hoy la carta no forma parte del expediente que instruye el juez federal Sebastián Casanello, pero dejaría ver, de ser confirmada su autenticidad, el interés que la ex presidenta tiene sobre "La ruta del dinero K".  La carta de CFK a Lázaro Baez. #LaMordidita pic.twitter.com/ztYr4LGRVx— PeriodismoParaTodos™ (@PPT2016) 1 de agosto de 2016
+

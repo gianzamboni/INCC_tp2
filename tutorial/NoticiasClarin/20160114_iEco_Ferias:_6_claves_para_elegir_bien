@@ -1,0 +1,134 @@
+
+Muchas pymes, al decidir participar en una exposición, contratan a un profesional que diseñe y realice su stand, Antes de decidir a quién contratar, conviene contestarse las siguientes preguntas:1) ¿En qué exposición conviene participar?Hay que informarse sobre quién es convocado para asistir, pues algunas son sólo para profesionales del sector, otras para el público en general, y otras, mixtas. También saber qué otras firmas participarán y cuáles son las actividades paralelas que se ofrecen. Con toda esta información, la empresa debe definir a qué tipo de cliente quiere apuntar.2) ¿Qué desea transmitir con ese espacio?Antes de pedir presupuestos, debe definirse qué imagen desea comunicar a los visitantes, si va a utilizar un espacio estándar o uno hecho a medida (artesanal), qué expectativas proyecta cumplir, y qué recursos puede asignar al evento. En este punto es importante tener en cuenta que el presupuesto no debe cubrir sólo el lote y realización del stand, sino también los insumos de trabajo (alquiler de equipos, folletería y carpetas, obsequios, y más) y honorarios (promotoras, vendedores). 3) ¿Cuál es el costo de diseño y armado de un stand?Es un aspecto difícil de estimar, pues los stands no deben cotizarse por metro cuadrado. Antes de definir un precio, quien va a realizarlo debe considerar factores como el lugar de la exposición, duración del evento, qué tipo de producto o servicio se va a exponer, cuál es el equipamiento necesario, si se trata de un diseño exclusivo o estándar, así como la cantidad de gente que estará trabajando.
+
+
+El diseño y armado de un stand se cotiza por el lugar de la exposición, el producto a exponer, la duración del evento, el equipamiento a usar, el grado de exclusividad del diseño y la cantidad de gente que estará trabajando. pero no debe cotizarse según los m2 que ocupará.
+
+
+
+
+
+var act_d0f = new gigya.socialize.UserAction();
+
+var emailBodyCustom_d0f = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_d0f.setTitle('El diseño y armado de un stand se cotiza por el lugar de la exposición, el producto a exponer, la duración del evento, el equipamiento a usar, el grado de exclusividad del diseño y la cantidad de gente que estará trabajando. pero no debe cotizarse según los m2 que ocupará.');
+act_d0f.setSubtitle('Stands.'); 
+act_d0f.setLinkBack('http://www.clarin.com/ieco/emprendedores/Exposiciones-claves-elegir-bien_0_1503449976.html');
+act_d0f.setDescription('El diseño y armado de un espacio en una exposición puede definir el éxito de una inversión importante. Para ello, plazos, costos, usos y objetivos deben estar alineados');
+act_d0f.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/emprendedores/Exposiciones-claves-elegir-bien_0_1503449976.html');
+
+var showShareBarUI_params_d0f=
+{ 
+containerID: 'shareQuote_d0f',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_d0f,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_d0f
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_d0f);
+4) ¿Puede usarse el stand en otros eventos?Salvo que desde el comienzo se estipule lo contrario, en general los stands se alquilan. Algunos son diseñados especialmente para volver a armarse, pero ello implica traslados, almacenamiento, etcétera.5) ¿Con cuánta anticipación debe encargarse?Cuando la empresa reserva el espacio ya puede acceder a los manuales del expositor. Éstos tienen toda la información necesaria para quienes van a diseñar y construir el stand e incluyen las especificaciones técnicas pertinentes en cuanto a materiales, red eléctrica, aspectos de seguridad, etc. También aclaran cuánto tiempo habrá para el armado y desarme. Según el rubro, hay exposiciones que se realizan de manera semestral (por ejemplo, las de indumentaria o las de regalos) mientras que otras se organizan una vez por año o cada 24 meses. Aun así, lo ideal es consultar a quien va a realizar el stand desde el primer momento, ya que requiere tiempo aunar el diseño, la estética y la funcionalidad del espacio con los objetivos comerciales de la empresa. Hoy, se manejan plazos de entre tres y cuatro meses previos a la exposición.
+
+
+3 a 4 meses antes de la feria es el plazo usual para encargar el stand. Antes, hay que reservar el espacio, para acceder a los manuales del expositor.
+
+
+
+
+
+var act_6e2 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_6e2 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_6e2.setTitle('3 a 4 meses antes de la feria es el plazo usual para encargar el stand. Antes, hay que reservar el espacio, para acceder a los manuales del expositor.');
+act_6e2.setSubtitle('Stands.'); 
+act_6e2.setLinkBack('http://www.clarin.com/ieco/emprendedores/Exposiciones-claves-elegir-bien_0_1503449976.html');
+act_6e2.setDescription('El diseño y armado de un espacio en una exposición puede definir el éxito de una inversión importante. Para ello, plazos, costos, usos y objetivos deben estar alineados');
+act_6e2.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/emprendedores/Exposiciones-claves-elegir-bien_0_1503449976.html');
+
+var showShareBarUI_params_6e2=
+{ 
+containerID: 'shareQuote_6e2',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_6e2,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_6e2
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_6e2);
+6) ¿Cómo se atrae la atención del público?Cada caso es diferente y depende de la exposición, el tipo de público, lo que se exhiba, etcétera. El stand es una extensión de la oficina-empresa-marca, por lo que la arquitectura de ese espacio debe ser acorde con la imagen corporativa. Luego, existen infinitas opciones para atraer visitantes. Una de ellas y cada vez más importante es la tecnología aplicada al espacio a través de juegos interactivos, hologramas, pantallas touch, video wall, proyecciones inmersivas y realidad aumentada. Cada caso es particular y depende del fin comercial o institucional del stand. Pero, sin duda, hay que enriquecer la visita de los asistentes, invitándolos a vivir cada vez más y mejores experiencias.(*) Pablo Ruda es desde 2005 CEO de BDG Buenos Aires, una empresa de arquitectura publicitaria y comunicación. Es, además, licenciado en administración por la Universidad de Buenos Aires.

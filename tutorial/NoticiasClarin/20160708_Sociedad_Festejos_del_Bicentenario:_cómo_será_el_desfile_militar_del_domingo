@@ -1,0 +1,36 @@
+
+El presidente Mauricio Macri, encabezará el domingo próximo un desfile con la participación de 17 bandas militares de nuestro país y de 11 naciones invitadas que participarán de una parada militar que recorrerá la avenida del Libertador hasta el Campo Argentino de Polo, en el barrio porteño de Palermo, en el marco de los festejos por los 200 años de la Independencia. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Rolando1Rivero/status/751403874867642368",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75140387486764236")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ A partir de las 11, alrededor de mil efectivos de las Fuerzas Armadas argentinas, con uniformes históricos, así como delegaciones de Bolivia, Chile, España, Estados Unidos, Francia, Italia, Marruecos, Paraguay, Perú y Uruguay desfilarán desde la avenida del Libertador y Salguero hasta el Campo Argentino de Polo.  Cada banda militar presentará un repertorio representativo de la música de su país y participarán en la parte final de la ceremonia de un carrusel, en el que todas las formaciones se desplazarán sobre el campo de la cancha de polo, formando figuras y cruzándose entre sí, con sus vestimentas típicas e históricas. Las bandas representativas de nuestro país estarán formadas por efectivos del regimiento de Infantería "Patricios"; la Fanfarria Alto Perú del Regimiento de Granaderos a Caballo; del Colegio Militar y de la Armada, entre otras unidades. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_gvlis2mv",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_gvlis2mv"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_gvlis2mv").after(scriptEl);
+ Con su presencia, Macri retomará una tradición enraizada con los tiempos de la organización nacional, que se extendió durante el siglo XX. En 1916, al celebrarse el primer Centenario de la Independencia, el entonces presidente Victorino de la Plaza encabezó un desfile militar en la ciudad. 

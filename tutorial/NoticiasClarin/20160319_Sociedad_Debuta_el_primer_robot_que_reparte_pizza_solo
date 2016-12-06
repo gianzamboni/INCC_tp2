@@ -1,0 +1,18 @@
+
+La cadena de comida rápida Domino's Pizza anunció ayer que utilizará robots para su servicio de entrega de pizzas en Nueva Zelanda. Según informaron, además, serán los primeros en realizar esta tarea en el mundo.   
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Los robots , que se llaman DRU, tienen compartimentos para cargar 10 pizzas y bebidas, y utilizan GPS y sensores láser para desplazarse por la ciudad y llegar hasta los casas de los clientes a una velocidad máxima de  entre 18 y 20 kilómetros por hora. "DRU es entrañable y estamos seguros de que algún día se convertirá en una parte integral de la familia de Domino ", sostuvo el gerente general de la cadena en ese país.  Mirá también: Hilton incorporará robots a sus hoteles La iniciativa no tiene una fecha oficial  de inicio pero sí cuenta con todo el apoyo del gobierno de Nueva Zelanda. El ministro de Transporte Simon Bridges, la definió como una gran oportunidad que tiene el país para ayudar a probar nuevas tecnologías . Lo que no se sabe, aún , es si DRU aceptará propina...  Fuente: AFP Y EFE

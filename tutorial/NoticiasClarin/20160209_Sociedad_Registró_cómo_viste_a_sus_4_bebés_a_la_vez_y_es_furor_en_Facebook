@@ -1,0 +1,127 @@
+
+Cualquier padre o madre sabe que un bebé demanda gran atención, y si en vez de uno son cuatro, la tarea se transforma en una epopeya. Esa es la vida de Corrie Lyn-Whyte, de 26 años, madre de unos trillizos de ocho meses y de una niña de dos años que fue filmada por su pareja al momento de cambiar a sus cuatro hijos al mismo tiempo, lo que la transformó en una verdadera 'supermamá', como la llamaron en las redes sociales.Dan Gibson, pareja de la mujer, decidió grabar la rutina de esta supermamá: vestir a sus cuatro hijos al mismo tiempo sin perder el control de la situación. Todos, sin excepción, son inquietos, tanto que por momentos parece que se fueran a caer de la cama. Corrie, sin embargo, nunca pierde el control de la situación. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160209_0008 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160209_0008_e50";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'La supermamá que viste a sus trillizos al mismo tiempo',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/09/VID/CLAVID20160209_0008/video_web.flv",
+        image: "http://images.clarin.com/sociedad/supermama-viste-trillizos-mismo-tiempo_CLAVID20160209_0008_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160209_0008',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/09/VID/CLAVID20160209_0008/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/supermama-viste-trillizos-mismo-tiempo_3_1519678025.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160209_0008.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160209_0008){
+            //getBBTStats_CLAVID20160209_0008();
+            varModIdReprod_CLAVID20160209_0008 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+El video fue publicado en la página de Facebook ‘The baby gang’ y consiguió más de 54 millones de reproducciones, fue más de un millón de veces compartido y obtuvo hasta ahora 572 mil 'me gusta'. “Yo no podría soportar esto. Perdí las ganas de tener hijos”, bromea una de las usuarias que escribió en los comentarios del video. “¡Te merecés una medalla!”, opina una mujer que destaca la supuesta facilidad con que Corrie desarrolla su sacrificada tarea. Leé también: "Un gato pirata, furor en Facebook" La mujer además fue entrevistada por el sitio ABC news y allí dijo que “es muy divertido” cuidar a sus pequeños. Sin embargo admitió que debe "mantener una vigilancia constante sobre ellos todo el tiempo", pero lo consigue con el apoyo de su marido. Leé también: "Los gemelos prematuros que se toman de la mano, furor en Internet" “En ese momento la parte más difícil es encontrar un equilibrio entre las necesidades de tres bebés de 8 meses y una niña de dos años. Todos quieren su atención, mientras van en cuatro direcciones diferentes”, dijo esta mujer que ya se ganó el título de supermamá.

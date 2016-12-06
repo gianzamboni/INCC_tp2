@@ -1,0 +1,22 @@
+
+Luego de que falleciera una nena de doce años que se golpeó la cabeza mientras realizaba “culipatín” sobre el techo ondulado del Centro Cultural Córdoba, las autoridades decidieron asignar dos policías a la zona para evitaresta riesgosa práctica. Mirá también: Centro Cultural Córdoba  El lunes murió Selene Córdoba, una nena de doce años que el sábado pasado se había golpeado la cabeza contra una valla que se había colocado en la explanada del centro cultural ubicado en la capital cordobesa.
+
+ Como consecuencia de esta tragedia, la Provincia decidió poner fin de manera taxativa a esa práctica divertida pero riesgosa. Para hacerlo, instaló una doble consigna policial permanente con la orden de impedir cualquier intento: un policía estará parado en el ingreso a la explanada, y el otro recorrerá la parte alta del techo que hace las veces de mirador. Esto, mientras se analiza una solución definitiva que será consensuada por funcionarios, los diseñadores de la obra y especialistas.
+
+
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El gobernador Juan Schiaretti prometió tomar "las medidas de precaución adecuadas" y ayer al mediodía ya se observaban policías custodiando el lugar. "Si bien sé que los chicos utilizan 'el culipatin' tenemos que tomar las medidas adecuadas. Lamento profundamente la muerte de esta adolescente", aseguró el funcionario. Leé también: "Tenía 12 años y murió en una improvisada pista de culipatín"  El tema abrió un debate: por un lado, están quienes sostienen que es culpa de los padres porque dejan a los chicos solos; por otro, quienes creen que el Estado debería controlar más. En medio del dolor, Diego Córdoba, el padre de Selene, opinó: “Tendrían que cerrarlo y que no entre más nadie”.

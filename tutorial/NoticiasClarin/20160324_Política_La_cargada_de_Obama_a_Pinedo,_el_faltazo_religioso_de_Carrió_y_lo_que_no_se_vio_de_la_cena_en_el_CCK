@@ -1,0 +1,132 @@
+
+EL SALUDO DE OBAMA A PINEDO. Desde que tuvo que ocupar la Presidencia provisional del país, ante la negativa de Cristina Fernández de Kirchner de participar del traspaso de mando con Macri, el fugaz mandato de Federico Pinedo fue fuente de cargadas de todo tipo. Pero también de movidas virales en redes sociales, como la que llevó adelante House of Cards, la serie protagonizada por Kevin Spacey que definió su paso por el poder como “la más perfecta en la historia de la democracia”. Esa situación se coló en la cena de honor de anoche en el momento en que Macri lo presentó con el mandatario estadounidense. -El amigo de Frank Underwood- lo introdujo Macri mientras Obama le daba la mano.-Oí que hizo un gran Gobierno y que la gente estaba muy contenta- comentó el norteamericano.  Pinedo río ante la situación. Hasta Obama lo cargó. EL VESTIDO DE LA PRIMERA DAMA. Juliana Awada deslumbró a todos con su look. La esposa del presidente Mauricio Macri lució un vestido de Gabriel Lage que consistía en una falda en línea volumétrica y escote bote en color acero. El corsage del vestido estaba realizado en transparencia piel, aplicada íntegramente a mano con motivos de encaje color chantilly. Según supo Clarín, se adhirieron al vestido 15 capas de tul para lograr una falda sin frunces en la cintura y ninguna costura a la vista, pero manteniendo el importante volumen.  El vestido de la primera dama. FALTAZO "SANTO" DE LILITA. La diputada Elisa Carrió fue una de las invitadas a la cena de honor, pero pegó un inesperado faltazo. La diputada oficialista, decidió recluirse en la oración y se basó en “razones religiosas” para explicar su decisión de no asistir al CCK. “Lamento profundamente no poder asistir esta noche, pero por razones religiosas y dado que son los días sagrados de Semana Santa, son para mi, días dedicados a la introspección y la oración. Regla de la que no me aparto nunca. Sepan todos disculparme”, les escribió a los Obama, ayer. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/elisacarrio/status/712672021432442880",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71267202143244288")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ En el mensaje que les dedicó a ambos en Facebook, Lilita expresó que “fue muy bueno para la humanidad entera que ustedes llegaran a la Presidencia de la democracia americana”. Y agregó: “Sé lo que debieron sufrir por no ser blancos, pero es un canto a la condición humana que Michelle sea primera dama en una nación donde su familia fue esclava”. Por la Coalición Cívica dijeron presente el diputado Fernando Sánchez, mano derecha de Lilita, a quien se vio sentado junto a Miguel Braun, secretario de Comercio Interior, en la mesa en la que también estaban Fernando Marín, mandamás del Fútbol para Todos, y Pablo Torello. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/MarianaZuvic/status/712827690634625024",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71282769063462502")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mariana Zuvic, parlamentaria del Mercosur y una de las dirigentes de confianza de Carrió, también representó al partido de la excandidata presidencial y se la vio conversando animadamente con el flamante embajador en España, el misionero Ramón Puerta, amigo de Macri. Algunos presentes comentaron por lo bajo que él le habló toda la noche y casi no se le despegó. ADELANTE, RADICALES... El ex senador Ernesto Sanz, arquitecto junto a Carrió del frente Cambiemos y la alianza con Macri, tampoco concurrió. Decidió quedarse en Mendoza por compromisos familiares. Pero su partido, sin lugar a dudas, fue -junto al PRO- mayoría en el salón de los escudos del CCK. En las lista de invitados figuraban todos los gobernadores y ministros de radicalismo, así como las segundas líneas ministeriales. Ricardo Colombi de Corrientes, Gerardo Morales de Jujuy, Alfredo Cornejo de Mendoza; los ministros Ricardo Buryaile, Julio Martínez, Oscar Aguad y el titular del Plan Belgrano, José Cano, dijeron presente.  
+
+
+Felipe Solá compartió mesa con el mellizo Barros Schelotto.
+
+
+
+
+
+var act_21c = new gigya.socialize.UserAction();
+
+var emailBodyCustom_21c = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_21c.setTitle('Felipe Solá compartió mesa con el mellizo Barros Schelotto.');
+act_21c.setSubtitle('Visita del presidente de EE.UU.'); 
+act_21c.setLinkBack('http://www.clarin.com/politica/Obama-Pinedo-religioso-Carrio-CCK_0_1546045684.html');
+act_21c.setDescription('Hubo rosca política, celebridades, pocos cholulos y un increíble operativo de seguridad. El vestido de Juliana Awada, los nervios de Juanita Viale y las selfies del PRO.');
+act_21c.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Obama-Pinedo-religioso-Carrio-CCK_0_1546045684.html');
+
+var showShareBarUI_params_21c=
+{ 
+containerID: 'shareQuote_21c',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_21c,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_21c
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_21c);
+ También fueron Mario Negri y Angel Rozas, titulares de los bloques en Diputados y el Senadores; José Corral, presidente del partido; Ricardo Alfonsín, Julio Cobos y Luis Naidenoff, entre otros. El senador formoseño -que se sentó en la mesa 13 con el ministro de Cultura, Pablo Avelluto, el empresario de IRSA Eduardo Elsztain, y el diputado Eduardo Costa- no pudo llevarse una foto con Obama, pero sí se lo vio feliz en una imagen que le tomaron junto a Mirtha Legrand, la diva de los almuerzos.  Naidenoff le pidió una foto a Mirtha. También posó en otra con el Presidente, junto a sus pares de la Cámara Alta, Juan Carlos Marino (La Pampa) y Oscar Castillo (Catamarca). Y se llevó más postales: una con Gabriela Michetti y otra con Hugo Moyano y el embajador en los Estados Unidos, Martín Lousteau.   Senadores radicales sonríen con Macri. TINELLI Y CAMPANELLA, DESDE TWITTER. Dos famosos ausentes fueron Marcelo Tinelli y  Juan José Campanella. El conductor de ShowMatch -que mantiene una relación por momentos tensa con Macri- agradeció la invitación vía Twitter. “Gracias por la invitación al Presidente @mauriciomacri y a su Sra. a la Cena de Gala de hoy. Estoy de viaje. Me encantaría estar presente”. Y luego, al ver el tango de Obama, lanzó: “Obama al Bailando!!!!!!! Lo hablo sin falta mañana con @mauriciomacri”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El director de cine, en tanto, se sorprendió al leer que había asistido al CCK. “Leo en La Nación que ayer estuve en la cena con Obama. Lamentablemente no pude ir, por estar de viaje. Es un honor haber sido invitado”, aclaró en Twitter. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/juancampanella/status/712947212926451712",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71294721292645171")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ LOS NERVIOS DE JUANITA. Se llevó todas las miradas y su sola presencia generó polémica. Juana Viale, la nieta de Mirtha Legrand, fue una de las mujeres más elegantes de la noche.  Juanita Viale, con Mirtha y Juliana Awada. En la recepción, donde se sirvió limonada con menta y jengibre y champagne, a la actríz, cuya inclusión en la nómina de invitados había generado debates, se la vio nerviosa. Algunos lo vincularon con esa controversia, otros un posible cruce con Martín Lousteau, embajador en EE.UU.  FONDOS BUITRE Y SELFIES. Hubo espacio para la "rosca" en el Centro Cultural Kirchner. En sus charlas, los radicales se mostraron contentos con el ritmo del Gobierno. "Estas fueron las dos mejores semanas de los 100 días", soltó uno. En el PRO, la plana mayor de funcionarios compartía ese sentimiento. Respetando la investidura de Obama, muchos prefirieron no incomodar al presidente de EE.UU. pidiéndole una foto. Eligieron posar entre ellos.   Una selfie bien PRO que subió Paula Bertol a Twitter. Entre los temas de discusión que se tocaron en las rondas de debate se coló la votación en el senado del proyecto de ley para salir del dafault. "Se van a sorprender con el número de apoyos", soltó un senador que a la hora de contar los porotos se muestra más que optimista. ¿Habrá sido uno de los tópicos de charla entre Diego Bossio, Miguel Angel Pichetto, Juan Manuel Abal Medina y Omar Perotti a quienes se vio dialogando entre copas de vino y champagne?

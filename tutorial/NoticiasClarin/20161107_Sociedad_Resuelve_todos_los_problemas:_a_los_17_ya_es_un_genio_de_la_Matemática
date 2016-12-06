@@ -1,0 +1,72 @@
+
+A algunos los problemas de Matemática no les dan dolores de cabeza sino que los llenan de medallas. Es el caso de Lucas de Amorín, que con tan sólo 17 años, logró subirse a lo más alto del podio para no bajar más. A fines de septiembre en la ciudad de Antofagasta (Chile) se realizó la XXXI Olimpíada Iberoamericana de Matemática. Allí, entre los 87 participantes que compitieron, el vecino de Wilde logró la dorada con un puntaje perfecto. Y actualmente, ya se está preparando para la Olimpíada Nacional que será este mes.
+
+La competencia en Chile, donde Lucas obtuvo el mejor resultado que lo llevó a la cima del podio, consistió en una prueba de dos días con cuatro horas y media para resolver tres problemas en cada jornada. “Los problemas apelan a su resolución a través del razonamiento lógico más que al conocimiento de teorías matemáticas”, explica Lucas. Y agrega: “Me sentí muy orgulloso y sobre todo feliz por el resultado que obtuve. Yo disfruto mucho estos viajes porque, además de descubrir nuevos paisajes y culturas, conocés a más personas a las que les gustan las matemáticas, algo poco común”. Aunque la competencia fue individual, la sumatoria de los puntos de todos los participantes nacionales lograron ubicar al país en el tercer puesto del medallero, siendo el mejor resultado de la Argentina en los últimos quince años. Mirá también: Tres chicos argentinos subieron al podio de las matemáticas El gusto por los números y los cálculos aritméticos siempre fueron un hobby en la vida de este aficionado por la ciencia. Ya desde chico, mientras cursaba la primaria, la calculadora no existía para él sino que prefería hacer las cuentas mentalmente.  “Cuando llegaba a casa con la tarea de matemáticas, yo hacía las cuentas mentalmente y anotaba directamente el resultado. Mi mamá al principio no me creía, pensaba que me copiaba de mis compañeros”, recuerda. Es así que no resulta difícil de creer que las materias vinculadas a las Ciencias Exactas fueron las que a Lucas siempre le despertaron más interés. “También me gustan mucho Física y Química, es lo que más disfruto. Además de que me interesan, me resultan muy fáciles”, asegura De Amorín. 
+
+
+Para mí los problemas ya son como un vicio, trato de resolverlos en cualquier momento", dice Lucas. 
+
+
+
+
+
+var act_a39 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_a39 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_a39.setTitle('Para mí los problemas ya son como un vicio, trato de resolverlos en cualquier momento", dice Lucas.&nbsp;');
+act_a39.setSubtitle('Pasión por los números'); 
+act_a39.setLinkBack('http://www.clarin.com/sociedad/Resuelve-problemas-genio-Matematica_0_1680432095.html');
+act_a39.setDescription('La historia de Lucas de Amorín, que se llevó la medalla dorada en la Olimpíada Iberoamericana que se hizo en Chile. Tuvo puntaje perfecto. Quiere ser investigador. ');
+act_a39.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/Resuelve-problemas-genio-Matematica_0_1680432095.html');
+
+var showShareBarUI_params_a39=
+{ 
+containerID: 'shareQuote_a39',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_a39,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_a39
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_a39);
+ Fue cuando tenía nueve años e iba a cuarto grado que comenzó a participar del taller de Matemática que se realizaba en su colegio, el Instituto Nuestra Señora de Loreto, de Sarandí. Un año más tarde lo esperaba su primera participación en una Olimpíada. “Me había ido bien pero luego en la segunda competencia no logré clasificar. Esa tarde me fui bastante mal porque no estaba acostumbrado a no entender los problemas matemáticos”, cuenta. Mirá también: Un alumno de Puerto Madryn ganó una olimpíada de tecnología Tiempo después decidió comenzar con un entrenamiento intensivo y acudir al taller de Matemáticascon su profesor Gabriel Estrany. “La verdad que él me ayudo mucho. Me enseñó a resolver los problemas con nuevas técnicas o formas prácticas”, remarca.
+
+Es hasta el día de hoy que el genio de las ciencias de Wilde lleva ocho años participando de torneos y competencias, tanto nacionales como internacionales. “Para mí los problemas ya son como un vicio. En cualquier momento estoy tratando de resolverlos. Y cuando tengo la respuesta es una gran satisfacción”, asegura. En 2014 Lucas participó de la Olimpíada de Matemática del Cono Sur que se realizó en Chile, en la cual obtuvo la medalla de plata. Luego, a principios de julio de este año, estuvo en la Olimpíada Internacional en Hong Kong, y se quedó con la de bronce. Ya sólo le faltaba la dorada que consiguió en Chile. Ahora, se prepara para el Nacional que será este mes en la ciudad La Falda (Córdoba). Contando los días para terminar la escuela, Lucas está rindiendo las primeras materias para ingresar en la Licenciatura en Ciencias Físicas. “Me gustaría hacer esa carrera, luego un doctorado y finalmente ingresar en el área de investigaciones”, destaca. Clarín Zonales

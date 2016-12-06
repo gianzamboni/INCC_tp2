@@ -1,0 +1,74 @@
+
+El informe central de Periodismo Para Todos, conducido por Jorge Lanata, mostró cuáles son los dos lugares en los que muchos ex funcionarios nacionales K encontraron refugio: Santa Cruz y La Matanza. En la provincia sureña, gobernada por Alicia Kirchner, se reflejaron los conflictos en el área de salud, una cartera dirigida por Rocío García de Kirchner, la mujer de Máximo K. Se denunció que hay una gran falta de personal y de mantenimiento. También se mostró la lucha gremial de los docentes. En el informe se reveló que hubo "500 nombramientos" en la Provincia, entre ellos el de Graciana Peñafort, quien fuera asesora legal de Martín Sabbatella en la Afsca y hoy es asesora letrada de Alicia K en la Provincia. También el caso del abogado de las Madres, Eduardo Barcesat, nombrado, también, asesor letrado en esa provincia. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_u72n5ub5",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_u72n5ub5"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_u72n5ub5").after(scriptEl);
+ 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_2z0vjr7s",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_2z0vjr7s"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_2z0vjr7s").after(scriptEl);
+ En el caso de La Matanza, encabezada por la intendenta K Verónica Magario, hay otros ex funcionarios nacionales K que hoy ocupan cargos en el municipio. Son, entre otros, los casos de Débora Giorgi (ex ministra de Industria de La Nación), Alejandro Collia (ex ministro de Salud de Daniel Scioli) y Alejandro Rodríguez (ex ministro de Agricultura de la Provincia).  
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_b6d8tekm",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_b6d8tekm"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_b6d8tekm").after(scriptEl);
+ 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_sp9q8ax2",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_sp9q8ax2"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_sp9q8ax2").after(scriptEl);
+

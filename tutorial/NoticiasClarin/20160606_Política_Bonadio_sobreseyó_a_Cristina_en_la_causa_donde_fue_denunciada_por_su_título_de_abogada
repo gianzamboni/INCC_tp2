@@ -1,0 +1,68 @@
+
+El juez federal Claudio Bonadio sobreseyó a Cristina Fernández de Kirchner en la denuncia por sospechas de que su título de abogada era apócrifo.  Luego de haber recibido información de la Universidad Nacional de La Plata, magistrado federal desestimó el caso.  Mirá también: Las durísimas acusaciones del hijo de Báez contra Casanello y Cristina Según informa el portal Infobae, el fiscal Carlos Rívolo había solicitado a la Facultad de Ciencias Jurídicas y Sociales de la Universidad Nacional de La Plata que enviara tanto el certificado analítico como el acta donde consta la expedición del título. 
+
+
+En base al certificado analítico, Bonadio decidió sobreseer a la ex Presidenta de la Nación.
+
+
+
+
+
+var act_da6 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_da6 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_da6.setTitle('En base al certificado analítico, Bonadio decidió sobreseer a la ex Presidenta de la Nación.');
+act_da6.setSubtitle('JUSTICIA'); 
+act_da6.setLinkBack('http://www.clarin.com/politica/Bonadio-sobreseyo-Cristina-denunciada-abogada_0_1590441011.html');
+act_da6.setDescription('El juez lo resolvi&oacute; luego de haber recibido informaci&oacute;n de la Universidad Nacional de La Plata.&nbsp;');
+act_da6.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Bonadio-sobreseyo-Cristina-denunciada-abogada_0_1590441011.html');
+
+var showShareBarUI_params_da6=
+{ 
+containerID: 'shareQuote_da6',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_da6,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_da6
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_da6);
+  La decisión de Bonadio fue comunicada al fiscal Rívolo, quien debe decidir si consiente lo firmado por el juez o lo apela.  En tanto, Ernesto Reggi -abogado que denunció a Fernández de Kirchner por usurpación de título- dijo hoy que apelará el sobreseimiento. Mirá también: El mal estado en que dejó Cristina las instalaciones de la Casa Rosada Por Radio Belgrano, Reggi asguró: "Soy denunciante, no querellante y desconozco los fundamentos de la resolución del juez, pero no dudo de la imparcialidad de Bonadio". "El título es falso. Hay tres materias que aprobó cuando la facultad estaba cerrada" y agregó: "Tengo la certeza de que esta mujer no es abogada", dijo el letrado. Mirá también: Con otro escrito, un hijo de Báez volvió a pedir que lo saquen a Casanello

@@ -1,0 +1,175 @@
+
+Lo que pudo haber sido una tragedia, terminó casi en milagro: el vuelco y posterior incendio de un helicóptero rescatista en el Cerro Uritorco no dejó víctimas y sus ocupantes sólo tuvieron heridas leves. En el vehículo viajaban un piloto y un médico. Se dirigían a ese lugar para atender a Rodrigo Esmella, bailarín de Carmen Barbieri en ShowMatch, que había sufrido un accidente mientras realizaba parapentismo, una práctica prohibida en esa zona.Leé también: Rescatan a cinco pescadores que pasaron toda una noche a la derivaEl mediático es cordobés y fue secretario de Turismo de Capilla del Monte. Con experiencia en deportes de montaña y en vuelos en parapente, trabaja en la actualidad como guía de turismo aventura."Me agarró una turbulencia que me llevó para arriba y luego para abajo", contó esta mañana Esmella. Por su accidente, estuvo esperando ayuda durante horas con una pierna fracturada.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/RodrigoEsmella/status/692827765087801344",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69282776508780134")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/RodrigoEsmella/status/687816796422967298",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68781679642296729")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+Aparentemente, el helicóptero que fue a buscar a Esmella, tocó con un aspa el cerro, volcó y se incendió.Sobre este hecho, el bailarin le dijo a Cadena 3: "no se que pasó... El lugar en que nos buscaron era complicado. Fue espeluznante".Cuando el rescatado ya estaba arriba del helicóptero, y cuando la aeronave estaba en la maniobra de despegue, volcó. Las tres personas pudieron salir antes de que comenzara a incendiarse. El piloto sufrió algunos traumatismos y el médico recibió golpes en sus piernas.A los tres involucrados los fueron bajando del cerro los bomberos de la zona. "Dada la magnitud del accidente, su estado de salud bastante bueno", dijo a TN Diego Concha, director de Defensa Civil de Córdoba. "Ya los tres pacientes fueron trasladados a Córdoba Ciudad, donde están siendo asistidos", agregó.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160222_0004 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160222_0004_411";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Cayó un helicóptero en el cerro Uritorco',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/22/VID/CLAVID20160222_0004/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Cayo-helicoptero-cerro-Uritorco_CLAVID20160222_0004_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160222_0004',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/22/VID/CLAVID20160222_0004/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Cayo-helicoptero-cerro-Uritorco_3_1527477241.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160222_0004.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160222_0004){
+            //getBBTStats_CLAVID20160222_0004();
+            varModIdReprod_CLAVID20160222_0004 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+El canal 12 de Córdoba compartió imágenes del momento en que los tres accidentados llegaron al Hospital Rawson. Allí, el bailarín habló con los medios. "Estoy bien, tranquilo, no digo que no pasó nada porque sí pasó", relató. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ElDoce/status/701739227856314368",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70173922785631436")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+El administrador del Cerro, Rafael García, describió a esa zona como "escabrosa". Confirmó que “está prohibido sobrevolar por el Cerro y arrojarse. A lo mejor a Esmella le jugó una mala pasada si salió del Cerro Gemelas y el viento lo fue llevando”, dijo.Leé también: Un avión aborta su aterrizaje al tocar la tierraEl Cerro Uritorco es uno de los atractivos de la provincia ubicado al norte del Valle de Punilla. Sin embargo es conocido por algunas polémicas prácticas esotéricas y, décadas atrás, por avistajes de Ovnis.

@@ -1,0 +1,84 @@
+
+Otra noche caliente en Intratables. Otra noche donde el periodista Diego Brancatelli, como de costumbre, ocupó la escena del programa que conduce Santiago del Moro. En el marco del día del periodista, el panelista se trenzó con Hernán Lombardi, titular del Sistema Federal de Medios Públicos. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El periodista afín al kirchnerismo consideró que durante el mandato de la expresidenta Cristina Fernández de Kirchner "no hubo una época negra en el periodismo" y cuestionó las políticas del gobierno de Mauricio Macri, a diferencia de lo que opinaban varios de sus compañeros de piso. Después de un breve intercambio con Paulo Vilouta, Brancatelli levantó presión y quiso argumentar aún más su postura en medio de la respuesta de Hernán Lombardi, quien directamente lo frenó en seco. 
+
+
+"Estoy hablando yo, ya te escuché, tranquilito", expresó el funcionario. "Tampoco agreda", le contestó por lo bajo Brancatelli. 
+
+
+
+
+
+var act_644 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_644 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_644.setTitle('"Estoy hablando yo, ya te escuché, tranquilito", expresó el funcionario. "Tampoco agreda", le contestó por lo bajo Brancatelli.&nbsp;');
+act_644.setSubtitle('En Intratables.'); 
+act_644.setLinkBack('http://www.clarin.com/politica/Lombardi-freno-Brancatelli-escuche-tranquilito_0_1591640865.html');
+act_644.setDescription('El panelista se cruz&oacute; con&nbsp;el titular del Sistema Federal de Medios P&uacute;blicos, en el marco del&nbsp;D&iacute;a del Periodista. &iexcl;Mir&aacute; el video!');
+act_644.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Lombardi-freno-Brancatelli-escuche-tranquilito_0_1591640865.html');
+
+var showShareBarUI_params_644=
+{ 
+containerID: 'shareQuote_644',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_644,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_644
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_644);
+ Tras el encontronazo, el titular del Sistema Federal de Medios y Contenidos Públicos terminó de dar su parecer sobre la actualidad del periodismo en Argentina ante la atenta mirada del panelista K.

@@ -1,0 +1,18 @@
+
+"Buscando a Dory", la nueva producción de Pixar y secuela de "Buscando a Nemo", se convirtió en la película animada con mayor recaudación en su fin de semana de estreno en Estados Unidos, sumando 136,1 millones de dólares. También en Argentina rompió récords: fue el mejor arranque de taquilla del año. Sin embargo, el éxito global del film ya causa preocupación entre la comunidad científica. Mirá también: "Dory" ahogó varios récords  A través de su cuenta en Facebook, National Geographic compartió un video en el que advierte cómo el suceso de la película puede afectar la vida salvaje de la especie a la que pertenece su protagonista, el pez cirujano regal, que no se cría en cautiverio. El video explica que el incremento en la demanda de esta especie como mascota --querer tener una "Dory" real en casa-- podría desencadenar la captura de dichos peces en su hábitat natural.  “El comercio de acuarios marinos es criticado por las prácticas de recolección que dañan a los corales y agotan las poblaciones de peces silvestres”, indica la publicación. El mensaje busca incentivar la protección del hábitat y proteger los arrecifes: “Compartí este video y salvá a Dory”, cierra el video, que ya lleva 16 millones de vistas. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+National Geographic destaca también otros ejemplos negativos similares que surgieron luego de éxitos taquilleros. Tras el estreno de “Buscando a Nemo” en 2003, las ventas del pez payaso aumentaron un 40%. Lo mismo cuando se proyectó la película “101 dálmatas” y la gente salió a buscar un perro de esta raza. Además, también recuerda cuando se disparó la demanda de búhos luego de “Harry Potter” y de tortugas cuando se proyectó la primera de las “Tortugas Ninja”, de la que se acaba de estrenar una secuela. También leé: "'Buscando a Dory': A zambullirse de nuevo" La coordinadora del Proyecto Salvar a Nemo y las investigadoras de la Universidad de Flinders (Australia) Anita Nedosyko y Karen Burke coinciden en exponer su temor por el impacto que puede tener ahora la nueva película de Disney-Pixar. En una entrevista con el diario La Vanguardia, expresaron su preocupación: “Muchas personas se enamoraron de los adorables personajes de 'Buscando a Nemo' y decidieron mantenerlos como mascotas, en lugar de entender que el mensaje de la película se basa en la necesidad de mantener a estos peces en el océano, su hábitat natural”. También leé: "Este 'Nemo' recorrió más de 200 kilómetros para que le extirparan un tumor gigante"

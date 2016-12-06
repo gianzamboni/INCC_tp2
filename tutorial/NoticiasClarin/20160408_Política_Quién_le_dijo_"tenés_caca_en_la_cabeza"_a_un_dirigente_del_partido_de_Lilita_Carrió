@@ -1,0 +1,18 @@
+
+Otra noche caliente se vivió ayer en Intratables. Pero esta vez el protagonista no fue Diego Brancatelli, un abonado, sino que se trató del economista Aldo Pignanelli quien disparó con munición pesada contra Fernando Iglesias, mientras debatían sobre el actual índice de pobreza en Argentina. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La mecha se encendió cuando el exdiputado de la Coalición Cívica salió al cruce de las criticas de Pignanelli contra Mauricio Macri al recordar el desempeño en materia económica del gobierno de Eduardo Duhalde, del cual el economista formó parte cuando dirigió el Banco Central de la República Argentina durante el 2002. "Vos tenés la frente tan grande pero tenés caca en tu cabeza. Cada vez que hablás del peronismo te sale la mierda que tenés en el cuerpo", afirmó Pignanelli. Y remató: "Dejá de joder con el peronismo". Cabe recordar que Iglesias es autor del libro "Es el peronismo, estúpido", en el que realiza una dura crítica sobre el movimiento político fundado por Juan Domingo Perón a lo largo de la historia. 

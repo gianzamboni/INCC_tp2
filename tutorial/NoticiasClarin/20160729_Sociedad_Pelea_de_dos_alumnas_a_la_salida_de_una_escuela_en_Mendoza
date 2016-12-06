@@ -1,0 +1,18 @@
+
+Un nuevo caso de violencia escolar se produjo ayer en la provincia de Mendoza, donde un video de una pelea entre dos alumnas fue filmado y luego se viralizó. Sus compañeros, quienes luego divulgaron el video por WhatsApp, capturaron la situación sin siquiera intentar separarlas.  Lo que se puede ver en las imágenes es que dos chicas comienzan a discutir porque una de ellas le recrimina a la otra que cuando pasa cerca la empuja y la mira mal: “Que yo sepa nunca te hice nada”, le dice la joven, mientras que la otra -que está sentada- le dice que no mienta. La conversación empieza a subir de temperatura: “Vení y decímelo en la cara”, apura una de ellas y todo termina en una feroz pelea. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mientras tanto sus compañeros graban todo lo que sucede y sólo interfiere un joven de buzo rojo que las separa luego de algunos segundos en lo que las chicas están tiradas en el piso golpeándose. El resto no se mete. Según algunos medios locales el hecho sucedió a la salida de un colegio ubicado en las calles 9 de Julio y Sarmiento. También leé: "Violencia escolar: se pelearon dos alumnas y lo filmaron"

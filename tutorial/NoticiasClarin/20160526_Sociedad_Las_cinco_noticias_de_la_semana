@@ -1,0 +1,25 @@
+
+Si estuviste a full en la semana y no te enteraste qué pasó, o simplemente querés volver a leerlo, en Clarín.com te dejamos un listado de las cinco noticias más relevantes de la semana. El jugador de fútbol Micael Favre no murió de un rodillazo en la cabeza como se pensaba.El informe preliminar de la autopsia indica que el futbolista de San Jorge falleció por una dolencia cardíaca. Todos los detalles, acá. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Murió un futbolista tras recibir un golpe en un partido en Entre Ríos Procesaron a la mujer que amenazó a Mauricio Macri y a su hija Antonia. Además, el juez Lijo la embargó por 150 mil pesos. Por su parte, la mujer calificó el hecho como un "exabrupto". Accedé a la nota completa.
+
+Una vegana escaló el Everest pero murió en el descenso.Quería echar por tierrala idea de que estándébiles o malnutridos por no comer carne. Y llegó a la cima, pero durante el descenso sufrió mal de altura y murió. La polémica hizo que sea uno de los artículos más leídos de la semana. Mirá también: Niegan que la muerte de una vegana en el Everest esté relacionada con su dieta
+
+Los 15 lugares en el mundo que tenés que conocer. Éste es el ranking anual de los sitios de interés turísticos.
+
+Mirá también: Los Parques Nacionales ahora se pueden "recorrer" con Street View Se separaron Vicky Xipolitakis y José Ottavis y ya hay acusaciones cruzadas. La vedette sorprendió el 25 de Mayo cuando anunció en Twitter "el #FinDeLasMentitas", motivo de muchos memes y bromas por el error de tipeo. Ahora, ella dice que el referente de La Cámpora es "tóxico" y él la acusa de "desequilibrada".  El motivo de la ruptura. Mirá también: Erica García reconoció un romance con José Ottavis
+

@@ -1,0 +1,18 @@
+
+lando por la alfombra roja, la mejor sonrisa para la cámara, el click de los fotógrafos. Las notas de los programas de espectáculos. Y la clásica toma de final de temporada, con un corazón de cartón –pintado por artistas marplatenses– en las manos de las celebrities. Esas fueron algunas de las escenas de la fiesta de cierre del Espacio Clarín 2016, que se realizó ayer en el predio de Alberti 1242 de Mar del Plata. Desde temprano, comenzaron a llegar las figuras que integran la mayoría de los elencos que hacen temporada en La Feliz. Flavio Mendoza, Luis Brandoni, Aníbal Pachano, Vicky Xipolitakis, Flavia Palmiero, Juan Alberto Mateyko –conduce “La movida del verano” por Mitre Mar del Plata–, Graciela Alfano, Zulma Faiad y “Bicho” Gómez fueron algunos de los artistas que dijeron presente en el horario de post playa y antes del inicio de las funciones teatrales. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Como sucedió en otras jornadas en Espacio Clarín, el elenco de “El mundo de Oz”, encabezado por Stefy Xipolitakis, fue uno de los más ruidosos. Llegaron con el vestuario de la obra infantil, se divirtieron entre ellos y la hermana de Vicky aprovechó para mostrar un vestido al que se le prendían luces de colores. También llegaron en bloque las protagonistas de “La casa de Bernarda Alba”dirigida por José María Muscari. Luego de la foto grupal, Marcela Giorgi y Juan Alberto Mateyko agradecieron la presencia de todos los artistas. Y Marcelo González, director del Espacio Clarín, hizo un balance de la temporada del lugar. “Nos planteamos el desafío de convertir a este centro en un ícono cultural y en lo que nosotros denominados la casa de los artistas. En nombre de todos, gracias. Espero reencontrarme con ustedes durante la próxima temporada”, manifestó. Luego pasaron un video con algunos datos de la temporada. A lo largo de los 64 días que lleva abierto el lugar, pasaron unas 250 mil personas; además, se presentaron 212 espectáculos, con 1201 artistas sobre el escenario. Después de las canciones de pop y lírica de Manuel Teruel, se hizo la presentación de la subasta solidaria. A lo largo de toda la temporada, unos 70 artistas, políticos y deportistas pintaron sus cuadros, con la ayuda de artistas marplatenses, en el marco de la Plaza de Arte.  Anoche se vendieron algunas de las obras y el resto irán a una subasta que se realizará en Semana Santa. El dinero recaudado irá a beneficio del hogar para enfermos crónicos Nuestra Señora de Lourdes –perteneciente a las Pequeñas Hermanas de la Divina Providencia– y de la Asociación Civil Supertenedores.

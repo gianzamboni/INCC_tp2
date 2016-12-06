@@ -1,0 +1,133 @@
+
+El video, en inglés, conmueve. Aunque no se entiendan las palabras que el chico pronuncia, sí se percibe, claramente, la alegría y la emoción de despertarse a la vida. Literalmente.
+
+La primera reacción de un adolescente al tomar conciencia que sobrevivió a un trasplante de corazón se convertieron en el nuevo fenómeno viral. El video, publicado por la página de Facebook de una fundación que promueve la donación de órganos, fue ampliamente compartido por los usuarios de la red social más famosa del mundo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160126_0018 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160126_0018_b69";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Conmovedor. Así reacciona un chico al despertarse de un trasplante (en inglés)',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/26/VID/CLAVID20160126_0018/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Conmovedor-reacciona-despertarse-trasplante-ingles_CLAVID20160126_0018_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160126_0018',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/26/VID/CLAVID20160126_0018/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Conmovedor-reacciona-despertarse-trasplante-ingles_3_1511278875.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160126_0018.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160126_0018){
+            //getBBTStats_CLAVID20160126_0018();
+            varModIdReprod_CLAVID20160126_0018 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+Tras la intervención, realizada el pasado 12 de noviembre, Trevor Sullivan (15) dice visiblemente emocionado: “Estoy muy feliz”. Y sigue: “Estuve esperando esto tanto tiempo. Puedo respirar y hablar de nuevo. Me siento bien, me siento increíblemente bien. Nunca antes me había sentido tan bien”.
+
+En una entrevista a ABC News, el adolescente explicó que hace un año empezó a sentirse débil. Al principio pensó que se trataba de un problema de alergia, pero poco después, en febrero de 2015, sufrió una insuficiencia cardíaca repentina. Tuvo que ser trasladado en helicóptero hasta un hospital especializado, donde le diagnosticaron una cardiomiopatía severa.
+
+Con respecto al video, que publicó su padre en Facebook, el joven se siente muy orgulloso. “Realmente me gusta mucho --asegura--. Creo que es genial y me gustaría que todo el mundo pudiera verlo porque es lo que realmente marca la diferencia. Se promueve la donación de órganos y la gente puede ver el resultado de la misma y de lo felices que (los pacientes) están en realidad”. Fuente: La Vanguardia

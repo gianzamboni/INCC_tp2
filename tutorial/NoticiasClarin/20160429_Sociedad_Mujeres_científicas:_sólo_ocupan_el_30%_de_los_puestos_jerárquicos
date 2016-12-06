@@ -1,0 +1,20 @@
+
+Hace pocas semanas, la viróloga Andrea Gamarnik recibió en París el premio L’Oreal/Unesco, uno de los premios más importantes de la ciencia en la actualidad. Gamarnik dirige el equipo de Virología Molecular del Instituto Leloir que realizó importantes descubrimientos sobre el virus del dengue, que este año desató un brote de la enfermedad en el país. Mirá también: Premiaron a la viróloga argentina por su lucha contra el dengue  Sin embargo, el caso de Gamarnik no es el más frecuente en el mundo científico, no sólo en Argentina sino en todo el planeta: una mujer liderando un equipo de investigación. El acceso femenino a la ciencia es aún limitado en muchas partes del globo. En Argentina, la situación es más pareja: en el Conicet, la mitad de los investigadores son mujeres. Pero cuando se asciende en la escala jerárquica, la cosa cambia: el 70% de los puestos de investigador superior son ocupados por hombres.  La estadística la dio la misma Gamarnik en una ceremonia en la que la homenajearon esta semana en la Embajada de Francia, y donde también se llamó a la comunidad a firmar un manifiesto global por más mujeres en la ciencia, que ya tiene más de 30.000 firmas.
+
+Gamarnik con el director de L'Oreal, Marcelo Zimet, y el embajador francés, Jean-Michel Casa, en el acto en la embajada.  “El mundo necesita de la ciencia y la ciencia necesita de las mujeres”, es el lema global del programa Por las Mujeres en la Ciencia de L’Oreal/Unesco, que cada años premia a investigadoras de carrera por sus logros y beca a jóvenes científicas para estimular sus proyectos. Pero por falta de estímulo desde la infancia y en la escuela, no son mayoría más mujeres que se inclinan por investigar. Y para muchas de las que sí lo hacen, el camino no es fácil. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ “La problemática de genero en la ciencia está inmersa en una problemática de la sociedad. Las mujeres no llegan a lugares de liderazgo por discriminación, prejuicios externos y de las propias mujeres, y temas prácticos como la maternidad”, dijo la viróloga en su discurso de agradecimiento. Y sumó otro dato que grafica los prejuicios de los que habla: según una encuesta internacional, el 67% de la gente no cree que una mujer pueda liderar un proyecto de investigación.  El manifiesto por las mujeres en la ciencia busca concientizar sobre esta barrera de género y ayudar a romperla. Propone, entre otros puntos, alentar a las nenas que quieran explorar la ciencia, garantizar la igualdad de género en la participación en simposios y conferencias, y celebrar públicamente la contribución de las mujeres científicas al progreso de la sociedad. Se puede firmar online en este link.  

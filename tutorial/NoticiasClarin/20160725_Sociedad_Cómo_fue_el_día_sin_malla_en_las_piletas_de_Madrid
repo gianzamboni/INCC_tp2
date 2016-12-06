@@ -1,0 +1,34 @@
+
+Ayer, la ciudad de Madrid celebró el “día sin malla”. Es una iniciativa de la Asociación para el Desarrollo del Naturismo (ADN) para intentar demostrar que la desnudez es la “forma más lógica y natural” de entender el cuerpo humano. A pesar de las críticas del Partido Popular de Madrid, se desarrolló con total normalidad en la piscina de un centro deportivo municipal  y con éxito de participación, aunque con división de opiniones. Mirá también: Provocadora propuesta: un día sin malla en las piletas públicas  Marina, quien se califica como “asidua” a esta piscina, aseguró a la agencia EFE que el día nudista “no le parece bien” porque es una piscina pública a la que van familias con niños que “no están acostumbrados a ver cuerpos desnudos”. La misma idea tiene Manuela, quien afirma que “lo respeta pero no lo comparte” ya que no tiene por qué “ver cuerpos desnudos si no tiene ganas”.  Ismael Rodrigo, presidente de la Asociación para el Desarrollo del Naturismo (ADN), explicó que esta iniciativa trata de romper con este estilo de pensamiento y asegura que trata de demostrar que la sociedad “tiene tolerancia con la desnudez, al igual que sucede con el topless”. Agregó que “es tan simple como explicar la capacidad de opción de si se quiere utilizar o no la malla, porque esta es la forma más lógica y natural de entender el cuerpo humano”. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ElMundo_Madrid/status/757261268373872641",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75726126837387264")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: La revolucionaria bikini cumple 70 años  El presidente de ADN reconoce, no obstante, que el amante del naturismo que quiera ejercer debe adaptarse a las instalaciones o a los espacios municipales reservados y a los horarios fijados.  “No queremos tener espacio reducidos y exclusivos sólo para nosotros, queremos que el nudismo se normalice en la sociedad”, señaló. Mirá también: Las mejores playas nudistas de España  La rutina de la piscina no se rompió ayer a la mañana en el “Día sin malla”. Allí estuvieron las familias con heladeras para pasar el día, los gritos de “uy, qué fría esta el agua”, compartir crema solar y la búsqueda de un poco de sombra para mitigar el sol.  Lo que sí cambiaron fueron las conversaciones en el césped, con algún comentario sobre las menos de diez personas que sí participaron activamente en el día sin malla.  Uno de ellos fue David, quien recordó que hace unos años “la gente no entendía ni los bikinis ni el topless", y ahora está totalmente aceptado.   “No defendemos el nudismo por el nudismo, sino en aquellas circunstancias en las que no llevar ropa es propicio, como es una piscina”, continuó. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/MadridN0ticias/status/757333232526450688",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75733323252645068")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+  En relación con las críticas de algunos de los usuarios, señaló que se trata de “un problema de educación”. Agregó que es necesario crear una consciencia social de que “no hay nada malo en la desnudez y que hay que tomarla con total normalidad”. Y remarcó: “Con los años, las prendas de baño se fueron acortando y la convivencia entre los bañadores y la desnudez es el único camino”. Mirá también: Así fue el Carnaval de la comunidad nudista Con la mañana más avanzada, la sorpresa ante el desnudo de algunos se fueron mitigando, la conversaciones volvieron a su rumbo normal, entre chapuzón y chapuzón, y cada uno a su toalla. Fuente: La Vanguardia

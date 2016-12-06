@@ -1,0 +1,18 @@
+
+"España puede ser ese gran aliado europeo que ayude a Argentina a consolidar un proceso de recuperación económica fuerte y sostenido", dijo esta mañana Jaime García Legaz, secretario de Comercio en el gobierno de Mariano Rajoy. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En el Foro de Inversión y Negocios de Argentina, García Legaz destacó la importancia de España como segundo país inversor en Argentina, "con cerca de 17 mil millones de dólares", y apostó a sectores "donde ahora mismo no hay inversión española en cantidades relevantes": "Por ejemplo en el sector energético, en el sector de energías renovables, España es un país muy fuerte en la producción de energía eólica o fotovoltaica". Mirá también: En medio del foro de inversores privados, Dietrich resaltó la inversión pública Según García Legaz, las inversiones extranjeras fueron clave en el desarrollo económico español "de los últimos 40 años": "No se entiende por ejemplo el boom del sector industrial español sin la inversión extranjera; España es hoy el segundo productor de automóviles de Europa, muy por delante de Francia o de Italia, con tres millones de vehículos al año, y es todo inversión extranjera". - ¿Está fundamentada la percepción negativa que generaron las inversiones españolas en los años noventa?- le preguntó Clarín. - Los inicios de un proceso de privatización son siempre difíciles y siempre generan la sensación, en todos los países y España también lo vivió cuando inició sus privatizaciones en los años 90, de que se está vendiendo lo mejor del tejido empresarial a inversores extranjeros, de que las joyas de la corona van a parar a manos de inversores no residentes. Esa sensación se va diluyendo conforme los ciudadanos comprueban que esas privatizaciones ayudan a crear empleo más cualificado, a mejorar el tejido productivo del país, a potenciar las exportaciones, a mejorar la cualificación del personal que ingresa en esas empresas. Mirá también: Maratón de Macri con los CEO: anuncian las primeras inversiones

@@ -1,0 +1,66 @@
+
+La dirigencia kirchnerista dio el presente para acompañar a Cristina Kirchner durante su indagatoria ante el juez Julián Ercolini, que investiga la adjudicación direccionada de la obra pública a Lázaro Báez durante su gobierno. MIRÁ LA FOTOGALERÍA EN HD El primero en llegar bien temprano a Comodoro Py fue Luis D'Elía, junto a un puñado de dirigentes de su partido MILES, para realizar una transmisión especial de su programa por Radio Rebelde para mostrar su apoyo. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/larroqueandres/status/793081275024285696",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79308127502428569")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Luego de la llegada de Cristina, pasadas las 10 de la mañana, se comenzó a ver el desfile de ex funcionarios y de referentes k como el ex secretario general de la Presidencia Oscar Parrilli; el ex ministro de Economía Axel Kicillof, la ex secretaria de Cultura Teresa Parodi o el ex titular de Aerolíneas Argentinas Mariano Recalde y el músico Horacio Fontova. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/wadodecorrido/status/793126931315195905",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79312693131519590")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ También estuvieron presentes en la puerta de Comodoro Py, el secretario general de la CTA de los Argentinos, Hugo Yasky; el jefe de la bancada de diputados del Frente para la Victoria, Héctor Recalde y legisladores como Eduardo "Wado" de Pedro y Andrés "Cuervo" Larroque; el ex titular de la AFSCA Martín Sabbatella, la titular de la Asociación de Madres de Plaza de Mayo, Hebe de Bonafini y los radicales k Leopoldo Moreau y Gustavo López. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/pacoduranona/status/793109637725839360",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79310963772583936")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Por parte de los intendentes, se encontraba Jorge Ferraresi, de Avellaneda; Leonardo Nardini, de Malvinas Argentinas; y Francisco Durañona, de San Antonio de Areco. El ex juez de la Corte Suprema Eugenio Zaffaroni acompañó a la ex Presidenta hasta el despacho del juez Julián Ercolini, junto con Carlos Alberto Beraldi, abogado defensor de la ex jefa de Estado. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/CastagnetoC/status/793110395489779713",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79311039548977971")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Estas figuras del universo kirchnerista se fueron sumando a los militantes de La Cámpora, Unidos y Organizados, Peronismo Militante entre otras organizaciones, con la consigna “Acompañamos a CFK”, que esperaron a la ex mandataria del otro lado del vallado y en medio de un fuerte operativo de seguridad.

@@ -1,0 +1,76 @@
+
+Los Sauces S.A. puso bajo la lupa de la Justicia nuevamente, a Cristina Kirchner y es otro de los tantos puentes comerciales con Lázaro Báez, en el centro de las noticias por los múltiples allanamientos realizados sobre sus propiedades en Santa Cruz. El fiscal Carlos Rívolo imputó a la ex presidenta Cristina Fernández de Kirchner y a su hijo Máximo por los presuntos delitos de enriquecimiento ilícito y falsificación de documentos públicos. A través de esta empresa dedicada al rubro inmobiliario, se construyó  uno de los vínculos comerciales más fuertes con Lázaro Báez: fue uno de los dos inquilinos que tuvo. Fue la primera empresa familiar. En 2006 Néstor, Cristina y Máximo Kirchner constituyeron una de sus primeras empresas: Los Sauces S.A, con un capital inicial de $ 100.000. Pocos años después, se convirtió en otra excusa para hacer negocios con el empresario K. 
+
+Gran parte de los negocios de Cristina y Báez se realizaron en El Calafate. Foto Maxi Failla. Los Sauces S.A. dedicada al rubro inmobiliario, durante los primeros dos años desde su creación, no registró ninguna operación comercial. Para ese entonces, Máximo Kirchner, actual diputado nacional, sólo tenía el 10% del paquete accionario. 
+
+
+Tras la sucesión por el fallecimiento del ex Presidente, la participación accionaria quedó de la siguiente manera: Cristina Kirchner 45% Máximo Kirchner 32,5% Florencia Kirchner 22,5%.
+
+
+
+
+
+var act_75f = new gigya.socialize.UserAction();
+
+var emailBodyCustom_75f = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_75f.setTitle('Tras la sucesión por el fallecimiento del ex Presidente, la participación accionaria quedó de la siguiente manera: Cristina Kirchner 45% Máximo Kirchner 32,5% Florencia Kirchner 22,5%.');
+act_75f.setSubtitle('LA RUTA DEL DINERO K'); 
+act_75f.setLinkBack('http://www.clarin.com/politica/Sauces-empresa-fortalecio-Cristina-Baez_0_1569443221.html');
+act_75f.setDescription('Esa firma&nbsp;puso bajo la lupa de la Justicia nuevamente&nbsp;a la ex Presidenta y es otro de los puentes comerciales de los Kirchner con el empresario,&nbsp;hoy preso por lavado.');
+act_75f.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Sauces-empresa-fortalecio-Cristina-Baez_0_1569443221.html');
+
+var showShareBarUI_params_75f=
+{ 
+containerID: 'shareQuote_75f',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_75f,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_75f
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_75f);
+ Después de 2008 comenzaron las inversiones. Esta firma de la ex familia presidencial adquirió ocho propiedades distribuidos en Río Gallegos, El Calafate, El Chaltén y Buenos Aires. Sus únicos inquilinos fueron Lázaro Báez y Cristóbal López.
+
+El hotel Los Sauces, propiedad de Cristina. Foto Maxi Failla. Los dos terrenos ubicados en la Villa Turística allanados la semana pasada, eran alquilados a Loscalzos y Del Curto y Kank & Costilla, al igual que otros dos lotes en Río Gallegos. Estas dos constructoras son dirigidas por Martín Báez y su hermano Leandro. Pero además, Los Sauces alquiló un terreno a Valle Mitre, sociedad que hasta diciembre de 2013 gerenció tres hoteles de Cristina Kirchner. Puntualmente este terreno reunió tres empresas. En la avenida Güemes 95, en El Chaltén, Lázaro y el mayor de sus hijos varones fijaron el domicilio fiscal de la empresa La Aldea S.A. En esa misma dirección se encuentra el hotel de la ex Presidenta que lleva el mismo nombre. Ese terreno antiguamente, fue alquilado a la sociedad del empresario K conocida como Valle Mitre a su vez, responsable de administrar el hotel de montaña hasta 2013.
+
+La Aldea de El Chaltén, el terreno le pertenece a Los Sauces S.A Foto Maxi Failla. Los Kirchner recibieron así, el pago de Báez por el alquiler del terreno y la administración del hotel que funcionaba allí. Años después Martín Báez declaró ser el dueño del 45% de las acciones de La Aldea S. A,, su padre del 50%, y el 5% restante de un socio anónimo. Néstor Kirchner en 2009 declaró que le adeudaba unos tres millones de pesos a la empresa que continuó ampliando sus propiedades. Compró así un complejo en Puerto Madero, en el edificio Madero Center, por más de dos millones de dólares, cuyo único inquilino fue Cristóbal López, a través de sus empresas Alcalis de la Patagonia (donde Sanfelice figura como empleado) e Inversora M & S (donde trabaja Romina Mercado, presidenta de Hotesur). Pagaban $ 2,8 millones  y $ 220.825 respectivamente.
+
+La casa de Cristina en Río Gallegos, comprada por Los Sauces S.A Foto David Fernández.   Esta firma, hoy bajo la lupa de la Justicia, no sólo vincula a los Báez y Cristina por los alquileres de inmuebles, sino también por las deudas. En 2009, la ex mandataria declaró $ 2,9 millones que adeudaba Los Sauces S. A. a Los Calzos y Del Curto, constructora del empresario K. La empresa foco de una nueva denuncia, también declaró deudas con Osvaldo Sanfelice, socio de Máximo por $ 922.834. Entre las irregularidades que podría constituir falsificación de documentación, la abogada de Stolbizer, Silvina Martínez, explicó a Clarín que la residencia de Cristina Kirchner en Río Gallegos, en el Barrio Jardín, fue declarada inicialmente como una propiedad adquirida por Negocios Patagónicos (firma de Sanfelice) por $ 200.000. Sin embargo, “después consta que Los Sauces S.A. la compró por $ 250.000”. En ese domicilio, permaneció sin exposición pública la ex Presidenta después de su regreso de Buenos Aires. La semana pasada a seis cuadras de allí, los efectivos federales allanaban las viviendas familiares de Lázaro Báez, su principal socio comercial, también en su empresa Los Sauces S.A

@@ -1,0 +1,18 @@
+
+La alcaldía de San Pablo, la mayor urbe sudamericana, firmó ayer un decreto que regula el uso de la aplicación de transporte Uber, que hasta ahora operaba en la ciudad gracias al aval de varias medidas judiciales cautelares. La medida del ayuntamiento, que entrará hoy en vigor, trajo protestas de los taxistas que de manera violenta se manifestaron en contra de los autos de la polémica empresa de transporte. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ El decreto firmado el martes por Fernando Haddad, alcalde de San Pablo, señala que Uber y otras compañías que ofrecen el mismo tipo de servicio de transporte privado deben pagar el equivalente a 0,03 centavos de dólar por kilómetro recorrido con un pasajero. El servicio registró un uso creciente desde el Mundial de Fútbol del 2014, y desde ese momento levantó una enorme polémica sobre la legitimidad de su uso y provocó reiterados enfrentamientos entre conductores y taxistas, que rechazan la legalidad de la aplicación y bloquearon en diversas ocasiones distintas ciudades del país. También leé: "Victoria de Uber en Madrid: vuelve a operar tras una larga prohibición" Eso mismo sucedió ayer en San Pablo, cuando conductores de taxis protestaron frente al edificio del Ayuntamiento y bloquearon varias calles y avenidas. Se quejan de que Uber es una competencia injusta porque sus conductores no tienen que pagar tarifas a la ciudad ni pasar por inspecciones oficiales. Son los mismos argumentos con los que se oponen los conductores de taxi en todo el mundo, incluidos los porteños.  También leé: "Taxistas contra Uber: cortan calles y persiguen a choferes"  En medio de es manifestación se produjeron incidentes que terminaron en actos de violencia contra autos de la empresa Uber. Lo mismo sucedió en Argentina -donde la Justicia bloqueó los pagos con tarjetas de crédito a la aplicación para viajes, pero la empresa sigue operando- y los choferes cayeron en una actitud peligrosa: emboscar a conductores de Uber y hacer justicia por mano propia.

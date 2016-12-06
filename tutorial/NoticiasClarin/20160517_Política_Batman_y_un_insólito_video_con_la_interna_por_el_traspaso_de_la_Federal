@@ -1,0 +1,18 @@
+
+El proceso de integración de las policías Federal y Metropolitana en la Ciudad de Buenos Aires, un viejo anhelo que Mauricio Macri concretó en sus primeros días de gestión como Presidenta, cuenta con algunas críticas por parte de los efectivos de una de las fuerzas, que no lo ven con buenos ojos. Así lo demuestra un video que circula a través de WhatsApp, entre los agentes disconformes con la fusión de las fuerzas. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Leé también: El traspaso de la Federal, para recuperar la seguridad La parodia está hecha en base a una escena de la última entrega de la trilogía de Christopher Nolan sobre Batman, "The Dark Night Rises", en la que los policías de Ciudad Gótica se enfrentan con las fuerzas rebeldes comandadas por el malvado Bane. En la versión local, titulada "El Traspaso", los efectivos de la Federal con el actual jefe Néstor Roncaglia se enfrentan a los de la Metropolitana, al mando de Guillermo Calviño, responsable de la Federal en la Ciudad. Leé también: La seguridad, objetivo clave en la gestión Larreta "El traspaso es inminente", dicen desde el bando de la Metropolitana. Mientras que Roncaglia, el comisario bueno del filme, apunta: "Calviño está detrás de todo esto". Leé también: Néstor Roncaglia, el nuevo jefe de la Federal Calviño se lleva el papel de malo de la película de parte de quienes le achacan el haber cedido antes las presiones para que la fusión se logre concretar este año. En el video todo termina en un enfrentamiento entre quienes quieren el traspaso y quienes se oponen porque aseguran que el hecho destruirá a la fuerza. Leé también: Nuevo paso en la integración de las fuerzas policiales en la Ciudad La realidad es que durante este año, la Ciudad incorporará unos 20.000 agentes que se sumarán a los más de 6.300 que integran la policía local, a cargo de Mauricio D´Alessandro, secretario de Seguridad porteño.

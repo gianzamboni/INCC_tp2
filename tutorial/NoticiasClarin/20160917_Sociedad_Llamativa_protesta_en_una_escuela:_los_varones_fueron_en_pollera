@@ -1,0 +1,134 @@
+
+"Pollerazo en el Dorrego de Morón”, uno de los colegios públicos más tradicionales del Partido. Esta semana, como parte de una iniciativa impulsada por la Comisión de Género que conformaron los alumnos, chicos y chicas se pusieron polleras y vestidos para reclamar a las autoridades del colegio que revean el código de vestimenta (establece ciertas pautas sobre la indumentaria permitida o no para ir a clase) que forma parte del código de convivencia que, cada principio de año, llega a las familias para que sea firmado a través del cuaderno de comunicaciones. 
+
+
+Que nos digan que no podemos venir con polleras por arriba de la rodilla para no ‘provocar’ es una visión machista".
+
+
+
+
+
+var act_28f = new gigya.socialize.UserAction();
+
+var emailBodyCustom_28f = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_28f.setTitle('Que nos digan que no podemos venir con polleras por arriba de la rodilla para no ‘provocar’ es una visión machista".');
+act_28f.setSubtitle('En Morón.'); 
+act_28f.setLinkBack('http://www.clarin.com/sociedad/Llamativa-protesta-escuela-varones-pollera_0_1651634979.html');
+act_28f.setDescription('Reclaman ante el colegio por el código de vestimenta, que obliga a las chicas a usar polleras por debajo de la rodilla. ');
+act_28f.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/Llamativa-protesta-escuela-varones-pollera_0_1651634979.html');
+
+var showShareBarUI_params_28f=
+{ 
+containerID: 'shareQuote_28f',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_28f,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_28f
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_28f);
+ “Que nos digan que no podemos venir con polleras por arriba de la rodilla para no ‘provocar’ es una visión machista como la que usan a veces para justificar una violación”, confió Lucila, una de las alumnas de quinto año del Dorrego e integrante de la Comisión de Género que, aclaran, no forma parte del Centro de Estudiantes aunque en ocasiones realicen actividades en conjunto. Las polleras cortas no son las únicas prendas vedadas por el código establecido en el colegio. También las musculosas y las bermudas, tanto para hombres como mujeres, no están permitidas llevar a clase. Un reclamo similar al del tradicional Nacional ya se había dado en un colegio de Olivos.. “A los chicos no les dejan llevar bermudas porque dicen que si no las chicas vamos a ir con shorts más cortos”, señaló Lucila. 
+
+
+Estas pautas de convivencia se establecen con padres, docentes y alumnos en un marco de diálogo".
+
+
+
+
+
+var act_1c0 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_1c0 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_1c0.setTitle('Estas pautas de convivencia se establecen con padres, docentes y alumnos en un marco de diálogo".');
+act_1c0.setSubtitle('En Morón.'); 
+act_1c0.setLinkBack('http://www.clarin.com/sociedad/Llamativa-protesta-escuela-varones-pollera_0_1651634979.html');
+act_1c0.setDescription('Reclaman ante el colegio por el código de vestimenta, que obliga a las chicas a usar polleras por debajo de la rodilla. ');
+act_1c0.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/Llamativa-protesta-escuela-varones-pollera_0_1651634979.html');
+
+var showShareBarUI_params_1c0=
+{ 
+containerID: 'shareQuote_1c0',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_1c0,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_1c0
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_1c0);
+ “Lamentamos que la escuela esté en boca de todos y en las redes sociales por este reclamo estudiantil de un grupo de adolescentes rebeldes, en lugar de hacerlo por los logros académicos. Nos da mucha tristeza que esto sea ‘la noticia del Dorrego’”, sostuvieron desde la Dirección del establecimiento ubicado en Casullo 125. Y aclararon que “estas pautas de convivencia se establecen con padres, docentes y alumnos en un marco de diálogo. Nosotros escuchamos siempre, más teniendo en cuenta que son adolescentes, y tratamos de llegar a un acuerdo con ellos. Pero no es verdad que haya sanciones”, sentenciaron luego de que se especulara con que los que participaran de la movida de protesta podían ser amonestados. Habrá que ver qué pasa a partir de ahora. Con la llegada de la primavera se verá si la discusión continúa.

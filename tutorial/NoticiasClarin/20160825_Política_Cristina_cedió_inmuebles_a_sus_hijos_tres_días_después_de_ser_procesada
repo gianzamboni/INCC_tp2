@@ -1,0 +1,68 @@
+
+ Cristina Kirchner cedió tres de sus 25 inmuebles a sus hijos en medio del avance judicial en las causas que investigan dos de sus empresas y en la que se la procesó por la venta del dólar futuro. La ex Presidenta anticipó que cedió sus bienes a sus hijos después de terminar su mandato. Según había anticipado Clarín hace diez días, la diputada Margarita Stolbizer denunció que la ex mandataria busca “insolventarse”. Ahora se conocieron tres registros de la propiedad inmueble que dan cuenta de esta operatoria.  Mirá también: Stolbizer denunciará que Cristina quiso ocultar su patrimonio Según publica La Nación, el 16 de mayo -tres días después de su procesamiento en la causa del dólar futuro- Cristina Kirchner cedió inmuebles a sus hijos Máximo y Florencia Kirchner. Desde su cuenta de Facebook la ex mandataria había dicho que "el 50% de los activos financieros, los bienes muebles y los inmuebles que me correspondieran en concepto de bienes gananciales en la sucesión de Néstor Carlos Kirchner fueron cedidos legítima y legalmente a mis hijos, dentro del expediente sucesorio". Mirá también: Para salvar el autódromo, la Ciudad quiere ceder una parte del predio Esto tiene ahora algunas fechas oficiales que coincide con el avance de las causas judiciales que involucran a Cristina Kirchner: Fueron tres los terrenos que le cedió a Máximo y Florencia. 
+
+
+Fueron adquiridos en 2007 y se trata de un predio de 4,4 hectáreas en El Calafate que tuvo un costo de $ 264.638, otro de 1,8 hectáreas también en la villa turística por $ 136.935 y otro lote de 3,6 hectáreas adquirido en 150.000 pesos.
+
+
+
+
+
+var act_631 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_631 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_631.setTitle('Fueron adquiridos en 2007 y se trata de un predio de 4,4 hectáreas en El Calafate que tuvo un costo de $ 264.638, otro de 1,8 hectáreas también en la villa turística por $ 136.935 y otro lote de 3,6 hectáreas adquirido en 150.000 pesos.');
+act_631.setSubtitle('CORRUPCIÓN K'); 
+act_631.setLinkBack('http://www.clarin.com/politica/Cristina-inmuebles-hijos-despues-procesada_0_1638436166.html');
+act_631.setDescription('Fue luego de que el juez Bonadio la procesara por la causa Dólar Futuro. Ahora se conocieron tres registros de la propiedad inmueble que dan cuenta de esta operatoria.');
+act_631.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Cristina-inmuebles-hijos-despues-procesada_0_1638436166.html');
+
+var showShareBarUI_params_631=
+{ 
+containerID: 'shareQuote_631',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_631,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_631
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_631);
+   Sobre este terrenos se amplió el hotel boutique Los Sauces tras la cesión de tierras que le hizo Lázaro Báez.  La diputada Margarita Stolbizer sostiene que se trata de una "insolvencia fraudulenta": desprenderse de sus bienes para preservar su patrimonio en medio de las inhibiciones que le aplicó el juez Claudio Bonadio sobre su patrimonio de 77 millones de pesos. Mirá también: Comodoro Py y el jardín de senderos que se unifican Estos tres terrenos de los 26 inmuebles de la ex Presidenta mostraron irregularidades: Nunca registró el 50% de los inmuebles heredados pero sí los informó en sus declaraciones juradas. Clarín reveló que incluso uno de los terrenos de su empresa Los Sauces SA aún figura a nombre de la Municipalidad de El Calafate.

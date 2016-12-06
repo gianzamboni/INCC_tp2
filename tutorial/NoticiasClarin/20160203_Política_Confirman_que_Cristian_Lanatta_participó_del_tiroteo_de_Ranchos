@@ -1,0 +1,18 @@
+
+La conmoción por la fuga de tres de los cuatro condenados como autores materiales de los asesinatos de Sebastián Forza, Damián Ferrón y Leopoldo Bina en 2008 -Martín y Cristian Lanatta y Víctor Schillaci- aún no había menguado, cuando en la madrugada del 31 de diciembre la noticia de un cruento tiroteo en la localidad bonaerense de Ranchos trajo la primera pista del posible paradero de los prófugos. Un análisis de ADN acaba de confirmar ahora que Cristian Lanatta participó de aquella balacera en la que dos policías terminaron heridos.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El fiscal de Coronel Brandsen, Mariano Sibuet está a cargo de la causa, en la cual los tres sentenciados fueron indagados por el delito de "doble tentativa de homicidio". Sibuet informó que, según un primer informe genético, Martín Lanatta participó del episodio. Es que el tiroteo dejó dos elementos que sirvieron a la investigación: un par de anteojos de sol y un arma.El fiscal había ordenado realizar en el penal de Ezeiza una extracción de sangre a los sospechosos, para un cotejo de ADN. Pero sólo aceptó la prueba Cristian Lanatta, y el resultado dio positivo. Tanto su hermano Martín como Schillaci se negaron y en los próximos días podrían ser evaluados.No hubo cambios respecto de la situación de los otroso dos detenidos: el dueño de una quinta en Chascomús y su socio, sospechosos de haberles entregado una camioneta a los prófugos.

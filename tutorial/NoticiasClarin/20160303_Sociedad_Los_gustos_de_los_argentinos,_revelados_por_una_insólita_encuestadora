@@ -1,0 +1,98 @@
+
+Cuando se pelea con una pareja, el 52 % de las personas elimina las fotos donde aparece el sujeto indeseado. Las bolas de fraile deben estar (sí o sí) rellenas de dulce de leche. El 64 % de las mujeres prefiere a los hombres afeitados. Pero con el papel higiénico, la cosa está más peleada: para el 53 % el rollo debe colgarse con la hoja por arriba, mientras que el 47 % lo prefiere por abajo.  Mirá también: Lo nuevo de Twitter: ahora se puede grabar y compartir videos Una cuenta de Twitter, llamada Anarquía Consulting, postea encuestas desopilantes, que son respondidas a diario por miles de argentinos. Con humor, la encuestadora de fantasía logró exponer costumbres y preferencias y, sin proponérselo, obtuvo resultados que quizás las consultoras más serias nunca habrían alcanzado. "Nació como una broma cuando cubrimos las elecciones. Los encuestadores tenían sus resultados y nosotros empezamos a tomarnos el tema en broma: dijimos que había nacido una nueva consultora que hacía encuestas al voleo. Al final, éramos los que más acertábamos en los resultados. Yo decía que era corazonada, olfato o intuición femenina", cuenta a Clarín María Isabel Sanchez, periodista y locutora de Radio Mitre. Mirá también: Twitter cambia de cara para conseguir más usuarios La sección "gourmet" de la iniciativa es la que más preguntas y respuestas genera. A lo largo de las distintas encuestas quedaron a la vista varios gustos culinarios. Por ejemplo, el 51 % de los argentinos prefiere la lechuga mantecosa (contra el 36% de la criolla y el 13% de la capuchina). A la vez, el chorizo a la parrilla se debe hacer entero (lo dijeron el 81 % de los participantes de la encuesta) y no al estilo "mariposa" (sólo lo prefirió así el 19 %). Al hablar del "trago del verano", la pelea está reñida: para el 51% es el fernet con cola y el 49% elige el Campari con naranja. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Anarquiaconsult/status/672734660691140608",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_67273466069114060")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Otro ítem alcanzado por estas encuestas fue el cucurucho. Para un 48% debe comerse al final del helado, pero existe un 7% de las personas que, directamente, lo tira a la basura. El dulce de batata es más rico solo (66 %) que con chocolate (34 %). Con la ensalada de frutas, la mayoría es contundente: para el 88 % de los participantes es imprescindible que tenga banana. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Anarquiaconsult/status/697740832733065216",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69774083273306521")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Anarquía Consulting también indagó los hábitos de las pareja. Al momento de la conquista, dicen sus resultados, la personalidad (63 %) le gana a la belleza (37 %). Para el 51% de los participantes no está bien salir con la ex pareja de un amigo, pero un 30 % cree que depende del grado de amistad y el resto lo haría sin cargo de conciencia. Al pelearse con alguien, el 52% de las personas elimina las fotos del ex, mientras que el 40% las guarda y el 8% prefiere devolvérselas. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Anarquiaconsult/status/699916270095851520",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69991627009585152")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Y un párrafo aparte para los hábitos más cotidianos. Los cordones de las zapatillas se deben atar cruzados tipo trenza (59 %) más que paralelos (41%). Al ducharse, el 71 % empieza por la cabeza y solo el 29 % por el cuerpo. Mientras que el objeto personal que se pierde con más frecuencia son las llaves (54 %), seguidas por los anteojos (33 %) y el celular (13 %). 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Anarquiaconsult/status/696653204587683840",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69665320458768384")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Anarquía Consulting nació hace tres años. Y sigue creciendo. "La gente se empezó a prender y ya tiene 15.000 seguidores. Me pusieron en el compromiso de pensar una encuesta diferente cada mañana. Me apuran y si me retraso me retan", reconoce María Isabel. Asombrada, cuenta el caso de una usuaria que ante la pregunta "¿Cómo debe colgarse el rollo de papel higiénico?" decidió enviarle un sofisticado gráfico donde exponía su punto de vista.     
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Anarquiaconsult/status/692298987362226176",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69229898736222617")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Anarquiaconsult/status/692305590073298944",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69230559007329894")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ "Algunos --tomándoselo en broma-- me dicen que es la más seria de todas las encuestadoras, que estos son los temas realmente importantes y cruciales para la vida argentina. La verdad es que refleja el gusto de la gente y sus preferencias", concluye la periodista.

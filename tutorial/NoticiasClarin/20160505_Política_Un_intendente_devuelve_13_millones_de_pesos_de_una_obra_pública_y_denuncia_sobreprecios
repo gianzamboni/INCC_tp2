@@ -1,0 +1,71 @@
+
+En un caso testigo e inédito, el intendente de la localidad entrerriana de Larroque, Dario Benedetti, de Cambiemos, decidió devolver al ministerio del Interior de Rogelio Frigerio más de 13 millones de pesos de un presunto sobreprecio que detectó en una obra pública que ejecutada por su antecesor, Raúl Riganti, del Frente para la Victoria, y financiada por el Estado nacional. Mirá también: El intendente que devolvió los millones y denunció corrupción: “Siento alivio” A través del Convenio Único de Colaboración y Transferencia, el municipio devolverá esa cifra a las arcas del Estado nacional, luego de detectar un presunto sobreprecio en una obra de pavimentación. “No es mucha plata, pero queremos sentar un precedente”, confiaron a Clarín cerca de Frigerio. Quieren enviar un mensaje a los sectores que reclaman recuperar la plata de la corrupción.
+
+ El Gobierno había girado ese monto a Larroque para terminar pagar la inversión total de 21 millones de pesos que costó la pavimentación de 14 cuadras en el pueblo de 8 mil habitantes. El municipio debía transferir ese monto a la empresa contratada OIC S.A, pero el dinero quedó en una cuenta del municipio en el Banco Nación, mientras culminaba la auditoría para analizar los números de la gestión del intendente saliente, Raúl Riganti, del Frente para la Victoria. El peritaje arrojó que la obra podría haber costado como máximo $ 5.4 millones, lo que determina un sobreprecio de $ 15,6 millones. La empresa ya había recibido un pago de 8,6 millones. El convenio que firmará Frigerio con Benedetti significará, además de la devolución del dinero al erario público nacional, el inicio de acciones legales contra la empresa y a los funcionarios municipales de la anterior gestión. 
+  Hoy se concretaron las denuncias en el juzgado contencioso administrativo de Paraná y ante el fiscal penal de Gualeguaychú. En el convenio quedará establecido que, si los fallos judiciales terminan por favorecer a la empresa, que a su vez podría iniciar acciones por daños y perjuicios contra el municipio, el Estado nacional se hará cargo de las penas. La denuncia, además de a los ex funcionarios locales y a la empresa constructora, también podría salpicar a Julio De Vido. Es que en Mayo del 2015 el ministerio de Planificación autorizó la obra por un monto total de $ 21,6 millones. En mayo de 2015, el entonces intendente llamó a un concurso público en el que se impuso OIC. “Ganó la empresa que tuvo un presupuesto menor y el radicalismo aprobó la obra en el Concejo Deliberante”, señaló Riganti ante la consulta de Clarín. El diputado provincial de Cambiemos Sergio Kneetman dice exactamente lo contrario. 
+
+
+En el Gobierno Nacional esperan que este sea un puntapié inicial para que muchos intendentes se animen a denunciar. 
+
+
+
+
+
+var act_3b8 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_3b8 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_3b8.setTitle('En el Gobierno Nacional esperan que este sea un puntapié inicial para que muchos intendentes se animen a denunciar.&nbsp;');
+act_3b8.setSubtitle('Entre Ríos'); 
+act_3b8.setLinkBack('http://www.clarin.com/politica/intendente-devuelve-millones-denuncia-sobreprecios_0_1571242987.html');
+act_3b8.setDescription('Dario Benedetti, de la localidad entrerriana de Larroque, descubri&oacute; que su antecesor hab&iacute;a presupuestado en 21 millones una obra que sal&iacute;a 5 millones. Sus denuncias judiciales.');
+act_3b8.addActionLink('VER MÁS', 'http://www.clarin.com/politica/intendente-devuelve-millones-denuncia-sobreprecios_0_1571242987.html');
+
+var showShareBarUI_params_3b8=
+{ 
+containerID: 'shareQuote_3b8',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_3b8,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_3b8
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_3b8);
+  Curiosamente, el auditor que contrató el nuevo intendente es el ex secretario de Justicia Sergio Urribarri, Rubén Virué, que perdió las internas del FPV en Larroque, a manos de la esposa de Riganti, Mónica Gayosa. El ex intendente señala que la facultad de auditar solo es potestad del Tribunal de Cuentas Provincial.  En el ministerio del Interior -lejos de las disputas domésticas- solo piensan en que tras las nuevas denuncias por sobreprecios en obra pública, otras provincias y municipios sigan el ejemplo de Larroque. La empresa, hasta ahora, no contestó los llamados.   La denuncia del Intendente de Larroque

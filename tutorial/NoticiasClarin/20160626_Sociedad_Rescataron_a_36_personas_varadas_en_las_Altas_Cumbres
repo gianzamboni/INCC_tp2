@@ -1,0 +1,18 @@
+
+Podría haber sido la escena de una película de acción: un colectivo, un auto con una familia y dos camiones, en los que viajaban un total de 36 personas, fueron rescatados por Defensa Civil en el camino de las Altas Cumbres de Córdoba, luego de una tormenta de nieve que llevó la temperatura a 14 grados bajo cero y bloqueó el paso. El tránsito vehicular quedará restringido "de manera preventiva" hasta que mejore el clima. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+​El rescate lo hicieron con dos camionetas 4x4 de los bomberos de Icho Cruz, el cuerpo especial de la Policía, tres camionetas de Defensa Civil de la Provincia y personal del Parque Nacional Quebrada del Condorito; desde las 22.30 y hasta pasadas las 2.30 de la madrugada."Se armó un operativo porque la temperatura entre El Cóndor y La Pampilla era de 14 grados bajo cero, estaba muy complicado. Había mucho viento del sector sur", explicó el jefe de Defensa Civil provincial, Diego Concha, a la emisora radial LV3. Mirá también: Video: increíbles choques en una ruta helada en Santa Cruz "El camino había desaparecido. Desde que empezó a nevar el sábado a la mañana nunca paró. En algunas zonas había entre 40 y 50 centímetros de nieve sobre la carpeta asfáltica, a veces convertida en hielo. Sigue intransitable". El tramo afectado había sido cortado ayer a la mañana por las malas condiciones climáticas, aunque por la tarde se habilitó de manera provisoria. "Habíamos pedido un corte preventivo, que se hizo por algunas horas. Pero estos vehículos son los que ya estaban circulando entre Traslasierra y Punilla. Los agarró la noche y se quedaron varados", indicó Concha. Mirá también: Cómo conducir en destinos con bajas temperaturas El camino permanece cerrado y su habilitación depende de las condiciones del clima, que este domingo continuó con caída de nieve y algunos grados menos de temperatura. El tramo más afectado es el que va desde el Cóndor, Copina, hasta Cañada Larga, antes de llegar al cruce que lleva a la localidad de Mina Clavero. 

@@ -1,0 +1,84 @@
+
+El Presidente de la Nación pronunciaba este viernes el tramo final de un discurso en Formosa. Ya se había referido a la ley antidespidos y comenzaba a detallar las implicancias de las obras anunciadas en la localidad de Clorinda. 
+
+
+Hasta que una ventisca le jugó una mala pasada, ya que la bandera argentina ubicada detrás de su atril, se le cayó en la cabeza. 
+
+
+
+
+
+var act_ade = new gigya.socialize.UserAction();
+
+var emailBodyCustom_ade = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_ade.setTitle('Hasta que una ventisca le jug&oacute; una mala pasada, ya que la bandera argentina ubicada detr&aacute;s de su atril, se le cay&oacute; en la cabeza.&nbsp;');
+act_ade.setSubtitle('EN FORMOSA'); 
+act_ade.setLinkBack('http://www.clarin.com/politica/blooper-Macri-bandera-argentina_0_1563443747.html');
+act_ade.setDescription('El Presidente hablaba sobre la ley antidespidos y anunciaba obras hasta que el viento le jug&oacute; una mala pasada.');
+act_ade.addActionLink('VER MÁS', 'http://www.clarin.com/politica/blooper-Macri-bandera-argentina_0_1563443747.html');
+
+var showShareBarUI_params_ade=
+{ 
+containerID: 'shareQuote_ade',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_ade,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_ade
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_ade);
+ 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Haciendo estas obras generamos trabajo de calidad", resaltó Macri, antes de sorprenderse cuando la bandera lo golpeó, de espaldas, en su cabeza. Fue un impacto leve, del que salió rápidamente merced a la ayuda del gobernador Gildo Insfrán, quien tomó el mastil y le quitó la bandera.  Las imágenes televisivas se fueron de la escena y enfocaron un tanque de agua hasta que Macri retomó el hilo de su intervención.  Mirá también: Macri volvió a insistir contra la ley antidespidos El Presidente, más allá de la sorpresa, no se inmutó y siguió normalmente con su discurso: "Haciendo estas obras generamos trabajo de calidad y eso es lo que queremos todos", sostuvo.  Mirá también: Córdoba: primer test electoral desde que Macri es Presidente

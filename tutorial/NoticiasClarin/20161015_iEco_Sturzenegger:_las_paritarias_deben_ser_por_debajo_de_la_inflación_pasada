@@ -1,0 +1,18 @@
+
+Federico Sturzenegger protagonizó ayer un monólogo en IDEA y buscó representar con un discurso escrito, que leyó casi sin salirse de la letra, la transformación institucional del Banco Central. Eso sí, no soslayó ninguna de las preguntas que se formularon en este Coloquio. Estaba bien informado. Se refirió a la inflación, al dólar y a los salarios. De paso, respondió a los economistas, hasta mencionó a Miguel Bein, que lo había precedido en el panel anterior (ver aparte). Fue en uno de los pocos momentos que improvisó: “No hay crecimiento estable y sostenido con alta inflación y no existe ninguna evidencia de que la baja de la inflación sea recesiva”, dijo enfático. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+¿Las metas?, dijo Sturzenegger después para responder: “1,5% o menos en el último trimestre de este año, entre 12 y 17% en 2017, 8 y 12% en 2018 y 5% en 2019”, aseguró. Sobre el tipo de cambio y con el presidente de Fiat, Cristiano Rattazzi, que siempre pide un dólar más alto, sentado en primera fila, sostuvo: “Hemos elegido el camino más difícil, el de bajar la inflación sin operar el tipo de cambio. Vale la pena. Emergemos con una economía más estable. La flexibilidad cambiaria es central para estar más protegidos del contexto internacional”. Dio como ejemplo lo que ocurrió en Colombia, con exportaciones que dependen en un 50% del petróleo, cuyo precio colapsó. “Colombia reaccionó con una devaluación del 70% y la inflación apenas subió de 4 a 7% anual. La economía mantuvo un crecimiento de 3,1% ese año. En la Argentina se cree que cuando se mueve el tipo de cambio también se mueven los precios. Es por eso que muchos piensan en el tipo de cambio como ancla. Pero los precios suben porque crece la cantidad de dinero más allá de lo que la gente quiere tener”, sostuvo en referencia a la emisión. ¿Qué rol juegan las negociaciones salariales?, disparó después para preguntarse si son cumplibles las metas de inflación si la negociación salarial se ubica por encima. “Es posible que se precise una pauta salarial algo por encima de la meta de inflación pero claramente debe ser por debajo de la inflación pasada”, dio la pauta Sturzenegger para añadir: “No consideramos que los salarios sean un ancla”, remarcó. Una sala repleta de empresarios que lo escuchaban en el Sheraton se lo agradeció. “Nos mostró un sendero, un futuro”, expresó a Clarín con un entusiasmo poco frecuente, Martín Berardi de Techint. Al finalizar, Sturzenegger, poeta al fin, eligió algunas estrofas del flamante Premio Nobel Bob Dylan: “Cuantas veces un hombre debe de alzar la vista antes de que pueda ver el cielo? La respuesta, mi amigo, está soplando en el viento”, soltó para retirarse en medio de aplausos muy sonoros.

@@ -1,0 +1,34 @@
+
+Los aterrizajes simultáneos se dan en varios aeropuertos del mundo, y el de San Francisco, EE.UU. es uno de ellos.  Esta terminal tiene, según señala el sitio especializado en aviación Landing Short, dos pistas paralelas separadas por algo más de 200 metros, cuando lo usual es que exista una distancia de entre 750 y mil metros entre dos pistas paralelas. Mirá también: A las patadas y a los gritos, una mujer logró que un avión aborte el despegue  Este hecho, más la omnipresencia de celulares inteligentes permiten videos en los que puede verse el particular espectáculo de dos aeronaves aproximándose a las pistas y aterrizando casi al mismo tiempo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Ayer, un usuario de YouTube subió a esa plataforma un video tomado desde un avión que registraba el aterrizaje simultáneo de dos aeronaves.  El aeropuerto de San Francisco cuenta con un preciso sistema que controla la trayectoria de los aviones que bajan en simultáneo y, en el caso de detectar una desviación en una de ellas, alerta a la otra para que se aleje, explican en Landing Short. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Video: prueban por primera vez el Hyperloop, el transporte del futuro  En 2013, otro usuario había publicado un video similar, pero tomado desde el avión opuesto. Estas imágenes fueron tomadas desde un Embraer EMB-120 y registran parte de esa aeronave y a un AirBus A320 de United aterrizando en la pista paralela.

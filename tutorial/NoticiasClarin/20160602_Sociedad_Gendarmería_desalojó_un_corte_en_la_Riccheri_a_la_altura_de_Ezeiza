@@ -1,0 +1,35 @@
+
+Gendarmería desalojó esta mañana un corte de empleados de una empresa de seguridad en el ingreso al aeropuerto de Ezeiza. En un breve operativo, los gendarmes empujaron a los vigiladores fuera de los carriles de la autopista y se restableció el tránsito en la Ricchieri. 
+
+El bloqueo era total y los pasajeros tenían que hacer casi un kilómetro caminando con sus valijas en plena autopista. Gendarmería les dio un “ultimatum” a los manifestantes de que se retiraran. Al no hacerlo, los desplazaron. La orden de desalojar el corte la dio Alberto Santa Marina, juez federal de Lomas de Zamora.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Los vigiladores privados cortaron el acceso al aeropuerto en reclamo del pago de tareas extras que cumplen y de un nuevo régimen laboral con menos días de trabajo. La presencia de Gendarmería y Policía de Seguridad Aeroportuaria provocó que se liberaran dos carriles por unos minutos, pero luego llegó otro grupo para reclamar y el corte volvió a ser total, con un embotellamiento de hasta 3 kilómetros. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

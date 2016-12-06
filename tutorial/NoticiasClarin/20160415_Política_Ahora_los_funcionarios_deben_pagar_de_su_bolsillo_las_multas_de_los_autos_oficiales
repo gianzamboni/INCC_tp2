@@ -1,0 +1,70 @@
+
+A hacerse cargo. Desde ahora, cada funcionario de la administración con vehículos en su dependencia, deberá pagar de su bolsillo las infracciones de los autos oficiales, cosa que hasta ahora no sucedía. 
+
+
+El Gobierno nacional dispuso que “a partir del 10 de diciembre de 2015 en vehículos asignados a funcionarios”, las multas deberán ser saldadas por cada responsable.
+
+
+
+
+
+var act_43a = new gigya.socialize.UserAction();
+
+var emailBodyCustom_43a = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_43a.setTitle('El Gobierno nacional dispuso que &ldquo;a partir del 10 de diciembre de 2015 en veh&iacute;culos asignados a funcionarios&rdquo;, las multas deber&aacute;n ser saldadas por cada responsable.');
+act_43a.setSubtitle('DECISIÓN OFICIAL'); 
+act_43a.setLinkBack('http://www.clarin.com/politica/Ahora-funcionarios-bolsillo-multas-oficiales_0_1559244207.html');
+act_43a.setDescription('El Gobierno nacional orden&oacute; que cada responsable de un veh&iacute;culo se haga cargo de las infracciones de tr&aacute;nsito. Intentan frenar el descontrol en ese rubro.');
+act_43a.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Ahora-funcionarios-bolsillo-multas-oficiales_0_1559244207.html');
+
+var showShareBarUI_params_43a=
+{ 
+containerID: 'shareQuote_43a',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_43a,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_43a
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_43a);
+ La decisión de la Secretaría General de la Presidencia, a cargo de Fernando De Andreis, es que las infracciones de tránsito ya no queden en un limbo y evitar además, el libre albedrío de los vehículos oficiales, rubro en el que hallaron a su llegada al Gobierno un auténtico descontrol. Mirá también: Cristina, frente al espejismo del poder
+
+Así que,desde ahora, nada de estacionar en cualquier lado sin problema o pasar de largo las luces amarillas y rojas: los funcionarios sentirán en su economía el rigor si los autos de la administración pública no cumplen con las normas de tránsito. Mirá también: La Ciudad acorrala a Uber, que sube la apuesta y alienta a sus choferes a seguir

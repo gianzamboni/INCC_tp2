@@ -1,0 +1,34 @@
+
+Un grupo de periodistas, encabezados por los conductores de 678, se presentó este lunes a Radio Nacional a conducir sus programas, luego de la decisión de las autoridades de desvincularlos de la grilla de la emisora. Los conductores se presentaron junto a militantes, en su mayoría de agrupaciones kirchneristas, esta mañana a las siete para retomar sus funciones. Allí fueron recibidos por la directora, Ana Gerschenson, quien le reiteró la decisión, en medio de una protesta frente al edificio. Cynthia García, Edgardo Mocca, Roberto Caballero, Luciano Galende, Mariana Moyano y Nora Veiras, entre otros, habían advertido que resistirían la medida y denunciaron al Gobierno por haberlos censurado. Mientras que el Ministerio de Medios Públicos, que dirige Hernán Lombardi, los acusó de "amenazar" la libertad de expresión. Leé también: El Gobierno dice que no permitirá la vuelta de los conductores de 678 a Radio Nacional 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/cyngarciaradio/status/694122303379083264",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69412230337908326")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ García, una de las caras más visibles de la protesta, denunció el hecho de que la nueva directora de la radio, Ana Gerschenson, recibiera a los periodistas en el hall del edificio para comunicarles la decisión. Más tarde, Gerschenson respondió -también a través de Twitter- a la denuncia de "persecusión ideológica" por parte de la periodista. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/anagerschenson/status/694127584372768769",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69412758437276876")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Acompañados por un grupo de militantes kirchneristas y un escribano, los periodistas pudieron hablar con la directora de Nacional, quien les ratificó la decisión de discontinuarlos de la emisora.  Los contratos, renovados por la gestión anterior, de estos conductores también habían despertado una polémica días antes de la decisión de que no continuarán en la grilla de la radio pública. Leé también: Trabajadores de prensa realizaron un festival contra el vaciamiento del Grupo 23

@@ -1,0 +1,18 @@
+
+John David tiene dos años y nació con síndrome de Down, pero a pesar de su condición parece estar dispuesto a demostrar que nadie debe cuestionar sus capacidades. A pesar de sus problemas de dicción, su madre lo grabó mientras recitaba de principio a fin y a la perfección el abecedario; un video que posteriormente subió a Internet y que ha emocionado a los internautas, especialmente por la ternura del pequeño.Mirá también: Un chico down juega con su perra en La PlataEl pequeño John y sus simpáticos coloretes aparecen frente a la cámara para empezar a recitar, con la ayuda de su madre, todas las letras del alfabeto recitando con una gracia, ímpetu y espontaneidad que parece reservada a aquellas personas especiales. Su cara se transforma en cada letra para darle la entonación y pronunciación adecuadas. Y es casi al final del video, con la letra w, cuando el pequeño saca a relucir todo su repertorio de encantos, tal y como advierte su abuela Pam, quién compartió el video de su nieto y rápidamente logró nueve millones de visitas. El video engancha por la actitud de su pequeño protagonista.Leé también: Gastón, el guardavidas con síndrome de Down que trabaja en un club de CórdobaQuizá las imágenes no tendrían tanto impacto si no se tratara de un nene con síndrome de Down, una alteración cromosómica que lleva relacionada discapacidad intelectual. Pero el trabajo que está llevando a cabo la familia con el pequeño parece dar sus frutos. Hannah Marlin, la orgullosa mamá, explicaba a ABC News que desde los seis meses siguen con John programas de estimulación precoz para ayudarle a desarrollar sus capacidades. Y reconoce, orgullosa, que llevaba una semana trabajando el alfabeto con el pequeño pero que durante del video fue la primera vez que lo oyeron pronunciar con tanta claridad.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Leé también: La modelo con síndrome de Down presentó a su novioLa abuela también explicó que el chico empezó a decir palabras como "mamá" o "papá" pero reconoce que para él hacer todo eso es "un mundo". Fue por eso que les impresionó y sorprendió su perfecta dicción durante el video. "Fue increíble oírlo", explicó. Una proeza que no han pasado por alto las redes sociales.Fuente: La Vanguardia.

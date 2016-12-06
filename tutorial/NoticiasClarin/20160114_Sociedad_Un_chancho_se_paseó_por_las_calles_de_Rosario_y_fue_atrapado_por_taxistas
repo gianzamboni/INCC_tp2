@@ -1,0 +1,17 @@
+
+A primera hora del día, las calles de Rosario se convirtieron en el inusual escenario para la aparición de un chancho. El animal estaba lastimado y recorrió varias cuadras del centro de la ciudad hasta que finalmente fue retenido por un grupo de taxistas, uno de los cuales logró enlazarlo mientras aguardaban la llegada de agentes municipales.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

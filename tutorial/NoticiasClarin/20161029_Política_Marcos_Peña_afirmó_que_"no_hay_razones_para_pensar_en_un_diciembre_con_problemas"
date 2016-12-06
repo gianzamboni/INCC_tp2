@@ -1,0 +1,68 @@
+
+El jefe de Gabinete, Marcos Peña, pasó ayer por Salta y Tucumán en medio de actividades oficiales y partidarias. En ambos distritos inauguró mesas provinciales de Cambiemos. Confiado, el ministro coordinador dobló la apuesta y  garantizó que no habrá conflicto social a fin de año. "No hay razones para pensar que en diciembre pueda haber problemas estructurales. Pueden haber algunos focos, como siempre los hay, como todos los días. En la Argentina siempre eso es una posibilidad, pero creemos que las cosas van a estar bien. No hay razones para estar preocupados", sentenció Peña en una entrevista con el diario La Gaceta. Mirá también: El hombre al que más escucha Macri El funcionario, uno de los estrategas del Gobierno, ratificó la opinión de la ministra de Desarrollo Social, Carolina Stanley, que hace siete días había expresado en una entrevista con Clarín el mismo concepto. "Trabajamos todo el año para que no haya conflicto en diciembre", había señalado la ministra en el inicio de las negociaciones con organizaciones sociales.  
+
+
+Pasó lo más difícil, pero creo que aún falta mucho", sostuvo.
+
+
+
+
+
+var act_f41 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_f41 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_f41.setTitle('Pasó lo más difícil, pero creo que aún falta mucho", sostuvo.');
+act_f41.setSubtitle('Definiciones de un hombre clave de Macri'); 
+act_f41.setLinkBack('http://www.clarin.com/politica/Pena-razones-diciembre-problemas_0_1677432273.html');
+act_f41.setDescription('El jefe de Gabinete aseguró que el país vive un clima de paz y descartó un conflicto social a fin de año. Ponderó las mesas de diálogo que inauguró el Gobierno con gremios y empresarios. ');
+act_f41.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Pena-razones-diciembre-problemas_0_1677432273.html');
+
+var showShareBarUI_params_f41=
+{ 
+containerID: 'shareQuote_f41',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_f41,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_f41
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_f41);
+ El jefe de Gabinete se mostró optimista y ponderó las nuevas mesas de diálogo que inauguró el Gobierno con los gremios y los empresarios, tras la visita del Presidente al Papa. "La Argentina está viviendo un clima de paz. Y estamos con optimismo de que las cosas van a mejorar con mucho diálogo entre políticos, sindicalistas y empresarios", sentenció. Mirá también: Carolina Stanley: "Trabajamos todo el año para que no haya conflicto en diciembre" Peña insistió en que el país y el Gobierno ya atravesó el momento más crítico. "Pasó lo más difícil, pero creo que aún falta mucho. Hablamos de niveles de pobreza, de desigualdad y de falta de trabajo. Pero cada día es más claro que no estamos entrando en una crisis, sino que estamos saliendo de ella, mejorando la realidad económica y sentando las bases para crecer", señaló.   Peña y Frigerio y una foto sorpresiva ​Peña y Rogelio Frigerio lo hicieron. El jefe de Gabinete y el ministro del Interior estuvieron ayer en Salta. Su logro más notable no fue la mesa provincial de Cambiemos, cuyo lanzamiento acompañó, ni la presencia del "Estado en tu barrio". Lo que sorprendió a todos fue que pudieran reunir al gobernador Juan Manuel Urtubey y al intendente de la capital provincial, Gustavo Sáenz, dos adversarios políticos que rozan la enemistad. Ambos, de raíces peronistas, pero de buen diálogo con la Casa Rosada terminaron a los abrazos ante la incredubilidad de los presentes, entre ellos, el ministro de Cultura, Pablo Avelluto. Mirá también: El PJ salteño se rebela y respalda la ley electoral de Macri Sáenz, ex compañero de fórmula de Sergio Massa, ponderó el trabajo conjunto entre el Gobierno nacional, el provincial y el municipal. “No es uno contra otros, es todos trabajando de manera conjunta como sacaremos adelante al país”, sorprendió Saénz, con la tónica del discurso de Cambiemos. Dicen que el jefe comunal está cada día más cerca del macrismo. Urtubey, en tanto, celebró la implementación del Plan Belgrano. “Tuvo la virtud de visibilizar una situación; todo el Norte grande argentino tiene un retraso”, señaló. El gobernador salteño fue más allá y, a diferencia del resto del PJ, defendió al Gobierno en la polémica por la boleta única electrónica.

@@ -1,0 +1,21 @@
+
+Las nuevas autoridades del canal CN23 despidieron a 136 personas, de una planta de 160 empleados que trabajaban en ese canal de noticias. Este lunes, los trabajadores tomaron el edificio, tras conocerse este lunes una lista con los nombres de quienes fueron despedidos. CN23 era propiedad del empresario y ex candidato K Sergio Szpolski, quien vendió el canal al Grupo Indalo, propiedad de otro empresario kirchnerista: Cristóbal López.
+
+
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ana22lf/status/704267473961488384",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70426747396148838")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El titular de Indalo tiene ya otro canal de noticias, C5N y varias radios, como Radio 10 y Pop. Ahora, Cristóbal López tomó el control de CN23 y comenzó con 136 despidos.
+

@@ -1,0 +1,18 @@
+
+“Un médico por ahí, un médico por ahí”, se escuchó ni bien llegó el presidente Mauricio Macri al salón principal del predio “La Celestina” de Río Ceballos, donde sesionaban ayer unos 450 gobernantes de pequeños pueblos y grandes ciudades nucleados en el Foro Nacional de Intendentes Radicales (FNIR), que ayer eligieron como presidente al cordobés Ramón Javier Mestre. La frase de ayuda remitió a Raúl Alfonsín, de quien se cumplieron hace pocos días, siete años de su muerte. Un fotógrafo se había cortado arriba de una de sus cejas y fue rápidamente auxiliado. Diez minutos antes, bajo una persistente y molesta llovizna, antes de ingresar al encuentro radical, Macri bajó del vehículo negro que lo trasladaba y saludó durante unos minutos al centenar de vecinos que lo esperaba: “Fuerza Mauricio”; “sí, se puede”; lo vivaron algunos; mientras otros, entre los que se encontraban ambientalistas y militantes del Movimiento Socialista de los Trabajadores (MST), lo insultaron. Y una mujer le tiró un fallido carterazo. Macri no perdió la compostura, volvió al vehículo e ingresó al predio. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Allí, el Presidente jugó de local. Mestre le regaló: “Cuente con nosotros Presidente para defender las instituciones de la República. Les hablo en nombre de los 5 millones de vecinos que representamos en nuestras ciudades. Tuvo que venir un hombre de la Capital Federal a devolvernos el federalismo a los intendentes, después de cinco años de ninguneo por parte del Gobierno anterior”.  Antes, lo habían recibido el intendente local Omar Albanese (UCR); y tres dirigentes macristas: el intendente de Villa Allende, el ex golfista Eduardo “Gato” Romero; su colega de Jesús María, Gabriel Frizza y el diputado nacional Héctor “La Coneja” Baldassi. En el salón principal, frente a cientos intendentes radicales de todo el país, Macri arengó: “En Argentina se terminó la impunidad; cada uno es responsable de las cosas que haga”. Sentados a su lado, lo aplaudieron el cordobés Mestre; José del Corral, intendente de Santa Fe y presidente del Comité Nacional de la UCR; el jefe de la bancada radical en Diputados, Mario Negri; y Ernesto Sanz, el ex senador y armador de Cambiemos. Mientras que el jefe del bloque radical en la Legislatura cordobesa, Orlando Arduh, le dijo a Clarín que “Mestre como líder los intendentes radicales será un jugador fundamental en el armado nacional de Cambiemos”.

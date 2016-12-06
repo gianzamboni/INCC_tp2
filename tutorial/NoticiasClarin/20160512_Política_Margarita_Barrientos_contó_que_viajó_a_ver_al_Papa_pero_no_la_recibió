@@ -1,0 +1,18 @@
+
+Margarita Barrientos sorprendió hoy al contar una situación que vivió a mediados de 2013, cuando viajó al Vaticano – con audiencia acordada previamente – para visitar al Papa Francisco. El Sumo Pontífice no la recibió.  “Avisé con tiempo que iba. Un empresario nos pagó el viaje. Fuimos con Juan Carlos Pallarols y la periodista Karina Villela. Teníamos la audiencia. Entramos con la tarjeta celeste, para sentarnos. En un momento vinieron y nos sacaron. Me dijeron que había prioridad por otra gente que había ahí.  No me sentí mal en absoluto. Pensé 'estará ocupado'”, comenzó a narrar la fundadora del comedor “Los Piletones”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Barrientos estuvo de visita en el piso del programa Desayuno Americano, que va por el canal América. Allí, al ser consultada sobre más detalles respecto a la fallida visita a Francisco, confirmó que piensa que no fue recibida por su vinculación con el actual Presidente de la Nación, Mauricio Macri. Mirá también: Qué dijo Margarita Barrientos sobre la mención de Michelle Obama  “Tiene que ver con la política, desgraciadamente. Esa parte sí me dolió un poco. No iba a ir a hablarle mal de la Presidenta de ese momento. Nosotros estamos acostumbrados a que nos digan 'no'. Pero la verdad, habiendo ido con una periodista tan reconocida y con Pallarols, que además le llevó el cáliz. Hoy no tengo ganas de que me reciba”, agregó Barrientos.  En un momento de la nota, el panelista Luis Novaresio comenzó a recibir mensajes de Villela y los leyó al aire. “Estábamos ubicados en el sagrario. Y al lado de Margarita estaba la señora de Carlotto. De una manera espantosa nos sacaron del lugar y no nos dieron ninguna explicación. Nos faltaron el respeto”, fue lo que dijo la periodista.  “Fue una experiencia triste. Nos sentimos muy maltratados. El señor Pallarols quería explicaciones. Dejé una carta que le había escrito al Papa. Nunca me la contestó. Ni siquiera sé si recibió el cáliz de Pallarols”, cerró. 

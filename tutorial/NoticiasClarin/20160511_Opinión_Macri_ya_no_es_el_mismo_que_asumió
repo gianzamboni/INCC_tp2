@@ -1,0 +1,200 @@
+
+No me jodan con la caída de la imagen. Voy a seguir tomando las decisiones que me parezcan bien”. Mauricio Macri fue cortante, los últimos días de la semana pasada, delante de algunos ministros y asesores que le plantearon objeciones por el embrollo político que le provoca al Gobierno el rechazo tajante a la ley antidespidos. Aquellos funcionarios parecieron detectar en ese instante dos mutaciones en la personalidad del Presidente entre la larga y difícil campaña electoral y estos primeros meses complejos de gestión. La primera: para Macri los sondeos de opinión pública eran hasta no hace mucho casi una Biblia. Ya no lo serían. La segunda: el ingeniero continúa escuchando los consejos de su equipo, también delibera, pero siempre lauda en sintonía con su forma de pensar. Como si empezara a creer bastante más en sí mismo que en los demás. 
+
+
+"No me jodan con la caída de la imagen". Mauricio Macri fue cortante
+
+
+
+
+
+var act_005 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_005 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_005.setTitle('"No me jodan con la caída de la imagen". Mauricio Macri fue cortante');
+act_005.setSubtitle('En foco'); 
+act_005.setLinkBack('http://www.clarin.com/opinion/Macri-mismo-asumio_0_1574842503.html');
+act_005.setDescription('');
+act_005.addActionLink('VER MÁS', 'http://www.clarin.com/opinion/Macri-mismo-asumio_0_1574842503.html');
+
+var showShareBarUI_params_005=
+{ 
+containerID: 'shareQuote_005',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_005,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_005
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_005);
+ Una percepción casi idéntica recogió un periodista de rating que mantuvo con el Presidente una conversación informal. El hombre no había hecho pronósticos optimistas al producirse el traspaso del poder. Sobre todo por el peso de la herencia que dejaba el kirchnerismo. “Dijiste que no íbamos a poder levantar el cepo y lo hicimos. Dijiste que no íbamos a cerrar el acuerdo con los holdouts y también lo hicimos. Ahora me corrés con que no vamos a poder bajar la inflación. En agosto, más o menos, lo vas a ver. Espero que lo reconozcas en público”, desafió Macri. La convicción de Macri sobre el rumbo adoptado pareciera, sin embargo, encontrar una dificultad. Los caminos políticos explorados para llegar al objetivo asomarían demasiado empedrados y riesgosos. Como si al Presidente no le importara cargar la mochila del costo sobre sus espaldas y sobrevalorara, a lo mejor, las herramientas institucionales que dispone. Su imagen pública ha descendido, según la unanimidad de los sondeos. Entre 5 y 8 puntos. Pero la expectativa social, pese al momento del severo ajuste económico, se mantendría elevada. Esa sería la plataforma sobre la que se anclaría Macri para hacer lo que hace. Confiando en la llegada de épocas de mayor prosperidad. El deseado segundo semestre. El interrogante que siembra temor en Cambiemos –pero que no conmovería aún al Presidente– radicaría en conocer las defensas políticas que poseería el oficialismo si aquella prosperidad se demora en llegar. O llega con menor intensidad que la prometida. La confianza indujo a Macri a detonar una pelea de dimensión, tal vez, innecesaria. Convirtió la ley antidespidos en un reto simultáneo contra el sindicalismo y todo el arco opositor. Ni muchos de los opositores están convencidos de la eficacia de la medida en ciernes. Pero observan la oportunidad de propinarle la primer derrota política de tamaño al Gobierno. 
+
+
+La confianza indujo a Macri a detonar una pelea de dimensión, tal vez, innecesaria.
+
+
+
+
+
+var act_d25 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_d25 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_d25.setTitle('La confianza indujo a Macri a detonar una pelea de dimensión, tal vez, innecesaria.');
+act_d25.setSubtitle('En foco'); 
+act_d25.setLinkBack('http://www.clarin.com/opinion/Macri-mismo-asumio_0_1574842503.html');
+act_d25.setDescription('');
+act_d25.addActionLink('VER MÁS', 'http://www.clarin.com/opinion/Macri-mismo-asumio_0_1574842503.html');
+
+var showShareBarUI_params_d25=
+{ 
+containerID: 'shareQuote_d25',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_d25,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_d25
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_d25);
+ La ley antidespidos fue sólo una salida imaginativa durante el gobierno de Eduardo Duhalde, cuando el país estaba sumergido en una emergencia. Nació en un contexto de pacto político-social que contó con el paraguas de la Iglesia. Y tuvo un estímulo inocultable: el pánico de la sociedad y los empresarios a otro desbarranco. El reglamento fue prorrogado varias veces por Néstor Kirchner, sólo como un envejecido reflejo argentino. En ese tiempo no hubo despidos y se generó empleo porque la economía comenzó a crecer, entre otras razones, por influjo de un marco internacional que alineó los planetas a favor de las naciones emergentes. Pero todo eso es historia. El Presidente se ha tentado con llevar las cosas a un extremo. Denuncia que la sanción de la ley antidespidos atentaría contra las inversiones en la Argentina. Según su óptica, motor indispensable para el despegue económico. En ese tópico fijo tendría razón. Pero la llegada de capital externo productivo se podría concretar cuando el país gane en confiabilidad. Eso no depende, ni por asomo, de una sola cuestión. Tampoco ayudaría a generar aquel ánimo el forcejeo permanente entre el Gobierno y la oposición por una ley que, de verdad, solucionaría poco y nada. Desde que el Senado, por amplísima mayoría, dio media sanción a la ley antidespidos, el Gobierno parece condenado a correr los acontecimientos desde atrás. Gabriela Michetti, la vicepresidenta, demoró todo lo que pudo la remisión del proyecto a Diputados. Allí, el titular de la Cámara, Emilio Monzó, desenrolló varias propuestas sobre el tema para intentar empastar la maniobra opositora. Pero otra vez el macrismo halcón le echó combustible al fuego. El Presidente, Marcos Peña, su jefe de Gabinete, y Rogelio Frigerio, el ministro del Interior, machacaron con la inevitabilidad del veto en caso que la ley antidespidos sea sancionada en Diputados con la matriz del Senado. El Frente para la Victoria (FpV) pidió una sesión especial para mañana. Deberá cosechar los dos tercios. El PJ anunció que en caso de existir el veto presidencial el Congreso insistirá cada semana para darle vigencia a la ley. Un recurso que poseen los legisladores. Una promesa de martirio político para el macrismo. Escalada que no parecería tener fin. En medio de esa turbulenta escena Macri realizó otro par de ensayos, que sonaron a necesidad por la ocasión. Juntó al empresariado de primer nivel que firmó un compromiso para mantener los puestos de trabajo durante 90 días. Tres meses menos que lo que estipula la ley antidespidos. El sindicalismo se abstuvo. Ayer mismo comunicó beneficios para las pequeñas y medianas empresas, que rechazan la doble indemnización que establece la norma opositora. Habría descuentos en Ganancias para los empresarios que inviertan. También la posible devolución del IVA. Todo, destinado a bajar costos laborales. Los empresarios de las pymes recibieron tales novedades con iguales dosis de entusiasmo e incredulidad. 
+
+
+Desde que el Senado, por amplísima mayoría, dio media sanción a la ley antidespidos, el Gobierno parece condenado a correr los acontecimientos desde atrás.
+
+
+
+
+
+var act_273 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_273 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_273.setTitle('Desde que el Senado, por amplísima mayoría, dio media sanción a la ley antidespidos, el Gobierno parece condenado a correr los acontecimientos desde atrás.');
+act_273.setSubtitle('En foco'); 
+act_273.setLinkBack('http://www.clarin.com/opinion/Macri-mismo-asumio_0_1574842503.html');
+act_273.setDescription('');
+act_273.addActionLink('VER MÁS', 'http://www.clarin.com/opinion/Macri-mismo-asumio_0_1574842503.html');
+
+var showShareBarUI_params_273=
+{ 
+containerID: 'shareQuote_273',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_273,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_273
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_273);
+ ¿Por qué motivo? Por varios. El anuncio habría resultado tan improvisado que el ministro de Producción, Francisco Cabrera, confesó que el Gobierno debe todavía terminar de elaborar el proyecto. Esa propuesta tendrá, por otro lado, que desfilar por los laberintos de un Congreso transformado en una muestra de trincheras políticas. El macrismo sería propietario sólo de una de ellas. El resto habrían sido acaparadas por la oposición. A Macri la batalla por la ley antidespidos le va desgranando aquella coalición parlamentaria con la cual debutó su Gobierno, que permitió el vital acuerdo con los fondos buitre. De ese armado sobresalen ahora dos pleitos. Uno, con el bloque justicialista disidente. Diego Bossio, su cabeza visible, se sumó al FpV para reclamar la sesión especial de mañana. El otro, envuelve a Sergio Massa. El diputado del Frente Renovador estaría entre la espada y la pared: queda en esta encrucijada de Macri como su posible socorrista o se termina acoplando a las demandas de los K. La cuestión sería para él aún más enrevesada. Su bloque está virtualmente partido en tres por la ley antidespidos. El sector gremial la apoya; el empresario la rechaza y muchos de los políticos rasos pretenden simplemente sopapear a Macri. Sacarse un gusto. Las chicanas entre Macri y Massa estarían a la orden del día. El ex intendente de Tigre avala en Corrientes una fórmula (Camau Espinola–Nito Artaza) para desbancar el año que viene al radical Arturo Colombi en Corrientes. Los socios del PRO braman. María Eugenia Vidal, gobernadora de Buenos Aires, cenó hace días con Florencio Randazzo. Ex ministro de Interior y Transporte de Cristina Fernández, con quien terminó enemistado. El pejotismo apostaría a él para las legislativas del 2017. Una complicación objetiva en la carrera bonaerense de Massa. Simple devolución de favores.

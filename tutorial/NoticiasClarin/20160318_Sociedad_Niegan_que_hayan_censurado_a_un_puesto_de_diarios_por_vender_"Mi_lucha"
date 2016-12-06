@@ -1,0 +1,84 @@
+
+Un puesto de diarios y revistas porteño fue clausurado luego de que detectaran que allí se vendía "Mi Lucha", el libro del líder nazi Adolf Hitler. A través de su Unidad Especializada en Discriminación, la Fiscalía de la Ciudad secuestró el 11 de marzo una serie de ejemplares del libro en el local ubicado en avenida Julio A. Roca al 600. Mirá también: Ana Frank y el mundo de la resistencia al nazismo Por la distribución de material "con contenido discriminatorio", el dueño del local se encuentra actualmente imputado. También están investigando para encontrar a los responsables de editar y distribuir la obra. Tanto el vendedor como los editores y distribuidores podrían recibir una pena de entre un mes y tres años de prisión.   
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La decisión generó polémica y muchos se preguntaron si no fue una censura. Pero el secretario general de Acceso a Justicia porteño, Gustavo Galante, lo negó en diálogo con TN. "Acá no hay censura previa", dijo y luego remarcó: "no estamos tras la censura previa, sino tras las consecuencias ulteriores". Mirá también: Un ex agente de la CIA dice que Hitler fingió su muerte y escapó a la Argentina El funcionario aclaró que "las conductas de índole expresiva tienen amparo constitucional, lo que está vinculado con la prohibición de la censura previa. Lo que sí está permitido es perseguir a alguien penalmente por consecuencias ulteriores. En este caso, es una clara violación al artículo 3 de la ley antidiscriminatoria de Argentina (N° 23.592)". 
+
+
+Artículo 3°.- Serán reprimidos con prisión de un mes a tres años los que participaren en una organización o realizaren propaganda basados en ideas o teorías de superioridad de una raza o de un grupo de personas de determinada religión, origen étnico o color, que tengan por objeto la justificación o promoción de la discriminación racial o religiosa en cualquier forma.
+
+
+
+
+
+var act_8b6 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_8b6 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_8b6.setTitle('Art&iacute;culo 3&deg;.- Ser&aacute;n reprimidos con prisi&oacute;n de un mes a tres a&ntilde;os los que participaren en una organizaci&oacute;n o realizaren propaganda basados en ideas o teor&iacute;as de superioridad de una raza o de un grupo de personas de determinada religi&oacute;n, origen &eacute;tnico o color, que tengan por objeto la justificaci&oacute;n o promoci&oacute;n de la discriminaci&oacute;n racial o religiosa en cualquier forma.');
+act_8b6.setSubtitle('Clausuraron el local'); 
+act_8b6.setLinkBack('http://www.clarin.com/sociedad/Niegan-censurado-puesto-diarios-vender_0_1542445928.html');
+act_8b6.setDescription('El secretario de Acceso a la Justicia,&nbsp;Gustavo Galante, lo neg&oacute;:&nbsp;&quot;Estamos&nbsp;tras las consecuencias ulteriores&quot;.');
+act_8b6.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/Niegan-censurado-puesto-diarios-vender_0_1542445928.html');
+
+var showShareBarUI_params_8b6=
+{ 
+containerID: 'shareQuote_8b6',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_8b6,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_8b6
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_8b6);
+ Galante explicó que - desde la Fiscalía Especializada en Discriminación- creen que detrás de esto hay organizaciones que tienen como finalidad llevar a cabo propaganda discriminatoria, y que están detrás de ellas desde el 2008. "Hemos desmantelado a más de una. Hubo un acto nazi en plena ciudad de Buenos Aires en un cementerio público. Desde ese momento venimos persiguiendo a distintas organizaciones", detalló. Setenta años después de su primera edición, la obra panfletaria "Mi Lucha" sigue generando polémicas. Recientemente se generó un fuerte debate en Alemania, donde volvió a venderse una edición crítica, con la intención de desmitificar el libro y desacreditar la obra del líder nazi.

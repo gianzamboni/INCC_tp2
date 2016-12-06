@@ -1,0 +1,75 @@
+
+La Justicia encontró hoy en el allanamiento a la casa de una de las hijas de Lázaro Báez bolsones negros como los que se vieron en el video de la financiera La Rosadita. En esos bolsos -que figuran en las denuncias de la Ruta del Dinero K- había fajas de papel como las que usan los bancos para asegurar los paquetes de billetes, aunque no se encontró dinero en efectivo. El hallazgo ocurrió esta mañana en la casa de Melina Báez en Río Gallegos, una de las muchas propiedades de la familia Báez que se allanaron en Santa Cruz por orden del juez Sebastián Casanello y el fiscal Guillermo Marijuán. Los bolsos negros repletos de dólares y euros figuran en la causa por el relato de los testigos que los vieron circulando en el entorno de Báez y se hicieron famosos cuando un video difundido por Telenoche los mostró en el interior de la financiera La Rosadita de Puerto Madero. Allí se veían imágenes del entorno de Lázaro Báez -entre ellos su hijo Martín- contando millones de dólares en efectivo y llenando bolsones negros con esos fajos de billetes. Hoy, desde poco después de las 10 de la mañana, la Justicia realiza allanamientos en las casas de Martín, Luciana, Melina y Leandro Báez,  los cuatro hijos de empresario kirchnerista, hoy detenido en la cárcel de Ezeiza. En el operativo conjunto entre la Policía Federal y el área especial de investigación patrimonial, en la casa de Melina Báez se secuestraron, además de los bolsones negros,  una impresora, una bolsa negra y una caja.  La vivienda antes pertenecía a la familia Gotti -otro apellido relacionado con la obra pública provincial- pero Báez la compró y refaccionó entera para entregársela a su hija en diciembre pasado, cuando el kirchnerismo dejaba el Gobierno.  Con un techo a dos aguas en la fachada, ladrillo a la vista y una reja negra de portón, la casa está ubicada frente a la de su hermana Luciana y a media cuadra de la residencia de su padre, hoy detenido, en el marco de la investigación por presunto lavado de dinero.
+
+Al lugar ingresó también uno de los perros de AFIP especializados en rastrear dinero. El sabueso detectó la presencia de billetes, pero no trascendió qué suma.  Melina Báez no figura en el directorio de ninguna de las empresas del Grupo de su padre, pero sí en la nómina de empleados de Austral Construcciones.
+
+Antes, personal de la AFIP y la UIF, junto a efectivos de las fuerzas federales, ingresaron a la vivienda de Martín Báez. El mayor de los hijos varones del empresario K vive a pocas cuadras de sus hermanos Luciana y Leandro.
+
+La situación de los hijos de Báez  es el eslabón sensible que puede quebrar al socio de los Kirchner y hacerlo hablar. Tanto el empresario como su esposa hicieron trascender apenas estalló el escándalo, que estaban "dispuestos a hablar" si su hijo mayor Martín caía preso. Aún no ocurrió. Pero el círculo se va cerrando. 
+
+
+Efectivos de la Prefectura llegaron, alrededor de las 10, a la propiedad de Martín Báez. Desde temprano, en esa vivienda, se habían apostado custodios de la familia Báez. Queda, paradójicamente, en la calle Comodoro Py al 800.
+
+
+
+
+
+var act_831 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_831 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_831.setTitle('Efectivos de la Prefectura llegaron, alrededor de las 10,&nbsp;a la propiedad de Martín Báez. Desde temprano, en esa vivienda, se habían apostado custodios de la familia Báez.&nbsp;Queda, paradójicamente, en la calle Comodoro Py al 800.');
+act_831.setSubtitle('LA RUTA DEL DINERO K'); 
+act_831.setLinkBack('http://www.clarin.com/politica/propiedad-Martin-Baez-Rio-Gallegos_0_1566443379.html');
+act_831.setDescription('Fue en la vivienda de Melina B&aacute;ez.&nbsp;Los bolsos conten&iacute;an fajas como las que se usan para sujetar los billetes en los bancos, pero no encontraron dinero en efectivo.&nbsp;Tambi&eacute;n allanaron las casas de L&aacute;zaro&nbsp;B&aacute;ez y de sus otros hijos.&nbsp;Fotogaler&iacute;a en HD');
+act_831.addActionLink('VER MÁS', 'http://www.clarin.com/politica/propiedad-Martin-Baez-Rio-Gallegos_0_1566443379.html');
+
+var showShareBarUI_params_831=
+{ 
+containerID: 'shareQuote_831',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_831,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_831
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_831);
+ Mirá la fotogalería en HD Mirá también: Marijuan dijo que no solo buscan plata y que encontraron más propiedades que las conocidas Martín Báez es uno de los que aparece contando plata en los videos de La Rosadita, revelados por Telenoche, y desde entonces su situación ya era comprometida. Pero se agravó todavía más con las confesiones del arrepentido Leonardo Fariña. El valijero, en sus dichos a la Justicia, puso a Martín en el centro del entramado de la ruta del dinero. Lo identificó como dueño de empresas y hasta como custodio de los traslados de la plata física en camionetas. Fue citado a indagatoria por el juez, pero, como la mayoría de los involucrados, se negó a declarar y presentó un escrito. Permanece en Buenos Aires. Aunque no está formalmente casado, Martín tiene pareja y un bebé de apenas 9 meses. 
+

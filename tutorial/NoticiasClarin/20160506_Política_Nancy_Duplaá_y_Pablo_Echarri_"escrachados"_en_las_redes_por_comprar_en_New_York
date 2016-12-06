@@ -1,0 +1,54 @@
+
+Pablo Echarri y Nancy Dupláa son los protagonistas de La Leona, novela exitosa de Telefé en la que el personaje de Duplaá simboliza la compleja realidad del sector textil, donde está en juego la industria nacional. También, con uñas y garras, defendieron durante los últimos 12 años el "modelo" kirchnerista. Por todo eso es que la foto de "la pareja K más famosa" comprando zapatillas en la Quinta Avenida de Nueva York, provocó una "ultra grieta" en las redes. @rialjorge Echarri y Dupla solo para el relato apoyan la industria nacional en NY pic.twitter.com/Ywkshs2rL5— Javier (@javisciema) May 6, 2016
+  Dice Pablo Echarri que viaja a Estados Unidos solo para copiar todo lo que no tenemos que hacer.— Steve Zonajobs (@patgow) May 6, 2016
+
+"Sí me pasa algo miren al norte"Por las dudas, Dupláa y Echarri ya están montando las bases de la resistencia sobre unas lindas New Balance— El Sheik de Berisso (@Alma_Zeta) May 6, 2016
+
+No entiendo que acusen a los cipayos de Nancy Duplaa y Pablo Echarri por hacer shopping en NYC, qué quieren que vayan a La Salada?— León (@leonxxxiii) May 6, 2016
+
+Dicen Echarri y Dupláa que sólo ven gente mirando ofertas de chancletas en La Salada. pic.twitter.com/NQ86H8dKrq— Atendedor (@hellr00t) May 6, 2016
+
+Yo veo a dos actores parecidos a Nancy Duplaá y Pablo Echarri comprando en el Shopping Nine de Moreno. pic.twitter.com/ZK1CfVvko1— Julián León (@julianrleon) May 6, 2016
+
+Pablo Echarri y Nancy Dupláa hacen lo que cualquier zurdo cuando agarra plata del estado: les gusta más la guita que a los capitalistas.— Kamikaze Ontológico (@GuiKa_) May 6, 2016
+
+Como no van a viajar a New York #EcharriDuplaa si la hija de @CFKArgentina VIVÍA AHÍ. No en Venezuela! #ElRelato pic.twitter.com/e4ceY9f8Bs— A N G E L (@AngeldebritoOk) May 6, 2016
+
+Echarri y Duplaa comprando en la 5ta Avenida? Que les sorprende?— lamascarada (@lamascarada) May 6, 2016
+
+El modelo nac&pop comprando en ese país capitalista horrendo... Te siguen pelotudeando, kumpa! #EcharriDuplaa https://t.co/Bc9ddnIelu— ananita (@_ananita_) May 6, 2016
+ Ante tantas críticas, Echarri salió al cruce esta mañana en AM 950 Belgrano: "Que la gente me pida que me vaya a veranear a Cuba es muy pobre intelectualmente, voy a veranear donde quiero y gasto la plata en lo que quiero"."Yo no estoy en contra de Estados Unidos, a mí me encanta Estados Unidos pero no su política exterior. Quizás pueda encontrar un artículo más barato" y enfatizó que no está en contra de los habitantes del país norteamericano pero sí de sus gobernantes", argumentó. Mirá también: Echarri: "Estoy en contra de cualquier hecho de corrupción" Justo esta misma semana, Echarri había sido noticia por admitir que las diferencias políticas con su amigo Martín Seefeld fueron determinantes para la ruptura de la sociedad que habían formado. Y hoy Echarri aclaró:"a Martín lo toca muy de cerca este gobierno, como a mí me tocaba de cerca el kirchnerismo". La pelea no fue sólo política. Esquivar la realidad de que tenemos diferencias ideológicas sería algo estúpido". Al ser consultado por la cantidad de tuits recibidos en su contra, Echarri fue contundente: "Twitter es una enorme cueva de cobardes".  A Nancy Duplaá, "La Leona", en las fotos se la ve probándose unas sneackers New Balance negras y blancas. La importación de esas zapatillas estuvo "cercada" por el kirchnerismo. Hoy, la página oficial del New Balance Argentina muestra este cartel de "Próximamente":
+
+ Mirá también: Pablo Echarri confirmó la ruptura de su sociedad con Martín Seefeld El caso de Echarri y Duplaá no es el primero entre los actores K que son señalados en las redes por ejecutar acciones no tan "nac & pop". Paola Barrientos se gana una gran cantidad de críticas en Twitter cada vez que el Banco Galicia estrena una publicidad protagonizada por esta actriz K. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Rodrigazo120/status/725390263548563457",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72539026354856345")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ocampo_mm/status/725460905337716736",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72546090533771673")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

@@ -1,0 +1,18 @@
+
+Con los últimos días de noviembre llegan las clases abiertas, los actos académicos y los eventos de cierre de actividades escolares. Esos en los que los alumnos le muestran a la escuela y a los papás que pueden acercarse a compartirlo, todo lo que aprendieron durante el año.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Un canal para la inclusión Este año, la Jornada de Literatura de la Escuela de Enseñanza Media N° 16, más conocida como Colegio Nacional Manuel Belgrano de Merlo, tuvo un broche más que emotivo: un coro de más de 160 alumnos interpretó el tema "Hacer un puente" de la banda "La Franela" en lenguaje de señas. Mirá también: El buen gesto de un plantel con un hincha sordo Ellos, con pantalón y camisa; ellas, de vestido blanco. los brazos al aire y el cuerpo en movimiento, para traducir la letra en gestos. "Quisimos significar que hay diversos lenguajes y modos de expresión. Y que una letra se puede trasmitir de distintos modos", contó Rita López Minetti, la directora de la escuela en la que estudian unos 2.000 chicos que se reparten entre cuatro modlaidades: Ciencias Sociales, Economía, Ciencias Naturales y Arte. La docente también aclaró que para interpretar la canción, tanto el profesor como los alumnos tuvieron que aprender el lenguaje de señas y practicar el tema durante más de dos meses.  Mirá también: Videos, tutores y arte: las claves de las escuelas que mejoraron Papás, maestros e incluso alumnos disfrutaron de la presentación y la viralizaron a través de videos y fotos en las redes sociales, donde el Nacional tiene una presencia activa: el grupo de Facebook  Yo fui al Nacional Manuel Belgrano de Merlo, creado por ex alumnos ya tiene más de 5.000 integrantes que recuerdan anécdotas, votan por los mejores profesores de cada década e hilvanan la lista de estudiantes que pasaron por las aulas del colegio, desde los actores "Carlín" Calvo y Rafael Spregelburd al jefe comunal de Merlo, Gustavo Menéndez.  Clarín Zonales

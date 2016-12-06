@@ -1,0 +1,75 @@
+
+El viaje masivo de políticos de todos los partidos a Tucumán para los festejos en la previa del Bicentenario de la Independencia dio lugar a todo tipo de notas de color. En ese contexto, no desentonaron (algunos dicen lo contrario) el titular del Plan Belgrano, el tucumano José Cano, y el intendente de Salta, el massista Gustavo Saénz, que protagonizaron un show y cantaron folclore a dueto. Festejando en #TucumanBicentenario al son de @JCanoOK y @GustavoSaenzOK pic.twitter.com/xS16Sp9scE— Manuel Chavarría (@ChavarriaxARG) 8 de julio de 2016
+ El mini recital de Cano y Saénz cerró una cena organizada por el intendente de San Miguel de Tucumán, Germán Alfaro, en la que dijeron presente el ministro de Hacienda y Finanzas, Alfonso Prat Gay (que recordó a la provincia como la tierra de sus abuelos), Domingo Amaya, secretario de Vivienda de la Nación, y Lucas Delfino, Subsecretario de Gestión Municipal de la Nación.  La comida tuvo lugar en el hotel Sheraton de la capital provincial y fue tras la inauguración del monumento del Bicentenario, donde Prat Gay envió los saludos del presidente Mauricio Macri y le hizo un guiño a todos los tucumanos. “Los registros dicen que nací en Buenos Aires, pero todo indica que fui concebido en la provincia de Tucumán", lanzó irónico despertando risas. Con mi amigo @JCanoOK nos animamos a cantar en el #BicentenarioDeLaIndependencia #ElNorteLeCantaALaPatria pic.twitter.com/zaZLGbXKxz— Gustavo Sáenz (@GustavoSaenzOK) 8 de julio de 2016
+ En ella también dijeron presente los intendentes de la región. Fueron Hugo Infante (Santiago del Estero), Alberto Paredes Urquiza (La Rioja), Raúl Jalil (San Fernando del Valle de Catamarca), Enrique Ponce (San Luis), y el propio Saenz (de Salta Capital), además de concejales locales y ministros del gobernador Juan Manzur.
+
+El menú estuvo lejos de los tradicionales platos del 9 de julio. De entrada hubo crepes de verdura; el plato principal fue un clásico lomo relleno con verduras asadas y puré; y de postre hubo almendrado. El detalle lo dio el vino tinto que se sirvió en la cena: un edición especial del Bicentenario (hecho en Tucumán) lacrado y adornado con una bandera argentina y una imagen de los patriotas de 1816.
+
+ El momento del brindis, minutos antes del show musical, disparó otro momento para risas cuando Saénz, que fue candidato a vicepresidente de Massa en las últimas elecciones, en la mesa principal lanzó irónico: “¡Viva Mauricio. Viva la Patria!”. Luego, por pedido de los presentes, y el ambiente que se había apoderado del festejo: Cano y Saénz subieron al escenario y se unieron a la banda que estaba tocando. 
+
+
+“Los registros dicen que nací en Buenos Aires, pero todo indica que fui concebido en la provincia de Tucumán", bromeó Prat Gay.
+
+
+
+
+
+var act_3cf = new gigya.socialize.UserAction();
+
+var emailBodyCustom_3cf = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_3cf.setTitle('“Los registros dicen que nací en Buenos Aires, pero todo indica que fui concebido en la provincia de Tucumán", bromeó Prat Gay.');
+act_3cf.setSubtitle('Bicentenario'); 
+act_3cf.setLinkBack('http://www.clarin.com/politica/ministro-Macri-intendente-Massa-previa_0_1609639135.html');
+act_3cf.setDescription('José Cano, titular del Plan Belgrano, se unió al salteño Gustavo Sáenz en un dueto floklórico durante una cena de camaradería. Además: la anécdota de Prat Gay sobre su concepción. ');
+act_3cf.addActionLink('VER MÁS', 'http://www.clarin.com/politica/ministro-Macri-intendente-Massa-previa_0_1609639135.html');
+
+var showShareBarUI_params_3cf=
+{ 
+containerID: 'shareQuote_3cf',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_3cf,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_3cf
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_3cf);
+ El titular del Plan Belgrano, el megaproyecto de infraestructura para el norte del país -radical él- se hermanó en las melodías con Sáenz -peronista ahora en el Frente Renovador- y juntos improvisaron tres canciones: el hit fue “Zamba para olvidar”. ¿Nace el dúo del Bicentenario?
+

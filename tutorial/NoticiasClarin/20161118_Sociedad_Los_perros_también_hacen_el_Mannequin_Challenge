@@ -1,0 +1,98 @@
+
+El Mannequin Challenge está invadiendo las redes sociales. Es un reto que consiste en grabar un video con varios protagonistas totalmente quietos, como maniquís. Lo practicaron equipos de fútbol, hubo versiones provocativas en gimnasios y lo hizo Marcelo Tinelli en su programa. El fenómeno también se metió en la política: Hillary Clinton llamó a votar mediante este desafío. Ahora, llegó el turno de los perros.  Quien se sumó a la tendencia es Dinky, una mascota que tiene miles de seguidores en YouTube, Instagram y Vine. Junto a otros perritos, hizo un Mannequin Challenge que generó comentarios de todo tipo: están quienes se divierten, pero también los que dicen "pobrecitos" por tener que someterse a esta situación. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Guía para viajar con tu mascota en cada medio de transporte Otro referente es un boxer llamado Boston. Logra quedarse quieto en distintas situaciones cotidianas. Con la ayuda de su dueño, Ryan Thomas, simula que puede lavar los platos, sentarse a comer en la mesa y acomodarse para mirar televisión. Todo, con una habilidad increíble para permanecer inmóvil. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Ryan_Thomas02/status/798726209144242176",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79872620914424217")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ En Twitter, varios usuarios aprovecharon la moda del Mannequin Challenge para mostrar las destrezas de sus mascotas. Todo perro que aprendió a "hacerse el muerto" hoy tiene sus minutos de fama, en plena era de los desafíos virtuales.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/DogOIympics/status/798230958734340096",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79823095873434009")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Stefunnybravo/status/795392933574766592",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79539293357476659")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ryannorton1/status/797155460801556480",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79715546080155648")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/_Sky_So_Fly_/status/798261273955811328",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79826127395581132")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: El músico y la perrita callejera que les arrancan sonrisas a los pasajeros del Roca

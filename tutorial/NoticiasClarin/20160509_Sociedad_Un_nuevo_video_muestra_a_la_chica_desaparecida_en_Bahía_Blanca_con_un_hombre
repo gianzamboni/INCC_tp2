@@ -1,0 +1,34 @@
+
+A 17 días de su desaparición, la imagen de Micaela Ortega sigue estando en todos los medios de Bahía Blanca. A las múltiples fotos difundidas por su familia desde que se fue de su casa el sábado 23 de abril, este fin de semana se sumaron dos filmaciones del Centro Único de Monitoreo del municipio de esta ciudad. Las tomas de sendas cámaras de seguridad la muestran caminando junto a un hombre, aquel mismo día en que su madre denunció la desaparición en la comisaría quinta. Por enfrente del edificio de la seccional pasa la joven junto a su acompañante, en una de las filmaciones que la muestran en dirección hacia las afueras de la ciudad por la calle Don Bosco. Mirá también: Ofrecen hasta $ 200 mil por datos de una nena desaparecida hace dos semanas en Bahía Blanca En las imágenes, a las que se agregó hoy la de una cámara de seguridad privada del mismo día, se los ve a ambos caminar a la par y Micaela lleva una mochila rosa. A simple vista, ninguna de las tomas muestra en primer plano al hombre que acompaña a la nena. Más allá de la lejanía con la fecha en que fueron registradas, las imágenes comprueban que Micaela no se fue sola de su casa. “A mi hija la manipularon para que se fuera. Perdimos una semana en la búsqueda siguiendo esa pista”, se quejó la madre de la menor, a propósito de la relevancia que los investigadores le dieron a una carta que dejó Micaela, en la que decía que se iba a la casa de una amiga. “Ahora, seguramente, la están manipulando para que no se ponga en contacto con nosotros”, aportó la mujer quien desde un principio sostuvo la hipótesis de que su hija se encontraba retenida por alguien. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El día anterior a su desaparición madre e hija habían discutido y el sábado 23, cuando la abuela la fue a despertar a su cama, la chica ya no estaba. “Nuestras discusiones eran las típicas con una nena de 12 años que está cambiando permanentemente de idea. Nada extraño” remarcó Mónica Cid, la mamá de la chica, quedijo no sospechar de nadie en particular. “Si fuera así, yo mismo hubiera ido a buscarla”, afirmó. Mirá también: Desesperada búsqueda de una chica de 12 años en Bahía Blanca: desapareció hace ocho días Ella encabeza la búsqueda y en las últimas horas repartió carteles con la foto de su hija en una playa de camiones cerca del puerto. “He ido a todos lados y también he descubierto que en Bahía Blanca, en mi ciudad, hay droga y existe trata de personas” comentó con desesperación, por la posibilidad de que su hija haya sido cooptada. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El sábado, cuando se cumplieron dos semanas de su desaparición, la mujer encabezó una marcha junto al padre de la chica, familiares, amigos y un centenar de personas que llevó la imagen de Micaela por las calles de la ciudad. La investigación también se desvió por varios llamados con datos falsos al 911, donde a diario se reciben cientos de comunicaciones. En una de ellas, una chica decía que estaba con Micaela, pero cuando fueron a verla, no era así. Días atrás, un vecino del barrio Noroeste dijo haberla visto en la calle, pero no pudo interceptarla. Mirá también: Bahía Blanca: marcharán por una nena de 12 años que falta de su casa desde hace una semana El jueves pasado por la noche, María Eugenia Vidal se comunicó con la madre de Micaela. “Me pidió la denuncia que hice el mismo día que se fue y se comprometió a conseguirme un abogado”, dijo Mónica Cid a Clarín, al comentar el llamado de la gobernadora bonaerense recibido en su teléfono móvil. También le dijo que la volvería a llamar y que se encargaría de difundir el caso a nivel nacional. Tras ese contacto, el ministro de Seguridad Cristian Ritondo comunicó este fin de semana por redes sociales que la provincia ofrece hasta 200.000 pesos de recompensa a quien pueda aportar datos sobre Micaela.

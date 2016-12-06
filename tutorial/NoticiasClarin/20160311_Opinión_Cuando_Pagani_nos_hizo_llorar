@@ -1,0 +1,68 @@
+
+Me crucé de casualidad con el homenaje que le hicieron a Horacio Pagani en el programa “Estudio Fútbol” por sus 50 años en el periodismo. Antes de seguir, quiero aclarar que casi no lo conozco ni lo trato a Pagani. O, mejor dicho, él no me conoce. No lo culpo, la redacción de Clarín es un lugar gigante y él vio pasar a cientos de periodistas en todos estos años. Dicho esto, lo que quiero contar es que me encontré lagrimeando, un mediodía intrascendente, mientras almorzaba una milanesa de pollo y esperaba de ese programa no mucho más que una distracción momentánea, alguna novedad de River y ya. Me pregunto entonces qué mecanismo se desencadenó en mi interior para que llegaran esas lágrimas imprevistas, fuera de registro.  Y me respondo. Me emocionó ver a un hombre grande (perdón, Pagani) quebrarse en vivo. Ver vulnerada esa infranqueable barrera de los tipos duros. O de los tipos de otro tiempo (perdón de nuevo), esos que uno no imagina con la sensibilidad desbordada.  
+
+
+Qué cosa enorme la amistad, qué regalo de la vida tener amigos
+
+
+
+
+
+var act_420 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_420 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_420.setTitle('Qu&eacute; cosa enorme la amistad, qu&eacute; regalo de la vida tener amigos');
+act_420.setSubtitle(' '); 
+act_420.setLinkBack('http://www.clarin.com/opinion/Pagani-hizo-llorar_0_1537646577.html');
+act_420.setDescription('');
+act_420.addActionLink('VER MÁS', 'http://www.clarin.com/opinion/Pagani-hizo-llorar_0_1537646577.html');
+
+var showShareBarUI_params_420=
+{ 
+containerID: 'shareQuote_420',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_420,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_420
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_420);
+ Me emocionó la amistad de los hombres. La lealtad, que en el caso de Pagani representan sus amigos de “La Raya”. Qué cosa enorme la amistad, qué regalo de la vida tener amigos, encontrar en ellos un refugio necesario para tanta pálida.  Me emocionó también, mientras se sucedían las imágenes de la carrera de Pagani (con Menotti, con Maradona, con Monzón, con Rojitas), la vocación inquebrantable por el periodismo. Tantas cosas difíciles que se viven a diario, tan dura que se vuelve a veces, pero qué hermosura de profesión, el periodismo.  Mirá también: El emotivo homenaje a Pagani por sus 50 años en el periodismo

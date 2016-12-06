@@ -1,0 +1,18 @@
+
+Leer y sentir. Dos hábitos íntimos se unieron en un nuevo objeto: el primer vibrador que se conecta a un smartphone o tablet. El pequeño aparato, llamado "Little bird", fue diseñado para estimular el punto G femenino. Al mismo tiempo, se puede sincronizar con un dispositivo vía Bluetooth. Leé también: Los aparatos del placer ahora tienen sensores y se manejan a distanciaFue una idea de la ‘startup’ francesa B.Sensory, que lanzó una campaña de crowdfunding para poder lanzarlo. La novedad va de la mano del fenómeno encabezado por Cincuenta sombras de Grey y seguido por múltiples títulos que calentaron el mercado editorial.  "Como gran fanática de la literatura erótica, tuve el deseo de unir el  poder de las palabras con el potencial de los servicios de conexión,  para crear una nueva forma de leer y divertirse, sola o en pareja",  cuenta en el video de lanzamiento Christel Le Coq, fundadora de la  empresa.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Según las instrucciones, el primer paso es bajar una aplicación gratuita. Luego hay que elegir un cuento erótico en su versión "vibratoria" y, finalmente, empezar a jugar. El objeto genera experiencias sensoriales que eran, hasta el momento, desconocidas. Por ejemplo, si la lectora mueve la pantalla, la acaricia o respira sobre ella, se modifica la intensidad de la vibración, entre las 10 velocidades que hay disponibles. Es trasladable y discreto, lo que permite usarlo en cualquier momento y lugar. En síntesis, un producto que promete adaptarse a los gustos y necesidades de la mujer moderna.

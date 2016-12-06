@@ -1,0 +1,67 @@
+
+La vida secreta de tus mascotas es una película animada infantil muy esperada para estas vacaciones de invierno. El filme creado por Universal --- que en la versión doblada que se estrenará el jueves cuenta con la voz de Martín “Campi” Campilongo en un personaje --- muestra qué hacen perros y gatos cuando sus dueños no están en sus hogares. Pero en este caso, como en muchos otros, la vida real supera a la ficción. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ La marca de cámaras ocultas para el hogar Nest publicó en YouTube una galería de videos que deja en evidencia cómo actúan los animales cuando están en soledad. Por ejemplo, en "Oscar se pone codicioso" vemos cómo un perro se sube a una mesa, come el contenido de un paquete y le gusta tanto que hasta le queda el hocico atrapado adentro. Mirá también: Perros "raza perro" y viejos, protagonistas de una muestra fotográfica [[CONTENT:CLAVID20160718_0011]]  "El ataque de la cadena" muestra a un simpático grupo de gatitos jugando con un cable que cuelga del techo. Cajas y canastas les ayudan a tomar impulso, lanzarse al aire, y tratar de alcanzar su objetivo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ "El gran escape de Corgie" responde a por qué es tan difícil limitar el paso de los animales a ciertos ambientes de la casa. ¿No querés que tu perro suba la escalera? Mirá cómo puede esquivar cualquier obstáculo que le pongas. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ "Mi esposa y yo estábamos afuera cuando recibimos una alerta de nuestro sistema de cámaras. Vimos los registros, y descubrimos que nuestro gato trató de mantener sus cuatro extremidades sobre el borde de su caja de arena. Como ves, realiza actos de equilibrio. Por desgracia, está un poco pesado y falla en cualquier intento", cuenta Morris D. al compartir este video. [[CONTENT:CLAVID20160718_0015]] Mirá también: Las apps para mascotas, la nueva revolución tecnológica  "La búsqueda sin fin hacia el queso" es una divertida secuencia donde un perro se come todo lo que encuentra sobre una mesa. Paso a paso, va eligiendo distintos platos y arma un menú que sería un deleite para cualquier comensal. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+
+ En todos los casos, queda en evidencia que --- como indica la película --- las mascotas tienen una completa "vida secreta". Y hasta parece que se burlaran de sus dueños. Habrá que poner una cámara en casa para descubrirlos.   Mirá también: ¿Spa para gatos? Sí... y en un rincón de tu casa

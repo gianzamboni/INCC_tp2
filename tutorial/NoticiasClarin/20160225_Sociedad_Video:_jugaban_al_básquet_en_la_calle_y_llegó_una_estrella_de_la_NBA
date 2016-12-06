@@ -1,0 +1,252 @@
+
+El 15 de enero, la Policía de Gainesville (Florida) recibió una queja sobre unos jóvenes que hacían mucho ruido mientras jugaban al básquet en la calle. Lo que sucedió desde el momento en que un agente llegó hasta el lugar es digno de un guión de película: en lugar de sacarlos se puso a jugar con ellos y les prometió que volvería otro día para la revancha. Lo hizo, pero no fue solo sino acompañado por una estrella de la NBA. El video de Bobby White, el policía que recibió la denuncia, jugando al básquet con los chicos en la calle se convirtió en viral a principios de enero, con más de cinco millones de visitas en YouTube en menos de 24 horas. La forma en que el hombre resolvió el problema fue digno de la admiración de miles y miles de personas en todo el mundo. En lugar de echar a los chicos, les dijo que se divirtieran, pero que no hicieran tanto ruido. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160225_0013 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160225_0013_5ad";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: '\"La increíble historia de un policía y una estrella de la NBA\" (2)',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/25/VID/CLAVID20160225_0013/video_web.flv",
+        image: "http://images.clarin.com/sociedad/increible-historia-policia-estrella-NBA_CLAVID20160225_0013_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160225_0013',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/25/VID/CLAVID20160225_0013/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/increible-historia-policia-estrella-NBA_3_1529277070.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160225_0013.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160225_0013){
+            //getBBTStats_CLAVID20160225_0013();
+            varModIdReprod_CLAVID20160225_0013 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+Esto ocurrió en un momento en el que las agencias policiales estadounidenses estaban bajo la lupa de todo el país, en medio del debate sobre la actuación de algunos agentes blancos en la muerte de varios afroamericanos en barrios marginales. En el primer video se puede ver como el agente juega con los jóvenes y antes de irse le promete que volverá para la revancha. También leé: "La policía detuvo a un auto sin conductor por ir muy lento" Conmovido por el video, el ex jugador estrella de la NBA Shaquille O'Neal llegó de repente al cuartel de Policía y de ahí partió junto a White a buscar a los niños. "Chicos, les dije que iba a traer apoyo", gritó White mientras O'Neil salía de la patrulla. "Eres enorme", le dijo uno de los nenes al jugador de 2,16 metros de altura. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160225_0012 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160225_0012_77a";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: '\"La increíble historia de un policía y una estrella de la NBA\"',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/25/VID/CLAVID20160225_0012/video_web.flv",
+        image: "http://images.clarin.com/sociedad/increible-historia-policia-estrella-NBA_CLAVID20160225_0012_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160225_0012',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/25/VID/CLAVID20160225_0012/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/increible-historia-policia-estrella-NBA_3_1529277069.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160225_0012.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160225_0012){
+            //getBBTStats_CLAVID20160225_0012();
+            varModIdReprod_CLAVID20160225_0012 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+Nadie podía entender cómo ese gigante estaba ahí, con ellos, jugando en la calle. Primero jugaron un partido entre los chicos, los policías y el basquetbolista profesional. Después, O'Neal puso en fila a los niños y les ofreció a cada uno cien dólares si lograban encestar. También leé: "La estrella de la NBA que soñaba con ser narcotraficante" Al final les pagó, pero les advirtió que se trataba de una excepción, que no deberían recibir dinero de nadie en la calle y que ellos podían hacer lo que quisieran si estudiaban, trabajaban duro y respetaban a los mayores. "Vine porque vi el video, estoy orgulloso de ustedes. Manténganse alejados de los problemas, escuchen a sus padres, respeten a los mayores y podrán ser lo que quieran ser". Un grande, literalmente.

@@ -1,0 +1,68 @@
+
+Leonardo Fariña, 29 años, padre de un hijo que tuvo con una novia fugaz, divorciado de una de las modelos más deseadas de la Argentina, ex valijero del socio de dos ex presidentes, ex dueño de una Ferrari, preso desde hace dos años por evasión, llegó el viernes a tribunales con todo lo que necesitaba para declarar como imputado en la causa de “La Ruta del Dinero K”­. Chocolates y cigarrillos. Fariña fuma a repetición constante. Y necesita azúcar, aunque no es diabético, para que no le baje la presión. Lo primero que dijo frente al juez de la causa, el doctor Sebastián Casanello, es que pediría declarar amparándose en la figura de “arrepentido”, un recurso que puede utilizarse en juicios de lavado de divisas para intentar obtener beneficios procesales. Argumentó que había tomado esa decisión porque tenía mucha confianza en el fiscal del caso, Guillermo Marijuán. Fariña, que como imputado tiene el derecho a mentir en su declaración judicial, habló durante más once horas. “Trabajé con Lázaro Báez en un red de lavado de dinero del Estado. La manejaba Néstor Kirchner. Él estaba al tanto de todo, de varias estructuras. Báez, era socio de Néstor y lo es de la ex presidenta Cristina”, dijo, palabras más, palabras menos, según reconstruyó Clarín en base a fuentes de la política y la Justicia. El impacto que produjo en el juzgado del doctor Casanello la información y el modo como la contó el ex valijero provocó que el magistrado dictara casi de inmediato el secreto de sumario. Fariña no había hablado siquiera una hora cuando el fiscal Marijuán determinó que, con lo que ya había aportado el “arrepentido”, debía imputar por lavado de dinero a la ex presidenta Cristina Kirchner; a su ex ministro de Planificación Federal, Julio De Vido; a un financista crucial en el armado de redes societarias y económicas de los K, Ernesto Clarens; y al ex titular del Banco Central y del Nación, Juan Carlos Fábrega. 
+
+
+Como imputado, Fariña tiene el derecho a mentir en su declarción judicial.
+
+
+
+
+
+var act_0c8 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_0c8 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_0c8.setTitle('Como imputado, Fari&ntilde;a tiene el derecho a mentir en su declarci&oacute;n judicial.');
+act_0c8.setSubtitle('La ruta del dinero K'); 
+act_0c8.setLinkBack('http://www.clarin.com/politica/declaracion-Farina-motivo-imputacion-Cristina_0_1555644866.html');
+act_0c8.setDescription('El valijero de L&aacute;zaro B&aacute;ez dio datos clave durante su larga alocuci&oacute;n ante el juez.');
+act_0c8.addActionLink('VER MÁS', 'http://www.clarin.com/politica/declaracion-Farina-motivo-imputacion-Cristina_0_1555644866.html');
+
+var showShareBarUI_params_0c8=
+{ 
+containerID: 'shareQuote_0c8',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_0c8,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_0c8
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_0c8);
+ Fariña dio especificaciones de cómo trabajó por orden de Báez, y los Kirchner, en varias operaciones para beneficiar el patrimonio de Lázaro, a quien le reclama aun hoy el dinero que según él debería haber cobrado por esas labores. El ex valijero ratificó que conoció a Néstor Kirchner gracias a Báez, y que era el patagónico el que le daba órdenes al constructor, contratista del Estado, como un jefe a un subordinado. Fariña había dicho en dos entrevistas con cámara oculta difundidas por el programa PPT, de Jorge Lanata, que Báez y los Kirchner eran socios “en todo”. “Leo”, como le dicen sus amigos, habría relatado en los tribunales como acompañó a sus ex jefes a una reunión en la Quinta de Olivos, ya con Cristina en la Presidencia, en la que se habría hablado de cuestiones financieras entre socios comerciales. Él habría esperado afuera de la residencia presidencial, en un auto, junto a testigos, a los que mencionó con nombre y apellido. La versión de Fariña, según fuentes de la Justicia, fue que mantuvo contacto en esos momentos contacto con sus jefes que estaban dentro de Olivos. Mirá también: La bolsos y la ruta existían Fariña aportó además a Casanello  los números de teléfono que usaban en ese tiempo él y los Báez: habría dicho que si cruzaban las llamadas entre ellos comprobarían cuánto se comunicaban. Y pidió que se chequeen las antenas de telecomunicaciones de los alrededores de la Quinta de Olivos para que demuestra que lo que él decía era cierto. También relató los secretos de las finanzas K que le reveló Báez. Durante su declaración, tal como adelantó ayer Clarín, mencionó varias veces a la ex presidenta Cristina Kirchner, y a su esposo. Incluso habría detallado cómo trabajó en el Banco Nación, con la venia de la entonces mandataria, en la creación de un fideicomiso que beneficiaría a las finanzas de Austral Construcciones, la principal empresa de Báez.. Esa operación habría movido alrededor de 350 millones de tres constructoras de los Báez: Kank y Costilla, Sucesión Adelmo Biancalani y Austral Construcciones. La operación financiera se frustró en benefició de las empresas de los Báez, perjudicando en millones al Estado. Esas compañías constructoras estarían ahora bajo sospecha del juez. El ex banquero Fábrega fue imputado por Marijuán debido a estas operatorias. El ex valijero también señaló que Báez ganaba dinero de la obra pública que después “invertía” en empresas de los Kirchner, en gestiones gubernamentales que aprobaba el ex ministro De Vido que, según él, también era parte de la “red de lavado del Estado”. El ex “valijero” dio también detalles a la Justicia de cómo fueron las operaciones que realizó en la financiera SGI, de Federico Elaskar, con quien habría acordado el modo en que sacarían del país alrededor de 55 millones de euros de los Báez por fuera del sistema legal. Según trascendió, el ex valijero mencionó el nombre de algunos bancos del extranjero que se prestaron para realizar esta maniobra. Y también cómo se hacían esas transferencias. En otro momento muy tenso de su declaración, Fariña habría nombrado bancos y cuentas internacionales que vinculó a los Baéz y por ende a los Kirchner. El ex valijero había pasado el día anterior preparándose para su declaración junto a su abogada Giselle Robles. Hablaron varias horas en un pabellón intimidante de la prisión de Ezeiza. En ese mismo penal, ya fuera de una habitación del hospital del lugar, también pasa sus días y sus noches el propio Lázaro Báez. Mirá también: EE.UU. le avisó a Cristina que Báez estaba fugando capitales

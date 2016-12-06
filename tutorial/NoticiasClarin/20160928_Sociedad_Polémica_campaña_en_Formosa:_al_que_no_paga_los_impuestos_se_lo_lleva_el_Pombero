@@ -1,0 +1,50 @@
+
+“Cuando eras chico te asustaba. Ahora, de grande, te enseña. Aprovechá la moratoria para ponerte al día con tus deudas municipales”. Ese es el resumen de uno de los spots que lanzó el Gobierno de la ciudad de Formosa para darle salida a una polémica campaña destinada a que los morosos paguen sus impuestos. Si no lo hacen, aparece el Pombero – personaje mitológico guaraní – y se los lleva. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ La agencia encargada de lanzar los spots es Sushi. Durante varios días, sacaron una serie de videos enigmáticos a través de las redes sociales en los que aparecía el Pombero. En uno de ellos, por ejemplo, se lo puede ver dentro de la Municipalidad. Ayer difundieron el principal y la campaña salió a la luz. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ En los videos, el Pombero aparece en varios puntos de la ciudad cuando los ciudadanos hablan sobre los impuestos y cuentan que no los abonan. “¿Vos pagás la patente de tu auto? Yo no”, es uno de los diálogos. Los hace desaparecer y los lleva a un aula donde les explica que es importante que entren a una moratoria para saldar sus deudas. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Según la leyenda, el Pombero es un duende guaraní que cuida los bosques y se enoja con quienes matan animales que no van a comer o cortan árboles. Es muy popular, además de Paraguay, en las provincias argentinas de Formosa, Misiones y Chaco.  En las redes sociales, la campaña del gobierno del intendente K Jorge Jofré levantó algunas quejas por la forma de actuar del duende. “No sé si reírme o llorar, angustiante”, escribió en el perfil de Facebook oficial de la ciudad Victoria Kelly. “Que se lleve a los corruptos evade impuestos”, sumó Florencia Denovi.

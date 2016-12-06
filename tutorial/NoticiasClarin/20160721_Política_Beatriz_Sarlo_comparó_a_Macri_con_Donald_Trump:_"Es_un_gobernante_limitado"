@@ -1,0 +1,18 @@
+
+Beatriz Sarlo tiene una trayectoria destacada en el ámbito intelectual argentino. Si algo le ha valido ese lugar, eso ha sido su crítica al poder: se trate del kirchnerismo, con el cual fue dilapidante en algunas cuestiones como la muerte de Mariano Ferreyra, o se trate de los tarifazos y las constantes "marcha atrás" del macrismo: "Macri y Trump pertenecen a la misma tipología. Son empresarios que con un capital que les permite iniciar una carrera política. Es un gobernante limitado políticamente, pero no es un estúpido", aseguró la ensayista. "No es un tonto. Es un burgués y los burgueses no tienen ideología, ni son tan cortantes. Un empresario no se hace problema", opinó Sarlo durante el programa radial Vuelo de Regreso. Se refirió tanto a Macri como a Trump como "gerentes de empresas".  Mirá también: Ya tiene fecha el aumento en el subte: desde el miércoles costará $ 7,50 Pero sus críticas más puntuales giraron en torno a la forma de hacer política de Cambiemos. Dijo, a fin de cuentas, que dar marcha atrás con las medidas no es la mejor forma de gobernar: "Veo al Gobierno carente de política. Lo que sucedió con las tarifas de gas es una muestra. El Gobierno reconoció las cosas después. Gobernar no es una prueba y un ensayo. Se puede fracasar, pero no se puede justificar ese fracaso con que probamos y no sale". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En este sentido, Sarlo apuntó contra el ministro de Energía: La presentación que hizo (Aranguren) de la medida fue una elección de antipolítica. La política tiene giros, modales, y otras cosas que se aprenden. Aranguren carece de formación política. Si lo hubiera hecho en Shell, sus jefes tendrían una mala opinión de él. Se hizo a la bartola y eso es brutal", sentenció. Mirá también: Tras el reto de Macri, en Tecnópolis no prendieron las estufas La autora de "Ensayos argentinos: de Sarmiento a la Vanguardia" (reeditada este mes) aclaró que iba a hablar de política, "y no del PBI", pero esbozó una crítica al modo en que se efectivizaron las subas de tarifas: "Hacía falta uno o dos meses de estudio para que se pusiera una escala de aumentos. Con eso hubiera sido suficiente. ¿Dónde estuvieron los que gobernaron la ciudad durante 8 años? ¿En Saturno?", ironizó. También criticó a Ángel Mahler, flamante ministro de Cultura porteño y reemplazante del saliente Darío Lopérfido: "No se le conoce otra relación con la Cultura. Lo que dijo hasta ahora son solo banalidades. Que desde el Gobierno se pongan las pilas para solucionar las cosas en vez de nombrarlo a Mahler en Cultura. El teatro San Martin parece Chernobyl adentro", opinó.

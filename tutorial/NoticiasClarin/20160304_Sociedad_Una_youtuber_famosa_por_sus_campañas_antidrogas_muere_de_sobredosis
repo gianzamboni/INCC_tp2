@@ -1,0 +1,22 @@
+
+Sharissa Turk era una bailarina y cantante de 25 años que se hizo famosa en YouTube en 2012 por sus videos sociales que alertaban del peligro de consumir drogas. El más exitoso fue Mi mundo es tan azul, en el que la joven denunciaba la epidemia de drogas en el barrio de Staten Island, EE.UU. en el que residía. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Turk, que era conocida como ‘Hada azul", fue detenida un año después de la publicación de este vídeo por las autoridades de su barrio por vender oxicodona (un analgésico muy potente y adictivo) a un policía encubierto. Mirá también: Youtubers, estrellas de hoy y símbolos de una nueva era
+
+Turk junto a su novio en Facebook. Esperaban un hijo. Sus duras críticas contra las drogas parecen no haberla salvado ya que, según informa el diario Daily Mail, Sharissa Turk fue encontrada muerta en su casa por los servicios de emergencia de Staten Island. A pesar que todavía no hay resultados definitivos de la autopsia, todo apunta a que la causa de su muerte es una sobredosis.  El final de Sharissa cobra mayor dramatismo ya que, según había publicado recientemente en Facebook, la joven estaba embarazada de ocho meses.
+
+Turk fue encontrada muerta este jueves en su casa sobre Jefferson Boulevard, Staten Island Fuente: La Vanguardia Mirá también: Ni mail, ni chat: el video ya es lo más usado en Internet

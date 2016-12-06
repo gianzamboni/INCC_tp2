@@ -1,0 +1,50 @@
+
+“Fabuladora me decía Bonfatti cuando yo hablaba del narcotráfico en Rosario y hoy hay miles de muertos de los que nadie se hace cargo”. Esta frase Elisa Carrió la pronunció en enero de este año luego de que el ex gobernador de Santa Fe la tratara de “desquiciada”. El trasfondo de la lucha dialéctica fueron los cruces entre Nación y esa provincia por la falsa información en torno a la captura de los prófugos del crimen de la efedrina. Ahora, la diputada nacional volvió a la carga contra el socialista y lo acusó de una supuesta “complicidad” con los narcos. Fue Twitter la plataforma que eligió Carrió para lanzar su acusación por elevación: "No puede existir narcotráfico sin complicidad, sobre todo de la Policía y ni hablar del gobernador, en especial del ex, Antonio Bonfatti". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/elisacarrio/status/780087328131907584",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78008732813190758")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Así la legisladora acusó hoy al ex gobernador socialista de Santa Fe de supuesta "complicidad" con el narcotráfico, al tiempo que defendió a los legisladores que pidieron a la Justicia que investigue las mafias enquistadas en la policía y la política provinciales. "Hay que investigar a Rubén Galassi", reclamó también, en referencia a quien fuera ministro de Gobierno durante la administración provincial de Bonfatti. Carrió inició una serie de mensajes defendiendo a los legisladores nacionales y provinciales que la semana pasada solicitaron que se investiguen los datos aportados semanas atrás por el programa Periodismo para Todos, de El Trece, en torno de las mafias del narcotráfico vinculadas con sectores políticos y de la Policía de la provincia. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/elisacarrio/status/780086767454158848",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78008676745415884")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ La presentación fue realizada ante el fiscal federal de Rosario Marcelo di Giovanni por el diputado nacional de Santa Fe Lucas Incicco, del PRO; el asesor del Concejo de la Magistratura, Eugenio Malaponte (UCR); el ex concejal rosarino Federico Steiger, y Lucila Lehmann, referente del espacio de Carrió en Santa Fe."Yo apoyo la denuncia de Lucila Lehmann, Lucas Incicco, Steiger y Malaponte. No hay narcotráfico sin complicidad", remarcó, a la vez que remitió a una nota aparecida hoy en un diario de la Capital. En ese medio se informó que el presidente del radicalismo santafesino Julián Galdeano sostuvo que esa presentación judicial carece de "sustento" y es una "puesta en escena" para "buscar publicidad" por parte de los legisladores. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/elisacarrio/status/780085325364338688",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78008532536433868")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ "No comparto la judicialización de temas políticos", sostuvo el dirigente radical santafesino. Pero Carrió salió en defensa de los dirigentes que fueron a la justicia al remarcar: "Los diputados tienen la obligación de denunciar y si no lo hacen (como Galdeano), son cómplices". La legisladora ya había acusado el año pasado a Bonfatti de haber hecho "un pacto para no ver" el avance del narcotráfico durante su gestión. Luego también consideró que estuvo detrás de la supuesta manipulación de la información cuando en enero pasado se dio por detenidos a los prófugos Martín y Cristian Lanatta y Víctor Schillaci, en Santa Fe, cuando en realidad aún no habían sido capturados. Fue cuando Bonfatti la tildó de “desquiciada” y Lilita le replicó: ”Loca me decía Aníbal Fernández y me amenazaba con denunciarme ante la Justicia, hoy Bonfatti usa las mismas palabras, son iguales”. Fuente: DyN

@@ -1,0 +1,86 @@
+
+La maratónica sesión que está prevista para hoy en la Cámara de Diputados arrancó con chispas. Antes de iniciar el debate, la Izquierda protestó contra el “dietazo” y el diputado Néstor Pitrola mocionó para incorporar en el temario el tratamiento del proyecto que plantea anular los aumentos. Pero la iniciativa quedó descartada por no contar con el apoyo de la mayoría especial de tres cuartos de los presentes que necesitaba para incluir el tema fuera de agenda. La moción fue rechazada por 112 votos de Cambiemos y el bloque Justicialista de Diego Bossio, en tanto que 104 (el FpV, el massismo, la izquierda y otros sectores) dieron apoyo a la apertura del debate. 
+
+ “Apartémonos del reglamento, que ya tiene temario cerrado, para que se vote el tratamiento de la anulación y que todos los bloques se definan ante esta situación” pidió Pitrola, quien aseguró que el incremento dado a los legisladores “es el divorcio de los ingresos de los diputados de la realidad social”. Según advirtió el legislador del Frente De Izquierda, “si al aumento del 47,5% se le suma la compensación monetaria por los vuelos aéreos no utilizados, el incremento puede superar el 60%”. 
+
+
+"También es dable resaltar que quien cuestionó al bloque oficialista de Cambiemos, a algunos de sus bloques aliados y a los Presidentes de ambas Cámaras, fue el Presidente", dijeron los K.
+
+
+
+
+
+var act_5c6 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_5c6 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_5c6.setTitle('"También es dable resaltar que quien cuestionó al bloque oficialista de Cambiemos, a algunos de sus bloques aliados y a los Presidentes de ambas Cámaras, fue el Presidente", dijeron los K.');
+act_5c6.setSubtitle('Congreso'); 
+act_5c6.setLinkBack('http://www.clarin.com/politica/Izquierda-anular-dietazo-obtuvo-apoyo_0_1679832091.html');
+act_5c6.setDescription('El diputado Néstor Pitrola solicitó tratar el proyecto para dar marcha atrás con los aumentos, pero no consiguió la mayoría especial que requería.');
+act_5c6.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Izquierda-anular-dietazo-obtuvo-apoyo_0_1679832091.html');
+
+var showShareBarUI_params_5c6=
+{ 
+containerID: 'shareQuote_5c6',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_5c6,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_5c6
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_5c6);
+  “Es un aumento que no tiene nada que ver con las paritarias que han cerrado en un 31% promedio, que está diez puntos debajo de la inflación; en un país en el que está discutiéndose un ‘bono-burla’ que no se sabe qué trabajadores van a cobrar”, sentenció. Mirá también: Polémica por un fuerte aumento en la dieta de diputados y senadores Por su parte, Myriam Bregman (PTS), quien también presentó un proyecto para la anulación del “dietazo” remarcó: “Este aumento, no en nuestro nombre”, y siguió: “La mitad de los trabajadores argentinos ganan menos de 7.000 pesos; la mitad de las familias argentinas no llegan a 14 mil pesos mensuales; los jubilados trabajaron 40 años para cobrar menos de 6.000 pesos”, aseguró. Y recordó el proyecto que presentó hace tres años para que los diputados no cobren más que un docente. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Fte_Izquierda/status/793839082384289792",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79383908238428979")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Pero el pedido de la Izquierda para incorporar el debate del “dietazo” en el temario de la jornada no tuvo apoyo en la cámara y tras ser votado por mayoría nominal obtuvo 104 votos afirmativos contra 112 negativos. El FPV , la Izquierda y el sector presente del massismo le dieron luz verde pero el PRO, la UCR y el Bloque Justicialista votaron en contra. Mirá también: Un ministro de Macri defendió la fuerte suba de sueldos de senadores y diputados 

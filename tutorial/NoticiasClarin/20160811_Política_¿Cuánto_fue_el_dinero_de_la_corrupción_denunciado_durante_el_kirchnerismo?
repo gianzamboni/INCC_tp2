@@ -1,0 +1,20 @@
+
+A partir de causas abiertas que investigan la corrupción durante el kirchnerismo, el programa A dos Voces, de Todo Noticias, lanzó un informe contabilizando el dinero denunciado en los distintos casos y partieron de la pregunta sobre "¿cuánta realmente es la plata de la corrupción?". A su vez, compararon en qué se podría haber invertido ese dinero. En ese contexto, fueron haciendo un relevamiento sobre los casos que involucraron a ex funcionarios como José López (que fue detenido con 9 millones de dólares en el convento) y Ricardo Jaime y de los empresarios K Lázaro Báez y Cristóbal López, entre otros. Mirá el informe completo con las cifras:  
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_2j6v107y",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_2j6v107y"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_2j6v107y").after(scriptEl);
+

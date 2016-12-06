@@ -1,0 +1,76 @@
+
+Toda la familia De Vido atraviesa una enmarañada situación judicial. Ocurre que no sólo el ex ministro de Planificación acumula causas en su contra, entre ellas Sueños compartidos, la Tragedia de Once, enriquecimiento ilícito y el financiamiento irregular de una telenovela de Andrea del Boca, sino también su esposa Alessandra “Lali” Minnicelli y su cuñado Claudio “Mono” Minnicelli, el que se encuentra con pedido de captura por la causa que investiga la formación de una asociación ilícita para sacar del Puerto  de Buenos Aires 30 contenedores bloqueados por la Aduana.
+
+A principio de este mes, el ministro de Planificación de los Kirchner sumó la escandalosa imputación por haber destinado más de 36 millones de pesos a la grabación de la miniserie de Andrea del Boca nunca estrenada, "Mamá Corazón". El fiscal Federico Delgado dio impulso a la denuncia que presentó el abogado Ricardo Monner Sans, titular de la Asociación Civil Anticorrupción, quien señaló que el Estado habría financiado a través de una contratación directa 25 capítulos de la novela protagonizada y dirigida por Del Boca y producida por a+A Group.  "El dinero público, que ascendió a 36.582.468 de pesos, habría salido del presupuesto del Ministerio de Planificación Federal, Inversión Pública y Servicios de la Nación, por entonces a cargo de Julio De Vido, para ser entregado a la productora, previa firma de un convenio con la Universidad Nacional de San Martín", explicó el abogado denunciante.
+
+ Pero ocurrió más. Esta semana, tras la detención del ex director de la Aduana de Buenos Aires Edgardo Paolucci y Oldemar Barreiro Laborda, entre otros cinco, todos presuntamente integrantes de la llamada Mafia de la Aduana, la Justicia pidió la captura nacional e internacional de Claudio “Mono” Minnicelli, cuñado de De Vido, que se encuentra prófugo. 
+
+
+ ¿Por qué se lo busca? Porque junto con Paolucci y Laborda y los otros cinco detenidos habrían sacado ilegalmente del puerto de Buenos Aires seis de los 300 contenedores que José Gómez Centurión, titular del organismo, tiene inmovilizados por contrabando.
+
+
+
+
+
+var act_cfd = new gigya.socialize.UserAction();
+
+var emailBodyCustom_cfd = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_cfd.setTitle(' ¿Por qué se lo busca? Porque junto con Paolucci y Laborda y los otros cinco detenidos habrían sacado ilegalmente del puerto de Buenos Aires seis de los 300 contenedores que José Gómez Centurión, titular del organismo, tiene inmovilizados por contrabando.');
+act_cfd.setSubtitle('Corrupción K'); 
+act_cfd.setLinkBack('http://www.clarin.com/politica/familia-Vido-complicada-Justicia_0_1676832340.html');
+act_cfd.setDescription('No sólo el ex ministro de Planificación acumula causas en su contra, sino también su esposa Lali Minnicelli y su cuñado Claudio “Mono” Minnicelli, el que se encuentra con pedido de captura por 30 contenedores bloqueados por la Aduana.');
+act_cfd.addActionLink('VER MÁS', 'http://www.clarin.com/politica/familia-Vido-complicada-Justicia_0_1676832340.html');
+
+var showShareBarUI_params_cfd=
+{ 
+containerID: 'shareQuote_cfd',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_cfd,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_cfd
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_cfd);
+  Las detenciones fueron parte de una serie de operativos que ordenó el juez en lo penal económico Marcelo Aguinsky, en los que también se realizaron allanamientos en depósitos fiscales. Dentro de los contenedores había camisetas truchas de la Selección y prendas provenientes de China con el sello “Made in Argentina”.  El prófugo “Mono” Minnicelli es a su vez el hermano de “Lali” Minnicelli, esposa de De Vido, que también tiene el ojo de la Justicia encima.
+
+ Junto al ex ministro, “Lali” está imputada por enriquecimiento ilícito. La causa, que fue reabierta en junio de este año, se disparó originalmente en 2008 por una denuncia de Monner Sans que puso la mira en el crecimiento patrimonial de De Vido a raíz de la adquisición de una chacra de cuatro hectáreas en Zárate que, según un informe del diario Crítica, no figuraba en la declaración de bienes del ex funcionario.  Julio de Vido supo mantenerse judicialmente impermeable durante los 12 años de gobierno kirchnerista. Y entre 2003 y 2007, durante el mandato de Néstor, su mujer fue la número dos de la SIGEN, el organismo que debe controlar al Estado, incluso al Ministerio de Planificación que estaba a cargo de su marido. Este año, la detención de Lázaro Báez, el empresario K de la obra pública, y la del ex secretario de Obras Públicas, José López -que fue detenido luego de arrojar bolsos con millones dentro del convento de General Rodríguez- son casos que arrinconan al ex funcionario, que debe lidiar además con la causa de Sueños Compartidos (el desvío de fondos estatales millonarios a la fundación de las Madres para la construcción de viviendas sociales) y la tragedia de Once de 2012, en la que está triplemente procesado. Mirá también: Desfile K por Tribunales: Cristina Kirchner, De Vido y Báez serán indagados por asociación ilícita Sin ir más lejos, De Vido está citado a indagatoria el próximo 1 de noviembre a las 10 en el marco de la causa que investiga el favoritismo en el direccionamiento de obras públicas viales a Austral Construcciones, de Lázaro Báez. Son 17 los citados a los Tribunales de Retiro por este asunto. La primera, la ex presidenta Cristina Kirchner el próximo lunes 31.
+
+

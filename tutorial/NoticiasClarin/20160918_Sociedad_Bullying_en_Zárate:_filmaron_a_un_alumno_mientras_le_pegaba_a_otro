@@ -1,0 +1,18 @@
+
+"No vas a decir más nada... Quedate quieto, no vas a decir más nada", le dice un chico a otro mientras lo golpea, tirado en el piso. De fondo, sólo se escuchan las risas del resto de los compañeros que están filmando la situación.  Eso es lo que muestra el video: un alumno del Colegio Industrial de Zárate es fuertemente golpeado por uno de sus compañeros, quien, además, lo amenaza con volver a pegarle si hablaba. Mirá también: Lanzan un detector de casos de bullying En las imágenes se ve cómo el chico agarra a su compañero del cuello y luego lo tira al piso para darle varias piñas en la cara y el cuerpo. La grabación fue subida a Facebook por una usuaria que trataba de identificar a los dos alumnos y se viralizó rápidamente.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La mamá del nene agredido lo vio y dejó un comentario en el que asegura que el chico se encuentra bien y que ya se tomaron medidas. Mirá también: Desesperada carta de un chico de 13 años que sufría bullying y se suicidó "Buenas tardes a todos, soy la mamá del nene agredido, agradezco infinitamente a todas las personas que se preocuparon por mi hijo, él se encuentra bien. Les quiero comunicar que se tomarán las medidas correspondientes necesarias para que estas cosas no vuelvan a suceder bajo ninguna circunstancia nunca más...Muchas gracias a todos!!", publicó. 

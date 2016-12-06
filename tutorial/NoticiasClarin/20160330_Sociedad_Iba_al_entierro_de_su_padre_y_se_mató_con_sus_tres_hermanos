@@ -1,0 +1,24 @@
+
+Un reconocido analista político y ex ministro de Canadá murió hoy junto a otras seis personas al accidentarse un avión turbohélice. Jean Lapierre viajaba con otros familiares al funeral de su padre y en el accidente murieron su esposa y tres de sus hermanos.
+
+Lapierre y su mujer en una foto de 2004 (AP) ​ El avión -- un Mitsubishi modelo MU-2b-60 del año 1982-- se estrelló a las 11.40 hora local, al aproximarse a la pista de Havre-aux-Maisons. Previamente las autoridades meteorológicas canadienses habían advertido de fuertes vientos en las islas, ubicadas en el golfo de San Lorenzo. Lapierre, quien fue ministro de Transporte durante el Gobierno del primer ministro Paul Martin (2003-2006), se dirigía al funeral de su padre en la apartada isla de la Magdalena, a unos 1.300 kilómetros al noreste de Montreal.
+
+Los restos de la nave estrellada (AP) ​ El actual jefe de Gobierno, Justin Trudeau, escribió en Twitter que estaba "sacudido" por la muerte de Lapierre. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/JustinTrudeau/status/714926824233545730",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71492682423354573")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Martin, por su parte, habló ante periodistas. En un intento por no romper en llanto, dijo haber visto a su antiguo colaborador hace sólo dos semanas. "Era un buen, buen amigo", comentó. "Alguien de una integridad inmensa y con visión (...). Amaba a los canadienses. Amaba a los quebequenses.... Como ministro, como periodista, creo que todos nosotros aprendimos de él. Y ahora se ha ido", declaró el ex jefe de Gobierno.
+
+Dolor. El ex premier Martin, al recordar a Lapierre (AP) ​ "Era un buen, buen amigo", comentó. "Alguien de una integridad inmensa y con visión (...). Amaba a los canadienses. Amaba a los quebequenses.... Como ministro, como periodista, creo que todos nosotros aprendimos de él. Y ahora se ha ido", declaró el ex jefe de Gobierno. Según las oficinas de Transporte, el avión era un Mitsubishi modelo MU-2b-60 del año 1982. Previamente las autoridades meteorológicas canadienses habían advertido de fuertes vientos en las islas, ubicadas en el golfo de San Lorenzo. Fuente: DPA

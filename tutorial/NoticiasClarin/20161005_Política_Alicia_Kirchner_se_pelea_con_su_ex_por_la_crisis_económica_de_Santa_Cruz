@@ -1,0 +1,38 @@
+
+Santa Cruz pasó de ser el destino favorito de sumas millonarias provenientes de la Casa Rosada para transformarse en una "provincia quebrada en sus finanzas", como repite cada vez que puede Alicia Kirchner. Los números no cierran y ya no hay un Kirchner en Nación que facilite sin mayores controles el envío de asistencia financiera. La actual gobernadora santacruceña sostuvo que Mauricio Macri le da sólo un 20% de la ayuda que volcaba su cuñada a la Provincia pero, sobre todo, aprovechó la oportunidad para criticar a ex, el anterior mandatario Daniel Peralta. Lo acusó de "no manejar bien los fondos públicos", la respuesta no se hizo esperar. Alicia K y Peralta no se preocuparon en ocultar la mala relación que siempre tuvieron, durante un buen tiempo morigerada porque ambos estaban bajo el mismo paraguas nacional. Hasta que el año pasado la disputa por la gobernación de Santa Cruz los enfrentó. Con un detalle: si no fuera por los votos de Peralta gracias a la polémica Ley de Lemas, Alicia Kirchner nunca hubiera asumido. Enemigos con beneficios.
+
+El delicado (des)equilibrio de las cuentas públicas y el pedido permanente de asistencia al Gobierno nacional, condujeron a la cuñada de Cristina a confesar que la anterior gestión nacional "enviaba por mes entre 400 y 420 millones (de pesos) de ayuda" a Santa Cruz. Entonces, hizo una pausa: "Tengo que decirlo, de alguna manera la Nación también me ayuda, pero no en esa proporción, en un 20% aproximadamente y antes del 31 de diciembre tengo que hacer la devolución". Mirá también: Arranca la temporada en el Sur y Cristina sólo abrirá la mitad de sus hoteles Fue el puntapié inicial para apuntar luego contra Peralta. La gobernadora encabezaba un acto en El Calafate, una de las pocas localidades que frecuenta: "Y la verdad es que no se cuidaron bien los fondos”, dijo sin mayores vueltas para justificar la crisis de Santa Cruz y estos casi 10 meses de gestión en los que la mandataria no logra sanear las cuentas públicas: sólo el déficit anual es de $ 7.000 millones y el 90% de los ingresos se destina a pagar salarios. Para ejemplificar, indicó que Peralta "malgastó" muchos fondos que se volcaron en publicidad y un excesivo alquiler de vehículos. No fue en una rueda de prensa, sino en la inauguración de un Jardín de Infantes. Padres, alumnos, docentes y dirigencia política escuchó, además, que el ex gobernador "sólo en publicidad gastó 35 millones de pesos en los primeros 6 meses. Y nosotros no llegamos a los 2 millones”. Datos de Alicia K.
+
+También mencionó que este "mal uso" del dinero público se observó en el "alquiler de camionetas, se gastaban por año $ 4 millones y hoy no se alquilan más. Cuento estos dos ejemplos y podría enumerar muchos más”, disparó la hermana del ex presidente. Al finalizar, se le pidió que detalle otros ejemplos y sólo agregó que se están "revisando el tema de alquileres".  Mirá también: En Santa Cruz dicen que la situación está “al límite” y rechazan un bono de fin de año La respuesta de Peralta (involucrado en estos días en una maniobra con el dólar futuro son los famosos fondos de Santa Cruz) no tardó en llegar. Peralta que armó su propio espacio político para competir en las elecciones legislativas de 2017 escribió desde su cuenta de twitter (@danielrperalta): "La semana entrante vamos a mostrar nuestros números en publicidad porque no fueron ni son secretos nunca tuvimos dueños de medios en los cargos", refutó.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/danielrperalta/status/783355794452512769",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78335579445251276")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ No quedó en este planteo. Peralta en tono irónico redobló la apuesta, "Y obviamente tampoco vamos a comparar los números y dirección de la pauta nacional y de algunos ministerios con nuestra provincia no changos?".  Alicia Kirchner manejó junto al ex ministro de Salud Daniel Gollán el Centro Articulador de Políticas Sanitarias que dirigió Rocío García, nuera de la ex Presidenta y actual ministra de Salud de Santa Cruz. Allí, según Peralta se enviaron "sumas millonarias" y se armó "un ministerio paralelo". Este espacio conducido por la pareja de Máximo y algunos programas fueron auditados y la actual gestión señaló que fueron usados "con fines electorales".  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/danielrperalta/status/783368028314632192",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78336802831463219")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El fuego cruzado entre Alicia Kirchner y Peralta no es el primero ni será el último. La gobernadora lo responsabiliza de la crisis que vive la Provincia y que tiene en constante tensión su relación con los gremios. "No estamos haciendo las cosas como corresponde, por falta de fondos. Porque si tuviera los fondos no tengan dudas que con poca plata se saca esto adelante”, dijo para poner fin a este capítulo de críticas con su antecesor.

@@ -1,0 +1,142 @@
+
+La cantidad de gases de efecto invernadero presente en la atmósfera batió un nuevo récord en 2015 por lo que continúa el aumento incesante que alimenta el cambio climático, advirtió hoy la Organización Mundial de la Meteorología (OMM). En 2015, la concentración atmosférica de CO2 --principal gas de efecto invernadero de larga duración-- alcanzó 400 partes por millón (ppm), según indica el Boletín sobre los gases de efecto invernadero que publica anualmente la OMM. Mirá también: Efecto invernadero: alertan que la temperatura global subirá 7°
+
+Asimismo, el informe destaca que los niveles de CO2 se dispararon de nuevo en 2016, alcanzando nuevos récords como consecuencia del fenómeno de El Niño, que ha tenido devastadores efectos en distintas zonas del mundo entre 2015 y los primeros meses de 2016. 
+
+
+"En los años en que hay El Niño los niveles aumentan, pero en los que no existe este fenómeno, la concentración también crece, por lo que la única manera de reducir la concentración en la atmósfera es cortando las emisiones y aumentando la forestación", dijo el secretario general de la OMM, Petteri Taalas.
+
+
+
+
+
+var act_abc = new gigya.socialize.UserAction();
+
+var emailBodyCustom_abc = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_abc.setTitle('"En los años en que hay El Niño los niveles aumentan, pero en los que no existe este fenómeno, la concentración también crece, por lo que la única manera de reducir la concentración en la atmósfera es cortando las emisiones y aumentando la forestación", dijo el secretario general de la OMM, Petteri Taalas.');
+act_abc.setSubtitle('Cambio climático'); 
+act_abc.setLinkBack('http://www.clarin.com/sociedad/record-gases-efecto-invernadero-atmosfera_0_1674432558.html');
+act_abc.setDescription('El crecimiento acelerado fue impulsado por el fenómeno de El Niño. ');
+act_abc.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/record-gases-efecto-invernadero-atmosfera_0_1674432558.html');
+
+var showShareBarUI_params_abc=
+{ 
+containerID: 'shareQuote_abc',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_abc,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_abc
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_abc);
+ Por eso, el científico abogó por que se establezcan objetivos vinculantes de reducción de emisiones de CO2 para todos los países con el objetivo de "ir de las palabras a los hechos". "Hay que pasar de la voluntad política a la acción y reducir las emisiones de forma radical, es la única manera de reducir la curva de crecimiento", agregó. Mirá también: Reducirán desde 2018 la producción de un gas de los aires acondicionados Los niveles de CO2 ya habían alcanzado anteriormente la barrera de las 400 ppm en algunos lugares concretos durante varios meses del año, pero nunca antes a escala mundial durante un año entero. Según las predicciones de la estación más antigua de vigilancia de los gases de efecto invernadero, situada en Mauna Loa (Hawai), las concentraciones de CO2 permanecerán por encima de las 400 ppm durante todo 2016 y no descenderán por debajo de ese nivel durante "muchas generaciones".
+
+El crecimiento acelerado que experimentó el CO2 fue impulsado por el episodio de El Niño, que provocó sequías en las regiones tropicales y redujo la capacidad de los "sumideros" -como los bosques, la vegetación o los océanos- para absorber CO2. Esos sumideros absorben actualmente alrededor de la mitad de las emisiones de CO2, pero existe el riesgo de que se saturen, lo cual aumentaría la fracción de las emisiones de dióxido de carbono que permanece en la atmósfera, según indica el boletín. Mirá también: Más de 170 países firman un acuerdo clave contra el cambio climático Entre 1990 y 2015 el "forzamiento radiativo" -que provoca un efecto de calentamiento del clima- experimentó un incremento del dióxido de carbono (CO2), el metano (CH4) y el óxido nitroso (N2O), resultantes de las actividades industriales, agrícolas y domésticas. Un "forzamiento radiativo" en clima es cualquier cambio en la radiación (calor) entrante o saliente de un sistema climático. Puede deberse a cambios en la radiación solar incidente, o a diferentes cantidades de gases activos radiativos.
+
+Sin embargo, el verdadero problema, según la OMM es el dióxido de carbono (CO2), que permanece en la atmósfera durante miles de años y en el océano aún mucho más. El CO2 contribuyó aproximadamente en un 65% al aumento total del "forzamiento radiativo" causado por los gases de efecto invernadero de larga duración. 
+
+
+"Si no nos ocupamos de las emisiones de CO2, no podemos hacer frente al cambio climático ni limitar el aumento de la temperatura a 2ºC con respecto al nivel preindustrial", especifica el boletín de la OMM.
+
+
+
+
+
+var act_8eb = new gigya.socialize.UserAction();
+
+var emailBodyCustom_8eb = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_8eb.setTitle('"Si no nos ocupamos de las emisiones de CO2, no podemos hacer frente al cambio climático ni limitar el aumento de la temperatura a 2ºC con respecto al nivel preindustrial", especifica el boletín de la OMM.');
+act_8eb.setSubtitle('Cambio climático'); 
+act_8eb.setLinkBack('http://www.clarin.com/sociedad/record-gases-efecto-invernadero-atmosfera_0_1674432558.html');
+act_8eb.setDescription('El crecimiento acelerado fue impulsado por el fenómeno de El Niño. ');
+act_8eb.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/record-gases-efecto-invernadero-atmosfera_0_1674432558.html');
+
+var showShareBarUI_params_8eb=
+{ 
+containerID: 'shareQuote_8eb',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_8eb,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_8eb
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_8eb);
+ Aproximadamente, un cuarto de las emisiones totales de CO2 son absorbidas por el océano y otro cuarto por la biosfera, reduciéndose de ese modo la cantidad de ese gas en la atmósfera. Su concentración en la era preindustrial, de alrededor de 278 ppm, representaba un equilibrio entre la atmósfera, los océanos y la biosfera.
+
+Las actividades humanas, como la quema de combustibles fósiles, han alterado el equilibrio natural y en 2015 el promedio mundial de CO2 se situó en un 144 % de su nivel en la era preindustrial y su concentración media mundial alcanzó las 400 ppm. De 2014 a 2015 el incremento de CO2 fue mayor que el año anterior y que la media de los diez años anteriores. Mirá también: Europa abre las puertas al primer pacto mundial contra el calentamiento global Fuente: EFE

@@ -1,0 +1,22 @@
+
+"Quiero dejarle un mensaje a los padres", lanzó y se detuvo. Pidió disculpas, mientras se secaba las lágrimas. "Hay que besar a los chicos a la mañana. No veamos más camas vacías", continuó y se quebró ante las cámaras de América TV. La inesperada escena la protagonizó el titular del SAME, Alberto Crescenti. Este hombre presenció numerosas tragedias, pero la ocurrida la madrugada del sábado en Costa Salguero le resultó evidentemente dolorosa. Mirá también: Siguen en grave estado los tres jóvenes internados en el Hospital Fernández 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Hace muchos años vengo viendo imágenes tremendas", señaló. En sus 16 años al frente del SAME, tuvo que dirigir los rescates de la Embajada de Israel, la AMIA y la tragedia de Once, entre otros. Pero esta vez no dudó en compartir su dolor y mostrar su empatía con las familias de los cinco jóvenes que fallecieron en la fiesta Time Warp. Contó que tiene dos hijos, de 31 y 35 años. Al recordar la época en que eran adolescentes, reconoció que "no se duerme a la noche, es difícil". Cuando le preguntaron por el motivo de su llanto, respondió que su dolor se debe a "la cama vacía" que van a tener los padres de las víctimas. Mirá también: Adrián Conci, el organizador de la trágica fiesta, se entregaría hoy
+
+(Alberto Crescenti en un rescate del SAME. Foto de archivo. Andres D'Elia)  Minutos después, cuando recuperó la calma, pudo dar su punto de vista sobre los hechos. "Yo entiendo lo que le pasa a los chicos. Entiendo la experimentación, el baile y la descarga de adrenalina. Pero el hogar y la educación es fundamental. Pido disculpas por quebrarme, pero he visto imágenes tremendas", continuó Crescenti. Mirá también: Marley en Costa Salguero: "A mí no me ofrecieron nada"
+
+(Alberto Crescenti durante el choque entre dos trenes y un colectivo en las vias del Ferrocarril Sarmiento, en 2011. Foto: Alfredo Martínez)  Mirá también: Según el fiscal, "la droga se compraba como los choripanes en la cancha" En el cierre de la entrevista, pidió a los chicos que van a las fiestas que no tomen ningún tipo de pastillas que les ofrezcan, porque "no sabemos esas pastillas qué tienen adentro" y porque "hubo muertes fulminantes en donde no se puede hacer absolutamente nada".

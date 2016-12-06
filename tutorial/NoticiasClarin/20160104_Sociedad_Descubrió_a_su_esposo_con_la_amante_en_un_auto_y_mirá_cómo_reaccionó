@@ -1,0 +1,17 @@
+
+La colombiana Adalia Briñez se convirtió en estas horas en una celebridad en su país. ¿La razón? Su marido la engañó con otra. Pero la causa de su celebridad no está en el engaño, sino en la reacción que tuvo la mujer al descubrirlo. Lo encontró con su amante en un auto, por la calle, y no dudó en parar el tránsito para escracharlo. El video de la escena, subido a YouTube, no para de sumar visitas en la red social.El incidente ocurrió en una concurrida calle de la ciudad de Ibagué, capital de Tolima. Los protagonistas de esta historia son Adalia, su marido, Luis Alberto Díaz, y Daniela Murcia, la amante del hombre. Cuando Adalia descubrió a su esposo circulando por la calle en su camioneta con la amante, se abalanzó sobre el vehículo y comenzó a increparlo. En el video que grabó alguien que estaba en el lugar se escuchan gritos y más gritos, pero según la prensa local Adalia comenzó gritándole "baje a esa vagabunda del carro, Luis", para después subir de tono a "baja a esa perra" y otros insultos a los dos amantes.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

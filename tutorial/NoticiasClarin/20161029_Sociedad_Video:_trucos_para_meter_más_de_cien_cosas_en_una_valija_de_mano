@@ -1,0 +1,18 @@
+
+La actriz y chica Bond de Muere otro día (2002), Rachel Grant, tiene una habilidad oculta y bien rara: sabe cómo hace para meter más de cien prendas en una valija de mano. El video en el que muestra esta habilidad fue realizado para una conocida marca de equipaje, sorprende por el método que utiliza y superó ya el millón de reproducciones.  La actriz contó al diario británico The Daily Mail que desarrolló sus habilidades cuando era reina de belleza y viajaba con toda su ropa en el equipaje de mano, mientras que otras chicas cargaban 4 o 5 valijas. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Los principales trucos de Rachel consisten en el uso de bolsas con cierre hermético, gomas elásticas y pequeños cubos para empacar. Primero, la clave para ahorrar espacio es enrollar las prendas y colocarlas en bolsas de envasado (tipo Ziploc) para comprimir y a mantener el orden. Mirá también: "Cuál es el método perfecto para armar una valija"  A los zapatos la mujer aconseja guardarlos abajo de todo unidos por banditas elásticas y con las medias metidas adentro. Para todo el resto (perfumes, maquillaje, etc), Rachel dice que deben estar en pequeños bolsitos que entren en la valija de mano.

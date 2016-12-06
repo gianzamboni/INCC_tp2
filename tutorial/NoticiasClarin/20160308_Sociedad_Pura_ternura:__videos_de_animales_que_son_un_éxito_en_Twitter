@@ -1,0 +1,25 @@
+
+Un cachorro de bulldog en pijama o una tortuga comiendo una frutilla casi tan grande como ella son algunos de los videos que se viralizan todo el tiempo en internet. La mayoría salen desde un mismo lugar, una cuenta de Twitter llamada @CuteEmergency que y suma más de dos millones de seguidores y que tiene miles de videos que endulzan luego a las redes sociales. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/traassshh/status/707246539962392576",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70724653996239257")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Un veinteañero californiano, Tony Heally, comenzó a recompilar y compartir videos y fotos tiernas de mascotas, lo que se volvió rápidamente viral. Heally "descubrió" un punto de interés dentro de la red social y su cuenta es un verdadero éxito. Pero no sólo eso, también es su trabajo. you're my pillow now pic.twitter.com/KEky5C87Uv— Cute Emergency (@CuteEmergency) 8 de marzo de 2016
+ “Me di cuenta que nadie recopilaba esos videos y entonces pensé que otras personas agradecerían que Twitter se centrara en cosas positivas. En unas semanas, ya contaba con 200.000 seguidores y desde entonces el número no ha parado de crecer", cuenta Heally a Verne. my first howl! pic.twitter.com/VXSCJBohun— Cute Emergency (@CuteEmergency) 6 de marzo de 2016
+ turn the sound up for this one https://t.co/xwoTOBLH5T— Cute Emergency (@CuteEmergency) 5 de marzo de 2016
+ El éxito de la empresa, que también le ha dado para publicar un libro con la misma temática, le permitió dejar su primer empleo tras salir de la universidad para así dedicarse a tiempo completo a su propio negocio, al que dedica "los siete días de la semana", asegura. this will always be my favorite https://t.co/n2DEvqat9u— Cute Emergency (@CuteEmergency) 6 de marzo de 2016
+ I love this cat pic.twitter.com/SuKEa6F0xv— Cute Emergency (@CuteEmergency) 5 de marzo de 2016
+ La inversión económica fue mínima, aunque no así la de tiempo: le dedica a su empresa cerca de 70 horas semanales. Su alianza con empresas dedicadas al sector animal como una marca de alimentación de mascotas, que patrocina algunos de sus mensajes, incrementa la cuenta de ingresos de este tuitero. "La mayoría de imágenes que publico me las envían los seguidores de la cuenta y yo me limito a seleccionarlas, porque llegan muchas propuestas. Todo el mundo cree que sus mascotas son las más adorables del mundo, pero no siempre es así", dice el estadounidense. puppy slide! pic.twitter.com/pXqBFEPit2— Cute Emergency (@CuteEmergency) 26 de febrero de 2016
+ sleepy lil fellas pic.twitter.com/OdYiGXBDB3— Cute Emergency (@CuteEmergency) 24 de febrero de 2016
+

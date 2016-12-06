@@ -1,0 +1,66 @@
+
+Marina Menegazzo y María José Coni tenían 21 y 22 años y estaban de vacaciones en Ecuador. Sus familiares no sabían nada de ellas desde el lunes 22 de febrero y la búsqueda ya era desesperada. Hoy recibieron la peor noticia: fueron halladas muertas. Así lo confirmó el ministro del Interior ecuatoriano José Serrano Salgado. Pasado el mediodía, el ministro del Interior de Ecuador reveló el hallazgo en su cuenta de Twitter, y contó que habló con los padres de las dos jóvenes mendocinas, y les informó lo sucedido. Aunque, en principio, por las redes sociales los familiares de las víctimas habían pedido cautela; luego la mamá de María José posteó en: "Hoy Dios me quitó una de mis cinco estrellas". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ppsesa/status/704006284257959936",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70400628425795993")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ppsesa/status/704007131071123456",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70400713107112345")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ppsesa/status/704008516214902784",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70400851621490278")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Ya entrada la tarde, el Ministerio del Interior de Ecuador emitía un comunicado oficial en el que informaba, además, que los cuerpos de las chicas fueron encontrados  "en un sector alejado en la playa de Montañita", una región turística ubicada a unos 250 kilómetros de Guayaquil y que es visitada especialmente por extranjeros. Al mismo tiempo, Serrano Salgado mantenía un diálogo telefónico con América 24, y daba detalles de los ocurrido. "Hay indicios de homicidio", dijo cauteloso.   El ministro ecuatoriano también explicó que el jueves se produjo el hallazgo del primer cuerpo, que tenía muchas lesiones en la cabeza y que hizo imposible su identificación y le tomaron las huellas dactilares. Al día siguiente, aparecieron las primeras denuncias en Argentina sobre la desaparición de las chicas. El dato que a las autoridades ecuatorianas las llevó a pensar que podría tratarse de una de ellas se dio ayer: hallaron un segundo cadáver a unos 40 metros de donde estaba el de Marina, el de María José.  Luego, llegó la confirmación de las huellas digitales de que el primer cuerpo hallado era el de Marina. La data de muerte: "Fue entre la noche del 22 y la madrugada del 23 de febrero", afirmó Serrano Salgado.  Justo el día en que Marina y María José se comunicaron por última vez con sus familias. Lo hicieron desde la ciudad costera de Montañita, en Ecuador, para avisar que su próximo destino sería Lima: iban a hospedarse una noche en la casa de una amiga que las estaba esperando. Según el ministro ecuatoriano, la misma noche del 22 de febrero tuvieron una fiesta de despedida en Montañita. Nada más se supo de ellas. Mirá también: El presidente de Ecuador habló de la muerte de las argentinas: "La Patria está de luto" Las jóvenes habían partido hacía dos meses y, tras recorrer varias provincias de Argentina, tenían como destino Ecuador. La vuelta a Mendoza estaba planeada para el viernes 26 de febrero. Sin información de las chicas, sus familiares denunciaron su desaparición. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/MashiRafael/status/703952986813415424",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70395298681341542")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Anoche se había activado la búsqueda de las argentinas en Ecuador y hasta el propio presidente Rafael Correa se había comprometido para encontrarlas en un tuit que le escribió a Belén, la hermana de Marina Menegazzo. Hoy, el mismo presidente Correa tuiteaba: "La Patria está de luto".

@@ -1,0 +1,19 @@
+
+Luego de las detenciones de Víctor Schillaci y Christian Lanatta en la localidad santafesina de Cayastá, la ministra de Seguridad, Patricia Bullrich, y el titular de la cartera de Seguridad bonaerense, Cristian Ritondo, fueron a Santa Fe para coordinar personalmente el traslado de los detenidos.La funcionaria llegó este mediodía a la comisaría de la localidad santafesina de  Helvecia, donde están detenidos los dos prófugos del triple crimen  General Rodríguez, y aseguró que ella misma coordinaría personalmente el traslado, luego de que los detenidos pidieran no ser llevados por Gendarmería.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+
+ El sábado fue detenido Martín Lanatta y se creyó, en forma errónea, que también habían caído los otros dos prófugos que el 27 de diciembre habían escapado de la penitenciaría de General Alvear, en la provincia de Buenos Aires.Fue por ello que la propia Bullrich, acompañada por el secretario de Seguridad, Eugenio Burzaco, había asegurado que la difusión de la noticia del sábado de que se habí­a detenido a los tres prófugos se debió a que recibieron "una información falsa" y la había vinculado a "ramificaciones que tiene el delito en las estructuras políticas, judiciales y de las fuerzas de seguridad"."La lucha contra el narcotráfico y el crimen organizado la vamos a encarar con toda nuestra fuerza nos pongan las informaciones falsas que nos pongan en el camino. Nosotros vamos a fondo. Esta es una instrucción que nos dio el Presidente de la Nación y la vamos a cumplir a rajatabla", dijo entonces la funcionaria.

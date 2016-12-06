@@ -1,0 +1,248 @@
+
+El legendario cantante británico David Bowie murió a los 69 años de edad, víctima de un cáncer. Se lo recuerda como un hombre camaleónico, ya que además de músico fue artista visual, actor, compositor y un verdadero pensador de la cultura. Aquellos que tuvieron la suerte de conocerlo y quienes se inspiraron en su obra lo recuerdan hoy en las redes sociales.Leé también: A los 69 años y víctima de cáncer, murió David BowieLa muerte fue confirmada en Twitter por su propio hijo, el director de cine Duncan Jones. Compartió una foto de él junto a su padre. "Lamento mucho y estoy muy triste al decir que es cierto. Estaré desconectado por un tiempo. Los quiero a todos", escribió.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ManMadeMoon/status/686441083648212992",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68644108364821299")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+Los Rolling Stones rindieron su homenaje a un "artista extraordinario y único", en un mensaje difundido en Twitter. "Estamos conmocionados y profundamente tristes por la muerte de nuestro querido David Bowie. Era un hombre maravilloso y amable, y también un artista extraordinario y único", difundió el grupo.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/RollingStones/status/686516418993586177",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68651641899358617")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/RollingStones/status/686516493757059072",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68651649375705907")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+Uno de los miembros de este grupo, el gran "Ronnie" Wood, eligió Instagram como medio para compartir su dolor. "Pensando en vos, David", fue el epígrafe que acompañó su imagen.
+    Thinking of you David 🙏🏻 Una foto publicada por Ronnie Wood (@ronniewood) el 11 de Ene de 2016 a la(s) 5:41 PST
+
+Sin dudas, una de las más efusivas fue la "Reina del pop", Madonna. "¡Estoy devastada! Este gran artista cambió mi vida!", escribió en su cuenta de Twitter. En otro mensaje definió a Bowie como "el hombre que cayó a la Tierra".
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Madonna/status/686474254431432704",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68647425443143270")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+También Paul McCartney aportó una foto que lo muestra abrazado a Bowie. "David fue una gran estrella y yo atesoro los momentos que pasamos juntos", escribió. "Le envío mi más profunda simpatía a su familia y siempre recordaré las grandes risas que tuvimos a lo largo de los años. Su gran estrella brillará en el cielo por siempre".
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/PaulMcCartney/status/686547772611399683",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68654777261139968")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+Mirá también la fotogalería en HDEl cantante Iggy Pop, que colaboró con Bowie, compartió: "La amistad de David era la luz de mi vida. Nunca conocí a nadie tan brillante. Era el mejor". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/IggyPop/status/686487748149121024",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68648774814912102")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+También Gene Simons, de Kiss, reconoció que su canción "Changes" y los temas con la historia de Ziggy fueron "una gran influencia" para él. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/genesimmons/status/686456906525741056",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68645690652574105")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+Por su parte, el actor Russell Crowe publicó: "Amaba tu música. Te amaba a ti. Uno de los mayores artistas sobre el escenario que jamás existió". Luego retuiteó el mensaje del hijo del artista.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/russellcrowe/status/686444422301487104",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68644442230148710")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+Los más jóvenes hicieron su propio tributo para demostrar la vigencia de Bowie. Uno de los cantantes de One Direction, Louis Tomlinson, le describió como "leyenda de la música".
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Louis_Tomlinson/status/686463476236169216",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68646347623616921")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+"Un verdadero innovador, un verdadero creativo", comentó Pharell Williams, el autor de la famosa canción "Happy".
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Pharrell/status/686460230318698496",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68646023031869849")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+El rapero Kanye West compartió: "David Bowie fue una de mis inspiraciones más importantes, tan valiente, tan creativo, nos dio magia para toda una vida". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/kanyewest/status/686449257767776256",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68644925776777625")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+El fanatismo se sintió, incluso, en el espacio. El astronauta británico Tim Peake escribió desde la Estación Espacial Internacional: "Entristecido al enterarme de que David Bowie ha perdido su batalla contra el cáncer. Su música era una fuente de inspiración para muchos". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/astro_timpeake/status/686464096540200960",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68646409654020096")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+El ámbito de la política también destacó su figura. El primer ministro británico, David Cameron, se sumó a la despedida de esta destacada figura de su país. "Crecí escuchando y viendo al genio de la música pop David Bowie. Fue un maestro de la reinvención que no paró de acertar. Una gran pérdida".
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/David_Cameron/status/686446926586359808",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68644692658635980")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+El alcalde de Londres, Boris Johnson, le dio al acontecimiento una impronta local. "Terrible noticia la de la muerte de David Bowie, nacido en Brixton (en el sur de la capital). Nadie de nuestra época se merece tanto ser llamado un genio". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/MayorofLondon/status/686458403141607424",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68645840314160742")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+El gobierno alemán, en tanto, recordó su contribución a la caída del muro de Berlín. "Adiós, David Bowie. Ahora estás entre los héroes. Gracias por contribuir a derribar el muro", tuiteó el Ministerio de Asuntos Exteriores alemán en su cuenta oficial y el alcalde-gobernador de Berlín --ciudad donde Bowie vivió en la década del 70-- dijo que el músico "era uno de los nuestros, lo cual nos enorgullece". Muchos famosos latinos también se sumaron a la despedida virtual. Los cantantes Ricardo Montaner y Leo García fueron algunos de ellos. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/montanertwiter/status/686493655947935744",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68649365594793574")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+
+    Desperte llorando, sintiendo que murió todo... #davidbowie Una foto publicada por Leo García (@leogarciapop) el 11 de Ene de 2016 a la(s) 4:03 PST
+
+

@@ -1,0 +1,18 @@
+
+La ministra de Seguridad, Patricia Bullrich, volvió a apuntar anoche contra el ex jefe de gabinete kirchnerista Aníbal Fernández y pidió profundizar la causa que investiga la vinculación del ex funcionario con el triple crimen de General Rodríguez.Además, alertó sobre una "complicidad" política que permitió el ingreso de la "efedrina a la Argentina", por lo que consideró que "hay responsables políticos claros que tendrán que dar explicaciones".
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En diálogo con Joaquín Morales Solá por el canal de noticias TN, la titular de la cartera volvió apuntar contra Fernández al ser consultada sobre si los hermanos Cristian y Martín Lanatta y Víctor Schillaci, los tres condenados por el triple crimen que fueron recapturados tras permanecer varios días prófugos luego de lograr escapar del penal de General Alvear, darán información a la Justicia sobre las causas en las que se encuentran involucrados. "Ya lo hicieron en una oportunidad", recordó Bullrich en alusión a las acusaciones de Martín Lanatta en las que vinculó al ex candidato a gobernado bonaerense con los homicidios de Damián Ferrón, Leopoldo Bina y Sebastián Forza."Esa causa hay que profundizarla", sostuvo la ministra, y subrayó: "No importa la condición de quien habla, si es una persona que está condenada. Lo que importa es lo que dice".Por eso, pidió "corroborar" las complicidades políticas que, dijo, permitieron la "entrada masiva de la efedrina a la Argentina"."Hay responsables políticos claros que tendrán que dar explicaciones. Desde mi punto de vista, si esto se comprueba, no solamente dar explicaciones...", completó sugerente.Por su parte, el ministro de Seguridad bonaerense, Cristian Ritondo, también apuntó a las vinculaciones políticas con estas mafias y en ese sentido recordó que "el mayor responsable lucha contra el narcotráfico, el Sedronar, tiene a sus responsables procesados. Empezamos desde un lugar muy alto", afirmó, también en declaraciones a TN.

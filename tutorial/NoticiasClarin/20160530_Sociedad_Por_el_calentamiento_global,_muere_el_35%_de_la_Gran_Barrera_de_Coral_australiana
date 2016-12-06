@@ -1,0 +1,18 @@
+
+Más de un tercio de los corales de la zona central y norte de la Gran Barrera de Coral australiana murió o está muriendo debido a una decoloración masiva atribuida al calentamiento global y la acidificación del océano, informó hoy la Universidad James Cook. Una media del 35 por ciento de los 84 corales estudiados está prácticamente o totalmente muerto, afirmó el equipo de investigadores tras meses de investigaciones aéreas y submarinas. "La recuperación de la cobertura de coral tardará una década o más, pero se tardará mucho más tiempo en recuperar los corales más grandes y antiguos que han muerto", afirma el estudio. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Es la tercera vez en 18 años en la que la Gran Barrera de Coral experimenta una decoloración masiva debido al calentamiento global, y el episodio actual es mucho más extremo que los que habíamos medido antes", explicó el director del Centro de Excelcia de Estudios de Arrecifes de Coral de la universidad, Terry Hughes. Mirá también la Fotogalería en HD "Estas tres decoloraciones ocurrieron en una época en la que las temperaturas sólo se encuentran un grado Celsius por encima del nivel preindustrial. Nos estamos quedando sin tiempo para reducir las emisiones de efecto invernadero", advirtió. La Gran Barrera australiana es el mayor sistema de arrecifes de coral del mundo y se extiende a lo largo de 2.300 kilómetros de la costa este de Australia. Los corales son cnidarios que viven en plena simbiosis con las algas. Las algas le procuran alimento y son las responsables de sus colores irisados. Pero esas mismas algas segregan veneno cuando se dan altas temperaturas y son repelidas. Los corales pierden entonces su color y mueren si las algas no vuelven a anidar en ellos. El fenómeno meteorológico El Niño de este año hizoque la temperatura del agua haya superado en algunas partes los 30 grados.Los corales consiguen regenerarse si sobreviven algunas algas o si otras diferentes anidan en ellos, aunque el intervalo de tiempo en el que esa recuperación es posible varía entre los diferentes tipos. Leé también: Calentamiento global: una amenaza latente en los Cayos de Florida.  El mes pasado, el mismo grupo de investigadores aseguró que el 93 por ciento de la Gran Barrera está afectado por la decoloración. Aun así, el 95 por ciento de los corales de la parte sur de la Barrera sobrevivieron. "Esperamos que estos corales, que sufren una decoloración más moderada, recuperen su color original durante los próximos meses", afirmó Mia Hoogenboom, una de las investigadoras. Según el centro de estudios, los arrecifes del sur evitaron los daños debido a que las temperaturas del agua son más cercanas a las normales en la época estival. El estrés al que se han visto sometidos los corales por la decoloración probablemente reducirá temporalmente su reproducción y tasas de crecimiento. La Gran Barrera de Coral es una de las mayores atracciones turísticas de Australia, genera unos ingresos anuales de unos 5.000 millone de dólares australianos (3.900 millones de dólares estadounidenses) y sostiene unos 70.000 puestos de trabajo. El pasado viernes se supo que Australia logró que se eliminase un capítulo sobre la Gran Barrera de Coral de un informe de la ONU sobre cambio climático, por temor al impacto que podría tener sobre el turismo. Fuente: DPA.

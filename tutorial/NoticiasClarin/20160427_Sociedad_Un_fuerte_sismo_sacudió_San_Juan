@@ -1,0 +1,50 @@
+
+Un fuerte temblor de 4,9 grados en la escala Richter tuvo lugar en la noche del martes en las cercanías de la localidad de Bermejo, a 74 kilómetros de la capital provincial de San Juan.  El movimiento sísmico, de 18 kilómetros de profundidad y fuerte intesidad, comenzó a las 23:16 horas y a pesar de tener epicentro en territorio sanjuanino también se sintió con intensidad en Córdoba y Mendoza.  No hubo reporte de daños ni heridos. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Sofipereyra96/status/725159600283078656",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72515960028307865")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/lacolo08/status/725149681886597120",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72514968188659712")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/MatiasNunia/status/725149507000885248",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72514950700088524")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+  

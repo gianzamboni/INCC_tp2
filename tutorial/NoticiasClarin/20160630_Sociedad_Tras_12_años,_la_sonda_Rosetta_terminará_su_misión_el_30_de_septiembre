@@ -1,0 +1,158 @@
+
+La sonda Rosetta terminará su misión el 30 de septiembre con un descenso controlado sobre su cometa 67P/Churyumov-Geramisenko (apodado "Churi"), anunció hoy la Agencia Espacial Europea (ESA). Será el final de un viaje espacial de 12 años, que permitió avances en el conocimiento de esos cuerpos celestes. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Este cierre, según el comunicado de la ESA, se debe a que a medida que se acerca a la órbita de Júpiter, la energía solar que alimenta la sonda y sus instrumentos es cada vez menor, al igual que el ancho de banda utilizado para la transmisión de datos científicos. La ESA recalcó que si a eso se le suma el envejecimiento de la nave y de la carga útil, "que han soportado un entorno muy adverso durante más de 12 años", dos de ellos cerca de un cometa con gran cantidad de polvo, resulta "lógico" que esté llegando a su final. Mirá también: Descubren un miniasteroide que gira alrededor de la Tierra
+
+(Representación artística de la ESA muestra el máximo acercamiento de Rosetta a la Tierra, el 13 de noviembre 2007. AFP) La agencia recordó que en 2011 entró en un periodo de hibernación de 31 meses durante el tramo más distante de su trayecto, pero destacó que esta vez carece de energía como para garantizar que sus calentadores sean capaces de lograr una temperatura suficiente para su supervivencia. En vez de arriesgarse a una hibernación mucho más prolongada, de la que sería poco probable que saliese, el equipo científico decidió que ha llegado el momento de que siga al módulo Philae en su camino hacia el cometa.
+
+(Trabajadores del centro espacial de Guayana Francesa junto a la sonda Rosetta, en febrero de 2004. AP). Rosetta se posará en el cometa "Churi", donde ya se encuentra su robot Philae desde el 12 de noviembre de 2014, en lo que fue un hito histórico seguido en el mundo entero. Philae rebotó varias veces y finalmente se estabilizó entre dos acantilados en una zona sin luz. Gracias a sus diez instrumentos, trabajó durante 60 horas y luego se apagó porque las placas solares que le dan vida no recibían luz suficiente para recargar sus baterías. El 13 de junio de 2015 se "despertó" por sorpresa y tuvo varios contactos con la Tierra. Pero, desde el 9 de julio de ese año, se mantuvo inactivo. 
+
+
+"Para ambos será el final de misión más bello que se pueda imaginar, con la posibilidad además de efectuar nuevas mediciones e imágenes lo más cerca posible del cometa", dijo Jean-Yves Le Gall, presidente del programa espacial francés CNES.
+
+
+
+
+
+var act_33f = new gigya.socialize.UserAction();
+
+var emailBodyCustom_33f = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_33f.setTitle('"Para ambos será el final de misión más bello que se pueda imaginar, con la posibilidad además de efectuar nuevas mediciones e imágenes lo más cerca posible del cometa", dijo Jean-Yves Le Gall, presidente del programa espacial francés CNES.');
+act_33f.setSubtitle('Anuncio de la Agencia Europea'); 
+act_33f.setLinkBack('http://www.clarin.com/sociedad/sonda-Rosetta-terminara-mision-septiembre_0_1604839517.html');
+act_33f.setDescription('Se posará sobre el cometa 67P, apodado "Churi". Ahí se encontrará con su robot Philae, que está inactivo desde el año pasado. ');
+act_33f.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/sonda-Rosetta-terminara-mision-septiembre_0_1604839517.html');
+
+var showShareBarUI_params_33f=
+{ 
+containerID: 'shareQuote_33f',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_33f,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_33f
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_33f);
+
+
+(El centro de control de la Agencia Espacial Europea, ubicada en Alemania, en una imagen de agosto de 2014. AP). Tras 12 años de viaje interplanetario, incluyendo los dos últimos en el entorno inmediato del cometa al que acompaña en su periplo alrededor del Sol, Rosetta intentará concluir "de manera magistral su misión", indicó la ESA.  
+
+
+"¡Qué final más bello para Rosetta que darle un último beso a su cometa!", dijo Le Gall.
+
+
+
+
+
+var act_ff5 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_ff5 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_ff5.setTitle('"¡Qué final más bello para Rosetta que darle un último beso a su cometa!", dijo Le Gall.');
+act_ff5.setSubtitle('Anuncio de la Agencia Europea'); 
+act_ff5.setLinkBack('http://www.clarin.com/sociedad/sonda-Rosetta-terminara-mision-septiembre_0_1604839517.html');
+act_ff5.setDescription('Se posará sobre el cometa 67P, apodado "Churi". Ahí se encontrará con su robot Philae, que está inactivo desde el año pasado. ');
+act_ff5.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/sonda-Rosetta-terminara-mision-septiembre_0_1604839517.html');
+
+var showShareBarUI_params_ff5=
+{ 
+containerID: 'shareQuote_ff5',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_ff5,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_ff5
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_ff5);
+ La comunicación terminará al posarse sobre su superficie, pero en las últimas horas del descenso, según la ESA, le permitirán "realizar numerosas mediciones únicas, incluyendo imágenes de altísima resolución que incrementarán el retorno científico de la misión con datos de gran valor". El cambio de su trayectoria comenzará en agosto, y los científicos, que aún no han decidido la zona en la que impactará, reconocen que esta fase final es compleja y arriesgada. Mirá también: La Tierra, vista desde el espacio en ultra alta definición
+
+(Imagen artística difundida por la ESA en febrero de 2004 de Rosetta y la plataforma de lanzamiento en Kourou, Guayana Francesa. AP. El responsable de la misión, Patrick Martin, admite que puede haber imprevistos."Aunque estamos haciendo todo lo posible por garantizar la seguridad de Rosetta hasta ese momento, estos casi dos años de experiencia con el cometa nos han demostrado que las cosas no tienen por qué salir según lo planeado", concluyó en el comunicado. Fuente: Agencias

@@ -1,0 +1,57 @@
+
+Otra vez la violencia se apoderó de Tierra de Fuego, paradójicamente al cumplirse 21 años de la represión en la que fue asesinado Víctor Choque, el primer muerto en una protesta social desde el regreso de la democracia. Trabajadores estatales, que desde hace más de 45 días están de paro y acampan en protesta contra la gobernadora Rosana Bertone, se enfrentaron con integrantes del gremio de camioneros que desalojaron a los golpes un piquete que impedía la libre circulación de camiones de combustible. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Desde ayer, los estatales cortan el acceso a la planta Orión, ubicada en la ciudad de Ushuaia y que abastece de nafta a toda la provincia, para pedir la derogación de un paquetes de leyes que impulsó el Gobierno.  “Esta es una rebelión de los trabajadores”, advirtió el secretario General de ATE, Carlos Córdoba, promotor del piquete. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Mirá también: Tierra del Fuego: un juez convocó al Gobierno y gremios pero sigue el conflicto Lejos de ponerle calma a la protesta, que desde hace más un mes jaquea a la administración provincial, tiró leña al fuego. "De acá nos sacan a los tiros. Que vengan los federales; que venga Macri”, desafió.
+
+Minutos antes de las 19, un contingente de camioneros llego hasta el lugar y, tras insultos y discusiones, comenzaron las trompadas y corridas. Volaron cascotes, piedras, maderas y hasta ruedas.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Esta mañana, dos radios provinciales aparecieron pintadas con frases intimidatorias y también se registró un escrache al sindicato de camioneros de la ciudad de Ushuaia. Según detalló el vocero del gremio, Guillermo Vargas, encontraron las paredes de la sede con pintadas que decían "mafiosos" y otros insultos.  Algo similar podía leerse en las puertas de las radios  FM Provincia y FM Masters. "Las leyes se derogan. Les guste o no", decía una pintada. "Periodistas traidores", rezaba otra. 
+
+"Hemos acompañado todos los reclamos de los compañeros estatales, respetamos su organización y en esta oportunidad no participamos de esto, solo les pedimos que cambiaran de lugar para realizar la medida sin perjudicar nuestro trabajo, pero no lo aceptaron”, dijo y sostuvo que, por día, los camioneros perdían miles de pesos.  Mirá también: Un gremialista llamó a “derrotar” a la gobernadora fueguina y puso en duda ya haya sido abusada La violencia se desató, según denunciaron los estatales, ante la inacción de la policía. "Hubo zona liberada", dijeron. Bertone, con el apoyo de la legislatura provincial, impulsó una ley (la 1068) que declaró la emergencia del Sistema de la Seguridad Social, elevando el porcentaje de aportes y modificando la edad jubilatoria de la isla. Eso desató protestas y marchas. La gobernadora, que llegó al poder con un fuerte apoyo kirchnerista y luego mostró sintonía con el presidente Mauricio Macri, al que acompañó al Vaticano en su visita al Papa Francisco, hizo un llamado a pacificar la provincia, pero eso empeoró la situación. A mediados de marzo, Córdoba de ATE, quien ayer habló de rebelión, había dicho que la mandataria fueguina iba “va a vivir envuelta en llamas”.  Hoy, mientras en el fin del mundo caía la noche y el frío se iba haciendo más crudo, sus palabras parecieron cumplirse.  trabajadores resisten. son agredidos por camioneros. llegó una ambulancia pic.twitter.com/6i5D9SrzK9— Mariana Cheminet (@Marucheminet) 12 de abril de 2016
+
+la ambulancia sale del piquete hacia el Hospital pic.twitter.com/p7wZBnUGaJ— Mariana Cheminet (@Marucheminet) 12 de abril de 2016
+

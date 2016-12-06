@@ -1,0 +1,18 @@
+
+La diputada de la Tupac Amaru, Mabel Balconte, citada ante la Justicia por el caso de malversación de fondos para viviendas en Jujuy pidió ampliar su declaración y armó un escándalo. Según el medio Jujuy al Momento, la imputada señaló a Milagro Sala como la principal responsable y aseguró que Máximo Kirchner “recibía valijas de dinero en la Quinta de Olivos”. Mirá también: Cristina, con un medio amigo: palos para la prensa y pedido por Milagro Quien difundió la declaración de Balconte fue su propio abogado, Guillermo Puerta. "Entre 12 y 15 valijas viajaban con destino al departamento de Milagro Sala que tiene ubicado en la calle Lima y de ahí se dirigían a la Quinta de Olivos", declaró el letrado a los medios. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Al ser consultado sobre qué figuras de la gestión anterior quedaron implicadas con esta declaración, respondió: "El Cuevo Larroque, Máximo Kirchner, alias el Principito, a quien le dejaban las valijas en la Quinta de Olivos". Además aseguró que "la gran mayoría del dinero retirado de los bancos se llevaba (a la Quinta de Olivos) y parte del dinero quedaba en la casa de Milagro Sala". Mirá también: Milagro Sala desvió más de $700 millones, que eran para viviendas Sobre su defendida, Puerta indicó: "No estamos ante la situación de una arrepentida, sino de una víctima de las reiteradas y constantes amenazas que sufrió Mabel Balconte de la dirigente social Milagro Sala". Mirá también: Pedirán seis años de prisión para Milagro Sala por amenazar a Morales en 2009 Según trascendió, Balconte dio datos, fechas y confirmaciones de nombres y lugares que consolidan las líneas de investigación sobre el "modus operandi" utilizado para utilizar la plata proveniente de Obras Públicas de Nación.

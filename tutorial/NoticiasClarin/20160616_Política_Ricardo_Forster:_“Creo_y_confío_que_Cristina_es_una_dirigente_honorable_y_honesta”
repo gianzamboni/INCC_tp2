@@ -1,0 +1,18 @@
+
+ “Tiene que ser Cristina Kirchner la que tome la palabra. Yo no voy a hacer especulaciones con eso”. Con esas palabras se refirió el líder de Carta Abierta Ricardo Forster al caso de José López, el ex número dos de Julio De Vido que fue encontrado in fraganti cuando intentaba esconder casi 9 millones de dólares. El filósofo resguardó además de las críticas a CFK: “Creo y confío que Cristina es una dirigente honorable y honesta”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ En diálogo con “Lo malo de ser bueno” de La Once Diez, el filósofo dijo estar triste por la noticia conocida hace dos días. “Estoy tomando esto con una inmensa tristeza, es algo espantoso que hiere no solamente a quienes están en el kirchnerismo sino a la política porque mete un manto de sospecha sobre un instrumento sin el cual la democracia se convierte en nada. Pone en situación de sospecha a gente que actuó en función de convicciones y honestidad”. Mirá también: José López se negó a declarar y lo trasladan a Ezeiza  En referencia a la hipótesis de que la ex presidenta Cristina Fernández de Kirchner supiera del caso o estuviese involucrada, Forster aseguró: “Yo quiero imaginar que no”. Despegó, además, a CFK del caso y cargó contra el ex secretario de Obra Pública: “Es bueno que cada uno de explicaciones. [López] Era un funcionario de altísimo nivel”.  Forster reconoció, sin embargo, que el financiamiento de la política “es una zona muy complicada que atraviesa todos los sectores políticos”. Pero que nunca imaginó “un grotesco de esta naturaleza”. El también profesor de la Universidad de Buenos Aires fue funcionario durante el gobierno de Cristina Kirchner, en la así llamada “Secretaría de Coordinación Estratégica para el Pensamiento Nacional”. Mirá también: Según su abogada, López está "estresado y sufriendo"  Desde Carta Abierta no están teniendo diálogo con la ex presidenta, contó Forster: “Estamos discutiendo qué sociedad, qué democracia y qué dirigentes queremos. No hemos hablado con ella [en referencia a Cristina Kirchner] ni nadie del núcleo duro, pero hay una investigación en curso y deberán darse explicaciones”, contó. Mirá también: Picante cruce entre Pamela David y Diego Brancatelli  También anticipó que el colectivo kirchnerista que integra se pronunciará al respecto en unos días: “Teníamos lista una carta que íbamos a publicar en los próximos días, pero con esto de López esto exige un claro pronunciamiento de la asamblea de 400 personas que conforma Carta Abierta”.

@@ -1,0 +1,20 @@
+
+En Bariloche todos hablan del hombre que corrió desnudo por la calle tras haber sido sorprendido por el esposo de su amante. Ahora se conocieron algunos detalles más de lo que ocurrió el fin de semana pasado, como una exposición del engañado ante la policía y más fotos del amante, en fuga mientras se tapaba los genitales. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La historia fue de las más leídas en varios medios de todo el país y es que parece de película. El hecho ocurrió el sábado pasado, cuando un hombre salió de su casa para ir a trabajar. Sin embargo, por algún motivo decidió volver a su vivienda. Al ingresar a su casa, cerca de las 10 de la mañana, notó que su mascota tenía un comportamiento extraño: ladraba señalando debajo de la cama.  También leé: "Lo descubrió el marido de su amante y se escapó desnudo"  Ahí entonces comienza el escape del amante, que no pudo tomar ninguna de sus prendas de vestir ni las llaves de su auto. Los que lo vieron cuentan que fue tal su velocidad que le sacó muchos metros de ventaja a su perseguidor, tantos como para comenzar a pedir que algún automovilista se apiadara de él y lo sacara de la zona “caliente”. Un camionero lo rescató, no sin antes filmarlo.
+
+Ante su imposibilidad de darle alcance, el engañado descargó su ira contra el auto del amante. Ahora, según el diario El Cordillerano, se conoció una exposición policial del hombre engañado donde justifica el destrozo del auto. El hombre Indicó a la policía que volvió a su casa, la cual había dejado para ir a trabajar, y que descubrió el engaño, que de la bronca tomó un machete y con él puso en fuga al hombre que veía a escondidas a su esposa. Luego indicó que ante la desesperación atacó el auto, al que no le dejó ni un vidrio sano.

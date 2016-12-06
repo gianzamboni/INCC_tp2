@@ -1,0 +1,68 @@
+
+El diputado nacional y líder del Frente Renovador, Sergio Massa, aseguró hoy que no se puede plantear en términos de "guerra, o de victoria, o derrota" la aprobación de "una ley para los próximos 35 años", y recordó que "el Congreso no tiene más mayorías automáticas", luego de que la oposición se negara a aprobar ayer en la Cámara baja el proyecto del Ejecutivo para la participación público-privada en obras de infraestructura. 
+
+
+"Una ley no es ganar o perder, una ley no puede ser planteada en términos de guerra, o de victoria o derrota, tenemos que aprender que las cosas simples no deben volverse dramáticas y tenemos que entender que el Congreso no tiene más mayorías automáticas, que hay veces que las leyes salen con modificaciones, y que el gobierno lleva 52 leyes resueltas en el Congreso con dialogo ", dijo Massa esta mañana, en diálogo con radio Mitre.
+
+
+
+
+
+var act_0b6 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_0b6 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_0b6.setTitle('"Una ley no es ganar o perder, una ley no puede ser planteada en términos de guerra, o de victoria o derrota, tenemos que aprender que las cosas simples no deben volverse dramáticas y tenemos que entender que el Congreso no tiene más mayorías automáticas, que hay veces que las leyes salen con modificaciones, y que el gobierno lleva 52 leyes resueltas en el Congreso con dialogo ", dijo Massa esta mañana, en diálogo con radio Mitre.');
+act_0b6.setSubtitle('En Diputados'); 
+act_0b6.setLinkBack('http://www.clarin.com/politica/Massa-defendio-Congreso-mayorias-automaticas_0_1676232428.html');
+act_0b6.setDescription('Fue luego de que la oposición se negara a aprobar ayer en la Cámara baja el proyecto del Ejecutivo para la participación público-privada en obras de infraestructura.');
+act_0b6.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Massa-defendio-Congreso-mayorias-automaticas_0_1676232428.html');
+
+var showShareBarUI_params_0b6=
+{ 
+containerID: 'shareQuote_0b6',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_0b6,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_0b6
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_0b6);
+ Agregó que no se puede plantear todo en términos "maniqueos", de "bipolaridad", que sólamente lleva a que las cosas son "drama o fiesta, victoria o derrota", luego de votar junto al Frente para la Victoria para frenar el proyecto del macrismo. Mirá también: El massismo se unió a los K para frenar una ley que pidió Macri El proyecto de ley que promueve la participación público-privada en el desarrollo de obras de infraestructura, que ya tiene media sanción del Senado, regresó ayer a Comisión para que se analicen las modificaciones planteadas ayer por la oposición en el recinto de la Cámara baja. Massa negó que la falta de apoyo a esta ley haya sido motivada por una actitud diferente a la lógica, y afirmó que la ley apenas se demorará "una semana más en la Comisión", lo que no afecta su entrada en vigor, ya que recién entraría en vigencia el 1 de enero de 2017. "Se trata de una ley que regula el sistema de inversiones y concesiones público-privado para los próximos 35 años, y que iba a recibir 30 modificaciones en el recinto. Dado que es una ley clave para el futuro de Argentina, y comenzaría a regir el 1 de enero del año que viene, nada cambia que se demore una semana más en comisión", dijo el diputado y titular del Frente Renovador. Según dijo, se trató de una decisión "sensata", que mostrará "seriedad a los inversores", ya que "brindará garantías al sector público y también al privado". Mirá también: Una pelea a tres bandas en Provincia, por dinero y poder "Es una ley que requiere de acuerdo de todos los sectores para mostrarle al resto del mundo que en temas de tanta seriedad e interés público nos ponemos de acuerdo. Que una ley vuelva a comisión no es victoria o derrota de nadie. Tomarse una semana más es aplicar sentido común para tener la mejor ley, que implique medidas de protección a las pequeñas y medianas empresas (pymes) y a las cuentas públicas, auditorías, y garantías para el Estado", consignó el diputado. Recordó que los "controles y garantías" que se quieren incorporar a la ley son para que "la sociedad argentina no vuelva a ser víctima de estafas, como ocurrió con las privatizaciones". 

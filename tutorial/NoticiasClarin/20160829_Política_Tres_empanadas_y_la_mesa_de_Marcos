@@ -1,0 +1,24 @@
+
+Para dos personas El diputado nacional se quiere mostrar “cerca de la gente”. Más allá de que en su barrio lo haga, yendo al súper o al parque más cercano, ahora adoptó una modalidad parecida cerca de su trabajo. Axel Kicillof dejó las mieles del poder y ahora, como legislador nacional, baja cada mediodía de sus oficinas y marcha a comprarse el almuerzo. Por eso, se lo suele ver al ex ministro kirchnerista yendo a una panadería cerquita de Combate de los Pozos e Hipólito Yrigoyen y pide la comida” Tres empanadas”, recita cual Luis Brandoni en “Esperando la carroza”. Así, el profesor universitario parangona al presidente Mauricio Macri con sus timbreos y genera encuentros casuales con los parroquianos para mostrarse en contacto con la realidad; aunque algún insulto recibió quien fuera el último ministro de Economía de CFK. “Qué misería ¿sabés lo que tenían para comer? tres empanadas que les sobraron de ayer” 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Juegos Olímpicos   Otros políticos en vez de entrarle con fruición a las empanadas, prefieren dedicarse a los deportes. Un diputado bonaerense del macrismo organizó sus propios Juegos Olímpicos cuando se lanzó a recorrer la Provincia combinando box, canotaje y bicicleta con rosca política. Manuel Mosca, vice segundo de los Diputados bonaerenses, boxeó en Zárate con el diputado Marcelo Torres, del Frente para la Victoria: el primer golpe que recibió Mosca fue “por culpa del Tarifazo”, según lo chicaneó el peronista. La respuesta del diputado fiel a María Eugenia Vidal fue con un cross, merecido por “la pesada herencia recibida”. El intendente local, Osvaldo Caffaro, cual Osvaldo Príncipi, dictaminó empate. Más al sur de la provincia, la cosa fue aún más peliaguda pues Patagones y Villarino discuten sobre si ambas son parte de la Zona Patagónica. La disputa se resolvió con una carrera de canotaje por el Río Negro, pero el intendente de Villarino declaró nula la carrera y denunció trampa en la largada. Con Ismael Passaglia, intendente de San Nicolás, Mosca disputó una serie de penales de hockey; como ganó el diputado, Passaglia prometió que en la semana oficializa su incorporación a Cambiemos. Ahora, los organizadores de estos “Juegos Olímpicos” sumarán al ex kirchnerista Sergio Berni, quien pidió una bicicleta porque no llega a correr 8 K. Allí, probablemente se deba cruzar con el intendente de la Plata, Julio Garro, quien sacó su bici de ruta, rodado 28, para ir por la ciudad de las diagonales. Teléfono, Bonadeo...
+
+La mesa está servida  Quien no corre ninguna maratón pero sí ordena su rancho es Marcos Peña. El jefe de Gabinete de Mauricio Macri ordenó su oficina una vez más y cuenta ahora con tres mesas: una de vidrio, bajita, con tres sillones negros. Allí, reina una caramelera repleta de los tradicionales Sugus: rojos, verdes y azules. Después, hay otra mesa larga, cerca de uno de los ventanales, con 13 sillas: debe ser la mesa de Cambiemos, donde se pueden sentar muchos. Y luego, hay otra mesa, redonda, con 3 sillas: es la auténtica “mesa chica” del poder actual. “Dicen” que cuando Peña conversa algún asunto medio peliagudo, toma un pequeño planisferio que tiene y lo da vueltas y vueltas y vueltas. ¿Verá allí la luz al final del túnel del segundo semestre?
+
+Lunch  Para cerrar, dejamos abierta una incógnita sobre un almuerzo celebrado el miércoles pasado. En la Presidencia de la Cámara de Diputados de la Nación se sentaron, en el mayor de los sigilos, el anfitrión Emilio Monzó con Sergio Massa, el embajador Martín Lousteau y el radical Mario Negri. ¿De qué habrán hablado? ¿Se viene un acuerdo pluripartidario de dimensiones? ¿O habrán dedicado su almuerzo para cambiar figuritas de la política vernácula? Buen provecho.
+
+

@@ -1,0 +1,74 @@
+
+Después de los intensos allanamientos en Río Gallegos, donde la Justicia avanzó sobre nueve propiedades de Lázaro Báez, el dispositivo de fuerzas federales se trasladó a El Calafate, donde encontraron más de 30 inmuebles a nombre del empresario K y de su entorno. No se trata sólo de las estancias cercanas a la villa turística, sino de terrenos, construcciones y viviendas que levantó durante estos 12 años en el “lugar en el mundo” de Cristina Kirchner. A 310 kilómetros de la capital de Santa Cruz, por la Ruta 40 y en dirección a El Calafate, se visualizan un conjunto de estancias de Báez: más de 182.000 hectáreas sobre las que avanza la Justicia estos días con perros de la AFIP que rastrean dinero, con máquinas retroexcavadoras y con un minucioso rastrillaje del terreno. Lázaro adquirió 25 estancias que representan 427.033 hectáreas; sin embargo la Justicia encontró 16 nuevas estancias vinculadas al empresario K y sus sociedades que serán incluidas en los allanamientos.
+
+ Las autoridades de la fiscalía a cargo de Guillermo Marijuán se trasladaron hoy a la villa turística porque no sólo se concentrarán en las estancias, sino también en el resto de las propiedades. Según detallaron a Clarín, la orden de allanamiento para El Calafate incluye 30 propiedades, muchas de ellas lotes y terrenos, según consta en la documentación oficial. Mirá también: Entrepisos, paredes dobles y una cueva de 300 metros cuadrados Allí Báez construyó un imperio en inmuebles. La Justicia detectó que por fuera de los 37 allanamientos previstos, las propiedades vinculadas al empresario K ascienden a 150. Marijuán indicó anoche que quedan aún “muchos” procedimientos por delante. Hoy desde temprano se pudo observar la caravana de vehículos de la AFIP, Policía Federal y PSA en la ruta que conecta a Río Gallegos con la villa turística. Las Fuerzas Federales se reunieron con más autoridades de la Fiscalía en el Aeropuerto de El Calafate de donde salen las directivas para el tercer día de procedimientos.  En el Calafate el emporio de propiedades son diversas en sus construcciones, colores, sistemas de seguridad, con otra característica: muchas de ellas no están habitadas. “Algunas se construyen, al poco tiempo ves que las están reparando de nuevo y así pasan en obra mucho tiempo”, señaló un vecino del paseo “Presidente Néstor Kirchner”, donde se erige una de las casas de Lázaro Báez.
+
+Otra propiedad de grandes dimensiones en El Calafate. Foto Maxi Failla. Rejas negras, piedras a la vista, la casa de dos plantas tuvo poco movimiento últimamente. Los vecinos aseguran que sólo ven “una camioneta de Austral, y una persona que custodia el lugar; pero nunca vimos a Lázaro vivir ahí, la refaccionan todo el tiempo, pintan el frente, lo cambian”. La Justicia tiene esta imponente vivienda en la mira. En la lista de inmuebles en el barrio Cañadón, a minutos de la costanera, se visualiza una casa de más de 300 metros de largo con el particular color naranja característico de las viviendas de Báez. Un doble cercado de álamos y media sombra negra rodea la gran propiedad que cuenta con un estacionamiento para 14 vehículos. Cuenta además con cancha de fútbol y un importante sistema de seguridad privada.
+
+Estancias de Lázaro Báez. Foto Maxi Failla. 
+
+
+ En su interior, un gran jardín con juegos infantiles separa la casa de dos plantas con una inmensa cochera. También cuenta con otra unidad de vivienda en el mismo predio, de importantes dimensiones. “Es como muchas propiedades, construye grandes cosas pero no las habita después: en ésta hizo un par de reuniones pero nada más”, señaló una fuente oficial del municipio local.
+
+
+
+
+
+var act_50b = new gigya.socialize.UserAction();
+
+var emailBodyCustom_50b = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_50b.setTitle(' En su interior, un gran jardín con juegos infantiles separa la casa de dos plantas con una inmensa cochera. También cuenta con otra unidad de vivienda en el mismo predio, de importantes dimensiones. “Es como muchas propiedades, construye grandes cosas pero no las habita después: en ésta hizo un par de reuniones pero nada más”, señaló una fuente oficial del municipio local.');
+act_50b.setSubtitle('La ruta del dinero K'); 
+act_50b.setLinkBack('http://www.clarin.com/politica/Justicia-concentra-propiedades-Baez-Calafate_0_1567043294.html');
+act_50b.setDescription('Despu&eacute;s de los intensos allanamientos en R&iacute;o Gallegos, donde la Justicia avanz&oacute; sobre nueve propiedades del empresario K, ahora apuntan a&nbsp;estancias, terrenos, construcciones y viviendas. Arrancaron&nbsp;18 procedimientos en terrenos, lotes y propiedades.&nbsp;Fotogaler&iacute;a en HD');
+act_50b.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Justicia-concentra-propiedades-Baez-Calafate_0_1567043294.html');
+
+var showShareBarUI_params_50b=
+{ 
+containerID: 'shareQuote_50b',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_50b,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_50b
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_50b);
+ Cerca de esa casa, por un camino de tierra hasta descender y toparse nuevamente con el asfalto, se encuentra la Escuela 80. Un terreno fiscal cerrado con rejas negras de más de 200 metros por 100 metros. En la puerta de acceso a la obra, donde se ubica una casilla de seguridad privada, está estacionada una camioneta de Austral Construcciones. Nadie logra describir con claridad de qué se trata, pero aseguraron desde el municipio que se trata de una obra privada. “Es una gran casa que vemos que avanza, más lento que en otros momentos, pero la propiedad es inmensa”, relató un vecino cercano a la construcción. Todo se levanta sobre tierras fiscales que Báez adquirió a $ 6,5 y $ 7,5 el metro cuadrado. Otra construcción llamativa es la que los vecinos llaman "El Shopping" de Báez, imponente con dos plantas y 12 ventanales. A pocos metros, hay una especie de cochera construida en ladrillos con dos entradas. Nunca se habitó ni se le dio ningún destino, al igual que varias cabañas que se ubican a su lado y que jamás fueron utilizadas. Mirá también: ¿Casanello se manda mensajes con Cristina? "No me consta", dijo Marijuan  La Justicia avanzará sobre éstas y muchas más propiedades de la villa turística donde el empresario K levantó, no solo inmuebles, sino negocios con los hoteles de Cristina Kirchner y terrenos compartidos con la ex Presidenta.

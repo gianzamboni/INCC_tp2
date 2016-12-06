@@ -1,0 +1,24 @@
+
+Con marchas y distintas actividades en todo el país se conmemora el 40°aniversario del golpe cívico militar del 24 de marzo de 1976, que tiene como lugar central la Plaza de Mayo, con dos actos convocados por organismos de derechos humanos.
+
+Abuelas de Plaza de Mayo, Madres Línea Fundadora, H.I.J.O.S., Familiares de Detenidos y Desaparecidos por Razones Políticas y Hermanos de Desaparecidos por Razones Políticas partieron de avenida de Mayo y 9 de Julio a las 14 y llegaron a Plaza de Mayo, con una gran bandera con los rostros de los detenidos-desaparecidos. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá la Fotogalería HD Por su parte, las agrupaciones que conforman Encuentro Memoria Verdad y Justicia se concentraron a las 15.30 en el Congreso, junto a grupos de izquierda y organizaciones de derechos humanos, para movilizarse hacia la Plaza bajo la consigna: "No al ajuste, el saqueo y la represión. 30.000 compañeros detenidos desaparecidos ¡Presentes!".
+
+La previa a la marcha la encabezó ayer por EMVyJ y la izquierda, quienes fueron hasta La Rural para repudiar la presencia del presidente de Estados Unidos, Barack Obama, quien hoy homenajeó a los desaparecidos en el Parque de la Memoria. Leé también: El Parque de la Memoria, listo para la visita de Obama A partir de las 15.30, Hebe de Bonafini partirá con una columna desde la sede de la Asociación Madres de Plaza de Mayo, en Hipólito Yrigoyen también hacia Plaza de Mayo, donde realizará la ronda de los jueves alrededor de la pirámide. Por su parte, La Cámpora y otras agrupaciones kirchneristas comenzaron a concentrar desde las 11 de la mañana en avenida de Mayo y Bernardo de Irigoyen, con la consigna: "Sin derechos no hay democracia".  Leé también: EE.UU prometió desclasificar archivos secretos de la dictadura En tanto, a las 17, distintas organizaciones sociales, de derechos humanos, estudiantiles y gremiales, marchan desde la Plaza San Martín hacia el histórico Monumento Nacional a la Bandera donde es el acto central y se leerá un documento "único" consensuado. Temprano también hubo actos. A las 10 de la mañana, en Plaza Houssay se descubrió una placa en memoria a los estudiantes de la UBA desaparecidos. En un acto organizado por la UCR porteña, el legislador Marcelo Gouman mostró el recordatorio que reza: "Por un futuro con pasado". 
+
+Además, en Córdoba, organizaciones sociales y de derechos humanos marchan en la capital local, a partir de las 18, bajo la consigna "La lucha no desaparece: Los 30.000 más presentes que nunca", actividad que concluirá con un festivalartístico y musical. En Santa Fe, el Museo de la Memoria de Rosario realizó a las 10 en el Parque Scalabrini Ortíz, la tradicional plantación de árboles en el Bosque de la Memoria, para homenajear a los desaparecidos y sobrevivientes de la última dictadura. En la capital santafesina, la concentración es a las 18 en la Plaza del Soldado Argentino para marchar hasta la Plaza 25 de Mayo, donde será el acto central. También hay actos en las provincias de Entre Ríos, Chubut, Mendoza, Catamarca, Neuquén, La Pampa, San Luis, Chaco, Río Negro, Santiago del Estero, entre otros.

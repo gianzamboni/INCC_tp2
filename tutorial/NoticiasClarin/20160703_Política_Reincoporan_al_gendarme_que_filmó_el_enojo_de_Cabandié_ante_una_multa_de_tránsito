@@ -1,0 +1,66 @@
+
+El, por entonces, alférez Aníbal Morinigo fue el oficial que filmó a Juan Cabandié en un operativo de tránsito realizado en Lomas de Zamora en 2013, en el que se lo ve cuando increpa a una agente de tránsito durante un control de rutina. Ese gendarme, que había sido desplazado tras la difusión de las imágenes del diputado nacional por el Frente para la Victoria, fue nuevamente reincorporado a la fuerza.  Según el comunicado del Ministerio de Seguridad de la Nación, se informa la “reincorporación a la Gendarmería Nacional del ex alférez Morinigo”, quien por entonces se desempeñaba en la base operativa de Monte Grande, partido de Esteban Echeverría. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Cabandié amenazó a una agente que le hizo una multa de tránsito  Tras filmar a Cabandié, Morinigo no recibió ninguna sanción inmediata pero fue dado de baja por una resolución del 2 de noviembre de 2015. “Tras haber revisado y analizado su situación, y entendiendo a la misma como un producto del abuso de autoridad, la ministra de Seguridad de la Nación, Patricia Bullrich, y el director nacional de la Gendarmería, Gerardo Otero, determinaron el inmediato reingreso” del gendarme, dice el texto al que accedió Clarín. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Y agrega que el caso de Morinigo “fue examinado por la Junta Superior de Calificación de Oficiales de la Gendarmería, la cual dictaminó que el funcionario se encuentra 'apto para continuar en el cargo'” y que la decisión anterior fue “injusta”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Allá por mayo de 2013, Morinigo hizo lo que es costumbre entre los gendarmes cuando una persona se pone nerviosa: lo filman como reaseguro de su actuación. El entredicho con Cabandié no fue la excepción. Y él no estaba solo: lo acompañaban el gendarme Ricardo Luis Antúnez (al que el legislador define como como un“irrespetuoso” en el video) y la agente de tránsito Belén Mosquera, para quien pidió un “correctivo”. Mirá también: En un nuevo video, Cabandié maltrata a un gendarme pero se ofrece a pagar la multa 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Esa noche de 2013, Cabandié, por entonces candidato a diputado por la Capital por el FPV y jefe de La Cámpora, enojado, nervioso, discutió con una agente de tránsito que detectó que circulaba en su auto sin el seguro, un documento que es obligatorio. Y no sólo mandó a aplicar “un correctivo” para Mosquera si no que, en medio de la discusión, el legislador, hijo de desaparecidos y nacido en la ESMA, dijo: “Yo soy más guapo que vos. Yo me banqué la dictadura”.

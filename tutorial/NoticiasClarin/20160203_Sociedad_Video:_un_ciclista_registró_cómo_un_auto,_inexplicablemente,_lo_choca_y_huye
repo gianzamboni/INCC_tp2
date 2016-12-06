@@ -1,0 +1,127 @@
+
+Decepcionado. Así se siente un hombre de Nottingham, Reino Unido, tras quedar impune el atropello que sufrió en noviembre de 2014 cuando iba en bicicleta. El agredido pudo grabar el momento con su GoPro, pero a pesar de tener una imagen nítida de la matrícula del coche no se pudo dar con el agresor. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160203_0012 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160203_0012_142";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Un ciclista registró cómo un auto, inexplicablemente, lo choca y huye',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/03/VID/CLAVID20160203_0012/video_web.flv",
+        image: "http://images.clarin.com/sociedad/ciclista-registro-inexplicablemente-choca-huye_CLAVID20160203_0012_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160203_0012',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/03/VID/CLAVID20160203_0012/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/ciclista-registro-inexplicablemente-choca-huye_3_1516078389.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160203_0012.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160203_0012){
+            //getBBTStats_CLAVID20160203_0012();
+            varModIdReprod_CLAVID20160203_0012 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+En las imágenes publicadas recientemente en YouTube se muestra cómo el hombre estaba haciendo tranquilamente su camino en bicicleta. Detrás suyo iba un Volvo que, sin motivo aparente, aceleró la marcha y atropelló al ciclista. Leé también: Una ex Miss Argentina atropelló, mató a un agente de tránsito y huyó En el video se aprecia cómo la cámara cae al suelo. El ciclista se queda malherido y con dificultades para respirar. No es para menos, ya que necesitó cinco meses para recuperarse de sus lesiones severas de espalda y una hemorragia interna. Leé también: Detuvieron a una mujer que atropelló, mató y culpó a su hijo En el texto que acompaña al video el ciclista escribió que no entendía el atropello. “Al día de hoy no tengo idea de por qué el conductor me hizo esto, no hubo enfrentamiento antes del atropello. Yo iba por una ruta diferente a la habitual, por lo que no creo que fuera un ataque planeado. Solo fue un ataque brutal y sin sentido a un ser humano”, relata. “El conductor está todavía por las carreteras del Reino Unido. La policía dice que no tienen pruebas para continuar más allá con la investigación, también dijeron que se habría hecho más si me hubieran matado... Así que la próxima vez voy a tratar de morir a causa de mi lesión y quizás luego un conductor peligroso será apartado de las calles”, sentencia. Leé también: Accidente en Panamericana: 8 heridos A pesar de que en el video se ve perfectamente la matricula del coche, la policía de Nottingham no ha podido dar a ciencia cierta con el conductor del atropello ya que era un vehículo alquilado a través de varias empresas. Fuente: La Vanguardia

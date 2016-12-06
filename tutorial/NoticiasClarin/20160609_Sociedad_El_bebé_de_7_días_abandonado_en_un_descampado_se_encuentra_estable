@@ -1,0 +1,18 @@
+
+El bebé de 8 días que fue encontrado abandonado el martes pasado dentro de una bolsa debajo de un puente peatonal en la localidad bonaerense de González Catán, partido de La Matanza, se encuentra en buenas condiciones. Ayer una mujer que decía ser la madre del pequeño se acercó hasta el lugar pero quedó detenida. Mirá también: Abandonan a un bebé de sólo 7 días en un descampado Tras el hallazgo en el kilómetro 17 de la ruta 3 el recién nacido fue trasladado al hospital Simplemente Evita, donde se encuentra estable y fuera de peligro: "El bebé está sano y bien alimentado. Muestra evidencia de haber nacido a través de un parto hospitalizado, práctica que deber haber ocurrido en un hospital de la zona", contó Pablo Centeno, director de ese centro de salud. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El martes a la tarde una joven identificada como Evelyn estaba cerca del puente peatonal cuando vio una persona, que no pudo identificar si era hombre o mujer, dejar un bulto. "Vi que dejó un bulto y me acerqué. Cuando abrí la bolsa había un bebé, enseguida llamé a la policía y lo llevaron al hospital", contó la joven en declaraciones a TN. Mirá también: Murió un bebé de dos meses por gripe A en Mar del Plata Centeno precisó que el bebé permanecerá en el hospital hasta que la justicia, que realiza una investigación para encontrar a los padres, determine si lo regresa con sus familiares o no. "Ayer se acercó una mujer que decía ser la madre del pequeño y la policía decidió detenerla. No sabemos cómo va a continuar esto".

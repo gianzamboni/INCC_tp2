@@ -1,0 +1,18 @@
+
+Marina Weinstein tiene 34 años, suele concurrir a eventos de música electrónica y anoche estuvo con su marido y algunos amigos en la fiesta Time Warp realizada en Costa Salguero: "Desde el comienzo se sentía que algo iba a pasar, había mucha gente, se veía que no iba a terminar bien la noche. El complejo tiene dos pabellones en los cuales se supone que se tiene que repartir la gente, pero nadie controla que no se amonten las 10.000 o más personas presentes en un sola de las pistas". Mirá también: Cómo es el lugar donde se hacía la megafiesta electrónica A su juicio, la combinación fatal estuvo dada por el hecho de que hacía mucho calor, afuera llovía -por lo que no se podía salir a tomar aire- y no era fácil el acceso al agua. Mirá también: Marley y Caire, dos famosos que twitearon desde la fiesta 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Marina cuenta que en un momento tuvieron que salir porque no se podía respirar: “Ahí adentro era una hoguera, hacía 40 grados. Era muy difícil acceder a los puestos de compra de bebidas, la gente desistía. Y no había puestos de hidratación gratis o si había no eran visibles. Y es sabido que el calor y las sustancias generan deshidratación". Mirá también: Una postal de este mediodía: miles de botellitas vacías apiladas Los testimonios en las redes sociales señalan que la organización era muy mala: había mucha gente y mal distribuida. Marina y su grupo llegaron a las 12 de la noche y se fueron a las 6, cuando la fiesta terminó, sin percatarse de lo que había sucedido. Mirá también: Una catarata de acusaciones y quejas en el sitio oficial de la fiesta “Se notaba que la situación era difícil pero no nos dimos cuenta de lo que pasaba -continúa Marina-. Si armás una fiesta asi ya se sabe que los pibes se drogan, pero cada vez son más chicos y no manejan la información básica. Es responsabilidad de los organizadores, hay que tomar recaudos haciéndose cargo del tema y educar a los jóvenes. De hecho, en otros lugares del mundo se hacen fiestas más grandes que ésta y no suceden estas cosas. El problema no es la gente de nuestra edad sino los adolescentes, que tienen acceso a todo tipo de drogas por mas ilegales que sean, y no saben cosas básicas como que se tienen que hidratar, tomar agua y tomar aire, hay mucha desinformación”.

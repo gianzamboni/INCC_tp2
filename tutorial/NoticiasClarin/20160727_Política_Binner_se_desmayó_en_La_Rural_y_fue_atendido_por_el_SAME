@@ -1,0 +1,20 @@
+
+El ex gobernador de Santa Fe y actual diputado socialista Hermes Binner se desmayó hoy mientras visitaba la exposición rural del barrio de Palermo, donde iba a participar junto con otros legisladores de la presentación de un proyecto de ley sobre lechería. Habría sufrido un cuadro de lipotimia. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_8koein6y",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_8koein6y"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_8koein6y").after(scriptEl);
+  Binner tuvo que ser trasladado del predio de La Rural en una ambulancia por la descompensación sufrida, indicó el titular de la Sociedad Rural Argentina (SRA), Luis Miguel Etchevehere. Mirá también: Para Binner, Macri no tiene claro cómo frenar la inflación  El legislador socialista iba a participar de un almuerzo en el restaurante central de la exposición con las autoridades ruralistas y luego de la presentación de un proyecto de ley de lechería.  Están el predio por las mismas actividades los diputados Margarita Stolbizer (GEN), Graciela Camaño y Felipe Solá (FR).  (DyN - Telam)

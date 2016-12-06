@@ -1,0 +1,18 @@
+
+Víctor Hugo Morales seguía embalado esta mañana, relatando los motivos por los que asegura fue despedido de radio Continental y denunciando que fue víctima de un acto de censura impulsado por el gobierno nacional de Mauricio Macri. Hasta ahí, previsible. Pero todo cambió cuando un comentario de quien lo entrevistaba, Eduardo Feinmann, lo descolocó.Entrevistado en Radio 10, Morales explicaba y detallaba cómo fue el despido y Feinmann le preguntó si sentía que "el Gobierno de Macri había fomentado su salida" de la emisora del grupo Prisa."Sin ninguna duda", respondió el locutor uruguayo. "Lo fomentó de una manera directa. Porque hay una sujeción muy grande a la pauta publicitaria. Enero es el mes de la negociación y además porque me lo dijeron. Lo sé. Un periodista excede al propio interés del medio de comunicación hasta que dicen hasta acá llegamos..." explicaba Víctor Hugo Morales. Fue allí cuando Feinmann lo interrumpió.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Entiendo lo que significa porque yo viví exactamente lo mismo con el Gobierno anterior. Yo entiendo de presidentes y adláteres que ejercen presión sobre los dueños de los medios así que lo entiendo perfectamente. Entiendo esto de una voz discordante... Yo era una voz discordante del Gobierno de Cristina y sufrí lo mismo así que lo entiendo perfectamente bien", le contó Feinmann.Lo que siguió fue un largo silencio. Feinmann esperaba la respuesta de Víctor Hugo, que no llegaba. El estaba allí para hablar mal del gobierno de Macri pero se encontró con alguien que decía lo mismo, pero del gobierno de Cristina que el uruguayo tanto defendió. Al cabo de unos segundos que parecieron interminables, Víctor Hugo Morales, expresó: "Bueno Eduardo, supongo que me llamó para que yo le dijera qué pensaba yo... Pero...".﻿Leé también: ﻿Macri lo cruzó duro a Víctor Hugo y negó las acusaciones po su despido en ConteninetalFeinmann retrucó: "Lo entiendo perfectamente bien. Me estoy poniendo de su lado. Estoy siendo alguien que está en este momento de su lado"."Lo cual valoro", admitió Víctor Hugo. "Los periodistas tienen en estos casos pensar en grande. Pensar en chiquito, dejarse llevar por nuestros celos no es bueno. En este caso se trata de profesionales, y como tales debe haber márgenes de solidaridad", analizó el periodista que ayer fue interceptado por un escribano y un representante legal de la radio para evitar que iniciara su programa de todas las mañanas.Por su parte, Feinmann concluyó: "Por eso me solidarizo con usted entendiendo qué debe estar viviendo en su pellejo".

@@ -1,0 +1,36 @@
+
+"Calor" en el sur, frío en el norte. El tiempo está más loco que nunca en la Argentina y se parece al reino del revés. Tanto, que La Quiaca llegó a ser el lugar más fresco del país y en la Patagonia casi no hay temperaturas bajo cero. Dos fenómenos inusuales para esta época del año.  Mirá también: En un freezer: la mitad del país, con temperaturas bajo cero  Esta mañana, el Servicio Meteorológico Nacional (SMN) sorprendió con un mensaje publicado en Twitter: "En estos momentos, el lugar más frío del país es La Quiaca con -4,2°C de temperatura y -8,1°C de sensación térmica", informaba a las 8.45. "A pesar que se la asocia con el calor, porque está en Jujuy, La Quiaca está a mucha altura. Por eso suele hacer mucho frío", explica Cindy Fernández, meteoróloga del SMN, en diálogo con Clarín. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/SMN_Argentina/status/755368042322862080",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75536804232286208")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+  Las cifras jujeñas fueron cambiando en el transcurso de la mañana, pero un dato se mantuvo: en el centro y norte del país está haciendo más frío que el habitual para esta época. Estas medidas inusuales se vieron en varias localidades de Corrientes, Misiones, San Luis, Buenos Aires, La Pampa y Mendoza. Por ejemplo, a las 8, en Córdoba había temperaturas más bajas que en la Base Esperanza de la Antártida. También sufrimos el invierno en la ciudad de Buenos Aires: estamos teniendo entre 4 y 5 grados menos que lo normal. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/SMN_Argentina/status/755406802636931072",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75540680263693107")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+  "Se explica por la circulación. Están predominando masas de aire frío en todo el país. También hay un predominio de un anticiclón, que favorece los días despejados, hace que la superficie de la tierra se enfríe muy rápido, y que las noches y mañanas sean muy frías", explica la meteoróloga. "Esta semana, en el centro y norte del país, las temperaturas empiezan a aumentar despacito. Pero las mañanas van a seguir siendo muy frías", adelanta. Mirá también: Sigue el frío polar en todo el país: 12 provincias tuvieron temperaturas de cero grados
+
+ En el otro extremo del país, en las zonas más australes, el frío no se siente como años atrás. "Algo extraño es que, en los últimos días, algunas bases de la Antártida han tenido temperaturas mínimas por encima de los 0°C. Fueron más altas que las de Buenos Aires y de La Pampa", dice Fernández. Por ejemplo, a las 10.30, solo la Base Marambio tenía temperaturas bajo cero. Registraba -0,8 °C, lo que es muy poco, ya que por lo general tiene -25°C. Mirá también: Por el frío récord, el 80% de las familias no pudo ahorrar energía  "Esto sucede porque hay altas presiones, llamadas 'bloqueos', que no permiten que las masas de aire frío (que vienen del sudoeste) pasen por la Patagonia. Funcionan como una pared. Entonces, las masas de aire frío ingresan al país por la zona de Mendoza y nos pegan de lleno en la región central y norte del país", concluye Fernández.

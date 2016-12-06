@@ -1,0 +1,36 @@
+
+Un delegado del gremio de estatales UPCN fue herido de un balazo en un hombro durante una protesta en la sede del ministerio de Trabajo neuquino y un policía sufrió lesiones en la cabeza, tras lo cual cuatro agentes fueron detenidos en forma preventiva y la CTA local convocó a una huelga. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El jefe de policía de Neuquén, Raúl Liria, dijo que a raíz del balazo que recibió el delegado Luis Bastías, de 41 años, "ya está la Justicia actuando, paralelamente a la causa penal habrá una causa administrativa y veremos cada uno de los hechos que han ocurrido acá" para identificar al autor del disparo. Bastías, en tanto, permanece internado en observación en el hospital Castro Rendón, donde los médicos aseguraron que su estado no corre peligro y fue visitado por el gobernador Omar Gutiérrez, quien le aseguró a su familia que investigarán a fondo lo ocurrido. La justicia dispuso el arresto preventivo de los cuatro agentes que custodiaban el ingreso al ministerio y ordenó pericias a las armas reglamentarias para determinar si de alguna de ellas salió el balazo que hirió al sindicalista. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Casi dos horas después de los incidentes, ocurridos ayer, la cúpula de la CTA provincial convocó a un paro de estatales para hoy, con marcha desde las 10 al monumento a San Martín, "en repudio de la represión policial y en reclamo de justicia". Los incidentes se produjeron cerca del mediodía de hoy cuando un grupo de manifestantes de Upcn protestaba frente a la sede ministerial, situada en Juan B. Justo y Santiago del Estero de la capital neuquina. De acuerdo con un video que publicaron los diarios locales y donde quedó grabada la agresión a Bastías, un grupo de trabajadores estatales de UPCN pugnaba por ingresar al edificio, comenzó a insultar a los policías que sostenían la puerta desde el interior y algunos manifestantes rompieron con piedras y palos los vidrios del portal metálico.
+
+En ese marco, se ve a Bastías cuando ingresa con un bombo en la mano y a los pocos minutos se escucha un fuerte estruendo: el delegado salió tocándose un brazo y el hombro, ya que se da cuenta que lo habían herido de un balazo. Minutos después el hombre quedó tendido en la vereda hasta que una ambulancia del servicio de emergencia local llegó a revisarlo y lo trasladó al hospital Rendón. Fuentes sindicales dijeron que el grupo decidió ingresar a la sede ministerial luego de que algunos policías echaran de mala manera a tres mujeres que integraban la protesta. El jefe de UPCN de Neuquén, Edgardo Oñate, repudió la agresión que, dijo, se produjo cuando un grupo de manifestantes estatales realizaban un reclamo laboral. En tanto, el comisario Liria reportó que un agente de la policía provincial "quedó internado sumamente delicado en el Policlínico de Neuquén. Tiene traumatismo severo de cráneo y se encuentra inconsciente". Cuando le preguntaron si se trataba del autor del disparo que lastimó al delegado sindical, dijo que "eso lo estamos determinando" y advirtió: "Hay que analizar cada una de las situaciones que sucedieron acá".

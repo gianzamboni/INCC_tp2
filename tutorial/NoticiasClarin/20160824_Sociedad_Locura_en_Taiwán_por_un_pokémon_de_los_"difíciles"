@@ -1,0 +1,20 @@
+
+El 21 de agosto la aparición de un Snorlax –una rara especie en en el videojuego Pokémon Go- en las inmediaciones del parque Beitou de Nuevo Taipei, Taiwán, provocó una verdadera marea humana. La masa formada por jugadores de la famosa aplicación se movía de manera frenética, cortando el tráfico, en busca del codiciado ser virtual. Snorlax es uno de los cientos de pokémones que integran la serie y se caracteriza por comer y dormir.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El parque Beitou se ha convertido desde el pasado domingo en el centro neurálgico del universo Pokémon en Taiwan. El número de pasajeros que utiliza la parada de metro más cercana al enclave se ha triplicado el pasado fin de semana y el número de multas por aparcamiento ilegal en la zona se ha disparado.
+
+Desde que el juego llegara a la isla el pasado 6 de agosto, la policía del país oriental ha tenido que enfrentarse a diferentes situaciones inesperadas. Incluso el alcalde de la capital taiwanesa, Ko Wen-je, pedía precaución a los ciudadanos a través de Facebook hace unos días, algo que hacía utilizando el Pokémon que los taiwaneses asocian con él. De acuerdo a un estudio elaborado por 1111 Job Bank, los oficinistas de la isla pasan una media de 1,3 horas al día cazando pokémones. Taiwan no está sola en la locura por la aplicación de realidad aumentada en el continente asiático; en Hong Kong el videojuego está tomando los famosos tranvías de la ex colonia británica y en Japón más de dos accidentes de tráfico al día están relacionados con el juego. Fuente: La Vanguardia

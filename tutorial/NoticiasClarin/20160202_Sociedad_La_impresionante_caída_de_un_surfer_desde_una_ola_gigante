@@ -1,0 +1,18 @@
+
+Ya ni los experimentados surfers pueden dominar las gigantescas olas que el fenómeno de El Niño está provocando en Hawaii. Eso le ocurrió a Tom Dosland cuando intentó correr una, pero tal era el tamaño y el poder de ésta que lo envió directo por los aires, a unos 12 metros de altura. La espectacular caída quedó registrada en un video que ya se hizo viral. Dosland comparó el impacto con un accidente de tránsito. Al contar su experiencia a la revista Surfer, dijo que se quedó ciego durante unos segundos, que seguro le parecieron eternos, debido la fuerza con la que fue sacudido por las aguas del Pacífico. "Parecía un monstruo marino elevándose fuera del océano cuando se interpuso en mi camino", dijo Dosland a la revista. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Sin embargo, el surfer profesional contó que ya estaba decidido a ir por la ola, sin importar nada ni medir las consecuencias de su decisión. Y cuando vio el gigantesco tamaño, antes que desistir, empezó a remar para entrar a ella. Al momento de la caída, Dosland sintió, tal como contó a la revista, como si hubiera saltado de un acantilado. Luego, la correa de su tabla se le extendió y lo tiró de un forma tan violenta que lo dejó de cabeza frente a la ola, y al golpear ésta la experiencia fue parecida a recibir una paliza.

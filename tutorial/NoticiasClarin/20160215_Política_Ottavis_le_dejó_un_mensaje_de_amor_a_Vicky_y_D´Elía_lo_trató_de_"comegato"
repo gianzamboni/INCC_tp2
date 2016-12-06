@@ -1,0 +1,34 @@
+
+Luis D´Elía suele predicar el amor, aunque esta vez, en pleno festejo por el Día de los Enamorados, salió a cruzar a duramente a José Ottavis, quien por estos días vive un romance con Victoria Xipolitakis. El dirigente de La Cámpora y presidente del bloque de Diputados bonaerense del Frente para la Victoria escribió a través de Twitter un mensaje para "la griega", ayer domingo Día de San Valentín.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/JoseOttavis/status/698866759055601664",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69886675905560166")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Enojadísimo, el dirigente de MILES lo acusó de "pelotudo-come gato" y le reprochó el haber armado las listas en la Provincia de Buenos Aires, que confluyeron en la derrota electoral del año pasado a manos de María Eugenia Vidal. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Luis_Delia/status/699180185552318465",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69918018555231846")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

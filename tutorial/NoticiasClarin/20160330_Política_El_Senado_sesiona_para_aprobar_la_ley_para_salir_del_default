@@ -1,0 +1,138 @@
+
+El Senado de la Nación debate desde las 10:50 de hoy el proyecto oficial que deroga las leyes de cerrojo y pago soberano, que permitirá al Gobierno nacional cerrar un acuerdo con los denominados fondos buitre,. El oficialismo contará con el respaldo de buena parte de los 39 senadores que integran el bloque PJ-FPV, además de aliados, alineados con los gobernadores peronistas. 
+
+
+Se calcula que serán alrededor de doce horas de debate. pues serán 52 oradores más los jefes de cada bloque.
+
+
+
+
+
+var act_a77 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_a77 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_a77.setTitle('Se calcula que ser&aacute;n&nbsp;alrededor de doce horas de debate. pues ser&aacute;n 52 oradores m&aacute;s los jefes de cada bloque.');
+act_a77.setSubtitle('DEUDA'); 
+act_a77.setLinkBack('http://www.clarin.com/politica/Senado-sesiona-aprobar-salir-default_0_1549645201.html');
+act_a77.setDescription('Desde las 10:50, la C&aacute;mara alta debate el&nbsp;proyecto que deroga las leyes de cerrojo y pago soberano. La sesi&oacute;n comenz&oacute; con un homenaje a Alfons&iacute;n.');
+act_a77.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Senado-sesiona-aprobar-salir-default_0_1549645201.html');
+
+var showShareBarUI_params_a77=
+{ 
+containerID: 'shareQuote_a77',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_a77,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_a77
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_a77);
+
+
+Mirá también: El PJ riojano le pide a dos senadoras K que voten a favor del acuerdo con los holdouts Fuentes oficialistas y opositoras coinciden en que el proyecto será aprobado sin inconvenientes más allá de los votos a favor, en tanto las posiciones contrarias oscilan entre 19 y 21 senadores (19 kirchneristas, más Fernando "Pino" Solanas y la representante de la Coalición Cívica-ARI Magdalena Odarda, quien se anunció enferma). Mirá también: La corrupción K, un incordio para Macri En duda estaban los votos de los peronistas anti-K puntanos Adolfo Rodríguez Saá y Liliana Negre de Alonso, quienes durante el proceso de debate tuvieron posturas zigzagueantes, mientras que el gobernador Alberto Rodríguez Saá se expresó en contra del acuerdo con los holdouts en una de las audiencias realizadas por las comisiones de Presupuesto y de Economía del Senado. Mirá también: El Gobierno apuesta a que buitres no rompan el acuerdo y acepten una demora en el pago 
+
+
+La sesión comenzó con un homenaje a Raúl Ricardo Alfonsín, a 7 años de su fallecimiento.
+
+
+
+
+
+var act_371 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_371 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_371.setTitle('La sesi&oacute;n comenz&oacute; con un homenaje a Ra&uacute;l Ricardo Alfons&iacute;n, a 7 a&ntilde;os de su fallecimiento.');
+act_371.setSubtitle('DEUDA'); 
+act_371.setLinkBack('http://www.clarin.com/politica/Senado-sesiona-aprobar-salir-default_0_1549645201.html');
+act_371.setDescription('Desde las 10:50, la C&aacute;mara alta debate el&nbsp;proyecto que deroga las leyes de cerrojo y pago soberano. La sesi&oacute;n comenz&oacute; con un homenaje a Alfons&iacute;n.');
+act_371.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Senado-sesiona-aprobar-salir-default_0_1549645201.html');
+
+var showShareBarUI_params_371=
+{ 
+containerID: 'shareQuote_371',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_371,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_371
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_371);
+ La sesión comenzó con la presencia de 58 senadores (14 ausentes) y el primer expositor fue el radical mendocino Julio Cleto Cobos.
+
+Luego fue el turno de María Esther Labado, del FpV, quien calificó la jornada como "un día hi​stórico y lamentable", al adelantar el rechazo del kirchnerismo al proyecto para pagara a los buitres. Oficialistas y opositores coincidieron en subrayar que el oficialismo aprobaría el dictamen sin cambios, ya que ningún sector opositor tendría previsto rechazar el texto cuando se vote el articulado en particular.

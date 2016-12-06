@@ -1,0 +1,22 @@
+
+Dos aviones cruzan el aire y rozan las nubes. Bajo ese mismo cielo, pero hace 30 años, se los veía volar con la misma potencia. Abajo, en tierra, la comunidad de la Escuela Técnica Secundaria N°4 de El Palomar se vuelve a emocionar. Es el símbolo del compromiso y el trabajo en conjunto de alumnos, ex alumnos y docentes que durante seis meses trabajaron para que esas máquinas volvieran a despegar. La institución cumplió 50 años educando en Aeronáutica y Electrónica, y para celebrarlo eligió unir a distintas generaciones en un proyecto que invocó a la nostalgia de los grandes y encendió la chispa de motivación en los más chicos. Tiene el orgullo de ser la primera escuela de Latinoamérica que construyó una aeronave. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Desde abril, el hangar de la escuela ubicada dentro de la I Brigada Aérea de El Palomar estuvo repleto de alumnos, ex alumnos y docentes unidos por un único objetivo: poner a punto el Pazmany PL-4, un avión experimental que nació en el escuela y voló por primera vez en 1986. Alrededor de 30 personas pasaron fines de semana trabajando para que la aeronave pudieran estar cerca de las nubes. “Fue interesante porque ahí adentro conocimos a otras promociones y había gente de todas las edades. Cada uno aportaba lo suyo y se formó un equipo de laburo comprometido donde, si había alguien que no sabía alguna cosa, otro se la explicaba”, detalla Fabián Acevedo (28), que es ex alumno, profesor de taller y técnico del Hércules C-130 en la Fuerza Aérea. Fue él quien impulsó el proyecto de restaurar el pequeño avión que tiene capacidad para una persona. “Se me ocurrió empezar a refaccionarlo por mi cuenta con dos alumnos de la escuela. Pero como se venía el aniversario y acostumbro a trabajar con aviones grandes, decidí pedir ayuda”, cuenta y sigue: “Levanté el teléfono y llamé a todos los que lo habían construido en el ‘86. Se pusieron muy contentos con la idea de volver a participar en la refacción del avión que había construido cuando eran adolescentes”.
+
+Leonardo Boechat (48) es comandante de Aerolíneas Argentina, uno de los alumnos que construyó el Pazmany PL-4 en el ‘86 y participó de su refacción este año. “Armarlo de cero fue una utopía hecha realidad. Un imposible que con mis compañeros veíamos crecer todos los días. Lo construimos artesanalmente. Las piezas fueron hechas en la escuela por los alumnos y los más grandes nos encargamos de armarlos y trabajar en las partes más difíciles”. Distinta es la historia de la otra aeronave que voló en el aniversario, el Pazmany PL-2. Hasta el 2013 estaba parada, al igual que el PL-4, pero como tiene capacidad para dos personas la Fuerza Aérea decidió que sería una buena opción como avión de entrenamiento para los nuevos pilotos. “En ese momento se restauró con mano de obra de la escuela y con el apoyo de la Fuerza. El proyecto no prosperó y el PL-2 volvió al hangar”, recuerda Acevedo, que egresó en el 2006 y durante el verano el 2007 reparó el motor del PL-4 junto a otro compañero y un profesor.
+
+Para celebrar los 50 años la escuela realizó un acto con autoridades municipales, una comitiva del Ministerio de Educación de la Provincia de Buenos Aires y altos mandos de la Fuerza Aérea. Por supuesto que no faltaron los egresados y alumnos, que fueron los protagonistas de la ceremonia. “Ver el compromiso que tomaron nos reconforta. Para los más chicos ver a los dos aviones en el aire fue como una inyección de motivación, de entender que si se quiere, se puede”, observa el director de la institución, Alberto Lobato, que también es ex alumno.

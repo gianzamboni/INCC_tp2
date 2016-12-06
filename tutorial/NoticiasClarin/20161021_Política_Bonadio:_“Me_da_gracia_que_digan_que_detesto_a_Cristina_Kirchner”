@@ -1,0 +1,68 @@
+
+Este viernes, habló el juez federal Claudio Bonadio, quien tiene a su cargo causas donde se investiga a la ex Presidenta de la Nación. Y aseguró que "me da gracia que digan que detesto a Cristina Kirchner”. Bonadio además señaló que, con el cambio de gobierno en la Nación, cambió el clima en la Argentina. 
+
+
+"Cambió el clima no solo en la justicia, sino en Argentina", dijo el magistrado por Radio La Red.
+
+
+
+
+
+var act_6cb = new gigya.socialize.UserAction();
+
+var emailBodyCustom_6cb = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_6cb.setTitle('"Cambió el clima no solo en la justicia, sino en Argentina", dijo el magistrado por Radio La Red.');
+act_6cb.setSubtitle(' '); 
+act_6cb.setLinkBack('http://www.clarin.com/politica/Bonadio-gracia-detesto-Cristina-Kirchner_0_1672632730.html');
+act_6cb.setDescription('El juez federal, que procesó a la ex Presidenta, afirmó que "cambió el clima en la Argentina".');
+act_6cb.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Bonadio-gracia-detesto-Cristina-Kirchner_0_1672632730.html');
+
+var showShareBarUI_params_6cb=
+{ 
+containerID: 'shareQuote_6cb',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_6cb,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_6cb
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_6cb);
+ Mirá también: Tormenta de malas noticias para Cristina Luego, consultado por Luis Novaresio sobre "¿qué siente cuando dicen que usted la detesta a Cristina Kirchner?", el juez aseveró: "Me da mucha gracia, son las interpretaciones de los demás. El infierno es el ojo de los otros y esto es así. Alguien lo ha instalado y corre, pero no hay absolutamente nada de eso". Bonadio tiene a su cargo la causa por el dólar futuro donde Fernández de Kirchner ya fue procesada y donde además, se investiga a sus funcionarios Axel Kicillof y Alejandro Vanoli. Y otra causa donde se investiga a la ex Presidenta por presunto delito de enriquecimiento ilícito y adulteración de documentos públicos en la firma los Los Sauces SA. Mirá también: “Si había un plan para salvar a River, salió todo mal”, dicen los K  "No siento nada por Cristina", cerró Bonadio la charla radial.

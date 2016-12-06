@@ -1,0 +1,28 @@
+
+La galería Kronsbein inauguró hoy en Múnich (Alemania) la exposición "Banksy-King of urban art" -"Banksy-Rey del Arte Urbano"- en la que se podrán contemplar cerca de 45 obras de este misterioso artista callejero. Se trata de la primera gran exposición con obras de Banksy en Alemania y estará abierta al público hasta el 10 de septiembre próximo en la céntrica galería muniquesa. Mirá también: La criminología busca identificar a Banksy, un artista punzante
+
+Entre las piezas destacan las obras "Girl With Ballon", "Monkey Queen", "Choose Your Weapon" o "Paparazzi Rat", que, como es característico en su producciones grafiteras, incluyen una velada crítica social, política y cultural.
+
+Mirá también: Banksy denuncia la violencia y los gases lacrimógenos contra los refugiados Sarah Kronsbein es la actual directora de la galería -fundada por su padre a partir de colecciones de arte privadas en 2009-, y compartiendo una apreciación generalizada, considera a Banksy "el artista urbano más genial".
+
+El misterio rodea a este artista británico que mantiene su identidad anónima y del que se cree que, según las últimas investigaciones, se trata de un hombre oriundo de Bristol de unos 40 años de edad y que ha reconocido públicamente la influencia de otro afamado grafitero, el parisino Blek le Rat.
+
+Este anonimato aumenta el valor de sus obras y la expectativa; "nadie le conoce, nadie sabe cuándo volverá a aparecer una obra suya", explicó Kronsbein.
+
+La galería Kronsbein se ha convertido recientemente en un referente del arte pop y del arte urbano, presentando obras de Shepard Fairey, Swoon, Ben Eine, Nick Walker, Herakut, Os Gemeos, Andy Warhol, Tom Wesselmann, Roy Lichtenstein, Russel Young, Mel Ramos o Romero Britto entre otros. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Agencia: EFE

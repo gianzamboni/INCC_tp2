@@ -1,0 +1,18 @@
+
+Esta vez la columna va con video. Presione play: vale la pena. Son fragmentos de programas de C5N, el canal del Zar del Juego y evasor serial y multimillonario Cristóbal López. Una noticia, aunque mejor sería decir una no noticia y dos retractaciones. Una clase de periodismo basura: cómo difamar y tener que retroceder en chancletas para evitar una catástrofe económica al propietario de la cadena y a sus socios. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Hay tres protagonistas: dos periodistas estrella del canal, Roberto Navarro y Víctor Hugo Morales y un abogado asesor de primera línea del Gobierno, Fabián Rodríguez Simón, que forzó a López y a sus socios a pagar por primera vez Ingresos Brutos a la Ciudad. Navarro es menos confiable que los datos del INDEC kirchnerista. Llegó a anunciar que Scioli era presidente electo y Aníbal Fernández nuevo gobernador. En su programa El Destape dijo que hizo “el ejercicio de averiguar un poco de qué se trataba” la fundación Pericles que adjudicaron a Simón y que descubrió “proxenetas”, “mujeres como un puticlub” y una “fachada” para “manejar dinero en negro” del PRO. También dijo que Rodolfo Tailhade, que es diputado K y antes fue espía de la SIDE, había hecho una denuncia judicial. Se nota que averiguó poco y mal: en el video una locutora explica que esa información “resultó ser inexacta”. Y el propio Navarro explica o trata de explicar por qué: “Así como chequeamos lo otro y chequeamos esto y no es así. No es así”, recalca. No aclaren que oscurece. Como buen kirchnerista se saca el fardo de encima y dice que todo “fue un error de Tailhade”. Al final, la locutora explica como puede otro bochorno: el canal repitió sin quererlo el programa con la falsa denuncia. La nueva aclaración incluye un videograph y a Víctor Hugo para las disculpas: está acostumbrado a defender cosas indefendibles. Pontifica como siempre y como siempre se compara con Clarín: “Me parece muy bien porque si hay un error, si es corregido, hay nobleza pero esto no ocurre nunca del otro lado”. Si hacen operaciones en lugar de periodismo las culpas no son ajenas sino propias. No es algo nuevo. Cada noche, Carlos Zannini enviaba a Fernando Pocino de la SIDE pedidos de datos para operaciones como la hecha contra Simón. Los informes volvían a Presidencia donde un amigo íntimo de Máximo, Reibel Maier, los transformaba en guiones para el periodismo oficialista. La esposa de Reibel, Desiré Cano, era gerente de C5N. Hay otra trama dentro de esta última trama del juego. El pleito por la deuda impositiva de los casinos con la Ciudad estaba en la Corte. Sin protección política y sin protección judicial o con escasa protección judicial, López y su socio Benedicto aceptaron pagar esa deuda de unos $ 2.000 millones en una moratoria. Pero el acuerdo de pagar en cuotas se cayó por la operación de prensa. Desesperado, Benedicto insistió una y otra vez y obligó a López a hacer la media retractación de Navarro y la entera retractación de Víctor Hugo. Después de años de jugar y ganar con las cartas marcadas, saltó la banca para el Zar del Juego.

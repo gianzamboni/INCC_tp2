@@ -1,0 +1,126 @@
+
+Un enigma provocó la "salida de humo de la cabeza" de miles de personas. Lo lanzó el diario La Vanguardia, de España, y aseguró que era fácil para los chicos, pero no tanto para los adultos. Clarín pudo confirmarlo: ayer lo publicó y generó más de 270 comentarios, donde quedó en evidencia la variedad de respuestas posibles.  El juego consistía en descubrir hacia qué lado, derecha o izquierda, va un ómnibus escolar, el típico alargado y de color amarillo que se utiliza en las escuelas estadounidenses. Tras el debate que generó entre las miles de personas que intentaron resolverlo, ahora se publicó la solución. Mirá también: Polémica viral: ¿Es un pato o un conejo? "Decíamos ayer, cuando planteábamos el acertijo, que el vehículo era el típico autobús escolar estadounidense de color amarillo. Pero también apuntábamos que para hallar la respuesta correcta se podía poner como ejemplo España (lo mismo que Argentina) o cualquier otro país en donde se circule por la derecha", explica La Vanguardia. Y aquí está la tan esperada solución. En las zonas donde se conduce por la derecha, el conductor va sentado en el costado izquierdo del vehículo. El costado que vemos en la imagen es el del conductor, que es uniforme. Y eso es porque las puertas de entrada están en el otro lado y quedan "escondidas" por los cristales. Si el autobús fuera del Reino Unido, por ejemplo, la lógica debe aplicarse al contrario, pues la posición del conductor y de las puertas sería la inversa. Mirá también: ¿Podés descubrir qué se esconde en esta imagen? Por lo tanto, la respuesta correcta es que el ómnibus va hacia la izquierda. En este video puede verse, en forma gráfica, ese resultado:  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160223_0015 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160223_0015_12d";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: '¿El ómnibus va hacia la derecha o la izquierda? La solución del enigma',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/23/VID/CLAVID20160223_0015/video_web.flv",
+        image: "http://images.clarin.com/sociedad/omnibus-derecha-izquierda-solucion-enigma_CLAVID20160223_0015_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160223_0015',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/23/VID/CLAVID20160223_0015/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/omnibus-derecha-izquierda-solucion-enigma_3_1528077192.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160223_0015.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160223_0015){
+            //getBBTStats_CLAVID20160223_0015();
+            varModIdReprod_CLAVID20160223_0015 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+

@@ -1,0 +1,18 @@
+
+Era una presentación que contenía todos los ingredientes de una fiesta rockera. La banda, el baile, los fanáticos, el pogo. Pero alguien pasó los límites y el recital estuvo a un paso de la tragedia: en medio del show de Carajo, realizado anoche en El Teatro de La Plata tiraron gas pimienta y sobrevino el caos. Los casi 500 concurrentes al espectáculo comenzaron a escapar del complejo situado en pleno centro de la ciudad, en la calle 58 entre 10 y 11, con síntomas de asfixia y severos dolores en los ojos. A los pocos minutos, las inmediaciones del predio se llenaron de ambulancias y chicos tirados en la calle. No hubo heridos graves, según informaron fuentes sanitarias, pero la situación provocó conmoción en el barrio. Mirá también: Golpes, balas de goma y armas blancas en un recital de rock El episodio ocurrió apenas pasada la medianoche, en la presentación que la banda tenía programada en la capital bonaerense. El Teatro es un lugar elegido por grupos de rock para sus recitales y está acondicionado para esas presentaciones. Cuando comenzaron los gritos desesperados de los espectadores, los integrantes del grupo dejaron de tocar y también tuvieron que salir del lugar. Según dijeron algunos testigos, todo comenzó por un incidente entre un joven que habría estado borracho y personal de seguridad. En ese contexto se habría derramado el gas que provoca fuerte irritación en los ojos y complicaciones respiratorias. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"La sala se desalojó por prevención, ya que se veía gente con síntomas de ahogo y otras que se empezaron a descompensar. Enseguida procedimos al desalojo de la sala y llamamos al servicio de ambulancias para darles una rápida atención”, dijo esta mañana a los medios locales Javier Mardikián, director de sala del teatro que antes se conocía como el Opera de La Plata. El lugar tiene su historia: allí hacía sus primeras presentaciones la mítica Patricio Rey y sus Redonditos de Ricota a mediados de los 80. Mirá también: Tres años de probation para el Panadero Los directivos difundieron un comunicado donde informaron que “los concurrentes fueron asistidos en el lugar y con el correr de los minutos se fueron retirando por sus propios medios”. Y agregaron que “cuatro personas fueron derivadas para mayor control médico expectante a su evolución a la guardia del hospital San Martín y dentro de las 2 horas inmediatas siguientes fueron dados de alta”.  A través de las redes sociales, Carajo también dio una explicación: “Lamentablemente anoche (14 de octubre) en el Teatro Opera de La Plata tuvimos que parar de tocar porque había algún tipo de gas que afectó las vías respiratorias de algunos asistentes. Como siempre, el público “carajero” actuó pacífica y solidariamente y desalojamos el lugar. Estamos todos bien¡”, dijeron los integrantes de la banda. Además aclararon que reprogramarán la función y sugirieron al público que guardaran los tickets. 

@@ -1,0 +1,532 @@
+
+   Más de 150 personas colmaron un auditorio en la ciudad de Córdoba para emocionarse y aplaudir al ex presidente uruguayo José Mujica, quien habló en un tono pausado y reflexivo y dejó un puñado de frases para rescatar. En el inicio de ciclo de charlas organizadas por “Tarjeta Naranja”, Pepe Mujica conversó con el periodista cordobés Miguel Clariá y dio un mensaje de austeridad y pasión por la vida, más que repasar aspectos de su gestión presidencial de 5 años. Mirá también: Pepe Mujica: "Me preocupa la deuda que está tomando Macri" En la “Casa Naranja”, Mujica llegó con jeans, campera de pana marrón, camisa blanca y zapatos negros: “Me ha pedido que le diga Pepe", contó Miguel Clariá antes de dar pie a frases que desataron risas, aplausos y mucha emoción entre los asistentes a la charla en la capital cordobesa.  “Cuando sos Presidente, aparecen las alfombras rojas, el insoportable protocolo, gente cobrando para no hacer nada...”. 
+
+
+Cuando te empiezan a decir qué bien que estás, estás frito
+
+
+
+
+
+var act_157 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_157 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_157.setTitle('Cuando te empiezan a decir qué bien que estás, estás frito');
+act_157.setSubtitle('LA VISITA DEL EX PRESIDENTE URUGUAYO'); 
+act_157.setLinkBack('http://www.clarin.com/politica/frases-dejo-Pepe-Mujica-Argentina_0_1571842836.html');
+act_157.setDescription('En C&oacute;rdoba, el ex mandatario oriental dio una charla donde habl&oacute; de Francisco, sobre el amor, su vida austera y cont&oacute; cosas de su paso por la c&aacute;rcel.');
+act_157.addActionLink('VER MÁS', 'http://www.clarin.com/politica/frases-dejo-Pepe-Mujica-Argentina_0_1571842836.html');
+
+var showShareBarUI_params_157=
+{ 
+containerID: 'shareQuote_157',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_157,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_157
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_157);
+ En Europa dejan a la gente sin laburo y a eso le llaman austeridad. Yo prefiero decir que fui un Presidente sobrio. Pobre es el que no tiene cariño, el que está solo Si no trabajás, estás parasitando a alguno que trabaja El infierno y el paraíso están acá, hay para elegir El dar es mi felicidad, no el tener 
+
+
+A Francisco no lo veo como el administrador de Dios en la Tierra, lo veo como un porteño preocupado de los humildes
+
+
+
+
+
+var act_284 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_284 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_284.setTitle('A Francisco no lo veo como el administrador de Dios en la Tierra, lo veo como un porteño preocupado de los humildes');
+act_284.setSubtitle('LA VISITA DEL EX PRESIDENTE URUGUAYO'); 
+act_284.setLinkBack('http://www.clarin.com/politica/frases-dejo-Pepe-Mujica-Argentina_0_1571842836.html');
+act_284.setDescription('En C&oacute;rdoba, el ex mandatario oriental dio una charla donde habl&oacute; de Francisco, sobre el amor, su vida austera y cont&oacute; cosas de su paso por la c&aacute;rcel.');
+act_284.addActionLink('VER MÁS', 'http://www.clarin.com/politica/frases-dejo-Pepe-Mujica-Argentina_0_1571842836.html');
+
+var showShareBarUI_params_284=
+{ 
+containerID: 'shareQuote_284',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_284,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_284
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_284);
+
+
+A nadie le gusta el aborto y menos q a nadie a la mujer que lo tiene que practicar. Pero los abortos siguen pasando... Hay cobardía e hipocresía con el tema 
+
+
+No es ningún pecado ser madre soltera
+
+
+
+
+
+var act_741 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_741 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_741.setTitle('No es ningún pecado ser madre soltera');
+act_741.setSubtitle('LA VISITA DEL EX PRESIDENTE URUGUAYO'); 
+act_741.setLinkBack('http://www.clarin.com/politica/frases-dejo-Pepe-Mujica-Argentina_0_1571842836.html');
+act_741.setDescription('En C&oacute;rdoba, el ex mandatario oriental dio una charla donde habl&oacute; de Francisco, sobre el amor, su vida austera y cont&oacute; cosas de su paso por la c&aacute;rcel.');
+act_741.addActionLink('VER MÁS', 'http://www.clarin.com/politica/frases-dejo-Pepe-Mujica-Argentina_0_1571842836.html');
+
+var showShareBarUI_params_741=
+{ 
+containerID: 'shareQuote_741',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_741,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_741
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_741);
+ No los puedo ni ver a los que me quisieron comprar el auto en 1 millón de dólares 
+
+
+Yo soy un luchador social y ando por el mundo hablando con los jóvenes
+
+
+
+
+
+var act_d87 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_d87 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_d87.setTitle('Yo soy un luchador social y ando por el mundo hablando con los jóvenes');
+act_d87.setSubtitle('LA VISITA DEL EX PRESIDENTE URUGUAYO'); 
+act_d87.setLinkBack('http://www.clarin.com/politica/frases-dejo-Pepe-Mujica-Argentina_0_1571842836.html');
+act_d87.setDescription('En C&oacute;rdoba, el ex mandatario oriental dio una charla donde habl&oacute; de Francisco, sobre el amor, su vida austera y cont&oacute; cosas de su paso por la c&aacute;rcel.');
+act_d87.addActionLink('VER MÁS', 'http://www.clarin.com/politica/frases-dejo-Pepe-Mujica-Argentina_0_1571842836.html');
+
+var showShareBarUI_params_d87=
+{ 
+containerID: 'shareQuote_d87',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_d87,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_d87
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_d87);
+ Desarrollo sin felicidad no sirve Un hombre puede sufrir mucho porque una mujer lo deja; no da pa suicidarse, menos pa ofenderla. Aprender a perder es la verdadera hombría 
+
+
+Estuve 7 años sin leer en la cárcel, me tenían castigado
+
+
+
+
+
+var act_226 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_226 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_226.setTitle('Estuve 7 años sin leer en la cárcel, me tenían castigado');
+act_226.setSubtitle('LA VISITA DEL EX PRESIDENTE URUGUAYO'); 
+act_226.setLinkBack('http://www.clarin.com/politica/frases-dejo-Pepe-Mujica-Argentina_0_1571842836.html');
+act_226.setDescription('En C&oacute;rdoba, el ex mandatario oriental dio una charla donde habl&oacute; de Francisco, sobre el amor, su vida austera y cont&oacute; cosas de su paso por la c&aacute;rcel.');
+act_226.addActionLink('VER MÁS', 'http://www.clarin.com/politica/frases-dejo-Pepe-Mujica-Argentina_0_1571842836.html');
+
+var showShareBarUI_params_226=
+{ 
+containerID: 'shareQuote_226',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_226,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_226
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_226);
+ El hombre instruido puede ser mucho más bestia que alguien que no lo está. Atrás de la enseñanza tiene que haber valores Nunca el ser humano ha tenido tanto como hoy. El hombre puede inventar ríos, mares salados adentro del Sahara. Me van a decir que no hay plata... No hay pobres de África, hay pobres de la humanidad Los hombres van detrás de las ideas como los carros de los bueyes 
+
+
+El hombre es el único bicho que entierra sus muertos. Por qué será...
+
+
+
+
+
+var act_223 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_223 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_223.setTitle('El hombre es el único bicho que entierra sus muertos. Por qué será...');
+act_223.setSubtitle('LA VISITA DEL EX PRESIDENTE URUGUAYO'); 
+act_223.setLinkBack('http://www.clarin.com/politica/frases-dejo-Pepe-Mujica-Argentina_0_1571842836.html');
+act_223.setDescription('En C&oacute;rdoba, el ex mandatario oriental dio una charla donde habl&oacute; de Francisco, sobre el amor, su vida austera y cont&oacute; cosas de su paso por la c&aacute;rcel.');
+act_223.addActionLink('VER MÁS', 'http://www.clarin.com/politica/frases-dejo-Pepe-Mujica-Argentina_0_1571842836.html');
+
+var showShareBarUI_params_223=
+{ 
+containerID: 'shareQuote_223',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_223,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_223
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_223);
+ Una cosa es vivir porque se nació o vivir por una causa. Los únicos derrotados son los que bajan los abrazos La derrota es un estado psicológico de la vida. Y en política es lo mismo 
+
+
+No defiendo las adicciones pero que las hay, las hay. Ninguna adicción es buena salvo el amor.
+
+
+
+
+
+var act_c28 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_c28 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_c28.setTitle('No defiendo las adicciones pero que las hay, las hay. Ninguna adicción es buena salvo el amor.');
+act_c28.setSubtitle('LA VISITA DEL EX PRESIDENTE URUGUAYO'); 
+act_c28.setLinkBack('http://www.clarin.com/politica/frases-dejo-Pepe-Mujica-Argentina_0_1571842836.html');
+act_c28.setDescription('En C&oacute;rdoba, el ex mandatario oriental dio una charla donde habl&oacute; de Francisco, sobre el amor, su vida austera y cont&oacute; cosas de su paso por la c&aacute;rcel.');
+act_c28.addActionLink('VER MÁS', 'http://www.clarin.com/politica/frases-dejo-Pepe-Mujica-Argentina_0_1571842836.html');
+
+var showShareBarUI_params_c28=
+{ 
+containerID: 'shareQuote_c28',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_c28,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_c28
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_c28);
+ Tenemos que destrozar el narcotráfico. Y para eso, hay que robarles el mercado. El Estado tiene que estar metido y regular porque la pelea la estamos perdiendo No creo en los hombres imprescindibles, sí en las causas imprescindibles Amo la vida. He aprendido a hablar con las hormigas, con el viento, con la soja... 
+
+
+El balance mío es pedirle al pulpero Por favor, sirva otra vuelta 
+
+
+
+
+
+var act_739 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_739 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_739.setTitle('El balance mío es pedirle al pulpero Por favor, sirva otra vuelta ');
+act_739.setSubtitle('LA VISITA DEL EX PRESIDENTE URUGUAYO'); 
+act_739.setLinkBack('http://www.clarin.com/politica/frases-dejo-Pepe-Mujica-Argentina_0_1571842836.html');
+act_739.setDescription('En C&oacute;rdoba, el ex mandatario oriental dio una charla donde habl&oacute; de Francisco, sobre el amor, su vida austera y cont&oacute; cosas de su paso por la c&aacute;rcel.');
+act_739.addActionLink('VER MÁS', 'http://www.clarin.com/politica/frases-dejo-Pepe-Mujica-Argentina_0_1571842836.html');
+
+var showShareBarUI_params_739=
+{ 
+containerID: 'shareQuote_739',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_739,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_739
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_739);
+

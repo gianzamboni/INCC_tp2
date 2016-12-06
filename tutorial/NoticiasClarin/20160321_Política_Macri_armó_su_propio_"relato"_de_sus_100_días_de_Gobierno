@@ -1,0 +1,72 @@
+
+Con motivo de cumplirse los 100 días de Mauricio Macri al frente del Gobierno, la página de Casa Rosada armó una línea de tiempo detallando el día a día del Presidente. La web de Presidencia de la Nación eligió como puntapié inicial de la gestión el 10 de diciembre de 2015. "Vamos a gobernar para todos", fue la frase elegida del discurso de asunción de Macri para resumir el primer día al frente del Ejecutivo.
+
+Cada día tiene un título con una pequeña descripción, acompañado de una foto y un link que lleva a la información más ampliada. 
+
+
+"Vamos a gobernar para todos", así empezaron los primeros 100 días de gobierno.
+
+
+
+
+
+var act_66c = new gigya.socialize.UserAction();
+
+var emailBodyCustom_66c = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_66c.setTitle('&quot;Vamos a gobernar para todos&quot;, as&iacute; empezaron los primeros 100 d&iacute;as de gobierno.');
+act_66c.setSubtitle('PRESIDENCIA DE LA NACIÓN'); 
+act_66c.setLinkBack('http://www.clarin.com/politica/Macri-armo-propio-relato-Gobierno_0_1544245778.html');
+act_66c.setDescription('La web de Casa Rosada&nbsp;public&oacute; una l&iacute;nea de tiempo: di&aacute;logo abierto,&nbsp;reuniones de Gabinete y&nbsp;la visita al Papa, entre los destacados.');
+act_66c.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Macri-armo-propio-relato-Gobierno_0_1544245778.html');
+
+var showShareBarUI_params_66c=
+{ 
+containerID: 'shareQuote_66c',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_66c,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_66c
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_66c);
+ El "diálogo abierto" es uno de lo ítems que más se repite a lo largo de los más de tres meses de Macri como presidente, destacando el encuentro con Daniel Scioli y los ex candidatos presidenciales, al día siguiente de la asunción. Así como también se destaca dentro de la línea cada reunión de Gabinete que encabezó el jefe de Estado, una práctica inexistente durante la gestión kirchnerista.
+
+Leé también: Macri eligió a López como enemigo y mandó una señal al empresariado Este repaso por los primeros 100 días de Gobierno, finaliza el 16 de marzo de 2016, con la reunión entre el Presidente y el secretario General de la Organización de Estados Americanos (OEA), Luis Almagro, en torno a los derechos humanos, la libertad de prensa y el fortalecimiento de la democracia. Al pie de la página, con dos íconos se ofrece la posibilidad de compartir en las redes sociales esta línea de tiempo con los primeros hitos de la gestión macrista, entre los que se encuentran la eliminación del cepo cambiario, el traspaso de la Policía Federal a la Ciudad y la cumbre con el Papa, entre otros. Leé también: Encuesta: los más pobres y los más ricos, los que peor ven a Macri

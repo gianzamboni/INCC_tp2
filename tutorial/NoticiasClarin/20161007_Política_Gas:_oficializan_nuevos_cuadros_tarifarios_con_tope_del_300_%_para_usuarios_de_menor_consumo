@@ -1,0 +1,68 @@
+
+El Gobierno nacional oficializó hoy los nuevos cuadros tarifarios del servicio de gas, elaborados tras la Audiencia Pública de septiembre, con topes del 300 por ciento de incremento para los usuarios de menor consumo, tarifa social y bonificaciones por ahorro. Según la Resolución 212 - E/2016 publicada en el Boletín Oficial con la firma del ministro de Energía, Juan José Aranguren, las tarifas residenciales se actualizarán en los meses de abril y octubre de cada año, "teniendo en cuenta el tipo de cambio vigente y el valor del precio objetivo en el Punto de Ingreso al Sistema de Transporte (PIST) en cada momento, hasta llegar a la eliminación total de los subsidios en el año 2019".De ese gradualismo quedan exceptuadas las zonas de la Patagonia, La Pampa y la Puna "en donde, en virtud de las divergencias en el punto de partida de los precios aplicables en dichas zonas, el programa prevé un sendero diferencial en el que la reducción de subsidios resulta aún más gradual, finalizando recién en el año 2022". Mirá también: En plena complicación judicial, Scioli visitó en secreto a Macri en Olivos 
+
+
+Según expresó Aranguren durante la audiencia, que se desarrolló entre el 16 y 18 de septiembre, el incremento para los usuarios residenciales será de 205 por ciento promedio a partir de la facturación de octubre.
+
+
+
+
+
+var act_f3e = new gigya.socialize.UserAction();
+
+var emailBodyCustom_f3e = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_f3e.setTitle('Según expresó Aranguren durante la audiencia, que se desarrolló entre el 16 y 18 de septiembre, el incremento para los usuarios residenciales será de 205 por ciento promedio a partir de la facturación de octubre.');
+act_f3e.setSubtitle('Servicios'); 
+act_f3e.setLinkBack('http://www.clarin.com/politica/Gas-oficializan-tarifarios-usuarios-consumo_0_1664233590.html');
+act_f3e.setDescription('El Gobierno los elaboró tras la Audiencia Pública de septiembre. Alcanza a usuarios de poco consumo, tarifa social y bonificaciones por ahorro. Tendrán vigencia desde este viernes.');
+act_f3e.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Gas-oficializan-tarifarios-usuarios-consumo_0_1664233590.html');
+
+var showShareBarUI_params_f3e=
+{ 
+containerID: 'shareQuote_f3e',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_f3e,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_f3e
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_f3e);
+ El artículo 7 de la Resolución instruye al Ente Nacional Regulador del Gas (Enargas) a que "sobre la base de la situación económico-financiera de las empresas Licenciatarias y a cuenta de la Revisión Tarifaria Integral, aplique una adecuación de las tarifas de transición vigentes de los Servicios Públicos de Transporte y Distribución de Gas Natural".En tanto, en su artículo 10, establece que el incremento en las tarifas tendrá un tope del 300 por ciento para los usuarios de la categoría R1-R23; del 350 por ciento para la categoría R31-R33; del 400 por ciento para la R34; mientras que será del 500 por ciento para el sector comercial e industrial (usuarios SGP). Dichos topes de aumento tendrán vigencia siempre que el monto total de la tarifa supere los 250 pesos. La Resolución publicada hoy mantiene además la tarifa social prevista con beneficio del 100 por ciento para el precio PIST, lo que "asegura protección a los sectores socio-económicamente más vulnerables, garantizando subsidios a quienes verdaderamente los necesitan". Otro de los puntos importantes de la Resolución es que para "incentivar el uso responsable y eficiente de los recursos" establece una bonificación para aquellos usuarios que tengan un ahorro del 15 por ciento o más en su consumo, comparado con el mismo bimestre del año anterior. Según los considerandos, la reducción "gradual y escalonada de subsidios" contempla "una solución integrada y previsible al sistema de suministro de gas, resultando una herramienta útil para que el incremento de los precios de gas en PIST no afecte la capacidad de pago ni implique una erogación tal que pudiera comprometer el logro de otras necesidades básicas". Mirá también: Provincia: el inmobiliario sube entre 25% y 35% Además, expresa que "la implementación de un mecanismo de reducción gradual está dirigido a lograr un suministro de gas natural resulte más equitativo y federal, que garantice su sostenibilidad en el tiempo, compatibles con los objetivos de fomentar la producción local, reducir progresivamente los subsidios, transmitiendo a la demanda una señal real de la escasez del recurso". En ese marco, resalta que los nuevos cuadros tarifarios implican "una rebaja del precio del gas natural de 72,6 por ciento promedio" en relación al establecido por el Ministerio de Energía para abril pasado, que finalmente fue suspendido por la Corte Suprema de Justicia. El "sendero de gradualismo" también alcanzará a las categorías P1, P2 y P3, que incluye a usuarios comerciales e industriales de menores consumos". "De esta manera, los usuarios de esa categoría quedan incorporados en el sendero y, por lo tanto, la adecuación de los precios del gas será progresiva durante los próximos tres años, alcanzando para el mes de abril de 2018 la reducción que originalmente estuvo prevista para el mes de abril de 2016", añade la Resolución. La Resolución firmada por Aranguren está acompañada por otras 11 resoluciones del Ente Nacional Regulador del Gas (Enargas), que detalla los cuadros tarifarios para las distintas empresas distribuidoras de gas. Para explicar los nuevos cuadros, está previsto que desde las 11, el ministro Aranguren brinde una conferencia de prensa en el Microcine del quinto piso del Palacio de Hacienda. Agencia DyN

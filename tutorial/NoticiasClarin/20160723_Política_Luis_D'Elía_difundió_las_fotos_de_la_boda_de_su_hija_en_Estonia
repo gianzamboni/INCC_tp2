@@ -1,0 +1,22 @@
+
+"Linda historia de amor". Así arranca la publicación de Luis D'Elía, el dirigente social kirchnerista y ex piquetero que difundió, en su cuenta de Twitter, fotos del casamiento de su hija, Anahí Ayelén D'elía, con Mikhel Kahebats.
+
+La boda se celebró en Tallin, la capital de Estonia, país donde nació el flamante esposo y donde vivirá la pareja. Se trata de un país en el Norte de Europa, formado por una parte continental y más de 2.000 islas pequeñas en el mar Báltico. 
+
+"Nuestra hija Anahí Ayelén D'Elía ha contraído matrimonio con Mikhel Kahebats", dice el tweet de D'Elía, quien compartió las imágenes de la pareja en traje y vestido de novia, con un perro y en un pintoresco sillón sobre una alfombra en la que sería la futura casa de ambos. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Luis_Delia/status/756805142175944704",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75680514217594470")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

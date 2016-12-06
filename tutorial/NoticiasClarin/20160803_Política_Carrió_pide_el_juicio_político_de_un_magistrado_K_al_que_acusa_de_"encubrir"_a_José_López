@@ -1,0 +1,71 @@
+
+ Elisa Carrió está de regreso. Durante su reposo médico, pateó el tablero político de la provincia de Buenos Aires con su denuncia contra Daniel Scioli y ahora, ya recuperada y en actividad, apunta a otro de sus blancos favoritos: la Justicia. La diputada de Cambiemos presentará en las próximas horas un pedido de juicio político contra Alejandro Slokar, Presidente de la Cámara Federal de Casación Penal y juez subrogante de la sala II de Casación Penal. “Lilita”, según supo Clarín, acusa a Slokar por el presunto “encubrimiento” del ex secretario de Obras Públicas José López, al cajonear un expediente en el que se lo denunciaba por enriquecimiento ilícito en 2013. La legisladora afirma que el magistrado, que es uno de los fundadores de Justicia Legítima, incurrió en “neglicencia grave en el ejercicio del cargo” y que realizó “actos de manifiesta arbitrariedad en el ejercicio de sus funciones”. 
+
+
+Carrió dice que Slokar tuvo "una conducta oportunista y desesperada" para caerle bien a la opinión pública.
+
+
+
+
+
+var act_d38 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_d38 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_d38.setTitle('Carrió dice que&nbsp;Slokar tuvo "una conducta oportunista y desesperada" para caerle bien a la opinión pública.');
+act_d38.setSubtitle('Justicia'); 
+act_d38.setLinkBack('http://www.clarin.com/politica/Carrio-politico-magistrado-Jose-Lopez_0_1625237605.html');
+act_d38.setDescription('Lo hará ante el Consejo de la Magistratura en las próximas horas. Afirma que intentó “cajonear” un expediente de enriquecimiento ilícito en su fuero.');
+act_d38.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Carrio-politico-magistrado-Jose-Lopez_0_1625237605.html');
+
+var showShareBarUI_params_d38=
+{ 
+containerID: 'shareQuote_d38',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_d38,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_d38
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_d38);
+ Cerca de la diputada resumen la presentación en palabras simples: "Slokar, al cajonear el recurso y no definirlo, ayudaba a que la causa prescriba, cuando salta el escándalo de López tirando bolsos actúa para desligarse", explicaron. Mirá también: Carrió ratificó su denuncia contra Scioli y pidió que se cite a Leonardo Fariña “El magistrado no sólo ha faltado en forma manifiesta al principio de celeridad de Justicia, y a la imparcialidad que debe imperar en todo proceso judicial sino que aprovechándose de la notoriedad pública que adquirió el caso del Ex Secretario de Obras Públicas del Ministerio de Planificación Federal Inversión Pública y Servicios, José Francisco López el pasado 14 de junio, Slokar decide que es el momento ‘oportuno’ para resolver el recurso de casación interpuesto” en casación en el expediente que investigaba al exfuncionario K por enriquecimiento ilícito, sentencia el borrado de la denuncia 
+
+Mirá también: Investigarán a López por enriquecimiento ilícito desde 2003 El pedido había ingresaron a su fuero el 12 de septiembre de 2013, decir casi tres años después el magistrado decide impartir 'justicia'”, afirma Carrió en su denuncia.  Slokar es uno de los jueces que "atormentan" al macrismo. Tal como reseñó Clarín días atrás, dos episodios dejaron al ​presidente de Cámara de Casación Penal (máxima autoridad en ese fuero) en el eje de la polémica. Uno: la agresión a una periodista antes de la declaración de Cristina Fernández de Kirchner en Comodoro Py ante el juez Bonadio. Y otra: que el operativo de seguridad dentro del Palacio de Tribunales quedara en manos de La Cámpora.  Mirá también: Uno por uno, los jueces y fiscales que atormentan al macrismo Ahora, la presentación de Carrió acusa en durísimos términos a Slokar, al que le imputa una "conducta oportunista y direccionada a disimular la omisión y el letargo" a la hora de impartir Justicia. "Lilita" considera que eso podría configurar el "encubrimiento del ex secretario de Estado por parte del juez Slokar".  El 14 de junio pasado, apenas 24 horas después de la detención de López en el convento de General Rodríguez con bolsos cargados con 9 millones de dólares, la Sala II de Slokar decide que su patrimonio debía ser investigado desde 2003 en la denuncia por enriquecimiento ilícito en su contra. Los defensores del ex funcionario pedían dejar afuera el tramo entre 2003 y 2005.  La diputada apunta que la conducta omisiva de la Sala II durante años impidió a la Justicia reunir "pruebas e indicios" para llegar a la verdad en torno a la denuncia den enriquecimiento ilícito de López. No cuestiona, aclara, el fallo de investigar el patrimonio desde 2003, pero sí la conducta "oportunista" del magistrado.  A Carrió, según da cuenta su denuncia, le molestó en particular uno de los párrafos donde Slokar cita a San Agustín. "En la especie no puede soslayarse que se investiga una maniobra criminosa que corrompe a la función pública (...) Todo lo expuesto impone el mayor desenvolvimiento desde un imperativo de celeridad atento a la entidad de la maniobra endilgada, ya que como desde siempre se evoca: 'Un Estado que no se rigiera según la Justicia, se reduciría a una banda de ladrones'", afirma el juez en su resolución firmada el día después de la detención de López. 
+

@@ -1,0 +1,34 @@
+
+De las 7.000 millones de personas en el planeta, 6.000 millones tienen celulares mientras que 4.500 millones cuentan con acceso a inodoros o letrinas, advirtió la Organización Mundial de la Salud (OMS) en el marco del Día global del inodoro que se conmemora hoy. La organización con sede en Ginebra (Suiza) publicó hoy en su cuenta de Twitter que hay más personas en el mundo que tienen celulares que accesos a inodoros, en una jornada que tiene como objetivo llamar la atención sobre la importancia de que todo el mundo tenga acceso al saneamiento.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/WHO/status/667288885135671296",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_66728888513567129")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+Más de mil millones de personas en el mundo se ven obligadas a defecar al aire libre debido a la falta de instalaciones sanitarias adecuadas, lo que genera contaminación por excrementos y consecuentemente enfermedades, advirtió en sintonía las Naciones Unidas."El saneamiento es clave para la salud humana y medioambiental, así como para la oportunidad individual, el desarrollo y la dignidad", señaló el secretario general Ban Ki-moon, según consigna la agencia EFE.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/pnud/status/667335358137389056",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_66733535813738905")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+En total, 2.400 millones de personas alrededor del mundo no disponen de un saneamiento adecuado, según los datos de Naciones Unidas, que ha convertido este problema en una prioridad. Los países en donde la defecación al aire libre es una práctica más extendida son los mismos que cuentan con el mayor número de muertes de niños menores de cinco años, además de altos niveles de desnutrición y pobreza, alertó la OMS.Cada año, unos 800.000 niños en todo el mundo, uno cada dos minutos, mueren por diarrea, a menudo causada por la contaminación del agua por excrementos, y casi la mitad de los fallecimientos de menores de cinco años se deben a problemas de nutrición.Pese a todos los esfuerzos, el progreso en este ámbito ha sido "demasiado limitado y demasiado lento", subrayó Ban Ki-moon, que recordó que el del saneamiento fue, según muchos indicadores, el Objetivo del Milenio con peores resultados.Como consecuencia, en 2013 la ONU puso en marcha una iniciativa con el objetivo de terminar con la defecación al aire libre antes de 2025."Trabajando juntos y teniendo una discusión abierta y franca sobre la importancia de los inodoro s y el saneamiento podemos mejorar la salud y el bienestar de un tercio de la familia humana", insistió.Además del problema sanitario, la práctica de la defecación al aire libre plantea un riesgo añadido para las niñas y mujeres, que al carecer de privacidad ven aumentado el riesgo de violaciones y abusos sexuales. 

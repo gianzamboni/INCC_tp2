@@ -1,0 +1,18 @@
+
+En principio era una historia que podía suceder en cualquier punto del planeta: un hombre vive con sus amigos en un departamento -el protagonista aquí reside en la ciudad china de Fuqing--, y como la lavadora no estaba funcionando del todo bien metió la cabeza dentro del aparato. Luego el relato se transformó entre bizarro y dramático ya que quedó atrapado allí y sólo pudieron salvarlo los bomberos. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Según cuenta South China Morning Post, los bomberos demoraron más de una hora y media en liberarlo, para lo cual tuvieron que cortar con una sierra la lavadora. El hombre la sacó barata ya que sólo sufrió heridas leves en la cabeza y en partes del cuerpo a causa de las chispas de electricidad.

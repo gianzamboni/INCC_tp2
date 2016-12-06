@@ -1,0 +1,54 @@
+
+La abogada Irene Fernanda Herrera reveló datos de la causa que la tiene como defensora del ex secretario de Obras Públicas, José Francisco López, detenido cuando intentaba esconder nueve millones de dólares en un convento de General Rodríguez. También habló de su vida privada. Fue en el programa de Mirtha Legrand, el sábado a la noche, donde sostuvo que su cliente, que lleva 12 días preso, "va a declarar" ante la Justicia pero le pide tiempo porque sigue "muy medicado".  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ La abogada aseguró que tras visitarlo el viernes en un pabellón psiquiátrico del penal de Ezeiza lo notó "descompensado", dado que se encontraba "muy medicado" al punto que "no se podía mantener en pie" y lo debieron trasladar "entre cuatro" guardias. Herrera también reveló que con López habló "sobre la figura del arrepentido" que podría utilizar en su declaración, pero advirtió que la decisión respecto de acogerse a ese beneficio "ya es parte de su voluntad". Mirá también: Investigan si López se quiso escapar en un avión antes de ir al convento "Me dijo que va a declarar pero me pidió que le dé tiempo", añadió la defensora que dijo desconocer "si fue algún familiar" a visitarlo en la cárcel, donde según detalló se encuentra alojado en el mismo sector donde están "uno de los integrantes del grupo Callejeros y (Jorge) Chueco", abogado de Lázaro Báez.  
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_6c3l5v3c",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_6c3l5v3c"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_6c3l5v3c").after(scriptEl);
+  Además, describió a su cliente como "una persona muy espiritual" pero señaló que en los últimos tiempos "está nublado por la ansiedad". Cuando le preguntaron si así podía declarar, indicó: "Está en condiciones, pero cuando se constituye en la oficina del fiscal manifiesta lo contrario". Mirá también: Habló la ayudante del convento: "Alicia Kirchner llamaba mucho a la hermana Alba" Mirtha también abordó con preguntas personales a la abogada, cantante y dueña de caballos de carrera, de alto perfil desde que tomó la causa. Por ejemplo, le consultó si era millonaria. La mujer se defendió: "Me gustan los animales. No soy rica y trabajo como todos. Antes, en forma simultánea cantaba y bailaba". La diputada Margarita Stolbizer, presente en la mesa, no quiso dejar pasar la ocasión y lanzó: "Pero ahora va a pasar a ser rica rápidamente. Con el defendido que tiene. Con lo que va a cobrar...". Profundizar en la familia de Herrera fue una misión imposible para la conductora, ya que como toda respuesta obtuvo un "mire Mirtha, con mi familia no tengo contacto".  
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_kpp2rmih",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_kpp2rmih"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_kpp2rmih").after(scriptEl);
+ Mirá también: "Alfanito", la abogada hot y cumbiera que defiende a López La diva insistió para intentar confirmar una supuesta prisión domiciliaria de la madre de la abogada/cantante y logró idéntica respuesta: "No tengo contacto. No hablo con ella". En la charla se pudo saber además que Herrera, a quien muchos llaman "Alfanito" por cierto parecido con Graciela Alfano, está en pareja y dijo que sólo se operó "la punta de la nariz y las lolas". Respecto de la invitación de Marcelo Tinelli para formar parte del Bailando, aseguró que aún no lo tiene resuelto: "Hay muchos prejuicios, algunos están a favor y otros en contra y no tengo sólo la causa de López. Eso me demandaría mucho tiempo por los ensayos. Es comprometerse formalmente a un contrato". Mirá también: La abogada de José López llegó a ShowMatch Cuando el periodista Hugo Alconada Mon, otro de los invitados al programa, le preguntó cuáles eran sus mentores o padrinos, la abogada contó que se apoyaba "en los otros tres miembros del estudio: los doctores Rodríguez, Casas y Galante". Los cuatro, con oficinas en Puerto Madero, trabajan en la causa del ex secretario de Obras Públicas, sostuvo.

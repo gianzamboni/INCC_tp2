@@ -1,0 +1,18 @@
+
+Miles de posadeños decidieron dedicar el asueto administrativo de hoy a realizar compras en la ciudad paraguaya de Encarnación, con lo cual se vació de contenido la medida del Gobierno, que buscaba que los empleados públicos realizaran una limpieza generalizada en sus hogares para disminuir la presencia del mosquito Aedes aegypti, transmisor del dengue. Leé también: En Misiones ya hay más de dos mil casos de dengue y hoy habrá asueto Voceros de la Dirección Nacional de Migraciones dijeron que el éxodo comenzó muy temprano. “La fila de automóviles en el acceso al puente internacional San Roque González de Santa Cruz comenzó cerca de las 6.30 --sostuvo un empleado--. Habitualmente los lunes tenemos más ingresos que egresos del país, pero hoy esta situación se revirtió y estimamos que las salidas hacia Paraguay crecieron más de un 30% respecto de cualquier otro lunes no feriado”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El fin de semana, el gobernador de Misiones, Hugo Passalacqua, pidió a la gente “tener responsabilidad social con el dengue. El asueto del lunes (hoy) es para eso, para trabajar en el barrio, en la casa de uno, y para tomar conciencia que va a ser una pelea que va a durar todo el verano”. Leé también: Dengue: afirman que el riesgo por una segunda picadura es mínimo Las autoridades sanitarias de la provincia reconocieron hasta el momento la existencia de 2.182 casos de dengue, pero el presidente del Colegio de Médicos de Misiones, Luis Flores dijo que “los casos son muchos más que las cifras oficiales que se difunden desde el Ministerio de Salud”. En ese sentido, agregó que “cuando uno habla con la gente, se entera que tiene un familiar o amigo que está con dengue y eso da la pauta de la magnitud de la epidemia”. El ministro de Salud Pública de Misiones, Walter Villalba, recomendó “de siete a diez días de reposo y aislamiento no sólo por la sintomatología, sino porque es una medida solidaria y  responsable para no propagar el virus. Hay gente que al tercer o cuarto día tiene una mejoría y vuelve a trabajar, a hacer su vida normal y en ese momento si es picado por un mosquito sano, comienza a ser transmisor de la enfermedad”. Leé también: En el corazón del dengue: en Puerto Iguazú atienden dos nuevos casos por hora El funcionario también advirtió que en caso de mantenerse alto el nivel de circulación viral, el Gobierno podría postergar el inicio de clases, previsto para el 2 de marzo. “Eso será evaluado en su momento por el gobernador, pero esperemos que para ese entonces toda la situación esté controlada”, sostuvo.

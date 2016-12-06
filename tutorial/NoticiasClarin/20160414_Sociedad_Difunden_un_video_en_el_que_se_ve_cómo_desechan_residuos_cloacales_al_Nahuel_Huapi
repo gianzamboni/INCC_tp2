@@ -1,0 +1,18 @@
+
+La imagen es perturbadora. Sobre las virginales aguas del lago Nahuel Huapi en Bariloche, se abre paso un enorme chorro de líquidos cloacales de color marrón. La secuencia fue captada desde el aire por Santiago Quiss, un vecino de la ciudad, como una forma de denunciar la fuerte contaminación que está sufriendo el famoso lago que navegó hace unas semanas el presidente de Estados Unidos, Barck Obama. Mirá también: Qué dijo Obama sobre Bariloche en su Facebook Ya son 15 mil las firmas de apoyo en la plataforma “Charge.org”, a una iniciativa vecinal destinada a impedir que continúe el proceso de contaminación que vive el lago, debido a los líquidos cloacales y basura en general. Bajo el nombre “¡Dejen de Verter Aguas Negras al Lago Nahuel Huapi!” , la consigna incluye una carta dirigida al ministro de Medio Ambiente, Sergio Bergman, denunciando el hecho. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Según recuerda el texto, el sistema cloacal de la ciudad está “sobrepasado”. Por otro lado refiere que entre 1997 y 2013, “el PVC con el que se hizo un tramo del circuito de tratamiento se rompió 82 veces”. También denuncia las numerosas conexiones ilegales en una ciudad que ya tiene unos 150 mil habitantes y es visitada por cerca de 1 millón de turistas por año. En 2009 un estudio de la Universidad del Comahue detectó la presencia de cromo, mercurio, plomo y contaminación bacteriológica en las inmediaciones de la vieja planta cloacal del CAB, explican. Después de la visita del presidente Obama resurgieron con fuerza las denuncias de contaminación. Al punto que el diario español “El País” se hizo eco del reclamo, asegurando que el hermoso lago navegado por el norteamericano estaba contaminado. De inmediato el gobernador Alberto Weretilneck salió a responder que la afirmación era falsa. "No hay ningún tipo de contaminación aunque esto no significa que no haya mucho trabajo por hacer. Puede haber algún sector puntual del lago con algo de impacto pero el Nahuel Huapi está totalmente sano y sin inconvenientes", recalcó Weretilneck alimentando la polémica. Mirá también: Obama hizo el Circuito Chico y ahora navega por el Nahuel Huapi En diciembre del 2015 se presentó un amparo colectivo de parte de los vecinos de Bariloche. En ese momento “la Cooperativa de Electricidad Bariloche, reconoció que el sistema estaba funcionando en forma sobrepasada”, indica la carta enviada a Bergman escrita por la docente Silvia Marcela Muro. “Los ciudadanos y ciudadanas de la ciudad de San Carlos de Bariloche, advertimos con preocupación que a pesar de las constantes denuncias tanto en los medios, como siguiendo los canales formales, no se ha detenido el vertido de aguas negras al Lago Nahuel Huapi”, subrayan. A lo largo de estos días han aparecido otras fotografías y videos donde queda en evidencia como el lago se ha convertido en uno de los principales receptáculos de basura de la comunidad.

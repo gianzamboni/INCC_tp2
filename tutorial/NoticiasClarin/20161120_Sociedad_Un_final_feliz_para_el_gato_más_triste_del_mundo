@@ -1,0 +1,20 @@
+
+Su nombre es Ben Ben, estaba destinado a morir y lo sabía. Este final anunciado se notaba en su carita, la que lo llevó a la fama en las redes como el "gato más triste del mundo". Sin embargo, fue adoptado un día antes de que le practicaran la eutanasia. Y, afortunadamente, su vida cambió para siempre. Ahora se conocieron imágenes de sus juegos en su nuevo hogar, que se viralizaron en las redes y pueden verse en la cuenta de Instagram Benbencatcat.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Este gato anaranjado y súper cariñoso llegó un día a un refugio completamente herido. Tenía su columna lastimada, heridas profundas en todo su cuerpo y una oreja muy dañada. Cuando los encargados del lugar lo vieron, de inmediato sospecharon que había participado de una pelea contra contrincante "pesado". El diagnóstico era duro:  Ben Ben nunca volvería a caminar.  Mirá también: Las mascotas podrán viajar en subte pero solo dentro de bolsos especiales Sin embargo, lo que más les llamó la atención era la profunda tristeza en sus ojos.  Los trabajadores del lugar, incluso, dijeron que era como si supiera que iba a morir ya que había dejado de comer, tomar agua y hasta de moverse. 
+
+En ese momento, por suerte, una mujer decidió adoptar a Ben Ben, a pesar de su estado, la medicación que debía tomar y los cuidados que necesitaba. Mirá también: Pet friendly: ya hay bares que ofrecen menúes para perros Y en ese momento, Ben Ben ​volvió a nacer. Después de dormir varios días seguidos, despertó con otra expresión y hoy se lo ve más que feliz en su nuevo hogar y juega hasta con la tablet de su dueña, que día a día muestra su evolución en su cuenta de Instagram (BenBenCatCat). 

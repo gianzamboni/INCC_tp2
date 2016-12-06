@@ -1,0 +1,206 @@
+
+Al definir el brusco aumento de las tarifas que en estas horas se discute en la Justicia, el Gobierno había tentado con descuentos de hasta un 35% a los hogares que gastaran menos energía. Para estimular un consumo más racional, se había dispuesto que el tarifazo fuera más leve para quien baje más de 15% el uso de gas y al menos 10% el de electricidad, en comparación con el mismo bimestre del año pasado. Pero el clima lo complicó todo. En Buenos Aires, el otoño 2015 había sido récord por lo cálido. El de este año, en cambio, fue el más frío en 60 años. Con lo cual, pese a que los vecinos cambiaron hábitos y trataron de limitar el consumo, para la gran mayoría las metas de ahorro resultaron inalcanzables. Y eso se reflejó en las facturas que empezaron a llegar en las últimas semanas. Mirá también: Sorpresa y dudas por la llegada de las boletas de agua con subas de hasta 375% Datos preliminares de Edesur indican por ejemplo que, en junio, el 85% de sus clientes residenciales sin Tarifa Social gastó más energía que el año pasado o ahorró menos de lo requerido. Sólo un 6% economizó más del 10%, y otro 9% de la gente lo hizo en más del 20%.
+
+
+
+
+"Ahora dejamos todas las luces apagadas y usamos la estufa sólo si hace muchísimo frío. La factura de luz pasó de $ 630 por bimestre a casi $ 1.200.” (Ulises Mareco, 27 años, comerciante de Villa Tesei)
+
+
+
+
+
+var act_886 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_886 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_886.setTitle('"Ahora dejamos todas las luces apagadas y usamos la estufa sólo si hace muchísimo frío. La factura de luz pasó de $ 630 por bimestre a casi $ 1.200.” (Ulises Mareco, 27 años,&nbsp;comerciante de Villa Tesei)');
+act_886.setSubtitle('El impacto de la suba de tarifas en los hogares'); 
+act_886.setLinkBack('http://www.clarin.com/sociedad/record-familias-pudo-ahorrar-energia_0_1609039307.html');
+act_886.setDescription('A pesar del incentivo de los descuentos, la mayoría consumió más que en 2015, cuando el otoño fue más cálido.');
+act_886.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/record-familias-pudo-ahorrar-energia_0_1609039307.html');
+
+var showShareBarUI_params_886=
+{ 
+containerID: 'shareQuote_886',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_886,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_886
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_886);
+ En Edenor, por su parte, informaron que en mayo el 73% de los usuarios residenciales sin Tarifa Social no pudo acceder a la bonificación por ahorro energético. Entre 1.985.148 hogares, apenas 232.343 excedieron la meta del 10% y 303.960 superaron la del 20%. “Hubo fríos muy tempranos y persistentes, y eso favoreció un consumo mayor. Hay que recordar que en muchos lugares de la Provincia no hay red de gas y la única forma de calefaccionar es con artefactos eléctricos”, dijeron en la empresa. Mirá también: La Justicia paró los aumentos de gas en todo el país Sobre el servicio de gas, ante la consulta, ni el Ministerio de Energía ni las distribuidoras facilitaron estadísticas. Pero fuentes con acceso a los datos confiaron a Clarín que el panorama es similar: en mayo y junio cerca del 85% de los hogares no pudo obtener la bonificación por ahorro de energía. Sucede que este otoño, según el Servicio Meteorológico Nacional (SMN), fue el más frío en el país desde 1984. Y Buenos Aires estuvo muy afectada. La Ciudad tuvo el cuarto abril más frío del último siglo. Aunque el mes decisivo fue mayo, cuya temperatura media fue de apenas 12,3 grados, frente a los 16,4 del año pasado.
+
+
+
+
+"Nos cuidamos más para no tener una sorpresa. Usamos sólo una estufa y a veces el horno, y llegaron $ 250 de gas. Antes eran $ 40.” (Felipa Zárate, 64 años, jubilada, de Villa Devoto)
+
+
+
+
+
+var act_88b = new gigya.socialize.UserAction();
+
+var emailBodyCustom_88b = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_88b.setTitle('"Nos cuidamos más para no tener una sorpresa. Usamos sólo una estufa y a veces el horno, y llegaron $ 250 de gas. Antes eran $ 40.” (Felipa Zárate, 64 años,&nbsp;jubilada, de Villa Devoto)');
+act_88b.setSubtitle('El impacto de la suba de tarifas en los hogares'); 
+act_88b.setLinkBack('http://www.clarin.com/sociedad/record-familias-pudo-ahorrar-energia_0_1609039307.html');
+act_88b.setDescription('A pesar del incentivo de los descuentos, la mayoría consumió más que en 2015, cuando el otoño fue más cálido.');
+act_88b.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/record-familias-pudo-ahorrar-energia_0_1609039307.html');
+
+var showShareBarUI_params_88b=
+{ 
+containerID: 'shareQuote_88b',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_88b,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_88b
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_88b);
+ Mirá también: Del calor al frío, sin escalas: casi no hubo otoño en el país “En Buenos Aires, mayo del 2015 había sido el sexto mayo más cálido de la historia. Y en este mayo tuvimos las máximas más bajas desde 1956. En ningún día en todo el mes la temperatura superó los 20 grados y eso sólo había pasado tres veces en la historia”, destacó Cindy Fernández, meteoróloga del SMN. “Este junio –agregó–, la media en la Ciudad fue 2,8 grados menor a la de junio del 2015 y en más de 10 días fue inferior a 10 grados, algo poco común.” En ese contexto, según la Fundación para el Desarrollo Eléctrico, el consumo de luz en Capital y el Gran Buenos Aires se disparó un 4% interanual en abril y un 14,1% mayo. Mirá también: Aunque junio arrancó muy frío, se espera un invierno normal en la Ciudad “Con el frío que hizo, la gran mayoría de la gente no sólo no pudo ahorrar. Debió gastar mucha más energía y en algunos casos eso hasta los hizo subir de categoría tarifaria, lo que agravó el impacto. Ahora empezaron a llegar facturas muy abultadas y la gente no sabe qué hacer”, comentó Paloma Bokser, vicepresidenta del Centro de Educación al Consumidor. El alza de tarifas y el consumo “recargado” por el mayor frío hicieron por ejemplo que, para una familia de Villa del Parque, el gasto bimestral de gas pasara en un año de $ 107 a $ 404. Aunque Clarín pudo comprobar que en varios casos los números resultan mucho mayores. En un cuatro ambientes de San Telmo, la factura pasó de $ 609 por bimestre a $ 2.454. Y para una familia tipo de Palermo que habita un tres ambientes, el salto fue de $ 576 a $ 6.337.
+
+
+
+
+"Antes pagaba $ 500 de luz por bimestre. Traté de ahorrar, pero vinieron $ 1.200 por un sólo mes. Con tanto frío, hubo que prender las estufas.”  (Maximiliano Salcedo, 27 años, empleado de Ezeiza)
+
+
+
+
+
+var act_0cc = new gigya.socialize.UserAction();
+
+var emailBodyCustom_0cc = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_0cc.setTitle('"Antes pagaba $ 500 de luz por bimestre. Traté de ahorrar, pero vinieron $ 1.200 por un sólo mes. Con tanto frío, hubo que prender las estufas.” &nbsp;(Maximiliano Salcedo, 27 años, empleado de Ezeiza)');
+act_0cc.setSubtitle('El impacto de la suba de tarifas en los hogares'); 
+act_0cc.setLinkBack('http://www.clarin.com/sociedad/record-familias-pudo-ahorrar-energia_0_1609039307.html');
+act_0cc.setDescription('A pesar del incentivo de los descuentos, la mayoría consumió más que en 2015, cuando el otoño fue más cálido.');
+act_0cc.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/record-familias-pudo-ahorrar-energia_0_1609039307.html');
+
+var showShareBarUI_params_0cc=
+{ 
+containerID: 'shareQuote_0cc',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_0cc,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_0cc
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_0cc);
+ Sin el ahorro energético, y sin fallos judiciales de por medio, para la gente la única forma de mantener parte de los subsidios al consumo es pedir la Tarifa Social, reservada para personas con planes sociales, discapacitados y jubilados que cobren hasta dos veces la mínima, entre otros estrictos requisitos. En Capital y el Gran Buenos Aires, ya acceden a ese beneficio 920.000 usuarios de energía eléctrica y unos 660.000 usuarios de gas natural, el doble de la cantidad que se había previsto en marzo.

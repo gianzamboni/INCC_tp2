@@ -1,0 +1,70 @@
+
+El presidente de la Confederación Episcopal Argentina (CEA), monseñor José María Arancedo, salió a explicar que las religiosas que viven en el Monasterio Nuestra Señora del Rosario de Fátima, dónde José López fue sorprendido cuando intentaba esconder casi U$S 9 millones,  "ciertamente no son monjas".  "Son mujeres consagradas, a quienes el obispo Di Monte autorizó el uso del hábito religioso y cierta estructura. Han vivido en comunidad en esa casa de retiros de General Rodríguez. No son específicamente monjas, pero para la opinión pública es difícil comprender la diferencia entre si son efectivamente monjas o laicas consagradas", detalló Arancedo en una entrevista del diario La Nación. Mirá también: Un nuevo video muestra a José López con los bolsos en el convento La explicación del titular de la CEA llega luego de conocerse un video que muestra como las mujeres religiosas que viven en ese establecimiento le abren la puerta al ex funcionario kirchnerista y lo ayudan a ingresar los bolsos con el dinero. Las imágenes llevaron a la Iglesia a reiterar su condena a "cualquier acto de corrupción", en especial "los que involucren a miembros de la iglesia", según afirmó Arancedo.
+
+"Es una asociación privada de fieles que comenzó a funcionar con la autorización del obispo e inició los trámites en Roma para ser reconocido como instituto de vida consagrada, pero eso no se completó", explicó el arzobispo, quien además reconoció que le corresponde a la Iglesia investigar lo sucedido y tomar medidas, y que en ese marco es el actual arzobispo de la diócesis, Agustín Radrizzani, quien está evaluando los hechos. Igualmente, aclaró que "los obispos no dependen de la Confederación Episcopal, sino directamente del Papa", dando a entender que la Santa Sede podría intervenir. Mirá también: El convento no está reconocido por el Vaticano "El Vaticano tiene capacidad para ello. Podría pedirle al obispo que investigue el hecho, que se constituya una comisión de investigación. Corre por cuenta de la Santa Sede, a través de la Nunciatura. El nuncio es el canal institucional y tengo entendido que habrá hecho conocer al Papa las novedades", resaltó Arancedo. 
+
+
+"La Iglesia no puede, por sentido corporativista, negar si han habido hechos. Siempre va a ser mi hermano obispo, pero si uno tiene que reconocer que ha actuado mal, lo tiene que hacer"
+
+
+
+
+
+var act_927 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_927 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_927.setTitle('"La Iglesia no puede, por sentido corporativista, negar si han habido hechos. Siempre va a ser mi hermano obispo, pero si uno tiene que reconocer que ha actuado mal, lo tiene que hacer"');
+act_927.setSubtitle(' '); 
+act_927.setLinkBack('http://www.clarin.com/politica/iglesia-ratifica-monasterio-General-Rodriguez_0_1614438577.html');
+act_927.setDescription('Lo explicó el presidente de la Confederación Episcopal Argentina en una entrevista. ');
+act_927.addActionLink('VER MÁS', 'http://www.clarin.com/politica/iglesia-ratifica-monasterio-General-Rodriguez_0_1614438577.html');
+
+var showShareBarUI_params_927=
+{ 
+containerID: 'shareQuote_927',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_927,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_927
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_927);
+ Sobre la posibilidad de que la investigación comprometa la actuación del fallecido arzobispo Rubén Héctor Di Monte, creador de esa comunidad religiosa, quién además supo mantener aceitados vínculos con el poder, sobre con los kirchneristas, Arancedo fue categórico al concluir que "la Iglesia no puede, por sentido corporativista, negar si han habido hechos. Siempre va a ser mi hermano obispo, pero si uno tiene que reconocer que ha actuado mal, lo tiene que hacer". Mirá también: Caso López: citan a indagatoria a la Hermana Inés y a la esposa del ex funcionairo "Lo corporativo tiene un límite y ese límite son los valores de la verdad y la justicia. A uno le puede doler, pero si ha cometido un acto ilícito, tengo que reconocerlo, decirlo y lamentarlo. No se lo puede encubrir por un sentido de cuerpo. Cuando se pierde ese límite, lo corporativo de convierte en una especie de sociedad cerrada y eso no corresponde", sentenció Arancedo.  

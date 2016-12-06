@@ -1,0 +1,18 @@
+
+El club San Cirano suspendió a los tres rugbiers que agredieron a un linyera por la calle y lo filmaron. El video, subido por un usuario de Facebook, se viralizó rápidamente y generó indignación.  En el video se ve a un joven que empuja a un hombre que vive en la calle, corre y luego se sube a un auto en movimiento. El joven fue identificado como Julián Cirigliano y es rugbier del club de Villa Celina. Otros dos jugadores y socios, cuyo nombre no trascendió, participaron con él de la agresión y también fueron suspendidos. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Anoche, la Comisión Directiva del club emitió un comunicado en el que repudia “enérgicamente todo hecho de violencia, en términos generales, y particularmente este hecho”. En él también informa que los tres fueron suspendidos “por considerar que su accionar no representa los valores que promueve nuestra institución”. También informaron que los tres jóvenes aceptaron “realizar tareas comunitarias, como acción reparadora” para lo que van a colaborar con las fundaciones Amigos en el Camino y Frío Cero, que atienden a personas en situación de calle. En declaraciones a los medios, Diego Conde, responsable del rugby de San Cirano, insistió en que todo el club repudia la agresión y explicó que los jóvenes fueron "suspendidos de por vida" para representar a la institución, pero que no los echaron porque eso "no resolvería el problema. Sería más fácil sacárselo de encima, pero nos involucramos". Contó que el joven que se ve en el video jugaba en una división del plantel superior y que tanto él como sus compañeros habrían estado alcoholizados al momento del ataque.   

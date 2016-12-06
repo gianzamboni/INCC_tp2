@@ -1,0 +1,50 @@
+
+“Si antes fueron los grupos armados dentro de las instituciones militares latinoamericanas, ahora es con aparatos judiciales y mediáticos”, es la frase que Cristina Kirchner eligió para publicar en Twitter, sobre el supuesto nuevo "Plan Cóndor" contra ex mandatarios latinoamericanos. La ex presidenta publicó una serie de mensajes en su cuenta de Twitter, expresando su preocupación por la editorial del diario El Telégrafo, de Ecuador. "Me impresionó, por su exactitud", sostuvo en uno de sus tuits, respecto del texto titulado: "El nuevo Plan Cóndor ahora apunta a Lula y a Cristina Fernández". El Plan Condor se trató de una coordinación de los regímenes dictatoriales en América del Sur, con ayuda de los Estados Unidos, entre 1970 y 1980 y que consistió en el seguimiento, vigilancia, detención, tortura, traslados entre países y desaparición o muerte de personas" consideradas por "subversivas". Mirá también: El Gobierno descarta que Cristina vaya presa y ya la ve como rival 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/CFKArgentina/status/777486376858247169",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77748637685824716")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El texto del medio ecuatoriano es una encendida defensa de los "gobiernos progresistas", a través de señalar a la "hegemonía neoliberal" que busca "acabar con todo un período de avances sociales muy significativos". Y pone como ejemplo a Lula, en Brasil, quien "vive con la angustia de que es el  hombre más popular de ese país"; y a la ex mandataria argentina, que días atrás fue citada a indagatoria por una causa de corrupción. Cristina subraya también en una publicación del diario Perfil, que habla de un supuesto acuerdo entre el empresario K Lázaro Báez y el fiscal Marijuan para inculparla.  Mirá también: La AMIA y los Kirchner, en el mismo juzgado 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/CFKArgentina/status/777487786983170052",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77748778698317005")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Y luego, recuerda el escándalo de los audios de Marijuan y lo acusa de tener relaciones con "ex servicios de inteligencia". Finalmente, se agarra del caso de los Panamá Papers, donde según la ex jefa de Estado "hay muchos funcionarios y nadie preso". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/CFKArgentina/status/777489198114803712",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77748919811480371")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Hubo más de US$ 1.000 millones y quedaron apenas US$ 30.000

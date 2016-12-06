@@ -1,0 +1,162 @@
+
+Los dichos de Gustavo Cordera generaron una fuerte repercusión en Twitter, donde cientos de personas salieron a repudiar las declaraciones que realizó el lunes durante una charla con alumnos de la escuela TEA en la que afirmó que “hay mujeres que necesitan ser violadas para tener sexo”. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/SoliChacha/status/763352009483386880",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76335200948338688")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Ofensivas declaraciones de Gustavo Cordera sobre violaciones Las críticas no se hicieron esperar y bajo el hashtag #cordera durante la mañana miles de personas expresaron su indignación, entre ellas varios famosos y también políticos. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/MtNold/status/763352006241218560",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76335200624121856")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El rechazo no fue sólo hacia las palabras  del músico, sino también hubo repudio a que la escuela de periodismo haya salido a cuestionar la difusión de esa charla (porque afirman que era confidencial) en lugar de condenar lo que dijo el invitado. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/francoderadio/status/763361841317806082",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76336184131780608")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: La insólita defensa de Cordera, entre el psicodrama y Picasso 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/MMartinelliMas/status/763351982979551232",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76335198297955123")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ También hubo duras críticas para la directora de TEA, Ingrid Beck, quien cuando comenzaron a circular las declaraciones de Cordera publicó una serie de tuits en los que calificó los dichos del músico como "impactantes". También afirmó que no estaba de acuerdo con los dichos de Cordera pero evaluó que  para los estudiantes "fue un momento periodístico interesante". También recordó que una de las políticas de la escuela es que "las declaraciones de los entrevistados en la escuela no son para publicar". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/MariaSol666/status/763363046941130752",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76336304694113075")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Hoy, la también directora de Revista Barcelona admitió que el comunicado de la escuela de ayer fue "un poco condescendiente con Cordera" y que este caso los llevó a replantearse algunas políticas de la escuela. Y cuestionó las reacciones contra ella en Twitter: "Noto que hay mucha gente más interesada en condenarme a mí que a Cordera", tuiteó hoy Beck. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/DuroPaTuitear/status/763355906574807040",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76335590657480704")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/carlosDesantosT/status/763351942034812928",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76335194203481292")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/emacibotti/status/763355711984328704",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76335571198432870")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/CMujeresPBA/status/763355646775394304",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76335564677539430")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/lulibue/status/763355556165869568",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76335555616586956")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 

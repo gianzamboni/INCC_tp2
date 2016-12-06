@@ -1,0 +1,22 @@
+
+Un hombre cuyo perro de raza pitbull mordió y mató a un nene de dos años, en la localidad bonaerense de Alejandro Korn, en 2014, fue condenado a ocho años de cárcel. En un fallo inédito, el Tribunal Oral Criminal N° 4 de La Plata lo encontró culpable del delito de homicidio, como si él mismo hubiera matado al chico.  La sentencia recayó sobre Horacio Fernando González, de 49 años, por el delito de "homicidio simple con dolo eventual", la calificación penal que la fiscal de juicio Claudia Cendoya había establecido en su alegato.
+
+Familiares de Santiago, en el tirbunal (Mauricio Nievas) El veredicto fue dado a conocer por lectura de la secretaria del tribunal, ya que los jueces del tribunal, Emir Caputo Tártara, Juan Carlos Bruni y Julio Alegre, al igual que el condenado, no estuvieron presentes en la audiencia. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El hecho ocurrió al mediodía del 29 de mayo de 2014 cuando González ató al volante de un coche abandonado al perro, sin bozal ni cartel de precaución, sobre la calle Bonpland al 900, de Alejandro Korn, al sur del conurbano bonaerense. En ese momento Santiago Veer jugaba en la vereda con otros chicos y al acercarse al automóvil, que ellos usaban de "casita", resultó atacado por el pitbull, que lo mordió en la cara y el cuello, causando heridas que desembocaron en la muerte. Mirá también: Tenía 2 años, estaba jugando y lo mató el pitbull del vecino Gabriela Edith Pacheco, mamá de la víctima, testimonió en el juicio que "estaba en mi casa, escuché gritos del señor González, salgo corriendo y veo que lo tenía a mi hijo en brazos lleno de sangre". "Empecé a gritar hasta que apareció mi mamá. Ella agarró a mi nene. El le dijo: 'ya no hay nada que hacer'", agregó la mujer. Durante el juicio, los familiares del niño aseguraron que González, propietario de al menos ocho perros de esa raza, ya había sido advertido y denunciado en más de una oportunidad porque sus perros eran muy violentos.
+
+Pitbull, la raza del perro que atacó y mató al nene Luego del ataque y que los familiares trasladaran a Santiago al hospital de San Vicente, Fernández tomó en su casa un cuchillo y sacrificó al animal. Al otro día los vecinos incendiaron su casa y debió mudarse. La familia Veer estuvo acompañada durante el proceso judicial por las Madres del Dolor en conjunto con la Unidad de Intervención en Victimología del ministerio de Justicia y Derechos Humanos. Fuente: Telam 

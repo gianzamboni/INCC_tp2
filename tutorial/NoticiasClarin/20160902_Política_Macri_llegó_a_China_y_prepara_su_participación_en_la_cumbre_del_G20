@@ -1,0 +1,18 @@
+
+El presidente Mauricio Macri arribó anoche pasadas las 23 (hora de Argentina) a la República Popular China, donde hoy mantendrá un encuentro bilateral con su par de ese país, Xi Jinping, tras lo cual habrá una reunión con el presidente ruso, Vladimir Putin, en el marco de su participación en la cumbre del G20. El vuelo que trasladaba al presidente aterrizó en el aeropuerto de Hangzhou, una importante ciudad y capital de la provincia de Zhejiang, China, procedente de Qatar, donde Macri mantuvo ayer un encuentro con el emir de ese país, Tamim bin Hamad Al Thani. Acompañado por la primera dama, Juliana Awada, el primer mandatario fue recibido por una comitiva especial que encabezó Diego Guelar, embajador argentino en el país asiático. El embajador chino en la Argentina, Wan Ming Yan, también se hizo presente en el lugar. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/adriilopez2014/status/771589105100599296",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77158910510059929")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Según confirmaron fuentes oficiales, Macri tiene previsto un encuentro bilateral con su par de la República Popular China, Xi Jinping, que se llevará a cabo hoy en la Casa de los Huéspedes del Estado del Lago Oestei. Durante su estadía en China, que se extenderá hasta el lunes, el Presidente tiene previsto reunirse el sábado con su par de Rusia, Vladimir Putin. También, Macri tiene agendado encuentros con los primeros ministros de la India, Narendra Modi; de Corea del Sur, Hwang Kyo-ahn; con la canciller alemana Angela Merkel, y con el presidente australiano, Malcolm Turnbull, según consignaron las fuentes. Fuente: Télam 

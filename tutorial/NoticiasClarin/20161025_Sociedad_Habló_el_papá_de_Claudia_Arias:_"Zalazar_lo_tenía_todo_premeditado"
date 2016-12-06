@@ -1,0 +1,36 @@
+
+Rolo Arias, el papá de Claudia Airas (30) una de las tres mujeres asesinadas en Mendoza, habló esta mañana con la prensa y dijo estar destrozado por lo que sucedió. Además aseguró que el instructor de taekwondo y acusado de la masacre -Daniel Zalazar- tenía todo calculado: “Estaba todo premeditado, hasta el más mínimo detalle”.  El hombre con la voz entrecortada insistió con la idea de que no había tenido señales de que Zalazar era violento y menos que podía llegar a cometer un crimen: “Nunca imaginamos que esto podía pasar. No hubo señales previas de que podía suceder algo así. Por eso estamos destrozados, porque lo tenía todo premeditado, hasta el más mínimo detalle”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Consultado en el programa radial Guetap, en Radio Vorterix, sobre el estado de salud de sus nietos que también fueron atacados por el agresor dijo que la beba de 9 meses "está evolucionado mejor", mientras que el niño de 11 años está delicado y en el transcurso de la mañana lo operarán: “Hay que orar para que salga todo bien”. Mirá también: En la Procuradoría de Mendoza sostienen que "Zalazar es imputable"  Arias tambien habló sobre lo que siente en este momento: “Fuimos a reclamar a las marchas por #NiUnaMenos y ahora nos tocó a nosotros. Ahora no me pueden venir a decir que le van a dar perpetua porque en 10 años seguro sale. Hay que tener leyes que protejan a las mujeres”. Mirá también: Dolor y marcha tras el triple femicidio: “Nos destrozaron como familia”  Quien también habló esta mañana fue el médico del Hospital Central que atendió al presunto femicida cuando llegó con el argumento de que había sido asaltado: “Llegó diciendo que le habían robado y por eso tenía la mano lastimada”, relató Jorge Pérez quien recibió a Zalazar en la guardia. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_di3sn7ji",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_di3sn7ji"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_di3sn7ji").after(scriptEl);
+  Allí, justo cuando estaba por llevarlo al quirófano, fue descubierto por personal de investigaciones que ya lo buscaba. “En ese momento piden refuerzos y lo esposaron. Estuvo algunos minutos más en la guardia pero luego se lo llevaron a la comisaría”, agregó el doctor.

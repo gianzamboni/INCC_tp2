@@ -1,0 +1,205 @@
+
+
+
+
+
+"Aumentan cada semana”
+
+
+
+
+
+var act_a24 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_a24 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_a24.setTitle('&quot;Aumentan cada semana&rdquo;');
+act_a24.setSubtitle('Consumo'); 
+act_a24.setLinkBack('http://www.clarin.com/sociedad/suba-remedios-farmaceutico-clientes_0_1541245891.html');
+act_a24.setDescription('Cuentan c&oacute;mo es el impacto de las subas, c&oacute;mo baj&oacute; la demanda y de qu&eacute; manera se adaptan para no dejar de comprar los medicamentos que necesitan.');
+act_a24.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/suba-remedios-farmaceutico-clientes_0_1541245891.html');
+
+var showShareBarUI_params_a24=
+{ 
+containerID: 'shareQuote_a24',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_a24,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_a24
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_a24);
+ “La situación asusta porque cada semana aumenta algo”, afirma Diego Pucheta que es farmacéutico hace 20 años. “Tenemos medicamentos que aumentaron un 45% desde fines del año pasado. Los que son de necesidad cotidiana no pueden estar inalcanzables para el bolsillo de la gente. Tendría que haber una canasta básica de medicamentos”, se ilusiona. Hace un mes su farmacia suprimió el 10% de descuento que ofrecía porque “ya no hay forma de bancarlo”. La mayoría “pregunta precios y se va sorprendida“. Mientras, Diego aguanta un broncoespasmo sin comprar Optamox porque “le daría la razón a los precios que imponen los laboratorios”.  
+
+
+
+
+"Ahora compro menos"
+
+
+
+
+
+var act_513 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_513 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_513.setTitle('&quot;Ahora compro menos&quot;');
+act_513.setSubtitle('Consumo'); 
+act_513.setLinkBack('http://www.clarin.com/sociedad/suba-remedios-farmaceutico-clientes_0_1541245891.html');
+act_513.setDescription('Cuentan c&oacute;mo es el impacto de las subas, c&oacute;mo baj&oacute; la demanda y de qu&eacute; manera se adaptan para no dejar de comprar los medicamentos que necesitan.');
+act_513.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/suba-remedios-farmaceutico-clientes_0_1541245891.html');
+
+var showShareBarUI_params_513=
+{ 
+containerID: 'shareQuote_513',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_513,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_513
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_513);
+ Renée Lati fue a la farmacia para comprar Ibupirac para sus cuatro hijos a los que “siempre les agarra algo y se contagian entre ellos”. “Ahora compro menos, me llevo de a una botellita porque no puedo más, aumentó. Me cuesta $175 y me dura una semana”. Además, hace varios meses que se trata con antibiótico un hongo en el pie. “El año pasado me salía 300 pesos y ahora, con el descuento, 361”. Saca cuentas rápidas y estima que para cuando termine la curación y, “si todo sigue así, “le costará 400 pesos.
+
+
+
+
+"Es algo desesperante”
+
+
+
+
+
+var act_118 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_118 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_118.setTitle('&quot;Es algo desesperante&rdquo;');
+act_118.setSubtitle('Consumo'); 
+act_118.setLinkBack('http://www.clarin.com/sociedad/suba-remedios-farmaceutico-clientes_0_1541245891.html');
+act_118.setDescription('Cuentan c&oacute;mo es el impacto de las subas, c&oacute;mo baj&oacute; la demanda y de qu&eacute; manera se adaptan para no dejar de comprar los medicamentos que necesitan.');
+act_118.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/suba-remedios-farmaceutico-clientes_0_1541245891.html');
+
+var showShareBarUI_params_118=
+{ 
+containerID: 'shareQuote_118',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_118,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_118
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_118);
+ “Mi marido consume siete medicamentos por mes. Nos costaban 1.200 pesos en octubre y ahora, 2.800”, explica Ana Cortés que tiene 53 años y un marido con un ACV. “Tiene que tomar Lotrial de 20 miligramos, Epamin, Tervalon, Clonax y 2 aspirinetas por día, si no, no vive”. Ella es desocupada y su marido jubilado; sus únicas estrategias son “comer menos carne” o alimentos caros. “EL PAMI nos hace 40 por ciento de descuento pero igual no alcanza, es desesperante la situación”, concluye.

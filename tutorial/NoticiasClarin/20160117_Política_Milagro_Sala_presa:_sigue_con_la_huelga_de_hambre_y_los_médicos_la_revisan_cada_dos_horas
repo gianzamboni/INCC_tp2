@@ -1,0 +1,17 @@
+
+Milagro Sala cumplió su primer día presa en San Salvador de Jujuy, luego de ser detenida por instigar a la violencia. Sigue con la huelga de hambre que inició apenas la detuvieron y cada dos horas es revisada por un equipo médico en la celda común que ocupa en la Comisaría de la Mujer de esa ciudad. Mientras, sigue la tensión por el acampe frente a la Casa de Gobierno provincial."Ella está bien, con muy buen estado de ánimo", sostuvo esta mañana el abogado de la dirigente kirchnerista, Luis Paz. Y en diálogo con la FM Rock and Pop confirmó que "está siendo monitoreada por los médicos del SAME local cada dos horas para controlarle los valores de presión". La dependencia policial donde está Sala permanece con una fuerte custodia.Leé también Morales presentará mañana más denuncias penales contra Milagro Sala por el destino de $ 29 millonesEn las últimas horas, la principal novedad en la causa fue el cambio de juez. Quedó a cargo el magistrado de Control Penal, Gastón Mercau, quien reemplazó por licencia a Raúl Gutiérrez, el magistrado que firmó la orden de arresto luego de una solicitud de la fiscal Liliana Fernández de Montiel.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

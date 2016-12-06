@@ -1,0 +1,20 @@
+
+Descontrol, tiros, botellazos, balas de goma, picanas, cuchillos, corridas, un muerto. Lo que pretendía ser una fiesta para recibir la primavera terminó en tragedia en una casaquinta de Moreno. Durante estas últimas horas se conocieron algunos testimonios de chicos que estuvieron allí. Entre ellos, una youtuber contó en primera persona cómo fue la fiesta Proyecto XXX: “La experiencia que viví no se la deseo a nadie”, dijo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ El video subido por Belén Giménez tiene ya más de 10 mil visualizaciones en menos de un día, y en los 10 minutos que dura su testimonio se accede a una versión de la locura que se desató en la fiesta. “A las dos de la mañana se armó una ronda gigante y empezaron a gritarse entre chicos de diferentes zonas. Alrededor había pibes que querían 'apurar', incentivar, a que se agarren a piñas”. La experiencia que viví no se la deseo a nadie.— Belen Gimenez (@Belen_Giimenez) 22 de septiembre de 2016
+ También leé: "La dueña de la quinta donde se hizo la fiesta Proyecto XXX: 'Yo misma hice de patovica'" Nunca más voy a una joda, de puro ojete nos salvamos con mis amigos.— Belen Gimenez (@Belen_Giimenez) 21 de septiembre de 2016
+ La joven cuenta que en ese momento se escondió detrás de un alambrado que estaba en la pileta y que desde ahí vio como empezaron a volar botellas de vidrio para todos lados: “Nos vieron que estábamos ahí con otro grupo de chicas y nos empezaron a tirar piedras. Algunos tenían picanas, un sonido que no puedo sacarme de la cabeza”, cuenta en su relato. También leé: "Las fotos de la fiesta Proyecto XXX: así quedó la casa donde se realizó la fiesta." Más tarde Belén dice que escaparon y se metieron dentro de un baño de la casaquinta y se quedaron allí hasta que llegó la Policía, pero fue en ese momento donde todo empeoró: “Creíamos que estábamos a salvo pero no fue así. Nos hicieron salir de la quinta y la calle eran corridas por todos lados y escuchar disparos. Nos quisieron robar y algunas de las chicas entraban a las casas de los vecinos para pedir ayuda”, dice. Y agrega, ya un poco más fría: “Ahora que lo pienso y lo cuento, fue el momento más largo de mi vida”. 

@@ -1,0 +1,70 @@
+
+El abogado de Antonio "Jaime" Stiuso, Santiago Blanco Bermúdez, reconoció hoy que el ex espía "no tiene pruebas directas" de que al fiscal Alberto Nisman lo mataron, sino "una interpretación de los precedentes y motivos" que habrían llevado al presunto homicidio. 
+
+
+""Stiuso no tiene pruebas directas de que a Nisman lo mataron, tiene una interpretación", indicó el abogado del ex hombre fuerte de la SIDE.
+
+
+
+
+
+var act_482 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_482 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_482.setTitle('&quot;&quot;Stiuso no tiene pruebas directas de que a Nisman lo mataron, tiene una interpretaci&oacute;n&quot;, indic&oacute; el abogado del ex hombre fuerte de la SIDE.');
+act_482.setSubtitle('LA MUERTE DE NISMAN'); 
+act_482.setLinkBack('http://www.clarin.com/politica/Stiuso-pruebas-directas-Nisman-interpretacion_0_1532846834.html');
+act_482.setDescription('El abogado Blanco Berm&uacute;dez habl&oacute; tras la larga declaraci&oacute;n del ex esp&iacute;a ante la Justicia. Y dijo que Stiuso &ldquo;decidi&oacute; volver y declarar una vez que Cristina estuvo fuera del Gobierno&quot;.');
+act_482.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Stiuso-pruebas-directas-Nisman-interpretacion_0_1532846834.html');
+
+var showShareBarUI_params_482=
+{ 
+containerID: 'shareQuote_482',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_482,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_482
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_482);
+ Mirá también: Según Stiuso, a Nisman “lo mató un grupo relacionado con el Gobierno” de Cristina
+
+Consultado sobre si es verdad que hace un año Stiuso había declarado ante la fiscal Viviana Fein que a Nisman lo habían matado y que la funcionaria no lo tuvo en cuenta, respondió que lo que había dicho su defendido es que la muerte del titular de la Unidad Especial AMIA "estaba vinculada a su trabajo, que no cabía ninguna duda", pero agregó que "pensar que ese pasaje fue borrado" de la declaración "es muy especulativo". Mirá también la Fotogalería en Hd Mirá también: El curioso argumento de la jueza Palmaghini para pedir el traslado de la causa En declaraciones a radio Vorterix, el letrado dijo que Stiuso "no tiene pruebas directas de que a Nisman lo mataron" y remarcó que lo que tiene el ex espía es "una interpretación de los precedentes y motivos que llevan a que Nisman lo hayan matado y por qué". Mirá también: La pregunta del millón: ¿Quién tomaría la causa en Comodoro Py?

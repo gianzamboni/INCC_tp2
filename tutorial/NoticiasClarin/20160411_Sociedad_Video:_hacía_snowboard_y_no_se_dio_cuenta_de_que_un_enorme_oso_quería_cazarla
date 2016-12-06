@@ -1,0 +1,18 @@
+
+"Estaba escuchando a Rihanna y no me di cuenta de que había un oso detrás mío." Sorprendida y aliviada, Kelly Murphy publicó en su canal de Youtube un video donde se la ve haciendo snowboard en las montañas de Hakuba 47, un centro de esquí de Japón, mientras un enorme oso la persigue. Por lo que se puede ver en el video, a los 37 segundos de comenzada la filmación, el oso aparece detrás de Kelly y por medio minuto corre con el claro objetivo de alcanzarla. Mientras ella canta el hit Work, de Rihanna, en el segundo 50 parece muy cerca de lograrlo. Solo se da por vencido cuando Kelly toma más velocidad y aún cantando se aleja del peligro. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Hakuba 47 es un importante centro de esquí japonés, que fue sede de los Juegos Olímpicos de invierno de 1998. Allí es habitual que al final del invierno aparezcan algunos osos hambrientos que se despiertan de su hibernación. Pero esta parece ser la primera vez que se ve uno en plena temporada alta. Al menos la primera vez que se puede filmar a uno.  Kelly Murphy, que está pasando allá unas vacaciones con amigas, contó que le avisó a los responsables del resort de la aparición del oso. "No sé si me entendieron ni si harán algo, así que tengan cuidado", advierte. "¡Casi me come un oso!" Aunque algunos dudan de la veracidad del video, por ahora ninguna fuente oficial del resort salióa desmentirlo. Mirá también: Video: el peluche astronauta que viajó a la estratósfera y nunca volvió

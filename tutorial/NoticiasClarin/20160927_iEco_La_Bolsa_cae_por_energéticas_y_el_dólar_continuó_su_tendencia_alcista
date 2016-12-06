@@ -1,0 +1,134 @@
+
+La Bolsa porteña retrocedía 0,5% arrastrada por las acciones energéticas, en una jornada en la que el precio del crudo mundial caía debido a las pocas probabilidades de que se dé un acuerdo entre la OPEP y Rusia, para congelar o recortar la producción de petróleo. Por otro lado, el dólar minorista continuó su tendencia alcista y ganó dos centavos, a $ 15,44, en un día en el que se negociaron US$ 261 millones. Según describió ABC Mercado de cambios en su reporte diario, la divisa "sigue operando a bajos volúmenes, ya que la oferta de exportadores se ha achicado este mes y los bancos siguen demandando para recomponer posiciones". 
+
+
+Según alertó la OMC el crecimiento mundial será el más lento desde la crisis de 2008.
+
+
+
+
+
+var act_a18 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_a18 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_a18.setTitle('Según alertó la OMC el crecimiento mundial será el más lento desde la crisis de 2008.');
+act_a18.setSubtitle('Mercados'); 
+act_a18.setLinkBack('http://www.clarin.com/ieco/economia/Bolsa-energeticas-continuo-tendencia-alcista_0_1658234319.html');
+act_a18.setDescription('El descenso del crudo motivaba los retrocesos. El billete norteamericano avanzó 2 centavos, a $ 15,44.');
+act_a18.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/economia/Bolsa-energeticas-continuo-tendencia-alcista_0_1658234319.html');
+
+var showShareBarUI_params_a18=
+{ 
+containerID: 'shareQuote_a18',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_a18,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_a18
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_a18);
+  Hoy se licitan las lebacs (letras del Banco Central), que es -por ahora- la herramienta de la autoridad monetaria para absorber pesos de la economía y controlar la inflación. Desde el mercado esperan una nueva baja en el interés que paga el plazo más corto, que se encuentra en 26,75% anual. En el plano internacional la Organización Mundial del Comercio (OMC) rebajó este martes sus previsiones sobre el comercio mundial y advirtió que en 2016 el crecimiento será el más lento desde la crisis de 2008, una situación "grave" que debe servir de señal de alarma. 
+
+
+Las 89 empresas que cotizan en la Bolsa porteña tuvieron una ganancia global 56% menor durante el primer semestre.
+
+
+
+
+
+var act_a9a = new gigya.socialize.UserAction();
+
+var emailBodyCustom_a9a = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_a9a.setTitle('Las 89 empresas que cotizan en la Bolsa porteña&nbsp;tuvieron una ganancia global 56% menor durante el primer semestre.');
+act_a9a.setSubtitle('Mercados'); 
+act_a9a.setLinkBack('http://www.clarin.com/ieco/economia/Bolsa-energeticas-continuo-tendencia-alcista_0_1658234319.html');
+act_a9a.setDescription('El descenso del crudo motivaba los retrocesos. El billete norteamericano avanzó 2 centavos, a $ 15,44.');
+act_a9a.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/economia/Bolsa-energeticas-continuo-tendencia-alcista_0_1658234319.html');
+
+var showShareBarUI_params_a9a=
+{ 
+containerID: 'shareQuote_a9a',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_a9a,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_a9a
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_a9a);
+ En Argentina el Merval bajaba 0,5%, con retrocesos de Petrobras Brasil (-0,9%), YPF (-1,3%), San Miguel (-2,4%), y Comercial del Plata (-1,3%). Según informó hoy informó el Instituto Argentino del Mercado de Capitales (IAMC), las 89 empresas domésticas que cotizan en la Bolsa de Comercio de Buenos Aires registraron en conjunto una ganancia global de US$ 1.343 millones durante el primer semestre, un 56% menos que en enero-junio del año pasado.  A entender del Instituto, la explicación del recorte "podría haber sido la depreciación del tipo de cambio", de 65,8% entre el 30 de junio de 2015 y doce meses después (pasó de $ 9,09 a $ 15,07).  El Petróleo WTI bajaba 2,7%, a US$ 44,77 el barril, mientras que el Brent retrocedía 2,25%, a US$ 45,97.

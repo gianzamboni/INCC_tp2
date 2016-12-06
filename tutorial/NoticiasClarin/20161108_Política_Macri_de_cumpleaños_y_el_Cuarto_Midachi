@@ -1,0 +1,73 @@
+
+Happy Birthday Sábado a la noche, el cumpleaños del titular del Banco Nación transcurría con serenidad, en medio de exquisitos canapés y buen vino hasta que la llegada del invitado principal alteró el clima lounge de la cita: el ingreso del Presidente de la Nación conmocionó a los presentes y sobre todo, al cumpleañero Carlos Melconian. 
+
+
+Mauricio Macri ingresó al Faena Art, acompañado de la elegantísima Juliana Awada, se abrazó con el hoy banquero nacional y dio así, un fuerte gesto en la llamada “interna de los economistas” del Gobierno.
+
+
+
+
+
+var act_605 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_605 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_605.setTitle('Mauricio Macri ingresó al Faena Art, acompañado de la elegantísima Juliana Awada, se abrazó con el hoy banquero nacional y dio así, un fuerte gesto en la llamada “interna de los economistas” del Gobierno.');
+act_605.setSubtitle('Por los pasillos'); 
+act_605.setLinkBack('http://www.clarin.com/politica/Macri-cumpleanos-Cuarto-Midachi_0_1682831749.html');
+act_605.setDescription('El Presidente jugó en la interna de los economistas. Candidatos tandileros. El hermano de Del Sel.');
+act_605.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Macri-cumpleanos-Cuarto-Midachi_0_1682831749.html');
+
+var showShareBarUI_params_605=
+{ 
+containerID: 'shareQuote_605',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_605,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_605
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_605);
+  Macri se mostró afable y sereno, conversó amigablemente con quienes lo saludaban, algo que pudo hacer por lo íntimo del festejo. Pocos miembros del Gabinete nacional -donde sobresalía el ministro de Modernización y amigo personal de Macri, Andrés Ibarra-, los funcionarios bonaerenses Hernán Lacunza y Edgardo Cenzón (quienes intercambiaban data con los economistas Rodolfo Santángelo y Juan Carlos De Pablo, hoy coequiper de Alejandro Fantino en “Animales Sueltos”) y Marcelo Longobardi y su esposa Laura, junto a Willy Kohan, quienes aprovecharon que al otro día no madrugaban y departían con Rosendo Fraga y el infectólogo Daniel Stamboulian. Esa charla la seguían de cerca, desde los amigos de la vida de Melconian (los de Racing. los del barrio y obviamente, sus hijos) hasta por los banqueros Jorge Brito y José Pardo, del Macro y del Mariva: Entre todos los presentes, primó la lectura del gesto político de Macri hacia su amigo Melconian. El cierre estuvo a cargo de “Los Decadentes”, momento que el Presidente aprovechó para “tirar unos pasos” con Juliana. Un osito de peluche de Taiwán, una cáscara de nuez en el mar. suavecito como la alfombra de piel, delicioso como el dulce de leche...
+
+Peronistas de Vidal  Otros dirigentes peronistas -desencantados hace tiempo con CFK- están embelesados con otra dama. Ese grupo de dirigentes bonaerenses se juntó a comer un cordero -pacientemente cocinado- en una quinta del partido de Merlo. Allí concurrieron, entre otros, dirigentes como el histórico quilmeño Osvaldo Mércuri, Octavio Frigerio (director en YPF), el ex intendente de Malvinas Argentinas Jesús Cataldo Cariglino, el diputado Hugo Oroño, el embajador Augusto Vivot, los abogados Julián Cigna y Walter Bonavera, Alberto Auruccio (secretario de Gobierno de Almirante Brown) y Aníbal Aseff del Banco Nación y ex senador del PRO. El grupo -que aún no fue bautizado- emitió su declaración fundacional con frases como “los que fueron parte del problema -Cristina, Scioli, Massa - hoy pretenden reciclarse para resguardar sus ambiciones personales”. Ahora, estos peronistas planean juntarse en 15 días, en San Miguel, donde estrenarán nombre. ¿Y si le ponen “Los Corderos de Perón”?. #Ponele 
+
+Mirá también: El jardín de Vidal, el 15 de Randazzo y la decisión de Cristina Otro Del Sel  Mientras tanto en Santa Fe, el alejamiento de la política de Miguel Del Sel es noticia en el distrito donde el humorista arañó la gobernación, de la mano del PRO. En las oficinas del socialista Miguel Lifschitz, respiran aliviados por dos razones: una, porque el principal oponente ya no participará en otra pelea por el sillón máximo de Santa Fe. Y la otra, porque “El Cuarto Midachi” no deja sus tareas sino que continuará en la gestión. ¿Cómo es eso? Es que Marcelo Del Sel -hermano de Miguel- es desde el año 2006 chofer y revista en planta permanente. Según “dicen”, Marcelo “es un muy buen tipo, excelente compañero de laburo y lo quieren todos en el área de Comunicación Social”, según aseguraron en esa dependencia santafesina. ¿Qué opinará Doña Tota?.
+

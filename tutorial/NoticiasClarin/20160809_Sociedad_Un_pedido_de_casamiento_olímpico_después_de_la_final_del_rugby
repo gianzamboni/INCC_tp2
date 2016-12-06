@@ -1,0 +1,18 @@
+
+Australia venció a Nueva Zelanda en la final del rugby seven femenino y se quedó con la medalla dorada en Río, pero todo eso quedará en segundo plano en relación a la historia de amor que se concretó después de terminado ese partido. Es que los flashes y aplausos se los llevó una integrante del equipo de organización de los Olímpicos, Marjorie Enya quien una vez finalizada la premiación decidió invadir el campo de juego y pedirle matrimonio a su pareja y jugadora la selección de rugby de Brasil, Isadora Cerullo.  “Tan pronto como supe que ella estaba en la cancha pensé: ‘tengo que hacer esto especial'”, declaró Enya y así de emocionante fue. Una vez dispersada parte de los presentes en el campo de juego, la organizadora ingresó con un anillo en la mano y le pidió matrimonio. Cerullo, con lágrimas en los ojos, aceptó y generó la euforia de todos los presentes. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ La pareja intercambió anillos y sellaron la unión con un beso, lo que seguramente será una de las imágenes de los Juegos Olímpicos. Vale recordar que el matrimonio igualitario, que permite los lazos entre personas del mismo sexo, fue legalizado en Brasil hace unos pocos años. Mirá también: La Garota de Ipanema, enojada porque no desfiló en la inauguración de los Juegos  Pero no fue la primera vez que el mundo del rugby sorprende con una historia de amor. En el mundial del año pasado, luego del partido entre Irlanda y Rumania, Florin Surugiu, medio scrum del seleccionado rumano, le propuso casamiento a su novia en el césped y celebró el "sí" junto con todo el equipo.   El rugbier de 30 años hizo bajar al campo de juego a su pareja y, delante de sus compañeros, rivales e hinchas, se arrodilló para pedirle la mano. Tras el sí de la novia, los enamorados se fundieron en un abrazo ante los aplausos de los jugadores rumanos.

@@ -1,0 +1,66 @@
+
+Se viene una subasta sólo apta para poderosos. El Plaza Hotel de Nueva York, que tuvo numerosos dueños - entre ellos Donald Trump - y fue escenario de películas como "Mi pobre angelito 2", va a cambiar de manos. Será puesto a remate el 26 de abril, según lo informado por la agencia Bloomberg. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ThePlazaHotel/status/702240099434635264",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70224009943463526")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El lote incluye todas las habitaciones, los restaurantes y el espacio comercial. Será vendido en un paquete en el que también entra el hotel Dream Downtown, ubicado en Chelsea. Mirá también: Por qué tiene éxito Donald Trump El Plaza Hotel tiene una historia muy particular y es uno de los edificios más reconocidos de Nueva York. Está ubicado en la esquina de la Quinta Avenida y el sudeste del Central Park. Abrió sus puertas en 1907 y en aquella época fue calificado como el hotel más grande del mundo. Desde entonces, pasó por muchas manos. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ThePlazaHotel/status/649623577088630784",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_64962357708863078")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ En 1988 lo compró el actual precandidato a presidente de Estados Unidos, Donald Trump, dueño de una colección de hoteles de lujo. Pagó por él 407,5 millones de dólares y allí se casó con su segunda esposa, Marla Maples. Ocho años después, Trump se lo vendió a un grupo de inversores, que incluía al príncipe Alwaleed bin-Talal, de Arabia Saudita. Luego pasó a ser propiedad del Elad Group de Israel. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ThePlazaHotel/status/700372979029508097",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70037297902950809")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Cómo relacionarse con Estados Unidos Entre 2007 y 2008 se refaccionaron los pisos superiores y los pusieron en venta -por cifras millonarias- como departamentos exclusivos, mientras el hotel seguía funcionando en el resto del inmueble. Sin embargo, los precios de esos penthouse quedaron muy rezagados respecto a otros edificios de alto perfil y el Hotel Plaza se volvió un mal negocio inmobiliario. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ThePlazaHotel/status/678749092286177280",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_67874909228617728")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ En 2012, el magnate de origen indio Subrata Roy pagó unos 600 millones de dólares para adueñarse del hotel. Pero, dos años después, lo encarcelaron por fraude. Desde entonces la hipoteca paró a manos de los hermanos David y Simon Reuben, quienes ahora decidieron sacarla a subasta.

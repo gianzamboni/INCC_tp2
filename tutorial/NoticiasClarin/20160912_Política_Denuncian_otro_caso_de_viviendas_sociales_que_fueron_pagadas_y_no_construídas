@@ -1,0 +1,20 @@
+
+Un nuevo caso de viviendas pagadas y no terminadas salpica al ex ministro de Planificación, Julio De Vido, y al ex secretario de Obras Públicas, José López. Julio De Vido, López y el ex intendente de Villa Gesell, Jorge Rodríguez Erneta, anunciaron en mayo de 2009 la construcción de mil viviendas en esa localidad bonaerense, de las cuales se terminaron 80 y otras 266 quedaron a medio hacer. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_aajs49n0",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_aajs49n0"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_aajs49n0").after(scriptEl);
+ Según se consignó en  La Cornisa, en la primera etapa del plan tendrían que haberse construido 346 viviendas sociales en un plazo de 18 meses a un valor total de 28 millones de pesos. Aunque el municipio de Villa Gesell recibió el 80 por ciento de los fondos, unos 22 millones de pesos, las obras llegaron al 40 por ciento. De esta forma, "las familias que recibieron la adjudicación, en su gran mayoría vulnerables, se vieron privadas de acceder a una casa digna", se sostuvo. En la licitación de las 346 viviendas, de un total de 1000 anunciadas por el ex ministro De Vido, se presentaron varias empresas, pero las que ganaron fueron Madaki SA, Cepeda, Redantel SA y Carpinteria Industrial Merlo. El informe señaló que esas cuatro compañías abandonaron las obras en noviembre de 2011 e incumplieron el contrato. A esto se le sumó la falta de controles por parte del municipio y de las autoridades del ministerio de Planificación, que pagaron "sin siquiera controlar los avances de obra presentados". Concejales opositores de Villa Gesell presentaron una denuncia ante el juez federal Sebastián Ramos, contra el ex intendente Rodríguez Erneta para que se investigue el destino de los fondos otorgados. Los ediles pidieron también que se investigue el accionar de las autoridades nacionales que manejaron hasta el 2015 el ministerio de Planificación Federal, entre ellos Julio De Vido y José López. Agencia Télam

@@ -1,0 +1,18 @@
+
+El ex intendente de La Matanza y mandamás del PJ bonaerense, Fernando Espinoza, afirmó hoy que hoy existe un "peronismo renovados, con nuevos dirigentes y juventud" al que contrapuso con una imagen brutal que dejó la gestión K. "El peronismo no es seis tarados contando billetes en una oficina", sentenció en referencia al video de la Rosadita, donde se pudo ver a un hijo de Lázaro Báez contando dólares en Puerto Madero.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El curtido dirigente justicialista habló de una nueva etapa partidaria y celebró que recién la semana pasada haya terminado la reorganización interna. "Hoy la sociedad nos dio el rol de oposición. Vamos a supervisar estos cuatro años de gobierno. Vamos a ser una oposición constructiva”, explicó en diálogo con el programa "Ventana Abierta", de FM Millenium. Mirá también: Báez echó a la abogada de las escuchas contra Casanello En ese sentido, Espinoza sentenció: “Queremos ayudar y que a Argentina le vaya bien y para eso a Macri le tiene que ir bien” Al referirse al desfile de ex funcionarios y allegados al poder K que pasan por Tribunales desde hace seis meses, dijo que "hay una arremetida de un sector de la justicia que tiene que ver con la politización de la justicia y no le hace bien a los argentinos”. Mirá también: Ruta del dinero K: Marijuan explicó los motivos de su viaje a Suiza “El peronismo no es seis tarados contando billetes en una oficina. Queremos que la justicia llegue hasta las últimas consecuencias y que los culpables terminen donde tienen que terminar si así lo dictaminan”, manifestó.   “Algunas cosas que pasan son utilizadas como una cortina de humo. También se quieren tapar otras cosas. Los argentinos queremos saber qué pasa con Panama Papers donde se acusa al Presidente de tener cuentas fantasmas en paraísos fiscales”, se defendió.

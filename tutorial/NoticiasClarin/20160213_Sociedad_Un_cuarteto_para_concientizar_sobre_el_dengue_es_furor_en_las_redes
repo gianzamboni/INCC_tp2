@@ -1,0 +1,127 @@
+
+El dengue tiene su canción y ya circula por las redes sociales y Whatsapp. Fue escrita durante la epidemia que tuvo lugar en el país en 2009 pero el brote actual hizo que el tema se viralizara. El cantante es un cuartetero cordobés conocido como “El Enmascarado”, porque nunca revela su cara, y se dedica a componer con temáticas sociales y de actualidad. Leé también: Confirman la primera muerte por dengue de 2016 en la Argentina. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160213_0001 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160213_0001_96f";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'El cuarteto contra el dengue se volvió viral',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/13/VID/CLAVID20160213_0001/video_web.flv",
+        image: "http://images.clarin.com/sociedad/cuarteto-dengue-volvio-viral_CLAVID20160213_0001_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160213_0001',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/13/VID/CLAVID20160213_0001/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/cuarteto-dengue-volvio-viral_3_1522077778.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160213_0001.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160213_0001){
+            //getBBTStats_CLAVID20160213_0001();
+            varModIdReprod_CLAVID20160213_0001 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+La canción empieza con el sonido del molesto zumbido de un mosquito y con ritmo de cuarteto su cantante informa sobre el virus y da consejos sobre cómo prevenirlo. En la letra, pueden escucharse consejos como "no dejes latas, tarros, cacharros o vasijas donde el agua se puede acumular; techos de lona, floreros o cubiertas sin tapar porque el mosquito allí va a procrear", y “Hay que sacar a ese mosquito rebelde, no le des oportunidad”. Leé también: Lanzan un mapa interactivo del riesgo ambiental de dengue El Enmascarado ya escribió anteriormente canciones en las que denuncia situaciones como el corralito, los cortes de luz y la inseguridad. Su sello es el ritmo cuartetero. Y si bien medios de Córdoba han logrado entrevistarlo, la cara de este cuartetero justiciero todavía es un misterio. Leé también: La OMS sabrá en unas semanas si el zika causa microcefalia y el síndrome de Guillain-Barré

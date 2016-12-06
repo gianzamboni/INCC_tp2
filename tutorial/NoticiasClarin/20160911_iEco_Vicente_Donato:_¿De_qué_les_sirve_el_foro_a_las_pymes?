@@ -1,0 +1,68 @@
+
+Es claro que no es este el tipo de eventos que nos van a sacar de la recesión. Pero sirven, y mucho, para comunicar buenas noticias y generar expectativas positivas sobre el futuro del país, por más que no sean para el corto plazo. Igual creo que estamos tocando un piso en la caída de actividad. Los stocks preventivos que se habían acumulado durante los últimos dos trimestres del año pasado se están agotando y pronto hará falta volver a arrancar. Si los proyectos de algunos de los asistentes al Foro finalmente maduran, será muy importante monitorear cómo estos planes de inversión se relacionarán con los eslabones locales de la cadena de valor. Por ejemplo, una inversión china, que viene con toda la mano de obra ya incorporada y los componentes e insumos extranjeros atados al financiamiento, tendría poco impacto dentro del entramado de las pymes locales y del producto bruto nacional. De modo que siempre es conveniente analizar qué tipo de inversión es la que llega y en qué circunstancia en relación con la componente local de valor. Es claro que cuanto más componente local tenga una inversión externa, más impactará sobre la actividad económica y las pymes, con el consiguiente impacto de más sueldos y más consumo. Y aun dentro de las inversiones que simplemente contratarán mano de obra local, habría que discernir entre las que necesitarán mano de obra con bajos niveles de calificación y aquellas que demandarán capital humano de alto valor. ¿Será una demanda de ingenieros y técnicos o de trabajos no calificados? 
+
+
+La sorprendente novedad es la enorme brecha entre el malestar actual y la confianza empresarial en el futuro
+
+
+
+
+
+var act_e11 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_e11 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_e11.setTitle('La sorprendente novedad es la enorme brecha entre el malestar actual y la confianza empresarial en el futuro');
+act_e11.setSubtitle('Opinión'); 
+act_e11.setLinkBack('http://www.clarin.com/ieco/economia/sirve-foro-pymes_0_1647435405.html');
+act_e11.setDescription('“Sorprende la brecha entre el malestar actual y la confianza empresarial en el futuro” , asegura.');
+act_e11.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/economia/sirve-foro-pymes_0_1647435405.html');
+
+var showShareBarUI_params_e11=
+{ 
+containerID: 'shareQuote_e11',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_e11,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_e11
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_e11);
+ Obviamente, toda demanda de mano de obra es valiosa para aumentar el ingreso per cápita de Argentina, pero está claro que aquellas inversiones que demandarán más capital humano y alto contenido de investigación y desarrollo tendrán un mayor impacto en las perspectivas de crecimiento futuro de nuestro país. Lo mismo aplica para los bienes que esa inversión traerá aparejada: ¿Sólo demandarán bienes como el cemento, o también productos, partes, piezas y componentes con mayor elaboración, adquirida a proveedores locales? Se trata en definitiva de incentivar aquellas inversiones que potencien el agregado de valor nacional. En el segmento que seguimos en el Observatorio Pyme, que abarca a unas 80.000 empresas de todos los sectores de actividad y que representan el 50% del producto bruto interno del país, registramos sorprendentes expectativas positivas sobre el futuro y vemos indicios de que la crisis está tocando piso. Tardó un poco más de lo que se esperaba, sobre todo con un segundo trimestre que fue catastrófico (estimamos una caída interanual del 9%), pero porque además la comparación fue contra un 2015 que no había sido tan malo, por las políticas expansivas previas a las elecciones. Ahora, en pleno tercer trimestre, se está empezando a salir. El indicador de confianza empresarial pymes (ICEPyME) del Observatorio está marcando 65 puntos de confianza en el futuro, el nivel más alto registrado desde 2004. Mientras que el malestar por la situación actual está marcando 35 puntos, contra los 20 que marcó en el primer trimestre de 2009. La sorprendente novedad es la enorme brecha entre el malestar actual y la confianza empresarial en el futuro. Una diferencia de amplitud de 30 puntos jamás registrada hasta ahora. El encuentro empresarial de la semana próxima apunta a convencer a los potenciales inversores que Argentina está comenzando una nueva fase de su historia productiva. Entre las buenas noticias para dar en dicho evento, será importante comunicar también el alto nivel de confianza empresarial sobre el futuro que impera entre las aguerridas pymes locales. Pero para ser creíbles, y no decepcionar a los miles de empresarios pymes que esperan un mejor 2017, será necesario también comunicar que seremos capaces de resolver no solo el problema de la energía, sino también la construcción de un sistema financiero nacional, hoy prácticamente inexistente. Un sistema financiero grande y profundo, capaz de financiar el nacimiento de nuevas empresas y el relanzamiento productivo que el país necesita. Hay que financiar la modernización y la reconversión de importantes ramas industriales, además de viñedos, olivares, yerbales y frutales de baja productividad y enteras economías regionales que necesitan triplicar el número de empresas operantes en sus territorios. Valga un solo ejemplo de nuestra escasa densidad empresarial: Chile acredita 1.050.000 empresas con 18.000.000 millones de habitantes, mientras que nosotros, apenas 650.000 con 43.000.000 millones de personas. Todos sabemos que sin empresas, no hay desarrollo económico y social posible.

@@ -1,0 +1,18 @@
+
+Cristina Kirchner, su socio Lázaro Báez y sus hijos, el sindicalista preferido de la ex presidenta, Omar "Caballo" Suárez, José López, Julio De Vido, Aníbal Fernández, Amado Boudou, y otras figuras del kirchnerismo desfilaron y seguirán desfilando por Comodoro PY. Por eso, la agrupación macrista "La Solano Lima" armó un irónico video, titulado: "Tribunales K". Mirá también: Cristina irá a Tribunales al mediodía y así evitará cruzarse con Báez 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Lázaro Báez declaró por escrito y sembró más sospechas sobre Casanello y Cristina Al ritmo de una vieja canción de Rodolfo Zapata, se refieren a la situación judicial de ex funcionarios y emblemas del kirchnerismo.  "Miércoles sí, la jefa de la mafia, aunque lleve la barra, tendrá que desfilar", dice la canción en referencia a Cristina y el aguante K. Y remata con el estribillo: "Tendrá que declarar, tendrá que declarar". Mirá también: Caso López: un clip con Cristina como Lali Espósito La anterior entrega de la agrupación del PRO había sido con un clip a partir del caso de José López y donde señalaban a Cristina Kirchner como responsable de la corrupción.

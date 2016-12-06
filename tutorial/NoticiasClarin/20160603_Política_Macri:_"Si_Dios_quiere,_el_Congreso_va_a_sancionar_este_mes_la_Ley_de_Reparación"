@@ -1,0 +1,68 @@
+
+El presidente Mauricio Macri afirmó hoy que "si Dios quiere el Congreso va a sancionar este mes" la ley de Reparación Histórica y sostuvo que "eso permitirá que desde setiembre empecemos a pagarle lo que corresponde a los jubilados".  El Presidente contó detalles de la iniciativa del Poder Ejecutivo durante una charla que compartió esta mañana en el Centro de Jubilados Parque Udabe, en la calle General Viamonte 2555, en Lanús Oeste. Mirá también: Jubilaciones: el eje del debate es la venta de acciones de la ANSeS El Jefe del Estado estuvo acompañado en la oportunidad por el intendente de Lanús, Néstor Grindetti. 
+
+
+Macri aseguró que la entrada en vigencia de la norma va a significar "un aumento muy grande para aquellos que están cobrando la mínima".
+
+
+
+
+
+var act_8c5 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_8c5 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_8c5.setTitle('Macri aseguró que la entrada en vigencia de la norma va a significar "un aumento muy grande para aquellos que están cobrando la mínima".');
+act_8c5.setSubtitle('JUBILADOS'); 
+act_8c5.setLinkBack('http://www.clarin.com/politica/Macri-Dios-Congreso-Ley-Reparacion_0_1588641185.html');
+act_8c5.setDescription('El Presidente visit&oacute; un centro de jubilados y explic&oacute; los alcances de la ley enviada al Parlamento. Y&nbsp;cont&oacute; el caso de Rosana, una&nbsp;profesora de 54 a&ntilde;os que le escribi&oacute; por Facebook.');
+act_8c5.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Macri-Dios-Congreso-Ley-Reparacion_0_1588641185.html');
+
+var showShareBarUI_params_8c5=
+{ 
+containerID: 'shareQuote_8c5',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_8c5,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_8c5
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_8c5);
+  Apuntó también que "aquellos que tenían juicio iniciado, con o sin sentencia, van a cobrar ese retroactivo, la mitad al contado y la mitad en cuotas, y aquellos que se jubilen ahora automáticamente empiezan a cobrar lo que les corresponde desde el primer día". Mirá también: Pondrán también topes a las tarifas para comercios y Pymes También hoy, con el título "Cuidar a nuestros mayores", el Presidente de la Nación explicó las razones del proyecto de ley de blanqueo y de pago de juicios a los jubilados mediante una carta. El texto, remitido al diario "La Razón", sigue con la frase: "Que ningún abuelo sienta angustia y temor por el futuro". Allí, Mauricio Macri reseña que "esta semana enviamos al Congreso una ley para cuidar a nuestros mayores. A todos. A los que dedicaron su vida al trabajo e hicieron sus aportes; a los que por alguna razón no estuvieron registrados y no pudieron aportar; a los jubilados del futuro, que pronto van a necesitar sentir la presencia del Estado más cerca que nunca; a los que tienen nietos y a los que no, porque todos dejaron una huella a lo largo del camino y merecen que les demos tranquilidad para disfrutar su vida". Mirá también: Después de invitar a Mirtha, ahora Macri almuerza con jubilados en la Rosada Lamentablemente, hoy estamos lejos de una situación ideal. Hoy en la Argentina hay casi 2.300.000 jubilados que están cobrando menos de lo que deberían. Heredamos un sistema previsional con muchos problemas. El primero es que a millones de jubilados se les pagaba menos de lo que les correspondía. Iniciaron juicio, la Justicia les dio la razón pero durante años el Estado decidió no pagarles. Por eso, el primer paso es aumentar la jubilación a todos los que no están cobrando lo que les corresponde (hayan iniciado juicio o no), y pagar el dinero que se les debe del pasado a todos los que sí iniciaron juicio. Mirá también: Echegaray: del espionaje y el abuso de poder a la caída Y continúa: "Otro problema es el de millones de argentinos y argentinas que no cumplen con los requisitos para jubilarse. Muchos porque, por las sucesivas crisis que atravesó nuestro país, han estado durante años desempleados o bajo condiciones de empleo informal. Un ejemplo es el caso de Rosana, una profesora de Biología de 54 años que vive en Rosario y me escribió por Facebook para contarme lo que siente frente a su futuro y el de su marido: angustia y miedo. 'Hola Presidente! No encuentro trabajo. Desde 2001 no hacemos aportes ni tenemos empleo en blanco. Nos espera una vejez miserable', me dijo. El de Rosana es uno de los tantos casos de hombres y mujeres que, a pesar de su esfuerzo, no consiguieron tener la seguridad de un trabajo registrado y de calidad". Mirá también: Aranguren salió a desmentir los rumores de renuncia: “Yo no amago” "A todos ellos queremos darles tranquilidad, y por eso propusimos la creación de la Pensión Universal para el Adulto Mayor, para todos los argentinos y argentinas de más de 65 años que no tengan jubilación. Esta pensión se convierte así en un derecho, como lo es la Asignación Universal por Hijo para los chicos, para que ninguno de nuestros abuelos sienta esa angustia y ese temor por el futuro del que hablaba Rosana", finaliza la carta de Mauricio Macri, publicada por La Razón..

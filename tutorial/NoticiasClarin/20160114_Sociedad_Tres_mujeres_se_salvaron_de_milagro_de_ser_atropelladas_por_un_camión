@@ -1,0 +1,17 @@
+
+Vivas de milagro. En la región de Guangxi Zhuang, al sur de China, tres mujeres se salvaron de morir atropelladas por un camión, luego de que este impactara contra su moto en la que se transportaban. En YouTube se difundieron las imágenes del choque, que ya se viralizaron en todas partes.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

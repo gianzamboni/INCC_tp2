@@ -1,0 +1,41 @@
+
+¿Hablar sobre los argentinos puede ser un negocio? Sí puede, y así lo demuestra el estadounidense Dustin Luke. Este muchacho se apasionó por las costumbre locales y las explotó en YouTube. Sus videos fueron un éxito, con más de 2 millones de visualizaciones, y gracias a eso creo su propio imperio. Hoy lo "bancan" varias marcas, hace presentaciones en eventos y acaba de lanzar un libro con Editorial Planeta: "Bien argento. Los argentinos vistos por un yanqui". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Nació hace 32 años en Atlanta, vivió en Nueva York y en 2006 llegó como turista a Buenos Aires. Tras 10 años de idas y vueltas, se instaló en nuestros pagos. "Me enamoré, fue un flechazo", cuenta a Clarín este vecino del barrio de Belgrano, que se define como un "estadounidense de nacionalidad y argentino de corazón". Mirá también: 100 capas de maquillaje: el último reto viral de YouTube  Cuando iba al colegio lo obligaron a estudiar un idioma por dos años. Eligió el español. Hoy se queja de que "solo te enseñan el neutro". Por eso, cuando vino, lo primero que le llamó la atención fue nuestra tonada. "Apenas 'un pibe' me dijo que tenía que 'agarrar un bondi' entendí que hablaba algo de español, pero cero argento", señala este fanático de la celeste y blanca. Y fue justamente eso --haber incorporado nuestro acento casi a la perfección-- lo que le dio popularidad.
+
+ "Apasionados, orgullosos y amigueros" son las tres palabras que elige para definirnos. Sabe que mucha gente nos considera agrandados, "pero yo no lo veo así", asegura. Le encantan las mujeres locales y a ellas les dedica párrafos de su libro. Asegura que "son difíciles" y que solo hay chances de conquistarlas si alguien te las presenta. También destaca un rasgo de su primera novia argentina: "Era muy celosa", se molesta. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ En otras páginas, opina que sos argentino si te preparás para salir a un boliche a las tres de la mañana, sos argentino si para vender tu auto le ponés un bidón de plástico en el techo, y sos argentino si podés reconocer los billetes truchos con solo tocarlos. También incluye un diccionario de gestos, dedicado a los turistas que buscan manejarse como nativos. "¿Qué hacés?", "Traeme un cortado", "¿Estás loco?" y "No me hinches" son explicados en el lenguaje de señas urbano. En todos los casos, se trata de hábitos que naturalizamos, pero que Dustin --y seguramente muchos extranjeros-- reciben con sorpresa.
+
+"Hay cosas que solo le pasan a un extranjero. Cuando vine la primera vez no quería saludar a un hombre con un beso, porque los estadounidenses somos más fríos y eso es invadir el espacio de uno", recuerda Dustin y asegura que los argentinos "tienen pasión". También se asombró con la presencia de bidets ("a los argentinos no les causa curiosidad ni asombro", describe) y la costumbre de compartir la bombilla del mate "y que no te parezca algo asqueroso". Considera que acá las personas aprovechan el momento, viven la vida. "'¿Vamos a tomar un café?' '¡Dale!'. Vas a tomar un café durante una hora y media. Tenés relaciones. En Estados Unidos todo es negocios", compara en un video.   Tiempo atrás, lanzó una pequeña empresa de community manager (para gestionar redes sociales), hizo publicidades en videos, y en su tiempo libre trabajaba como mozo. Pero su cabeza estaba en otro lado. "Mi idea era tratar de ver en qué proyecto me podía enganchar y cómo meterme en el mundo de los youtubers. Y tuve éxito", sostiene. Su video más popular es "Cosas que dicen los argentinos hecho por un yanqui", que tuvo más de 2.700.000 visualizaciones, y "¿Por qué Argentina? Explicado por un yanqui", con más de 1.970.000 visualizaciones. Mirá también: Mirá lo que le regaló un youtuber al Papa Francisco  Gracias a esto, pudo dejar todo lo demás. "Cuando tuve mucho éxito dije: esto es lo mío, ya está", recuerda. "Se puede vivir de esto. Lo bueno es que estoy laburando con Internet, y ahí se puede crecer, se puede escalar de una forma importante. Además, puedo generar contenido en cualquier lugar", destaca Luke.
+
+ ¿Cómo ganar plata con YouTube? "Depende de muchas cosas. Depende de dónde son tus seguidores, quiénes están mirando tus videos, porque se paga mejor a un estadounidense que a un argentino, por ejemplo. También depende de qué marcas engancharon con tus videos, porque te piden: 'usá mi auto' o 'usá mi ropa'. Muchas marcas me bancan y cada vez se interesan más en los youtubers", cuenta Luke. Actualmente trabaja con Peugeot, Brahma y marcas de ropa. Hace presentaciones en eventos y el año pasado tuvo una sección en el noticiero de El Trece. "Me están llegando ofertas para trabajar en series para la televisión y me hablaron de hacer doblajes de inglés-español", se entusiasma. Mirá también: La Feria del Libro en que YouTube le peleó un lugar a la Biblioteca  "Creo que el éxito es poder vivir con lo que estás haciendo y estar contento con eso", lanza este muchacho. Y una de las cosas que lo alegra es, justamente, ser un porteño más. "Por el momento me quedo acá. El sueño del pibe sería tener una casa allá y una acá, para ir y volver", concluye el yanqui más argento.
+

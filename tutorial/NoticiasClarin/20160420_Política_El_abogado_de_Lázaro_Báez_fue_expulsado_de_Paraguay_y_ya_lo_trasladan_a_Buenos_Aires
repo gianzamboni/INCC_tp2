@@ -1,0 +1,72 @@
+
+Jorge Oscar Chueco, el abogado de Lázaro Báez que permanecía desaparecido, fue detenido y expulsado ayer de Paraguay y ya lo trasladan a Buenos Aires. Será llevado al Edificio Centinela, sede de la Gendarmería argentina, fuerza a la que fue entregado por las autoridades paraguayas. Al abogado lo trasladaron esta mañana al Juzgado Federal de Posadas, donde lo notificaron del traslado a Buenos Aires: el avión partió cerca de las 11 y se lo espera en la Capital alrededor de las 14. Chueco pasó la noche en el Escuadrón 50 con una fuerte custodia tras ser expulsado de Paraguay por haber ingresado ilegalmente. Algunos investigadores creen que el abogado llegó hasta Encarnación a la espera de algún contacto que le proveyera fondos y posiblemente documentos para mantenerse en la clandestinidad. “Hasta acá llegué, por favor ayúdenme”, alcanzó a decir ayer Chueco cuando tres guardias de seguridad del resort Le Club, en Encarnación, Paraguay, lo redujeron en la terraza del edificio. Era el final de una fuga que tuvo en vilo durante cinco días a todas las fuerzas de seguridad de la Argentina. Mirá también: El balcón y un lunar, las claves para la detención de Chueco Chueco, que vestía un short verde y remera gris, lucía mucho más delgado, demacrado y con algunas heridas en las piernas que evidenciaban una cicatrización de varios días. Anoche, a las 20.45, el hombre fue entregado a la Gendarmería argentina en la cabecera paraguaya del puente internacional “San Roque González de Santa Cruz”. La fiscal Liliana Delgado autorizó su expulsión del país porque ingresó a territorio paraguayo sin realizar los trámites migratorios. El juez de instrucción de Misiones, Osvaldo Lunge, habló hoy por la raido argentina Belgrano y aseguró que "teníamos información que había cruzado en colectivo a Paraguay por dos testimonios. Quedó registrado que cruzó, pero no figura como registrado." 
+
+
+"Al ingresar de forma ilegal, Chueco fue expulsado de Paraguay", dijo el juez.
+
+
+
+
+
+var act_9a6 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_9a6 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_9a6.setTitle('&quot;Al ingresar de forma ilegal, Chueco fue expulsado de Paraguay&quot;, dijo el juez.');
+act_9a6.setSubtitle('LA RUTA DEL DINERO K.'); 
+act_9a6.setLinkBack('http://www.clarin.com/politica/dinero-apresaron-Chueco-abogado-Baez_0_1562243769.html');
+act_9a6.setDescription('Fue encontrado ayer en&nbsp;la ciudad paraguaya de Encarnaci&oacute;n. Ser&aacute; llevado al edificio Centinela a primera hora de la tarde.');
+act_9a6.addActionLink('VER MÁS', 'http://www.clarin.com/politica/dinero-apresaron-Chueco-abogado-Baez_0_1562243769.html');
+
+var showShareBarUI_params_9a6=
+{ 
+containerID: 'shareQuote_9a6',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_9a6,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_9a6
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_9a6);
+
+
+Jorge Chueco fue oficialmente detenido cerca de las 13.30 tras un llamado de los responsables del hotel Le Club a la Policía Nacional de paraguay. Chueco había sido reducido en la terraza del hotel y entregado a una patrulla de Investigación de Delitos. El jefe de esa dependencia, el comisario Walter Cardozo, dijo en una conferencia de prensa que Chueco fue detenido en el microcentro de Encarnación luego que se constatara que no tenía documentos. Y que Interpol Paraguay sólo tenía registrado el pedido de ubicación librado por el juez de Misiones Osvaldo Rubén Lunge y no la circular roja del juez federal Sebastián Casanello, quien ordenó su captura anteanoche. Mirá también: En un video, Chueco explica cómo llegó a Paraguay Los abogados Keiko Kamazawa y Osvaldo Peña Álvarez -fue defensor de Moria Casán en la causa por el robo de joyas en Asunción- se quejaron del procedimiento. Peña Álvarez dijo que le impidieron a Chueco firmar un poder para ser representado. “Está bajoneado pero bien...él quiere quedarse y enfrentar el proceso de extradición”, aseguró el defensor. Los reclamos de los abogados fueron vanos porque una hora más tarde, Chueco fue cargado en una camioneta Isuzu doble cabina sin identificación de la Policía Nacional y llevado a la cabecera del puente internacional, donde se labró un acta de entrega.
+
+Así concluyó una fuga que duró cinco días y que no resultaron fáciles para el abogado, que anoche lucía con varios kilos menos y la piel bronceada, quizá por deambular días enteros por territorio paraguayo. Chueco había salido de Buenos Aires el lunes 11 de abril en su Peugeot 408 que abandonó en Posadas. Siguió viaje a Puerto Iguazú en un micro y al día siguiente se registró en dos hoteles. En su poder tenía casi 50 mil dólares y sembró una serie de pistas para dar a entender que se había quitado la vida. Incluso, la semana pasada fue encontrado por guardaparques en el Parque Nacional de Iguazú borracho y drogado. A esos guardaparques, les dijo que pretendía suicidarse. Mirá también: Procesaron y embargaron a Báez e indagarán a Echegaray Sin embargo, el testimonio de un colectivero y un inspector que trabaja en la terminal de ómnibus de la ciudad de las Cataratas permitió establecer que había cruzado a Brasil tras eludir los controles de Migraciones y Gendarmería en el puente “Tancredo Neves”, que comunica Puerto Iguazú con territorio brasileño. Desde allí, siguió viaje hacia Paraguay. Chueco es un personaje clave del entorno de negocios del empresario kirchnerista Lázaro Báez y en la investigación de la ruta del dinero K. Según la justicia, su participación en las maniobras internacionales de lavado de dinero en la financiera La Rosadita fue determinante. 

@@ -1,0 +1,18 @@
+
+Carlos Pagni  elige el actual reajuste del Gobierno en cuanto a sus expectativas, a los desafíos que tiene por delante y el "cambio de opinión respecto de la docilidad o rebeldía que ofrece la realidad frente a la acción política del Gobierno" como eje de su duro editorial en Odisea Argentina, por TN. "Las cosas parecen ser mucho más difíciles de lo que se pensaba en un principio", comienza el periodista. Y sigue: "la Argentina hoy tiene dos desafíos por delante, como si fueran dos grandes perchas de las que cuelgan los demás problemas". El primero que señala es la necesidad de incrementar los grados de transparencia institucional. El otro, la crisis de competitividad de la economía. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Pagni adjetiva la economía nacional como "asfixiada por el gasto público", "hipersubsidiada" y "muy poco dinámica, abierta y competitiva en un mundo cada vez más desafiado por la competencia". Según el periodista, ambos problemas "tuvieron una manifestación en los últimos días muy fuerte" y señaló que para el avance de la economía los precios de la energía son estratégicos. "El Gobierno cometió errores en el tarifazo", sentenció. Sobre el desafío que enfrenta Mauricio Macri de lograr mayor transparencia institucional, Pagni analizó la denuncia por corrupción a Juan José Gómez Centurión, el ahora ex titular de la Aduana. “Aparece su voz y un grupo de contrabandistas imputados por la Justicia que dicen trabajar para él”, aseguró sobre los audios que enviaron de forma anónima al Ministerio de Seguridad. Mirá también: La Justicia ya investiga la denuncia contra el jefe de la Aduana "Cuando se le pregunta a Gómez Centurión qué explicación tiene para estas grabaciones, él dice: 'yo efectivamente conozco a Barreiro y a Tiscornia porque me proveían información acerca de otras bandas dentro de la Aduana. Hace poco tiempo me enteré de que ellos se presentaban diciendo que trabajaban para mí. A raíz de eso tuve una reunión en un shopping para aclarar las cosas con Barreiro'. Esa reunión aparece en la denuncia como una reunión para repartir coimas", detalla Pagni y resalta que las grabaciones fueron editadas.  Mirá también: Sospechas de corrupción: ahora suspendieron a un subdirector de la Aduana "Gómez Centurión se venía enfrentando con dos mafias que tienen absoluta vigencia en la Argentina.estaba buscando containers de efedrina -traídos para el tráfico de efedrina con México- que habían quedado en depósitos fiscales y que no se puede identificar dónde están. Es una información de primera importancia porque si se identifican esos containers, se podría correr un velo muy importante respecto del narcotráfico de efedrina y el triple crimen. ¿Quién traía la efedrina? ¿De dónde?", sigue Pagni.  Mirá la columna completa.   

@@ -1,0 +1,24 @@
+
+No tiene brazos ni piernas, pero con la fuerza de su voz puede mover multitudes. Su nombre es Nick Vujicic. Este australiano de 33 años que nació sin extremidades debido a una extraña enfermedad y ahora realiza conferencias y predica el cristianismo para ayudar a la gente a superar las adversidades.  “Muchas veces otra gente nos pone límites de lo que podemos o no podemos hacer, y al miedo lo tenemos que cambiar por valor, un día a la vez. Hay que tener una vida sin límites”, expresa cada vez que puede, quien se graduó a los 21 años y se especializó en Contabilidad y Planificación Financiera.
+
+
+
+ Nick nació con el síndrome de tretra-amelia, es decir, sin piernas ni brazos, solamente tiene una formación o meromelia de lado inferior izquierdo. Y fue por eso que de chico sufrió burlas de sus compañeros de la escuela, que lo cargaban por ser diferente. Cuando tenía 8 años, Nick pensó en suicidarse. Y volvió a manifestar esa intención a los 10, ahogándose en la bañera de su casa, aunque en ese momento, segundos antes de dejar de respirar, cambió su decisión: “Si hacia eso iba a dejar mucho dolor en la vida de mis padres. Ellos hicieron todo para darme valor y no merecían eso”, argumentó en distintas entrevistas que le realizaron en todo el mundo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Además de ser predicador y recorrer el mundo con su historia de vida para alentar a la gente que “sí se puede”, el hombre es el director de “Life Without Limbs”, una organización para personas con discapacidades físicas. Como conferencista, ya visitó los cinco continentes y se presentó en varios países. También escribió su libro “No Legs, No Arms, No Worries” (sin brazos, sin piernas, sin preocupaciones) y alcanzó la lista de los Best Sellers en Estados Unidos, y su segundo libro “Un espíritu invencible” crece en popularidad.
+
+Tanto en sus libros como en las conferencias motivacionales, el mensaje que deja Nick, es que siempre se puede, aceptar la vida tal cual es, no pedir por lo que hace falta ni soñar la vida que se podría tener: “Hay que vivir nuestra vida y que todo se puede, si nos esforzamos”. Y él más que nadie puede asegurarlo: a pesar de sus limitaciones aprendió a nadar, andar en skate, surfear, escalar montañas, tirarse en paracaídas y jugar al golf A la Argentina vino una vez en el 2013, invitado por el programa de Susana Gimenez. Allí contó su historia de vida: “Perder un ser querido es peor que no tener extremidades”, disparó, y contó sobre su frustrado intento de suicidio. “¿Por qué no lo hiciste”, le preguntaría luego Susana, ya en el living. Y el hombre respondió que no quiso dejarles semejante dolor a sus padres. “Ellos hicieron todo para darme valor”, contestó. También leé: "Un sueño cumplido: seis alumnos argentinos mano a mano con 15 científicos brillantes"

@@ -1,0 +1,18 @@
+
+ "Nuestros hijos van a tener siete empleos en su vida, y de los siete, hay cinco que no conocemos todavía". David Herranz, CEO para América Latina de la empresa de recursos humanos Adecco ejemplificaba así ayer la forma de enfrentar los cambios que está viviendo el mundo laboral con la tecnificación y el Big Data.  En el Foro de Inversión y Negocios que se celebra en el Centro Cultural Kirchner, Herranz abogó por "acelerar el ritmo de cambio de las instituciones para adaptarnos a la sociedad moderna, desde el punto de vista de la capacitación". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ - Se habla mucho de adaptación y poco de estabilidad, ¿se está terminando aquella vida en que era posible programar las vacaciones o saber de qué se viviría el próximo mes?  - Bueno, depende. Yo creo que hay que adaptarse, como decía, a las situaciones actuales. Hay que modernizar las relaciones laborales. Si me preguntaras cómo serán las relaciones laborales del futuro, te diría que no tengo ni idea, sinceramente. Pero dentro de 40 años, probablemente la unidad de medida de retribución de un empleado no sea solo el tiempo de su trabajo. Tendrá que tener algún complemento orientado a la productividad o a la entrega de según qué materiales... Todo se tiene que ir adaptando. Desde el punto de vista de la estabilidad en el empleo, lo importante es generar oportunidades. Si hay oportunidades hay estabilidad, para que el empresario y el empleado puedan decidir conjuntamente cuándo y cómo quieren organizar su relación laboral. Ese es el desafío que tenemos.  

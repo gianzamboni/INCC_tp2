@@ -1,0 +1,50 @@
+
+Desde que el hombre observó como su propio reflejo se proyectaba en una superficie cristalina, la atracción por el doble se propagó en mitos y encantamientos, con la historia de Blancanieves como la que universalizó la leyenda. Ahora, el hechizo de los espejos se traslada al mundo de la tecnología donde son capaces de contestar preguntas y realizar sugerencias. Hay modelos equipados con procesadores de varios núcleos, cámaras en 3D, sensores de profundidad, escáneres corporales, sistemas de reconocimiento y la posibilidad de vincularlos al celular. A las supersticiones que en la antigüedad le atribuían poderes de adivinación, la modernidad le agregó el control de la información mediante el tacto y la conexión a Internet. Intel, Toshiba, Panasonic y hasta el prestigioso MIT, son algunos de los precursores de esta innovación. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Estas láminas que repelen la magia con datos concretos, ofrecen diferentes perfiles de uso. Algunos están pensados para adolescentes que quieren sacarse encantadoras fotos, otros son para deportistas que analizan su masa muscular, están los que ofrecen tutoriales de maquillaje, hasta los sanitarios capaces de detectar el índice de grasa de la piel en busca de síntomas de diferentes enfermedades. Una excelente opción para colgar en un pasillo de circulación común es ReflectMe, un espejo que a través de reconocimiento facial identifica a los residentes de la casa y le muestra la información que cada uno seleccionó antes. En el cristal podrá aparecer la agenda diaria, el tráfico al trabajo o el colegio y el clima, con recomendación de si hay que llevar campera incluida. La primera sorpresa del Panasonic Magic Mirroral al ser activado es que realiza una foto con la que analiza la estructura facial, resaltando arrugas, granitos, líneas de sonrisa y ojeras con distintos colores y recomendando un tratamiento. Para el que tiene una fiesta nocturna, va a trabajar o buscan una nueva combinación de colores, muestra en pantalla como quedan los diferentes maquillajes y permite compartirlos en las redes sociales. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Y si alguien le pregunta a Naked 3D Fit quien tiene el mejor cuerpo de atleta, seguro que no se equivoca. Basta con pararse desnudo frente al espejo durante 30 segundos para que sus sensores confeccionen un mapa de calor en el que muestra las partes que necesitan mejorar y cuáles alcanzaron un nivel muscular óptimo. La información de cómo fue evolucionado se envía automáticamente al celular. Por su parte el Naked 3D Fit es un espejo creado por una startup en San Francisco que integra la última tecnología de Intel Real Sense, con sensores de profundidad en tercera dimensión. Durante todo un año lo probaron con deportistas y en 2017 estará a la venta. Para incondicionales de los autorretratos, el Selfie Mirror viene con una cámara Sony 16MP y un lente de un 4”. Los bordes se iluminan para crear el marco para fotos y servir como luz de maquillaje. Viene en dos versiones, una de cuerpo entero de 70 por 120 cm. y otra de 70 por 80 cm. Desde 250 dólares. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El Virtual Fitting Room de Toshiba consigue que cualquiera se pruebe la ropa sin necesidad de cambiar de prendas. Detecta el contorno y ajuste de un objeto, algo que le permite registrar la altura y dimensiones del cuerpo para mostrar diferentes atuendos que sólo se ven en el espejo, superpuestos sobre el reflejo de la persona. Científicos del prestigioso Instituto Tecnológico de Massachusetts (MIT) desarrollaron Wize Mirror, un prototipo de espejo inteligente que mediante un sistema de cámaras de última generación que operan en diferentes longitudes de onda detecta si la persona padece alguna enfermedad. El espejo puede analizar el color, fisonomía o índice de grasa de la piel, medir el pulso, la frecuencia respiratoria y hasta los niveles de hemoglobina. A través del reconocimiento facial busca signos de estrés o ansiedad en la persona, y evalúa la forma de la cara para detectar la ganancia o pérdida de peso.

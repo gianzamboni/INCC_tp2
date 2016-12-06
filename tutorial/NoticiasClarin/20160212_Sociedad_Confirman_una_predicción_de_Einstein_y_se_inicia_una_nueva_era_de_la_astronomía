@@ -1,0 +1,127 @@
+
+Un grupo de científicos encabezados por la argentina Gabriela González detectó por primera vez la existencia de ondas gravitacionales, algo que había anticipado Albert Einstein hace un siglo en su Teoría de la Relatividad General. El descubrimiento conmovió ayer a la comunidad científica mundial, no solo porque abre una nueva era en las investigaciones astronómicas sino porque potencia aún más al genio revolucionario de Einstein. “Todo lo que pensó él solo hace 100 años, con la simple ayuda de un lápiz y un papel, es lo que estamos viviendo hoy”, dijo Federico Lombardo, director del Departamento de Física de la Facultad de Ciencias Exactas y Naturales de la UBA. “Estamos todos como locos”, dijo ayer González, la física argentina que trabaja en la Universidad de Louisiana y que comanda al grupo de más de 1.000 investigadores de 20 países. “Creo que Einstein estaría muy contento”, agregó.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160211_0013 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160211_0013_b5e";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Detectan la existencia de las ondas gravitacionales predichas por Einstein hace cien años',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/11/VID/CLAVID20160211_0013/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Detectan-existencia-gravitacionales-predichas-Einstein_CLAVID20160211_0013_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160211_0013',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/11/VID/CLAVID20160211_0013/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Detectan-existencia-gravitacionales-predichas-Einstein_3_1520877910.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160211_0013.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160211_0013){
+            //getBBTStats_CLAVID20160211_0013();
+            varModIdReprod_CLAVID20160211_0013 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+Demostrar la existencia de estas ondas era el último reto pendiente de la Teoría de la Relatividad General, que Einstein formuló en 1915. Ayer, científicos de todo el mundo coincidieron en que este hallazgo es un broche de oro para la teoría formulada en el año 1915. Lombardo también indicó que esta comprobación “es una de las grandes noticias, y que podría ser objeto de un Premio Nobel: abre la puerta a episodios más importantes de acá al futuro, estudiar el Universo de una manera que no conocíamos sin telescopios ni antenas de radio”.Parte del grupo que hizo el hallazgo. La argentina Gabriela González.Hasta ahora, el conocimiento del Cosmos se realizaba principalmente a través de la radiación electromagnética, o sea a través de la luz. Con ellas se puede “ver”, mientras que con las ondas gravitacionales sería como “oír”, lo que permitiría pasar a través de los objetos que hay entre la Tierra y el otro extremo del Universo, pues las ondas lo atraviesan todo. Por lo general las ondas gravitacionales que ahora fueron detectadas son tan débiles que Einstein no creía que pudiesen medirse. Aún así, los físicos intentaban desde hace 50 años encontrar una prueba de su existencia, aunque todos los hallazgos reportados hasta ahora habían resultado inconsistentes.  Para entenderlo de manera clara, una onda gravitacional se asemeja de algún modo a las ondas que se forman en un lago cuando cae una piedra. O con un poco más de precisión, las ondas gravitacionales son “olas en el océano cósmico”, producidas a partir de un hecho puntual, por ejemplo la fusión de dos agujeros negros o la explosión de una estrella. Einstein descubrió hace 100 años con la Teoría de la Relatividad que los objetos que se mueven en el Universo producen ondulaciones en el espacio-tiempo que se propagan por a la velocidad de la luz. Estas son las ondas gravitacionales. En este caso, la colisión de dos agujeros negros fue lo que generó ondulaciones en el espacio. Esas ondulaciones “trajeron” información sobre el origen de ese fenómeno. “Las masas de los agujeros negros del sistema observado son de 36 y 29 masas solares cada uno, y la del agujero negro formado luego de la colisión de los dos agujeros negros es de 62 masas solares”, dijo a Clarín la física argentina Norma Sánchez, radicada en París.  Leé también: ¿Qué son las ondas gravitacionales que revolucionan el mundo científico? Gracias a las ondas gravitacionales, a partir de ahora, se podrán entender los mecanismos por los que suceden algunos de los sucesos más violentos del Cosmos, como las colisiones entre agujeros negros o las explosiones de estrellas. Según los expertos, se podría incluso llegar a estudiar lo que pasó un milisegundo después del Big Bang. Lombardo calificó el anuncio, que circulaba como rumor entre científicos desde diciembre pasado, como “asombroso” debido a que la gran dificultad para lograr lo que se comprobó radicaba en “medir algo que estaba extremadamente lejos, con una distancia más pequeña que la del núcleo de un átomo”. Las ondas fueron detectadas el pasado 14 de septiembre por los dos detectores de LIGO, tal como se conoce a este equipo de investigadores, uno localizado en Livingston, Louisiana, y otro en Hanford, Washington, en EE.UU. Lombardo también indicó que esta comprobación “es una de las grandes noticias, y que podría ser objeto de un Premio Nobel: abre la puerta a episodios más importantes de acá al futuro, estudiar el Universo de una manera que no conocíamos sin telescopios ni antenas de radio”. Hasta ahora, el conocimiento del Cosmos se realizaba principalmente a través de la radiación electromagnética, o sea a través de la luz. Con ellas se puede “ver”, mientras que con las ondas gravitacionales sería como “oír”, lo que permitiría pasar a través de los objetos que hay entre la Tierra y el otro extremo del Universo, pues las ondas lo atraviesan todo.

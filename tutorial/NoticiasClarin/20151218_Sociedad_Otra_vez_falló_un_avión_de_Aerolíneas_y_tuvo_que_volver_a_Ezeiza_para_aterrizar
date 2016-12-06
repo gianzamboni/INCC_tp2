@@ -1,0 +1,18 @@
+
+El vuelo de Aerolíneas Argentinas AR1160 que salió anoche de Buenos Aires no pudo llegar a Barcelona, como estaba previsto. Cuando se encontraba sobrevolando Uruguay, tras pasar Montevideo, su comandante decidió volver por un problema en un motor. Ya en el aeropuerto de Ezeiza, la aeronave tuvo un intento fallido por bajar a tierra, hasta que finalmente logró descender. "El vuelo había salido a las 0.20 horas con destino a Barcelona, España. Al poco tiempo de salir le detectaron un problema en el motor y dio media vuelta para volver a Ezeiza. Después de un intento fallido por aterrizar y sobrevolar el aeropuerto, el avión volvió a las 2.40", informó TN.Leé también: Aerolíneas, con récord de subsidios: $ 5.083 millones"El último mes hubo varios problemas con este mismo avión. Es el LV-CSF que vuela desde 1996 y está a punto de cumplir 20 años. En las buenas aerolíneas se trata de que los aviones no superen los 10 años", señaló, en diálogo con Clarín, Franco Rinaldi, licenciado en ciencias políticas, escritor y periodista especializado en aronáutica. Para sus investigaciones, Rinaldi acude a sus contactos dentro del sindicato y a las fuentes de información que fue juntando durante los tres años que le llevó publicar su libro "Aerolíneas Argentinas, 2000 días de pérdidas".
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/FrancoVRinaldi/status/677722912774819841",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_67772291277481984")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+"Además de tener 20 años, este avión no se fabrica desde el 2011, salió de línea de producción porque ya no lo demandaban. Así que se complica conseguir aeropartes. La mayoría de las aerolíneas los están sacando ya hace años de servicio. Tuve reuniones con gente de LAN y me confirmaron que ya no tienen ninguno", explica Rinaldi. "Este avión lo trajo Mariano Recalde (en ese momento presidente de Aerolíneas Argentinas) en el 2012. Lo alquilaron ya con 16 años de antigüedad y, encima, hacía dos años que ya no se fabricaba", agrega.Leé también: Una comparación con Air France que no nos favoreceEl experto aseguró que este no es un hecho aislado, sino que son varias las aeronaves de la compañía que tienen problemas, principalmente las que van a Madrid, Roma y Barcelona. "Son temas vinculados a la antigüedad de los aviones y a problemas de mantenimiento", sostiene. 

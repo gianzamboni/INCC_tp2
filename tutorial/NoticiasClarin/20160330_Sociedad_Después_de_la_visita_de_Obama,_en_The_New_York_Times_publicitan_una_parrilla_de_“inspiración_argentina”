@@ -1,0 +1,36 @@
+
+Messi tiene un único oponente que logra marcarlo. La carne. Cuando se habla en el mundo de las “maravillas” argentinas. La buena fama de la gastronomía carnívora de nuestro país terminó de consagrarse el miércoles pasado cuando Michelle Obama esquivó los platos gourmet y eligió almorzar en una parrilla de San Telmo. Y hasta el propio Barack dijo que no iba a irse de Argentina sin antes probar un bife. Luego de toda esa oda yankee a la vedette de nuestra cocina, hoy en The New York Times se publicitó una parilla de “inspiración argentina”.
+
+Parrila Grillworks, modelo para restaurantes estadounidenses. Su versión hogareña cuesta 3 mil dólares. La reminiscencia a nuestra parilla es el slogan de Grillworks, que fabrica el modelo de grill argentina que se vende en EE.UU. a partir de los U$S 3000, en su versión hogareña. “De chico viví en Buenos Aires. Mi padre era corresponsal de la revista Time Magazine y cubrió el regreso de Perón. Allí es donde conoció el asado y se enamoró de las parrillas argentinas”, cuenta a Clarín Ben Eisendrath, presidente de la compañía que remontó a partir del hobby de su padre. Mirá también: Cómo será el restaurante de los hermanos Messi En The New York Times se publicitó el modelo para el hogar: 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/OpyMorales/status/715164786791694336",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71516478679169433")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ “Cuando volvimos a EE.UU. mi padre diseñó una parrilla al estilo argentino para él y otras para algunos de sus amigos. Como periodistas especializados en comida, críticos gastronómicos y chefs se interesaron mucho en esas parrillas, las construyó durante muchos años bajo el nombre de The Grillery and Grillworks”, relata Ben y aclara que Charles Eisendrath sigue siendo periodista y viene a nuestro país todos los años. “Mi padre dejó de hacer parrillas en los años 90 y, como era triste ver que el hobby familiar había desaparecido, remonté Grillworks en 2007”, resume. “Mis parillas están tan inspiradas en Argentina como nosotros mismos lo estamos”, dice el hombre que volvió a nuestro país en varias oportunidades. Sobre la “inspiración argentina” de sus parillas -se construyen en diferentes tamaños y opciones de cocción y a pedido de restaurantes- Ben explica que las Grillworks tienen la “firma” argentina de la forma de “V”, para que escurra la grasa, en la superficie donde se apoyará la carne. “Nuestras parrillas tienen un largo rango de ajuste de altura para poder controlar el calor del fuego, de la misma manera que lo hacen en Argentina”, detalla. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/OpyMorales/status/715182882004709376",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71518288200470937")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Se reavivan algunas importaciones de alimentos y reclaman ponerles freno Las parrillas de “inspiración argentina” son un gran negocio, pero continúan fabricándose a mano en acero inoxidable, latón y alumino moldeado. Nacieron como un pasatiempo en el patio de esa casa de Michigan, EE.UU. y, 30 años después, resuenan en Argentina por una publicidad de gran tamaño en uno de los diarios más importantes del mundo. 

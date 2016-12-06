@@ -1,0 +1,24 @@
+
+ La parsimonia con la que Marcos Peña venía respondiendo a las preguntas de los diputados en su primer informe como jefe de Gabinete se cortó de repente cuando Andrés Larroque y Araceli Ferreyra comenzaron a increparlo e interrumpirlo en medio de su alocución.
+
+ “Entiendo que debe ser muy duro para ustedes ver las imágenes de lo que está pasando con Lázaro Báez, expliquen primero lo suyo y después demanden con la hipocresía que hacen”, les lanzó el funcionario de Cambiemos. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Antes, Peña y Larroque ya habían subido el tono de la sesión, al hablar del PAMI. “Llevaron al PAMI a los peores momentos de la historia, háganse cargo”, le dijo al diputado de La Cámpora. Lo hizo al referirse a la gestión de Luciano Di Césare, quien ayer fue citado a indagatoria por el juez federal Ariel Lijo por un presunto delito en el cobro de 1,3 millones de pesos al dejar el cargo en concepto de "vacaciones no gozadas". Foto larroque Mirá también: Citaron al ex director del PAMI que cobró 1,3 millones por vacaciones Sin el micrófono encendió, Larroque saltó de si banca y comenzó a gritarle. En las bancas del kirchnerismo había carteles con nombres de empresas off shore, en una clara ironía para Mauricio Macri, por su aparición en los Panamá Papers.
+
+“Cuando quieran hablamos con respeto”, afirmó Peña, mientras el titular del cuerpo, Emilio Monzó intentaba calmar los ánimos del recinto.  Los diputados K, que le enviaron más de 200 preguntas de las 508 que recibió, también lo interrogaron por la venta de dólar futuro. El jefe de Gabinete defendió al secretario de Coordinación Interministerial, Mario Quintana, denunciado por la compra de dólar futuro.
+
+Mirá también: Antes los diputados, Peña insistió en que "no hay una ola de despidos"  “Entiendo la estrategia de tratar de confundir. Es falso que haya habido funcionarios que, producto de compra dólar futuro, hayan incidido decisión económica del gobierno”, sostuvo. Y fue más allá, lanzando otro dardo a los kirchneristas: “Puedo garantizar que nuestros funcionarios van a salir con el mismo patrimonio o menos, ojalá digan lo mismo ustedes”, soltó.  Envalentonado y subiendo el tono, fue más allá y dijo que, en caso de ser citados a la Justicia, “nos vamos a presentar sin apretar jueces, sin apretar periodistas, la Argentina cambió y cambió para bien. No vamos a hacer actos, vamos a contestar como siempre”, arremetió, en una clara crítica al acto que encabezó la ex presidenta Cristina Fernández de Kirchner. “Si alguien especuló o promovió la especulación fueron los que generaron seis tipos de cambio, háganse cargo”, los cruzó. Seguí la sesión en vivo: 

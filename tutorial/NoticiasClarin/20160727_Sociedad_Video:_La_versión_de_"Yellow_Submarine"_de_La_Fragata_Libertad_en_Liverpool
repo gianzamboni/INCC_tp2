@@ -1,0 +1,38 @@
+
+Liverpool quedará en la memoria de los tripulantes del 45º Viaje de Instrucción de la Fragata Libertad. En su llegada, el sábado, "351 marineros entraron al puerto, con los gavieros desplegados en los palos y cantando canciones de The Beatles", según describe el equipo de prensa de la Argentine Embassy UK. Fue la primera visita de la Fragata a Inglaterra en 14 años y la tripulación hizo un colorido homenaje a los Beatles cantando “Yellow Submarine”, “All you need is love” y “I want to hold your hand”, entre otras canciones. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El domingo, más de 1500 visitantes pudieron ver la majestuosidad del velero que conserva el récord del cruce del Océano Atlántico Norte. El lunes, autoridades argentinas, junto a miembros de la comunidad galesa, llevaron una ofrenda floral al Mimosa Memorial, que conmemora la partida de los primeros galeses a la Patagonia en 1865. Por la tarde, los cadetes intercambiaron anécdotas con sus pares de la Universidad de Liverpool (Royal Navy Unit). Mirá también: La Fragata Libertad llegó a Inglaterra por primera vez en 14 años
+
+El martes, la Fragata zarpó a Dublín y este miércoles a la mañana (hora argentina) Macri habló por Skype con el Capitán. La Fragata volverá a Argentina en noviembre luego de 196 días de viaje. “Es un privilegio tener a la Fragata, la mejor embajadora, mucho mejor que yo", bromeó el embajador argentino ante el Reino Unido, Carlos Sersale di Cerisano. Y agregó: "es histórico para nosotros los argentinos, luego de tantos años sin recibir su visita en el Reino Unido”. Durante una recepción el lunes por la noche, víspera de la partida de la nave a Dublin, el diplomático dio la bienvenida a los representantes del Ministerio de Defensa y agradeció a las autoridades locales; especialmente a Mr Jim Davies. High Sheriff of Merseyside, por el apoyo y el trabajo para que fuera posible el arribo del buque escuela.
+
+En su turno, el Comandante Ignacio Errecaborde dijo que “nuestras sociedades, la británica y la argentina, son muy cercanas. Más de lo que las personas tienden a pensar”. “Esos valores compartidos, son como un lenguaje para comunicarse y conectarse”, agregó el "padre" de la tripulación, que propuso “un brindis por esos vínculos y valores comunes del pasado que deberían llevarnos al futuro. Salud”.   Según la Embajada, la despedida fue "una manifestación de la enriquecedora experiencia construida en 4 días durante el regreso de la Fragata Libertad al Reino Unido". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ El sábado por la noche la Fragata Libertad hizo su ansiada entrada a Liverpool—puerto que no visitaba desde 1992—.  “Estamos muy contentos de estar en el Reino Unido después de tanto tiempo”, aseguró el Comandante Errecaborde minutos después del amarre, y manifestó el valor de esta experiencia para las nuevas generaciones de cadetes a bordo. “Pasaron 14 años desde la última visita a este país, y llegar a este puerto, a esta ciudad tan músical y tan joven, nos llena. Tenemos nuevos desafíos y nos gusta construir puentes”, agregó.

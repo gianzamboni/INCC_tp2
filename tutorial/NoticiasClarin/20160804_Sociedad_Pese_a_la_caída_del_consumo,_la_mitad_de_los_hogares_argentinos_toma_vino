@@ -1,0 +1,74 @@
+
+El consumo de vino cayó 10% en el primer semestre de este año, según datos del Instituto Nacional de Vitivinicultura, en línea con lo que viene sucediendo con el consumo en general. Sin embargo, según otro estudio, difundido ayer por la Corporación Vitivinícola Argentina (Coviar) el vino se mantiene como un producto de consumo masivo en la Argentina.  Mirá también: De la caja a la copa: los nuevos formatos para consumir vino que se están poniendo de moda Dicho estudio afirma que cinco de cada 10 hogares del país consume vino habitualmente.  En 6 millones de familias de la Argentina se consume vino al menos un vez por trimestre, alcanzando así a 14.600.000 de personas (casi la mitad de la población mayor a 18 años), precisó el trabajo, dado a conocer ayer  en Buenos Aires ante la prensa especializada.
+
+Mirá también: Por primera vez el premio mayor de la industria del vino es para un argentino En la presentación, Guillermo Oliveto, titular de la Consultora W, destacó además la importancia del mercado interno, donde se vende 75% de lo que se produce en el país. Según él, el consumo per cápita de vino en el mercado interno dejó de caer como lo venía haciendo hasta 2004 y se estabilizó en un valor cercano a los 25 litros anuales, siendo uno de los 10 principales mercados internos del mundo. 
+
+
+"Hoy lo consumen habitualmente uno de cada dos argentinos y lo compran uno de cada dos hogares al menos una vez por trimestre; este fue un logro de todo el sector", dijo Guillermo Oliveto.
+
+
+
+
+
+var act_5c9 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_5c9 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_5c9.setTitle('"Hoy lo consumen habitualmente uno de cada dos argentinos y lo compran uno de cada dos hogares al menos una vez por trimestre; este fue un logro de todo el sector", dijo Guillermo Oliveto.');
+act_5c9.setSubtitle('Al menos un vino por trimestre'); 
+act_5c9.setLinkBack('http://www.clarin.com/sociedad/Pese-consumo-hogares-argentinos-habitualmente_0_1625837463.html');
+act_5c9.setDescription('Según un estudio de la Corporación Vitivinícola Argentina, se consume en cinco de cada diez hogares. Argentina tiene uno de los 10 mercados internos más grandes del mundo.');
+act_5c9.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/Pese-consumo-hogares-argentinos-habitualmente_0_1625837463.html');
+
+var showShareBarUI_params_5c9=
+{ 
+containerID: 'shareQuote_5c9',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_5c9,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_5c9
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_5c9);
+ Por ello, la Argentina figura entre los diez primeros de los países con mayor consumo de vino per capita (con 25,6 litros). Según el diagnóstico articulado por Consultora W sobre la base de relevamientos realizados por consultoras internacionales y tras un debate del que participaron más de 60 bodegas, el 83% del vino se bebe en el hogar (81% junto con la comida y en compañía).
+
+El vino tinto sigue siendo el elegido por el consumidor argentino, con el 88%; seguido por el blanco, con un 23%; y el rosado, con sólo un 3%. El 47% lo toma solo pero hoy también se lo diluye: 29% elige el hielo; el 21%, la soda; el 12% la gaseosa y 4%, el jugo. Mirá también: Cuatro restaurantes argentinos, premiados por sus cartas de vino En cuanto al género, del 51% de los consumidores habituales, el 61% son hombres y el 41% son mujeres; y es la bebida elegida por 41% de los jóvenes entre 18 y 25 años, por el 53% de los adultos jóvenes (26 a 35 años), el 49% de los adultos (36 a 49 años) y 58% de los adultos mayores (50 a 70 años). El 82,5% del mercado se centra en los vinos de precio medio bajo, finitos y tetra brik, que representan ocho de cada 10 litros consumidos y dos de cada tres pesos vendidos. Su penetración de consumo es similar en todas las clases sociales, por lo que -enfatizó Olivetto- el vino como producto está presente en los hogares sin distinción.
+
+Este trabajo se enmarca en el Plan Estratégico Vitivinícola 2020, a cargo de la Coviar. "Pensamos el Plan para crear valor en nuestra industria a través de la organización e integración de los productores, la elaboración de vinos con mayor calidad, el desarrollo de nuestra capacidad exportadora y la fidelización de nuestros consumidores internos y externos", explicó Wilhelm de Vaieretti. Mirá también: Logro para el vino argentino: un malbec, con puntaje perfecto Según la dirigente, "los históricos desencuentros dieron lugar al consenso con una visión de mediano y largo plazo convirtiendo al Plan en una política de Estado", Y agregó:  "Somos siete provincias vitivinícolas, 18.000 productores, 25.000 viñedos, 900 establecimientos, 2.000 millones de dólares de valor agregado y 115 mil puestos de trabajo directos; queremos mantener esa diversidad y trabajar en pos de una cadena de valor que aliente la mejora en la calidad en los productos, que le asegure a las bodegas la provisión de materia prima y que le dé certeza al productor sobre el destino de sus productos y de sus ingresos". Fuente: Télam

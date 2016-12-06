@@ -1,0 +1,18 @@
+
+Los chicos apretaban sus puños contra los bolsillos para atenuar el frío helado de la mañana de invierno, las autoridades municipales de Necochea también formaban una fila al costado del micrófono y esperaban el discurso del Día de la Bandera a cargo de una de las docentes. Pero la formalidad del acto terminó en escándalo cuando la maestra encargada de la alusión patria levantó la voz para hacer una férrea defensa de las políticas kirchneristas y minimizar los casos de corrupción que estallan en el país. “Celebro que esta plaza no tenga tanques, ni armas ni gente reprimiendo”, comenzó su arenga Silvia Panarese, vicedirectora de la Escuela 40 de Quequén. Mirá también: Desfile, jura y banderas en el fin de semana con dos feriados  Pero no terminó allí. “No dejemos que nos sigan mezclando los zapallos con los melones. Los casos de corrupción están tapando lo principal: la inflación, el desempleo, la baja de salarios y el aumento de la pobreza”, enumeró la docente, y ya para entonces comenzaron algunos abucheos entre los asistentes a la ceremonia que se realizó el martes en la plaza central de Necochea. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Hasta tuvo un párrafo dedicado a los medios de comunicación, casi como una rémora de 6,7,8: “Hoy el periodismo se presta a todo tipo de operaciones políticas y más que informar desinforma haciendo que el árbol nos tape el bosque”, dijo Panarese. Mirá también: Incidentes durante el acto de Macri en Rosario: un concejal K, con un corte en la cabeza  Era el comienzo de una polémica que no para de crecer en ese municipio. El libro de quejas de la Municipalidad se llenó de reproches. Es que había más de 500 padres esperando para el tradicional acto de Jura de Lealtad a la Bandera, y se encontraron con un encendido discurso a favor de los gobiernos kirchneristas. Según cuentan los testigos, algunos maestros de otros establecimientos decidieron retirar a sus alumnos en medio de la celebración.  Pero el incidente ahora adopta costados institucionales: el jefe de Educación Distrital de Necochea pidió disculpas a la población a través de un comunicado. “El día que están los alumnos de cuarto año de todo el distrito –acompañados por sus familias- para realizar la promesa a la bandera no es el momento, ni el ámbito apropiado, para el tenor de dicho discurso”, dijo el funcionario encargado del área. El intendente, Facundo López (Frente Renovador), también cuestionó el “momento y la oportunidad” del pronunciamiento de la docente.  Ahora, las autoridades de Escuelas evalúan una posible sanción contra la directora, según pudo averiguar Clarín en La Plata. Y además, Suteba, gremio al que está afiliada la educadora, plantea realizar una marcha para defender la postura de la vicedirectora. 

@@ -1,0 +1,20 @@
+
+El ministro del Interior, Rogelio Frigerio, apuntó contra Julio de Vido tras el procesamiento del actual diputado nacional y ex titular de la cartera de Planificación Federal en la causa por la tragedia de Once. “Los fueros están en la Constitución para que nadie pueda ser detenido por expresar sus opiniones. No son para la impunidad, son para proteger la libertad de nuestros representantes para que se expresen”, sostuvo Frigerio anoche en el programa de Mirtha Legrand. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La frase tuvo como blanco directo a De Vido, quien hace nueve días evitó un allanamiento a su domicilio amparándose en su condición de legislador. Paolo Menghini, presente en la mesa y padre de una de las 52 víctimas de la llamada tragedia de Once, había dicho días antes: “Los fueros no están para evadir a la Justicia”. El juez federal Claudio Bonadio considera a De Vido, ministro de Planificación Federal durante el gobierno de Cristina Kirchner, como "supuesto coautor del delito de descarrilamiento y presunto partícipe necesario del delito de defraudación contra la administración pública por administración fraudulenta".
+
+El artículo 68 de la Constitución determina que “ninguno de los miembros del Congreso puede ser acusado (…) por las opiniones o discursos que emita”. El 69 enuncia que los legisladores sólo pueden ser arrestados “en el caso de ser sorprendido in fraganti en la ejecución de algún crimen”. De todos modos, por la Ley 25.320, del año 2000, los legisladores, magistrados y funcionarios sí pueden ser investigados, e incluso condenados. Más adelante, Frigerio se refirió a la marcha de la economía ante una queja de Mirtha Legrand por lo “drástico” de los incrementos de las tarifas. El ministro reconoció: “Los aumentos fueron importantes. Hay mucha gente que está pagando el doble, quizá más, de lo que pagaba”. Pero al instante defendió las medidas al decir que “el costo de la electricidad, el agua y el transporte, son tres o cuatro veces superiores a lo que está pagando la gente”. Y no dejó de responsabilizar a la administración de Cristina Kichner: “Lo que hizo el Gobierno, de congelar las tarifas durante tanto tiempo, fue de una irresponsabilidad tremenda, todavía el Estado subsidia gran parte de las tarifas de los servicios públicos”. Acerca de la inflación, Frigerio destacó que sobre la base de las medidas tomadas tienen “confianza en que en la segunda parte del año" van a "vencer a la inflación". Y pronosticó: "Estará en un 2% mensual”.

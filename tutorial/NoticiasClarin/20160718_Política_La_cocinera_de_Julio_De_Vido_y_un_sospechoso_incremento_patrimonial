@@ -1,0 +1,20 @@
+
+El diputado nacional por la UCR Gabriel Hernández aseguró anoche que una mujer formoseña que trabaja como empleada doméstica del ex ministro Julio De Vido tuvo un "incremento patrimonial injustificable", ya que pasó de la "precariedad económica" a tener gran cantidad de vehículos y propiedades en su provincia. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Hernández, quien representa en el Congreso a la provincia de Formosa, afirmó que Nélida Caballero tenía una situación de "precariedad económica" cuando vivía en su provincia natal, por lo que emigró a Santa Cruz, adonde "conoció a la familia Kirchner" y "más adelante trabajó con Julio De Vido", aseguró. Mirá también: Schoklender: "López fue el arquitecto de toda la ingeniería patrimonial de los Kirchner" Según el diputado, Caballero posee "alrededor de 1,5 millón a 2 millones de pesos solamente en vehículos, todos inscriptos en el domicilio particular de Julio De Vido, en la avenida del Libertador de la ciudad de Buenos Aires".
+
+Así lo reveló, en declaraciones al programa PPT, que mostró parte de las propiedades de la mujer, como un campo, vehículos de alta gama y una agencia de quinielas en su provincia. "Hay un incremento patrimonial injustificable" de Caballero, sostuvo Hernández, ya que esto se demuestra "en la adquisición de vehículos de alta gama", además de "inmuebles, la apertura de diferentes actividades empresariales y la compra de un campo" en la provincia, aseguró. Según el informe del programa, Caballero trabajó en el hotel Los Álamos de El Calafate, perteneciente a la familia Kirchner, y luego comenzó a trabajar como cocinera de De Vido. Mirá también: Stolbizer: "Los Kirchner tienen una enfermedad brutal con el dinero"

@@ -1,0 +1,68 @@
+
+ "Si me sigue nombrando sin pruebas, voy a denunciar a Carrió", afirmó Daniel Angelici. El presidente de Boca y amigo personal de Mauricio Macri aseguró que la líder de la Coalición Cívica-ARI miente y daña su imagen. Y además, le aconsejó evaluar su continuidad en el frente Cambiemos, Carrió comenzó su embestida contra el empresario de juegos y hombre influyente en el PRO al decir que "tomé conocimiento de que un tal señor (Daniel) Angelici, que no sabía ni quién era, dado que no miro fútbol, hablaba con (el juez federal Norberto) Oyarbide pidiéndole que se jubilara". "Almorzaba con jueces y fiscales vinculados a Boca (Juniors) y que ayudaba al Presidente sin cumplir función institucional alguna", detalló Carrió y fue hasta la Justicia con esos dichos. Y ya hay una causa por supuesto tráfico de influencias contra el titular de Boca, impulsada por el fiscal Federico Delgado tras una denuncia del abogado Carlos Díaz, quien presentó el video de Carrió en el programa "Animales Sueltos" donde la chaqueña dijo que "Angelici interfiere en la Justicia desde el club de fútbol con el consentimiento del presidente de la República". Angelici, que ya rechazó en público la etiqueta de "operador judicial", con la guerra declarada, le respondió por el diario El Cronista:  
+
+
+"Si Carrió sigue diciendo mi nombre y apellido, y después no lleva pruebas a los Tribunales, lo voy a pensar porque lo único que hace es dañar mi imagen, al no ser ciertas las cosas. Soy un militante político desde hace más de 30 años, me recibí de abogado, participo de las elecciones de graduados y del Colegio Público de Abogados. Conozco mucha gente como presidentes de otros países, embajadores, gobernadores, senadores, diputados, jueces y empresarios. Nada de eso me parece ser un ilícito", respondió Angelici.
+
+
+
+
+
+var act_33a = new gigya.socialize.UserAction();
+
+var emailBodyCustom_33a = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_33a.setTitle('&quot;Si&nbsp;Carri&oacute; sigue diciendo mi nombre y apellido, y despu&eacute;s no lleva pruebas a los Tribunales, lo voy a pensar porque lo &uacute;nico que hace es da&ntilde;ar mi imagen, al no ser ciertas las cosas. Soy un militante pol&iacute;tico desde hace m&aacute;s de 30 a&ntilde;os, me recib&iacute; de abogado, participo de las elecciones de graduados y del Colegio P&uacute;blico de Abogados. Conozco mucha gente como presidentes de otros pa&iacute;ses, embajadores, gobernadores, senadores, diputados, jueces y empresarios. Nada de eso me parece ser un il&iacute;cito&quot;, respondi&oacute; Angelici.');
+act_33a.setSubtitle('PELEA EN CAMBIEMOS'); 
+act_33a.setLinkBack('http://www.clarin.com/politica/Angelici-respondio-nombrando-denunciar-Carrio_0_1549645171.html');
+act_33a.setDescription('El presidente de Boca y amigo de Macri dice que la diputada del ARI&nbsp;&quot;miente&quot;.&nbsp;Y le aconsej&oacute; evaluar su continuidad en Cambiemos.');
+act_33a.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Angelici-respondio-nombrando-denunciar-Carrio_0_1549645171.html');
+
+var showShareBarUI_params_33a=
+{ 
+containerID: 'shareQuote_33a',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_33a,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_33a
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_33a);
+ Carrió ayer, denunció a Angelici ante la Justicia y declarón ante el juez En ésto último, el amigo presidencial coincidió con una desesperanzada Carrió. "No sé si es delito pero estoy harta", reprochó ante el juez Sebastián Casanello.  la chaqueña, ahora con domicilio bonaerense. También lo acusó de ser "un zar del juego" y de tener nexos con servicios de inteligencia. "No sé qué van a hacer con ésto, a lo mejor es un testimonio histórico. Pero me voy a ir sin haber pactado nunca con ninguna corporación ni política, ni económica, ni judicial y así será", se jactó, antes de reclamar que Oyarbide "tiene que ser destituido por delincuente". Mirá también: Carrió declaró en la Justicia por sus denuncias contra Angelici: “Estoy harta” La diputada nacional por Cambiemos Elisa Carrió ratificó ayer ante la Justicia sus denuncias contra el presidente de Boca Juniors, Daniel Angelici, y aseguró que le "toca cuestionar al Gobierno" que llevó "al poder", al prestar declaración testimonial.Carrió se presentó hoy ante el Juzgado Criminal y Correccional Nro. 7. Mirá también: Ahora Carrió critica el “ajuste brutal” en agua, transportes y gas La legisladora, quien indicó que no "conoce ni el rostro del señor Angelici", alertó que el dirigente cercano al presidente Mauricio Macri es "uno más en la larga tragedia nacional de operadores y vínculos promiscuos entre operadores políticos, la justicia, los servicios de inteligencia y los clubes de fútbol". En su declaración testimonial, Carrió recordó que selló un "acuerdo" con el PRO y la UCR "cuyos ejes eran la República, la rebaja sustantiva de impuestos a las clases medias, el fin del juego, y nunca más impunidad para ningún funcionario público". Mirá también: Carrió calificó a los jueces federales como “el escándalo institucional en la Argentina” Luego de realizar un racconto sobre los "operadores políticos" en el ámbito judicial durante los últimos años, como Enrique Nosiglia, Javier Fernández, Rodolfo Barra, Arnoldo Klainer, entre otros, Carrió aseguró ante Casanello que se dedicó "a estudiar" a Angelici y lo ubicó como "uno más en la larga tragedia nacional de operadores y vínculos promiscuos entre operadores políticos, la justicia, los servicios de inteligencia y los clubes de fútbol". "No sé si es delito pero estoy harta", expresó la dirigente de la Coalición Cívica sobre su denuncia sobre el presidente de Boca Juniors, y agregó que Oyarbide "tiene que ser destituido por delincuente, no jubilarse". También se refirió al vínculo que une a Angelici con Macri y expresó que le toca "cuestionar al gobierno" que llevó "al poder", y que lo hace "de la misma manera que cuando era oposición porque la lucha por el derecho no se negocia". Por otro lado, criticó la actuación del fiscal Carlos Stornelli en el "estancamiento" de la causa Hotesur, y remarcó que "está vinculado al Club Boca Juniors, no tengo dudas", y calificó como "altamente preocupante" la "relación estrecha del señor Angelici con el doctor Darío Richarte, por haber sido defensor de todos los funcionarios kirchneristas y, además, por su alta incidencia en designaciones en lugares claves del gobierno a través de Angelici".

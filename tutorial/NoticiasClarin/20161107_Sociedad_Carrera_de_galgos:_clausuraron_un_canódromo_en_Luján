@@ -1,0 +1,20 @@
+
+Las carreras de galgos siguen siendo una triste realidad, a pesar del avance del proyecto de ley que establece la prohibición de realizarlas en todo el territorio nacional, que ya tiene media sanción en la Cámara de Senadores. De hecho, ayer clausuraron un canódromo en Luján que estaba en plena actividad. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Un video muestra el momento en que los efectivos de la Policía arribaron en el predio. El lugar, que está muy cerca de la autopista pero es de difícil acceso para no ser detectado, será clausurado. De acuerdo a los investigadores, desde hacía mucho tiempo se desarrollaban estos eventos y se apostaba dinero de manera ilegal. Había pistas de carreras, gateras, lugares de apuestas y todos los elementos necesarios para su desarrollo. Durante el operativo se incautaron los elementos probatorios y se puso en resguardo a los animales. Mirá también: Los amenazan por organizar una marcha contra las carreras de galgos  En la Provincia de Buenos Aires, esta actividad es ilegal y está penada desde el año 2000. Hay dos leyes que se tienen en cuenta: la que prohíbe el juego clandestino y la que prohíbe las carreras de perros, no solo de galgos sino de todas las razas.
+
+ También están prohibidas en Santa Fe desde el 2014 y en Neuquén desde junio de este año. En Córdoba, considerada una de las provincias más galgueras, hay tres proyectos presentados en este sentido. A nivel nacional, la iniciativa que se está debatiendo establece la prohibición de las carreras de perros en todo el país y castiga con prisión de uno a cuatro años y multas de hasta 80 mil pesos a quien “organice, participe o promueva esas competencias”. Mirá también: Con protestas, la polémica por las carreras de galgos llegó al Congreso

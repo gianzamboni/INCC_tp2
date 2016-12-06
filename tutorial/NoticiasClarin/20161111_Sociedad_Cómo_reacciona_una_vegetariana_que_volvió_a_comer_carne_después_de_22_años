@@ -1,0 +1,18 @@
+
+Una persona deja de comer carne por determinadas convicciones. Puede pasar décadas sin probar nada que venga del mundo animal. Pero un día, algo mina esa resistencia y cede. ¿Cómo es la reacción de una vegetariana que vuelve a probar un trozo de carne después de más de dos décadas? Este video viral lo muestra. Mirá también: "Soy una vegana arrepentida"  La historia de Stephanie Potakis se volvió viral. La chica es una directora de casting, que en cuarto grado decidió convertirse en vegetariana porque estaba preocupada por el ambiente y quería hacer algo para “salvar el mundo”, para horror de su familia de origen griego, donde la carne era un básico de su alimentación.  Según contó el portal A.V. Club, el verano pasado Potakis fue a un festival gastronómico y alucinó con el olor de las costillas a la parrilla. Fue un punto de inflexión, reconoció. Y esa vuelta a la carne se produjo hace unas semanas en uno de los mejores restaurantes de esa especialidad de Chicago, donde la llevaron a volver a comer un bife. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Los gestos de Stephanie revelan claramente lo que significó esta experiencia para ella: placer total. “¿Me pusieron algo de alcohol? ¿Estoy borracha?”, pregunta al final del almuerzo, después de haber comido tres platos. El primero que prueba es un pollo crocante. “Ahora entiendo lo que quiere decir jugoso”, asegura en éxtasis, antes de asegurar que el sabor “no tiene nada que ver con los vegetales”. También delira con un bife wagyu, una variedad japonesa conocida por su sabor y terneza únicos. “Hay un nivel diferente de comida que no sabía que existía y estoy tan feliz de ser parte de él ahora”, dice al terminar su bife, e increpa al espectador si está “celoso” por lo que ella está comiendo. Pero lo que la volvió más loca es el caracú. “Es la parte más rara del animal para comerla. Es mi nueva comida favorita ahora”, asegura. Mirá también: Video: Qué pasaría si los "carnívoros" hicieran como los veganos  El video termina con Potakis abrazando al chef de Swift & Sons, el restaurante de la degustación: “Voy a comer carne hasta el día que me muera, que puede ser esta noche, no lo sé”.

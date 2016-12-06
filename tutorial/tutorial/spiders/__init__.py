@@ -56,6 +56,7 @@ DICCFECHAS = {}
 def todasLasNoticias():
 	
 	global DICCFECHAS
+	logFile = open("log", "ab")
 	folder = "listasNoticias"
 	noticias = []
 	for filename in os.listdir(folder):
@@ -67,14 +68,15 @@ def todasLasNoticias():
 			print(link.split("/")[-1])
 			DICCFECHAS[link.split("/")[-1]] = fecha
 		f.close()
+	logFile.write(str(len(noticias)) + "\n")
+	logFile.close()
 	return noticias;
 
 
 def getText(response, url):
-
+	logFile = open("log", "ab")
 	htmlParseado = BeautifulSoup(response, 'html.parser')
 	divNota = htmlParseado.find("div", { "class" : "nota" })
-
 	quotes = divNota.find_all("p", {"style" : "text-align: right;"})
 	if(quotes != []):
 		for element in quotes:
@@ -93,7 +95,9 @@ def getText(response, url):
 	file = open("NoticiasClarin/" + filename, "wb")
 	file.write(contenido)
 	file.close()
+	logFile.write("Archivo " + filename + " guardado\n")
 	print("\033[1;31m" + "Archivo " + filename + " guardado" + "\033[0;37m")
+	return filename
 
 class ClarinSpider(scrapy.Spider):
     name = "clarin"

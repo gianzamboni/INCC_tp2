@@ -1,0 +1,68 @@
+
+El ministro de Trabajo, Jorge Triaca, aseguró hoy que los beneficios anunciados tras el acuerdo con la CGT "es el esfuerzo que se puede dar", y destacó que el empleo registrado creció en julio y agosto. "Más allá de las enormes dificultades, tenemos que mirar el contexto en el que está el Gobierno en relación a los recursos fiscales y este es el esfuerzo que entendemos que se puede hacer", expresó. En declaraciones a radio La Red, el funcionario agregó que el Gobierno "no desconoce la realidad social de aquellos que están en el sector más vulnerable" y que por eso pone "el foco ahí". El funcionario detalló que los 1.000 pesos que se darán a quienes perciben la Asignación Universal por Hijo serán por grupo familiar y no a nivel individual. O sea que cada familia recibirá ese monto, más allá de la cantidad de hijos de ese núcleo familiar.- Además, dijo que alcanzará a las embarazadas; de este modo, según el funcionario, "van a recibir este beneficio casi 4 millones de chicos". 
+
+
+Hoy, 2.200.000 hogares recibe la AUH, lo que equivale a 3.8 millones de chicos.
+
+
+
+
+
+var act_bd4 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_bd4 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_bd4.setTitle('Hoy, 2.200.000 hogares recibe la AUH, lo que&nbsp;equivale a 3.8 millones de chicos.');
+act_bd4.setSubtitle('Bono para las AUH'); 
+act_bd4.setLinkBack('http://www.clarin.com/politica/Triaca-grupo-familiar-cantidad-hijos_0_1667833218.html');
+act_bd4.setDescription('Tras el acuerdo con la CGT, el ministro de Trabajo afirmó que es "el esfuerzo que se puede dar". Hoy, 2.200.000 hogares recibe la AUH, lo que equivale a 3.8 millones de chicos.');
+act_bd4.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Triaca-grupo-familiar-cantidad-hijos_0_1667833218.html');
+
+var showShareBarUI_params_bd4=
+{ 
+containerID: 'shareQuote_bd4',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_bd4,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_bd4
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_bd4);
+ Mirá también: Tras acuerdo con la CGT, el Gobierno convocó por decreto al "diálogo para la producción y el trabajo" Ayer, durante un encuentro con la cúpula de la CGT unificada, el Gobierno anunció que otorgará, en diciembre, un monto de mil pesos para los jubilados que cobran el haber mínimo y una suma para las familias beneficiarias de la Asignación Universal por Hijo, además de eximir "15 mil pesos" de ganancias en el aguinaldo a las remuneraciones brutas de hasta 55 mil pesos. Con respecto al reclamo sindical para que las empresas privadas otorguen un bono de fin de año, Triaca afirmó que el foco del Gobierno está en "la posibilidad que los argentinos tengan un escenario en el que mejore la situación de la producción y del empleo". No obstante, admitió "que la dirigencia sindical tiene como prioridad llevar el debate la recomposición del poder adquisitivo" a la mesa de diálogo tripartito que se realizará la semana próxima. En ese contexto, aclaró que en el caso de los empleados públicos "cada una de las jurisdicciones tiene que tener la libertad de poder analizar su situación" porque desde el Ejecutivo nacional no quieren "imponerle el criterio a nadie". Por otro lado, Triaca anunció la "muy buena noticia" de que "cambió la tendencia" y está creciendo el empleo registrado. "En julio hubo un incremento de casi 5 mil puestos de trabajo, y en agosto, 22 mil. Es decir, se empieza a revertir esa situación que estaba muy focalizada en los trabajadores de la construcción y de la industria manufacturera vinculada a Brasil. Podemos decir que se ha incrementado la cantidad de empleo registrado", detalló. Mirá también: La nueva doctrina de Macri y el karma del abrazo con el Círculo Rojo Si bien admitió que todavía es "incipiente" y que "es un crecimiento que aún no satisface", celebró que "se puede decir que ha cambiado la tendencia".  Triaca, afirmó hoy que "el foco de atención del Gobierno tiene que estar en los que tienen más necesidades" al referirse al bono de fin de año dispuesto por el Ejecutivo para jubilados y beneficiarios de planes sociales y la eximición parcial de Ganancias del medio aguinaldo de diciembre y pidió "mirar el contexto en que está el Gobierno en relación a los recursos fiscales" al señalar que "este es el esfuerzo que podemos hacer".

@@ -1,0 +1,95 @@
+
+Elisa Carrió salió con los tapones de punta a criticar a la Justicia tras la detención del ex secretario de Obras Públicas, José López, al que denunció en 2008 en el marco de una megacausa por asociación ilícita. "Esta es la plata de la asociación ilícita K que denunciamos en 2008", lanzó "Lilita". "¿Ahora el Juez Ercolini hará algo?", se preguntó irónicamente la líder de Cambiemos, que a través de Twitter lanzó una serie de mensajes cuestionando el rol de la Justicia en las denuncias por corrupción. Carrió se preguntó:"¿Recuerdan la denuncia por asociación ilícita ante el juez Ercolini? López es parte". Y dijo: "López está en la causa de asociación ilícita #RutaDineroK juez Ercolini".
+
+"Dios se burla de sus enemigos y hace justicia. Salmo 2", aseguró la diputada y luego fue irónica con el diputado K, Julio De Vido, ex ministro de Planificación Federal y jefe de López en la gestión de Néstor y Cristina Kirchner. "Pensar que en el 2004 De Vido me quería llevar presa por decir que era el cajero de Kirchner", sentenció. Recuerdan la denuncia x asoc ilícita ante el juez Ercolini? López es parte #JusticiaALaJusticia https://t.co/GHGnamMfTf— Elisa Lilita Carrió (@elisacarrio) 14 de junio de 2016
+
+López está en la causa de asociación ilícita #RutaDineroK juez Ercolini #JusticiaALaJusticia https://t.co/I3MJjJpr7m— Elisa Lilita Carrió (@elisacarrio) 14 de junio de 2016
+
+Dios se burla de sus enemigos y hace justicia. Salmo 2— Elisa Lilita Carrió (@elisacarrio) 14 de junio de 2016
+
+Pensar que en el 2004 De Vido me quería llevar presa por decir que era el cajero de Kirchner #RutaDineroK #JusticiaALaJusticia— Elisa Lilita Carrió (@elisacarrio) 14 de junio de 2016
+ Parte de los integrantes equipo que realizó la investigación para esa denuncia, salieron hoy a criticar, en consonancia, la inacción de la Justicia. 
+
+
+"Pensar que en el 2004 De Vido me quería llevar presa por decir que era el cajero de Kirchner", dijo Carrió
+
+
+
+
+
+var act_1db = new gigya.socialize.UserAction();
+
+var emailBodyCustom_1db = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_1db.setTitle('"Pensar que en el 2004 De Vido me quería llevar presa por decir que era el cajero de Kirchner", dijo Carrió');
+act_1db.setSubtitle('Sospechas de corrupción'); 
+act_1db.setLinkBack('http://www.clarin.com/politica/Carrio-plata-asociacion-ilicita-denunciamos_0_1595240590.html');
+act_1db.setDescription('La diputada de Cambiemos habl&oacute; tras la detenci&oacute;n del exfuncionario K. &quot;&iquest;Ahora el juez Ercolini har&aacute; algo?&quot;, se pregunt&oacute;.&nbsp;');
+act_1db.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Carrio-plata-asociacion-ilicita-denunciamos_0_1595240590.html');
+
+var showShareBarUI_params_1db=
+{ 
+containerID: 'shareQuote_1db',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_1db,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_1db
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_1db);
+ El diputado nacional Fernando Sánchez lanzó una durísimas frase contra Julio De Vido. "López, el que entierra dólares en una iglesia, es la sombra de De Vido. Juntos robaron viviendas, rutas, puentes, puertos, etc. etc.", escribió. Después, envió un tuit humorístico. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/sanchezfdo/status/742784151397535744",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_74278415139753574")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ "Ercolini no hizo nada, Lilita y la CC-ARI denunciaron en soledad", se quejó la legisladora porteña Paula Olivetto. "Espero que el fiscal Pollicita se mueva y que Ercolini deje de dormir la causa de asociación ilícita denunciada por Lilita y que tiene a José López como imputado", reclamó. Hernán Reyes, otro referente de la Coalición Cívica, agregó: "En 2008, cuando nadie sospechaba esto, Elisa Carrió denunció a esta gente por asociación ilícita. La Justicia no actuó como debió y por lo tanto no impidió que nos hayan robado tanto a todos los argentinos", dijo a América 24. 
+
+"Los argentinos saben que acá no es Báez o López, se da cuenta que hubo un sistema para quedarse con el dinero público", lanzó. José López fue detenido hoy cuandoquería esconder en un convento de General Rodríguez bolsos con dólares. El ex funcionario K, actual diputado del Parlasur por el FpV, fue el secretario de Obras Públicas durante los 12 años de las presidencias de Néstor y Cristina. Según los primos conteos del dinero, la cifra ascendería al menos a 8.500.000 de dólares y euros. Además había yenes y riyals de Qatar, detalló el ministro de Seguridad bonaerense, Cristian Ritondo.  

@@ -1,0 +1,18 @@
+
+Denostada durante años, la reina del fast food se convirtió en estrella del mundo gastronómico. La hamburguesa vive por estos tiempos un renacer glorioso, en un nuevo circuito de hamburgueserías gourmet y a manos de chefs que con sus creaciones le han dado un estatus impensado. Mirá también: La hamburguesa ya no es fast food y ahora reina en la cocina de los grandes chefs El consumidor cambió y el principal jugador del mercado tomó nota. Por eso, desde hoy McDonald’s lanzó el primer producto de su nueva línea de hamburguesas gourmet: la ClubHouse. Con mucho glamour, la hamburguesa se presentó anoche en un evento en Palermo con música en vivo y varios famosos. Iniciará la línea Signature, un nuevo segmento gourmet al que la cadena irá sumando distintas opciones de aquí a fin de año.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/publicopress/status/709547539972923392",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70954753997292339")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ ¿Qué distingue a esta hamburguesa de las otras que ofrece McDonald’s? En primer lugar, un pan brioche, más elaborado; un bacon “rústico”, más grueso, al estilo americano; la cebolla está grillada para darle un sabor y textura caramelizada; la salsa es la Big Mac (de la que la compañía no quiere revelar el “secreto”) y viene con una doble hamburguesa de carne certificada Angus. Cuesta alrededor de $ 135 en combo con papas y gaseosa. Este producto ya se lanzó con éxito en Estados Unidos, Europa y en varios países de América Latina. Porque, dicen en la empresa, el boom de la hamburguesa es global. “La compañía, como líder del mercado, se pone a la cabeza de la nueva tendencia”, asegura Lucas Fernández, director de Marketing para la región Sur de McDonald’s, quien prefiere hablar más de "premium" que de "gourmet". Mirá también: El boom gourmet, viaje al fondo de la picadora de carne  ¿Los beneficia o no la mayor competencia? Según Fernández, que la hamburguesa esté de moda “es una excelente noticia”. ¿Y por qué está de moda? Según el ejecutivo, la razón es una y muy simple. “Es una cuestión de placer. La hamburguesa, bien hecha, es rica”, afirma.  Las estadísticas parecen darle la razón: según la consultora Euromonitor, en América Latina el consumo de hamburguesas representará este año una facturación de 16.000 millones de dólares, el 25% del mercado de comidas rápidas. Consultado por Clarín, el otro gran jugador del negocio, Burger King, no anticipó planes de introducirse en el segmento gourmet por ahora. 

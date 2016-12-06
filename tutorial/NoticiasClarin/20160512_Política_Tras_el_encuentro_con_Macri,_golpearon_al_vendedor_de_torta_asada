@@ -1,0 +1,18 @@
+
+La intolerancia a partir de las diferencias políticas en nuestro país parece no tener fin. Alfredo Farías, el vendedor de tortas asadas al que Mauricio Macri visitó luego de una carta que él le envió, fue golpeado ayer en la vereda de su casa por un vecino al que no le gustó su encuentro con el Presidente. El hecho ocurrió ayer a las 19. 45, según publica el sitio Rosario 3.com, en base a fuentes de la Policía. El hombre, de 63 años, se encontraba brindando una entrevista a los medios de comunicación contando su encuentro con el Presidente, cuando un vecino comenzó a agredirlo con golpes de puños y patadas. “Me estaba preparando para hacer la nota, era un día muy especial para mí y salió, empezó a gritarme, a decir barbaridades, a insultar”, contó el hombre a un medio local. Y señaló que el vecino lo golpeó "con bronca" por su actividad en una organización ecológica y su cercanía a Macri. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Leé también: Macri sorprendió al puestero que le había mandado $ 100 "para salvar al país" La agresión también incluyó una amenaza de muerte, según el informe policial. Farias es un puestero rosarino que le escribió a Macri y ledonó $100, al día siguiente de la asunción. Ayer, el mandatario lo sorprendió y enla zona de 4 esquinas donde tiene su puesto para agradecerle el gesto. 

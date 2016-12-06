@@ -1,0 +1,71 @@
+
+La Unión Cívica Radical denunció hoy ante la Justicia una amenaza de muerte contra el gobernador de Jujuy, Gerardo Morales, a través de un ataque informático al sitio web oficial del radicalismo jujeño.  "Cómo andan esos despidos papu? Y esas cuentas off shore? dijiste que venías a cambiar el mundo y poco a poco se fue viendo la verdad, sos uno más del montón, sos tan basura como los K... la seguridad de este servidos es tan mierda como tus políticas de seguridad y equidad social! PD: Gerardo Morales andá comprando un cajón porque vas a aparecer en un zanjón, la estas lavando mal y ahora es tiempo de pagar",  escribieron los hackers escribieron en la página web de la UCR de Jujuy. En la denuncia, presentada por el apoderado del partido, Mariano Miranda, se afirma que en el ataque, se accedió a modo de lectura a la base de datos "para robar información y difundirla públicamente" y al mismo tiempo se desconfiguró la página web, dejando un mensaje personalizado al Gobernador.
+
+
+
+
+El mensaje habría sido dejado el 24 de mayo a las 19 horas.
+
+
+
+
+
+var act_105 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_105 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_105.setTitle('El mensaje habría sido dejado el 24 de mayo a las 19 horas.');
+act_105.setSubtitle('Jujuy'); 
+act_105.setLinkBack('http://www.clarin.com/politica/Denuncian-amenazas-gobernador-Gerardo-Morales_0_1583241836.html');
+act_105.setDescription('La UCR hizo una presentaci&oacute;n ante la Justicia. &quot;Anda comprando un caj&oacute;n porque vas a aparecer en un zanj&oacute;n, la estas lavando mal y ahora es tiempo de pagar...&rdquo;');
+act_105.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Denuncian-amenazas-gobernador-Gerardo-Morales_0_1583241836.html');
+
+var showShareBarUI_params_105=
+{ 
+containerID: 'shareQuote_105',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_105,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_105
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_105);
+ Según informaron fuentes del radicalismo jujeño, el atacante, identificado como HDP_HaXoR, pertenecería a la organización nucleada en el sitio web http://www.zone-h.org/, dedicado a difundir las actividades de hackers. El ataque el sitio de la UCR también fue difundido a través de Twitter.
+

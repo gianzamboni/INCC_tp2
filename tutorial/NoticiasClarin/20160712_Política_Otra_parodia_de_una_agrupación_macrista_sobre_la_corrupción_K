@@ -1,0 +1,18 @@
+
+La situación judicial de la ex presidenta Cristina Kirchner, de sus ex funcionarios y varias figuras del kirchnerismo fue otra vez el tópico elegido para un irónico video, que ya circula por redes sociales. "Bicentenario K", se llama la nueva entrega de La Solano Lima, parodia echa con la música de la "La marcha de San Lorenzo".   
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Los hijos de Báez pueden volver al Sur, con excepción de Martín  "Ya se acercan y marchando es Cristina con el casco y las esposas", empieza la canción, previo repaso de los juramentos "por Dios y por la Patria" y la clásica respuesta: "Si así no lo hiciere, que Dios y la Patria me lo demanden", en la voz de Amado Boudou. Y claro, "tras los muros del convento", no es otro que el de General Rodríguez, donde José López, ex secretario de Obras Públicas, fue detenido queriendo esconder bolsos con millones. "Para el Bicentenario mi pobre patria llora, inscriben en la historia su página peor, inscriben en la historia ser K igual ladrón", dice el estribillo, que parodia la canción patria. Mirá también: Cristina dijo, otra vez, que la quieren meter presa La anterior entrega de la agrupación macrista fue a partir del desfile de ex funcionarios por los Tribunales, encabezados por la ex Presidenta y su notificación en la causa por el dólar futuro, ante el juez Bonadio. Mirá también: Encuesta: un kirchnerista tiene peor imagen que Aníbal Fernández

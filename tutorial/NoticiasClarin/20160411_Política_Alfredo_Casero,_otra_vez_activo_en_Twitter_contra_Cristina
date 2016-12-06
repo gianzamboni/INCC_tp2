@@ -1,0 +1,34 @@
+
+El enfrentamiento de Alfredo Casero con el kirchnerismo viene desde hace años años. Ahora, aprovechando que la ex presidenta Cristina Kirchner llega esta noche a Aeroparque para prestar declaración el miércoles ante el juez federal Claudio Bonadio, el actor publicó algunos mensajes que dejan en evidencia su acidez sobre el tema. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/alfredocasero1/status/719515113179455488",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71951511317945548")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ En su cuenta de Twitter, Casero compartió esta mañana una imagen que muestra el agradecimiento al "valijero" Leonardo Fariña, luego de su declaración de más de 11 horas, que terminó con la imputación de la ex mandataria.  Leé también: El "aguante" a Cristina arranca esta tarde en El Calafate Antes, había retuiteado una mensaje que muestras pasajes de micro desde La Rioja a Buenos Aires, supuestamente "pagados por la Cámara de Senadores de la Nación" a militantes camporistas locales.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/alfredocasero1/status/719511594795933696",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71951159479593369")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Se sabe, la relación entre Casero y el kirchnerismo no siempre fue la mejor. De hecho en estos días, a más de tres meses de que Cristina Fernández de Kirchner dejó el poder, Alfredo casero cargó contra la ex presidenta por la investigación judicial llamada “la Ruta del dinero K”. Mirá también: Alfredo Casero ahora se cruzó con Adolfo Pérez Esquivel por Telesur "Me encantaría que un juez no le permita (a Cristina) salir del país. Está bien el silencio de Cristina. No la quiero escuchar nunca más. Si tiene que pagar algo, que lo pague. Lo digo con respeto", dijo en un programa de televisión. Mirá también: Alfredo Casero: lo bajaron de un programa y se descargó por Twitter

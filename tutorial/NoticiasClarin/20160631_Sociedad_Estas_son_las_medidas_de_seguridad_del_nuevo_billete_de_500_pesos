@@ -1,0 +1,22 @@
+
+El nuevo billete de 500 pesos ya empezó a circular desde ayer y se empezará a distribuir de manera progresiva a través de la red de sucursales bancarias y cajeros automáticos de todo el país con el correr de los días. Pero como todo lo nuevo genera dudas y expectativas, el Banco Central lanzó un aviso con las nuevas medidas de seguridad que tendrá este valioso papel.  El billete, cuyo papel es 100% de algodón con una leve tonalidad verdosa, tiene estrictas medidas de seguridad tales como: marca de agua que reproduce al yaguareté y al número 500, un hilo de seguridad que tiene un efecto dinámico y cambio de color del verde al azul. A la vez, a trasluz se distinguen $500 y BCRA. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Por su parte, los motivos principales (yaguareté y flores) están impresos en calcografía y los fondos en offset. Las personas con visibilidad reducida tendrán la posibilidad de distinguir las imágenes a través del tacto además de tener el código con relieve para captarlo con los dedos.
+
+También leé: "La hora del yaguareté: el billete de $ 500 sale desde hoy a la calle" La tinta será de variabilidad óptica que permite que cambie del color verde al azul y el efecto dinámico al mover el billete. Además tendrá el texto “Yaguareté. Monumento natural nacional”. Sobre la derecha se lee “Banco Central de la República Argentina”.
+
+También leé: "Afirman que el billete de $ 500 llega a los cajeros la semana próxima"  El billete de 500 pesos, en su anverso, diseñado con formato vertical, puede verse el retrato del yaguareté. Su reverso, diseñado con formato horizontal, recrea una imagen de la selva, su hábitat natural. En el ángulo inferior izquierdo, una representación más simple del yaguareté aparece en forma de guiño a la niñez, en la búsqueda de la concientización de las nuevas generaciones.

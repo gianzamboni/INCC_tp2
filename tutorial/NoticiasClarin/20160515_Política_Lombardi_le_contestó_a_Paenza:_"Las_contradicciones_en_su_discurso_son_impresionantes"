@@ -1,0 +1,18 @@
+
+Hernán Lombardi salió a responderle a Adrián Paenza, que en su regreso a la Televisión Pública con su programa Científicos Industria Argentina tuvo un feroz discurso en contra del gobierno de Mauricio Macri. "No coincido absolutamente en lo que dice, lo debe decir desde la honestidad intelectual pero las contradicciones en el discurso son impresionantes", afirmó el funcionario en diálogo con radio La Red. El titular del Sistema Federal de Medios y Contenidos Públicos de la República Argentina explicó que Paenza, quien dijo lamentar "trabajar para el Gobierno", incurre en una "contradicción brutal". "Vos trabajas para la Televisión Pública que aspiramos sea estatal y no gubernamental, ahí tiene un resabio del pasado", señaló. Y agregó: "Quiere decir que en la expresión de Paenza misma, él consideraba que trabajaba para el gobierno de Cristina". "'Yo no quería trabajar para el gobierno de Macri', esa frase sola es espectacular", sostuvo Lombardi, y remarco que se trata de "un contrato nuevo, no quería trabajar, pero imagino que no fue compulsivo". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Leé también: Paenza volvió a la TV Pública con un feroz discurso anti-Macri Lombardi dijo que la aspiración de su gestión es a que los medios "no sean de Macri ni de Cristina". Al tiempo que destacó la presencia del científico en la grilla del canal estatal: "Estamos orgullosísimos que él pueda llevar su palabra científica a la Tevé Pública". Por su parte, el secretario de Medios, Jorge Sigal, publicó una carta en diario Perfil donde también celebra el regreso a la pantalla, pero le reprochó las críticas. "Nosotros no palpamos de ideología para trabajar en los medios públicos", sentencia en su escrito. Y continúa: "Paenza pareció confundido al iniciar la nueva etapa de su programa. Sin que nadie se lo preguntara, necesitó explicar que lo hacía más cómodo con el gobierno anterior. Pero, como bien lo señaló su propio productor, Claudio Martínez, nada tiene que ver eso con hacer un ciclo en un medio público. La admiración de Paenza por Cristina Kirchner no era tema de debate en Científicos Industria Argentina. Nadie le pidió que bajara sus convicciones o creencias a la hora de firmar su contrato. La melancolía también es un derecho inalienable".

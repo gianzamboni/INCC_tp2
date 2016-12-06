@@ -1,0 +1,134 @@
+
+Hebe de Bonafini no cree en la democracia y nunca creyó en ella. No creyó cuando festejaba el atentado a las Torres Gemelas de Nueva York y las bombas de la ETA, y tampoco creyó mucho antes, cuando reivindicaba el rol de la guerrilla en los años setenta (recuérdese que tanto el ERP como Montoneros combatieron contra los gobiernos democráticos de Héctor Cámpora, Perón e Isabel). “Raúl Alfonsín fue un traidor. Carlos Menem fue un ladrón, un chorro que nos robó hasta las ganas de comer y entregó el país. Fernando De la Rúa fue un reverendísimo estúpido, que es lo peor que puede pasar. Prefiero un enemigo de frente y no a esta gente estúpida y cobarde. ¿Duhalde? ¿Qué decir de Duhalde que no se haya dicho? Estos dos gobernantes, Cristina y Néstor, son lo mejor, lejos”, le dijo a Miguel Russo el 25 de marzo de 2009 en las páginas del diario Diagonales, del hoy prófugo Sergio Szpolski. Hemos hablado en esta columna varias veces sobre la supuesta “superioridad moral de la víctima”, que en muchos casos funciona de manera extorsiva al resto de la sociedad: Hebe se cree San Martín. En su fuero íntimo debe verse a sí misma como quien logró la salida de los militares del gobierno. Y -aunque San Martín nunca pensaría lo mismo- Hebe se cree, incluso, más allá de la ley. No en vano la “juventud maravillosa” de los setenta llamaba “recuperación” al robo a un banco, o “ajusticiamiento” al asesinato. La ley es dictada por una especie de ente metafísico que ya llegará: la Revolución. Cuando alguien se siente y actúa más allá de la ley, y va preso, la sociedad funciona. Cuando alguien se siente y actúa más allá de la ley y no pasa nada, estamos fallando todos. 
+
+
+Deberíamos preguntarnos alguna vez porqué vimos como normal la sociedad entre un parricida -Sergio Schoklender- con la madre emblema de la Argentina, que en aquel entonces lo bautizó como su hijo.
+
+
+
+
+
+var act_d87 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_d87 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_d87.setTitle('Deberíamos preguntarnos alguna vez porqué vimos como normal la sociedad entre un parricida -Sergio Schoklender-&nbsp;con la madre emblema de la Argentina, que en aquel entonces lo bautizó como su hijo.');
+act_d87.setSubtitle('La columna de Lanata'); 
+act_d87.setLinkBack('http://www.clarin.com/opinion/Bonafini-alla-ley_0_1610239009.html');
+act_d87.setDescription('');
+act_d87.addActionLink('VER MÁS', 'http://www.clarin.com/opinion/Bonafini-alla-ley_0_1610239009.html');
+
+var showShareBarUI_params_d87=
+{ 
+containerID: 'shareQuote_d87',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_d87,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_d87
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_d87);
+ Es difícil enfrentar a un mito, y yo mismo he sido culpable de ese error: hace tiempo fuimos los primeros -junto a Luciana Geuna y Jéssica Bossi, en el diario Crítica- en lograr un informe muy detallado sobre la estafa de Sueños Compartidos. Tardé más de un año en publicarlo. El progresismo argentino se ha construido en base a silencios cómplices: nunca fue el momento, siempre era “darle pasto a la derecha”. Fuimos los médicos protegiendo a las enfermedades. Y lo incontrastable es que Sueños Compartidos fue un robo, no tan distinto a los afanos de José López y, en verdad, casi limítrofe con ellos. Deberíamos preguntarnos alguna vez porqué vimos como normal la sociedad entre un parricida -Sergio Schoklender y su hermano Pablo asesinaron a sus padres en 1981, y fueron condenados a cadena perpetua- con la madre emblema de la Argentina, que en aquel entonces lo bautizó como su hijo. La causa hizo blanco en Oyarbide, y las Madres fueron aceptadas como querellantes, una maniobra que las protegía como eventuales responsables. Pero ni el ritmo bailantero del juez pudo evitar la mención de Alejandra Bonafini, hija de Hebe y apoderada de Madres, quien en 2010 vendió a Meldorek -empresa núcleo de la estafa- en 25 mil dólares un departamento de 80 metros en La Plata, cuyo valor de Mercado era de 120.000. Más tarde Alejandra adquirió una casa de 200 metros cuadrados. El Estado nacional entregó a las Madres 1.295 millones de pesos entre 2005 y 2011 para la construcción de viviendas sociales: construyó 4.757, de las cuales sólo 822 fueron adjudicadas. Según la AGN, Sergio Schoklender recibió 23 millones, su hermano Pablo 13 y Meldorek 4,4 millones “sin que en ninguno de los casos el desembolso del dinero vinculado a las obras pudiera ser probado”. 
+
+
+Marcela Díaz, ex encargada del Departamento de Compras de la Fundación, denunciante de gran parte de las irregularidades, fue ejecutada de un tiro en la cabeza en Ciudad Oculta. Se dijo que fue una “bala perdida”
+
+
+
+
+
+var act_d7b = new gigya.socialize.UserAction();
+
+var emailBodyCustom_d7b = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_d7b.setTitle('Marcela Díaz, ex encargada del Departamento de Compras de la Fundación, denunciante de gran parte de las irregularidades, fue ejecutada de un tiro en la cabeza en Ciudad Oculta. Se dijo que fue una “bala perdida”');
+act_d7b.setSubtitle('La columna de Lanata'); 
+act_d7b.setLinkBack('http://www.clarin.com/opinion/Bonafini-alla-ley_0_1610239009.html');
+act_d7b.setDescription('');
+act_d7b.addActionLink('VER MÁS', 'http://www.clarin.com/opinion/Bonafini-alla-ley_0_1610239009.html');
+
+var showShareBarUI_params_d7b=
+{ 
+containerID: 'shareQuote_d7b',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_d7b,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_d7b
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_d7b);
+ Hace poco tiempo la Justicia porteña condenó a la Fundación de las Madres a pagar 33 millones de pesos por el incumplimiento de contrato en un juicio iniciado por la Corporación Buenos Aires Sur, con la que se habían asociado para hacer paneles de construcción de casas. El informe impulsado en su momento por Leandro Despouy en la AGN denuncia también la falsificación de documentos, especialmente de titulares de ING que iban a ser beneficiadas y decenas de casos de clientelismo. A la vez, en una actitud claramente revolucionaria, las Madres tuvieron una deuda de 146.914.365 pesos con los obreros, entre pagos de haberes y aportes previsionales. Y también hay una muerte en esta historia: Marcela Díaz, ex encargada del Departamento de Compras de la Fundación, denunciante de gran parte de las irregularidades, fue ejecutada de un tiro en la cabeza en Ciudad Oculta. Se dijo que fue una “bala perdida”. Elsa Quiroz, legisladora, una de las primeras denunciantes de la causa, sostiene que “los principales responsables de lo que ocurrió no sólo fueron los Schoklender sino también los funcionarios involucrados en el envío del dinero, como De Vido y López”. La ahora estatizada Universidad de Las Madres no escapa a las reglas generales: su personal denunció amenazas, los profesores estuvieron dos años sin cobrar, se evadían los aportes y hay egresados que reclaman el título desde hace dos años. Ahora, Hebe se niega a presentarse a declarar en Comodoro Py. El juez Martínez de Giorgi no debe poder conciliar el sueño. ¿La obligará a hacerlo de todos modos? Si no lo hace, desde aquí se sugiere al Congreso declararla de una vez “más allá de la ley”.

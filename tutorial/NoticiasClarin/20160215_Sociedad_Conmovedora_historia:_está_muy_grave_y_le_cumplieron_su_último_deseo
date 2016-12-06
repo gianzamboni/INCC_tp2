@@ -1,0 +1,126 @@
+
+Volver al pueblo natal, ver el mar, reconciliarse con un familiar querido, casarse o conocer a su ídolo. Estos son algunos de los sueños que la Fundación 38 grados cumplió a enfermos terminales que querían ver realizados sus deseos no cumplidos antes de morir. El último fue para Dori García, una española modista que pidió disfrutar de un último desfile de modelos. La mujer de 69 años tiene un tumor cerebral por lo que no puede moverse ni hablar, pero sí disfrutar. Su hijo Óscar Checa había conseguido entradas para la Pasarela Cibeles (una de las más famosas de España), pero el estado de salud de su madre se agravó.  “Mi mamá quería ir a un desfile de modelos porque estuvo toda la vida trabajando en un taller de moda. Me puse en contacto con la Fundación 38 grados y, en unas semanas, hicieron magia. Fue algo precioso porque se creó una energía positiva y, al día siguiente, mi madre se encontraba mejor", relató Óscar al diario español El Mundo, que publicó la historia. También Leé: "Un enfermo terminal cumplió su sueño de ver la última Star Wars" La Fundación convirtió al Centro San Camilo, el hospital donde se encuentra internada Doris, en una pasarela improvisada, llena de hermosas mujeres, ropa y última moda. En el lugar no sólo estuvo Dori sino también cientos de personas con enfermedades terminales que disfrutaron del espectáculo. También leé: "El cuaderno de Nippur: el libro que una mamá le escribió a su hijo antes de morir" Los especialistas que entrevistó El Mundo explicaron que la insatisfacción por no haber cumplido los sueños o el hecho de arrastrar cuentas pendientes son algunos de los factores que más hacen sufrir a los pacientes en estado terminal.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160215_0015 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160215_0015_2d0";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Trailer de la película \"Antes de partir\"',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/15/VID/CLAVID20160215_0015/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Trailer-pelicula-partir_CLAVID20160215_0015_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160215_0015',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/15/VID/CLAVID20160215_0015/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Trailer-pelicula-partir_3_1523277672.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160215_0015.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160215_0015){
+            //getBBTStats_CLAVID20160215_0015();
+            varModIdReprod_CLAVID20160215_0015 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+

@@ -1,0 +1,38 @@
+
+En menos de 40 minutos un puñado de chacareros faenó ayer en plena ruta y a cuchillo a unos 15 terneros que viajaban a bordo de un camión jaula que volcó y dejó a los animales desparramados sobre el asfalto. Mirá también: Volcó un camión con vacas y los vecinos las faenaron a cuchillo 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Los hombres no dejaron pasar la oportunidad y ante la mirada atónita de automovilistas que circulaban por la autopista Córdoba –Rosario y un gendarme que ordenaba el tránsito, procedieron a la tarea de faenar los animales allí mismo, a cielo abierto.
+
+El accidente tuvo lugar en la madrugada de ayer, cuando un intenso viento desestabilizó al camión, que llevaba 55 cabezas de ganado para entregar en un frigorífico de Carcarañá, volcó y unos 15 terneros murieron. Los animales habían quedado adentro de la jaula. Con la luz del día, llegaron al lugar seis camionetas y dos autos. Sus ocupantes venían decididos a todo: sacaron los animales de la jaula (como se puede observar en las imágenes) y luego procedieron a la faena con cuchilla.
+
+La voz se fue corriendo entre los vecinos de la zona y luego comenzaron a llegar vecinos a pie, que se sumaron a la tarea y volvieron por donde llegaron, pero cargando trozos de carne faenados. También un auto Renault 12 que causalmente pasaba por el lugar, retomó la ruta en sentido contrario, logró cargar uno de los terneros en el baúl y se retiró. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Todo duró poco más de media hora. Antes de irse, uno de los chacareros le informó al gendarme que habían finalizado. 

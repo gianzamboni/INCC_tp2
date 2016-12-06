@@ -1,0 +1,18 @@
+
+El Gobierno promulgó la ley de pago a los holdouts, que habilita al Ejecutivo a vender bonos hasta 12.500 millones de dólares, para salir del default. El día después que la iniciativa oficialista fuera aprobada en el Senado -con 54 votos a favor y 16 en contra-, el Ejecutivo publicó la ley en el Boletín Oficial bajo el decreto 539/2016. La norma formaliza la derogación de las leyes Cerrojo y de Pago Soberano, tiene las firmas de la vicepresidenta Gabriela Michetti; del jefe de Gabinete, Marcos Peña; y del ministro de Hacienda y Finanzas, Alfonso Prat-Gay. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/alfonsopratgay/status/715567093555544069",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71556709355554406")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Leé también: Fuerte suba en las tarifas de agua, gas y transporte La ley también insta a Prat-Gay, que dirige la cartera sobre la que recae la Autoridad de Aplicación, a ir al Congreso para informar trimestralmente el avance de las tratativas. La norma habilita "todos los actos necesarios para cancelar la deuda con los tenedores de Títulos Públicos Elegibles que no estuvieren comprendidos en los acuerdos de cancelación" que ya se ejecutaron en 2005 y 2010. Y estipula que "el Poder Ejecutivo nacional no asumirá ningún gasto ni cargo excedente respecto del resto de los tenedores de Títulos Públicos Elegibles abarcados en la oferta base". Como quedó establecido tras la discusión de la norma en el Congreso, la ley prevé "la emisión de bonos del Tesoro de la Nación y/o la contratación de otras operaciones de empréstito público por hasta un valor nominal original de dólares" de "12.500 millones de dólares". En uno de sus últimos puntos, la norma también establece la creación de una Comisión Bicameral Permanente de Seguimiento y Control de la Gestión de Contratación y de Pago de la Deuda Exterior de la Nación en el ámbito del Congreso. Fuente: DyN

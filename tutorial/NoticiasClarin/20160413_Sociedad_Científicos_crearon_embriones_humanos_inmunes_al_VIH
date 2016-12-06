@@ -1,0 +1,18 @@
+
+Un equipo de científicos de la Universidad Médica de Cantón (al sur de China) anunció que consiguió embriones humanos resistentes al VIH, virus causante del sida. Lo hicieron, según anunciaron, por medio de la modificación genética. El procedimiento todavía es controversial entre la comunidad médica mundial. Mirá también: Permiten por primera vez que se manipulen genes humanos De acuerdo a lo difundido por la agencia de noticias Télam, se utilizaron en la investigación 26 embriones "con taras y no aptos para tratamientos de fertilidad". Se logró que cuatro de ellos desarrollaran inmunidad frente al VIH, mientras que el resto mostraron mutaciones "no planeadas", según explicó el líder del equipo médico, Fan Yong, de la Universidad Médica Guangzhou de China. La investigación fue publicada en el último número del Journal on Assisted Reproduction and Genetics, donde se aclara que todos los embriones fueron destruidos a los tres días. Mirá también: Viaje al centro de la vida eterna La modificación se realizó mediante una técnica de edición genética llamada CRISPR-Cas9. La usaron para introducir en algunos de los embriones una mutación genética. Hay personas que tienen naturalmente esta mutación (conocida como CCR5-delta32) y eso los convierte en resistentes al VIH, impidiendo que el virus ingrese en su sistema inmunitario. Según señaló el experto en células madre George Dailey a la revista especializada Nature , el principal avance de esta investigación es el uso de la técnica CRISPR, que logró una modificación genética más precisa de lo habitual. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/NatureNews/status/719675185066999808",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71967518506699980")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ En 2015, la técnica CRISPR-Cas9 fue elegida por la revista Science como “el acontecimiento científico del año”. Sin embargo, las posibles consecuencias de su uso generan controversia y abren un debate mundial sobre los límites de la ciencia. Los críticos hablan de los riesgos de crear “bebés de diseño” y de alterar el ADN de las próximas generaciones. Los que la avalan sostienen que podría ser una esperanza para avanzar en la cura de enfermedades genéticas.

@@ -1,0 +1,24 @@
+
+Sin atención médica. A la vista de todos. Y en el piso de una sala de espera. Esas fueron las duras condiciones en las que nació Abril, el jueves a la tarde, en el Hospital Santojanni de Liniers. Todo quedó filmado por un familiar de otra paciente, que registró lo que sucedía con su celular y denunció que, antes de iniciar el parto, las personas que estaban con ella “golpeaban la puerta y nadie abría”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Sucedió en la sala de espera de la guardia de obstétrica y ginecología. Esta tarde Clarín visitó el sector y corroboró sus pésimas condiciones. Había cuatro hombres "sin hogar" durmiendo en los asientos. Para ser atendido, hay que golpear una puerta y esperar largos minutos. Los encargados de abrirla son empleados de seguridad, que el jueves estaban de paro por un reclamo de su gremio. Ninguno de ellos estaba presente. Mirá también: Seguridad en los hospitales: un mal diagnóstico demoró el protocolo La mujer--cuya identidad se mantiene reservada-- llegó a la sala a las 8 horas, según el relato de Mabel Asat, testigo que filmó el video. Recién a las 13:15 un administrativo la hizo pasar y un médico obstetra la revisó. "Tenía una dilatación de menos de tres centímetros, y las contracciones bastante aisladas. Como no estaba en trabajo de parto, se le sugiere que espere en la sala para un nuevo control, para ver si evoluciona", explica a Clarín el director del hospital, Federico Charabona.
+
+Una hora y cuarto después, a las 14:30, nació la beba. La mujer estaba con su marido, quien logró mantener la calma. Pero la gente que estaba en la sala empezó a gritar y a golpear las puertas. "Ni un animal nace como nació esta criatura", definió Asat a Canal 9. Recién entonces, la madre fue atendida por un médico obstetra y una enfermera, que cortaron el cordón umbilical.
+
+"Una vez que se empieza a producir la expulsión del chiquito se sugiere nunca trasladar a la madre ni a una camilla ni hacerla caminar. Porque es donde mayor riesgo corre de traumatismos o de asfixia por el cordón. Conviene terminar ahí el procedimiento", señala Charabona. Respecto a las condiciones de higiene, compara a ese piso con "una terminal de trenes" y asume que es un lugar "nada apto". Sin embargo, "es preferible eso a que el bebé tenga peligro de asfixia o traumatismo", remarca. Mirá también: Consumió pastillas para adelgazar y murió: allanan el consultorio del médico Según el director, se produjo un "parto en cascada", es decir, sucedió abruptamente todo lo que suele llevar de cuatro a seis horas. "Es poco común, pero hemos tenido varios. Nunca en salas de espera o en pasillos, pero sí en camas", detalla. Con 3000 a 4000 partos por año, el Santojanni es el segundo hospital de la Ciudad con mayor tasa de natalidad. El primero es el Sardá, con 6000 a 7000 anuales.
+
+La beba pesa 2,9 kilos y está saludable. La madre continúa internada y el lunes le darían el alta. A modo de protesta, en la puerta del hospital convocaron a una reunión de organizaciones. "Esto es violencia obstétrica, abandono de persona. El hospital se viene deteriorando a niveles avanzados. Faltan insumos y si no venís a las cuatro de la mañana no tenés turno", cuenta Violeta Toledo, de La Corriente Martín Fierro. Desde el Ministerio de Salud porteño se negaron a hablar con Clarín sobre las medidas que tomarán para prevenir este tipo de situaciones y para garantizar que todos los niños puedan nacer en condiciones dignas. No como Abril. Mirá también: Con un caño, corrió a médicos y pacientes en el Fernández

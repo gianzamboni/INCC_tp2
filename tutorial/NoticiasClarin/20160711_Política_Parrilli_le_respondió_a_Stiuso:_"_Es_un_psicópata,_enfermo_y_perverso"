@@ -1,0 +1,68 @@
+
+El ex titular de la Agencia Federal de Inteligencia (AFI) Oscar Parrilli afirmó hoy que el ex espía Antonio "Jaime" Stiuso "es un psicópata, enfermo, perverso que amenaza a sectores judiciales y políticos" y negó que el kirchnerismo tuviera un sistema de "servicios paralelos" con gente que armaba "carpetazos". Mirá también: Stiuso habló de Aníbal, de Parrilli y hasta de Cristina: "Es una mujer loca, sin fuerza" "Apareció en escena este psicópata, enfermo, perverso, que es Stiuso, amenazando nuevamente a sectores judiciales y políticos al estilo que venía haciendo hace mucho tiempo", cuestionó el funcionario a Stiuso, quien en una entrevista lo había calificado de "payaso que no podía manejar nada". En declaraciones a radio Del Plata, el ex secretario general de la Presidencia negó que el kirchnerismo utilizara "sus servicios paralelos, con gente que investigaba para ellos y les armaba sus propios carpetazos", tal como aseguró el ex agente, al advertir que los servicios de Inteligencia "respondían sólo y exclusivamente a Stiuso". Mirá también: Stiuso asegura que a Nisman lo mataron y que Cristina usaba servicios paralelos para armar "carpetazos" En una nota con el diario La Nación, el ex espía Antonio "Jaime" Stiuso aseguró que al ex fiscal Alberto Nisman "lo mataron" y que él se salvó porque no pudieron encontrarlo, al tiempo que advirtió que los gobiernos de Néstor Kirchner y Cristina Fernández no utilizaron la ex SIDE porque tenían "servicios paralelos" con gente que armaba "carpetazos". Al hablar públicamente por primera vez desde su regreso al país en febrero pasado, Stiuso sostuvo sobre el ex fiscal de la UFI-AMIA: "Lo mataron. Yo podría haber terminado como él. Hubo persecución, lo amenazaron muchas veces, tanto a él como a mí, amenazaron a su familia". Mirá también: La peor factura para el segundo semestre En la entrevista con el diario La Nación, el ex agente de inteligencia indicó que en las escuchas que tenía Nisman "involucraba al Gobierno" y que, aunque no hubiera hecho la denuncia pública sobre el presunto encubrimiento a Irán en el atentado a la AMIA, "habría sido lo mismo". Al ser consultado sobre por qué él no corrió la misma suerte que Nisman, Stiuso afirmó que no pudieron encontrarlo porque se fue "a tiempo", y apuntó contra el ex jefe de Gabinete Aníbal Fernández y contra Cristina Fernández, al asegurar que eran "los que más querían que vuelva al país" para asesinarlo."Ahora que están fuera del gobierno no me vino a visitar (Aníbal Fernández). Nadie me vino a visitar. Ellos pensaron que iban a ser eternos, ya no tienen poder, no tienen el aparato del Estado", agregó. Mirá también: Con una carta, Massa le pidió a Macri suspender los aumentos de tarifas Entre otras cosas, Stiuso sostuvo que "en algún momento se va a saber" cómo murió Nisman, al que afirmó que "le aplicaron el relato después de fallecido, trataron de desmerecer todo lo que estaba haciendo", pero que "ahora que ya no están en el poder, el relato se cae". Con respecto a su trabajo durante los gobiernos kirchneristas, Stiuso desestimó las versiones que indicaba que trabaja "armando carpetazos" y aseguró que se encargaba de cosas "exteriores". Mirá también: Tigre peronista y Malcorra Peppers 
+
+
+"Los Kirchner no utilizaban la SIDE porque tenían sus servicios paralelos, con gente que investigaba para ellos y les armaba sus propios carpetazos", advirtió el ex espía.
+
+
+
+
+
+var act_fda = new gigya.socialize.UserAction();
+
+var emailBodyCustom_fda = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_fda.setTitle('"Los Kirchner no utilizaban la SIDE porque tenían sus servicios paralelos, con gente que investigaba para ellos y les armaba sus propios carpetazos", advirtió el ex espía.');
+act_fda.setSubtitle('HABLÓ EL EX ESPÍA'); 
+act_fda.setLinkBack('http://www.clarin.com/politica/Parrilli-respondio-Stiuso-psicopata-perverso_0_1611438908.html');
+act_fda.setDescription('El ex titular de la AFI le contestó al ex agente, quien lo había tildado de "payaso". El dirigente K dijo que miente ya que los servicios de Inteligencia "respondían sólo y exclusivamente a Stiuso".');
+act_fda.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Parrilli-respondio-Stiuso-psicopata-perverso_0_1611438908.html');
+
+var showShareBarUI_params_fda=
+{ 
+containerID: 'shareQuote_fda',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_fda,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_fda
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_fda);
+ En ese sentido, dijo que cuando sea citado por la Justicia revelará quién estaba al frente de esa agencia de inteligencia "paralela", a la vez que desestimó que haya sido el ex secretario de la Presidencia Oscar Parrilli, al que calificó como "un payaso que no podía manejar nada". Por último, fue lapidario con la actualidad de Cristina Fernández: "Sólo es una mujer loca, sin fuerza, sin el aparato del Estado".

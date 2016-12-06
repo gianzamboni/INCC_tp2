@@ -1,0 +1,18 @@
+
+Un nuevo video de las cámaras de seguridad de SGI “La Rosadita” muestra el ex esposo de la vedette Iliana Calabró, Fabián Rossi, ayudando a contar millones de dólares, euros y pesos en las oficinas de SGI conocida como “La Rosadita”. La grabación difundida anoche por Telenoche de canal 13 exhibe al empresario con fajos de plata en la mano junto a Martín Báez y al ex contadora de Austral Construcciones, Daniel Pérez Gadín.  Ante la Justicia Rossi se había negado a declarar pero había dicho a los periodistas que solo era un asesor de prensa de SGI en los tiempos que la manejaba Federico Elaskar. Incluso, su ex esposa había dicho que Rossi “era un cadete de lujo” del ex valijero y ex esposa de Karina Jelinek, Leonardo Fariña. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Pero en los videos se los ve contando plata con la mano el 27 de septiembre del año pasado. En las mesas de esta “cueva” financiera que funcionaba en el Madero Center, se ve fajos de 3 millones de dólares, luego otra con la misma suma y finalmente una tercera con solo dos y medio millones de dólares. Pese a sus desmentidas, Rossi tenía una oficina dentro de SGI y entregaba tarjetas personales como perteneciente a esa financiera que es el eje del escándalo. En su primera entrevista, Elaskar había afirmado que Rossi había sido el encargado de abrir las empresas fantasma en Panamá que se usaron en la operación que significó, hasta mediados del 2011, la salida del país de unos 55 millones de euros. Precisamente, Martín Báez apareció como apoderado de la empresa Teegan, creada en Belice por un estudio panameño. La relación entre Rossi e Iliana se complicó en el 2013, luego del programa Periodismo Para Todos de Jorge Lanata.“No hay nadie que conozca más a mi marido en este mundo que yo”, dijo entonces la actriz al ser interpelada por los panelistas de Intrusos, el programa de Jorge Rial. “No hay pruebas ni certezas de todas estas hipótesis que él había abierto ... Hace 24 años que estoy con él, lo conozco desde los 11 años ...” Luego del avance de la causa judicial, la vedette cambió de opinión. En un escrito presentado a Casanello, Rossi se quiso presentar como un ex imprentero que se especializó en relaciones públicas gracias a su ex esposa y a su ex suegro, el genial capocómico Juan Carlos Calabró. Ahora deberá dar más explicaciones.

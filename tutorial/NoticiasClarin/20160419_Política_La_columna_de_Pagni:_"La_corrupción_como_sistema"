@@ -1,0 +1,18 @@
+
+"¿Qué es el caso Skanska? El nombre viene de una de las empresas involucradas. Tiene que ver con la sobrefacturación en la ampliación de gasoductos (...) para ocultar la generación de dinero negro que llegaba después a los funcionarios", dice Carlos Pagni en la mitad del editorial de su programa Odisea Argentina, emitido anoche por TN. El periodista no está haciendo un análisis anacrónico sobre un hecho de corrupción política, retoma ese caso para hablar de una "especie de cadena de arrepentimientos, como si fuese una epidemia" donde en el centro de esa trama, como también en el negocio de la obra pública con Lázaro Báez, está Julio De Vido. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Julio De Vido se queda sin su calle "Esto pega en el corazón del Kirchnerismo pero plantea otro problema -dice pagni-  no estamos ante una cadena de casualidades por la cual aparece un funcionario con un empresario que roban plata. Estamos ante un sistema que tiene que ver con la fijación de los precios para la obra pública. Necesita indispensablemente que no haya vigilancia fiscal, para que se puedan generar esas facturaciones que permiten el reciclado de dinero. Pero necesita algo más: una Justicia corrupta". El periodista se refiere a esa Justicia que no se mete con la corrupción, que tiene un estímulo fuerte para no hacerlo: su propia corrupción. Pagni arroja datos certeros dentro de la "ceguera estadística" sobre cómo funciona la Justicia federal en la Argentina y, precisamente, en Capital: de todas las causas que se inician, solo el 3% termina yendo a juicio. Y el promedio de conclusión para saber quién es culpable y quién es inocente, es de 14 o 15 años.  Mirá también: Casanello procesó con prisión preventiva a Báez y llamó a indagatoria a Echegaray "El gobierno está preparando un paquete de medidas anticorrupción en el centro del cual hay un proyecto para que haya la figura del arrepentido en este tipo de delitos. Premiar a aquel que cuenta cómo fue el entramado del negocio. ¿Por qué? Porque normalmente estos negocios de corrupción están velados por dispositivos que los vuelven muy opacos a la luz de la Justicia", afirma Pagni. Por último, el conductor sugiere prestar atención a la "vida de multimillonarios" que llevan muchos jueces federales. Para así entender por qué "la Justicia argentina hace arqueología, va para atrás. (...) No se sabe bien si quiere hacer justicia o perseguir a quienes ya no tienen el poder". 

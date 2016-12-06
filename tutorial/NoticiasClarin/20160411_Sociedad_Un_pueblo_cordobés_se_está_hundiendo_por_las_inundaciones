@@ -1,0 +1,134 @@
+
+Pozo del Molle es un típico pueblo cordobés que vive del campo. Pero esta vez, el propio campo lo está ahogando, según denunció el intendente, Carlos Salvático. “El pueblo está fundado sobre el lodo. Antes las napas estaban a 11 metros de profundidad, pero ahora están casi en la superficie. Flotamos en una mezcla de gelatina y agua; y esa agua brota de las veredas”, le dijo a Clarín.
+
+Y apuntó a los productores rurales: “Lo que antes eran caminos para sacar la producción, ahora son canales. Esto hace que hoy sea imposible que pasen camiones de gran porte. Toda la leche que se produce no tiene por dónde salir”, detalló a los medios. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160411_0016 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160411_0016_719";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Inundación en Pozo del Molle. (Nuestro Perfil)',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/04/11/VID/CLAVID20160411_0016/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Inundacion-Pozo-Molle-Perfil_CLAVID20160411_0016_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160411_0016',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/04/11/VID/CLAVID20160411_0016/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Inundacion-Pozo-Molle-Perfil_3_1556874313.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160411_0016.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160411_0016){
+            //getBBTStats_CLAVID20160411_0016();
+            varModIdReprod_CLAVID20160411_0016 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+Pozo del Molle tiene unos 6.000 habitantes. Está ubicado a 170 kilómetros al sudeste de la Capital y a 60 de Villa María, donde comienza la cuenca lechera cordobesa. “Se nos está hundiendo el pueblo, día a día. No sabe la impotencia que tenemos, las napas están a ras del pavimento”, alertó el jefe comunal.
+
+
+ Pero la crisis no es de ahora, sino que se remonta a tres años atrás, cuando los productores de la zona comenzaron a drenar sus campos con canales ilegales. “Es algo inusitado, tenemos un torrente de agua constante, alimentado de distintos afluentes, y la laguna de contención es Pozo del Molle. Tenemos la mitad del pueblo anegado, son 3.500 personas que aunque no han tenido que dejar sus viviendas, tienen agua sobre las veredas y mucha incertidumbre porque sigue subiendo el agua”, se quejó Salvático ante Clarín. La intendencia subió a su cuenta de Facebook una imagen que muestra cómo se agravó la situación. (function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));Le agradecemos a la familia Rasino por este video, cómo veran en las imágenes, desde hace unos días el municipio lucha...Posted by Gestión Municipal Carlos Salvático 2015-2019, Pozo del Molle on viernes, 8 de abril de 2016 Según el intendente, el suelo ya no tiene capacidad de absorción porque entre febrero y marzo cayeron 615 milímetros de agua, cuando normalmente el promedio anual es de 800 milímetros. “Si a la naturaleza le sumamos la mala acción del hombre, tenemos este panorama que ustedes pueden ver, medio pueblo inundado. La iglesia se ha hundido más de 15 centímetros, el Banco de la Provincia otro tanto, frente a la misma plaza hubo que derrumbar un edificio y a una cuadra hay otro que se está derrumbando, más cientos de casas con rajaduras muy importantes”, enumeró.
+
+Salvático apuntó que “cuesta arriba hay productores agropecuarios que han hecho canales tratando de salvar su situación, sacándose el agua de encima y drenando sus campos sin importar lo que pasa más allá. Y lo que pasa es que el agua en Pozo del Molle”. Hoy, la Municipalidad y las autoridades del Ministerio de Educación acordaron suspender las clases por este panorama.  Mirá también: Inundaciones en el Litoral: hay 7.000 evacuados y 15.000 damnificados

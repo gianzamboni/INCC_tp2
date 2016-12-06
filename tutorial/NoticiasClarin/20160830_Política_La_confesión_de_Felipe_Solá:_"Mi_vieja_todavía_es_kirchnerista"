@@ -1,0 +1,18 @@
+
+Felipe Solá estuvo ligado al Frente para la Victoria durante un largo período, supo encabezar la lista para diputados provinciales en 2007, hasta que luego decidió romper con el bloque y pasarse a la oposición. Actualmente, el ex gobernador milita en las filas del Frente Renovador de Sergio Massa, pero no toda su familia acompañó ese cambió de signo político. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: El tuit provocador de Ottavis a Vidal: "No te quedes con la chiquita" Anoche, invitado al programa "La Quinta Pata" por la Tevé Pública, le preguntaron por su madre y la producción agropecuaria, frente a los cambios actuales por la eliminación de las retenciones. Y confesó: "Mi vieja no está de acuerdo porque es kirchnerista todavía". Ante la sorpresa de los conductores, agregó: "Y no creo que deje de serlo". Solá contó entonces que para evita las peleas políticas con su madre y prefiere compartir una bebida espirituosa con ella. "En general tomo un whisky, que es la manera de no pelearnos", señaló. La famosa "grieta" que aún persiste en las familias.

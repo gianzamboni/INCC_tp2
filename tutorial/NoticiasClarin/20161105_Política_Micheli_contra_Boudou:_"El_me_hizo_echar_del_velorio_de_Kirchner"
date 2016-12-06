@@ -1,0 +1,71 @@
+
+ Al día siguiente de haber echado a Amado Boudou de la marcha contra el Gobierno, el titular de la CTA Autónoma, Pablo Micheli, arremetió duro contra el ex vicepresidente. Lo acusó de haber querido “opacar” la protesta y dio detalles de la mala relación que acarrean: “Boudou me hizo echar del velorio de Kirchner, con una actitud despectiva”, contó. La presencia de Boudou en la manifestación que ayer tuvo lugar en Plaza de Mayo, causó irritación en los organizadores. A tal punto, que lo hicieron bajar junto al líder de Quebracho, Fernando Esteche, del palco de dirigentes. 
+
+
+Estos tipos son unos mentirosos, lo que les interesa es lavarase la cara en una movilización popular para ver si pueden evitar terminar presos", disparó Micheli.
+
+
+
+
+
+var act_989 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_989 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_989.setTitle('Estos tipos son unos mentirosos, lo que les interesa es lavarase la cara en una movilización popular para ver si pueden evitar terminar presos", disparó Micheli.');
+act_989.setSubtitle('Tras la polémica en la marcha de la CTA'); 
+act_989.setLinkBack('http://www.clarin.com/politica/Micheli-Boudou-echar-velorio-Kirchner_0_1681631916.html');
+act_989.setDescription('El dirigente gremial le pegó duro al ex vicepresidente de Cristina. Y explicó por qué ordenó que ayer lo bajaran del palco en Plaza de Mayo. ');
+act_989.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Micheli-Boudou-echar-velorio-Kirchner_0_1681631916.html');
+
+var showShareBarUI_params_989=
+{ 
+containerID: 'shareQuote_989',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_989,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_989
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_989);
+  “Estos tipos son unos mentirosos, lo que les interesa es lavarse la cara en una movilización popular, para ver si pueden evitar que la sociedad los pueda juzgar y terminar presos. Lo que hacen es venir a deslegitimar un reclamo justo como el que estamos haciendo", declaró esta mañana Micheli en Radio Belgrano. Mirá también: Boudou metió las "patas" en la fuente de Plaza de Mayo  El momento de tensión se vivió cuando se dieron cuenta que el ex ministro de Cristina Kirchner había subido, sin ser invitado al escenario: “Boudou no es inocente en lo que hace, de venir a instalarse a mis espaldas, sin que yo lo vea, en el palco. Inmediatamente mis compañeros me dijeron que estaba, tuve un pequeño entredicho con Hugo Yasky, pero él estaba de acuerdo con que tenía que bajarse, pero nadie iba y se lo decía. Y mis compañeros se lo dijeron. Si no, yo me bajaba del palco. El tipo se tuvo que bajar y por solidaridad todos los ex funcionarios se terminaron bajando", relató.
+
+Aclarada la situación de ayer, Micheli aseguró que el cortocircuito entre ellos tiene larga data. "Boudou jamás me recibió. Yo siempre cuento que cuando falleció Néstor yo fui al velorio, pero Boudou me hizo echar del velorio de Kirchner, con una actitud despectiva. Yo vi cuando dio la orden que me sacaran. Trataba de llegar a saludar a la viuda, la ex presidenta, por una cuestión de respeto, pero nunca pude llegar”, y remató: "Con este tipo tengo un problema ideológico y personal, no es una buena persona".  Por otra parte, el gremialista también criticó al Presidente por su actuación en Córdoba: "Que se acuerde Macri cómo quedaba Cristina cuando bailaba en el marco de los saqueos de Tucumán. Lo de Macri no fue tan grave pero hay una situación crítica del país. No me parece que frente a una movilización donde estamos reclamando que haya atención del Gobierno a los problemas, el Presidente baile como si nada pasara", opinó. Mirá también: Boudou no tiene las patas de Juan Molina Respecto a los meses que vienen, expresó: "Ojalá que algunas medidas se concreten para que la gente no pase tan triste las fiestas, pero hay medidas que el Gobierno debería tomar, como que garantice que no haya despidos a fin de año ni suspensiones porque va a hacer que la gente pase las fiestas con más tranquilidad. Esas son las medidas que tienen que tomar". Además de ser echado del escenario por la CTA, Boudou protagonizó una situación insólita en Plaza de Mayo: metió las "patas" en la fuente de Plaza de Mayo junto a Luis D'Elia, Fernando Esteche y Gabriel Mariotto, dirigentes del partido MILES. Intentaron recrear una postal peronista del 17 de octubre de 1945, cuando en el mismo lugar se refrescó un grupo de militantes que pedían la liberación de Juan Domingo Perón. Justamente D'Elia apuntó todos sus cañones contra Micheli, en defensa de Boudou. Desde su cuenta de Twitter, sostuvo: "Come con Mirtha Legrand. Y ataca a Amado Boudou que expropió las AFJP a los banqueros chorros". Por la misma red social, Esteche se sumó a las críticas al gremialista: "Es sólo un 'dirigente' sindical fantasma y gorila que va quedando enterrado por la historia". Come con Mirta LegrandY ataca a Amado Boudouque expropio las AFJP a losbanqueros chorros @PabloMicheli forro de Clarín— Luis D'Elia (@Luis_Delia) 4 de noviembre de 2016
+

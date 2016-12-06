@@ -1,0 +1,20 @@
+
+Para Miguel Bein, la recuperación en 2017 es “inevitable” porque “los salarios de la gran mayoría de la población le van a ganar a la inflación”. En el Coloquio de IDEA en Mar del Plata, el economista de Bein & Asociados dijo que esa suba salarial por encima de los precios se producirá porque 2017 es un año electoral: “Quienes están en el Gobierno necesitan validar su mandato y para validar su mandato necesitan que la economía esté bien”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+- Hay una percepción de que el modelo económico está orientado a mejorar la competitividad argentina, entre otras cosas, bajando el salario en dólares de los argentinos. Una suba salarial superior a la inflación va en contra de ese modelo… - Este año, que no es electoral, como no lo fue 2014 o 2012, sucedió exactamente eso, la inflación le ganó a los salarios y el dólar le ganó también por mucho a los salarios y el salario en dólares se abarató. Lo que pasa es que en un país que tiene una democracia republicana, donde el ciclo político dura dos años, la política económica inevitablemente zigzaguea. En los años no electorales, la política de pronto busca el rumbo de largo plazo para empujar la inversión, la competitividad, la productividad, las exportaciones. Y en los años electorales, lo que la política busca es ganar. Para ganar, los salarios le tienen que ganar a la inflación y al dólar.
+
+- A pesar de este zigzag, ¿es posible tener una política de largo plazo? - El objetivo es que el zigzag sea cada vez menos brusco. Zigzag tienen todos los países del mundo porque en todos los países del mundo, en el año electoral, hay política de gasto público, de inversión pública, más beneficios sociales… Se pasan leyes que se votan a favor de las minorías excluidas, etc. El desafío es que ese zigzag sea cada vez más suave a medida que el país se encamina a la posibilidad de crecer 3,5% o 4% por año. Uno, si tiene éxito, 10 o 15 años después, el zigzag empieza a ser realmente muy suave. Pero nunca sucede cuando venimos de 60 años de populismo endógeno donde la gente está muy acostumbrada a juzgar al Gobierno por lo que está pasando en el bolsillo puntualmente en ese año.  - Tienen que ver los niveles de pobreza, inevitablemente lo tienen que juzgar así porque es la diferencia entre ser pobre o no serlo.. - Claro, por eso. La obligación del Gobierno es ganar para seguir adelante con su agenda y necesita zigzaguear. Hay años que tiene que hacer mucho menos populismo y marcar rumbos de largo a favor de la inversión y hay años que tiene que introducir el populismo, por lo menos en ciertas dosis, para tener un resultado electoral favorable.  - ¿Cómo se reduce la brusquedad de ese zigzag? - Con la inversión. Hoy Argentina invierte de todo lo que produce, solo 16 puntos del producto a precios corrientes. Quiere decir que más de 80 puntos del producto es consumo. Imagínese una economía que no invierta nada, es una economía que no puede crecer, es como una empresa. Si una empresa cuando gana 100 pesos, los socios retiran los 100 pesos, la empresa nunca puede crecer porque no hay inversión, no hay ampliación. En la economía pasa lo mismo. Nosotros tenemos que ser capaces de llevar este país de una inversión de 16 puntos del producto a precios corrientes a una inversión de 26 puntos del producto a precios corrientes. Esa inversión es la que te da la capacidad para crecer al 4% o al 4,5% en vez de crecer de promedio al 2,5% o 2,7%, que es el crecimiento promedio argentino de los últimos veinte años. - ¿Cómo se pasa del 16% al 26% de inversión sobre el PBI? - Invirtiendo. Las empresas tienen que tener rentabilidad.

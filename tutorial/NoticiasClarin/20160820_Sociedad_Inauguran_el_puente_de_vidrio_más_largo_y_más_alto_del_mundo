@@ -1,0 +1,34 @@
+
+China inauguró este sábado un puente colgante con el suelo de vidrio no apto para personas con vértigo, suspendido a 300 metros del suelo en los espectaculares parajes del parque natural de Zhangjiajie, que inspiraron la película Avatar.
+
+El puente de seis metros de ancho está formado por 99 placas de vidrio transparentes y puede recibir simultáneamente a 800 personas, explicó la agencia oficial Xinhua.
+
+La estructura tiene un largo de 430 metros y está suspendida a 300 metros del suelo, colgando entre dos picos montañosos del parque natural de Zhangjiajie, en la provincia central de Hunan. Mirá también: Antes de inaugurarlo, ponen a prueba el puente de vidrio más largo del mundo
+
+Además de atravesar la estructura y disfrutar la vista de las montañas, los turistas podrán también hacer deportes de riesgo como saltos al vacío o viajes en tirolesa (canopi). "Quería venir y sentir la grandiosidad de esta obra. No tengo miedo porque parece seguro", explicó a la agencia de noticias AFP este sábado Wang Min, una madre de familia que acudió acompañada por su marido y sus hijos.
+
+Para mostrar la solidez del puente, se han organizado varias operaciones de comunicación. En uno de los experimentos un periodista golpeó con un martillo una de las losas, en otro, un vehículo cargado de pasajeros pasó por encima de una de las baldosas, que no registró ninguna fisura.
+
+"Hoy está un poco atestado, hay un poco de desorden. Pero estar suspendido a 300 metros es una experiencia única", dijo entusiasmado Lin Chenglu, que viajó con sus colegas.
+
+La agencia Xingua informó que la estructura sólo admite 8.000 personas por día y que los turistas tienen que reservar con un día de antelación la entrada, que cuesta 138 yuanes (20 dólares, 18 euros). 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Nueva York estudia reformar el icónico puente de Brooklyn Para evitar cualquier daño a la infraestructura, "están prohibidas las cámaras de foto y los palos de selfies", indicó la agencia, que precisó que tampoco se puede usar zapatos con tacos. El puente fue diseñado por el arquitecto israelí Haim Dotan, que también ha inaugurado otras obras en China.
+
+El gobierno municipal dijo que una de las cumbres del parque Zhangjiajie podría haber inspirado la montaña flotante que aparece en la película Avatar, lanzada en 2010 en China.
+
+Según un diario local, un fotógrafo venido de Hollywood llegó al lugar en 2008 para tomar fotos que después fueron utilizadas por la producción. Fuente: AFP.

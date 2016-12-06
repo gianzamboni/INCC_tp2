@@ -1,0 +1,18 @@
+
+En solo un minuto, un video muestra todos los terremotos que hubo en el mundo, de más de 4 grados de magnitud, producidos entre los años 2000 y 2015. El trabajo fue publicado en el canal de YouTube de 422 South, una empresa británica de efectos visuales.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Cada punto que muestra representa un terremoto. Cuanto más grande sea, mayor fue la escala del temblor. Los puntos son acumulativos: cada nuevo movimiento se agrega a la cuenta de los anteriores. Por lo tanto, pueden verse las zonas donde se experimenta actividad sísmica con más frecuencia. Durante los 15 años que representa el video hubo varios fenómenos devastadores. En Sumatra-Andamán (Indonesia), el 26 de diciembre de 2004 se produjo un terremoto de 9.1 grados que afectó a 14 países y terminó con la vida de unas 230.000 personas. El 12 de enero de 2010 hubo un terremoto de magnitud 7 en Puerto Príncipe (Haití), que dejó unas 316.000 víctimas. Otra catástrofe se dio el 11 de marzo de 2011 en Miyagi (Japón). Fue un sismo de 9 grados Richter, que provocó un tsunami y un accidente nuclear.Leé también: Diez claves para entender por qué se produce un sismoLos terremotos son consecuencia del movimiento de placas: la capa superior de la Tierra está dividida en bloques que interactúan. Esto desencadena una liberación de energía que se propaga como ondas, percibidas como una vibración por la gente. No se puede predecir cuándo y dónde se producirá exactamente un gran terremoto. Tampoco se puede pronosticar la magnitud. Cada sismo es diferente y todos varían en profundidad: a mayor profundidad, es menos destructivo. 

@@ -1,0 +1,20 @@
+
+Varias placas del cielorraso del tercer piso del edificio del Colegio Nacional de Buenos Aires cayeron sobre un salón de usos múltiples (SUM) y aulas, desplazadas de sus rieles por el fuerte viento que azotó ayer a la ciudad de Buenos Aires. Según contó el rector del colegio, Gustavo Zorzoli, el techo exterior no sufrió daños, pero sí el cielorraso interno que, como mecanismo de ventilación, normalmente recibe aire del exterior. Mirá también: Con vientos de hasta 100 km/h, el temporal castigó fuerte la Costa Alrededor de las ocho de la noche, el viento comenzó a mover las placas prearmadas rectangulares de un metro de largo por 50 centímetros de ancho, hasta que varias comenzaron a caer. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_zt1x6mwb",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_zt1x6mwb"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_zt1x6mwb").after(scriptEl);
+ Además, contó Zorzoli, el fuerte viento abrió varias ventanas, que comenzaron a golpearse al abrirse y cerrarse. Tras una inspección realizada esta mañana, las autoridades del colegio verificaron que no se produjeron roturas de vidrios. Las ventanas tienen vidrios de seguridad de doble laminado, detalló el rector del colegio al canal de noticias TN. Mirá también: Un mensaje de WhatsApp desató una psicosis colectiva en La Plata Cuando se produjeron los daños, en el colegio estaban los alumnos del turno noche. No se informó que se registrara algún lesionado. También el campo d deportes del Nacional de Buenos Aires, ubicado en Puerto Madero, sufrió daños anoche. Aunque Zorzoli no pudo precisarlos, esta mañana el campo permanecía sin actividad.

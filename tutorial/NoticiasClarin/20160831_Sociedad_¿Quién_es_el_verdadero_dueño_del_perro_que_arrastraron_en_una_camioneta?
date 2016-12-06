@@ -1,0 +1,52 @@
+
+Un vecino de Don Torcuato grabó el momento en el que una patrulla del Centro de Operaciones de Tigre arrastraba a un perro de raza pitbull atado al paragolpes. El video fue publicado en las redes sociales y la noticia se difundió rápidamente. El animal está ahora bajo el cuidado de los veterinarios del Centro de Zoonosis de Tigre. Y aparecieron decenas de personas que dicen ser su dueño.  Tras el hecho, el perro llegó al Centro de Zoonosis de Tigre con lastimaduras. "Está herido porque se raspó con el asfalto", confirmó Ignacio Hernández, director del organismo. Ya se le hicieron las curaciones necesarias y el estado general del animal es bueno. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En la recepción de esa entidad, se dio una situación inesperada: muchas personas se acercaron alegando ser los dueños del animal. Según lo difundido por Canal 9, una mujer llamada Milagros llevó fotos, vacunas y documentos para reclamar que le entreguen a la mascota, que se llamaría Tomás y sería la séptima vez que se le escapa. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_4m7dtq8j",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_4m7dtq8j"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_4m7dtq8j").after(scriptEl);
+ "¿Cuántos dueños aparecieron en las últimas horas?", indagó la periodista del canal. "Millones. Todos quieren a Lucas, a Tomás, a Chocolate, a Peter, a todos los nombres habidos y por haber", respondió la recepcionista del Centro de Zoonosis. "El perro está muy cuidado por nosotros", agregó. Mirá también: El perro adoptado por la azafata reabrió un largo debate Ayer, apareció un supuesto dueño del animal, que dijo llamarse Carlos. En declaraciones televisivas, contó que el pitbull se llama Peter y tiene un año y medio. Según su relato, el animal se escapó de su casa cuando abrió el portón para ir a trabajar el sábado a la madrugada, mientras llovía. Lo buscó esa noche y al día siguiente, pero no logró encontrarlo. "Es un perro sano, lo tengo desde que nació. No sé por qué le hicieron eso de llevarlo con una cadena, porque no es un mal perro. Me cayó muy mal que lo arrastren", dijo el hombre. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Sin embargo, pidió que no echen a los empleados que maltrataron a la mascota. "Quizás se hayan equivocado, no quiero que despidan a la gente", dijo. El intendente de Tigre, Julio Zamora, informó ayer en su cuenta de Facebook que dispuso "el cese en sus funciones de los agentes intervinientes en este penoso y cruel suceso".  Carlos está ahora en el Centro de Zoonosis. Deberá demostrar que el pitbull es quien él dice que es, para que las autoridades le entreguen al perro.  Mirá también: "Perros arrepentidos": La historia detrás del video furor en la Web

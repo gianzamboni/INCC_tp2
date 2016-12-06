@@ -1,0 +1,17 @@
+
+La Mansión Playboy está en venta, pero Hugh Hefner, el fundador de la revista, quiere seguir viviendo allí. Fue la mismísima Playboy Enterprise quien anunció que la propiedad en el oeste de Los Angeles, escenario de innumerables películas y sede de fiestas estrafalarias, fue colocada en el mercado el lunes a un precio de 200 millones de dólares.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

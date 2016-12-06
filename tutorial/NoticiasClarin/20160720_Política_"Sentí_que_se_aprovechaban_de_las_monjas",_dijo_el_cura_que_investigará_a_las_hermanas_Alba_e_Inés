@@ -1,0 +1,20 @@
+
+La Iglesia abrió una investigación sobre el Monasterio de las Monjas Orantes y Penientes de Nuestra Señora de Fátima, envuelto en la polémica de los millones que llevó hasta allí el ex funcionario José López. El cura Thomas O´Donell, a cargo de la investigación eclesiástica sobre los hechos ocurridos en la institución de General Rodríguez, brindó algunos detalles y aclaró que se trata de "una asociación privada de fieles". "Sentí que se estaban aprovechando de ellas (las monjas), es mi opinión personal", dijo en diálogo con radio Vorterix. Y agregó: "La idea es determinar si hay algún delito", paralelamente a la causa judicial y determinar algún tipo de sanción. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_owm1ao5b",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_owm1ao5b"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_owm1ao5b").after(scriptEl);
+ Mirá también: El arzobispado de Luján investigará al convento donde López llevó los bolsos Al ser consultado sobre el daño sobre la iglesia argentina, respondió que si y que "las hermanas tienen que aclarar su situación y cuál era su relación con este hombre (López) y por qué a la madrugada llevó los paquetes". O´Donell explicó que la investigación eclesiástica es para "ver si hay causa para tomar una medida" respecto a la hermana Alba e Inés, las integrantes del monasterio de General Rodríguez. Celia Inés Aparicio (la hermana Inés) deberá declarar en indagatoria, por orden del juez Daniel Rafecas, al igual que el contador Andrés Galera, Eduardo Gutiérrez y a la pareja de López, María Amalia Díaz, En tanto, el Cuerpo Médico Forense evaluará la salud de la llamada hermana Alba, de 95 años, para determinar si está en condiciones de afrontar un proceso penal. Mirá también: El fiscal confirmó que José López podría ir a juicio oral en un mes "Si es un delito grave, la suspensión; depende del caso", dijo el cura, que evitó precisar cuál sería la sanción, a partir de los datos e información sobre el caso. Días atrás, monseñor Arancedo salió a aclarar que se trataba de "mujeres consagradas", luego del video donde se pudo ver a una de las integrantes del Monasterio ayudando a López a ingresar los bolsos con millones. Además, dijo desconocer la relación con Julio De Vido y su número dos en el entonces Ministerio de Planificación. Mirá también: Donaciones, subsidios y bienes, sin control El monasterio volvió a quedar en el foco de la polémica, a partir de las imágenes donde se pudo ver claramente como una de las monjas ayudaba a López a ingresar los bolsos y luego de las bóvedas encontradas en el interior, que despertaron sospechas.

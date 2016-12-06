@@ -1,0 +1,200 @@
+
+El Directorio Ejecutivo del FMI concluyó el artículo IV de la Argentina. En el documento elogia al Gobierno por las correcciones macroeconómicas encaradas desde principio de año. Además prevé un repunte para 2017 con una tasa de inflación más baja. Entre los riesgos, el Fondo señala la presión de las subas salariales sobre la tasa de inflación y "una súbita devaluación" por la apreciación del peso. 
+
+
+Los directores del FMI subrayaron que el recorte del déficit fiscal "es una prioridad importante"
+
+
+
+
+
+var act_ab4 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_ab4 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_ab4.setTitle('Los directores del FMI subrayaron que el recorte del déficit fiscal "es una prioridad importante"');
+act_ab4.setSubtitle('Los resultados del artículo IV'); 
+act_ab4.setLinkBack('http://www.clarin.com/ieco/FMI-advierte-cambiario-presiones-inflacionarias_0_1684631700.html');
+act_ab4.setDescription('El organismo elogió los avances del Gobierno. Y alertó por la situación fiscal, el impacto de los ajustes salariales en los precios y el riesgo de "una súbita devaluación". Ayer había levantado la sanción por las cifras del INDEC.');
+act_ab4.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/FMI-advierte-cambiario-presiones-inflacionarias_0_1684631700.html');
+
+var showShareBarUI_params_ab4=
+{ 
+containerID: 'shareQuote_ab4',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_ab4,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_ab4
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_ab4);
+ El artículo IV es una mirada sobre el estado de la economía que elaboraron los técnicos del organismo durante una misión que se llevó a cabo en septiembre pasado. Hoy se conocieron los resultados por primera vez en diez años. La Argentina es el único país del G-20 que no lo hizo en la última década.  
+
+
+El FMI ve que la economía repuntará en 2017 (2,7%) y que la inflación bajará (20,5%)
+
+
+
+
+
+var act_420 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_420 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_420.setTitle('El FMI ve que la economía repuntará en 2017 (2,7%) y que la inflación bajará (20,5%)');
+act_420.setSubtitle('Los resultados del artículo IV'); 
+act_420.setLinkBack('http://www.clarin.com/ieco/FMI-advierte-cambiario-presiones-inflacionarias_0_1684631700.html');
+act_420.setDescription('El organismo elogió los avances del Gobierno. Y alertó por la situación fiscal, el impacto de los ajustes salariales en los precios y el riesgo de "una súbita devaluación". Ayer había levantado la sanción por las cifras del INDEC.');
+act_420.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/FMI-advierte-cambiario-presiones-inflacionarias_0_1684631700.html');
+
+var showShareBarUI_params_420=
+{ 
+containerID: 'shareQuote_420',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_420,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_420
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_420);
+ Los directores del FMI, en una reunión que se llevó a cabo ayer, reconocieron que las medidas para corregir los desequilibrios macroeconómicos "han producido un impacto en el corto plazo negativo en la actividad económica".  Pero las perspectivas para el directorio sobre la marcha de la economía argentina son favorables. Creen que la economía repuntará en 2017 (2,7%) y que la inflación bajará (20,5%). Resulta una mejora respecto a este año: estiman que 2016 cerrará con una contracción de 1,8% y una tasa de inflación de 39,4%. Los directores subrayaron que el recorte del déficit fiscal "es una prioridad importante". Advirtieron que el ritmo y la composición para volver a equilibrar las cuentas fiscales, deben tener en cuenta el impacto en el crecimiento y el empleo. Y que la reducción del déficit podría acelerarse sólo si la actividad repunta. El FMI estima un déficit más alto que el Gobierno (4,5%) porque piensa que la economía crecerá por debajo de lo estipulado en el Presupuesto (3,5%). 
+
+
+El Fondo recomiendo un programa de reformas estructurales. Advierte por el atraso del precio del dólar. Y que la inflación sufrirá presiones en 2017 por los ajustes pendientes en los salarios y en las tarifas.
+
+
+
+
+
+var act_095 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_095 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_095.setTitle('El Fondo recomiendo un programa de reformas estructurales. Advierte por el atraso del precio del dólar. Y que la inflación sufrirá presiones en 2017 por los ajustes pendientes en los salarios y en las tarifas.');
+act_095.setSubtitle('Los resultados del artículo IV'); 
+act_095.setLinkBack('http://www.clarin.com/ieco/FMI-advierte-cambiario-presiones-inflacionarias_0_1684631700.html');
+act_095.setDescription('El organismo elogió los avances del Gobierno. Y alertó por la situación fiscal, el impacto de los ajustes salariales en los precios y el riesgo de "una súbita devaluación". Ayer había levantado la sanción por las cifras del INDEC.');
+act_095.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/FMI-advierte-cambiario-presiones-inflacionarias_0_1684631700.html');
+
+var showShareBarUI_params_095=
+{ 
+containerID: 'shareQuote_095',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_095,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_095
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_095);
+

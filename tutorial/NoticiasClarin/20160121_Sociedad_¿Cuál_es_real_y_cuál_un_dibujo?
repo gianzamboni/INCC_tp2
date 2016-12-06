@@ -1,0 +1,129 @@
+
+Parecen iguales, pero no lo son. Uno es real, se puede palpar o comer y el otro es un dibujo. Pero, ¿cuál es cuál? Difícil darse cuenta. Justamente de eso se tratan los desafíos que desde hace un año lanza el dibujante británico Howard Lee entre sus seguidores de las redes sociales. Uno de sus últimos videos de You Tube, en el que muestra juntos un pancho de verdad y otro dibujado, ya tiene más de 1 millón de visualizaciones.  Y acaba de subir uno nuevo con el Top Ten de sus trucos. "Que tan aguda es tu visión?", desafía desde su canal.  Lee utiliza una técnica de animación para crear sus trucos. Lo cierto es que este artista es capaz de dibujar a la perfección cualquier objeto que se proponga: desde un un tomate o un puñado de confites hasta un billete de un dólar. Cada ilustración le lleva entre ocho y diez horas. Y en algunas, como la de Papá Noel, asegura que trabajó muchísimo más. También él se encarga de grabar y editar los videos, que atraen a miles y miles de seguidores. Mirá también El vaso de agua que engaña la vista, el nuevo fenómeno viral En cada caso, Lee ubica enfrentados los objetos "iguales" y marca la diferencia con un golpe de efecto: rompe, corta, corre o aplasta los que son reales. Recién ahí desnuda, utilizando una técnica de animación llamada time-lapse, como se puede engañar al cerebro mediante el dibujo y la perspectiva. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160120_0027 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160120_0027_49b";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: '10 Sorprendentes dibujos.',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/20/VID/CLAVID20160120_0027/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Sorprendentes-dibujos_CLAVID20160120_0027_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160120_0027',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/20/VID/CLAVID20160120_0027/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Sorprendentes-dibujos_3_1507679244.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160120_0027.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160120_0027){
+            //getBBTStats_CLAVID20160120_0027();
+            varModIdReprod_CLAVID20160120_0027 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+Aquí, uno de los desafíos más recientes del artista. ¿Cúal es cuál? 
+
+ El video de los panchos, una de sus mejores creaciones. Fueron sus alumnos de la Escuela de Arte de Newcastle quienes lo entusiasmaron con la idea de compartir en las redes estos "engaños visuales". Y su vocación docente también se trasladó a la web: en su cuenta de Instagram, con más de 87.000 seguidores, enseña paso a paso cómo hacer cada dibujo.  En su cuenta de Instagram, Lee explica el paso a paso de cada dibujo.

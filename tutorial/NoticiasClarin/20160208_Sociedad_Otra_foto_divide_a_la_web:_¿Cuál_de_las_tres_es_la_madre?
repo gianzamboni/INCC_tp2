@@ -1,0 +1,34 @@
+
+Kaylan Mahomes, una joven de Indianápolis, subió el pasado jueves un selfie a Twitter con el texto "Mi madre, mi gemela y yo", y en tan sólo algunos días de su publicación ya superó los 33 mil retweets y 59 mil 'me gusta'. Pero ¿Qué es lo que la hace tan especial? Que no se aclara quién es la madre y quienes las gemelas.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/kaylan_17/status/692827112873594885",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69282711287359488")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+Todo comenzó cuando la joven Kaylan compartió en su cuenta de Twitter una fotografía donde aparecen tres mujeres, las que aparentan tener la misma edad. Pero no, ya que una de ellas resulta ser la madre de las otras dos chicas.Leé también: "La polémica del gato: ¿sube o baja las escaleras?"Las redes sociales estallaron en el debate: que era la de la izquierda, la del medio o la de la derecha. Nadie lo daba por confirmado y la foto entonces empezó a circular por todo el mundo. De hecho la joven volvió a twittear más tarde una recopilación de su fotografía por los principales medios de comunicación del planeta. Tanto fue el revuelo que se generó que hasta la CNN salió a buscarlas para entrevistarlas y así revelar el misterio.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/kaylan_17/status/696373114570149889",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69637311457014988")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+Al final, después de tantas dudas, el enigma fue resuelto. La primera pista para adivinar cuál es la madre tiene que ver con la vestimenta. La mujer está vestida un poco más formal que sus dos hijas, además hay dos que son más parecidas entre ellas, lo que supone que sean las hermanas. Entonces, para ponerle fin a todo esto, hay que decir que la madre es quien aparece en el lado izquierdo de la foto.Los debates por los efectos ópticos están a la orden del día en las redes. Primero el vestido, que finalmente la empresa fabricante explicó que era negro y azul, pero anunció que produciría ahora también el dorado y blanco. El famoso #TheDress encontró su sucesor en #TheHair, tal como se llamó a ese fenómeno viral que intentaba descifrar si el pelo de una chica era rosa, lila o azul.Otro debate que dividió a Internet fue el del gato que ¿sube o baja las escaleras? Esa es la pregunta que acompaña la imagen y la que recogió posturas contrapuestas. También con un "efecto visual", se conoció hace un tiempo un test que, con un video, permite saber si uno tiene problemas de vista. Aquí la cuestión está en si, en las imágenes, el usuario ve a Albert Einstein o a Marilyn Monroe.  

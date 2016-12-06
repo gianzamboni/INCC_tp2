@@ -1,0 +1,68 @@
+
+La DAIA presentó hoy el pedido de reapertura de la denuncia del fallecido fiscal Alberto Nisman ante el juez Daniel Rafecas. En la presentación, realizada por el secretario General de la Delegación de Asociaciones Israelitas Argentinas, Santiago Kaplun, se pide reabrir la denuncia donde se acusaba a la ex Presidente Cristina Kirchner, su canciller Héctor TImerman y otros funcionarios de la gestión K de ser encubridores de los iraníes sospechosos de ser autores intelectuales del atentado terrorista a la AMIA (1994. 
+
+
+Kaplun, que es el abogado de la entidad hizo la presentación ante el juez Daniel Rafecas, el mismo que había archivado la causa en tiempo récord.
+
+
+
+
+
+var act_74d = new gigya.socialize.UserAction();
+
+var emailBodyCustom_74d = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_74d.setTitle('Kaplun, que es el abogado de la entidad hizo la presentación ante el juez Daniel Rafecas, el mismo que había archivado la causa en tiempo récord.');
+act_74d.setSubtitle('Acusación de encubrimiento a favor de Irán'); 
+act_74d.setLinkBack('http://www.clarin.com/politica/DAIA-Justicia-denuncia-Nisman-Cristina_0_1624637567.html');
+act_74d.setDescription('Se realizarán otras tres presentaciones judiciales simultáneas para que se investigue a la ex Presidenta.');
+act_74d.addActionLink('VER MÁS', 'http://www.clarin.com/politica/DAIA-Justicia-denuncia-Nisman-Cristina_0_1624637567.html');
+
+var showShareBarUI_params_74d=
+{ 
+containerID: 'shareQuote_74d',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_74d,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_74d
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_74d);
+ Cuatro presentaciones judiciales simultáneas intentarán hoy que se reabra la denuncia del ex fiscal de la AMIA Alberto Nisman por encubrimiento a favor de Irán contra la ex presidenta Cristina Kirchner. Se trata de la denuncia que Nisman firmó antes de su misteriosa y violenta muerte del 18 de enero del 2015 que Cristina buscó, con obsesión bloquear para que quede archivada tras la finalización de su mandato. Por otro, el fiscal de la cámara federal Germán Moldes solicitará que se declare nula la reunión en que Freiler y Ballestero confirmaron el archivo de la causa. Mientras tanto, el abogado Ricardo Monner Sans denunció ayer penalmente a todos los que dispusieron el archivo de la denuncia y la nulidad de la decisión de Rafecas. Al mismo tiempo, dos familiares de víctimas del atentado contra la AMIA de 1994 pidieron ser querellantes en la causa contra el ex canciller Héctor Timermam por presunta traición a la Patria por haber firmado el pacto con Irán en el 2013 (Ver recuadro).

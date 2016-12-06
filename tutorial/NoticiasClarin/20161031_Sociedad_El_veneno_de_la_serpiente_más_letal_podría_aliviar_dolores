@@ -1,0 +1,18 @@
+
+Parece una contradicción, pero la serpiente con las glándulas venenosas más grandes del mundo podría tener la respuesta para aliviar nuestros dolores. Lo descubrieron científicos de la Universidad de Queensland, en Australia. Conocida como la "asesina de asesinas", esta serpiente de coral azul mide hasta 2 metros de largo y es nativa del sudeste asiático. Su veneno actúa "casi inmediatamente" y causa múltiples espasmos en sus presas. ¿Quiénes son sus presas preferidas? La cobras. Una reciente investigación publicada en la revista científica Toxin afirma que ese veneno ataca directamente "los receptores que son críticos para el dolor en los seres humanos y podría ser utilizado como un método de tratamiento" contra enfermedades crónicas. "La mayoría de las serpientes tienen un veneno de acción lenta que funciona como un poderoso sedante. Provoca sueño y movimientos lentos antes de llevar a la muerte", dijo a BBC Bryan Fry, investigador de la Universidad de Queensland. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"El veneno de esta serpiente, sin embargo, funciona casi de inmediato, ya que por lo general se alimentan de animales muy peligrosos (las cobras) que deben matar antes de que las maten a ellas. Por eso son las asesinas de asesinas", describió. Los caracoles "conos" (los más venenosos del mundo) y los escorpiones  son algunos de los pocos invertebrados que fueron estudiados por la ciencia por el poder letal de sus mecanismos de defensas. Sin embargo, como un vertebrado, la serpiente es evolutivamente más cercana a los seres humanos y, por lo tanto, según el doctor Fry, un medicamento desarrollado a partir de su veneno podría ser potencialmente más eficaz. "El veneno se dirige a nuestros canales centrales de  transmisión del dolor. Podríamos convertir esto en algo que podría ayudar a aliviar el dolor", dice el científico y agrega: "Esta serpiente tiene las glándulas venonosas más grandes del mundo. Y también es hermosa. Es mi especie preferida. Es la primera en el mundo conocida por utilizar su veneno de esta manera". Un problema para el estudio y posible desarrollo de un medicamento contra el dolor a base de su veneno, es que esta serpiente es difícil de encontrar. El 80% de su hábitat fue destruido para plantaciones en el sudeste asiático. "Sólo vi dos de estas serpientes en el ámbito salvaje. ¿Quién sabe qué otras especies en esos bosques habrían servido para salvar vidas?", resume Fry.  En el equipo de investigación de este estudio hay científicos de China, EE.UU. y Singapur.  "Estamos tratando de ver si hay algún pariente de la serpiente coral azul que tenga propiedades diferentes. Algunas personas dicen que la única serpiente buena es la que esté muerta... pero nosotros queremos hacer lo opuesto aquí", bromea Fry sobre la benevolencia de la coral azul en el laboratorio.

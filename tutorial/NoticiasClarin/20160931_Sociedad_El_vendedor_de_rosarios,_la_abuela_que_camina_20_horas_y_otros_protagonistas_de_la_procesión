@@ -1,0 +1,27 @@
+
+-EL VENDEDOR QUE GANA $2500 POR DÍA Rubén Oscar es un comerciante nato. "20 pesitos el rosario, me los sacan de las manos, más barato que un café, un regalo". El hombre le vio la veta: "Cuando empecé a venir a vender, hace 20 años, trabajaba para otro, ahora los fabrico yo". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Después de dos décadas, Rubén ya tiene un cálculo: hoy venderá 100 o 120 rosarios adelantándose en auto y esperando a los peregrinos que van llegando a las estaciones de descanso. Su sacrificio particular tendrá su recompensa: si la Virgen le colabora, su ganancia de hoy será de 2.500 pesos. -"NO ES COMÚN QUE VENGA UNA CHICA DE 15 AÑOS"
+
+Mientras sus amigas adolescentes duermen, Camila Ledesma se prepara para caminar los casi 60 kilómetros que hay entre Liniers y Lujan. Llegó desde 25 de Mayo: "Vine porque mi prima me dijo que acá se siente mucha emoción, una adrenalina increíble -cuenta-. Es mi primera vez; no es común que alguien de 15 años este acá pero a mí me emocionó mucho la idea". Mirá también: Las historias de peregrinos que caminan más de 58 kilómetros -LA ABUELA QUE VA A CAMINAR MÁS DE 20 HORAS
+
+ María Luisa Páez tiene 70 años y hace tiempo que es abuela. Y habla de su fe con una convicción serena. “Vengo desde La Pampa, hace 19 años que hago la peregrinación y nunca tuve una ampolla. Desde la primera vez que la hice no falté uno sólo año", cuenta. Y dice sus razones: "Durante mis primeros años de peregrina, uno de mis hijos se enfermó con un virus raro: lo internaron 8 veces, bajó 17 kilos, nadie sabía qué tenía. Yo le dije a la Virgen: 'Madre, vos sos madre y sabés lo que se sufre por un hijo, ayudame'. El joven se recuperó “por eso yo pienso: vos me cumpliste y ahora yo voy a cumplirte hasta que me den las piernas”, sigue. Mirá también: Miles de fieles peregrinan a Luján con la consigna "fraternidad entre los argentinos"
+
+No tiene la edad ni el físico de los grupos de jóvenes que, con los chalecos que los identifican, siguen bajando de los micros naranjas. Ellos tal vez logren llegar a la Basílica en 15 horas y 45 minutos, que es el tiempo promedio calculado por los organizadores. “Yo suelo tardar 20 o 22 horas”, dice, sin gesto de preocupación. Los regresos desde Luján, mañana, ya fueron planificados: los veteranos ya saben que una vez que paren, el agotamiento físico los anula, y que ningún peregrino deberá volver manejando. -LLEGÓ DESDE PERÚ Y VA A HACER TODO EL CAMINO SOLA Todavía no salieron de la Parroquia San Cayetano cargando en los hombros a la Virgen que encabeza la peregrinación y Nelly Beldayan ya está llorando. "Yo vine de Perú y la Argentina me recibió con los brazos abiertos", dice con la voz rota. Y cuenta que no va a Luján a pedir por la salud de nadie sino a agradecer por la oportunidad de empezar una vida nueva en nuestro país. Va a hacerlo sola, sin que nadie le de un empujón ni la ayude a llegar a destino: "Voy a ir sola pero la verdad, no me siento sola", confiesa.
+
+Mirá también: Peregrinación a Luján 2016: El recorrido de los fieles y las claves de la jornada Detrás de Nelly, la Virgen de yeso sale de la parroquia oscura y genera lo mismo que una star de carne y hueso: los fotógrafos se suben rápido a las escaleras que cargan en los hombros, se codean, piden que los de adelante se agachen, los organizadores gritan al mismo tiempo pidiendo orden, los que la rodean aplauden, se tiran encima para tocarla con la punta de un dedo, se turnan para ver quién tiene el honor de cargarla en los hombros primero. Otros ya empiezan a cantar canciones religiosas que se oyen con un sonido metálico que termina de invadirlo todo. Es que, además de la Virgen principal, cada grupo trae su Virgen de cabotaje que empujan en carritos artesanales. Mientras, cantan a través de los megáfonos con los que cantarán durante todo el viaje.
+

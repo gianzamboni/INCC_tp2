@@ -1,0 +1,18 @@
+
+El juez Eduardo Freiler no sólo está en la mira del Consejo de la Magistratura por su desempeño al frente de la Sala I de la Cámara Federal, sino también por su lujosa vida. En un informe del programa Periodismo Para Todos por Canal 13, detatallaron la ostentosa vida del camarista con autos de colección, una mansión, un departamento en Pinamar, caballos, vacas y hasta un yate. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Uno por uno, los jueces y fiscales que atormentan al macrismo Freiler, además, posee una casa en Olivos, cerca de la Quinta Presidencial, de 1234 metros cuadrados, que asegura pagó en sólo 3 millones de pesos. La propiedad de Olivos, ubicada en la esquina de Villate y Catamarca, está valuado en 1,4 millones de dólares, y fue parte de una denuncia de Ricardo Monner Sanz por enriquecimiento ilícito contra Freiler en 2015. El informe del programa de Jorge Lanata detalló que en sus últimas dos declaraciones juradas (2014 y 2015) figuran -además- la compra de un Porsche 912 modelo 68, valuado en 40 mil dólares, vehículo que -según declaró- lo utiliza para participar de "Las carreras de las mil millas". Mirá también: Sueños Compartidos: hoy esperan a De Vido y Hebe sigue sin fecha Pero no es el único auto de lujo que posee el camarista. También tiene Ford EcoSport Titanium, 4 Mercedes Benz, y un Jeep. Uno de sus Mercedes, modelo C250 Blue Efficiency Coupe 2013 y 0 km, tiene una deuda de patente por 68 mil pesos. Con los 100 mil pesos que cobra como camarista, Freiler pudo adquirir la propiedad en Olivos, además de un departamento en Pinamar, caballos, vacas, un jet sky y el yate Chris-Craft Commander Lady Olive, valuado en 110 mil dólares y amarrado en el puerto de San Fernando. El desempeño de Freiler como camarista también es cuestionado por haber impulsado el apartamiento del juez Claudio Bonadio de la causa Hotesur, siendo pariente político de la familia Mercado-Kirchner, hecho que quedó expuesto en la contratación de Natalia Mercado, fiscal de El Calafate, y hermana de Romina Mercado, presidenta del directorio de Hotesur e hija de la gobernadora de Santa Cruz, Alicia Kirchner. La Sala I de la Cámara Federal, que integra Freiler, es la que ratificó el archivo de la denuncia por encubrimiento del fallecido fiscal de la AMIA, Alberto Nisman, entre otras medidas polémicas.

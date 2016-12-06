@@ -1,0 +1,22 @@
+
+La música electrónica suena fuerte y los cuerpos se mueven con frenesí. Dos características fundamentales pero no suficientes para decir que estamos en una auténtica rave. ¿Qué falta? En esta nueva modalidad de fiesta electrónica matutina, que se impone principalmente en Europa pero también en Asia y Australia, no hay alcohol ni drogas. Como si esto fuera poco, propone un horario inusual: comienza a las 6.30 A.M y junto a los DJs, luces potentes, pista de baile y escenario se ofrece una nutrida barra con todo tipo de jugos, licuados y café (sí, tampoco quieren espantar a los no tan ortodoxos de lo estrictamente saludable). 
+
+Esta nueva modalidad de fiestas "abstinentes" es muy observada por los analistas de nuevos hábitos de consumo de todo el mundo. De hecho, ayer, en el cine Atlas de Paseo Alcorta, durante el seminario Visiones, el laboratorio de tendencias creado por las especialistas argentinas Vero Alfie y Soledad Offenhenden, se hizo especial hincapié en que estas raves matinales son una macrotendencia. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Ahora bien, cuando se habla de estos eventos electrónicos saludables, el nombre que siempre aparece es el de la fiesta pionera: Morning Gloryville, que se hizo por primera vez el 29 de mayo de 2013 en Londres. Hoy está en 23 ciudades del mundo.  Sus integrantes acuerdan en que hay que vestirse para la ocasión. Tanto en Tokyo como en Amsterdam o en Dublín, la gente usa  equipos divertidos y muy llamativos. Lo usual son pijamas de colores o ropa cómoda con detalles fluo y bordados con mucho (pero, mucho) brillo.  
+
+La rave del desayuno es para muchos una clase de gimnasia diferente, que le aporta la cuota de energía necesaria para empezar su día. Suelen verse empresarios y ejecutivos jóvenes que no están para funciones de trasnoche. Otros participantes habituales: flamantes progenitores que tuvieron que suspender sus idas a la disco. Hasta vienen con sus pequeños hijos y los auriculares exigidos por los organizadores de estas fiestas, cuando se trata de bebés y niños de hasta seis años de edad. En el seminario Visiones aseguran que pronto llegará a la Argentina. ¿Ponemos los despertadores?

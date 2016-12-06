@@ -1,0 +1,19 @@
+
+Los pasajeros del vuelo 2280 de Aerolíneas Argentinas sufrieron un susto: el avión salió esta mañana desde Ezeiza con destino a Santiago de Chile, pero después del despegue no pudo guardar el tren de aterrizaje. Cuando estaba a la altura de La Plata, tuvo que quemar combustible, volver y aterrizar en el aeropuerto de Ezeiza. Los pasajeos subieron a otro avión de la compañía y ya están volando hacia Chile.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+
+ "Tuvo una muy fuerte vibración en el tren de nariz en el momento del despegue. Cuando quiso guardar el tren de aterrizaje el sistema no le permitió, indicaba que la compuerta no cerraba. El comandante, de inmediato, al no poder ir con el tren de aterrizaje de nariz abierto, quemó combustible (por el peso que tenía el avión) y luego aterrizó. Al principio no aterrizó en emergencia, no hubo mayor inconveniente, pero se vio que estuvo dañado el tren de aterrizaje", informó el periodista de TN Norberto Dupesso.Leé también: Otra vez falló un avión de Aerolíneas y tuvo que volver a Ezeiza para aterrizarNo está bien claro qué es lo que pasó en ese vuelo, que llevaba 74 pasajeros y 5 tripulantes. En un principio se habría denunciado que, en otro aeropuerto donde estuvo el avión, hubo contaminación de pista y también ingesta de aves. También se dijo que el problema pudo haber sucedido por un daño en la banda de la cubierta y que por eso no se pudo guardar en la compuerta.Leé también: Un avión de Aerolíneas sufrió un desperfecto y tuvo que regresar 

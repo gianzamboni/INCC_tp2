@@ -1,0 +1,20 @@
+
+Marcelo Tinelli logró algo imposible: juntar a Mauricio y a Cristina en un mismo lugar. El tema del ahorro energético y la polémica por los aumentos de los servicios, fue casi el tema excluyente que trataron ambos. Los personajes de la emisión 2016 de Gran Cuñado, por Showmatch en Canal 13, estuvieron en el arranque del programa. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mauricio, interpretado por Freddy Villareal, y Cristina, en la piel de Fátima Florez, estuvieron un rato fuera de la casa, uno a cada lado del conductor para hablarle a la "población" por televisión. Mirá también: El secretario que mejicaneaba a Kirchner El mensaje del Presidente se pareció bastante al Macri real, concentrado en el ahorro energético. "Toqué el timbre en una casa y dije 'soy Maurio' y del otro lado me dijeron '¿Qué Maricio?', El que te aumentó todos los servicios", fue el chiste de Freddy.
+
+Tinelli junto a la clásica imitación de Fátima Florez.  Fátima, con su clásica interpretación de la ex presidenta, también aportó lo suyo, agarrando con una mano el micrófono del conductor, sin hablar de los casos de corrupción, prometiendo que va a volver, como se canta en los eventos kirchneristas, y cuestionando los aumentos de tarifas. Mirá también: ShowMatch: Oyarbide rechazó la invitación de la abogada hot para bailar la salsa de tres La parodia de los dos dirigentes políticos más importantes del país fue con cada personaje hablándole a cámara sin mirarse de frente. Un Mauricio insistente en el ahorro de energía y una Cristina con todos los gestos de la ex mandataria.

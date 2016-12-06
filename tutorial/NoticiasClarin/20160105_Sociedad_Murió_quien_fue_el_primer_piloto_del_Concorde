@@ -1,0 +1,17 @@
+
+ El piloto de pruebas francés André Turcat, que estuvo a los mandos del avión supersónico Concorde en su primer vuelo el 2 de marzo de 1969 y realizó varios récords de velocidad, falleció el lunes a los 94 años en su domicilio de la Provenza francesa, anunciaron hoy fuentes oficiales.  Turcat se hizo mundialmente conocido por haber dirigido los test del Concorde y por haber estado al frente del equipo de cuatro hombres que despegó por primera vez con uno de estos aviones desde el aeropuerto de Toulouse (sur de Francia) para un vuelo de pruebas que se prolongó 29 minutos. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

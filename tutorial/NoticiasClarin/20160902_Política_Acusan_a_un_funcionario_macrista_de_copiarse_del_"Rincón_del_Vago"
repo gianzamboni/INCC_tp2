@@ -1,0 +1,98 @@
+
+El secretario de Seguridad Interior de la Nación, Gerardo Milman, fue acusado en la red social Twitter de haber copiado información del sitio web escolar “El Rincón del Vago” para tuitear acerca de los Maras, ni más ni menos que la banda criminal de origen centroamericano. Todo comenzó a raíz de un operativo antidrogas en Villa Celina, cuando el ministro de Seguridad bonaerense Cristian Ritondo aseguró la presencia de este movimiento criminal centroamericano en Argentina.  Mirá también: Ritondo: "Hay Maras en Argentina" Al respecto, el funcionario de la cartera que conduce Patricia Bullrich se despachó ayer por la noche con una serie de tuits acerca de las Maras, sus características y quiénes las componen para alertar a la población sobre este flagelo.  Sin embargo, los tuits del secretario de Seguridad Interior se convirtieron en blanco de burlas en la red social Twitter luego de quedar en evidencia que su fuente provenía del sitio “El Rincón del Vago”. Para colmo esta página web suele ser usada para consultas escolares y difundir monografías de dudosa procedencia. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/alejwall/status/771573081760378880",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77157308176037888")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/che_farias/status/771722386236379136",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77172238623637913")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/santaskillers/status/771722045256237056",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77172204525623705")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/normarandrada/status/771721867434524672",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77172186743452467")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/marekeimitador/status/771705684798889984",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77170568479888998")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Dos sicarios peruanos y un mara, en una banda narco en La Matanza Tras la repercusión del caso, Gerardo Milman volvió a utilizar su cuenta de Twitter para justificar su accionar al citar una monografía de tres estudiantes hondureñas que presentaron para una clase de Sociología de la Universidad Autónoma de Honduras en 2012. Como era de esperar, su sinceramiento estuvo lejos de calmar las aguas en el mundo de los 140 caracteres.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/gmilman/status/771711456228339713",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77171145622833971")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+  Mirá también: Maras y un cartel peruano en una banda narco del Conurbano

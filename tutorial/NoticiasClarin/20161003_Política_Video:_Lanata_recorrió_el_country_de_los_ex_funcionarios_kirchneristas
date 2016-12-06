@@ -1,0 +1,38 @@
+
+El programa Periodismo para Todos presentó esta noche un informe sobre el country Abril, en Hudson, donde viven ex funcionarios kirchneristas y empresarios investigados. Este country fue noticia, durante las últimas semanas, cuando hallaron allí una caja fuerte oculta en un dragón de metal en la casa de un ex funcionario sciolista. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_xids73v0",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_xids73v0"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_xids73v0").after(scriptEl);
+ Jorge Lanata encabezó el recorrido desde un auto: mostraron las casas de Carlos Tomeo, el empresario señalado como presunto testaferro de Aníbal Fernández. También, entre otros, la de Alberto Pérez (ex jefe de Gabinete bonaerense), de Walter Carbone (el sciolista en cuya casa hallaron el dragón), de Francisco Paco Larcher (ex número dos de la Side durante el kirchnerismo) y de Andrés Galera, quien está mencionado en la causa de presunto enriquecimiento ilícito de José López. También vive en Abril, según precisó el conductor de PPT, Silvia Majdalani, actual segunda de la Agencia Federal de Inteligencia y acusada fuertemente por Elisa Carrió de tener vínculos con Larcher. La diputada viene reclamando a Mauricio Macri que la separe de su puesto. Carlos Daniel Tomeo es una de las personas denunciadas por Elisa Carrió como parte de un grupo de legisladores, funcionarios y empresarios que tendrían vínculos con Aníbal Fernández, relacionados con supuestas maniobras de lavado de dinero. En ese recorrido por el Country, Lanata denunció que lo siguió el hijo de Tomeo con su auto y hubo una discusión entre el periodista y el joven, que tiene 17 años. Lanata terminó hablando por teléfono con Carlos Tomeo, pidiéndole que explique cómo construyó su fortuna. "Es de una cobardía y una bajeza mandar al nene", dijo el periodista tras el informe. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_z2lbdrxl",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_z2lbdrxl"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_z2lbdrxl").after(scriptEl);
+

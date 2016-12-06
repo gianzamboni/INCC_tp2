@@ -1,0 +1,18 @@
+
+"Nos amenazó desde que grabamos el video”, sostiene angustiada la vecina de una mujer acusada de golpear a su hijo, que fue filmada por la gente cuando intentaron evitar que lo agrediera en plena calle. En Ciudad Santa María, San Miguel, señalan que tienen miedo de las posibles represalias de Cintia Domínguez, a quien denunciaron y filmaron después de atacar a su nene de 11 años, que ahora está en otra casa y custodiado. Y también dicen que sus otros hijos fueron maltratados. "La madre está bajo tratamiento psicológico, tomando medicación y con una acompañante familiar", explican desde el Servicio Local de la Municipalidad de San Miguel, donde aseguran que les hicieron "exámenes físicos a sus otros hijos, y ante otra situación de riesgo se intervendrá". Además, el menor que aparece en la filmación está protegido, en otra casa. Según señalan los vecinos, la mujer "golpeó con cadenas a su hijito". Dicen que lo hizo a la vista de todos, en la calle Segunda de Pardo. “Dejó al nene durmiendo en la calle, y al otro día le empezó a pegar en el medio vía pública", sostiene Julissa, otra vecina. “Le sacaron la tenencia de Axel, pero estamos tememos que les haga algo a sus otros hijos”, cuenta, y asegura que ya había agredido a los demás anteriormente. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En el video que se viralizó en las redes sociales se ve el momento en que llega la Policía al lugar, y los vecinos acusan a la mujer de haber golpeado a su hijo. Incluso filman al menor, y una herida que tiene bajo el cuero cabelludo. “Cuando vino la Policía, amenazó a sus hijos diciéndoles que se quedaran callados”, cuenta un vecino. “Dijo que nos iba a prender fuego la casa de todos los que la denunciamos, y a una de las vecinas le dijo que cuidara bien a sus hijos”, sostiene con preocupación otra. Ahora, Axel se encuentra en otra casa, custodiado y protegido con el consenso del Municipio. “Las puertas de mi casa están abiertas para sus hermanos también, que vienen todos los días a ver a Axel y a merendar, todo lo que le puedo darles, se los doy”, sostiene quien tiene la tenencia provisoria del menor.

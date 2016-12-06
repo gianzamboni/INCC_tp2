@@ -1,0 +1,138 @@
+
+El economista Roberto Frenkel (73) conversó con el Económico sobre las perspectivas del dólar, la inflación y la marcha de la economía para los próximos meses y el año que viene en Argentina. Un resumen de la entrevista con el investigador del Cedes.  –El Gobierno toma dólares prestados del exterior y muchos encienden la alarma del atraso cambiario, ¿usted qué piensa? La presión a la baja en el dólar no es por la entrada de capitales. En todo caso, es por la venta de esos dólares en el mercado local. No pasa nada mientras las divisas ingresen al país y queden depositadas en la cuenta del Tesoro en el Banco Central. Tampoco si se utilizaran para pagar intereses de la deuda. Pero si el Tesoro gasta esos dólares para pagar sueldos, subsidiar la luz, el gas y cubrir el déficit, el tipo de cambio se cae. Este es un mecanismo.
+
+–¿Y el otro? El carry trade. Los inversores internacionales traen dólares para comprar bonos argentinos que rinden más que otros activos en un mundo con tasas muy bajas o negativas. ¿Qué tasa atrae a estos inversores? La que paga el título en relación a las expectativas de devaluación. En el caso del bono a 10 años que salió días atrás, los inversores esperan que, en promedio, el precio del dólar suba significativamente menos del 15% anual. –¿El peso está apreciado hoy? El tipo de cambio real con el dólar está 5% mejor que en el verano de 2015, un año después de la devaluación de Kicillof. Entre enero de 2015 y hoy se acumuló una inflación de 70%. Y el dólar está 75% arriba. 
+
+
+La principal resistencia que enfrenta el Gobierno son los sindicatos que ganan salarios más altos y no aceptan que su poder adquisitivo caiga.
+
+
+
+
+
+var act_3a9 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_3a9 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_3a9.setTitle('La principal resistencia que enfrenta el Gobierno son los sindicatos que ganan salarios más altos y no aceptan que su poder adquisitivo caiga.');
+act_3a9.setSubtitle('Entrevista'); 
+act_3a9.setLinkBack('http://www.clarin.com/ieco/Frenkel-atrasado-nivel-abrir-economia_0_1673232824.html');
+act_3a9.setDescription('Para el economista, la Argentina aún no escapa del atraso cambiario en el que lleva ya un lustro. Y advierte que esto traería más déficit externo, protección y consumo.');
+act_3a9.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/Frenkel-atrasado-nivel-abrir-economia_0_1673232824.html');
+
+var showShareBarUI_params_3a9=
+{ 
+containerID: 'shareQuote_3a9',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_3a9,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_3a9
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_3a9);
+ El tipo de cambio real multilateral está estable hace 5 meses Es cierto. Pero son sólo 5 meses y a raíz de la apreciación de nuestros vecinos, o sea, los países hacen una política que conviene a la Argentina y no como producto de una política nuestra. Así como hoy está estable, mañana puede que no. Los sueldos en dólares más altos de la región son los de nuestro país. –¿Qué impacto provocaría la apreciación cambiaria? La Argentina tendrá déficit de cuenta corriente. Hoy no es importante porque la economía está en recesión y el pago de servicios de la deuda es bajo. Pero si la Argentina vuelve a crecer, el rojo crecerá. Por cada punto que crece el PBI, las importaciones aumentan cerca de 3 puntos en este país. También el déficit subirá si emitimos más deuda, aunque es tan baja en términos del producto que no será una preocupación por los próximos dos años. –Viniendo más acá, en el corto plazo: ¿cómo pegaría esa apreciación? Con este dólar no se puede abrir la economía porque caería significativamente el empleo. Y este es un punto clave. En la Argentina hoy los puestos de trabajo de la industria se sostienen con protección. -¿Cómo se llegó a esto? Un gobierno que enfrenta como principal resistencia a los sindicatos que ganan ingresos más altos y no aceptan que su poder adquisitivo caiga. Eso llevó a que medidas que tomó el Gobierno fueran marcha atrás y volvemos a caer en atrasar el tipo de cambio para expandir el consumo. Pero esa reactivación, la del atraso cambiario, tiene patas cortas porque el industrial argentino sólo vende un par de zapatos porque está prohibida la importación. Nos pasa hace 4 o 5 años.
+
+–¿Pero la apreciación no estimulará el consumo de cara a 2017? Se espera que el consumo empuje. –¿Por qué ‘se espera’? Vamos a ver qué pasa con la inflación, todavía falta. Es cierto que la apreciación, en el corto plazo, impacta a favor del consumo. La devaluación de diciembre pasado se trasladó a precios y salarios en una proporción muy parecida a la de Kicillof en 2014. Luego el dólar se frenó en $15, la llamada ancla cambiaria que ayudó a estabilizar la inflación. Si el precio del dólar sube menos que los salarios y los precios de la economía, el poder adquisitivo en dólares y real aumentan. Y el consumo se expande. -¿Cuánto de la inflación se explica por el movimiento del dólar? Sacando la inercia y las tarifas, la evolución de la inflación en Argentina es 60% por la suba de salarios y 40% por la del dólar. Si se otorga un aumento salarial de 35%, y quedan quietas las tarifas y el dólar, la inflación anual sería cerca de 21%. 
+
+
+"Estoy de acuerdo con Sturzenegger: la tasa de interés no está muy alta"
+
+
+
+
+
+var act_31c = new gigya.socialize.UserAction();
+
+var emailBodyCustom_31c = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_31c.setTitle('"Estoy de acuerdo con Sturzenegger:&nbsp;la tasa de interés no está muy alta"');
+act_31c.setSubtitle('Entrevista'); 
+act_31c.setLinkBack('http://www.clarin.com/ieco/Frenkel-atrasado-nivel-abrir-economia_0_1673232824.html');
+act_31c.setDescription('Para el economista, la Argentina aún no escapa del atraso cambiario en el que lleva ya un lustro. Y advierte que esto traería más déficit externo, protección y consumo.');
+act_31c.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/Frenkel-atrasado-nivel-abrir-economia_0_1673232824.html');
+
+var showShareBarUI_params_31c=
+{ 
+containerID: 'shareQuote_31c',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_31c,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_31c
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_31c);
+ –¿Cómo ve al Banco Central? Jugando con fuego porque pone toda la cabeza diciendo “vamos a bajar la inflación sólo con la política de tasa de interés”. –¿Y no es así? Más de la mitad del mecanismo por el cual el inflation targeting baja la inflación es la apreciación cambiaria. El otro mecanismo es la suba de la tasa de interés para morigerar la demanda. En niveles de inflación como los de Argentina hoy, nunca se intentó hacer un inflation targeting, o sea, manejar la desaceleración de la inflación sólo desde el Banco Central y con la tasa de interés. Otros países hicieron algo parecido pero cuidando el tipo de cambio, como Colombia y Chile. Además, ambos países partieron de tipo de cambios muy altos y con situaciones sanas en lo fiscal. –¿Usted qué haría? Si uno quiere tener una política de más largo plazo, el sector privado debe contar con alguna certidumbre de tipo de cambio real que se sostenga a futuro porque quien invierte en bienes transables tiene que saber a qué tipo de cambio venderá. Y hoy por hoy nadie sabe a qué tipo de cambio real va a terminar esta experiencia. Nadie juega su dinero en producir bienes si las cuentas no están claras. En la inversión financiera es distinto porque te sentas a cobrar 15% en dólares y listo. –¿Cómo lo haría? Se puede intervenir comprando. –En el Gobierno dicen que no importa el tipo de cambio real Yo sigo diciendo que sí porque hay evidencia que explica la importancia del tipo de cambio real. Además, es claro que en la Argentina importa. La tasa de desempleo que la Argentina tuvo en los 90 fue porque tuvimos un tipo de cambio real apreciado. Cerró una parte importante de nuestra industria. En los 2000 tuvimos un tipo de cambio real alto, pero después Cristina y Marcó del Pont descubrieron el impacto de la apreciación cambiaria. –Van a decir que usted no entiende que el Gobierno tiene que ganar elecciones en 2017 Yo no puedo contestar por mi simpatía política. Tengo que contestar como economista y decir que en la trampa en que estamos no se sale así. Y que para superarla se necesita algo que el país no logra desde hace ya muchos años: un acuerdo del salario y el tipo de cambio real competitivo. Hay que juntar muchos actores: no es sencillo bajar la inflación con el método que hoy utiliza el Gobierno y menos sin coordinación. –¿Está de acuerdo con que el Central tiene la tasa en un nivel alto? No. ¿Qué pasaría con el dólar si la bajan? Estoy de acuerdo con Sturzenegger en ese punto. La tasa de interés no está muy alta.

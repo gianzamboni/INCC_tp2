@@ -1,0 +1,54 @@
+
+“Me echan de la radio. No voy a poder hacer mi programa. Trataré de buscar vías de comunicación”, así, con esas palabras el periodista Víctor Hugo Morales anunció que fue despedido de Radio Continental. La información se la comunicaron hoy minutos antes de que comience su programa, el cual no pudo realizar. Se despidió en cuatro minutos y más tarde se leyó un comunicado oficial confirmando el despido.
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+    var audioPlayerId = "aud_CLAAUD20160111_0001_";
+
+    var setup = {
+        title: 'Echaron a Victor Hugo Morales de radio Continental.',
+        id: audioPlayerId,
+        file: "/bbtcontent/audiofile/CLAAUD20160111_0001/0_20160111EMkULG.mp3",
+        primary: 'html5',
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        width: "470",
+        height: "30",
+        ga: {}
+    }
+
+    var audioPlayerInstance = jwplayer(audioPlayerId).setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(audioPlayerInstance);
+    }
+
+
+
+
+El periodista ingresó al estudio de su colega Paulino Rodríguez -quien estaba al aire- y allí anunció que ya no estaría más frente al micrófono de Continental: "Siento que esto es una verdadera miseria que le toca vivir al periodismo en la Argentina", manifestó en los minutos que pudo estar al aire. Allí expresó que pudo salir en vivo a pesar de que se lo quisieron impedir y denunció que fue censurado.Leé también: "Victor Hugo Morales: 'El Gobierno puede sentirse ganador'"Luego, agregó: "Me da mucha pena, estamos llegando a las 9 de la mañana. Me gustaría llegar hasta la hora del primer minuto de mi audiencia. Entré porque a 20 minutos de empezar mi programa me dijeron que no podía hacerlo. Me da muchísima pena retirarme de esta forma", dijo y contó que hace 30 años forma parte de la emisora. Tambien se dio a conocer un video subido por el propio periodista, en el que se puede ver al conductor ingresando al estudio y siendo abordado por las autoridades de la radio que le impiden hacer su programa. En las imágenes se observa cómo el periodista ingresa de prepo en la transmisión en vivo que conducía Paulino Rodríguez y cuenta que acaba de ser despedido, pero rápido cortan el programa y van a la pausa. Lo que sigue después es el arreglo al que llegan para que el periodista pueda despedirse en cuatro minutos.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

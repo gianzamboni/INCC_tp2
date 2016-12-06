@@ -1,0 +1,18 @@
+
+Las inundaciones no dan tregua en el Litoral argentino. Ahora, el desborde del arroyo Colastiné está complicando una de las vías de comunicación más importantes de la provincia de Santa Fe. Se trata de la autopista Santa Fe-Rosario, que se encuentra cortada desde esta mañana por la cantidad de agua en la calzada. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El estado de la autopista expone una porción de la realidad que padece la región porque el sector tambero y agrícola se ve afectado casi en su totalidad. Según datos oficiales, “el 80 % de la zona tambera está bajo agua. Los campos están saturados de agua, con la hacienda hacinada en distintos lugares por lo que la situación es delicada", señalaron en un comunicado. Por su parte, la Sociedad Rural de Rafaela solicitó al cuerpo de ediles del Concejo Municipal la declaración de zona de desastre agropecuario para el distrito Rafaela.  Mirá también: Advierten que el Paraná podría seguir creciendo hasta junio En tanto, el temporal de lluvia y la creciente que afecta al río Paraná sigue generando problemas en diferentes puntos de la provincia. Fuentes oficiales describieron que son más de 2.200 las personas evacuadas en toda la provincia.

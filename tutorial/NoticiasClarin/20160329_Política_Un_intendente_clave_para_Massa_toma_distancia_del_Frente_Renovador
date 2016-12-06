@@ -1,0 +1,72 @@
+
+“No me fui ni estoy; me quedo en San Miguel”, repite Joaquín de la Torre ante la consulta sobre su eventual salida del Frente Renovador. El alcalde de San Miguel era parte del núcleo más cercano a Sergio Tomás Massa: tanto, que el fin de año lo pasaron juntos en Pinamar. Ahora, este dirigente político y deportivo (es parte de la directiva de San Lorenzo de Almagro) se corrió de las actividades políticas del FR y de las juntadas con otros intendentes de esa fuerza, que eran coordinadas por él.
+
+El mes pasado, De la Torre encabezó una cena con Federico Salvai -ministro de Gobierno de María Eugenia Vidal- en su distrito. Y también, quien capitaneaba el vínculo con Alex Campbell, subsecretario de Asuntos Municipales de la Provincia. 
+
+
+De la Torre se corrió del Frente Renovador, crítico con “el proceso de toma de decisiones” en esa fuerza donde Massa interviene en casi todo.
+
+
+
+
+
+var act_14e = new gigya.socialize.UserAction();
+
+var emailBodyCustom_14e = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_14e.setTitle('De la Torre se corri&oacute; del Frente Renovador, cr&iacute;tico con &ldquo;el proceso de toma de decisiones&rdquo; en esa fuerza donde Massa interviene en casi todo.');
+act_14e.setSubtitle('POLÍTICA NACIONAL'); 
+act_14e.setLinkBack('http://www.clarin.com/politica/intendente-Massa-distancia-Frente-Renovador_0_1549045233.html');
+act_14e.setDescription('Es Joaqu&iacute;n de la Torre, de San Miguel, quien formaba parte del n&uacute;cleo pol&iacute;tico del jefe del Frente Renovador. Cr&iacute;ticas a las tomas de decisiones.');
+act_14e.addActionLink('VER MÁS', 'http://www.clarin.com/politica/intendente-Massa-distancia-Frente-Renovador_0_1549045233.html');
+
+var showShareBarUI_params_14e=
+{ 
+containerID: 'shareQuote_14e',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_14e,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_14e
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_14e);
+ Tras conocerse la toma de distancia del alcalde de San Miguel, los bonaerenses Jorge Sarghini y Juan José Amondaráin intentaron quitar el hielo de la relación. Y mañana, el propio Massa se verá con el de San Miguel.
+
+Habrá que ver si la decisión de correrse se modifica o, si por el contrario, se profundiza con un alejamiento. Pero en el entorno de De la Torre recuerdan una anterior puja con otro intendente, el de San Isidro: “Si a nosotros nos hubieran hecho el 1% de lo que le hicieron a Gustavo Posse, ya nos hubiéramos ido”, aseguran. Posse mantuvo un fuerte enfrentamiento político con la familia Galmarini en San Isidro, donde postularon a la madre de Malena, Marcela Durrieu, a competir en una interna con el hoy intendente sanisidrense, quien emigró del FR. En el equipo de María Eugenia Vidal miran con atención el desarrollo del culebrón, en virtud de la buena relación que hoy mantienen, tanto con De la Torre como con Massa, aliado clave del gobierno bonaerense.

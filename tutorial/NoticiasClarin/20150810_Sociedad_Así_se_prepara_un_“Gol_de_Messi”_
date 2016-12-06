@@ -1,0 +1,17 @@
+
+No lo intenten en sus casas. O sepan que, si lo intentan, el resultado no será el mismo. Jordi Roca, el pastelero del mejor restaurante del mundo, contó en un video antes de despedirse de Argentina cómo se prepara el “Gol de Messi”, el plato “sensación” del tramo porteño de su gira gastronómica.Aunque no entró en detalles de cómo se hace cada preparación, sí describió qué elementos componen este soñado gol de la Pulga a Brasil, y explicó también cómo se come.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

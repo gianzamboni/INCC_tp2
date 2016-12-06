@@ -1,0 +1,20 @@
+
+El paso del huracán Matthew por el Caribe fue registrado desde la Estación Espacial Internacional, que capturó las impactantes imágenes del fenómeno que en su paso por Haití dejó al menos 300 muertos convertido en un huracán de categoría 4. Esta mañana el ciclón atravesaba la costa este de Florida, en el sureste de los Estados Unidos, donde unos 300.000 hogares se quedaron sin luz debido a los daños producidos a la infraestructura por los fuertes vientos.  Mirá también: Matthew comenzó su peligrosa marcha por la costa este de Florida 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Las impactantes imágenes fueron difundidas por la NASA, allí se puede ver claramente el ojo del huracán en medio de un manto blanco que cubre completamente la zona del Caribe.  Por otro lado, la NASA también publicó una imagen en falso color infrarrojo que muestra las zonas donde la tormenta pegaba con más fuerza.
+
+Por estas horas el huracán Matthew se está acercando a Cabo Cañaveral, a unos 360 kilómetros al norte de Miami, donde se registran ráfagas de viento de hasta 120 kilómetros por hora. Su intensidad ha bajado a categoría 3. 

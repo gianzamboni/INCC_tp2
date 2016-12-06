@@ -1,0 +1,34 @@
+
+Una mujer de 63 años dio a luz en Australia a un bebé concebido mediante fecundación in vitro en el extranjero, con lo que batió el récord de parto a edad más avanzada en ese país. Mirá también: Una británica de 60 años podría ser madre-abuela con los óvulos congelados de su hija muerta Según Channel 7News, la pequeña nació el lunes, ocho semanas antes de la fecha estimada de parto de esta madre primeriza. El nacimiento tuvo lugar en Melbourne, fue por cesárea y el padre, de 78 años, estuvo presente. Tanto la mujer, a la que algunos medios atribuyen 62 años, como la hija se encuentran bien. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Y7News/status/760576777475371008",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76057677747537100")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Amamantar a 4 tetas: la emotiva historia de una pareja de mamás La noticia desató el debate en el país sobre la conveniencia de embarazos a edades tan avanzadas. El presidente del consejo de médicos, Michael Gannon, criticó a la mujer y a su pareja, calificándolos de egoístas. "¿Alguien pensó qué pasará cuando esta niña sea adolescente?", escribió ayer en Twitter. "Una locura. Con más de 60 nadie debería tener hijos", agregó en otro posteo. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/amapresident/status/760622658824261632",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76062265882426163")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Para el especialista en fertilidad Gab Kovacs, de la Universidad Monash, "es irresponsable ayudar a conseguir un embarazo a una mujer de esa edad". Según argumentó, "a un chico se le debe mantener durante 20 años, y es muy posible que la madre no pueda". Mirá también: Una mujer podrá concebir un hijo con el semen conservado de su marido muerto En Australia, la ley sólo permite recibir tratamientos de fertilidad a mujeres de como máximo 53 años. Según los medios, la reciente madre llevaba años intentando quedar embarazada a través de la fecundación artificial, pero no lo consiguió hasta que se le implantó un óvulo donado. A finales de 2006, el caso de una española de 67 años dio la vuelta al mundo al convertirse en la mujer de mayor edad en dar a luz, esta vez a gemelos. Según se supo después, había mentido sobre los años que tenía para poder someterse a un tratamiento de fertilidad en Estados Unidos. Al poco tiempo se le detectó un tumor y falleció tres años más tarde. En mayo de 2015, la alemana Annegret Raunigk, de 65 años, dio a luz a cuatrillizos. Ya tenía 13 hijos. Quedó embarazada, luego de varios tratamientos, porque una de sus hijas le pedía un hermanito. Un año después, en India, una mujer de 70 años dio a luz a primer hijo. Logró ser madre gracias a un tratamiento in vitro al que se sometió junto a su marido de 79 años. Fuente: DPA

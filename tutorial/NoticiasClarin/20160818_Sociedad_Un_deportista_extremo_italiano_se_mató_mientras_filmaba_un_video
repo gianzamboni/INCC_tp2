@@ -1,0 +1,18 @@
+
+El deportista extremo italiano Uli Emanuele murió en un accidente en Austria mientras realizaba unas grabaciones para un video de sus exhibiciones, informaron hoy medios locales. Emanuele cayó al piso mientras realizaba uno de sus arriesgados saltos. Mirá también: El salto BASE más espectacular de la historia El accidente mortal se produjo cuando Emanuele, de 29 años, se encontraba en las Dolomitas austriacas. Ayer a las 20 (hora local) compartió una imagen en su cuenta de Facebook. "Listo para empezar un nuevo salto", informaba desde los 3.100 metros de altura.   Emanuele comenzó su carrera como paracaidista, siguiendo la trayectoria del padre, aunque en los últimos años se había dedicado al salto BASE y a los lanzamientos con traje aéreo. El salto BASE es una modalidad del paracaidismo que consiste en saltar desde un punto fijo. BASE es una sigla proveniente de los cuatro puntos desde los que habitualmente se salta en esta disciplina: building (edificio), antenna (antena), span (puente) y Earth (tierra, risco, acantilado). Era famoso en Italia por unos videos en los que realizaba saltos extremos entre anillos de fuego y pequeños espacios entre las montañas. Mirá también: Terror en el aire: un ala delta pierde el control en pleno vuelo  El último video que publicó en su canal de YouTube, el 29 de enero, muestra un vertiginoso vuelo con traje aéreo, más conocido como wingsuit. Este deporte cumple el sueño de volar, pero es considerado de alto riesgo y causó varias muertes en el mundo. "Contra el instinto", fue el título que eligió para presentar su hazaña.   
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Sin paracaídas, se lanzó desde 7.600 metros de altura y aterrizó sobre una red Fuente: EFE

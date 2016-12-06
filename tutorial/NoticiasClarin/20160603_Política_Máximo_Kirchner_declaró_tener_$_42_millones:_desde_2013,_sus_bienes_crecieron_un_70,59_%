@@ -1,0 +1,134 @@
+
+Máximo Kirchner finalizó el 2015 con un patrimonio de $ 42 millones, según declaró ante la Oficina Anticorrupción: unos siete millones de pesos más que el año anterior, cuando declaró tener bienes por $ 35 millones. Como un marcado fin de ciclo, el diputado nacional ya no le adeuda dinero a Austral Construcciones, firma insignia de Lázaro Báez, detenido hace más de 60 días por lavado de dinero. Su mayor fortuna son los plazos fijos, sus empresas compartidas con Cristina Kirchner y los inmuebles heredados.  En tres años (de 2011 a 2014) Máximo Kirchner mostró un incremento patrimonial del 91,25% y logró incorporar más de $ 17 millones a sus bienes. Fueron los primeros números que se conocieron en el marco de la causa Hotesur. Mirá también: Un “arrepentido” tendría audios de Báez hablando de pagos al juez  Sin cargo político ni demasiada exposición pública, en 2007 tenía únicamente $ 46.434 en bienes. Para 2010, ya contabilizaba $ 934.718,93. La herencia recibida de su padre, concretada meses después de la muerte de Néstor Kirchner -el 27 de octubre de 2010- hizo la diferencia y en 2011, con 28 inmuebles y acciones de las empresas familiares, Máximo declaró un patrimonio de $ 18.780.698,53.  En 2013, el líder de La Cámpora, con deudas con dos empresas de Lázaro Báez, tenía un patrimonio era de $24.838.629. Después de las elecciones, en las que salió segundo en Santa Cruz, se conoció su primera declaración jurada como funcionario público. ¿El resultado? En doce meses, sus bienes crecieron un 44,61%. Ante la Oficina Anticorrupción declaró tener $ 35.919.289. Mirá también: Tras ser recibido por el Papa, Casanello dijo que “el apoyo de Francisco  es extraordinario”  Ahora, esta suma asciende a $ 42 millones según su última declaración jurada: desde 2013 a la fecha, los bienes de Máximo crecieron un 70,59 %.  El hijo de Cristina, mantuvo al igual que el período anterior, 26 inmuebles recibidos por herencia tras la sucesión de su padre, que a 2015 tienen un valor de $ 7.611.092, el mismo en el que fueron valuados en el período 2014. Mirá también: Tras años de peleas, el Gobierno nacional traspasa el manejo de casinos y bingos a la Ciudad  Tampoco hubo variaciones en la cotización de las dos propiedades que adquirió con ingresos propios: un lote de terreno en El Calafate de 35.000 metros cuadrados (de $ 292.697) valor que no sufrió modificaciones, y la casa en la que vive ubicada en el Barrio APAP en Río Gallegos, de 332 metros cuadrados ( $ 1.535.254,38). 
+
+
+  En los 28 inmuebles, Máximo Kirchner tiene $ 9.439.043.
+
+
+
+
+
+var act_064 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_064 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_064.setTitle('  En los 28 inmuebles, Máximo Kirchner tiene $ 9.439.043.');
+act_064.setSubtitle('ES DIPUTADO NACIONAL POR SANTA CRUZ'); 
+act_064.setLinkBack('http://www.clarin.com/politica/Maximo-Kirchner-declaro-millones-crecieron_0_1588641155.html');
+act_064.setDescription('El hijo de Cristina present&oacute; su declaraci&oacute;n jurada. Su mayor fortuna son los plazos fijos, sus empresas compartidas con Cristina&nbsp;y los inmuebles heredados.');
+act_064.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Maximo-Kirchner-declaro-millones-crecieron_0_1588641155.html');
+
+var showShareBarUI_params_064=
+{ 
+containerID: 'shareQuote_064',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_064,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_064
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_064);
+  Sí aumentó cerca de $ 137.000 la valuación de sus dos vehículos que en 2014 fueron valuados en $ 233.125 y este último período fiscal, asciende a $ 367.500.  Las empresas investigadas por la Justicia, Hotesur (propietaria del hotel Alto Calafate) y Los Sauces S.A (dedicada al rubro inmobiliario cuyos principales clientes son Lázaro Báez y Cristóbal López), aumentaron su valor. En el caso de la primera sociedad, en 2014 su valor era de $ 5.155.571,53 y Máximo Kirchner declaró que el último año, la empresa vale $ 5.192.219,41.  La única actividad de Hotesur es la explotación del hotel Alto Calafate, ubicado en la villa turística. Este año se quedó después de mucho tiempo, sin el contrato de Aerolíneas Argentinas que pagó más de dos millones de dólares entre 2008 y 2013. La empresa está investigada por lavado de dinero y es la causa que más preocupa a la familia Kirchner.  Los Sauces SA, que según la diputada Margarita Stolbizer no cuenta con movimientos contables y sólo adquirió en 2008 los ocho inmuebles que posee y alquila a empresas de Cristóbal López y Lázaro Báez, cerró el 2014 con un valor de $ 3.007.068,43 y para el año siguiente, su cotización era de $ 3.774.459,83. Mirá también: Procesado por una denuncia que se le volvió en contra  La tercera empresa que declara Máximo y que comparte con la ex Presidenta, es COMA S.A, una empresa que en caja sólo registra $ 150. Sin una sede de funcionamiento, la empresa dedicada al rubro inmobiliario, sólo tiene dos lotes de terrenos en El Calafate. Sin movimientos, su valor tampoco sufrió cambios, tanto en 2014 como en 2015, su valor es de $ 55.164.  Lo más elevado de su patrimonio y que representan el 50% del mismo, son los siete plazos fijos resultado de la herencia: suman $ 20 millones, mientras que en plazos fijos con ingresos propios contabilizan $ 125.000. En cuenta corriente también con ingresos propios, declara $ 26.960,  Sin querer tener ningún tipo de vinculación con Lázaro Báez, pese que su Inmobiliaria contrató diferentes servicios del holding del empresario K (catering, gomería) y estuvieron vinculados por el alquiler de inmuebles (tanto en Buenos Aires como en Río Gallegos), el diputado de La Cámpora canceló la deuda que su familia hace años venía manteniendo con la constructora: $ 6.320. Ya no le debe nada a Lázaro. Además canceló su deuda con Los Sauces S.A que representaban $ 14.151.  Sí adeuda a Panatel $ 163.537, la empresa que sin el contrato de gerenciamiento renovado a principios de este año, administra el hotel boutique Los Sauces lindante a la residencia de Cristina Kirchner en El Calafate, y cuya ampliación se hizo sobre un terreno que perteneció a Austral Construcciones. 
+
+
+ Con la AFIP, el hijo de la ex Presidenta mantiene una deuda $ 54.064 y con la empresa Hotesur, de la cual es accionista, el dinero adeudado asciende a $ 2.364.127.
+
+
+
+
+
+var act_1d3 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_1d3 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_1d3.setTitle(' Con la AFIP, el hijo de la ex Presidenta&nbsp;mantiene una deuda $ 54.064 y con la empresa Hotesur, de la cual es accionista, el dinero adeudado asciende a $ 2.364.127.');
+act_1d3.setSubtitle('ES DIPUTADO NACIONAL POR SANTA CRUZ'); 
+act_1d3.setLinkBack('http://www.clarin.com/politica/Maximo-Kirchner-declaro-millones-crecieron_0_1588641155.html');
+act_1d3.setDescription('El hijo de Cristina present&oacute; su declaraci&oacute;n jurada. Su mayor fortuna son los plazos fijos, sus empresas compartidas con Cristina&nbsp;y los inmuebles heredados.');
+act_1d3.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Maximo-Kirchner-declaro-millones-crecieron_0_1588641155.html');
+
+var showShareBarUI_params_1d3=
+{ 
+containerID: 'shareQuote_1d3',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_1d3,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_1d3
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_1d3);
+  Así, el último patrimonio que declara Máximo que ahora es diputado nacional, es de $ 42.373.223,40.

@@ -1,0 +1,68 @@
+
+Cristina Kirchner dio hoy un discurso en las escalinatas de los tribunales federales de Comodoro Py, tras presentar un escrito en el juzgado de Claudio Bonadio. Criticó al juez y calificó de armado político-mediático a su convocatoria y luego, les habló a sus militantes para que conformen un frente ciudadano. Mirá también: Cristina culpó al gobierno de Macri y se comparó con Yrigoyen y Perón “Hemos sido respetuosos de la voluntad popular”, dijo Cristina a la media hora de iniciado su discurso. Y sumó: “El que más tiene que respetar la voluntad popular es el gobierno que dijo que no iba a devaluar, que no iba a echar, que no iba a hacer ajuste”. Dijo que “ir al supermercado es una odisea. No se enojen con el vecino o el amigo por cómo votó, no se enojen con otros argentinos”. Mirá también: Cristina evitó las preguntas de Bonadio, presentó un escrito y recusó al juez Luego de eso, pidió “conformar un gran frente ciudadano. donde se pregunte '¿cómo te está yendo?’. El punto de unidad es reclamar por lo que nos han arrebatado”. Y allí, se refirió a quienes dejaron de estar junto a ella y su proyecto político: “Si nos fijamos en el que dio un paso al costado y se fue, nos equivocamos”. Entonces, la respuesta de los militantes K fue el canto de “Bossio, compadre, la concha de tu madre”. 
+
+
+Cristina escuchó y les advirtió: “Así no van a convencer a nadie”.
+
+
+
+
+
+var act_4cd = new gigya.socialize.UserAction();
+
+var emailBodyCustom_4cd = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_4cd.setTitle('Cristina escuch&oacute; y les advirti&oacute;: &ldquo;As&iacute; no van a convencer a nadie&rdquo;.');
+act_4cd.setSubtitle('SE PRESENTÓ ANTE BONADIO'); 
+act_4cd.setLinkBack('http://www.clarin.com/politica/Cristina-militantes-van-convencer-nadie_0_1558044401.html');
+act_4cd.setDescription('Se los dijo cuando insultaban a Bossio, quien dirigi&oacute; la ANSES y ahora, se fue del bloque de diputados del FpV. Y les pidi&oacute; conformar &ldquo;un gran frente ciudadano&rdquo;.');
+act_4cd.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Cristina-militantes-van-convencer-nadie_0_1558044401.html');
+
+var showShareBarUI_params_4cd=
+{ 
+containerID: 'shareQuote_4cd',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_4cd,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_4cd
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_4cd);
+ Diego Bossio dirigió la ANSES durante la gestión cristinista y ahora, como diputado, se apartó del bloque del FpV y armó un bloque crítico pero cercano al Gobierno nacional. Mirá también: Cristina habla en Tribunales: "Me pueden meter presa pero no me pueden callar" “No chiflen y no insulten”, pidió luego pero las imágenes de todos los canales de noticias transmitieron la bronca de la militancia K.

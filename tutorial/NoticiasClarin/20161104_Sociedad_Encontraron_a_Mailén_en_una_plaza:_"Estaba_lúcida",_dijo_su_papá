@@ -1,0 +1,18 @@
+
+Mailén Sánchez, la chica  de 12 años que desapareció ayer al mediodía cuando regresaba de la escuela junto a una compañera, quien primero denunció un secuestro y luego se desdijo, fue ubicada esta mañana en una plaza, según confirmó su papá desde la puerta de la Comisaría 29 antes de ir a su encuentro. "Estaba lúcida", dijo sobre el estado en el que se encuentra la chica.  Según trascendió, la nena dijo que se pudo escapar y que pasó la noche en una plaza cercana a la Facultad de Derecho.  La chica había desaparecido ayer pasadas las 14 en el barrio porteño de Chacarita, justo frente al cementerio, en la intersección de las calles Corrientes y Federico Lacroze. Mailén y su compañera regresaban en el tren Urquiza del colegio al que asisten, el Instituto Libertad de San Martín, y según la primera versión de su amiga, al bajarse en la estación Lacroze fueron interceptadas por una camioneta tipo Traffic blanca con vidrios polarizados desde la salió un hombre que raptó a Mailén. Horas después, la adolescente fue sometida a un careo con otra compañera de curso y se desdijo, negando la existencia de la camioneta y derribando la teoría del rapto. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/HambreCero/status/794300972197695488",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79430097219769548")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ La desaparición de la joven, que al momento del hecho vestía el uniforme escolar (una chomba blanca y un pantalón oscuro con vivos verdes), fue denunciada en la comisaría N° 29. Con la presencia de amigos y familiares de Mailén, las autoridades revisaban todas las cámaras de seguridad de la zona para obtener más información y esclarecer lo sucedido. La foto de la nena con el pedido de información se viralizó rápidamente en las redes, junto con un intenso operativo para dar con ella.  

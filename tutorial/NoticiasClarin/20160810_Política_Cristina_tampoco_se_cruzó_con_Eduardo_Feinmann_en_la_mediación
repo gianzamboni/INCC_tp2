@@ -1,0 +1,18 @@
+
+La mediación prevista entre Cristina Fernández de Kirchner y Eduardo Feinmann finalizó sin un acuerdo entre las partes. La ex presidenta, acompañada por el abogado Gregorio Dalbón y Feinmann por el letrado Roberto Ribas fueron convocados este mediodía a una audiencia y no se vieron las caras.  Al igual que ocurrió con la mediación del lunes con Margarita Stolbizer, la ex mandataria y Feinmann no se vieronan las caras, en el estudio ubicado en el centro porteño donde se desarrolló el trámite en el marco de la demanda civil por "daño moral" entablada por la ex mandataria 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Gregoriodalbon/status/763428381182529536",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76342838118252953")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Terminó la mediación entre Cristina y Stolbizer: fue en oficinas separadas La ex mandataria inició un reclamo patrimonial por un monto indeterminado contra Feinmann porque el periodista la calificó de "coimera" al aire durante una emisión de Animales Sueltos, que conduce Alejandro Fantino. La audiencia estuvo a cargo de la mediadora Maria Etelvina Notari,, en una oficina del tercer piso de Viamonte 1.355 de esta capital. Mirá también: Tras la mediación fallida, nuevo cruce de denuncias entre Cristina y Stolbizer El mismo lugar donde se celebró, sin acuerdo también, la audiencia correspondiente al requerimiento por daños y perjuicios, que la ex presidente realizó contra la diputada del GEN. Dalbón, el polémico abogado de Cristina, desafío a Feinmann. "Va a tener que demostrar que (la ex presidente) es una coimera; no se puede difamar por televisión sin pruebas". Mirá también: Ercolini ordenó una pericia sobre los libros de Hotesur y las firmas de Cristina y Máximo 

@@ -1,0 +1,100 @@
+
+Freddie Mercury, el cantante de la legendaria banda de rock Queen, aportó una de las más reconocibles voces en la historia de la música. Pero, ¿cómo se las arregló para lograr tal registro vocal? Un nuevo estudio publicado en Logopedics Phoniatrics Vocology se propuso la ambiciosa tarea de analizar su voz. Mirá también: Revelaron la fortuna de Adele El equipo de expertos austriacos, checos y suecos seleccionó grabaciones de archivo y puso a prueba a un cantante de rock imitador. Así, sacaron algunas conclusiones interesantes sobre la voz de quien una vez fue calificado como "una fuerza de la naturaleza con la velocidad de un huracán." 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Hubo especulaciones de que la gama sonora de Mercury fue de más de cuatro octavas, pero esto no pudo ser demostrado por la investigación. 
+
+
+"La gama vocal de Freddie Mercury era normal para un adulto sano, ni más, ni menos", afirma el científico austríaco Christian Herbst, autor principal del estudio.
+
+
+
+
+
+var act_2f3 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_2f3 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_2f3.setTitle('&quot;La gama vocal de Freddie Mercury era normal para un adulto sano, ni m&aacute;s, ni menos&quot;, afirma&nbsp;el cient&iacute;fico austr&iacute;aco Christian Herbst, autor principal del estudio.');
+act_2f3.setSubtitle('Música y ciencia'); 
+act_2f3.setLinkBack('http://www.clarin.com/sociedad/Freddie-Mercury-normal-distorsionandola-estudio_0_1562843754.html');
+act_2f3.setDescription('Un cient&iacute;fico austr&iacute;aco se volc&oacute; a analizar&nbsp;la gama vocal del cantante de Queen, una de las voces m&aacute;s reconocidas.&nbsp;');
+act_2f3.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/Freddie-Mercury-normal-distorsionandola-estudio_0_1562843754.html');
+
+var showShareBarUI_params_2f3=
+{ 
+containerID: 'shareQuote_2f3',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_2f3,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_2f3
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_2f3);
+ Contrariamente a su imagen popular, probablemente era un barítono que cantó como tenor con un excepcional control sobre su técnica de producción de la voz.  Mirá también: René de Calle 13 entrevistó a un precandidato presidencial estadounidense En muchos sentidos, este interés académico más profundo y el análisis de la voz de Mercury mueven a afirmar muchos de los rasgos particulares del cantante. El estudio examinó la distorsión intencional que Freddie usaba para producir el llamado sonido de 'rugido'. Con un cantante de rock imitando este tipo especial de canto, los científicos filmaron la laringe con una cámara de alta velocidad a más de 4.000 cuadros por segundo, dándoles una comprensión de lo que Mercury habría hecho fisiológicamente mientras cantaba estas notas distorsionadas. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Los autores, de este modo, podrían reconstruir cómo Freddie Mercury, en su etapa más extravagante y excéntrica, condujo su sistema vocal hasta el límite. Mirá también: El día que Cerati le ganó a Pavarotti Lo que encontraron fue un fenómeno físico intrigante llamado subarmonía. Esto se ve de una manera más extrema en el canto de garganta tuvano (xoomej) --una etnia siberiana-- donde no sólo las cuerdas vocales vibran, sino también un par de estructuras de tejido llamados pliegues ventriculares, que normalmente no se utilizan para hablar o en el canto clásico. El lado más frágil de Mercury también ejecutado con su característico sello de vibrato (una variación rápida y ligera en el tono). La mayoría de los cantantes de pop / rock mantienen un vibrato regular, mientras que el suyo era más irregular, e inusualmente rápido. Este estudio más profundo en uno de los artistas vocales más conocidos del mundo no sólo contribuye a la comprensión científica de la voz, sino también a consolidar el legado de Freddie Mercury. Fuente: La Vanguardia

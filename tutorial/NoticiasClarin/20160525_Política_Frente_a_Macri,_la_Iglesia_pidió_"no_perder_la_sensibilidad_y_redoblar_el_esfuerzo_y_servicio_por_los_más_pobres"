@@ -1,0 +1,270 @@
+
+El Tedeum, o canto de acción de gracia, en la Catedral Metropolitana, lo encabezó el arzobispo de Buenos Aires, cardenal Mario Poli, tal como viene ocurriendo desde 1816 para celebrar, con compromiso religioso, la independencia argentina. 
+
+ Monseñor Poli habló, delante del Presidente Mauricio Macri y todo su gabinete y dijo que "la palabra de Dios impulsa al hombre a construir un mundo más justo y habitable".
+
+
+
+
+"El Señor hizo docencia tomando distancias de los mesianismos políticos", aseveró Poli.
+
+
+
+
+
+var act_1fa = new gigya.socialize.UserAction();
+
+var emailBodyCustom_1fa = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_1fa.setTitle('"El Señor hizo docencia tomando distancias de los mesianismos políticos", aseveró Poli.');
+act_1fa.setSubtitle('ANIVERSARIO PATRIO'); 
+act_1fa.setLinkBack('http://www.clarin.com/politica/atencion-priorice-vulnerables-Monsenor-Poli_0_1583241712.html');
+act_1fa.setDescription('En el Tedeum, el arzobispo Poli dijo que &quot;la Patria es una tarea de todos&quot;. Y pidi&oacute; &quot;que&nbsp;no nos paralicen las estad&iacute;sticas, que no perdamos la sensibilidad de escuchar&quot;.');
+act_1fa.addActionLink('VER MÁS', 'http://www.clarin.com/politica/atencion-priorice-vulnerables-Monsenor-Poli_0_1583241712.html');
+
+var showShareBarUI_params_1fa=
+{ 
+containerID: 'shareQuote_1fa',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_1fa,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_1fa
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_1fa);
+ "Si pensamos en el hermano, siempre se construye", aseveró. Y sumó: "La Patria es una tarea de todos". Mirá también: El Papa saludó a intendentes argentinos, quienes le hablaron de narcotráfico y violencia de género 
+
+
+Frente a Macri, la Iglesia pidió "no perder la sensibilidad y redoblar el esfuerzo por nuestros esfuerzos y servicios por los más pobres".
+
+
+
+
+
+var act_19d = new gigya.socialize.UserAction();
+
+var emailBodyCustom_19d = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_19d.setTitle('Frente a Macri, la Iglesia pidió "no perder la sensibilidad y redoblar el esfuerzo por nuestros esfuerzos y servicios por los más pobres".');
+act_19d.setSubtitle('ANIVERSARIO PATRIO'); 
+act_19d.setLinkBack('http://www.clarin.com/politica/atencion-priorice-vulnerables-Monsenor-Poli_0_1583241712.html');
+act_19d.setDescription('En el Tedeum, el arzobispo Poli dijo que &quot;la Patria es una tarea de todos&quot;. Y pidi&oacute; &quot;que&nbsp;no nos paralicen las estad&iacute;sticas, que no perdamos la sensibilidad de escuchar&quot;.');
+act_19d.addActionLink('VER MÁS', 'http://www.clarin.com/politica/atencion-priorice-vulnerables-Monsenor-Poli_0_1583241712.html');
+
+var showShareBarUI_params_19d=
+{ 
+containerID: 'shareQuote_19d',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_19d,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_19d
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_19d);
+ Poli señaló que "le pedimos al Señor: 'Danos espacio para construir el diálogo'". Y sumó: "Que no nos paralicen las estadísticas, que no perdamos la sensibilidad de escuchar". Mirá también: Aquella homilía de Bergoglio que enfureció a los Kirchner y defendió Aníbal Fernández 
+
+
+Y pidió que "la atención priorice a nuestros niños y abuelos más vulnerables", dijo Monseñor Poli.
+
+
+
+
+
+var act_088 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_088 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_088.setTitle('Y pidió que "la atención priorice a nuestros niños y abuelos más vulnerables", dijo Monseñor Poli.');
+act_088.setSubtitle('ANIVERSARIO PATRIO'); 
+act_088.setLinkBack('http://www.clarin.com/politica/atencion-priorice-vulnerables-Monsenor-Poli_0_1583241712.html');
+act_088.setDescription('En el Tedeum, el arzobispo Poli dijo que &quot;la Patria es una tarea de todos&quot;. Y pidi&oacute; &quot;que&nbsp;no nos paralicen las estad&iacute;sticas, que no perdamos la sensibilidad de escuchar&quot;.');
+act_088.addActionLink('VER MÁS', 'http://www.clarin.com/politica/atencion-priorice-vulnerables-Monsenor-Poli_0_1583241712.html');
+
+var showShareBarUI_params_088=
+{ 
+containerID: 'shareQuote_088',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_088,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_088
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_088);
+ Además, el obispo de confianza del Papa Francisco abogó por el diálogo: ""No permitamos que las promesas desalienten a la gente", reclamó durante el Tedeum, y pidió crear mesas de diálogode las que "nadie se levante hasta encontrar acuerdos duraderos". Mirá la Fotogalería en HD El presidente Mauricio Macri ingresó a las 10.54 a la Catedral metropolitana, para asistir al tradicional Tedeum por el 25 de Mayo que ofició el arzobispo de Buenos Aires, el cardenal Mario Poli. El mandatario caminó hasta el lugar desde la Casa Rosada, tal como el 10 de diciembre, cuando asumió el cargo, acompañado por la vicepresidenta Gabriela Michetti y su gabinete. 
+
+
+La última vez que un jefe de Estado participó en la ceremonia religiosa por el 25 de Mayo en la Catedral metropolitana fue en 2014, durante el segundo mandato de Cristina Fernández de Kirchner.
+
+
+
+
+
+var act_d81 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_d81 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_d81.setTitle('La última vez que un jefe de Estado participó en la ceremonia religiosa por el 25 de Mayo en la Catedral metropolitana fue en 2014, durante el segundo mandato de Cristina Fernández de Kirchner.');
+act_d81.setSubtitle('ANIVERSARIO PATRIO'); 
+act_d81.setLinkBack('http://www.clarin.com/politica/atencion-priorice-vulnerables-Monsenor-Poli_0_1583241712.html');
+act_d81.setDescription('En el Tedeum, el arzobispo Poli dijo que &quot;la Patria es una tarea de todos&quot;. Y pidi&oacute; &quot;que&nbsp;no nos paralicen las estad&iacute;sticas, que no perdamos la sensibilidad de escuchar&quot;.');
+act_d81.addActionLink('VER MÁS', 'http://www.clarin.com/politica/atencion-priorice-vulnerables-Monsenor-Poli_0_1583241712.html');
+
+var showShareBarUI_params_d81=
+{ 
+containerID: 'shareQuote_d81',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_d81,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_d81
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_d81);
+

@@ -1,0 +1,36 @@
+
+Luego de revelar los "Cristileaks" en su programa Periodismo para todos, Jorge Lanata estuvo en El Diario de Mariana y se refirió a la posibilidad de enfrentar en Tribunales a la ex presidenta Cristina Kirchner. Mirá también: Cristina Kirchner denunciará a Lanata y el periodista la desafió "Me encantaría sentarme frente a un juez con Cristina. Me parece una lástima que tenga una posición maleducada de no juntarnos", aseguró el conductor, a quien el abogado de la ex mandataria, Gregorio Dalbón, amenazó con llevar a juicio. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_2woldob0",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_2woldob0"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_2woldob0").after(scriptEl);
+ "Lo otro que yo querría, y lo digo en serio, es pedir la pericia psiquiátrica porque creo que no está en sus cabales. No está bien, su separación de la realidad es completa", agregó Lanata. Mirá también: Revelan que Cristina ocultó movimientos sospechosos por casi US$ 500 millones Sobre la posibilidad de que Cristina sea candidata en las elecciones legislativas del 2017, el periodista especuló: "primero hay que ver si está libre". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Gregoriodalbon/status/767808826963816449",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76780882696381644")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ "Nada de lo que dije de ella tiene que ver con encono personal", aclaró Lanata. "No la odio a Cristina, más bien me da lástima. Si yo tengo que decir qué me parece Cristina diría que me parece una pobre mujer, llena de millones y sola", cerró.

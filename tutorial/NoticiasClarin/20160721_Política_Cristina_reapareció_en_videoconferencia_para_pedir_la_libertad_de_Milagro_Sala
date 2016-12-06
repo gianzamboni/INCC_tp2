@@ -1,0 +1,72 @@
+
+Sonriente, con un pintura de Néstor Kirchner sobre su hombro derechos, la expresidenta Cristina Fernández de Kirchner reapareció para pedir la libertad de Milagro Sala, líder de la Tupac Amaru, presa hace meses acusada por asociación ilícita y defraudación al Estado. Desde Santa Cruz, a través de una teleconfencia con el instituto Patria, su búnker en Capital, la jefa de Estado afirmó: “Lo de Milagro duele y es solo la punta del iceberg”.  Mirá también: Nueva carta de Milagro Sala desde la cárcel, tras la detención de su marido Ante la mirada de los periodistas Horacio Verbitsky y Sandra Russo, y de la actriz Cristina Banegas, la ex jefa de Estado afirmó que es necesario “organizar y colaborar para que haya cada vez menos lumpenaje y que haya más trabajadores”. 
+
+
+"Jamás se me hubiera ocurrido bajar a alguien de un colectivo o un tren porque tenía un cartel que decía ‘maten a la yegua`", dijo CFK.
+
+
+
+
+
+var act_d99 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_d99 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_d99.setTitle('"Jamás se me hubiera ocurrido bajar a alguien de un colectivo o un tren porque tenía un cartel que decía ‘maten a la yegua`", dijo CFK.');
+act_d99.setSubtitle('Desde Santa Cruz'); 
+act_d99.setLinkBack('http://www.clarin.com/politica/Cristina-reaparecio-teleconferencia-Milagro-Sala_0_1617438398.html');
+act_d99.setDescription('Lo hizo en una charla del instituto Patria, su búnker en la ciudad de Buenos Aires, ante la atenta mirada de Horacio Verbitsky, Sandra Russo y la actriz Cristina Banegas.');
+act_d99.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Cristina-reaparecio-teleconferencia-Milagro-Sala_0_1617438398.html');
+
+var showShareBarUI_params_d99=
+{ 
+containerID: 'shareQuote_d99',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_d99,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_d99
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_d99);
+  Cristina habló de la desigualdad y marginalidad como causa de la inseguridad, no solo en Argentina, sino en el mundo. “A un tipo marginal un día se le disparó la cabeza por algo y se subió a un camión y mató a 80 personas”, sostuvo en referencia a la masacre de Niza.
+
+ “Cuanto más desigual sea el mundo menos seguridad habrá en ninguna parte, lo dije en la última reunión del Consejo de Seguridad”, agregó la expresidenta, que sentenció que la líder de la Tupac Amaru, cuyo marido también fue detenido días atrás en el marco de las causas por presunto hechos de corrupción, “está presa para poder implantar determinadas políticas antipopulares y regresivas”.  Cristina sostuvo: “Lo de Milagro es la punta del iceberg, lo de Milagro duele, yo creí que no iba a vivir nunca mas con presos políticos y miren que durante los 8 años que fui Presidenta me insultaron, agraviaron, me denunciaron, me intentaron destituir, pero jamás se me hubiera ocurrido bajar a alguien de un colectivo o un tren porque tenía un cartel que decía ‘maten a la yegua’”, expresó.
+
+Mirá también: Detuvieron al marido de Milagro Sala  Su frase responde a una situación que tuvo lugar semanas atrás, cuando la policía bajó a un hombre de un tren por tener un cartel contra Macri y pelear con otros pasajeros. “No quiero vivir en un país así, no me hubiera gustado ser presidente en un pais así”, añadió en su participación de la charla "El delito de pertenecer - El caso de Milagro Sala".  

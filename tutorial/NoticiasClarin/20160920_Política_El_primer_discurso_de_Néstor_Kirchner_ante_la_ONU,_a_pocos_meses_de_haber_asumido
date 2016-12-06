@@ -1,0 +1,18 @@
+
+Néstor Kirchner brindó su primer discurso ante la 58° Asamblea General de las Naciones Unidas el 25 de septiembre de 2003, apenas cuatro meses después de haber asumido en la Casa Rosada. De riguroso traje y corbata, el entonces presidente agradeció a las autoridades la invitación y destacó el rol las Naciones Unidas para "fortalecer el valor de seguridad de todos los ciudadanos del mundo". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: En la ONU, Macri llamó a solucionar "amigablemente" el diferendo por Malvinas Los principales puntos del discurso giraron en torno a la crítica a los organismos de crédito, la condena al terrorismo internacional a partir del testimonio argentino de los atentados de la AMIA y la Embajada de Israel, la defensa de los derechos humanos, el reclamo de la soberanía por Malvinas ante el Comité de Descolonización y el pedido de diálogo al Reino Unido. Seguridad, deuda, desarrollo social, crecimiento y terrorismo, son las palabras más repetidas a lo largo de los pocos más de 20 minutos del debut del entonces presidente Kirchner. FRASES MÁS FUERTES - "Nos hacemos cargo como país de haber adoptado políticas ajenas para llegar a tal punto de endeudamiento, pero reclamamos que aquellos organismos internacionales que al imponer esas políticas contribuyeron, alentaron y favorecieron el crecimiento de esa deuda, también asuman su cuota de responsabilidad. Resulta casi una obviedad señalar que cuando una deuda tiene tal magnitud la responsabilidad no es sólo del deudor sino también del acreedor", expresó en una de sus fuertes críticas". - "Hambre, analfabetismo, exclusión, ignorancia, son algunos de los presupuestos básicos donde se generan las condiciones para la proliferación del terrorismo internacional o la aparición de violentos y masivos procesos de auténticas migraciones nacionales con su consecuente impacto cultural, social y económico y su correlato inevitable, la afectación del valor seguridad para los ciudadanos de los países centrales. En la integración económica y en la multilateralidad política está la clave de un porvenir donde el mundo sea un lugar más seguro. Necesitamos construir instituciones mundiales y asociaciones efectivas en el marco de un comercio justo y abierto, además de fortalecer el apoyo para el desarrollo de los más postergados". -  "Nosotros hemos sufrido en carne propia en los años 1992 y 1994 nuestras propias Torres Gemelas, los atentados contra la Embajada de Israel y la AMIA significaron la pérdida de más de 100 compatriotas. Podemos dar testimonio de la necesidad de luchar con efectividad contra la existencia de las nuevas amenazas que constituyen el terrorismo internacional. La vulnerabilidad frente a este flagelo de todos los países que integran la comunidad internacional sólo podrá disminuir con una inteligente acción concertada y multilateral sostenida en el tiempo". DURACIÓN DEL DISCURSO​: 22 MINUTOS. CANTIDAD DE PALABRAS: ​2335.

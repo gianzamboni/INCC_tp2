@@ -1,0 +1,18 @@
+
+Científicos australianos decubrieron una araña del tamaño de la palma de una mano que nada en el agua, captura peces e incluso "surfea", según anunciaron en el Festival Mundial de Ciencia que se celebra estos días en la ciudad de Brisbane. La araña camina sobre el agua y come peces, ranas, renacuajos e incluso sapos de caña o marinos (Rhinella marina), una especie introducida artificialmente que de este modo contribuye a controlar ya que es una plaga. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/qutnews/status/707442032411856896",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70744203241185689")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Los científicos la bautizaron como Dolomedes Briangreenei, en homenaje al profesor de física de la Universidad de Columbia Brian Greene, cofundador del encuentro sobre ciencia en Brisbane. La araña utiliza vibraciones o pequeñas ondas sobre la superficie del agua para acercarse a su presa. "Cuando se ven amenzadas o se las atrapa con los pescados, se sumergen bajo la superficie y nadan rápido para ocultarse en el fondo", señaló en un comunicado un experto en arácnidos del Museo de Queensland Fuente: dpa

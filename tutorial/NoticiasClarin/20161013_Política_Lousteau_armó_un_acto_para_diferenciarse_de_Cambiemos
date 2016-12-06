@@ -1,0 +1,18 @@
+
+Suenan las alarmas en Bolívar 1, Martín Lousteau vuelve a ser un dolor de cabeza para el macrismo en la Ciudad. “Las cosas de la Ciudad son de la Ciudad”, sostuvo anoche el actual embajador en Washington, diferenciando su rol diplomático ante la superpotencia planetaria de su decisión de volver a pelear en 2019 por la jefatura de gobierno porteño. No sólo eso: Lousteau destacó a quienes fueron cabeza de los partidos que conformaron ECO y a “Fernando Sánchez, mi compañero de fórmula el año pasado y espero que también en 2019”. El año pasado, Lousteau estuvo muy cerca de ganarle a Horacio Rodríguez Larreta, quien al final se impuso en el balotaje por un escaso 3%. “ECO (la alianza con los radicales, socialistas, y la Coalición Cívica) va a estar presente el año que viene y dentro de cuatro años”, avisó Lousteau, que fue principal orador en la cena en que la UCR porteña rindió homenaje a Hipólito Yrigoyen, en el centenario de su asunción como Presidente. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Lousteau evitó definir si dejará Washington para ser candidato en 2017, aunque dependería de si Elisa Carrió juega en la Ciudad o en la Provincia. “Vamos a tomar la decisión en conjunto en ECO”, esquivó. Pero dejó claro su rol de “oposición responsable” en la Ciudad, un distrito en el que al igual que Santa Fe, no se constituyó la alianza Cambiemos que llevó a Macri a la Casa Rosada. La cena-homenaje a Yrigoyen fue pergeñada por la UCR porteña. En el salón Fresno de Parque Norte hubo más de 1.300 invitados, en unas 130 mesas, con autoridades partidarias, legisladores nacionales e intendentes. Estuvieron el titular del partido, José Corral; el consejero presidencial y arquitecto de Cambiemos, Ernesto Sanz; Enrique Coti Nosigilia; los senadores Oscar Castillo, Juan Carlos Marino, Alfredo Freddy Martínez y Silvia Elías de Pérez; y los diputados Mario Negri (jefe de la bancada), y Héctor Cachi Gutiérrez, entre cientos de dirigentes. Antes del cierre de Lousteau, fueron oradores el jefe de la Juventud Radical porteña, Martín Sánchez, y el presidente del partido en el distrito, Emiliano Yacobitti. Lousteau compartió la mesa con sus socios en ECO: Graciela Ocaña (Confianza Pública), Roy Cortina (socialistas),  Fernando Sánchez, y la diputada radical por la Ciudad, Carla Carrizo. Si bien moderadas, hizo críticas al gobierno macrista de la Ciudad. “No veo grandes cambios, es parecido a la gestión anterior, antes había más plata que nunca en la historia de la Ciudad y ahora más todavìa. El tema es cómo se usa esa plata”, definió en una noche en que la UCR volvió a sentirse en las pistas, como hace años.

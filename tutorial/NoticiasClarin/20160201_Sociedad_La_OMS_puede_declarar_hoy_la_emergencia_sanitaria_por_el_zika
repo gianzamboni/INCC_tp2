@@ -1,0 +1,24 @@
+
+El Comité de Emergencia de la Organización Mundial de la Salud (OMS) ya está reunido, a través de una teleconferencia, para decidir si el brote del virus del zika que afecta al continente americano es o no una emergencia sanitaria de alcance internacional. Una vez determinada su peligrosidad, deberá definir qué recomendaciones da. 
+
+(Juliana Gomes, embarazada en un hospital de Recife, Brasil. REUTERS) Leé también: La vacuna contra el zika podría tardar años en llegar El Comité lo forman una veintena de expertos virólogos, epidemiólogos, neurólogos y otras disciplinas que tengan competencia en la discusión sobre el actual brote de zika y, sobre todo, sobre la supuesta relación con la aparición de casos de microcefalia.
+
+( Margaret Chan, Directora General de la OMS, convocó  el jueves al comité de emergencia. AP) De hecho, lo que preocupa realmente a las autoridades sanitarias es el auge de los casos de esta malformación infantil y su relación con el virus, no el virus en sí mismo, dado que en el 75 por ciento de los casos no provoca síntomas y en el resto tiene efectos muy limitados, consigna la agencia EFE. Leé también: La OMS convocó a un comité de urgencia por el zika La decisión de convocar el Comité fue tomada la semana pasada tras detectar "el explosivo" crecimiento de los casos de zika, pero sobre todo la posible relación con la microcefalia.  Según la OMS, el virus está ahora presente en 24 países y territorios y en Brasil, donde primero surgieron los casos y el más afectado por la epidemia, ya que se han contabilizado un millón y medio de casos y hay 4.180 bebés nacidos con microcefalia. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Leé también: Preocupación por el zika en pleno inicio de los carnavales A excepción de Brasil, ningún otro de los países afectados en el continente americano ha detectado hasta ahora esa relación, pero ello puede deberse a que las malformaciones sean intrauterinas y no se detecten hasta el nacimiento.
+
+(El mosquito aedes aegypti, transmisor del zika. REUTERS)  De hecho, hubo una epidemia de zika en la Polinesia francesa en 2013 y ahora, retrospectivamente, se están llevando a cabo estudios que apuntarían que sí hubo casos de microcefalia y también de bebés nacidos con el síndrome de Guillain-Barré, una condición que ataca el sistema inmunitario y el sistema nervioso y a veces causa parálisis. Esa relación se está estudiando también ahora en Venezuela, donde hay más de 4.500 casos de zika. Leé también: Viaje al epicentro del zika, el virus que tiene en alerta al mundo La OMS estima que el virus, que es transmitido por el mosquito Aedes aegypti, puede infectar hasta 4 millones de personas en toda la región.  Por ahora no existe ni vacuna ni tratamiento contra un virus que fue descubierto en los años 50 en el bosque Zika de Uganda. Fuente: Télam

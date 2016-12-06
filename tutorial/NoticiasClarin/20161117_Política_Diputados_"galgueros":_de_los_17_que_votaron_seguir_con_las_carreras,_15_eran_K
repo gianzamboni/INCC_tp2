@@ -1,0 +1,20 @@
+
+El intenso debate sobre la Ley de prohibición de las carreras de galgos ayer en el Congreso dividió fuertemente a los bloques de la Cámara de Diputados. La votación, que finalmente convirtió en ley la prohibición de estas competencias, fue de 132 diputados a favor, 17 que votaron en contra y 23 abstenciones. El bloque que volvió a dividirse en una votación fue el del Frente para la Victoria-PJ, que registró la mayor cantidad de votos en contra y casi la mitad de abstenciones. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+De los 17 votos contra la iniciativa, 15 fueron aportados por el kirchnerismo, donde Diana Conti tuvo una fuerte intervención en defensa de las carreras de galgos y se la agarró contra "los porteñitos que miran TN". Mirá también: Conti defendió las carreras de galgos y estalló contra "los porteñitos" Los 15 Votos en contra del FpV-PJ: Alejandro Abraham, José Ciampini, Diana Conti, Juliana Di Tullio, Juan Carlos Díaz Roig, Martín Doñate, Abel Furlán, Lautaro Gervasoni, Santiago Igón, Carlos Kunkel, Ana Llanos, Juan Manuel Pedrini, Eduardo Seminara, María Emilia Soria y Luis Tailhade, Otros bloques que votaron en contra:  El chubutense Sixto Bermejo, de Trabajo y Dignidad; y el salteño Alfredo Olmedo, de Salta Somos Todos, que tuvo militantes en las inmediaciones del recinto identificados con gorras amarillas con su nombre para respaldar las carreras.
+
+De las 23 abstenciones: 11 fueron del bloque del FpV-PJ, 4 de Justicialista, 3 de Unión PRO, 2 de Unidos por una Nueva Argentina, 2 de Peronismo para la Victoria y 1 de Maurice Closs del Frente de la Concordia Misionero. Además, de los 257 legisladores que integran la Cámara Baja, hubo 84 ausencias. Mirá también: Macri, contra las carreras de galgos

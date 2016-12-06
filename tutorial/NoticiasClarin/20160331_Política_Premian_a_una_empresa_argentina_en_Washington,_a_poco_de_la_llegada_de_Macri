@@ -1,0 +1,68 @@
+
+WASHINGTON, CORRESPONSAL Mientras en Washington se espera que el presidente Mauricio Macri aterrice para asistir a la Cumbre de Seguridad Nuclear en esta capital, la empresa argentina INVAP de alta tecnología, uno de los más destacados referentes a nivel mundial, es premiada por sus logros en trabajos que permiten reducir riesgos de que material nuclear caiga en manos de terroristas. La distinción es otorgada por la Cumbre de la Industria del área, que se hace en forma paralela a la Cumbre de Seguridad, que busca reducir los peligros de que algunos componentes atómicos puedan ser utilizados para ataques terroristas. “La propia industria premia a algunas empresas que se han destacado en general por cambios tecnológicos que reduzcan riesgos. El INVAP es una de las empresas líderes en el mundo”, dijo a Clarín Roberto García Moritán, el “sherpa” o representante argentino ante la Cumbre que comenzó hoy y termina mañana y a la que asisten jefes de Estado y Gobierno de 52 países. 
+
+
+El premio se llama Industrial Innovation. En el almuerzo donde se entregará la distinción están la canciller Susana Malcorra y el titular de Energía y Minería, Juan José Aranguren.
+
+
+
+
+
+var act_655 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_655 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_655.setTitle('El premio se llama Industrial Innovation. En el almuerzo donde se entregar&aacute; la distinci&oacute;n est&aacute;n la canciller Susana Malcorra y el titular de Energ&iacute;a y Miner&iacute;a, Juan Jos&eacute; Aranguren.');
+act_655.setSubtitle('VIAJE A UNA CUMBRE'); 
+act_655.setLinkBack('http://www.clarin.com/politica/Premian-empresa-argentina-Washington-Macri_0_1550245201.html');
+act_655.setDescription('INVAP ser&aacute; reconocida por sus logros en trabajos que permiten reducir riesgos de que material nuclear caiga en manos de terroristas. El Presidente va a un encuentro seguridad.');
+act_655.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Premian-empresa-argentina-Washington-Macri_0_1550245201.html');
+
+var showShareBarUI_params_655=
+{ 
+containerID: 'shareQuote_655',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_655,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_655
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_655);
+ La experta argentina Irma Argüello, presidenta de la Global Security Foundation, dijo a Clarín que tanto el INVAP como la Comisión Nacional de Energía Atómica (CNEA) “ han trabajado mucho en la conversión de reactores que funcionan a uranio de alto enriquecimiento a otros que funcionan a bajo enriquecimiento, y por eso son seguros para que los terroristas no puedan robar combustible”. Agregó que “Argentina ha desarrollado esa tecnología para cambiar el combustible de los reactores para que sea menos peligroso desde el punto de vista de la seguridad nuclear”. INVAP Sociedad del Estado, fue creada en 1976 por un convenio entre el Gobierno de la provincia de Río Negro y la CNEA. Es una empresa de alta tecnología dedicada al diseño, integración y construcción de plantas, equipamiento y dispositivos en áreas de alta complejidad como energía nuclear, tecnología espacial, tecnología industrial y equipamiento médico y científico. El presidente llega pasado el mediodía y esta noche asistirá a una cena en la Casa Blanca con los otros mandatarios que vinieron a la Cumbre. Macri será mañana uno de los primeros oradores del encuentro, un reconocimiento al rol importante que la Argentina tiene en materia nuclear. Además, Macri sostendrá varios encuentros bilaterales, entre ellos uno mañana con el presidente chino Xi Jingping y con los mandatarios de Japón, Nueva Zelanda, India, entre otros.

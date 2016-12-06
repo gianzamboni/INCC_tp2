@@ -1,0 +1,18 @@
+
+El gobernador de Chubut dio un mensaje al cumplirse un año de su victoria electoral. En marzo de 2015 hizo público que sufría una enfermedad oncológica de la que se recupera.  “Si sintiera algún tipo de limitación sería el primero en dar un paso al costado”, dijo Mario Das Neves en declaraciones realizadas a la prensa local al cumplirse un año de su triunfo electoral contra el candidato K Martín Buzzi. El gobernador se refería a su estado de salud actual tras el tratamiento al que se sometió desde marzo de 2015 por una enfermedad oncológica. “Se que me tengo que cuidar pero esto no me limita”, agregó Das Neves. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Además, grabó un breve video para transmitir a la ciudadanía de Chubut “el acompañamiento durante todo este tiempo”. Y aseguró: “Vamos a redoblar todos los esfuerzos para reconstruir la provincia”. Mirá también: Un gobernador busca despegarse ahora de una inversión minera anunciada en el Foro Das Neves hizo público el año pasado y en plena campaña electoral que sufría una enfermedad oncológica. Fue en el comienzo de la campaña para las elecciones. “Pero voy a seguir adelante en mi intención de ser gobernador”, expresó. El actual titular del ejecutivo provincial realizó la campaña en el peor momento de su tratamiento. Y logró ganar las elecciones pese a no ir con ningún candidato presidencial en la boleta. Mirá también: Primer pedido de marihuana medicinal en Chubut A partir de entonces su estado de salud ha sido una polémica constante sobre todo en la Legislatura provincial, que tuvo su punto culminante hace una semana cuando el diputado kirchnerista Blas Meza Evans intentó presentar un proyecto para que se informe -entre otras cosas- si Das Neves estaba en condiciones psíquicas para desarrollar su función. El proyecto de Meza Evans (enfrentado no solo en lo político sino también en lo personal con Das Neves) fue repudiado por integrantes de su propio bloque (que es mayoría) y debió retirarlo. Aunque el peor momento de su enfermedad parece haber quedado atrás, Das Neves debe someterse periódicamente a controles médicos lo que no le impide desarrollar su función. “La campaña fue muy dura, muy atípica pero con un esfuerzo muy grande de la militancia, del ciudadano común y de los amigos en las redes sociales. Y asi pudimos coronar un triunfo que de verdad costó pero estamos muy felices”, dijo Das Neves en su mensaje. Mirá también: En 15 días liberan a "la ballena", el billete de 200 pesos

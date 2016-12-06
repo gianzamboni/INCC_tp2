@@ -1,0 +1,18 @@
+
+La relación sexual que tuvo una pareja en la estación de subte de Liceo, Barcelona, el sábado pasado sigue trayendo cola.  Algunos pensaban que quizás era una especie de performance; pero a medida que pasan las horas, cada vez parece más claro que fue un acto voluntario de la pareja que lo protagonizó y que nada tuvo que ver con algún tipo de montaje. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Lo que sí queda en tela de juicio es si uno de los dos miembros de la pareja, la chica concretamente, era totalmente consciente de lo que estaba sucediendo. Esto es al menos lo que se extrae de las declaraciones de uno de los testigos de la escena, Aitor Roca, a la emisora radial RAC1. “La chica no estaba en un estado muy idóneo. Estaba consciente, pero cuando acabó no podía ni levantarse. El chico tuvo que ayudarla a vestirse. No sé si era una cosa muy voluntaria y deseada por ella”. Aitor, sin embargo, dejó en claro que no vio “ningún tipo de violencia” en la escena. Incluso cree que ambos podían ser pareja. Lo que sí deja entrever es que, al menos la chica, estaba en un estado de embriaguez considerable, y es que cuando se incorporó “se le cayó una botella de vidrio de cerveza”. Mirá también: Detienen a una pareja por tener sexo en una estación de subte Según este testigo, el chico estuvo en todo momento en actitud provocativa: “giraba, chillaba y gesticulaba”. Aitor agregó que “había bastante gente en el andén” en ese momento, que todos se quedaron “sorprendidos”, mirándose “los unos a los otros”, y que estuvieron buscando sin suerte “algún responsable de seguridad”. “No lo denunciamos a nadie”, sentenció. Buscando a la pareja Por su parte, TMB (Transports Metropolitans de Barcelona) explicó al diario español La Vanguardia que están intentando identificar a la pareja para sancionara administrativamente, tal como se explicita en el reglamento de viajeros de los servicios de transporte público de esa entidad metropolitana de transporte. El acto en sí, agregaron, pasaría a ser delito penal si el coito se hubiera llevado a cabo ante la presencia de un menor o alguna persona disminuida psíquicamente. Los Mossos d’Esquadra (Policia de la Generalitat), por su parte, explicaron a ese medio que no tienen abierta ninguna investigación ya que nadie denunció el hecho. Fuente: La Vanguardia

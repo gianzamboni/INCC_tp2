@@ -1,0 +1,18 @@
+
+"Sí, sueno como muchos nombres. ¿La verdad? Yo quiero ser un gran ministro de Educación y para lograr eso falta mucho. Lo que estoy haciendo es focalizarme mucho en el área educativa, por eso estoy en este Coloquio. Y eso va a ocupar mi cabeza", dijo Esteban Bullrich, el ministro de Educación de Mauricio Macri. Le cerró así la posibilidad de competir el año próximo como candidato a senador o diputado por la provincia de Buenos Aires. -En la provincia también suena Carrió. ¿Competiría contra ella? -Me encantaría que fuera candidata. No competiría con ella porque voy a ser ministro de Educacion. Pero me encantaría que fuera candidata.    
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+¿O sea que la ve en provincia? Creo que es una gran candidata. Donde sea nos representa en Cambiemos, porque Lilita también ha sido candidata por la Capital. Además, la candidatura demostraria su mejora de salud, le deseo que siga ese camino. Le pido que deje de fumar. Por favor.

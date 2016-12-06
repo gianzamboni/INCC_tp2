@@ -1,0 +1,20 @@
+
+Un tailandés se recupera de un sangriento encuentro con una serpiente pitón de tres metros que se deslizó a través de la cañería de su casa y aferró sus mandíbulas a su pene mientras utilizaba el inodoro. Sucedió ayer en la provincia de Chachoengsao, unos 90 kilómetros al este de la capital Bangkok. Mirá también: Capturaron una pitón que sería la más grande del mundo El hombre de 38 años, llamado Attaporn Boonmakchuay, sonreía mientras los canales de televisión tailandeses lo entrevistaban en su cama del hospital. Los médicos dijeron que se recuperaría, pero las fotos de su baño salpicado de sangre fueron testimonio de su sufrimiento. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El hombre comentó al Canal 7 de la televisión tailandesa que luchó durante 30 minutos para quitarse la serpiente antes de lograr liberarse con la ayuda de su esposa y un vecino. Luego de que la mujer amarró una cuerda alrededor de la serpiente, Attaporn pudo abrir las mandíbulas del animal antes de desmayarse. Mirá también: A una cantante la mordió una cobra en un recital y murió en el escenario Trabajadores de emergencias desmantelaron el inodoro de estilo asiático, con la pitón aún enroscada a lo largo del mismo. La serpiente fue retirada e iban a ponerla en libertad nuevamente, según un rescatista citado por el periódico Thai Rath.
+
+(Attaporn Boonmakchuay habla con los medios en el hospital. AP) Los médicos dijeron que Attaporn, ensangrentado pero indoblegable, se recuperará. "Tiene una muy buena actitud... Aún cuando su propia esposa e hijos estaban conmocionados. Estuvo sonriente y dando entrevistas todo el día desde su cama'', comentó el director del hospital, Chutima Pincharoen.

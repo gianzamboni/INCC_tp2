@@ -1,0 +1,38 @@
+
+Se conocieron anoche reveladoras imágenes de cuando el ex secretario de Obras Públicas del kirchnerismo, José López, llegó con los bolsos de más de 9 millones de dólares y un arma al convento de General Rodríguez. Fue allí, finalmente, donde fue detenido cuando intentaba ocultar el dinero. El video fue difundido por Telefé Noticias. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_z6t2dguq",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_z6t2dguq"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_z6t2dguq").after(scriptEl);
+ Los hechos ocurrieron pasadas las 3 de la mañana del 14 de junio. Según reveló el informe, la religiosa que toma contacto con López sería la Hermana Inés. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_owm1ao5b",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_owm1ao5b"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_owm1ao5b").after(scriptEl);
+ El ex funcionario kirchnerista, al llegar a la puerta, deja en un costado el fusil y toca el timbre en diversas oportunidades. Finalmente, en una imagen de película, al menos dos religiosas le abren la puerta y van ingresando los bolsos con los millones.  El video​ viene a poner en duda el testimonio de la hermana Inés, quien había dicho ante el programa Periodismo para Todos: "El (por López) le dijo a la madre (Alba) que había robado dinero para la casa de ejercicio y la madre le dijo 'si es dinero robado yo no lo quiero'". Mirá también: La hermana Inés y la increíble anécdota sobre José López: "Se robó hasta los scones" Además, la religiosa había contado detalles de aquella noche, como la insólita anécdota de los scones, que "estaban en la mesa de la madre y él se los llevó, porque estaba angustiado".

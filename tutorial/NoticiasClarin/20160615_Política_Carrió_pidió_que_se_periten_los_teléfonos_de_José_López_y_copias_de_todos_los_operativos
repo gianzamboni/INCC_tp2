@@ -1,0 +1,66 @@
+
+Elisa Carrió solicitó hoy ante la Justicia que se periten los teléfonos del ex secretario de Obras Públicas K, José López, detenido ayer cuando intentaba ocultar casi 9 millones de dólares y cientos de miles de euros en un convento de la localidad bonaerense de General Rodríguez. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La diputada de Cambiemos hizo presentación esta mañana ante el juez Julián Ercolini, que tiene en sus manos la causa que se tramita desde 2008 por su denuncia de asociación ilícita en la que está mencionado López, junto con Julio De Vido, ex ministro de Planificación Federal, y otros ex funcionarios K y empresarios.  Según supo Clarín, "Lilita" además reclamó copias de todos los procedimientos realizados ayer y hoy.  “Sugiero al representante del Ministerio Público -en referencia a Gerardo Pollicita- que solicite al juez de esta causa que requiera al Juzgado de Garantías N° 2 del departamento judicial de Moreno y al representante del Ministerio Público Fiscal de esa departamental de la Provincia de Buenos Aires que haya intervenido en la detención, que remetía copia certificada de esas actuaciones por la que fue detenido José Francisco López y que, entre las medidas que estimen corresponder, se periten todos los teléfonos", señala el escrito al que tuvo acceso Clarín. Mirá también: Carrió: "Esta es la plata de la asociación ilícita K que denunciamos en 2008" Carrió solicita que se investiguen todas las líneas que pueda haber usado López en los últimos meses. Y explica que es una "medida que estaría realizando la policía de la provincia de Buenos Aires pero que también puede realizarse en el marco de este expediente a efectos de acreditar movimientos, relaciones y más dinero ilícito que pudiera estar en poder del nombrado o de otros miembros de la asociación ilícita denunciada".  El escrito que presentó Carrió by Clarin.com “Que esta causa no puede desconocer los hechos protagonizados por el Sr. José Francisco López quien se desempeñó como Secretario de Obras Públicas de la Nación entre el 25 de mayo de 2003 y el 9 de diciembre de 2015, (Administraciones a cargo de Néstor Kirchner y Cristina Fernández de Kirchner), siendo que esa Secretaría dependió del Ministerio de Planificación Federal a cargo de Julio Miguel De Vido a quien señaláramos como uno de los mayores responsables de la cartelización y el sobreprecio en la obra pública durante sus gestiones", explica el escrito entregado este mediodía en Comodoro Py. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Para la líder oficialista, “los sucesos referidos ocurridos en la madrugada del pasado 14 de junio me eximen de comentario alguno respecto de los ilícitos que los mismos pueden probar en esta causa que la suscripta iniciara hace ya casi ocho años". Lo dice en referencia a su denuncia por asociación ilícita y sobreprecios en la obra pública, causa que se tramita bajo el número 15.734/08, en la carátula "KIRCHNER, NÉSTOR Y  OTROS SOBRE ASOCIACIÓN ILICITA…”.  "Nos encontramos frente a delitos de acción pública que es deber de la administración de justicia investigar. A razón de los hechos salidos a la luz pública, de querer investigar la justicia federal, pueden probarse muchos otros en tanto pueden producirse infinidad de medidas a partir de los mismos”. Mirá también: La detención del dos de De Vido: son casi 9 millones los dólares que quiso esconder en un convento Carrió reclamó que la investigación en torno a los millones que José López quería ocultaravance sobre el ex ministro Julio De Vido y sobre la ex Presidente Cristina Fernández de Kirchner. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/elisacarrio/status/742856251885883392",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_74285625188588339")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/elisacarrio/status/742857069661949952",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_74285706966194995")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ En ese sentido, impulsóla semana pasada en la reunión de la Comisión de Asuntos Constitucionales un dictamen de resolución para que la Cámara de Diputados autorice a la Justicia a allanar a De Vido, que se amparó en fueros para impedir requisas judiciales. Mirá también: Con De Vido ausente, el FPV bloqueó allanamientos a sus propiedades Una iniciativa similar a la que se rechazó hoy en Diputados, sin embargo la de Carrió expresa que se permita ingresar a los “los domicilios del diputado” y no “el domicilio” de De Vido. Esa medida debe ser tratado en la próxima sesión ordinaria de la Cámara Baja.

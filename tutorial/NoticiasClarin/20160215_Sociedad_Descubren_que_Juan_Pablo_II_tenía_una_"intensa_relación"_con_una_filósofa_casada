@@ -1,0 +1,36 @@
+
+El papa Juan Pablo II mantuvo durante más de 30 años una amistad "intensa" con una filósofa casada, Anna Teresa Tymieniecka, sin que haya pruebas de que rompió el voto de castidad, según cartas que se harán públicas hoy en un programa de TV de la cadena británica BBC. Leé también: Una película reaviva el debate sobre los curas pedófilos en EE.UU. Más de 350 cartas escritas por Juan Pablo II a la estadounidense de origen polaco Anna Teresa Tymieniecka fueron halladas en la biblioteca polaca a la cual la filósofa las había legado en 2008. "Son la ventana más extraordinaria sobre la vida privada de una de las personas más célebres de la historia", afirma el periodista Edward Stourton, que descubrió las cartas, en el programa Panorama de la BBC. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/BBCNews/status/699118485293522944",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69911848529352294")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Las cartas dan a entender que la universitaria estaba enamorada del cardenal Wojtyla. "Querida Teresa, recibí las tres cartas. Escribes que estás desgarrada pero no he podido encontrar ninguna respuesta a tus palabras", escribe el futuro Juan Pablo II en una carta fechada en 1976.
+
+(Visita del Papa Juan Pablo II a la Argentina en 1987. Foto: Clarín)  "Eran algo más que amigos, pero menos que amantes", dice Stourton, que insiste en que no encontró en las cartas ninguna prueba de que Juan Pablo II rompiera el voto de castidad. La correspondencia muestra "un combate para contener lo que era seguramente una relación muy intensa", agrega el periodista. Leé también: Con grandes expectativas, Francisco inicia su crucial viaje a México Es "posible" que Anna Tymieniecka se enamorara de Karol Wojtyla, antes de que éste se convirtiera en Juan Pablo II, según Adam Boniecki, un sacerdote polaco que conoció bien al Papa. "Algunas mujeres suelen enamorarse de sacerdotes, eso siempre plantea un problema", dijo a la AFP el padre Boniecki, que dirigió durante años en Roma la edición polaca del Osservatore Romano, antes de convertirse en redactor jefe del prestigioso semanario católico polaco Tygodnik Powszechny. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/BBCBreaking/status/699096085306941441",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69909608530694144")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Tymieniecka "tradujo al inglés uno de los libros de Karol Wojtyla y lo hizo conocer en los medios universitarios estadounidenses", afirma. Pero "esta traducción generó tensiones entre ellos", recuerda. "Si estaba enamorada del cardenal Wojtyla no era desde luego la única en estarlo", observa el padre Boniecki, autor de "Kalendarium", una crónica diaria muy detallada de la vida de Juan Pablo II. Leé también: La madre Teresa de Calcuta será canonizada en 2016 La primera carta está fechada en 1973, año del primer encuentro entre Anna Teresa Tymieniecka y Karol Wojtyla, futuro Juan Pablo II. La última carta fue escrita unos meses antes de la muerte de Juan Pablo II, ocurrida el 2 de abril de 2005. Fuente: AFP.

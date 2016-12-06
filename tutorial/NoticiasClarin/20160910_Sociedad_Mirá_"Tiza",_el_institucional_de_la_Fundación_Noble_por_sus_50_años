@@ -1,0 +1,18 @@
+
+En el marco de su 50° aniversario, la Fundación Noble presentó "Tiza", un nuevo spot institucional que invita a reflexionar sobre la importancia de la educación para el desarrollo del país.  La pieza presenta a la educación como el único camino “que nos permite crecer como sociedad”, ya que “todos aquellos que lo recorren, llegan a un lugar distinto; al mismo tiempo que todos caminamos hacia un mejor lugar”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ "Tiza" se inscribe en el proyecto “Hay un solo camino, la educación”. A través de informes especiales, entrevistas y análisis de especialistas que se extenderán durante todo septiembre, Clarín, Telenoche, Radio Mitre y TN abordan los principales desafíos que enfrenta el sistema educativo argentino.  Ya se trataron en profundidad nueve problemáticas específicas y aún restan 21 entregas, en las que estarán presentes todos los aspectos de un debate educativo amplio e integral.

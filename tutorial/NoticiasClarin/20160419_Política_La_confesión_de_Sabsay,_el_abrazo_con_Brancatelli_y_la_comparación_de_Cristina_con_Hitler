@@ -1,0 +1,18 @@
+
+El periodista Diego Brancatelli y el abogado Daniel Sabsay protagonizaron un desopilante momento en el programa de esta noche de "Intratatables", cuando terminaron abrazados en el estudio en medio de críticas cruzadas y frases muy polémicas por parte del constitucionalista. El letrado denunció, además, que lo amenazaron con sus nietos y hasta llegó a comparar al kirchnerismo con regímenes como el de Hitler o Stalin.  “Es la muerte del derecho", aseguró en relación al kirchnerismo. "No se llegó a Hitler o Stalin porque no tuvieron tiempo, pero si podían lo hacían”. Sabsay contó que amenazaron a sus nietos con llamados telefónicos. “Si a un pobre tipo como yo, sin ninguna seguridad, fueron capaces de amenzarlo con lo que más quiero que son mis nietos, ¿no eran capaces de crear campos de concentración para matar gente?” Por si quedaran dudas, amplió: "Las amenazas a mis nietos... fue esta mujer (en referencia a Cristina Fernández) las que las hizo". Sabsay cuestionó también duramente al kirchnerismo en referencia al caso de Lázaro Báez. "Hay que confiar en la fuerza de la sociedad de querer sacarse de encima una corrupción que es endémica y atraviesa prácticamente toda nuestra historia", arrancó. Siguió: "Tenemos un país destruido, fragmentado, sin instituciones, un país al margen de la ley". El abogado planteó que "Lázaro Báez no podría haber existido sin los Kirchner, tuvo cerca del 90% de la obra publica de la Patagonia". Fue más allá: "Habría sido una banda de cleptómanos compulsivos furiosos porque solo gente muy enferma puede robar de esa manera". Y agregó que los militantes K son "pagos" o "resentidos". Sabsay denunció entonces amenazas luego de que se pronunció tras las muerte de Alberto Nisman: "Yo fui perseguido a través de mis nietos que eran espiados, chicos chiquitos, me volvieron loco para que no hablase". Amplió: "Las amenazas a mis nietos... fue esta mujer (en referencia a Cristina Fernández) las que las hizo". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En ese momento, al ser consultado por la grieta política, aseguró que fue al programa "para abrazar a Brancatelli". El panelista retrucó: "A mi también me gustaría abrazarlo pero para que también deje el odio de lado porque sus palabras han lastimado a muchas personas y yo entre una de ellas, porque dice que los que creen en un proyecto político son 'resentidos', 'pagos', 'envidiosos', 'rencorosos' que idolatran a una bruja". Brancatelli continuó: "Usted ha dicho cualquier cantidad de barbaridades, como que somos nazis, por lo cual creo que sí necesita un abrazo mio para que ese odio se quede a un costado y se identifique con el amor. Jamás hemos dicho tantas barbaridades ni siquiera de (Mauricio) Macri con las diferencias que tenemos. Todos tenemos que bajar un cambio". Finalmente, ambos se pararon para abrazarse mientras Brancatelli le decía, como en aquella frase que pronunció en ese mismo programa Luis D'Elía: "Amor amor amor, basta de odio. Que lo invada el amor".

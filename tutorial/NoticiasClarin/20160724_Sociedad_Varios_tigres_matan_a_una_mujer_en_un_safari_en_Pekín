@@ -1,0 +1,18 @@
+
+ Varios tigres mataron  a una mujer en un safari de Pekín e hirieron a otra, según informó  la cadena CCTV. Las dos mujeres formaban parte de un grupo de cuatro personas que realizaba el paseo en un auto privado en el parque Badaling Safari World, a unos 60 kilómetros del centro de la ciudad y cerca de una de las secciones de la Gran Muralla. Al parecer, en las imágenes difundidas,  una de las mujeres habría discutido con el conductor y salió del coche para ponerse al volante y, en el momento en el que trata de volver a entrar en el vehículo, un tigre se lanzó sobre ella y la arrastró varios metros.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Para  ayudar a la víctima, salieron del auto un hombre, que parece ser el conductor, y la otra mujer, quien fue atacada por otro tigre y resultó muerta. Los trabajadores del parque consiguieron rescatar a la mujer que resultó herida y se encuentra en estado estable. El complejo ofrece como uno de sus atractivos la posibilidad de ver a los animales salvajes -tigres, lobos o jirafas- muy “de cerca”, mientras se pasea en coches particulares o autobuses del propio parque, si bien se advierte a los visitantes que no salgan de los vehículos. Mirá también: Video: la lucha de un empleado de Disney por alejar a un caimán de una montaña rusa Fuente: La Vanguardia 

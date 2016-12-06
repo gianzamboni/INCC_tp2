@@ -1,0 +1,22 @@
+
+Mientras los sindicatos docentes y el Gobierno nacional mantenían sus habituales cruces al evaluar el paro (para unos la adhesión suele ser “alta”; para los otros, “dispar”), en las aulas de algunas escuelas públicas ayer la educación siguió su curso, pese las ausencias de unos y la retórica de los otros. Aun cuando adhieren al reclamo de un sueldo más justo, algunos docentes decidieron ir a trabajar igual. Coinciden con sus compañeros en que su principal motor es la defensa de la educación pública: mientras otros la reivindican con el paro, ellos eligieron hacerlo desde el aula. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ “Nuestros alumnos vienen de la periferia de Florencio Varela. Tienen tantas necesidades que no queremos privarlos también del derecho a aprender”, explica Claudia Kopric, maestra de 6° grado en la Escuela N° 65 de esa localidad. “Vinimos porque queremos garantizarles la continuidad pedagógica a los chicos –asegura Claudia–. Creo que esta no es la manera de reclamar. La medida estuvo muy politizada, mientras que no hemos tenido respaldo de los gremios frente a episodios de maltrato y los problemas edilicios”.
+
+ También Laura Schiariti, que trabaja triple turno en centros educativos públicos de la Ciudad –dependientes del área de Educación de Adultos–, fue a dar clases. En el Centro Educativo de Villa 31, donde cursan la primaria adolescentes mayores de 14 “en situación de consumo”, justo ayer repartieron las netbooks: “No adherí al paro porque sé que mis alumnos me esperan. Ellos son mi motor; siento que no les puedo fallar".
+
+ “El sueldo no me alcanza”, aclara Laura, y explica que por eso tiene tres cargos, que la obligan a recorrer la ciudad todos los días: del Hospital Borda a la Villa 31, y de ahí al Bajo Flores. Con una inflación por encima del 30%, la más alta de los últimos 14 años, Laura comparte el reclamo pero no la medida de fuerza. “No juzgo al maestro que hoy hizo paro. Nosotros ponemos mucho dinero de nuestro bolsillo; yo traigo galletitas para que los chicos tomen la merienda, a veces llegan sin comer”, describe.  Susana Rodríguez es directora y profesora de Historia en la Escuela Media N° 15 de Lanús. “Vine a trabajar por convicción, porque creo que la mejor defensa de la escuela pública es con los alumnos dentro del aula”, asegura. En su escuela, el paro tuvo gran adhesión en el turno mañana, no tanto en los turnos tarde y noche. Ella afirma: “A la noche viene el alumno adulto, que durante el día trabaja y hace un gran esfuerzo por estudiar. Pese al paro, y aunque el reclamo sea legítimo, nosotros venimos por respeto a ese alumno”.

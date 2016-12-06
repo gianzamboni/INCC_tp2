@@ -1,0 +1,98 @@
+
+Alfredo Casero cada vez que le toca opinar sobre la política argentina muestra que piensa diametralmente opuesto al kirchnerismo, algo que según él tuvo represalias con su trabajo artístico cuando gobernaba Cristina Kirchner. Ahora, el actor le apuntó al acto en Parque Saavedra, organizado por el ex titular de la AFSCA, Martín Sabbatella, que convocó a personalidades del mundo artístico identificados con el anterior gobierno como su colega Pablo Echarri, y que contó con el cierre de Fito Páez. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/alfredocasero1/status/699287486095351808",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69928748609535180")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/alfredocasero1/status/699287486095351808",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69928748609535180")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/alfredocasero1/status/699289683675766785",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69928968367576678")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Leé también: "Angry Buitres", otro polémico juego en una plaza kirchnerista 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/alfredocasero1/status/699287331010912256",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69928733101091225")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/alfredocasero1/status/699302051055067136",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69930205105506713")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Este año, el actor protagonizó un nuevo round con otro referente K: Víctor Hugo Morales, quien había dicho que "tenía una opinión débil". Y en una entrevista televisiva, Casero le respondió duramente. Leé también: Alfredo Casero le respondió duro a Víctor Hugo y arde la polémica
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/alfredocasero1/status/699288708755890177",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69928870875589017")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

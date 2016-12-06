@@ -1,0 +1,72 @@
+
+Ricardo Jaime fue trasladado esta mañana a los tribunales federales de Comodoro Py para declarar ante el juez federal Julián Ercolini.
+
+El ex funcionario kirchnerista está detenido desde el sábado y pasó la noche en una sede de Gendarmería, de la que fue trasladado con chaleco antibalas. Mirá también: Los K le sueltan la mano a Jaime: Scioli y Recalde avalaron su detención
+
+Jaime fue trasladado junto a su mano derecha en la gestión en la Secretaría de Transporte: Manuel Vázquez también fue trasladado, luego de ser detenido a pesar de haberse escondido en un placard para evadir a la Justicia. 
+
+
+Vázquez fue el primero en declarar ante el juez Ercolini por la supuesta malversación de fondos en la compra de trenes en desuso a España y Portugal.
+
+
+
+
+
+var act_e23 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_e23 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_e23.setTitle('V&aacute;zquez fue el primero en declarar ante el juez Ercolini por la supuesta malversaci&oacute;n de fondos en la compra de trenes en desuso a Espa&ntilde;a y Portugal.');
+act_e23.setSubtitle('CORRUPCIÓN K'); 
+act_e23.setLinkBack('http://www.clarin.com/politica/Ricardo-Jaime-Tribunales-declarar-Ercolini_0_1552644837.html');
+act_e23.setDescription('Fue llevado a Comodoro Py ante el juez Ercolini&nbsp;con chaleco antibalas. Indagan primero a&nbsp;su mano derecha en la gesti&oacute;n en Transporte.');
+act_e23.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Ricardo-Jaime-Tribunales-declarar-Ercolini_0_1552644837.html');
+
+var showShareBarUI_params_e23=
+{ 
+containerID: 'shareQuote_e23',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_e23,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_e23
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_e23);
+ Mirá también: Jaime pasó su primera noche preso: está incomunicado mientras espera declarar

@@ -1,0 +1,18 @@
+
+Un avión Hércules  de la Fuerza Aérea que se había declarado en emergencia aterrizó hoy en el aeropuerto de Río Gallegos, en la provincia de Santa Cruz, confirmaron fuentes oficiales a la agencia Télam. La aeronave había partido, con 33 personas a bordo, con destino a la Antártida. Después de un gran operativo pudo aterrizar sin problemas.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/panchorgl/status/694205904779091969",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69420590477909196")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+Tweet del reportero gráfico Francisco Muñoz, de la agencia OPI Santa Cruz.El Hércules C-130 tocó tierra después de realizar varias maniobras de seguridad, en las que se confirmó la rotura de la tapa derecha del tren de aterrizaje, lo que no le impidió completar el aterrizaje, dijeron las fuentes.El avión había partido del mismo aeropuerto, pero al detectarse el inconveniente mecánico decidió regresar.El vicegobernador de Tierra del Fuego, Juan Carlos Arcando afirmó a Télam que el piloto de la aeronave evaluó aterrizar en el aeropuerto Malvinas Argentinas de la ciudad de Ushuaia, pero finalmente decidió continuar con las maniobras de emergencia en Río Gallegos.

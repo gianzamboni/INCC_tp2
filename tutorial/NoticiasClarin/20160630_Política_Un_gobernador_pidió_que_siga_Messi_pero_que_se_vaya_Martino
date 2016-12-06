@@ -1,0 +1,18 @@
+
+El fútbol y la política en nuestro país suelen mezclarse, eso quedó demostrado durante la última final de la Copa América, con nueva derrota incluida, y los gestos y pedidos de varios dirigentes para que Lionel Messi continúe en la Selección. Algo de eso se le habrá cruzado al gobernador de Cordóba, Juan Schiaretti, durante un acto, en el que dijo que a la sociedad le hacen falta dos cosas. A saber: "Precisamos, que aumenten los sueldos de los jubilados y urgente un técnico en la Selección, que no invente cosas, ponga a los mejores y no de ventajas como dan los nuestros". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Leé también: Macri contó que llamó a Messi para darle un consejo Y continuó su arenga futbolera, en medio de los aplausos: "Precisamos un buen director técnico en la selección. Es una vergüenza que entre a jugar una final con nueve jugadores y medio como lo hizo el domingo". De esta manera, Schiaretti se metió en la polémica de la semana tras una nueva final perdida del seleccionado y cargó duro contra el técnico, contra el goleador Gonzalo Higuaín y pidió por Lío. Leé también: El 82,8% de los hinchas quiere que Messi siga en la Selección "¡Volvé Messi! Que vuelva Messi y se vaya Martino", concluyó el cordobés, sumándose al pedido para que la estrella del Barcelona siga jugando en Argentina.  En medio de sus palabras, el mandatario pidió disculpas por ser "muy futbolero", pero no pudo ocultar su pasión y su pasado como dirigente del club Racing de Nueva Italia, que en la actualidad milita en el Torneo Federal B. Leé también: La estatua de Messi, homenaje y otro pedido para que no deje la Selección

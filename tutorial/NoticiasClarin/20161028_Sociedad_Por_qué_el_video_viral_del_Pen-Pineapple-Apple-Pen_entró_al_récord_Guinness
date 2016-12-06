@@ -1,0 +1,20 @@
+
+Son sólo 45 segundos. Pero bastó el espaldarazo de una mega figura del espectáculo para que este video se convirtiera en el nuevo fenómeno de Internet. Y, ahora, también en un récord Guinness. El éxito viral "Pen-Pineapple-Apple-Pen" del japonés PikoTaro, cuyo video alcanzó más de 67 millones de reproducciones en la red, fue reconocido hoy como la canción más corta de la historia en entrar en la lista Billboard Hot 100. El tema, de 45 segundos de duración, se coló en el puesto 77 del ranking musical estadounidense la semana del 29 de octubre, un puesto por debajo del "Million Reasons" de Lady Gaga, y posee una media de más de dos millones de visualizaciones por día.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En el acto de entrega del certificado Guinness celebrado en Tokio, el artista, el primer japonés en entrar en esta lista en 26 años, dijo sentirse muy honrado y sorprendido por el éxito global de la canción, y presentó una versión ampliada de dos minutos del tema que interpretó ante los asistentes. El vídeo "Pen-Pineapple-Apple-Pen" (o "PPAP") fue colgado en YouTube a finales de agosto, y saltó a la fama después de que el cantante canadiense Justin Bieber compartiera un mensaje a través de su perfil de Twitter calificándolo como su "video favorito de Internet" el pasado 27 de septiembre. El tuit fue compartido hasta hoy más de 66.000 veces, y el propio PikoTaro lo señaló como uno de los factores que desencadenó la fama en el exterior del video, que cuenta con decenas de "covers" en diversos países del mundo. I have a pen. I have an apple. Uh! APPLE PEN! #PPAP* Rika & Riko pic.twitter.com/rkpMMFVhyX— Khairul (@luriahk) 26 de septiembre de 2016
+ Muchos auguran que este nuevo hit será mucho más popular que lo que supo ser el Gangnam Style de Psy, que en 2012 batió todos los récords cuando alcanzó las mil millones de reproducciones, una cifra a la que nadie accedió hasta entonces. También leé: "Gangnam Style fue visto 1.000 millones de veces" Bajo el atuendo de leopardo, peinado al estilo Yakuza (mafia japonesa) y gafas de sol de PikoTaro se esconde el humorista nipón Kosaka Daimao, a quien se refirió en todo momento como su productor. El nuevo cantante éxito dijo que le gustaría ver una versión del "Pen-Pineapple-Apple-Pen" hecha por la cantante Ariana Grande o el propio Bieber. PPAP🐱🍎🍍〜ネコちゃんver〜#PPAP pic.twitter.com/nVbGeTx9pK— 小澤しぇいん (@ozw_shane) 18 de octubre de 2016
+ El artista relató que la canción fue producida con un presupuesto de unos 950 dólares, una pequeña cantidad en comparación con las ganancias que presumiblemente le reportará, pues aseguró no haber recibido "ni un yen todavía", ya que el ciclo de facturación en YouTube todavía no se cerró. En cuanto a sus planes de futuro, el japonés reveló que firmó un contrato global con varias discográficas entre las que se incluye Sony. Y afirmó que, a pesar del éxito de "PPAP", ahora no piensa más que en "seguir sacando canciones divertidas e interesantes lo más rápido posible". Fuente: EFE

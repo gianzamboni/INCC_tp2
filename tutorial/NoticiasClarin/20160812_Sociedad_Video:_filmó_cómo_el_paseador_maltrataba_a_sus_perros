@@ -1,0 +1,18 @@
+
+Aquiles, Uma e India mueven la cola ansiosos por salir a pasear. Pero el joven contratado con ese fin entra, patea a los tres perros y trata de aplastarle la cabeza a uno con el pie. Todo quedó registrado por una cámara que instaló su dueña. Mirá también: La nueva vida de Rubio, el perro callejero adoptado por una azafata alemana 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Desiré vive en el barrio porteño de Villa Devoto. Había contratado al joven dos días atrás, pero estaba preocupada por que el muchacho no hiciera su trabajo y no paseara a sus perros, ya que le había dado las llaves para que los retirara él mismo. Por eso --y aprovechando que su pareja trabaja en el rubro de sistemas de seguridad-- instaló una cámara en el living de su casa. Mirá también: Arrastró a su perro hasta matarlo y casi lo linchan  El video no deja lugar a dudas. El paseador abre la puerta y, sin que los perros hicieran nada, los agrede físicamente. "Cuando lo vi pensé que me moría", cuenta la chica. "Que alguien haga esto, la verdad que no lo puedo creer. Ellos están felices que salen a pasear, saben del paseo y, sin embargo, él les pega sin motivo alguno", agrega Desiré. Mirá también: Un cachorro estrena prótesis después de que un vecino le cortó dos patas con una espada  La joven hizo la denuncia en la Comisaría 45 y alerta a los vecinos para que no contraten a este paseador. En las calles del barrio sigue habiendo carteles donde el muchacho ofrece sus servicios y promete "confianza, experiencia, seriedad, responsabilidad". Pero también hay otros que pegó Desiré, con la cara de él y la frase "¡Alerta canina! Paseador golpeador".

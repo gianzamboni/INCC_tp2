@@ -1,0 +1,34 @@
+
+Dicen que la música amansa a la fieras, pero en el caso Teddy McDermott, sus efectos van mucho más allá. Para eso hay que explicar que Teddy sufre Alzheimer. “A menudo no reconoce a la familia y tiene episodios de agresividad”, explica su hijo, Simon ‘Mac’ McDermott. Pero cuando suena la música que Teddy escuchó y cantó toda la vida -había sido cantante profesional- vuelve a ser él: desaparece la agresividad, recupera la memoria y canta como siempre lo hizo. También leé: "La valiente lucha de una mujer contra el mal de Alzheimer"  Mac creó una página en Facebook, The song a minute man, donde publica los videos que graba de su padre. Para él y su familia, son momentos que se convirtieron en un auténtico tesoro. Y su iniciativa tuvo un éxito inesperado. Sin ir más lejos, los videos que acompañan este texto fueron vistos por más de tres millones de personas. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Con esta página, Mac intenta recaudar fondos para la Sociedad de Alzheimer del Reino Unido, donde viven él y su padre. Dice que lo hace para apoyar a la mujer que está al otro lado del teléfono, ese número al que tantos familiares de enfermos de Alzheimer llaman en busca de ayuda y alivio cuando, desesperados e impotentes, no saben cómo seguir adelante. Mac, con su iniciativa, consiguió recaudar ya más de 50.000 libras (casi un millón de pesos). 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La Sociedad de Alzheimer de Reino Unido felicitó la iniciativa de Mac. “‘Songaminute’ es una idea inspiradora y conmovedora que no sólo está reuniendo fondos vitales para la caridad, sino que también destaca el impacto positivo que el hecho de escuchar música y cantar puede tener para las personas con demencia”, esgrimen en su página web. También leé: "Se abre una esperanza para el Alzheimer: la memoria perdida podría recuperarse"

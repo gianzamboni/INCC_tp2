@@ -1,0 +1,20 @@
+
+La gigantesca cúpula de acero que tiene que cubrir el "sarcófago" construido rápidamente en 1986 alrededor del reactor accidentado de la central de Chernobyl empezó a ser instalada, según anunció el Banco Europeo para la Reconstrucción y el Desarrollo (BERD). 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Uno de los proyectos más ambiciosos de la historia de la ingeniería atraviesa una etapa crucial", escribió en un comunicado el organismo, que gestiona los fondos para las medidas de seguridad que protegen el lugar. Esta cúpula, ya construida, que pesa 36.000 toneladas y mide 110 metros de alto, tiene que ser instalada de forma progresiva hasta alcanzar su posición final antes de finales de noviembre. Tiene una duración prevista de al menos 100 años y permitirá llevar a cabo con toda seguridad las operaciones necesarias de descontaminación en el interior del reactor. 
+
+ "Para nosotros este domo no son sólo 36.000 toneladas de metal. Son 36.000 toneladas de confianza en el éxito de este proyecto, de confianza en el lugar", declaró el director general de la central de Chernobyl, Igor Gramotkin. Leé también: Cómo está Chernobil 30 años después. Ucrania conmemoró este año el 30º aniversario de la catástrofe de Chernobyl, el peor accidente nuclear de la historia que causó, según las estimaciones, miles de muertos. El 26 de abril de 1986, a la 1 y 23, el reactor número 4 de la central explotó durante una prueba de seguridad. Durante diez días, el combustible nuclear ardía, expulsando a la atmósfera elementos radioactivos que según ciertas estimaciones contaminaron hasta tres cuartas partes de Europa, pero sobre todo Ucrania, Bielorrusia y Rusia, en aquel momento repúblicas soviéticas. Fuente: AFP

@@ -1,0 +1,18 @@
+
+    Un ex empleado de la empresa Aerolíneas Argentinas denunció que La Cámpora lo obligaba a donarle el 5% de su sueldo y que cuando se opuso lo amenazaron y lo echaron.  Marcelo Muñoz denunció en el programa “Telenoche” cómo era uno de los modos de recaudación de la agrupación kirchnerista en la empresa aérea que era presidida por Mariano Recalde, uno de los conductores La Cámpora.  Muñoz contó que era supervisor en Aerolíneas, puesto al que llegó por mmilitar en La Cámpora. Y cuenta que los aportes los hizo desde el primer mes: “Nos obligaban a aportar un dinero. Ya en el último año, me mostré en desacuerdo con esta metodología y empecé a tener problemas en la empresa. Aporté desde que empecé a trabajar, desde el primer mes, era el 5% del sueldo”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ “Eran 800 pesos por mes, del sector mío aportábamos todos”, señaló Muñoz quien asegura que, cuando comenzó a oponerse con el aporte “me suspendieron por diez días”. Además, dice que los fondos eran “para La Cámpora y para la campaña de Mariano Recalde”, quien fue candidato por el FpV.   El denunciante aseguró que “en Aeroparque teniámos una persona que era recaudaba y en Ezeiza había otra” y que los modos eran “dársela en la mano o depositárselo en el cajero”.  Muñoz grabó por teléfono y filmó un video con la persona que se encargaba de los aportes en Aeroparque, un tal Antonio: “El que la junta en Aeroparque soy yo, son 800 mangos fijos. El que no la pone este mes, la pone el mes siguiente”, le dijo por celular. En el video, se lo ve a Muñoz entregando 1.600 pesos a esta persona.  “Esto lo reporto para arriba”, le dijo el recaudador. Mirá también: Mariano Recalde: "¿En qué Gobierno no hubo corrupción?"  Luego de esto, según Muñoz recibió un mensaje de WhatsApp diciendo: “Ttraidorzuelo, voy a informar para que te echen” y al poco tiempo, se quedó sin trabajo.  Anoche, Mariano Recalde participó del programa “Intratables” y calificó de estafador al denunciante y dijo que le inició un sumario. Aseguró que es falso que se obligue a aportar pero reconoció que él y otros militantes hacen aportes de su bolsillo para sostener la actividad política. "Es falso que se obligue a aportar porque es imposible, sí es cierto que los que militamos aportamos de nuestros bolsillos", dijo Recalde.  Pero luego, al momento de hablar de la corrupción kirchnerista, Recalde aseguró: "¿En qué Gobierno no hubo corrupción?". Mirá también: El PJ no pudo disimular sus grietas en el acto de homenaje a Eva Perón   Recalde criticó al detenido y procesado exsecretario de Obras Públicas K José López, al que calificó como "una persona desleal que formaba parte de nuestras filas". "La corrupción es algo malo, hay que combatirla y si se puede, erradicarla", dijo el exfuncionario K en Intratables. Mirá también: Estas son las casas por las que Milagro Sala cobró millones de pesos y nunca terminó  Consultado sobre las causas contra Cristina Kirchner, Amado Boudou, Ricardo Jaime y López, Recalde contestó: "Son o dos tres casos aislados que fueron juzgados y condenados durante el gobierno anterior". "El caso de Jaime, el caso de Felisa Miceli, que es exactamente igual pero con menos dinero que el caso de (la vicepresidenta) Gabriela Michetti, del cual nos enteramos hace poco porque se filtró la denuncia policial de que le encontraron dólares y pesos que no había declarado y que no puede justificar", cuestionó el hijo del jefe de bloque K en Diputados.

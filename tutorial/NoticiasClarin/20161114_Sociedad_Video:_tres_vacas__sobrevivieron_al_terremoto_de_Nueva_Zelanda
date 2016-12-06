@@ -1,0 +1,18 @@
+
+Un terremoto de 7,8 grados de magnitud golpeó a la Isla Sur de Nueva Zelanda. Destrozó viviendas, obligó a cerrar líneas de transportes y dejó un saldo de dos muertos. Pero ellas lograron mantenerse a salvo y unidas. Son tres vacas que sobrevivieron a la catástrofe al quedar ubicadas en una "isla" de tierra y pasto que no fue derrumbada. Mirá también: Un sismo de 5 grados sacudió el centro de Oklahoma 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La imagen se registró hoy en la región de Kaikoura, al sur del país. Un periodista del medio local Newshub estaba recorriendo la zona en helicóptero y pudo ver a estos animales, que quedaron varados por los deslizamientos de la tierra. Su video pronto circuló en las redes sociales y está emocionando al mundo. Mirá también: El arquitecto de los desastres construye con papel y cartón El Gobierno de Nueva Zelanda dijo que el temblor se "sintió ampliamente" en todo el territorio nacional y advirtió a los ciudadanos que debían estar vigilantes ante las réplicas. El país se asienta en la falla entre las placas tectónicas del Pacífico y Oceanía y registra unos 14.000 terremotos cada año, de los que entre 100 y 150 tienen la suficiente potencia como para ser percibidos. Mirá también: Italia: después del terremoto, un feroz tornado

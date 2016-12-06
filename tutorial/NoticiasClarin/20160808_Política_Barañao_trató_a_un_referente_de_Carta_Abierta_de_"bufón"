@@ -1,0 +1,18 @@
+
+En la previa de una charla de Cristina Fernández de Kirchner en la Facultad de Filosofía y Letras, de la UBA, Horacio González calificó de "personaje turbio" al ministro de Ciencia y Tecnología, Lino Barañao. Y esta mañana, el único ministro de la gestión kirchnerista que continuó en funciones con Cambiemos, salió a responderle. "Lo que hizo Horacio Gonzalez fue una bufonada para conseguir adhesión del auditorio", dijo Barañao, en diálogo con Radio con Vos 89.9. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El funcionario reconoció: "Hay un sector del kirchnerismo al que le molesta la continuidad en mi cargo, porque no puede criticar por completo al gobierno". Mirá también: Horacio González: "Lino Barañao es un personaje turbio y no sabe lo que es ciencia" E insistió contra el ex titular de la Biblioteca Nacional, uno de los intelectuales referentes del espacio Carta Abierta: "Insultar a otro para hacer reír como Gonzalez es típico de bufones". "Habría que reflexionar sobre espacios de intelectuales, como Carta Abierta, que no tienen autocritica", expresó. Finalmente, el ministro destacó la decisión del Gobierno de Macri de dedicar de 8 puntos del presupuesto, 1 punto a la ciencia. Y concluyó: "Mi gestión tiene consenso en la comunidad científica". Mirá también: Impsa acuerda con acreedores y apuesta a la energía eólica No es la primera vez que Barañao es criticado por el kirchnerismo. Adrián Paenza, periodista científico identificado con la gestión K, lo había cuestionado en su primer programa en la TV Pública, tras la asunción de Macri.

@@ -1,0 +1,34 @@
+
+Julio De Vido fue hoy a la Cámara de Diputados y abordado por los periodistas, volvió a negar una relación estrecha con José López, el secretario de Obras Públicas detenido con bolsos repletos de dólares, euros y relojes de alta gama. “Acá no hay ni mano derecha ni nada, López era secretario de Obras Públicas“, dijo el ex ministro del kirchnerismo quien afirmó:“Yo no tengo mano derecha, la única que tengo es ésta”, manifestó y levantó su mano delante de los cronistas 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+“¿Qué tiene que ver lo que dije en un video?”, se despegó el ex funcionario en relación a las imágenes de un acto donde mencionaba a López como su hombre de confianza. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Luego dijo estar “dolido pero no preocupado” y desafió: “¿Me ve temeroso acá?”, señaló y de inmediato, ingresó a la Cámara de Diputados. Mirá también: De Vido reapareció en el Congreso y se fue por la puerta de atrás: "Estoy consternado" La Cámara baja buscará aprobar hoy el proyecto de ley que amplía la figura del arrepentido para casos de corrupción, y el que propone la extinción de dominio para que el Estado recupere aquellos bienes conseguidos a través de actos delictivos, que ayer obtuvieron dictámenes en sendos plenarios de comisiones. Mirá también: Tras el Caso López, Diputados trata la ley del arrepentido En el primero de los proyectos, el oficialismo consiguió las firmas para el dictamen de mayoría y el compromiso para acompañar en la votación en general del Frente para la Victoria-PJ, del Frente Renovador y del bloque Justicialista, entre otros. El de extinción de dominio, en cambio, fue impulsado por el massismo y acompañado por Cambiemos y otras bancadas minoritarias. Mirá también: Ahora todos quieren ser celebrities Antes del tratamiento de estos dos proyectos, en el temario de la sesión prevista para las 11 figuran el que autoriza a la justicia a "allanar el domicilio particular y las oficinas del diputado nacional Julio De Vido", en una causa especifica; y el que crea la comisión Bicameral Permanente de Seguimiento y Control del Ministerio Público en el ámbito delCongreso nacional. En relación al proyecto de resolución que permita a la Justicia allanar el domicilio y las oficinas del ex ministro de Planificación y actual diputado nacional De Vido, propone "autorizar, en los términos del artículo 1° de la ley 25.320, al juez titular del Juzgado Nacional en lo Criminal y Correccional Federal N° 9, Luis Rodríguez, a allanar el domicilio particular y las oficinas" del ex funcionario del kirchnerismo en la causa que lo investiga por presunto enriquecimiento ilícito.

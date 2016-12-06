@@ -1,0 +1,18 @@
+
+Cuando Sergio Schoklender escuchaba el nombre del funcionario explotaba: "Hijo de remil putas y ladrón". Se refería a José Francisco López, exsecretario de Obras Públicas del ministerio de Planificación, a quien acusaba de recibir coimas y de "destruir" el plan Sueños Compartidos. Mirá también: Detienen al ex vice de De Vido mientras intentaba ocultar bolsos con dólares 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Contra él fueron los dardos más filosos que el ex apoderado de Madres lanzó hacia funcionarios del Gobierno cuando prendió el ventilador en setiembre de 2011. En una entrevista con Clarín, Schoklender también culpó entonces al ex ministro de Economía, Amado Boudou. Mirá también: Fiscal Delgado pidió detener a López en la causa por enriquecimiento ilícito "Porque Boudou empatanaba todo. Porque era muy amigo de José López. Era muy amigo y realmente uno de los principales en el manejo de la Obra Pública en este país es José López. Porque De Vido se manejaba con las áreas de energía, subsidios, transportes. Su manejo de caja era otra. El manejo de lo que fueron los miles, miles y miles de millones que se invirtieron en autopistas, en asfalto , vereda..." Mirá también: Habló una de las monjas que vio a López antes de la detención: "Dijo que había robado para ayudar" Consultado si Boudou podía estar al tanto de los negocios de López, Schoklender agregó: "Es imposible que Obras Públicas arregle una licitación trucha sin la connivencia de Economía. Eso es absolutamente imposible".

@@ -1,0 +1,72 @@
+
+Aníbal Florencio Randazzo tomó un taxi y le indicó la dirección al conductor: “Beruti al 2600”. El chofer arrancó y a las pocas cuadras, se dio vuelta: “¿Vos sos el Flaco Randazzo?”.  El ex ministro de Cristina Kirchner sonrió y escuchó la catarsis del tachero: “Yo lo voté a Macri”, aceptó pero continuó: "Hoy tengo que laburar cuatro horas más para juntar la que juntaba antes”, lamentó al dar su diagnóstico del momento económico del país bajo el mandato de Mauricio Macri.  Al llegar al restaurant Oviedo, Randazzo se abrazó con cada uno de los cinco intendentes bonaerenses que lo esperaban allí, hambrientos de definiciones políticas por parte del hombre que terminó enojado con Cristina y con Daniel Scioli, el “elegido” de la ex Presidenta para ser candidato presidencial. Mirá también: “Un asado peronista”: Marcos Peña y vidalistas con intendentes que no se despegan de Cristina  Acompañado de Eduardo “Lalo” Di Rocco -randazzista integrante del Directorio del Banco de la Provincia de Buenos Aires-, saludó a Gabriel Katopodis,Juan Zabaleta, Martín Insaurralde, Eduardo “Bali” Bucca y Juan De Jesús, todos miembros del llamado “Grupo Esmeralda”. Así, a las 21 horas, la cena duró hasta la 1 de la mañana y entre tortilla de papas, jamón crudo, pescado, pastas y risotto -todo maridado con un Malbec de Catena Zapata- los peronistas bonaerenses hablaron del futuro del peronismo, evitaron volver sobre Cristina y Scioli pero no obtuvieron una definición tajante sobre una reaparición inmediata en la política nacional del ex titular de Interior y Transporte.
+
+ “Lo vi entusiasmado, con ganas de arremangarse, convencido de la oportunidad del peronismo para el año próximo”, contó un alcalde que optó por el risotto en la cena.  “El Flaco habló como nosotros, de un peronismo de futuro, moderno, ubicado exactamente del otro lado de Cambiemos. Hay un sector de la sociedad que quiere verse representada”, dijo uno que se dedicó a un pescado del día con gaseosa.  Randazzo, ataviado de polera y jeans, aseguró que no es tiempo aún de “caminar la Provincia” y se mostró relajado sobre los llamados “carpetazos”, trámites judiciales que desde algún sector político (¿massismo o Gobierno nacional?) podrían mover ante alguna aparición pública del ex funcionario nacional.  Y se mostró más sereno y sin la verba inflamada contra Cristina y Scioli, algo que lo teñía completamente hasta hace pocos meses: la bronca por no haber podido participar de las PASO presidenciales y enfrentarse a Scioli fue su punto de ruptura con el kirchnerismo, fuerza en la que estuvo enrolado desde que dejó a Felipe Solá y comenzó a trabajar políticamente con Néstor Kirchner.  El oriundo de Chivilcoy se mostró firme en la actitud de enfrentar en unas PASO a Cristina y Scioli y contó que aceitó sus contactos con gremialistas y con los gobernadores peronistas. Abundó en la idea de pensar un frente político y social amplio, con eje en el peronismo, y afirmó que el Gobierno nacional “no termina de encontrar dónde está el arco aún en muchos temas”. Luego, interrogó a los intendentes de San Martín, Hurlingham, Lomas de Zamora, Bolívar y el Municipio de la Costa sobre cómo está la situación en cada distrito.  “Tardaron nueve meses en mandar la Gendarmería a Santa Fe, así que imaginate”, le dijo uno que tiene a la inseguridad como su principal flagelo a atender.
+
+ Randazzo se mostró interesado en el contacto que Katopodis y Zabaleta mantuvieron, la semana pasada, con Victoria Donda y Jorge “Huevo” Ceballos -dirigentes que no pertenecen al peronismo y prometió intensificar su acción política. 
+
+
+ “Flaco, mirá que nosotros no tenemos vuelta atrás”, le dijo uno de los alcaldes que quiere que ese sector político juegue fuerte en las elecciones parlamentarias del año próximo. “Cuenten conmigo para pensar qué hacemos con este quilombo”, le contestó Randazzo.
+
+
+
+
+
+var act_78a = new gigya.socialize.UserAction();
+
+var emailBodyCustom_78a = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_78a.setTitle(' “Flaco, mirá que nosotros no tenemos vuelta atrás”, le dijo uno de los alcaldes que quiere que ese sector político juegue fuerte en las elecciones parlamentarias del año próximo. “Cuenten conmigo para pensar qué hacemos con este quilombo”, le contestó Randazzo.');
+act_78a.setSubtitle('Peronismo'); 
+act_78a.setLinkBack('http://www.clarin.com/politica/Malbec-Randazzo-intendentes-jugando-misterio_0_1663033708.html');
+act_78a.setDescription('El ex ministro cenó con miembros del “Grupo Esmeralda”. Promesa de competencia electoral y silencio sobre Cristina y Scioli.');
+act_78a.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Malbec-Randazzo-intendentes-jugando-misterio_0_1663033708.html');
+
+var showShareBarUI_params_78a=
+{ 
+containerID: 'shareQuote_78a',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_78a,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_78a
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_78a);
+  Sin definiciones concretas, la suculenta cena en Oviedo permitió ilusionar a los intendentes pero volvió a mostrar a un Randazzo que no cree que aún deba hablar, que evita dar definiciones políticas y hacer apariciones públicas.  “Eso sí, nos juramos fidelidad”, río un alcalde que apuró un sorbo de Malbec ya a la una de la madrugada del miércoles. Mirá también: Randazzo empieza a moverse, pero pide que no lo apuren

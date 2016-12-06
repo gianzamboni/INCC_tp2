@@ -1,0 +1,130 @@
+
+Clientes de bancos de todo el país que utilizan la red Banelco denunciaron que desde las primeras horas de la mañana no pudieron realizar operaciones en los cajeros automáticos ni a través de Internet. La situación, según la empresa, ya está "regularizada". Pero aún no hubo aclaraciones sobre sus causas. Ante la consulta, por la tarde, en los bancos les explicaban a sus clientes que había "un problema general del sistema", que afectaba "todos los medios habilitados para operar" y que Banelco estaba "trabajando en la solución". "Estamos teniendo demoras con la conexión a la red Banelco", le dijeron a otro cliente en una de las principales entidades privadas. "Hay inconvenientes con Banelco, es por ello que no podés extraer dinero", fue la respuesta para otro cliente. Los desperfectos afectaron a las personas que necesitaban hacer trámites en las terminales automáticas, como extraer dinero en efectivo, realizar transferencias o abonar facturas. También a los que buscaron utilizar el sistema online de pagos Pago Mis Cuentas. Muchos usuarios intentaban realizar su operación, pero sólo recibían como respuesta la frase de que "su red no está disponible" y un consejo de reintentar la transacción "en unos minutos". Creyendo que el problema era de un banco en particular, hay personas que recorrieron varios, pero en todos tuvieron la misma respuesta. Pasadas las 18, la Red Banelco emitió breve un comunicado en el que admitió que "en el día de la fecha se han identificado intermitencias en la operación de PagoMisCuentas y en la detransferencias inmediatas", para luego asegurar que la situación está "ya regularizada".  "La operación en la red de cajeros automáticos y las operaciones en establecimientos comerciales con tarjeta de débito se encuentran funcionando de manera normal", agregó la empresa, manejada por Prisma Medios de Pago.  Lo que explicaron fueron las causas de los inconvenientes ni la cantidad de clientes que estuvieron afectados.   A lo largo de todo el día, las redes sociales se llenaron de reclamos por los inconvenientes.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Nonidora/status/718533727127801861",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71853372712780186")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/MagaliAnabella/status/718547474496012288",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71854747449601228")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Vivi_K_Alba/status/718529355027230720",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71852935502723072")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/mimilonostro/status/718533134799781888",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71853313479978188")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Xime2203/status/718542139404263424",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71854213940426342")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ezerom77/status/718529252145119232",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71852925214511923")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ezequielbarreto/status/718524350874431488",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71852435087443148")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/bejotate/status/718524117939535873",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71852411793953587")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El último inconveniente masivo en los cajeros de la red Banelco se había producido el 7 de septiembre del año pasado, con consecuencias similares.

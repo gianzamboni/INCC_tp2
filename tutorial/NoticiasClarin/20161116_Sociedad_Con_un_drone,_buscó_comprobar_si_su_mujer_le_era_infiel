@@ -1,0 +1,18 @@
+
+Un hombre que tenía la sospecha de que su mujer lo estaba engañando, decidió averiguarlo con la ayuda de un drone. El hombre usó el dispositivo para seguir los pasos de su mujer y ver si, tal como él sospechaba, estaba viendo a otro hombre. El marido presuntamente engañado subió el video a YouTube, donde explica la situación. “En las últimas semanas a mi esposa la estuvieron llamando para que fuera a trabajar más temprano. Y luego recibí una llamada anónima que me decía que algo estaba sucediendo”, explica el hombre en la descripción del video. Según relata el marido, intentó seguir a su esposa varias veces, pero en esas ocasiones la mujer efectivamente se fue a trabajar. “Entonces usé un drone y eso funcionó”, dice. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Harrison Ford engañaba a su mujer con... ¡la princesa Leia! Mirá también: Los ocho videos virales que engañaron a todo el mundo En el video, que se ve a la mujer yendo hasta el punto de encuentro con otra persona, y luego se van juntos en una camioneta. Mientras transcurren las imágenes, el hombre estalla de ira y lanza comentarios como “si miran atentamente, podrán ver cómo 18 años de matrimonio se van por la alcantarilla. ¡Miren! ¡Bum! 18 años perdidos. ¡18 malditos años perdidos!”. “Teníamos un buen matrimonio. Eso es lo que pensaba. Aparentemente, no era así”, reflexiona el hombre, en medio de su enojo. Entre los comentarios de YouTube, hay varios usuarios que sugieren que se trata de un video “fake”. No sería la primera vez: el año pasado, la noticia de un marido despechado que había cortado los bienes por la mitad al divorciarse dio la vuelta al mundo. Días después se supo que todo había sido una puesta en escena para promocionar un estudio de abogados que patrocinaba divorcios.   

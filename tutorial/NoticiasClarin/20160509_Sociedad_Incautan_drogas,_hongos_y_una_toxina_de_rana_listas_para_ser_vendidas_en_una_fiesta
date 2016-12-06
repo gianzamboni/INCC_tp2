@@ -1,0 +1,22 @@
+
+LSD, éxtasis, hongos y cactus alucinógenos y la vedette del día: unas maderitas embebidas en una toxina de rana bastante conocida en el Amazonas. Todas fueron parte del repertorio de sustancias que se les secuestraron a las nueve personas detenidas en el marco del “Operativo Kambo” cuyo resultado anunció esta mañana la ministra de Seguridad de la Nación, Patricia Bullrich, en una conferencia de prensa. Mirá también: Time Warp: identificaron a entre diez y quince dealers Según la ministra, lo incautado estaba listo para ser comercializado en una fiesta que iba a realizarse en una quinta en el Conurbano bonaerense durante todo el fin de semana. “Se organizaban fiestas que duraban dos días, sábado y domingo. En estas fiestas se consumían todo tipo de alucinógenos, marihuana, éxtasis y otros tipos de drogas”, explicó Bullrich. Mirá también: El relato de una testigo refuerza la hipótesis del “éxtasis líquido” 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La investigación comenzó hace seis meses, cuando los investigadores detectaron mediante escuchas telefónicas, seguimientos y entrecruzamientos de llamadas la existencia de un grupo que se dedicaba a realizar fiestas "rave" en distintas quintas del conurbano. Para promocionar los eventos, se empleaban páginas web, donde al nombre de cada fiesta le anteponían el prefijo "Psy".
+
+Los investigadores determinaron que "Psy" era en referencia a una sustancia llamada "psilocibina", que está presente en hongos alucinógenos, que en posteriores allanamientos fueron hallados en poder de los ahora detenidos, ya que los cultivaban en un invernadero del conurbano bonaerense con equipos especiales de calefacción y humidificadores. Mirá también: Quiénes son los tres detenidos acusados de vender droga en Costa Salguero Lo más sugestivo para los pesquisas fue descubrir la sustancia que se usa en una especie de ritual medicinal indígena denominado Kambo, que es el que le dio el nombre al operativo. “Es bastante conocida en Perú y en el Amazonas, pero es la primera vez que vemos estos rituales amazónicos en la Argentina, y detrás de ello, el comercio”. Para el ritual Kambo se usa la toxina de la rana mono grande (Phyllomedusa Bicolor), que se obtiene de su sudor, y tradicionalmente se la usa con fines medicinales, especialmente, de purificación. La ministra aseguró que esta "es la primera vez que en la Argentina se detecta la comercialización de esta sustancia".
+
+Además, en el operativo se encontraron diversos tipos de cactus, como el San Pedro, que suelen ser utilizados para producir drogas por su alta concentración de mescalina, una sustancia psicoactiva. Esta sustancia alucinógena tradicionalmente la utilizaban los nativos del continente americano en rituales religiosos porque consideraban que ayudaba a abrir el espíritu. La funcionaria indicó además que durante los operativos se detuvieron a nueve personas, entre ellas, a “un DJ muy conocido”, a quien sindicaron como “el cabecilla de la organización”. Por su parte, el jefe de la Policía Federal, Néstor Roncaglia, detalló que fueron 12 allanamientos y que "cada entrada a la fiesta salia cuatrocientos pesos y se estima que iban a ir entre doscientos y trescientos invitados".

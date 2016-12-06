@@ -1,0 +1,38 @@
+
+El 12 de febrero, bajo un intenso sol de la Puna los ministros de educación de todo el país firmaron la "declaración de Purmamarca". En esa localidad jujeña, los responsables de la educación en cada una de las provincias se comprometieron, entre otras cosas, a avanzar hacia la obligatoriedad del nivel inicial a partir de los tres años, a implementar progresivamente la jornada extendida y a "promover los procesos de evaluación a nivel nacional y obtener datos precisos que permitan mejorar el aprendizaje de los estudiantes". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Pasaron cinco meses y ahora el Gobierno decidió usar la semana después del bicentenario para volver a poner ese documento en la agenda pública, pero bajo el formato de un "compromiso por la educación". Para eso, el presidente Macri convocó a gobernadores, intendentes, ministros del gobierno, sindicalistas, rectores de universidades y empresarios al Centro Cultural Kirchner. El mensaje fue claro: la educación es un tema que trasciende a los partidos y a los sectores, y todos deben trabajar juntos en mejorar la calidad y la inclusión. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Antes de reunirse con los gremios, Bullrich se sacó una foto con todos los ministros Por ahora no hay ninguna medida concreta para anunciar. El "compromiso por la educación" es, básicamente, un llamado al diálogo para que, a fin de este año, surja un nuevo documento con los grandes objetivos que necesita la educación argentina de acá hacia el futuro.
+
+Para eso el Gobierno impulsará debates en todas las universidades (estaban presentes los rectores de universidades públicas y privadas); en octubre se harán jornadas de debates en todas las escuelas del país; y se lanzó un sitio de Internet para que allí también se debata el presente y futuro de la educación argentina. Todo esto debiera terminar en un nuevo documento que será firmado a fin de año. Mirá también: Sala de 3 obligatoria: deberán incorporar a 180 mil chicos "Lo que queremos es recibir opiniones, propuestas, críticas a la declaración de Purmamarca para ponernos un norte como sociedad, que trascienda a un gobierno, a las personas, a los partidos. Queremos que sea un proceso dinámico", dijo el ministro de educación Esteban Bullrich ante un CCK colmado.
+
+"Me había entusiasmado con el documento de Purmamarca que dice los ejes centrales de lo que hay que hacer. Pero el papel resiste cualquier cosa, el tema es llevarlo a la práctica. Las estadísticas se la educación argentina son preocupantes. Ahora hay que transpirar la camiseta, pero es aquí, es ahora el momento que elegimos para construir la historia grande de nuestro país", dijo el presidente Macri que alentó a enfrentar los cambios " sin miedo a las reformas que sean necesarias". " No le tangamos miedo a las reformas, al cambio. El mundo es muy desafiante paro brinda muchas oportunidades. Y todos sabemos que en este país hay talento, capacidad y por eso hay futuro", concluyó Macri. Por ahora siguen siendo textos y palabras. Y políticos reunidos. Y aplausos. A partir de ahora se verá con cuánto entusiasmo el Gobierno sigue, día a día, este compromiso con la educación que comparte con toda la sociedad.  

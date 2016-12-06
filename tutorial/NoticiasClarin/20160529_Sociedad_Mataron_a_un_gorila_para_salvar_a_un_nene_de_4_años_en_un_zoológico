@@ -1,0 +1,18 @@
+
+Los cuidadores del zoológico de la ciudad estadounidense de Cincinnati tuvieron que matar a un gorila para rescatar a un nene de cuatro años que había caído a su foso y el animal comenzaba a atacar. Un video tomado por visitantes muestra cómo el animal sostiene al niño por la pierna y lo arrastra por el agua hasta que el personal le dispara.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Según los equipos de rescate, el macho de casi 200 kilos, de nombre Harambe,  "arrastró" al niño con violencia  y "lo arrojó por los aires" antes de que el equipo de emergencias del zoológico pudiera dispararle y matarlo. El director del zoológico, Thane Maynard, defendió el proceder de los hombres de su equipo: "Tomaron una decisión difícil e hicieron lo correcto porque salvaron la vida del pequeño niño. Pudo haber sido muy malo''. El funcionario también precisó que se empleó munición real y no un tranquilizante porque éste último podría haber tardado demasiado en hacer efecto.  El nene que estuvo unos diez minutos en la fosa, fue trasladado a un hospital local donde se espera que se recupere. Mientras tanto el zoológico lamentó la muerte de Harambe, que llegó a Cincinnati en 2015 desde un parque de animales de Brownsville, Texas.  "Todos estamos devastados por este trágico accidente que resultó en la muerte de un gorila en peligro de extinción. Esta es una gran pérdida para la familia del zoo y para la población de gorilas en todo el mundo'', expresó la institución en un comunicado.  Mirá también: Chile: mataron a dos leones para salvar a un hombre  En el momento del incidente, en el recinto había además dos hembras pero según los responsables solo el macho se acercó al niño.

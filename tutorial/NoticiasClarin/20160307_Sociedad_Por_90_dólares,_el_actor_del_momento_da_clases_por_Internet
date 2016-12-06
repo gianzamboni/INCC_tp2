@@ -1,0 +1,33 @@
+
+En sus ya clásicos diálogos a cámara y en cada gesto (público o privado) con el que construye al implacable presidente Frank Underwood, Kevin Spacey da una clase de actuación en cada capítulo de “House of Cards”. La serie de Netflix estrenó su cuarta temporada el viernes, y fue tema de conversación todo el fin de semana en las redes sociales.  Cualquiera podría actuar como Spacey. Bueno, mejor dicho, cualquiera podría tomar clases con Spacey. Eso es lo que propone una plataforma online, que te trae al actor del momento como maestro de actuación al living de tu casa.  Mirá también: Frank Underwood ronda Davos El sitio Masterclass ofrece, por 90 dólares, un curso con Kevin Spacey. “La estrella de ‘Los sospechosos de siempre’, ‘Belleza americana’ y ‘House of Cards’ te enseña las técnicas prácticas que lo hicieron a él una leyenda del escenario y la pantalla”, promociona el curso.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En 28 clases, el actor dos veces ganador del Oscar enseña desde cómo elegir el monólogo justo hasta de qué manera decir las líneas, más algunas técnicas específicas como el trabajo de máscaras y con espejos y un ejercicio que llama “darles el 50%” para atraer a la audiencia. El curso se completa con un libro con tareas que hay que completar y con otros ejercicios que el alumno debe grabar en video y que luego son evaluados por el propio Spacey. Mirá también: ¿Quién es el político que regaló choripanes frente al Congreso? Pero “Frank Underwood” no es el único que enseña a actuar. El también dos veces ganador del Oscar Dustin Hoffman es otro de los maestros, que enseña su propio método de actuación en cinco horas, al mismo precio. El staff de profesores de Masterclass abarca varias disciplinas. Christina Aguilera enseña a cantar, Annie Leibovitz (la fotógrafa que hizo el último calendario Pirelli) da lecciones de fotografía y el autor de best-sellers James Patterson no sólo muestra cómo convertirse en escritor sino que elegirá a uno de sus alumnos para escribir conjuntamente un libro. Otra maestra destacada es Serena Williams. La tenista N° 1 del mundo, aseguran en Masterclass, “enseña por primera vez todo lo que aprendió”. Y, prometen en el sitio, los alumnos podrán “mejorar su juego con dos horas de técnicas y habilidades mentales que hicieron a Serena la mejor del mundo”. Para lograrlo, se necesitan sólo una raqueta, los 90 dólares y una conexión a Internet. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

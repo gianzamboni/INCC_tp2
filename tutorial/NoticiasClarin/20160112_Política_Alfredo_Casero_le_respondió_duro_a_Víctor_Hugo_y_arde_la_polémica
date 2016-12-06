@@ -1,0 +1,19 @@
+
+La pelea entre Víctor Hugo Morales y Alfredo Casero sumó en las últimas horas un nuevo capítulo. Tras ser despedido ayer de Radio Continental, el periodista y el actor se cruzaron nuevamente y alimentaron su pelea mediática.Tras enterarse de la desvinculación de VH de Radio Continental, Casero escribió en su cuenta de la red social Twitter que el periodista "se vaya a vivir a la villa 31", haciendo referencia a la polémica declaración de Morales, que en septiembre de 2014 había afirmado que "se vive bien en las villas y la gente las elige".
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+
+ "Lo único que haría sería preguntarme qué haría yo peleándome con una persona que tiene una opinión distinta, que creo que es débil en sí misma", dijo VH al ser consultado sobre la declaración de Casero. Y hoy, en el programa "La mesa está lista", de Canal 13, el actor respondió fiel a su estilo.Leé también: Alfredo Casero: "A Víctor Hugo le pagan por hablar boludeces" "Esta es mi opinión débil, pelotudo", dijo, visiblemente enojado, y exhibiendo su documento nacional de identidad. "No me olvido de vos, Víctor Hugo, aplaudiendo a Maduro por cagar a palos a los estudiantes en Táchira", retrucó.Leé también: Víctor Hugo: "Se vive bien en las villas y la gente la elige" "Es un plomo hablar de Víctor Hugo. Él está muy cerca del cine Gaumont y es una persona que me produce esa angustia de no poder decirle a la gente las cosas como son. Pese a que no tuve encontronazos con él personalmente, lo tomo con el humor ácido y horrible que tiene un cómico. No hay ningún tabú en la libertad de expresión, a menos que utilices plata del Estado para hacer propaganda para un Gobierno. Es plata mal gastada y creo que hay mucha otra gente que tiene que dar la cara y decir exactamente cuánta guita ganó", cerró el actor.se pasaron hablando mierdas y mintiendo, por eso que vhm, se vaya a vivr a la villa 31,SE VA A PARIS...le habian prometido una embajada. jua— Alfredo Angel Casero (@alfredocasero1) enero 11, 2016

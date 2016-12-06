@@ -1,0 +1,64 @@
+
+"Es la marca de seguridad de un billete". "Los que no les gusta el logo del Bicentenario son los mismos que les gustaba la Casa Rosada telo fucsia. Buen gusto 0". "El logo del Bicentenario parece el quinto chacra". Y así, se multiplican en Twitter las diversas interpretaciones de lo que algunos creen que es o significa el logo del Bicentenario que presentó ayer Macri en las redes sociales. Y en ese mismo ámbito, la gente salió a responder. Mirá también: Bicentenario: Macri presentó el logo oficial de las celebraciones  está bueno el logo nuevo del bicentenario. igual, aflojen con los degradados!— mariana mactas (@mamactas) May 26, 2016
+
+De que se están quejando ahora? Del logo del bicentenario? Amo sus prioridades de mierda.— Carolo (@LaFleur_) May 26, 2016
+
+laburé en el estudio que diseñó el logo del bicentenario de mayo. el nuevo logo es una copia devaluada y FEA.— Dianita (@ultimaenlafila) May 26, 2016
+
+EL LOGO DEL Bicentenario ES DIGNO DE ESO QUE ELLOS LLAMAN PARTIDO, PERO ES UN SLOGAN PEDORRO.— 194ENAÑOSGORILA (@LorenadeMerce) May 26, 2016
+
+El logo del Bicentenario de la Independencia es muy Lollipop— Leonardo (@LeoCarrasco__) May 26, 2016
+ Y el humor reina en Twitter, más allá de la "grieta": Al logo del bicentenario parece que lo dibuje yo con las tetas.— Sofía (@ssofiapaula) May 26, 2016
+
+ASÍ SE CREÓ EL NUEVO LOGO DEL BICENTENARIO pic.twitter.com/77GnZrBRit— El Malaguero (@ElMalaguero) May 26, 2016
+ Otros, hasta se quejaron de las "quejas" sobre el logo: 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/namirita/status/735821525564153856",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73582152556415385")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Holaaa, acá es la cola para quejarse del logo del bicentenario? Si, acomodate lo pelotudo y espera ahí— Lucas Veloz (@VelozLucas) May 26, 2016
+ Representa "una escarapela con un sol brillante en su centro", explicó el presidente en su mensaje publicado a la medianoche junto al posteo del diseño. Pero en Twitter ese "sol brillante" se interpretó como una ausencia del sol en el dibujo, lo que dio lugar a que llenen en espacio con un personaje que resultó recurrente:  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/OrtizManu_/status/735840349076262912",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73584034907626291")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/muyliebre/status/735836287324815360",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73583628732481536")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Pero, finalmente, también hubo un lugar para un tuitero conciliador: Me gusta el logo del Bicentenario, también me gustaba el de 2010, y no creo que todo deba ser una batalla tonta. pic.twitter.com/lzjkgNx4c6— Sebastián Katz (@sebakatz) May 26, 2016
+

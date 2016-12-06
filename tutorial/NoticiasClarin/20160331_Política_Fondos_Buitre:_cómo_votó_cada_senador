@@ -1,0 +1,70 @@
+
+La votación en el Senado de la ley para poder salir del default, sirvió para ver el rotundo apoyo parlamentario de las diferentes fuerzas en la Cámara, pero también dejó expuestas las diferencias dentro del bloque del Frente para la Victoria. 
+
+
+El resultado de la votación fue de 54 votos a favor, 16 negativos, ninguna absetención y una ausencia.
+
+
+
+
+
+var act_797 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_797 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_797.setTitle('El resultado de la votaci&oacute;n fue de 54 votos a favor, 16 negativos, ninguna absetenci&oacute;n y una&nbsp;ausencia.');
+act_797.setSubtitle('FONDOS BUITRE'); 
+act_797.setLinkBack('http://www.clarin.com/politica/Fondos-Buitre-voto-senador_0_1550245149.html');
+act_797.setDescription('A las 0:54 se realiz&oacute; la votaci&oacute;n donde&nbsp;26 senadores del FpV lo hicieron&nbsp;afirmativamente, lo que permite al gobierno de Macri avanzar hacia la salida del default. El detalle.');
+act_797.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Fondos-Buitre-voto-senador_0_1550245149.html');
+
+var showShareBarUI_params_797=
+{ 
+containerID: 'shareQuote_797',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_797,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_797
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_797);
+  Juan Manuel Abal Medina y Miguel Pichetto, sentados uno al lado del otro en el recinto, encarnan los dos bandos: el núcleo duro del kirchnerismo y el sector dialoguista.  Abal Medina fue uno de los 16 senadores que votó en contra de la iniciativa del oficialismo y aunque sostuvo que es necesario salir del default, expresó sus dudas acerca de "la sustentabilidad jurídica del acuerdo".
+
+Al inicio de la sesión, la senadora María Esther Labado, parafraseó a Julio Cobos y adelantó su "voto no positivo". Al igual que la camporista Anabel Fernández Sagasti, legisladora por Mendoza. Leé también: Más de la mitad del bloque del FpV a favor del oficialismo El resto del bloque del FpV que votaron en contra son: Eduardo Aguilar y María Inés Pilatti Vergara (Chaco); Hilda Aguirre y Mirtha Luna, (La Rioja); Ana Claudia Almirón (Corrientes); Marcelo Fuentes (Neuquén); Silvina García Larruburu (Río Negro); Ruperto Godoy (San Juan); Nancy González y Juan Pais (Chubut); Daniel Pérsico (San Luis); y María de los Ángeles Sacnun (Santa Fe). Otro que expresó su rotundo rechazo fue el senador Fernando "Pino" Solanas, aunque no pudo votar en contra debido a que se fue del recinto rumbo a Ezeiza por un viaje previsto. La única ausente con aviso fue la rionegrina Magdalena Odarda, por licencia médica. Pichetto, presidente del bloque del FpV, aportó su respaldo al acuerdo dentro y fuera del recinto, como cuando intervino en el Congreso del PJ y se ganó algunos gritos en contra por parte de sus "compañeros". Ayer, el rionegrino fue uno de los 26 votos afirmativos y que junto a la presión de los gobernadores logró que lo siguieran  Liliana Fellner (Jujuy) y Graciela De la Rosa (Formosa), quienes hasta el martes iban a rechazar el proyecto. También acompañaron la sanción de la norma, entre otros, Omar Perotti (Santa Fe), Rodolfo Urtubey (Salta), Gerardo Zamora (Santiago del Estero), José Alperovich (Tucumán), Salvador Cabral (Misiones), María Laura Leguizamón (Buenos Aires) y Pedro Guastavino (Entre Ríos) Otro de los que llamó la atención fue Carlos Saúl Menem, quien durante las 13 sesiones de 2015 estuvo ausente, pero que ayer presenció toda sesión, no se anotó en la lista de oradores, pero votó a favor.

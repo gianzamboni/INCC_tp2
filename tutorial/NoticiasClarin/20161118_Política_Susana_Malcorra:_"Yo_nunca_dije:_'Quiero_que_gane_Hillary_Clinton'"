@@ -1,0 +1,20 @@
+
+"La Argentina expresó su posición favorable respecto de una visión del mundo. Yo nunca dije: 'Quiero que gane Hillary Clinton'. (...). Uno mide valores con los que se compara. Y vuelvo a decir: es lo que dijo prácticamente todo el mundo". 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_i3d2qs9g",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_i3d2qs9g"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_i3d2qs9g").after(scriptEl);
+ Con esa respuesta, la canciller Susana Malcorra buscó reacomodarse ante las declaraciones favorables que había tenido para con la candidata demócrata en la previa de las elecciones, comicios que finalmente ganaría el republicano Donald Trump. En ese sentido, Malcorra —entrevistada en Código Político (Todo Noticias)— planteó: "El mundo, no la Argentina, no el Gobierno argentino, había hecho una evaluación de que un modelo de un gobierno cerrado, mirando hacia adentro, construyendo barreras y muros no era lo ideal para el mundo; si algo ha pasado es que estábamos muy acompañados en esa lectura y no era una aseveración sobre Trump o Clinton". La diplomática sostuvo entonces que "tendremos que adaptarnos", y que se trata de "un presidente electo que nos parecía que no era el ideal, pero ahora hay que trabajar". Siguió: "Hay que desideologizar las relaciones exteriores y este es el mejor ejemplo: (Trump) tiene una lectura que no es la más afín que la que nosotros tenemos, pero que vamos a trabajar sin lugar a dudas". Malcorra también definió como positivo que tanto Trump como Macri se conocieran previamente: "Ellos se conocen y en el estilo que él tiene de liderazgo (por Trump) es un factor importante". Y agregó que ambos, telefónicamente, tuvieron "una conversación muy coloquial". Cerró: "Trump es muy especial, tiene una personalidad muy especial; algunos dicen que el sistema va a ser lo suficientemente fuerte para contener esa personalidad. Yo no lo sé; creo que es muy inteligente, uno no llega donde llegó siendo tonto. Creo que está tomando noción de la envergadura que tiene entre manos".

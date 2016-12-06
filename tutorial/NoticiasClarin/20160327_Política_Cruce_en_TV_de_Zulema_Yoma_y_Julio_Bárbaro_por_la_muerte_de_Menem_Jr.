@@ -1,0 +1,18 @@
+
+La ex primera dama, Zulema Yoma, llamó por teléfono al programa La Noche de Mirtha para increpar al aire al politólogo e histórico dirigente peronista Julio Bárbaro, que estaba sentado en la mesa como invitado. Lo hizo luego de que éste opinara que la muerte de Carlos Menem Junior, quien falleció en 1995 al caerse el helicóptero en el que viajaba, había sido un accidente. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Fue sobre el final de la emisión por El Trece cuando Yoma se comunicó, y tras saludar a todos, explicó que quería hacerle una pregunta a Bárbaro: “¿A qué se debe que contesta con tanta seguridad con respecto a Carlos Menem, que fue un accidente? ¿Cómo lo sabe señor Julio?", comenzó. Incómodo ante la situación, Bárbaro empezó a aclarar: "Me pidieron una opinión sobre el hecho y dije que la opinión que tengo es que fue un accidente. Es solamente una opinión, no asevero nada ni tengo elementos". Mirá también: Zulema: "Cristina me dijo que lo de Carlitos fue un atentado, se la puede citar a declarar" Rápidamente fue interrumpido por Yoma, quien molesta le sugirió: “¿No le parece señor Julio que se tendría que asesorar un poquito más antes de poner en riesgo una causa tan delicada y a una madre que lleva 21 años pidiendo justicia? Y usted responde con tanta seguridad al respecto, como si supiera y conociera la causa de punta a punta”. Y agregó: "Tengo las pericias de Gendarmeria contundentes en mi casa, usted no puede hablar de esa manera. Una persona como usted, conocedor de todo, no puede hablar así, confunde a la gente". Por su parte, tratando de cerrar el tema, Bárbaro indicó: “Bueno, si confundo a la gente le pido perdón pero esa es mi opinión desde hace mucho tiempo". Mirá también: Menem Jr.: Le piden a Macri que releve a Menem del secreto de Estado Pero la ex mujer del presidente Menem continuó y llevó el tema al ámbito político: “Usted está en contra de Carlos Menem y puede ser, yo no sé qué dirá Menem, si dirá la verdad. La verdad la tengo yo, yo conozco lo que pasó en el gobierno de Carlos Menem, yo conozco a los políticos cómo se manejan con los poderes ocultos que existen y a qué intereses responden”. Y cerró: “Con el mayor de los respetos, don Julio, cuando se exprese por la causa de mi hijo, por favor, queda a su disposición el peritaje de Gendarmería que es contundente”. En ese momento, la propia conductora intervino en la charla para preguntarle a la ex mujer de Menem si no le parecía que el ex presidente debería “hacernos saber de quién se sospecha, quiénes fueron los autores”. A lo que Yoma, luego de aclarar que ella se maneja “con la verdad”, indicó: “Si Menem tapó el atentado y no lo quiere decir es cosa de Menem, él lo sabe muy bien, pero qué poderes ocultos hay detrás de él...". Mirá también: "Me pesa la palabra amante, fui la compañera de Néstor Kirchner por 10 años" Y volviendo a dirigirse a Bárbaro, quien continuaba remarcando que sólo era su opinión, afirmó:  “Sigue manteniendo su teoría con una irresponsabilidad muy grande. Si yo le digo que tengo las pericias y que el juez no las quiere aceptar, no es problema mío. No sé a qué intereses responde”. Y luego confesó: “Menem me hablaba muy mal de usted y yo siempre lo defendí”. Zulema en ningún momento mencionó quién cree ella que mató a su hijo, pero volvió a sostener que la muerte de Carlitos fue “el tercer atentado en Argentina”, después del perpetrado contra la Embajada de Israel y la voladura de la AMIA.

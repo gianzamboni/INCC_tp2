@@ -1,0 +1,17 @@
+
+Una adolescente de 13 años fue golpeada de manera brutal por unos 20 compañeros en el patio de un colegio de Moreno. La violenta agresión, la cual estuvo planificada en las redes sociales y hasta los preceptores estaban al tanto, se dio luego de que la chica, llamada Blanca, publicara en su Facebook un mensaje sobre un compañero que había fallecido el día anterior.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

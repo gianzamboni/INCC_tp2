@@ -1,0 +1,70 @@
+
+Sergio Rubin   El presidente del Episcopado, monseñor José María Arancedo, consideró que el Papa Francisco “es coherente con lo que prédica y con la lógica del Evangelio” al recibir próximamente a la presidenta de Madres de Plaza de Mayo, una severa crítica de la Iglesia y del entonces cardenal Jorge Bergoglio por su papel durante la última dictadura militar.
+
+Mirá también: Confirman que Hebe de Bonafini visitará al Papa Francisco 
+
+
+Arancedo dijo, no obstante, “comprender a las personas que critican (la decisión del Papa) porque “Bonafini estuvo en la vereda de enfrente”,
+
+
+
+
+
+var act_2f0 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_2f0 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_2f0.setTitle('Arancedo dijo, no obstante, “comprender a las personas que critican (la decisión del Papa) porque “Bonafini estuvo en la vereda de enfrente”,');
+act_2f0.setSubtitle('EL VIAJE DE LA DIRIGENTE AL VATICANO'); 
+act_2f0.setLinkBack('http://www.clarin.com/politica/Iglesia-Papa-Bonafini-Ano-misericordia_0_1575442539.html');
+act_2f0.setDescription('Arancedo, presidente del Episcopado,&nbsp;consider&oacute; que Francisco &ldquo;es coherente con la pr&eacute;dica y la l&oacute;gica del Evangelio&rdquo; en favor del perd&oacute;n.');
+act_2f0.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Iglesia-Papa-Bonafini-Ano-misericordia_0_1575442539.html');
+
+var showShareBarUI_params_2f0=
+{ 
+containerID: 'shareQuote_2f0',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_2f0,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_2f0
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_2f0);
+ Mirá también: Ultimo momento: ¿el Papa recibe a Bonafini? Pero señaló que debe verse la actitud de Francisco como “un gesto hacia quien no piensa igual en el Año de la Misericordia, aunque no para que piense igual que él”. Mirá también: Hebe de Bonafini: "Hace mucho tiempo que tengo una conversación fluida" con el Papa “Para un cristiano, Dios es padre de todos y cuando uno recibe a otro, aunque esté en la vereda de enfrente, recibe a un hermano”, afirmó el presidente del Episcopado ante una pregunta tras presentar este jueves en rueda de prensa el documento de los obispos sobre el Bicentenario de la Independencia. Mirá también: Marcos Peña criticó a Hebe de Bonafini, pero defendió que la reciba el Papa Para Arancedo, “el gesto de Francisco es coherente con lo que ha predicado”, ya que “habló del encuentro, de la reconciliación”, además de que “hay que entenderlo en la lógica del Evangelio, que no significa unificar a partir de lo diverso, pero tampoco hacer de lo diverso un muro de separación”. Mirá también: Sueños Compartidos: mañana declara un ex titular de la AGN Finalmente, recordó que Juan Pablo II “fue a visitar a quien lo quiso matar y le preguntó: ¿por qué me has querido matar si soy tu hermano?”.

@@ -1,0 +1,136 @@
+
+El ex secretario de Obras Públicas José López declaró durante dos horas ante el juez Julián Ercolini en la causa que investiga el manejo de la obra pública. Al igual que había hecho este lunes la ex presidenta Cristina Kirchner, pidió que se realice una auditoría integral entre 2003 y 2015 y reclamó que sean citados los representantes legales de las 36 empresas con mayores contratos en el rubro, a las que nombró una por una. Allí aparecen Techint, Electroingeniería, IECSA, Corporación América, ESUCO, Odebrecht, Austral Construcciones, entre otras. López quiere que declaren los responsables de esas firmas para que digan si alguna vez él mismo les dijo que no se presenten a una licitación, si organizó alguna reunión para arreglar una licitación o si solicitó algún retorno. Hasta se ofreció a un careo.  En su declaración, a la que accedió Clarín, López también reclamó que sean citados a declarar el actual titular de Vialidad Nacional, Javier Iguacel, y el ministro de Transporte Guillermo Dietrich. En ese momento aportó dos notas periodísticas publicadas en los diarios Clarín y Popular con declaraciones recientes de los funcionarios.  
+
+
+López pidió careos con empresarios para que digan si les pidió "retorno o entrega de alguna suma de dinero a cambio de la adjudicación de alguna obra"
+
+
+
+
+
+var act_2a5 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_2a5 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_2a5.setTitle('López pidió careos con empresarios para que digan si les pidió&nbsp;"retorno o entrega de alguna suma de dinero a cambio de la adjudicación de alguna obra"');
+act_2a5.setSubtitle('Corrupción K'); 
+act_2a5.setLinkBack('http://www.clarin.com/politica/Jose-Lopez-Tribunales-Cristina-Vido_0_1680431952.html');
+act_2a5.setDescription('El ex secretario declaró en la causa que investiga un plan para favorecer a Lázaro Báez.');
+act_2a5.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Jose-Lopez-Tribunales-Cristina-Vido_0_1680431952.html');
+
+var showShareBarUI_params_2a5=
+{ 
+containerID: 'shareQuote_2a5',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_2a5,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_2a5
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_2a5);
+ También mencionó al actual ministro del Interior Rogelio Frigerio, quien según los dichos de López, había elogiado el Plan Estratégico Territorial (PET) que dependía de la secretaría de Obras Públicas. 
+
+López llegó antes de las 9 a los tribunales federales de Comodoro Py en medio de un fuerte operativo de seguridad y declaró ante el juez Ercolini por la supuesta existencia de un plan para favorecer con obra pública al titular de Austral Construcciones, quien ayer negó los cargos y pidió su sobreseimiento. Su declaración arrancó recién a las 11:05 y terminó alrededor de las 12:30. López estuvo acompañado de sus dos abogados, Diego Sánchez y Fernando García. Y además participaron de la audiencia el fiscal Gerardo Pollicita y sus secretarios.  Mirá también: Báez denunció al juez Casanello por investigar a sus hijos En el primer tramo de la declaración, el ex secretario explicó el funcionamiento de la Secretaría de Obras Públicas y buscó deslindar responsabilidades en otros organismos: "No estaba en el ámbito de la competencia de la Secretaría auditar a Vialidad Nacional". Y destacó que ese organismo tenía autonomía y autarquía. En ese contexto, aseguró que durante su gestión se "respetaron los precios tope" en las licitaciones más importantes. "Este sistema resultó exitoso pues se aplicó en las dos licitaciones de mayor monto que realizó la Secretaría", dijo, en alusión a las represas del río de Santa Cruz y de Chihuido.   
+
+
+El ex secretario K reclamó que los empresarios declaren si "le indicó a alguno de ellos que no se presentaran en alguna licitación" o si organizó "alguna mesa o reunión para arreglar alguna licitación"
+
+
+
+
+
+var act_2f4 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_2f4 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_2f4.setTitle('El ex secretario K reclamó que los empresarios declaren si "le indicó a alguno de ellos que no se presentaran en alguna licitación" o si organizó "alguna mesa o reunión para arreglar alguna licitación"');
+act_2f4.setSubtitle('Corrupción K'); 
+act_2f4.setLinkBack('http://www.clarin.com/politica/Jose-Lopez-Tribunales-Cristina-Vido_0_1680431952.html');
+act_2f4.setDescription('El ex secretario declaró en la causa que investiga un plan para favorecer a Lázaro Báez.');
+act_2f4.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Jose-Lopez-Tribunales-Cristina-Vido_0_1680431952.html');
+
+var showShareBarUI_params_2f4=
+{ 
+containerID: 'shareQuote_2f4',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_2f4,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_2f4
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_2f4);
+ El de hoy fue el cuarto turno de indagatorias. Esta semana ya pasaron por el cuarto piso de Comodoro Py la ex presidenta Crisitina Kirchner, el ex ministro Julio De Vido y el empresario Lázaro Báez. Todos presentaron escritos y se negaron a contestar preguntas. López permanece detenido en el penal de Ezeiza, desde su captura en un convento de General Rodríguez, donde trató de esconder bolsos con casi 9 millones de dólares.  Mirá también: Lázaro no se despegó del libreto escrito por la viuda de su amigo

@@ -1,0 +1,18 @@
+
+Es una mañana nublada en el Parque Calilegua, el bosque parece despertarse con el alboroto de las aves, y el yaguareté se pasea sigiloso cerca a una casa. El felino detiene su mirada ante la cámara, sabe que lo están filmando. Sus movimientos son lentos, parece buscar comida. La persona que graba, ante semejante espectáculo, incrédulo, por momentos le tiembla el pulso. Y no es para menos, son pocos los registros que se tienen del felino más grande de América en su estado natural. Mirá también: El paseo del Yaguareté con sus cachorros El video, que dura 3:43 minutos, fue grabado el lunes por el guardaparques Nicolás Ferrari, a poco metros de su vivienda, en la seccional Mesada de las Colmenas, una área de uso recreativo del Parque Calilegua, en la provincia de Jujuy. Mirá también: Cazó a un yaguareté en Santiago del Estero y ni siquiera le pusieron una multa “Sentí un ruido yo, estaba cortando leña en el pajonal y na... iba a saber yo que estaba ahí”, dice Ferrari en el video. Por lo que dice una mujer en el mismo, "es chico",  parece ser un felino joven.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Lo sorprendente de este caso es que el avistaje del yaguaraté es muy poco común. En Colombia o México, por ejemplo, los conservacionistas dejan cámaras escondidas en el bosque para poder verlo en su estado natural. Mirá también: Para salvar la especie, le buscan novio a una yaguareté Marcelo Gutiérrez, responsable del uso público del Parque Nacional Calilegua, resaltó la importancia del avistamiento. “Hay escasos registro fílmicos y fotográficos de ellos, este es el tercero”, dijo en el programa 'La mejor mañana' de Jujuy. Y agregó: “Los Parques Nacionales se crearon para conservar muestras representativas del gran mosaico ambiental que posee Argentina. En ellos la vida en todas sus expresiones se desarrolla naturalmente. Los Parques Nacionales no son zoológicos, a veces es posible observar fauna, otras veces no”. Mirá también: Un militar desfiló con piel de Yaguareté y lo escracharon por Facebook El yaguareté puede pesar entre 70 y 130 kilos y medir desde el lomo al suelo unos 80 centímetros. La especie se encuentra en peligro crítico de extinción: en toda la Argentina quedan menos de 250. Por eso, su caza está totalmente prohibida a través de leyes provinciales (incluida una de Santiago del Estero) y nacionales. Además, fue declarado Monumento Natural Nacional, lo que le da protección absoluta que se considera inviolable.

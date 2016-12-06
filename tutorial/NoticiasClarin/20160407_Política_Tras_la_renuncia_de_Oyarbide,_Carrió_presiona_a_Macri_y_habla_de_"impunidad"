@@ -1,0 +1,35 @@
+
+La diputada nacional de Cambiemos Elisa Carrió, una de las principales aliadas de Mauricio Macri, reaccionó con dureza luego de que se difundiera que el juez federal Norberto Oyarbide renunciará a su cargo y que esa dimisión voluntaria será aceptada por el Poder Ejecutivo. En una frase difundida en su cuenta de Twitter, Carrió dijo: "La renuncia de Oyarbide, el juez más corrupto de la Argentina, prueba su acuerdo con (Daniel) Angelici. Veremos que hace el presidente. Esto se llama impunidad". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/elisacarrio/status/718160276625993728",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71816027662599372")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Desde hace varias semanas, Carrió sostiene en público que Angelici, actual presidente de Boca Juniors y amigo personal de Macri, es un "operador" del Gobierno en los tribunales federales y denuncia la vinculación de Angelici con el negocio del juego. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/elisacarrio/status/717886666300657664",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71788666630065766")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ La reacción de Carrió llegó pocos minutos después de que se conociera que Oyarbide entregó su renuncia esta tarde al ministro de Justicia, Germán Garavano. Desde la Casa Rosada, admitieron que la intención de Macri es aceptar la renuncia del juez federal, uno de los más cuestionados del fuero y con varias acusaciones en su contra en el Consejo de la Magistratura. Mirá también: Renunció Oyarbide, el más cuestionado de los jueces federales El mes pasado, Carrió declaró ante el juez Sebastián Cassanello que Angelici operaba en Comodoro Py. "Estoy harta", dijo en su momento. Después de esa declaración, Carrió fue recibida por Macri en la Quinta de Olivos y terminó moderando sus críticas. Mirá también: Carrió declaró en la Justicia por sus denuncias contra Angelici: “Estoy harta”
+

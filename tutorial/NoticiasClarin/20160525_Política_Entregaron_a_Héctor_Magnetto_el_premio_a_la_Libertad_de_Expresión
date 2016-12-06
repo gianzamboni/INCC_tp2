@@ -1,0 +1,136 @@
+
+En una gala en el Museo de las Noticias de Washington, Héctor Magnetto, el CEO del Grupo Clarín, fue reconocido anoche por su compromiso en defensa de la libertad de expresión por el Freedom House, una organización que lucha por las libertades y los derechos humanos en el mundo. Este galardón a Magnetto lo habían recibido, entre otros, Vaclav Havel, Winston Churchill, el Dalai Lama y Pablo Casals, en la historia de la organización, que celebró 75 años. El reconocimiento fue otorgado por el rol que jugaron Magnetto y el Grupo que dirige en el ejercicio de la libertad de prensa en la Argentina durante la última década, resaltaron los organizadores. El premio a la Libertad de Expresión fue entregado por Paula Dobriansky, subsecretaria de Asuntos Globales de Estados Unidos durante casi diez años. La ex funcionaria resaltó que Magnetto “no bajó los brazos, siguió adelante”, a pesar de las restricciones del gobierno kirchnerista y “fue un ejemplo para otros países de América latina”. 
+
+ También fueron galardonados la escritora saudita Hala Al Dosari por su defensa de los derechos de la mujer y la diputada iraquí Vian Dakhil, única representante de la minoría étnica y religiosa yazidí en el parlamento iraquí. El senador demócrata estadounidense Richard Durbin también fue reconocido con el premio Liderazgo y la editorial alemana Axel Springer, con el premio Corporativo. 
+
+
+La libertad de expresión es un derecho básico y un freno a los totalitarismos. Es una libertad primordial porque nos permite disentir y cambiar
+
+
+
+
+
+var act_4cb = new gigya.socialize.UserAction();
+
+var emailBodyCustom_4cb = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_4cb.setTitle('La libertad de expresión es un derecho básico y un freno a los totalitarismos. Es una libertad primordial porque nos permite disentir y cambiar');
+act_4cb.setSubtitle('Distinción al CEO del Grupo Clarín'); 
+act_4cb.setLinkBack('http://www.clarin.com/politica/Entregaron-Hector-Magnetto-Libertad-Expresion_0_1583241661.html');
+act_4cb.setDescription('Fue en Washington. La entidad destac&oacute; su defensa del periodismo independiente durante la &uacute;ltima d&eacute;cada.');
+act_4cb.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Entregaron-Hector-Magnetto-Libertad-Expresion_0_1583241661.html');
+
+var showShareBarUI_params_4cb=
+{ 
+containerID: 'shareQuote_4cb',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_4cb,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_4cb
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_4cb);
+ Ante una cena con más de 300 invitados, Magnetto agradeció el reconocimiento. Este es el discurso completo: “Hay muchas formas de agradecer este reconocimiento que me enorgullece y que quiero compartir con quienes trabajo todos los días. Mirá también la Fotogalería en HD “Pero sólo hay una forma de aceptarlo: entendiendo que es un reconocimiento a la libertad de expresión, que no es una libertad más. Es el sustento de las sociedades democráticas. “La libertad de expresión es un derecho básico y un freno a los totalitarismos. “Es una libertad primordial, porque nos permite cuestionar, disentir y cambiar. Por eso es la base de sociedades más abiertas y transparentes. Y la raíz de muchas otras libertades. “Sabemos, además, que es un valor que se construye día a día. Tenemos libertad de expresión cuando ejercemos la libertad de expresión. “A través de esta libertad, que también se materializa en los medios de comunicación, la gente hace oír sus ideales, sus quejas y sus frustraciones. Y el periodismo profesional es una herramienta para ayudar a expresarlos. “Nuestra pasión por el periodismo está potenciada hoy por la revolución digital y las redes sociales. “La tecnología está cambiando el modo de circulación de algo que es muy valioso para las personas: el conocimiento. Los medios tenemos más herramientas que nunca para investigar, aunque también tenemos nuevos desafíos que provocan incertidumbres y reacomodamientos. “La revolución tecnológica nos obliga a estar más activos, más cerca de la gente y aún más comprometidos con la libertad de expresión. “En la última década, la Argentina vivió un proyecto político que buscó perseguir la disidencia para concentrar el poder. Ese proyecto necesitaba silenciar las críticas y las denuncias. Por eso trató a los medios como enemigos, buscó asfixiarlos y desacreditarlos. “Los autoritarismos accionan de manera paradojal. En el nombre de la libertad de expresión atentan contra ella. Es un juego perverso que padecimos en mi país y que sigue asolando a otros de América Latina. 
+
+
+En la última década, la Argentina vivió un proyecto político que buscó perseguir la disidencia para concentrar el poder y silenciar las críticas
+
+
+
+
+
+var act_c9b = new gigya.socialize.UserAction();
+
+var emailBodyCustom_c9b = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_c9b.setTitle('En la última década, la Argentina vivió un proyecto político que buscó perseguir la disidencia para concentrar el poder y silenciar&nbsp;las críticas');
+act_c9b.setSubtitle('Distinción al CEO del Grupo Clarín'); 
+act_c9b.setLinkBack('http://www.clarin.com/politica/Entregaron-Hector-Magnetto-Libertad-Expresion_0_1583241661.html');
+act_c9b.setDescription('Fue en Washington. La entidad destac&oacute; su defensa del periodismo independiente durante la &uacute;ltima d&eacute;cada.');
+act_c9b.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Entregaron-Hector-Magnetto-Libertad-Expresion_0_1583241661.html');
+
+var showShareBarUI_params_c9b=
+{ 
+containerID: 'shareQuote_c9b',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_c9b,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_c9b
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_c9b);
+ “El anti-periodismo del poder sólo podía ser desenmascarado con las herramientas genuinas del periodismo. Con la búsqueda profesional de la verdad. Nosotros tratamos de responder con más periodismo. Y gran parte de la sociedad argentina se sintió representada por él. “Le dijimos que no a la sumisión que se nos trató de imponer y enfrentamos un durísimo acoso económico y judicial. Pero el ejercicio de la libertad editorial fue más fuerte que cualquier ataque y cualquier aparato de propaganda. “Como hombre de medios, tengo claro que todos los días tenemos que trabajar para hacer mejor las cosas. Y también, que si queremos seguir siendo lo que somos, no debemos aceptar que se nos diga qué decir ni cómo pensar. “Ese es también, en definitiva, mi compromiso. Con la organización que represento, con lo que elegimos hacer y con la sociedad de la que somos parte. “A ellos, y a ustedes, muchísimas gracias.” Mirá también: Debate en Washington sobre la libertad en las Américas Mirá también: Periodismo y libertad de prensa, ejes de un encuentro en EE.UU.

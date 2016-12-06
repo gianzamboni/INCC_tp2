@@ -1,0 +1,21 @@
+
+El youtuber inglés Daniel Jarvis, de 27 años, y otros tres bromistas del canal de YouTube Trollstation causaron pánico masivo durante una broma que hicieron el 5 de julio del año pasado en la National Portrait Gallery, el concurrido museo de Londres. No se les ocurrió mejor idea que realizar esa broma sólo una semana después de la matanza de casi 40 turistas en una playa de Túnez. Tras una larga lucha de sus abogados por mantenerlos en libertad, finalmente la Justicia del Reino Unido decidió ayer condenarlos a entre 4 y 5 meses de prisión.  
+
+ Los magistrados advirtieron que el sentido de humor de los youtubers está "deformado" y que tales prácticas, lejos de ser divertidas, provocaron una peligrosa estampida de los visitantes del museo, que corrieron por los pasillos creyendo que estaban en el medio del robo real de obras de arte. Las corridas y el susto pudieron haber afectado psicológica y físicamente a las víctimas de la broma."Fue un acto  grupal con un alto grado de planeamiento. Fue un domingo, cuando el museo estaba lleno de familias y niños", dijeron los jueces y agregaron que el agravamiento de la "ofensa" se da por el alto grado de violencia con el que los youtubers se dirigían a los asistentes, antes de gritar: "Es una broma". Mirá también: “Todavía no entendemos muy bien este fenómeno” Jarvis, junto a Endrit Ferizolli (20), Ebenezer Menzah (29) y Helder Gomes (23), ese mismo día fingieron otro robo y hasta un secuestro en el Tate Britain, en Milbank, centro de Londres. Los youtubers subieron los videos a su canal, que tiene más de 720.000 suscriptores, esa misma noche. Actualmente, el video tiene 2 millones de visitas. Mientras Jarvis fue llevado a la cárcel esposado, señaló a los fotógrafos de la prensa inglesa el número de celda que le asignaron. Quiere que sus seguidores le escriban: 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/S_saidB/status/732925216956026881",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73292521695602688")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ En ese episodio de 2015, los "bromistas" nunca tocaron las obras de arte reales. Llevaban en sus mochilas cuadros falsos y Ferizolli hizo sonar una alarma a través de un megáfono para hacer creer a los visitantes del museo que realmente habían descolgado los cuadros. Luego, tres de ellos se cubrieron sus rostros con las medias de nylon y sacaron las pinturas falsas de la National Portrait Gallery. Danh Van Le, que desde marzo de este años está cumpliendo una condena efectiva de 9 meses en prisión por otra broma con una bomba falsa, filmó todo a cara descubierta. Mirá también: Rubius, PewDiePie y otras celebridades de YouTube, juntas Pese a que los jueces apuntan a dejar en claro que este tipo de bromas no serán permitidas en Londres, la cuenta de Twitter de TrollStation, en un juego de palabras en inglés afirma que "pueden meternos en la cárcel, pero no detenernos": Can't believe it feds done us dirty😤they can lock locks but they can't stop clocks!🔓 see you soon bro #FreeDigiDan pic.twitter.com/KNTMgBYPvw— TrollStation (@TrollstationYT) March 17, 2016
+

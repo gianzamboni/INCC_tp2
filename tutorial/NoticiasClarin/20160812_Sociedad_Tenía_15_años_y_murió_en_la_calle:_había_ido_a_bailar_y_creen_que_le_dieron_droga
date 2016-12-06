@@ -1,0 +1,20 @@
+
+En la mañana del sábado, Rocío Ayelén Artigas, una adolescente de quince años, murió en la calle poco después de salir de un boliche del barrio de Villa del Parque, en la Capital Federal, por causas que aún no están claras.  Según el relato de Diego Artigas, padre de la menor fallecida, al canal de noticias Crónica, la chica había concurrido al boliche Loop, ubicado a metros de la esquina de avenida Beiró y avenida San Martín, con dos hermanas mayores, pero ellas se fueron del lugar antes que Rocío, que se retiró del boliche después, con un hombre, mayor de edad. Mirá también: Denuncia que cinco jóvenes la violaron en un departamento de Recoleta Según “lo que se comentó”, dijo el padre de la chica muerta, “esta persona le dio droga”. Tras permanecer un tiempo no determinado con ese hombre, Rocío se habría reunido con amigos en una vivienda. Allí, la chica comenzó a sentirse mal y quienes la acompañaban, “en lugar de asistirla, la sacaron a la calle”, señaló el padre de Rocío. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La menor fue encontrada por una vecina del barrio de Villa Pueyrredón en la esquina de Terrada y Griveo (a unas 17 cuadras del boliche Loop). La mujer le ofreció un vaso de agua, pero Rocío se desmayó y poco después murió. De nada sirvió la llegada de una unidad del SAME. Una versión indicaba esta mañana que la chica había consumido la droga sintética conocida como "cristal", una poderosa metanfetamina. "A mi hermana la drogaron", dijo por su parte Belén, una de sus hermanas, en declaraciones al canal de noticias C5N. Belén afirmó además que Rocío fue obligada a consumir y cargó contra un hombre llamado Walter, supuesto dueño de Loop, a quien Rocío habría visitado en su casa en la madrugada del sábado. La hermana de la chica muerta también advirtió que en Loop se permite la presencia de menores como su hermana. "Entran pibitas de trece años", definió.  La menor era madre de un bebé de once meses.  Su padre señaló anoche que la Justicia aún no le había entregado el cuerpo de su hija y que por ahora solo le habían informado que había muerto a causa de una hemorragia pulmonar, sin más detalles.
+
+ El hombre afirmó que él sabe y que le comunicó a la Justicia quién es el mayor que se fue del boliche con su hija. Y se pregunta por qué dejaron entrar a Rocío a un boliche para adultos. Mirá también: Patovicas atacaron "por error" a un joven, luego se disculparon y le ofrecieron entradas gratis Esta noche, a las 23, familiares y allegados a la chica convocan a una marcha de protesta frente al local nocturno. En la página de Facebook de Loop, desde alrededor de las 11 de la mañana de hoy, podía leerse un mensaje en el que se avisa que esta noche el boliche no abrirá "para evitar inconvenientes" y se expresa solidaridad con la familia de la víctima. A la vez, Ariel Rabalo, encargado de las relaciones públicas del local, también anunció en su perfil del Facebook la suspensión de las actividades de Loop esta noche, pero agrega: "Mucha indignación por todas las boludeces que se están hablando!". 

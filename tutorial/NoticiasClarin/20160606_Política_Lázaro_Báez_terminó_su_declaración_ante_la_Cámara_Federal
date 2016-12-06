@@ -1,0 +1,18 @@
+
+Lázaro Báez llegó a los tribunales federales de Retiro bien temprano, para declarar ante los jueces de la Cámara Federal e ingresó a la sala de audiencias, donde sólo estuvo 20 minutos. El empresario kirchnerista llegó alrededor de las 7.30, para la audiencia personal y privada, a su pedido, y que será antes de que resuelvan si confirman o no el procesamiento y la prisión preventiva dictadas en su contra por el juez Sebastián Casanello. Báez estuvo alrededor de 20 minutos ante los jueces de la Cámara Federal Martín Irurzun, Horacio Cattani y Eduardo Farah. La estrategia del zar de la obra pública, tal como lo adelantó Clarín, será apuntarle a la arbitrariedad del juez Casanello, en la investigación por lavado de dinero a través de "La ruta del dinero K". Los jueces, quienes controlan el trabajo de Casanello, recibieron al empresario, que llegó custodiado, con chaleco antibalas y acompañado de sus dos abogados, Daniel Rubinovich y Rafael Sal Lari. Ahora, la Cámara debe resolver el primer procesamiento dictado contra el empresario y su hijo Martín Báez.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/todonoticias/status/739797499666391040",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73979749966639104")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Báez fue arrestado por orden de Casanello el 5 de abril último en el aeródromo de San Fernando en la provincia de Buenos Aires y está alojado en el penal de Ezeiza donde se encuentra detenido. El empresario llevaría las pruebas de supuestas reuniones entre él, Casanello, Cristina Kirchner y otros ex funcionarios, donde se habría acordado el curso de la investigación. Leé también: Lázaro Báez retoma hoy su ofensiva para correr a Casanello: lo vinculará a Cristina Días atrás, Casanello emitió un comunicado oficial donde desmintió haber mantenido un vínculo con la ex presidenta. Por otra parte, los abogados de uno de los hijos de Lázaro Báez, Leandro, también le apuntarán a Casanello, por la supuesta inacción del magistrado, centrado en denuncia penal contra el juez de 2013 y que aún está bajo investigación por supuesto "encubrimiento" en la misma causa por lavado de activos. Los abogados de Leandro Báez, Santiago Viola y Claudia Balbín, presentarán por escrito sus argumentos ante la sala II de la Cámara Federal. Leé también: Con otro escrito, un hijo de Báez también apuntará contra el juez

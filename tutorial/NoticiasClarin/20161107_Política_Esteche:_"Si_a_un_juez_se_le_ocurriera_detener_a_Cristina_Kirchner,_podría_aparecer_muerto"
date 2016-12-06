@@ -1,0 +1,134 @@
+
+ El dirigente de la agrupación Quebracho Fernando Esteche defendió a Amado Boudou tras el acto de las CTA del viernes pasado, donde el ex vicepresidente fue bajado del palco principal. "Me parece impresentable ir a comer con Mirtha Legrand, no mostrarse con Boudou", dijo hoy Esteche quien está enrolado en el partido kirchnerista MILES al igual que el ex vice de Cristina Kirchner. Pero además, se refirió a una eventual detención de Cristina Kirchner. Ante la pregunta sobre qué podría pasar si la detienen a la ex Presidente, el dirigente K señaló: "Yo creo que es una cosa que no puede pasar. Cuando uno hace análisis político y proyecta, juega con todas las alternativas, pero es una alternativa que nos resistimos a…. No por un problema de voluntad, sino porque entendemos que como está el sistema político hoy es una variable casi insostenible. No lo soporta el sistema político", detalló. Y luego aventuró: "Y si algún juez, por autonomía relativa, por vocación individual de salir en algún medio, por ser más papistas que el Papa, se le ocurriera semejante cosa, yo creo que es un juez que inmediatamente sería sacado del juego. Hay conexiones y resortes que hacen que las cosas tengan que ser como…  ¿Y cómo sería sacado del juego?, preguntó el periodista de Radio Cooperativa. 
+
+
+"Podrían destituirlo, apartarlo de la causa, plantearle la incompetencia, podría aparecer muerto… Puede pasar cualquier cosa. La relación de poder es siniestra", dijo el polémico Fernando Esteche.
+
+
+
+
+
+var act_b21 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_b21 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_b21.setTitle('"Podrían destituirlo, apartarlo de la causa, plantearle la incompetencia, podría aparecer muerto… Puede pasar cualquier cosa. La relación de poder es siniestra", dijo el polémico Fernando Esteche.');
+act_b21.setSubtitle('Dirigente de MILES'); 
+act_b21.setLinkBack('http://www.clarin.com/politica/Esteche-impresentable-Mirtha-mostrarse-Boudou_0_1682831723.html');
+act_b21.setDescription('El aliado político de Boudou y D`Elía dijo que si un magistrado definiera la detención de la ex Presidenta "podrían destituirlo, apartarlo de la causa, plantearle la incompetencia, puede pasar cualquier cosa".');
+act_b21.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Esteche-impresentable-Mirtha-mostrarse-Boudou_0_1682831723.html');
+
+var showShareBarUI_params_b21=
+{ 
+containerID: 'shareQuote_b21',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_b21,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_b21
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_b21);
+ Y luego, el aliado político de Boudou y D'Elía señaló: "No cuesta nada. Así como ponen a través de sorteos muy curiosos siempre a los mismos jueces y a los mismos fiscales imputando a los mismos compañeros, de la misma manera los podrían sacar de juego si alguien se autonomiza y va más allá de lo que el poder político pretende".  "Los argumentos son inventados. Cualquier ariete del sistema político en la medida que se quiera automatizar y tenga el poder que esa automatización dañe la proyección y la construcción del poder es sacado del juego", abundó el referente de Quebracho. Luego, en declaraciones a AM 950 Belgrano, Esteche hizo una particular defensa sobre lo sucedido el viernes último en la Plaza de Mayo: "No me bajaron del palco, llegaron dos chiquitos comefacturas de Pablo Micheli que le pidieron a Boudou que se baje."    El secretario de acción política del partido Miles aseguró que "Pablo Micheli explicó que mandó a echar del palco a Boudou porque el ex vicepresidente lo había echado del velorio de Néstor Kirchner", aclaró. Mirá también: Rogelio Frigerio le pegó duro a Boudou por la foto en Plaza de Mayo "Micheli banalizó la situación, no tiene sindicato, ATE lo deplora y ha perdido el gremio", dijo al fustigar al dirigente gremial que participó, días atrás, del programa de Mirtha Legrand. Y apuntó contra la conductora de El Trece al decir que "Mirtha hace valoraciones políticas sobre gente que no conoce, por ejemplo hablar de mí sin conocerme". El jefe de la CTA Autónoma, Pablo Micheli, había criticado al ex vicepresidente Amado Boudou y a los otros miembros de la gestión kirchnerista que se colaron en el palco en Plaza de Mayo, detrás del líder sindical y de su colega Hugo Yasky, y advirtió que esos ex funcionarios procuraron así "lavarse la cara" para "evitar que la sociedad los termine juzgando y terminar presos". Mirá también: Fotos y otras imágenes de la degradación K Además, atribuyó a los ex integrantes de la administración anterior el anhelo de "deslegitimar" la marcha del viernes al emblemático espacio público, donde el también ex ministro de Economía y sus ex compañeros Luis D'Elía y Gabriel Mariotto, además del jefe de Quebracho, Fernando Esteche, recrearon "las patas en la fuente", postal peronista del 17 de octubre de 1945.Micheli, asimismo, aseguró que lo distancia de Boudou no sólo "un problema ideológico" sino "también un problema personal", al revelar que el multiprocesado ex vicepresidente lo "hizo echar del velorio" del ex presidente Néstor Kirchner en la Casa Rosada, donde el jefe de la CTA Autónoma intentaba "saludar a la viuda", por la ex primera mandataria Cristina Fernández. "Una cosa es que (Boudou) hubiera estado (ayer) en un palco secundario, porque habría sido otra historia; no me gusta pero tampoco puedo pedir una perimetral, no soy juez ni nada por el estilo. Y, cuando Yasky (afín al kirchnerismo) se percató de que él (por Boudou) estaba ahí (en el palco) y de que yo estaba pidiendo que se fuera, se puso muy mal también", resaltó Micheli. "Lo que hacen es venir a deslegitimar un reclamo justo, como es el que estamos haciendo", alertó Micheli, al referirse al pedido de las dos CTA de reapertura de paritarias, y agregó: "Estos tipos (durante la gestión kirchnerista) nos perseguían a nosotros y no nos escuchaban". 
+
+
+"Yo creo que Boudou no es inocente en lo que hace: venir a instalarse a mis espaldas, sin que yo lo vea en el palco. Bueno, inmediatamente, mis compañeros de la CTA Autónoma me dijeron que estaba y tuve un pequeño entredicho con Hugo Yasky (jefe de la CTA de los Argentinos)", relató Micheli.
+
+
+
+
+
+var act_3d4 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_3d4 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_3d4.setTitle('"Yo creo que Boudou no es inocente en lo que hace: venir a instalarse a mis espaldas, sin que yo lo vea en el palco. Bueno, inmediatamente, mis compañeros de la CTA Autónoma me dijeron que estaba y tuve un pequeño entredicho con Hugo Yasky (jefe de la CTA de los Argentinos)", relató Micheli.');
+act_3d4.setSubtitle('Dirigente de MILES'); 
+act_3d4.setLinkBack('http://www.clarin.com/politica/Esteche-impresentable-Mirtha-mostrarse-Boudou_0_1682831723.html');
+act_3d4.setDescription('El aliado político de Boudou y D`Elía dijo que si un magistrado definiera la detención de la ex Presidenta "podrían destituirlo, apartarlo de la causa, plantearle la incompetencia, puede pasar cualquier cosa".');
+act_3d4.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Esteche-impresentable-Mirtha-mostrarse-Boudou_0_1682831723.html');
+
+var showShareBarUI_params_3d4=
+{ 
+containerID: 'shareQuote_3d4',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_3d4,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_3d4
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_3d4);
+ El gremialista contó que Yasky "estaba de acuerdo con que (el ex vicepresidente) tenía que bajarse, pero nadie iba y se lo decía".Y completó: "Por eso, mis compañeros de la CTA (Autónoma) fueron y directamente le dijeron que se bajara porque, si no, yo me iba del palco. Entonces, el tipo (por Boudou) se tuvo que bajar. También, Esteche. Y los ex funcionarios (nacionales) kirchneristas fueron solidarios y se terminaron bajando del palco", relató el gremialista Micheli.

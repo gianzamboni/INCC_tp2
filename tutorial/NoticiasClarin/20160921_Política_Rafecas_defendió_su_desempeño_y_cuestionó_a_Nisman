@@ -1,0 +1,18 @@
+
+El juez federal Daniel Rafecas volvió a defender anoche su actuación ante la denuncia presenta por el fiscal Alberto Nisman en 2015, sobre el tratado con Irán por la causa AMIA, que fue impulsado por el kirchnerismo, al sostener que desestimó la acusación porque "entendí que no había una hipótesis delictiva". Para el magistrado, su decisión "fue técnica y jurídica".  Rafecas, entrevistado por Alejandro Fantino, explicó que "en una causa penal las pruebas deben estar relacionadas con un delito. Con una hipótesis de un delito" y que por considerar la ausencia de estos elementos desestimó la denuncia del fiscal, que comprometía seriamente a la ex presidenta y a un grupo de dirigentes. Cuatro días después de haber presentado la acusación, en enero de 2015, Nisman apareció muerto en su casa con un balazo en la cabeza. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Pero Rafecas no sólo dio sus explicaciones de por qué su decisión impidió que avance la acusación de Nisman, también sembró dudas sobre el desempeño del fiscal: "Esta denuncia que presenta Nisman, la presenta dos años después de la firma del acuerdo con Irán. Ya de por si, es llamativo", deslizó el magistrado.  Consultado por Fantino de por qué archivó la causa "en tiempo récord", el magistrado se defendió diciendo que él sólo tenía "tres días hábiles" para abrir una investigación o para desestimarla, porque eso "es lo que le marca el Código de Procedimientos".  El magistrado también se refirió a la solicitada que apareció el 7 de septiembre en los medios gráficos firmada por empresarios, políticos, artistas y periodistas donde pedían su remoción como juez por la "manifiesta inconducta" que tuvo en la denuncia que presentó contra Cristina Kirchner el fiscal Nisman. Para Rafecas, "el título no ha sido feliz. Fue casi una orden para el Consejo de la Magistratura". En otro tramo de la entrevista, el magistrado dijo no haber hablado "jamás" con Cristina Kirchner y que "jamás" recibió dinero para inclinar la balanza de la Justicia hacia un lado o el otro.  Rafecas también se refirió al caso López. Cuando Fantino le preguntó por qué no procesó al segundo de De Vido en el ministerio de Planificación en una causa anterior por enriquecimiento ilícito, el magistrado se defendió: "Lo habíamos peinado de atrás para adelante y de adelante para atrás pero de la única manera que podían encontrar a López con dinero mal habido era de esa forma", dijo en relación a los bolsos con 8.982.047 dólares, 153.610 euros y 159.114 pesos con los que fue sorprendido el ex funcionario K por la Policía en el convento de General Rodríguez la madrugada del 14 de junio. De la mañana a la noche y con el kirchnerismo lejos del poder, Rafecas comenzó a dar entrevistas periodísticas en los últimos días. "Yo me siento a gusto dando entrevistas y de alguna manera me vi obligado a hacerlo", expresó en relación a las criticas por su desempeño como magistrado, que volvieron a tomar fuerza a partir de la solicitada publicada en los medios pidiendo que se lo aparte de la Justicia. La aparición mediatica del juez Rafecas se da justo cuando la Corte Suprema de Justicia de la Nación declaró la competencia de la Justicia federal en la investigación del caso Nisman, dándole la razón al reclamo de la familia del fiscal de la causa AMIA. Esto indica que el expediente deberá volver a pasar a manos del juez federal Julián Ercolini y el fiscal Eduardo Taiano.

@@ -1,0 +1,127 @@
+
+ Después de que un grupo de turistas sacara a un delfín bebé del agua en Santa Teresita y la noticia recorriera el mundo,  una organización internacional  que trabaja por la defensa de los animales publicó en su cuenta de Facebook una situación similar pero con un final muy distinto.   En el  video publicado por Direct Action Everywhere muestra cómo decenas de delfines aparecieron repentinamente en la orilla del mar y varias personas acudieron al rescate.  El episodio ocurrió hace varios años, mientras los turistas tomaban sol en Arraial do Cabo, una playa ubicada a 140 kilómetros al norte de Río de Janeiro. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160221_0003 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160221_0003_3e3";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Delfines',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/21/VID/CLAVID20160221_0003/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Delfines_CLAVID20160221_0003_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160221_0003',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/21/VID/CLAVID20160221_0003/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Delfines_3_1526877300.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160221_0003.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160221_0003){
+            //getBBTStats_CLAVID20160221_0003();
+            varModIdReprod_CLAVID20160221_0003 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+El video, publicado por la organización activista  el 15 de febrero,  ya fue compartido más 200 mil veces. La polémica por el delfín que apareció muerto en la playa de Santa Teresita sumó la semana pasada un nuevo capítulo después de la aparición de un video  que mostró cómo el animal fue sacado del agua por un grupo de turistas para tomarse fotografías con él. Mirá también: Apareció el video del delfín que murió en la playa de Santa Teresita El delfín quedó tirado en la orilla, sin vida.  Las imágenes causaron una gran conmoción entre los usuarios de Internet. Leé también: La muerte del delfín en Santa Teresita, en medios de todo el mundo

@@ -1,0 +1,82 @@
+
+El muy conocido youtuber Germán Garmendia se mueve con custodia y sus fans lo acosan todo el tiempo. Cuando visitó la última Feria del Libro de Buenos Aires habilitaron un pabellón solamente para él. Su video más visto en YouTube, “Los Hermanos”, que está online desde febrero de 2013, acumuló 60,5 millones de visualizaciones. Impresionante, ¿no? Sin embargo, el video “Tarta de manzana horneada paso a paso”, de 62 segundos de duración, con algunas semanas online, está a punto de igualar esa cifra en Facebook. Cerca de concluir su segundo mandato como presidente de EE.UU., Barack Obama alcanzó los 48,7 millones de seguidores en Facebook. Todo un número. Pero Tasty, una página dedicada íntegramente a los videos de recetas rápidas y que todavía no tiene diez meses de existencia, ya sumó 56,4 millones de adhesiones en la misma red social. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+¿Hacen falta más datos para poner en evidencia el boom de los videos breves con recetas de cocina? Hay. Tubular, una empresa que analiza contenidos en video en todas las plataformas y en todo el mundo, señala que en marzo de este año, entre los cinco emisores de videos con más audiencia global, dos fueron canales dedicados a los clips de recetas. El fenómeno tiene a Facebook como principal escenario. Allí es realmente fácil encontrar videos de este tipo que superan las 20 millones de reproducciones. Y hay perlas que rompen todos los esquemas, como “Rosas de manzana al horno” (Baked Apple Roses), un clip de 74 segundos que muestra cómo preparar un postre sencillo y que ya superó los 267 millones de reproducciones. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Los porqués profundos de éxitos como este suelen ser un misterio. Es verdad. Pero también parece cierto que un manual de instrucciones para producir estas “recetas-videoclips” sería breve. El patrón que se repite es el de videos que rondan el minuto de duración, una cámara cenital casi siempre fija sobre los alimentos en preparación, una combinación de imágenes aceleradas y de efecto stop-motion, ingredientes e instrucciones sobreimpresos (casi siempre en inglés) y una música ad hoc. Sin embargo, podrían estar funcionando mecanismos no tan evidente en la estructura de estos clips. En un reciente artículo publicado por The New Yorker, Ze Frank, ejecutivo de BuzzFeed, la empresa detrás de Tasty, declaró que la “tensión dramática” es clave en estos videos. E indicó que las imágenes son montadas para transmitir un “conciso arco narrativo”, construido para desembocar en el momento “Oh, yes!”, expresión que cierra los videos de Tasty. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La fórmula de los clips fue moldeada para encajar en algunas particularidades de Facebook. Allí los videos comienzan a reproducirse de modo automático, pero sin audio; por eso la ausencia de instrucciones orales. Steven Kydd, cofundador de Tastemade (15,7 millones de suscriptores en Facebook), le explicó al The Wall Street Journal que utilizan textos sobreimpresos para que el usuario pueda identificar rápidamente la receta y seguirla. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+A la vez, hoy los usuarios de equipos móviles son prioritarios. Es entonces necesaria la brevedad y, sigue explicando Kydd, imágenes que en la pantalla del celular resulten thumb-stoppers (“inmovilizadoras de pulgares”), es decir, que hagan detener el recorrido que hacen con ese dedo los usuarios de smartphones sobre sus perfiles de Facebook. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Detrás de Tasty, entre muchos otros exponentes de la movida están TipHero (15 millones de suscriptores), Tastemade y Cocina facilisimo.com (10,1 millones de adhesiones en Facebook). Con mirada local y experiencia enseñando a cocinar, Ezequiel Navas, jefe de Cocina del Instituto Argentino de Gastronomía, ve en los clips de recetas de la red social Facebook, sobre todo, una fuente de ideas para preparar platos simples. “Pero –pone límites–, no enseñan a cocinar. Te indican, por ejemplo, cuánto tiempo de horno lleva un preparado, pero no te explican cómo darte cuenta cuándo el horneado fue suficiente”, dice. Y agrega que, en general, las comidas propuestas son ricas, pero están lejos de lo saludable.

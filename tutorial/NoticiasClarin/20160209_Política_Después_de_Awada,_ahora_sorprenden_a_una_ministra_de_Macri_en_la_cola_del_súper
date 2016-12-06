@@ -1,0 +1,18 @@
+
+El viernes a la noche, un vecino del barrio de Retiro se encontró a la canciller Susana Malcorra en plena compra de provisiones personales. Le sacó una foto y la subió a Twitter El punto es que lejos de los privilegios que podrían imaginarse para una ministro, Malcorra decidió hacer la cola como cualquier ciudadano. Según supo después Clarín, estaba haciendo sus compras en el supermercado Disco que está a dos cuadras de la Cancillería. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Roxana_yo_Soy/status/696240334473457664",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69624033447345766")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Leé también: Vio a Juliana Awada de compras en el Barrio Chino y subió la foto a Instagram

@@ -1,0 +1,18 @@
+
+Los visitantes de un acuario de Seúl, en Corea del Sur, se quedaron atónitos al presenciar el momento en que un tiburón atrapó con sus fauces a otro tiburón y terminó engulliéndolo. La atacante es una hembra de tiburón tigre, que tiene ocho años y mide unos dos metros y medio de largo: es la más grande de todo el lugar. La víctima fue un macho más pequeño. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En un video que circuló en las redes sociales puede verse que, horas más tarde, de la boca del atacante sólo le asoma la cola de su presa. Así seguirá durante varios días, afirma un vocero de Coex, el acuario surcoreano donde todo sucedió. Es que el tiburón se tragó el cuerpo entero y tardará mucho tiempo en digerirlo. Mirá también: Así se comió un mero a un tiburón Los encargados del acuario creen que la hembra lo hizo por sentirse retada en su territorio. Allí conviven 42 escualos y es la primera vez que se produce un ataque como este.

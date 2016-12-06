@@ -1,0 +1,36 @@
+
+ La canciller Susana Malcorra le bajó esta noche el tono a las declaraciones del presidente Mauricio Macri, quien más temprano -desde Nueva York- afirmó que la primera ministra británica Theresa May se mostró "de acuerdo" en iniciar un diálogo bilateral por la soberanía de Malvinas. Malcorra salió a hablar una hora después de conocerse los dichos presidenciales, que rápidamente tuvieron eco en ámbitos diplomáticos. “Esto es una señal de ambos países en que estamos dispuestos a dialogar por el tema Malvinas”, dijo. Mirá también: La prensa británica difundió la posición de Macri por Malvinas Escuchá el audio de Macri sobre su diálogo con la primera ministra británica: 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La canciller evitó mencionar la palabra “soberanía”, utilizada por el Presidente y que podía generar una reacción negativa en Londres. De acuerdo a Malcorra, Macri habló con la primera ministra británica Theresa May sobre “la posibilidad de tener un encuentro más específico para avanzar en los múltiples temas que tenemos, entre los cuales está la cuestión de Malvinas que, para nosotros, es prioritario”. Mirá también: Malvinas: Macri dijo que la premier británica está "de acuerdo" en comenzar a hablar de soberanía  “Por supuesto la Primera Ministra dijo que se encontrarían, pero no es que se habló de una hoja de ruta, o dónde van a ser los próximos pasos”, agregó.  La canciller aclaró que la soberanía es una cuestión por debatir con Gran Bretaña, pero “de ahí a decir que el tema ya está en la mesa, y que ya hemos acordado avanzar en el tema hay un gran recorrido”.
+
+ “Puede que no lleguemos a nada, que avancemos en algunos temas y otros no o que nos tomen años. Es una señal de disposición de dialogar”, cerró. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Macri, en diálogo con los periodistas que cubren su viaje a Estados Unidos, reveló más temprano que May le dijo que está "de acuerdo" en dar comienzo a un diálogo bilateral que incluya el reclamo argentino por Malvinas. Mirá también: En la ONU, Macri llamó a solucionar "amigablemente" el diferendo por Malvinas  El Presidente, incluso, fue más allá: "Le dije que estoy listo para comenzar un diálogo abierto que incluya, por supuesto, el tema de la soberanía sobre las Islas", expresó. "Me dijo que bueno, que sí, que habría que empezar a conversar", aclaró. "Son cosas que llevarán años, pero lo importante es que comencemos y ella estuvo de acuerdo", sostuvo el Presidente.

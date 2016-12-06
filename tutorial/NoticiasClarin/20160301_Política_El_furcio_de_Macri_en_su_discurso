@@ -1,0 +1,18 @@
+
+Pasada la media hora de discurso de apertura de las sesiones legislativas y luego de un cruce caliente con la bancada del Frente para la Victoria, al Mauricio Macri se le escapó un furcio. "Mucho se habló de la negociación con los holdouts, también conocido como buitres, ahora dependerá de este Congreso si terminamos o no de finalizar con este conflicto que lleva 15 años, confio en que va a primar la responsabilidad de la retórica y que juntos vamos a construir los consensos necesarios", dijo el Presidente, sin darse cuenta que esa parte del discurso ya la había dicho. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Sin embargo, la reiteración de estas palabras volvió a despertar aplausos. Macri tomó un trago de agua, le dijo algo a Gabriela Michetti, y continuó: "No resolver este conflicto le costó caro a los argentinos", afirmó enfáticamente. Recién allí se dio cuenta: "Esto ya lo dije", señaló. Y agradeció a los legisladores que gritaban, tratando de advertirle del error. "Muchas gracias, muy atentos en su acotación", sostuvo el mandatario.  Aplausos mediante, continuó con una frase para salir del momento: "Yo les vengo a decir que esto lo venimos a construir juntos, así que me alegro que hayamos tenido una primera tarea", sostuvo. Pero la equivocación no fue producto de una distracción por parte del jefe de Estado, sino a que el párrafo, dedicado a lograr un consenso en torno a la disputa con los holdouts, aparecía dos veces -de manera idéntica- en las hojas del discurso. Leé también: Macri apuntó fuerte a la herencia y se comprometió a detallar el leagdo K

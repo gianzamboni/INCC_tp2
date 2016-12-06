@@ -1,0 +1,90 @@
+
+La ex presidenta Cristina Fernández de Kirchner llegó esta mañana minutos después de las 10 a los tribunales federales de Comodoro Py para declarar ante el juez federal Julián Ercolini en la causa en la que se le atribuye haber orquestado un plan para adjudicar obra pública al detenido empresario Lázaro Báez. MIRÁ LA FOTOGALERÍA EN HD Fue en medio de un operativo con más de 300 efectivos de seguridad y un doble vallado en el perímetro del edificio judicial, además de blindar el acceso al piso donde se presentó ante Ercolini y los fiscales Gerardo Pollicita y Juan Mahiques. Al salir del despacho de Ercolini, la ex Presidenta habló delante de los periodistas que cubrieron su nueva visita a Tribunales: "Para los fiscales el Gobierno fue una asociación ilícita" y acusó a la administración de Mauricio Macri: "Es una maniobra del actual gobierno". 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_vgcr2fix",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_vgcr2fix"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_vgcr2fix").after(scriptEl);
+ "Es una persecución política", dijo en un corralito para la prensa en las afueras de los tribunales de Comodoro Py. Dijo que presentó un escrito pidiendo la nulidad de la causa. Calificó de disparate la investigación. Y aseguró: "Yo no decidí las obras públicas". 
+
+
+Y acusó al Gobierno de Macri de ser una "asociación ilícita terrorista".
+
+
+
+
+
+var act_16b = new gigya.socialize.UserAction();
+
+var emailBodyCustom_16b = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_16b.setTitle('Y acusó al Gobierno de Macri de ser una "asociación ilícita terrorista".');
+act_16b.setSubtitle('Comodoro Py'); 
+act_16b.setLinkBack('http://www.clarin.com/politica/Cristina-Kirchner-fiscales-Gobierno-asociacion_0_1678632197.html');
+act_16b.setDescription('Dijo que presentó un escrito pidiendo la nulidad de la causa a la que calificó de "una maniobra del actual gobierno". También acusó al Gobierno de Macri de ser una "asociación ilícita terrorista".');
+act_16b.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Cristina-Kirchner-fiscales-Gobierno-asociacion_0_1678632197.html');
+
+var showShareBarUI_params_16b=
+{ 
+containerID: 'shareQuote_16b',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_16b,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_16b
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_16b);
+ Fernández de Kirchner apuntó además "al primo del Presidente, Ángelo Calcaterra, que en muchas obras fue asociado a Austral Construcciones".  Mirá también: ¿Libre o presa? Por qué un juez podría o no detener a Cristina ahora
+
+La llegada de la ex mandataria estuvo acompañada por la presencia de centenares de militantes y simpatizantes ubicados sobre la avenida Antártida Argentina, entre los que se pueden ver banderas de La Cámpora, La Tupac Amaru, Nuevo Encuentro, Miles, Peronismo Militante y Martín Fierro, entre otras agrupaciones. Entre los dirigentes que esperaron la llegada de la ex mandataria se pudo ver a los diputados nacionales del Frente para la Victoria Héctor Recalde y Axel Kicillof; al ex secretario general de la Presidencia Oscar Parrilli; al titular de la CTA de los Trabajadores, Hugo Yasky; y al intendente de Malvinas Argentinas, Leonardo Nardini. También se encontraban el dirigente de MILES, Luis D'Elía, y el ex titular de la AFSCA, Martín Sabbatella
+
+El abogado de la ex mandataria, Carlos Beraldi, arribó poco antes de las 9 al cuarto piso de los Tribunales, sede del despacho de Ercolini, y anunció un cambio de estrategia, por el que la ex presidenta no presentará un escrito como se esperaba sino que expondrá oralmente. También acompañó a Cristina el ex juez de la Corte Suprema, Eugenio Zaffaroni. Pocos minutos después de las 8, solo unas banderas del partido Miles que lidera Luis D'Elía anticipaban la convocatoria de militantes anunciada para las 9 en apoyo de la ex mandataria. Mirá también: El penal de Máximo y Polino a la política

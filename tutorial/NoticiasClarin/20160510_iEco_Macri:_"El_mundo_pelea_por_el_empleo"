@@ -1,0 +1,36 @@
+
+Deducciones en el impuesto a las Ganancias para el que invierta, devolución del IVA de las inversiones, y compensación del impuesto al cheque. Son las tres principales medidas para ayudar a las pymes que el ministro de Producción, Francisco Cabrera, anunció junto a Mauricio Macri anunció esta mañana. Mirá también: Las medidas que Cabrera anunció para las pymes “El 70% de los empleos de este país lo generan las pymes” dijo Macri en la Casa Rosada antes de enviar al Congreso el proyecto de ley para proteger a las pequeñas y medianas empresas. “Cuatro millones de argentinos trabajan en pymes”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Ley antidespidos: Peña confirmó que "si sale tal como sale, esto va a un veto seguro" Sin nombrar el proyecto de ley contra los despidos que ya tiene media sanción, Macri aludió a ella cuando dijo que para el desarrollo hace falta generar confianza, y “no la arbitrariedad”. “El mundo pelea por el empleo, en cada país todos están buscando cómo generar trabajo, es una tarea de las más desafiantes que tenemos en el siglo XXI”, argumentó. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Massa afirma que habrá ley antidespidos: "Sería un error que Macri la vete" El proyecto para favorecer a las pymes tiene un claro destinatario, Sergio Massa. El líder del Frente Renovador ya dijo que su voto en la ley antidespidos estaría condicionado a las medidas efectivas que se tomen para proteger a las pymes.
+
+Mirá también: Héctor Recalde y el proyecto de ley antidespidos: "No aceptamos ninguna modificación"

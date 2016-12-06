@@ -1,0 +1,34 @@
+
+Nora Cortiñas, titular de Madres de Plaza de Mayo Línea Fundadora, volvió a hablar luego de la polémica en torno a las polémicas declaraciones sobre Graciela Fernández Meijide. "Se me fue la mano, del dolor que me da que una madre este jugando con una cifra, porque al mismo tiempo ella juega con todos los 30.000 desaparecidos al tener esa postura", afirmó en FM Radio Con vos. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Sin embargo la dirigente de derechos humanos calificó de "juego siniestro" polemizar en torno a la cifra de los desaparecidos. "Si le duele que dijera eso, le pido disculpas, pero yo pienso igual que no se puede jugar con una cifra de seres humanos", señaló. Mirá también: Exabrupto de Nora Cortiñas contra Fernández Meijide: “Pobre su hijo donde esté soterrado” “El hijo que le llevaron tenía 16 años, ella en ningún momento lo reivindico, pobre hijo donde esté soterrado, dirá ‘mi madre no tiene corazón y no me habrá querido en su vientre’ porque realmente nos da vergüenza, no nos representa, ella estuvo en un organismo de Derechos Humanos, pero realmente cuando la vemos hoy no nos representa”, expresó ayer en una charla en la escuela de periodismo de TEA. Y esta mañana, si bien le bajó el tono a la polémica, ratificó su posición: "¿Cómo no la voy a criticar (a Meijide) si tiene la misma postura que Lóperfido?", expresó. Y continuó: "Ella cuando se pone a la misma tónica que Lóperfido con el tema de la cantidad y dudar, cuando son seres humanos los desaparecidos, no son números, son seres humanos que desaparecieron y todavía no sabemos nada", señaló. Mirá también: Cristina invitó a las otras Madres pero su líder no asistirá Cabe recordar que Lopérfido debió renunciar al Ministerio de Cultura porteño, envuelto en una polémica por haber dicho en una entrevista a principio de año puso que "en Argentina no hubo 30 mil desaparecidos". Finalmente, Cortiñas pidió la apertura de los archivos para poner fin a la polémica en torno a la cifra de víctimas de la última dictadura. E indirectamente le apuntó a Mauricio Macri, y se refirió en forma polémica a su hija Antonia.   
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Contar a los desaparecidos, si hubo 1 o 30.000 es realmente un error político y además es hasta inhumano, no se puede hacer cálculos con los seres humanos que pasaron por ese calvario", sentenció. Mirá también: Carlotto, Pérez Esquivel y Cortiñas: fuertes críticas a Macri por hablar de “guerra sucia”

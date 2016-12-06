@@ -1,0 +1,17 @@
+
+Los libros para pintar son el último boom editorial. Pero no son los clásicos para chicos, sino para adultos. Y se promocionan como una forma de terapia: el “arte antiestrés”. Una nueva categoría que, en algunas editoriales, incluso superó al fenómeno de la autoayuda.Leé también: Caen las restricciones para el ingreso de libros del exteriorLa tendencia surgió en Inglaterra, despegó en Francia y se convirtió en un éxito internacional. Argentina lo vive en plena expansión. Por ejemplo, en la librería online Cuspide.com hay 29 títulos en venta --incluyendo los de mandalas y los de obras de arte para colorear-- con precios que van de 79 a 280 pesos. Según adelantaron a Clarín en varias editoriales, en los próximos meses saldrán al menos otros cinco títulos.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

@@ -1,0 +1,98 @@
+
+Aníbal Fernández volvió a despegarse de Mario Segovia, el llamado "rey de la efedrina", quien entregó a la justicia pruebas de su vínculo con el ex jefe de Gabinete kirchnerista y que ampliará su declaración con detalles de su visita a quien entonces, en 2008, era ministro de Justicia. Primero lo hizo en una entrevista radial y luego con una catársis tuitera, donde le pegó a los medios por querer tapar con denuncias los supuestos errores del gobierno de Cambiemos. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/FernandezAnibal/status/772441531672326145",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77244153167232614")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ "Todo es un invento bochornoso", afirmó el ex funcionario, en diálogo con radio Del Plata. Y agregó: "Todo ha sido la mano turbia de alguien, abogado o sinvergüenza, que ha ido a ponerle un peso en la mano a estos tipos, so pretexto que eligieran a un punto, en este caso soy yo, en otras es Cristina". El ex candidato bonaerense acusó a la prensa de querer perjudicarlo, como ocurrió con la entrevista a Martín Lanatta, condenado por el triple crimen de General Rodríguez, durante la campaña electoral de 2015. Mirá también: "El rey de la efedrina" habló ante la Justicia y complicó a Aníbal Fernández 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/FernandezAnibal/status/772442482424606720",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77244248242460672")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Para Fernández, la denuncia en su contra es una "tapadera de un bosque de barbaridades que puso a parir a este país el Gobierno actual y que la gente desvíe su mirada con este tema". Segovia pidió "colaborar con la justicia a fin de aportar elementos para la averiguación de la verdad", en dos  causas vinculadas con el tráfico de efedrina, los medicamentos truchos, el financiamiento ilegal de la campaña de Cristina en 2007 y el triple crimen de General Rodríguez, que tramitan en el juzgado de Servini de Cubría. "Yo he tenido la ocasión de conocerlo a Aníbal Fernández. Una vez fui a su oficina en el ministerio de Justicia, en el 5° piso. Se entraba por el garaje. Subís por ascensor reciclado que usa el ministro nada más", dice Segovia en su declaración ante la jueza. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/FernandezAnibal/status/772442261170819072",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77244226117081907")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El hombre que señaló al ex ministro está detenido en el penal de Ezeiza y le entregó a Servini el manuscrito en el que un secretario del ex ministro K le indicaba, en 2008, cómo tramitar una portación de armas por 7.000 dólares. Luego, Fernández publicó una catarata de tuits para defenderse de las duras acusaciones que lo vuelven a ligar al tráfico de la efedrina.  "Cuáles son las pruebas? NINGUNA. En este Estado de excepción todos estamos en libertad condicional hasta que la mafia gobernante lo decida?", fue uno de los comentarios, vía Twitter, del ex jefe de Gabinete de Cristina Kirchner. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/FernandezAnibal/status/772442173660856321",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77244217366085632")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/FernandezAnibal/status/772440359565725696",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77244035956572569")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/FernandezAnibal/status/772440904573579265",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77244090457357926")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+  

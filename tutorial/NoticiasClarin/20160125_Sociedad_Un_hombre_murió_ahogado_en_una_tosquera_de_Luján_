@@ -1,0 +1,18 @@
+
+Un hombre de unos 35 años murió el domingo ahogado en una tosquera del barrio Hostería San Antonio, de la ciudad bonaerense de Luján, adonde se había arrojado para combatir el intenso calor, informaron hoy fuentes de los Bomberos Voluntarios del distrito.Leé también: Su marido dice que se ahogó en el río, pero creen que él la matóLa víctima, identificada como Pedro Olivera, era padre de una niña de 5 años y vivía en el barrio Americano de la ciudad bonaerense. Los voceros dijeron a la agencia DyN que el hombre perdió la vida alrededor de las 16 de ayer en la tosquera ubicada junto a la colectora de la ruta 5, detrás del barrio Hosteria San Antonio.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/LujanenLinea/status/691402820419981312",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69140282041998131")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+El cuerpo fue retirado del agua por socorristas de los Bomberos Voluntarios. Según lo publicado por el medio local Luján en línea, fuentes de la investigación indicaron que será sometido a autopsia.Leé también: Un mochilero de La Matanza se ahogó en un río en NeuquénLas tosqueras son pozos que se hacen durante las construcciones para sacar un material natural llamado tosca. Cuando se cubren de agua, dan la sensación de ser lagos tranquilos, donde niños y adultos suelen arrojarse a nadar, pero son lugares muy peligrosos: por su gran profundidad, suelen convertirse en trampas mortales.Es frecuente que se encuentren personas ahogadas en tosqueras. En diciembre de 2014 echaron a un funcionario de José C. Paz por la muerte de un nene. En octubre de 2012, dos primos de 10 y 11 años se ahogaron en el barrio de Aeropuerto, en La Plata. Lo mismo le sucedió a dos chicos en José León Suárez, en noviembre de 2009. Son solo algunos ejemplos de una larga lista de tragedias, que en ocasiones podrían prevenirse: las tosqueras suelen estar sin enrejar, sin vigilancia, y sin carteles de advertencia. 

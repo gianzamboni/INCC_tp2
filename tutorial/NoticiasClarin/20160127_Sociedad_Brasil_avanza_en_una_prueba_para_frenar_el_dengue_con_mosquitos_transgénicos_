@@ -1,0 +1,17 @@
+
+Una legión semanal de 800.000 mosquitos transgénicos combate en la ciudad brasileña de Piracicaba el Aedes aegypti, un transmisor del dengue, el zika  y el chikunguña que han puesto en jaque a las autoridades sanitarias de Brasil y otros países de América Latina.A diferencia de otros mosquitos, el Aedes aegypti "bueno", como coloquialmente ha sido apodado en Brasil, es bienvenido en Piracicaba, municipio del interior de Sao Paulo, donde los vecinos del barrio Cecap-Eldorado llevan un año de convivencia pacífica con estos insectos. El mosquito "bueno", creado por la empresa inglesa Oxitec, fue modificado genéticamente en 2002 para impedir la expansión territorial del Aedes aegypti y hace un año comenzó a ser utilizado en Piracicaba para frenar el aumento del dengue en esta localidad de 460.000 habitantes.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

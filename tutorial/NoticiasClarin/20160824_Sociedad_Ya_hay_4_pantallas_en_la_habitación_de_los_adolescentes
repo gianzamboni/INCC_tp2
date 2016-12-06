@@ -1,0 +1,154 @@
+
+Una encuesta realizada por  la Asociación de Diarios del Interior detectó que los adolescentes argentinos tienen en promedio 4 pantallas en su habitación. Lo más usado: celular, netbook escolar y TV. En segunda línea le siguen las tablets y las PC de escritorio. Mirá también: Llegan los nuevos videojuegos de fútbol y Messi ya no es la figura Esta situación impulsa una tendencia lógica: casi todos los consumos culturales de los adolescentes son a través de pantallas. El 60% de los encuestados mira TV en computadora y celular; el 75% lee en computadora y celular; el 60% ve películas en computadora; el 95% escucha música con el celular y el 95% navega por Internet en el celular. 
+
+ENCUESTA CLARÍN
+
+
+
+
+
+
+
+ENCUESTA
+¿Cuántas pantallas tiene tu hijo en su habitación?
+
+
+
+
+
+
+
+Ninguna
+
+
+
+
+
+Una pantalla
+
+
+
+
+
+Dos pantallas
+
+
+
+
+
+Tres pantallas
+
+
+
+
+
+Cuatro o más pantallas
+
+
+
+
+
+
+
+
+
+Votar
+
+
+VER RESULTADOS
+Encuesta finalizada
+
+
+
+
+
+
+
+
+
+
+
+
+    $('#des-vote_CLAPOL20160824_0002').click(function() {
+
+        var disabled = $('#des-vote_CLAPOL20160824_0002').attr("data-disabled");
+
+        if(disabled.indexOf("disabled") == -1){
+
+            var e = $(this);
+
+            var cont = e.closest('article');
+            var bdHeight = cont.find('.bd').outerHeight(true) + cont.find('.hd').outerHeight(true);
+
+            cont.find(".res-enc").css('margin-top','-' + bdHeight + 'px');
+
+            var encuesta = e.parents('#des-encuesta_CLAPOL20160824_0002');
+            var optionId = encuesta
+                .find(".opciones input[name='optionId']:checked")
+                .val();
+
+            if (typeof optionId != "undefined") {
+                $.post('/desencuestav3/poll/vote/CLAPOL20160824_0002/' + optionId, function(_response) {
+                    var response = BBT.fixJson(_response);
+                    
+                    $.get('/desencuestav3/poll/getresults/CLAPOL20160824_0002/', function(_response) {
+                        var response = BBT.fixJson(_response);
+
+                        if (response['error'] == 0) {
+                            encuesta
+                                .find('#des-encuesta_resultados_CLAPOL20160824_0002')
+                                .html(response['html']);
+                            $('#des-encuesta_resultados_container_CLAPOL20160824_0002').slideDown(400,function(){
+                                cont.find('.msj-tk').fadeIn();
+                            });
+
+                            $('#des-vote_CLAPOL20160824_0002').addClass('disabled').attr('data-disabled',"disabled");
+                            
+                        }
+                    }); 
+                });
+            }
+        }
+        return false;
+    });
+
+    $('#des-view_CLAPOL20160824_0002').click(function() {
+        var e = $(this);        
+        var encuesta = e.parents('#des-encuesta_CLAPOL20160824_0002disabled');
+        var cont = e.closest('article');
+        var bdHeight = cont.find('.bd').outerHeight(true) + cont.find('.hd').outerHeight(true);
+        cont.find(".res-enc").css('margin-top','-' + bdHeight + 'px');
+
+        $.get('/desencuestav3/poll/getresults/CLAPOL20160824_0002/', function(_response) {
+            var response = BBT.fixJson(_response);
+
+            if (response['error'] == 0) {
+                $('#des-encuesta_CLAPOL20160824_0002disabled')
+                    .find('#des-encuesta_resultados_CLAPOL20160824_0002')
+                    .html(response['html']);
+                $('#des-encuesta_resultados_container_CLAPOL20160824_0002').slideDown(400,function(){
+                    if ("disabled"=="disabled"){
+                        cont.find('.msj-close').fadeIn();
+                    }
+                });
+            }
+        });
+
+        return false;
+    });
+    
+    $(document).ready(function() {
+        if ($('#des-encuesta_CLAPOL20160824_0002disabled').length > 0){
+          $("#opsCLAPOL20160824_0002 input[type=radio]").attr('disabled', true);
+        }  
+    });
+
+    $('#des-encuesta_cerrar_CLAPOL20160824_0002').click(function() {
+        var e = $(this);
+        e.closest('article').find('.msj-tk').fadeOut(100);
+        $('#des-encuesta_resultados_container_CLAPOL20160824_0002').slideUp();
+		
+    });
+
+
+ El informe, presentado esta tarde, también relevó la prevalencia del cine. El 85% fue a ver al menos una película durante el último año y de ese porcentaje, el 40% fue de 2 a 3 veces.  Mirá también: Lanzan el segundo torneo argentino de Counter Strike A pesar del avance tecnológico en el mundo privado de los adolescentes, el contacto directo con amigos se posiciona al tope de las opciones de entretenimiento. El 85% de los chicos define un "día divertido" como aquel en el que sale con amigos, mientras que un 40% dijo que "navegar en Internet" era parte de un "dia aburrido".

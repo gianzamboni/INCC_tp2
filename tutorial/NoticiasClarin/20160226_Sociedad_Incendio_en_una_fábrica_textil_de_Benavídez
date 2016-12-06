@@ -1,0 +1,20 @@
+
+Doce dotaciones de bomberos combatían, desde esta madrugada, un incendio en una fábrica textil en la localidad bonaerense de Benavídez, partido de Tigre. Mirá también: La aceitera que se incendió en Burzaco no estaba habilitada 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El siniestro afectaba un inmueble ubicado en la calle Chilavert al 700, a 200 metros de la colectora de la autopista Panamericana, y se inició cerca de las 4:50, de acuerdo al horario en que los efectivos recibieron la alarma de los vecinos.
+
+(Incendio de una fábrica en Benavidez. Foto: Gustavo Ortiz). Cinco unidades de los bomberos de Tigre y otras siete de partidos cercanos trabajaban para combatir las llamas. El incendio se desató en una zona residencial y hasta el momento no hubo reporte de heridos. Mirá también: Bomberos de Moreno usarán agua de lluvia para apagar incendios El tránsito en la zona estaba cortado cerca de las ocho de la mañana de hoy a la espera de que terminara el trabajo de los bomberos y el posterior peritaje para determinar las causas del siniestro.  Fuente: Télam.

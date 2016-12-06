@@ -1,0 +1,18 @@
+
+Invitados para una larga entrevista al programa de televisión Animales Sueltos, conducido por Alejandro Fantino, algunos de los integrantes del grupo humorístico-musical Les Luthiers hablaron de política y criticaron con dureza al gobierno kirchnerista. Los Luthiers se declararon ajenos a identificaciones políticas. En ese sentido, Marcos Mundstock afirmó: “No nos surgió, salvo en contadas ocasiones, identificarnos políticamente con nada. Solamente en el 83, antes de las elecciones que ganó Alfonsín, firmamos una solicitada apoyándolo”. En otro tramo de la extensa charla con Fantino, los miembros del grupo expresaron que tratan, en general, de no emitir opiniones políticas. Aún ante periodistas que, en sus giras en el exterior, los acicatean con preguntas sobre política y casos de corrupción. Sin embargo, ante la pregunta del conductor del programa sobre qué los irritaba de los últimos años del país, Mundstock no evitó la respuesta: “Me irrita el engaño. Creo que en los últimos años de nuestro país el engaño fue el rey o la reina, ‘la engaño’. Todo lo que se ha mentido. Uy, mirá porque yo tal cosa y te está diciendo lo contrario”, dijo. Mirá también: Sin Rabinovich, Les Luthiers sigue su gira por el mundo La respuesta de Mundstock animó a Fantino a seguir en el tema. El conductor habló de la indignación que le generó el video de la financiera La Rosadita y les preguntó sobre su impresión ante esas imágenes a sus entrevistados. Aquí fue otra vez Mundstock quien tomó la palabra. “Eso en particular no me agregaba mucho a mi imagen de lo que estuvo pasando acá en estos últimos años. Yo ya tenía la indignación completa, qué más me iba agregar por verlos cómo lo hacían. (Eso) No me agregó ni me enojó más (…). Me confirmó: ‘ves cómo nos engañaron’”. Tras estas palabras, Jorge Maronna dijo coincidir con Mundstock y agregó: “El Gobierno K me irritó permanentemente”. Y cuando Fantino le pidió detalles, agregó: “Las formas me parecían horribles, autoritarias, escandalosas. Y toda la corrupción que está apareciendo cada vez más a la vista, la mentira”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+A continuación, Mundstock contó un episodio reciente en una conferencia de prensa en la que un periodista les preguntó qué opinaban del viraje de los países latinoamericanos de la centroizquierda a la centroderecha. La respuesta de Mundstock fue, según contó: “Mire, en nuestro país parece que hubiera sido eso, parece que hubiera habido un Gobierno de centroizquierda y que ahora pasamos a un Gobierno de centroderecha, pero, mire qué engaño, no es así. Acá hubo un Gobierno al que se le están investigando hechos de corrupción, que era una falsa centroizquierda (…) que no le cambió la situación, el nivel de la pobreza (a la gente). Y viene un Gobierno que, en mi opinión, es más decente que va a tratar de hacer las cosas mejor. O sea que eso de que pasamos de una izquierda a una derecha es un gran engaño”. Para cerrar el tema, el Luthier contó que esas palabras no fueron publicadas.  

@@ -1,0 +1,66 @@
+
+El presidente Mauricio Macri respaldó anoche, una vez más, al ministro de Energía Juan José Aranguren, al sostener que "no es justo" culpar a Aranguren por los tarifazos, ya que "estamos matando al mensajero". Y agregó: "Si Argentina hubiese tenido un ministro" como el ex CEO de Shell en los últimos diez años, "hoy estaríamos exportando energía". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/AmericaTV/status/756326043665899522",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75632604366589952")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+  En ese sentido, Macri dijo que "la triste realidad es que tuvimos un modelo energético basado en la mentira que nos dejó sin energía", señaló y apuntó contra la gestión de Cristina Kirchner: "Mintieron. Generaron un negocio de importación de gas donde se ve que había una 'pichincha' para varios".  En una entrevista que el jefe del Estado le concedió ayer al programa "Animales sueltos", que conduce Alejandro Fantino, subrayó que "Argentina exportaba energía a Chile, Uruguay, y pasó a depender de todo el mundo". En ese sentido, Macri dijo que el país "tenía energía de sobra" y consideró "una mentira" del kirchnerismo que comenzó a faltar por el crecimiento económico. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/AmericaTV/status/756327612050354176",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75632761205035417")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Con relación al malestar que generó el aumento de tarifas en la sociedad, el mandatario expresó que "entiendo a los que están enojados", pero reiteró que "si hubiese tenido alguna alternativa, la hubiese tomado, pero en ningún país del mundo te subsidian la energía, porque es malo, es contaminante", e insistió en cuanto a los hábitos de consumo que "no estamos entendiendo la gravedad de lo que nos pasa".  El kirchnerismo y la Justicia En otro tramo de la entrevista, Macri negó que su gobierno esté enfrascado en una "persecución" hacia el kirchnerismo, al afirmar que "no invierto ni un minuto de mi tiempo" en eso. "Le digo al kirchnerismo: No invierto ni un minuto de mi tiempo en lo que ellos llaman persecución. Lo que le cambia la vida a la Argentina es el mensaje de que se acabó la impunidad", sostuvo el Presidente. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/AmericaTV/status/756322922151616512",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75632292215161651")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ "Es tanta la tarea, el entusiasmo. La energía se pone en perseguir el pasado o construir el futuro. Y yo la energía la puse sobre el futuro", remarcó el mandatario. Tras advertir que "se equivocan aquellos que se enfrascan en una pelea con el kirchnerismo", Macri dijo que "la Justicia tiene que velar porque no haya impunidad, ni para atrás ni para adelante". Al tiempo que sostuvo que"no hay que querer manipular a la Justicia, ni por las malas razones ni por las buenas razones",.  La inflación El presidente prometió anoche que la inflación, el año próximo, "va a estar por debajo del 20 por ciento".  En este sentido, el líder de Cambiemos admitió que, aunque más baja que la actual, la inflación entonces será "altísima todavía", ya que "todo el mundo tiene menos del 5 por ciento", y "tenemos que ir a ese lugar, y lo vamos a lograr", aseveró. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/AmericaTV/status/756324017867370496",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75632401786737049")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El jefe del Estado, sostuvo que "la inflación es responsabilidad primaria del gobierno" y reiteró su promesa de que "va a ir bajando lentamente en el segundo semestre", hasta llegar "el año que viene a estar por debajo del 20 por ciento".

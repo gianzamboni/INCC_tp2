@@ -1,0 +1,18 @@
+
+Son bastante habituales los videos en los que algún tiburón amenaza o ataca a humanos. Menos comunes son los que muestran a personas alimentando tiburones. Uno de estos se difundió en las últimas horas. En él se ve a un grupo de buzos que baja hasta el fondo del mar un balde con alimento para los tiburones y registran cómo, cuando su comida es liberada, los animales se acercan y la comen rápidamente. Mirá también: El vertebrado más longevo: un tiburón que puede vivir 400 años  Las imágenes fueron registradas en el Santuario para Tiburones de Honduras, un gran espacio que abarca tanto parte del océano Atlántico como del Pacífico en el que la pesca, la comercialización y la exportación de tiburones están prohibidas. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Los santuarios están destinados a proteger a los tiburones, animales que en algunos aspectos son muy vulnerables: tienen larga vida y pocas crías. Por eso, son vulnerables a la sobrepesca. Mirá también: Matan a un tiburón en Punta Cana: lo sacan del mar y se toman fotos con él  Los tiburones capturan o cazan otros animales, otros peces que sin esta acción de los tiburones podrían aumentar de modo descontrolado su población y afectar así el ecosistema.  Entre las especies registradas como presentes en el santuario hondureño están el tiburón martillo, el tiburón toro, el mako, el nodriza, el gris, el tigre y hasta alguna especie de profundidad, de los que viven a unos 600 metros bajo el agua. Mirá también: Impactante video: le sacan el anzuelo a un tiburón y lo devuelven al mar  Los tiburones martillo son uno de los que se encuentran en mayor riesgo, sobre todo por la demanda de sus aletas, que son codiciadas en el mercado gastronómico asiático.

@@ -1,0 +1,18 @@
+
+Dicen que Usain Bolt es el hombre más rápido del mundo, pero ahora apareció alguien que parece  destronarlo. Su nombre es Anthony Brooks y asegura ser más veloz que el jamaiquino, aunque claro, de una manera muy particular: en el armado del cubo mágico (o cubo de Rubik). Brooks se preparó igual que el velocista antes de que el atleta arrancara en el punto de partida de la pista atlética de Río de Janeiro. Agachado esperó el sonido de la campana y, una vez que sonó, agarró el juguete y comenzó a armarlo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Al mismo tiempo la televisión muestra a Bolt mientras corre para conseguir su primera medalla de oro en Río 2016. Mientras, Brooks le demuestra a todo el mundo que sus manos son más rápidas que el “Rayo” para encajar cada color en este juego conocido en todos lados. Este estadounidense es un experto en el cubo mágico, con el que comenzó a jugar a los 14 años. Actualmente, hace shows en varias ciudades para demostrar sus habilidades y participa de distintas competencias. Obtuvo el segundo puesto el año pasado en el campeonato nacional de Estados Unidos y en el mundial, y ostenta el récord norteamericano de resolución del cubo, en 6,93 segundos. También leé: "El pibe argentino que resuelve el cubo mágico en 10 segundos y a ciegas" Al final -y luego de algunos momentos de tensión- el retador logró resolver su cubo de Rubik antes que Usain Bolt llegara a la meta. Su alegría fue tanta que emitió un grito de triunfo. Es importante decir que el atleta de Jamaica hizo un tiempo de 9,81 segundos en los 100 metros, pero apareció alguien que le "ganó". Sin embargo, Brooks está bastante lejos del récord de armado del cubo mágico: el récord en el Rubik lo tiene Lucas Etter, un chico que en 2015, a los 14 años, consiguió encajar cada color en sólo 4,9 segundos.  También leé: "Video: resolvió el cubo Rubik en 4,9 segundos y logró el récord mundial" 

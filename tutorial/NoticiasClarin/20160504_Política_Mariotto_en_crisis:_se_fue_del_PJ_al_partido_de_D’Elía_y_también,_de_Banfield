@@ -1,0 +1,36 @@
+
+   Juan Gabriel Mariotto pasa por un momento de renunciamientos.  El ex titular del COMFER y ex vicegobernador de la provincia de Buenos Aires se alejó del partido peronista y se fue a presidir la fuerza de Luis D’Elía, el ex piquetero kirchnerista.  Mariotto dejó las huestes del PJ y se consagró titular de MILES (el partido que creó D’Elía) que desde ahora se llamará "Miles por Tierra, Techo y Trabajo".  Allí, el hombre que Cristina eligió para vigilar los movimientos de Daniel Scioli -durante su última gobernación- será compañero de ruta del jefe de Quebracho: Fernando Esteche también forma parte de esa fuerza que se ubicará políticamente a la izquierda del Partido Justicialista, pero sin renunciar a una eventual alianza política en tiempos electorales. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/gabmariotto/status/727199041621266432",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72719904162126643")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+  Mariotto también es decano de la Facultad de Ciencias Sociales de la Universidad Nacional de Lomas de Zamora y ejercía, hasta ayer, la vicepresidencia de su club Banfield. Pero ahora, renunció y lo anunció vía Twitter.  El peronista oriundo de Lomas de Zamora vive momentos difíciles en lo político, lejanos a sus tiempos de gloria cuando encabezó la pelea por la llamada Ley de Medios, desde su puesto como interventor en el COMFER, y en la silla de la vicegobernación, en la que terminó aliado a Scioli.
+
+ Luego, en plena campaña electoral por la pelea presidencial de 2015, se vistió de naranja y fue un activo militante sciolista. Pero hoy, todo es enojo en Mariotto y se fue con D’Elía y Esteche y además, se alejó de la dirigencia actual actual del Club Atlético Banfield. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/gabmariotto/status/727697425176113154",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72769742517611315")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+  Su vínculo con Banfield logró su punto máximo cuando Mariotto tuvo influencia en el Fútbol para Todos, programa oficial por el que hoy está rindiendo cuentas en la Justicia, en una causa que lleva adelante la jueza Servini de Cubría.  Pero Mariotto se muestra hoy activo en su nueva fuerza política y ya tuvo su foto con la Iglesia: anteayer, los dirigentes de "Miles por Tierra, Techo y Trabajo" se reunieron, foto incluída, con Monseñor Jorge Lozano, presidente de la Comisión de Pastoral Social.  Así, Mariotto vuelve a intentar mostrarse cercano al Papa Francisco, a quien supiera definir como “el Papa Peronista”.  

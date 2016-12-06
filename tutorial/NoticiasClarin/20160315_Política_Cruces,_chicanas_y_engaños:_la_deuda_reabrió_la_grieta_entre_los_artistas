@@ -1,0 +1,34 @@
+
+En medio de la discusión por el pago de la deuda a los fondos buitre, la grieta entre los artistas volvió a reducrudecerse. Así como durante los doce años de kirchnerismo artistas cercanos a los gobiernos de Néstor y Cristina apoyaron todo lo que tuviera que ver con sus gestiones, ahora, con el macrismo en el poder, salieron a pegarle a a las últimas medidas, tal como ocurrió ayer en twitter con el hashtag #NoVolvamosAlFondo. De hecho, hoy, durante una entrevista con Ernesto Tenembaum en Radio con Vos, uno de los participantes de la campaña volvió a pegarle al Gobierno: “Si con la campaña #NoVolvamosAlFondo le dimos una mano a Mauricio Macri, me pego un tiro en los huevos”, dijo el ex Midachi. Leé también: Diputados: la consulta popular propuesta por los K fue rechazada Y le pegó al conductor de Showmatchi, que ironizó con el tema: "lo de Tinelli, como la foto que publicó, son juegos, no le va tan bien". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Sin embargo, otros personajes de la escena local no siguieron sus pasos. Contrario a sus colegas K, Guillermo Francella se manifestó indiferente sobre la cuestión. “Estoy podrido del tema de los fondos buitre. Que cada uno exprese lo que tenga que expresar. Yo no quiere expresar lo que siento”, disparó. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/cuervotinelli/status/709527765599571968",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70952776559957196")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ En dialogo con radio AM 950 Belgrano, el actor fanático de la Academia, se mostró optimista sobre el nuevo Gobierno y dijo que "estamos en una transición, hay que esperar y tener esperanzas”. Aunque se refirió a que "la transición no fue buena, cada puerta que abren encuentran sorpresas graves”. Pero “confío en que Mauricio (Macri) pueda estar iluminado y pueda dar en la tecla", consideró. Y agregó: "La ansiedad nos mata, en 30 días ya cuestionábamos al presidente". Por su parte, el actor Roberto Carnaghi, que apareció con el cartel en la campaña de los artistas K, dijo haber sido engañado para sumarse. "Me siento usado", afirmó. Otro que se diferenció de Pablo Echarri, Mex Urtizberea y Andrea Bonelli fue Marcelo Tinelli, quien fiel a su estilo ácido criticó la movida K en Twitter. “Aparecen nuevos personajes que se suman a la campaña contra el Fondo”, publicó el conductor. Ayer, artistas generalmente señalados como militantes kirchneristas y descontentos por las negociaciones del Gobierno con los acreedores, se mostraron en Twitter sosteniendo un cartel que decía “no volvamos al fondo”. Las imágenes fueron compartidas con un hashtag con el mismo mensaje.

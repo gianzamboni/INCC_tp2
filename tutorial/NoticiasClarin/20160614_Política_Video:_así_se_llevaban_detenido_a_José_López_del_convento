@@ -1,0 +1,18 @@
+
+Con la mirada perdida. En estado de shock. Así salía detenido José López del convento de General Rodríguez. Un video muestra en el momento que camina acompañado por los policías y sube al patrullero que lo llevó a la comisaría 1° de ese distrito. Mirá también: Los billetes están humedos y los cuentan uno por uno: son al menos 8.5 millones de dólares Claramente se lo ve desencajado en medio de la fuerte custodia policial, según muestran las imágenes que publicó el portal tn.com.ar. Esto tiene relación con lo que confirmó el ministro de Seguridad bonaerense, Cristian Ritondo, tras la detención: el exfuncionario había sido apresado en "estado de shock" cuando intentaba esconder en un convento los bolsos cargados de dólares y euros. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En una conferencia de prensa, Ritondo explicó también que cuando se vio sorprendido por los agentes, López "quiso sobornar a la policía, cuando la misma se negó ingresó al convento y le dijo a la monja que la policía le quiso robar la plata que él había llevado para robar". Mirá también: EsKrachados: el incómodo álbum de fotos de José López en Facebook Al momento de su detención, López arrojaba bolsos desde su Chevrolet Meriva hacia el interior del monasterio. Eran cuatro bolsos que contenían fajos de dólares (en su gran mayoría) y euros, relojes y una carabina marca SIG SAGUER CAL 22 serie XA 033368 con cargador con 25 cartuchos. Durante la tarde, se contabilizaron US$ 8,5 millones.

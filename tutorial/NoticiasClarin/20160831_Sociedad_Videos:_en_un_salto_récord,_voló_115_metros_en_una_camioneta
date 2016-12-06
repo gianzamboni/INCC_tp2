@@ -1,0 +1,34 @@
+
+El piloto de autos Bryce Menzies consiguió batir el récord del mundo de salto en un automóvil: logró recorrer por el aire 115,6 metros por el aire antes de volver a tocar el piso a bordo de una camioneta preparada para competencias. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ En un evento llevado a cabo en Nuevo México, Estados Unidos. El salto récord anterior fijado oficialmente era de 92,4 metros; aunque extraoficialmente se sabía de otro de 101,2 metros. Mirá también: El más eficiente: hace 11 mil kilómetros con el equivalente a un litro de nafta  Menzies, oriundo de Las Vegas, manejó para alcanzar el récord una camioneta con un motor capaz con 900 caballos de potencia. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ El camino hacia el logro no estuvo exento de dificultades. En uno de los entrenamientos, el piloto tuvo un accidente en el que sufrió una lesión en uno de sus hombros. Mirá también: El auto eléctrico más rápido de la Tierra  “Es un récord increíble. Era mi sueño y ha sido uno de los momentos más emocionantes de mi vida. Me voy con un hombro roto, que no está mal del todo, pero con mi nombre en los líbros de récords”, aseguró Menzies, según informa el diario español El Mundo.

@@ -1,0 +1,126 @@
+
+El sueño duró 73 segundos. Después, todo se desintegró. Hace 30 años, con el estallido en el cielo  del trasbordador espacial Challenger, no sólo se perdieron las vidas de 7 astronautas -entre ellos la primera civil en viajar al espacio, la maestra Christa McAuliffe-, también se deshicieron el mito de infalibilidad de la NASA, el futuro del programa de transbordadores Shuttle y gran parte del futuro de la carrera espacial que, desde aquel desastre, nunca volvió a ser la misma.  El orgulloso Challenger, rodeado de cohetes propulsores y tanques de combustible sólido se elevó con exasperante lentitud hacia el infinito, cuando de pronto un chorro de fuego y gases escapó del cohete derecho y llegó hasta el principal tanque de combustible. Una bola de fuego destrozó el enorme complejo aeroespacial, el Challenger formó una humeante “Y” griega en el cielo, con los tanques propulsores disparados hacia cualquier parte y una fina línea blanca empezó a caer hacia el Atlántico en un lento viaje final, desde 15.200 metros de altura, que duró 2 minutos 45 segundos: era la cabina del trasbordador con los siete astronautas en su interior. Tiempo después, la comisión investigadora del accidente determinó que era muy “poco probable” que alguno de los siete ocupantes del Challenger estuviese consciente en el momento del impacto de la cabina con el mar. Sin embargo, hubo evidencias que determinaron que al menos cuatro de los tripulantes activaron sus sistemas auxiliares de oxígeno e intentaron ayudarse unos a otros. Los astronautas no tenían a disposición ni paracaídas, ni equipos eyectores, ni entrenamiento específico para estos casos de emergencia y, lo más decisivo, ni les pasaba por la mente la posibilidad de un error semejante: la NASA había fijado las posibilidades de un accidente fatal durante el despegue de la misión, el instante más peligroso del viaje, en 1 en 438.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160127_0013 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160127_0013_f26";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Se cumplen 30 años de la tragedia del Challenger',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/27/VID/CLAVID20160127_0013/video_web.flv",
+        image: "http://images.clarin.com/sociedad/cumplen-anos-tragedia-Challenger_CLAVID20160127_0013_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160127_0013',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/27/VID/CLAVID20160127_0013/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/cumplen-anos-tragedia-Challenger_3_1511878810.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160127_0013.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160127_0013){
+            //getBBTStats_CLAVID20160127_0013();
+            varModIdReprod_CLAVID20160127_0013 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+

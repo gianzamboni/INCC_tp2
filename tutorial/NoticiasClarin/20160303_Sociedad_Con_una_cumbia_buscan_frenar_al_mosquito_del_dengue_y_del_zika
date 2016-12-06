@@ -1,0 +1,20 @@
+
+“Aplasten al mosquito. Levanta las manos y ponte a trabajar. Limpia, desecha, voltea y tapa. Elimina ese mosquito. El agua acumulada debes botar”, dice la canción que el Ministerio de Salud de Bolivia difundió para concientizar sobre el peligro del mosquito del dengue y del zika. "La cumbia del mosquito" explica cómo hacer para evitar que se reproduzca en los hogares.  “No dejes que el mosquito empiece a volar. Elimina ese mosquito. El agua acumulada debes votar”, dice al ritmo de la cumbia. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Esta no es la primera canción que le dedican al Aedes Agypti, el mosquito que tiene en virus al continente latinoamericano porque transmite tres enfermedades: zika, dengue y chikungunya. Ya en mayo del año pasado, en el estado de Sinaloa, en México, se realizó una canción para concientizar sobre el virus de la chikungunya. 
+
+ El  ministro de Salud, Jorge Lemus, confirmó ayer que en Argentina ya se registraron 15.000 casos de dengue en lo que va del año.  El secretario de Promoción, Programas Sanitarios y Salud Comunitaria de la Nación, Néstor Pérez Baliño, admitió que el virus llegó para quedarse por las nuevas "características climáticas" del país de subtropicalización. Mirá también: El gobierno admite que el dengue llegó para quedarse

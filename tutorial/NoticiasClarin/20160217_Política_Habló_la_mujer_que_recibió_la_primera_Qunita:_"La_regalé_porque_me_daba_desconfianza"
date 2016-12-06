@@ -1,0 +1,127 @@
+
+La mujer que recibió la primera entrega del Plan Qunita habló, en medio de la polémica por la investigación judicial sobre ese programa oficial:: "La regalé porque me daba desconfianza" Milena Nador recibió uno el primer plan durante una videoconferencia de Cristina y hoy, dice que no sabe por qué le tocó a ella hablar con la Presidenta en julio pasado.. "No sé por qué me eligieron. En ese momento me imaginé una cuna y fui", dijo en el momento en que su hijo Amir tenía apenas 6 días. A 8 meses de eso, y tras las denuncias por las fallas en los elementos del plan que terminó con la suspensión de la entrega por cuestiones de seguridad, TN.com.ar la encontró y habló con ella. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160217_0013 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160217_0013_617";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'La mujer que recibió la primera Qunita: \"La regalé porque me daba desconfianza\" (TN)',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/17/VID/CLAVID20160217_0013/video_web.flv",
+        image: "http://images.clarin.com/politica/recibio-primera-Qunita-desconfianza-TN_CLAVID20160217_0013_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160217_0013',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/17/VID/CLAVID20160217_0013/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/2/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/politica/recibio-primera-Qunita-desconfianza-TN_3_1524477550.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160217_0013.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160217_0013){
+            //getBBTStats_CLAVID20160217_0013();
+            varModIdReprod_CLAVID20160217_0013 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+"No la usé porque era muy pequeña y al piso. Hace poco la regalé a una chica que no tenía nada", describió Milena. Y agregó: "Amir era recién nacido. Y la cuna había que ponerla en el piso o sobre algo y tenía miedo de que se caiga. Me daba desconfianza". Y detalló: “La Qunita la regalé y a mi nene le compre otra. Creo que esa serviría para los tres primeros meses de un bebé. Era más un moisés que una cuna” Leé además: Gollán cruzó a Bonadio: “No soy un mentiroso” Milena vive en Río Gallegos, desde donde participó de la videoconferencia que, desde Tecnópolis, dio Cristina Kirchner el día que presentó el beneficio.  Ayer, el juez federal Claudio Bonadio procesó por supuestos sobreprecios y otras irregularidades a los funcionarios implicados en las licitaciones: el ex jefe de Gabinete, Aníbal Fernández, y los ex ministros de Salud, Juan Manzur y Daniel Gollán. Leé también: El inicio de la causa Qunita

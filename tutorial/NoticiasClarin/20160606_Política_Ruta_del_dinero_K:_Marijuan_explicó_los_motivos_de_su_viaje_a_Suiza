@@ -1,0 +1,18 @@
+
+Luego de haber estado al frente de los múltiples allanamientos en el sur a las propiedades de Lázaro Báez, el fiscal Guillermo Marijuan viajará hoy a Suiza, para exigir información que contribuya a la investigación por supuesto lavado de dinero, llamada "La ruta del dinero K". "Viajo para expresar mi malestar por el trato que estamos teniendo con nuestro pedido de auxilio judicial", expresó el fiscal, en una entrevista exclusiva con el programa "La Cornisa", de Luis Majul. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Vamos a Suiza por dos grandes motivos, primero porque se han librado exhortos donde hemos pedido información sobre distintos movimientos de fondos y nunca nos han contestado", explicó el juez. Y agregó que la otra razón de su viaje, es el pedido de detención "de una persona que consideramos muy importante en este posible esquema delictual que estamos investigando, que es Néstor Marcelo Ramos, presidente y quizás principal accionista de Helvetic Service Group, una empresa que se ha utilizado en distintos momentos y por distintas personas para mover grandes sumas de dinero". Leé también: Lázaro Báez ya está en Tribunales: apuntaría contra Casanello y Cristina Ramos apareció en los documentos internos de Mossack Fonseca (MF), que formaron parte de la investigación internacional denominada "Panamá Papers". El financista ítalo-argentino es director de la firma suiza Helvetic Services Group, que en su momento adquirió La Rosadita y sobre el que pesa un pedido de captura nacional e internacional dictado por el juez federal Sebastián Casanello. Ramos es el dueño del 33% de las acciones de Helvetic, pero se desconoce quién -o quiénes- tienen el resto. Ramos es un personaje importante en la ruta del dinero K, fue quien presionó a Federico Elaskar para comprarle la financiera SGI. Y también quien trajo al país  33 millones de dólares desde Suiza a fines del 2012 y principios del 2013, cuando la SIDE kirchnerista había detectado que Elaksar había tomado contacto con el equipo Periodismo Para Todos de Jorge Lanata para denunciar las maniobras, entre otras operaciones. Se trata de un hombre cercano al contador Daniel Pérez Gadín y al abogado Jorge Chueco, ambos en prisión. Leé también: La ruta del dinero K provocó una "guerra" entre Mossack Fonseca y sus clientes

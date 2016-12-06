@@ -1,0 +1,18 @@
+
+Una nueva pitón reticulada amenaza con convertirse en la serpiente viva más larga del mundo. Eso es lo que creen las autoridades locales de la isla de Penang (Malasia) después de que un grupo de obreros localizara al reptil en la construcción de un paso a nivel en Paya Terubong. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El enorme animal, a falta de una medición oficial, podría tener 8 metros de largo y un peso de 250 kílogramos. Así lo desvela Herme Hisyam, miembro de la fuerza civil de la zona, al diario británico The Guardian . De confirmarse este tamaño, el reptil batiría el récord Guinnes, ya que ahora ese récord lo ostenta una pitón reticulada que vive en Missouri (EE.UU.) que mide 7,67 metros  de largo y  pesa 158 kilos. Una vez localizada la serpiente en Paya Terebong, las autoridades tardaron media hora en poder capturarla sana y salva para trasladarla a la oficina del distrito. Según informa el diario The Stars, fueron necesarios seis trabajadores para poder cargar al reptil. Rápidamente el animal se convirtió en una atracción para los trabajadores, que no dudaron en hacerse fotos con la pitón. Fuente: La Vanguardia

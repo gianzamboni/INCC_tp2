@@ -1,0 +1,140 @@
+
+La Organización Mundial de la Salud (OMS) pidió a los gobiernos subir los impuestos a las bebidas azucaradas, al menos un 20%, para combatir la obesidad y la diabetes en el mundo. El organismo estima que esa medida podría reducir el consumo de esos productos --como gaseosas, bebidas deportivas y jugos 100% fruta-- y por ende "salvar vidas". Mirá también: Otro escándalo: revelan sobornos de la industria del azúcar a investigadores de Harvard
+
+En un nuevo informe, la agencia de salud de la ONU estima que existen "pruebas crecientes" de que nuevos impuestos a las bebidas azucaradas "reduciría proporcionalmente su consumo". Un aumento de 20% de los precios tendría una reducción del consumo de 20% y un aumento de 50% reduciría el consumo a la mitad, explicó la OMS. 
+
+
+"Si los gobiernos imponen un impuesto a los productos como las bebidas azucaradas, pueden reducir los sufrimientos y salvar vidas", afirmó Douglas Bettcher, que dirige el departamento de prevención de la OMS de enfermedades transmisibles.
+
+
+
+
+
+var act_413 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_413 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_413.setTitle('"Si los gobiernos imponen un impuesto a los productos como las bebidas azucaradas, pueden reducir los sufrimientos y salvar vidas", afirmó Douglas Bettcher, que dirige el departamento de prevención de la OMS de enfermedades transmisibles.');
+act_413.setSubtitle('Guerra contra la obesidad'); 
+act_413.setLinkBack('http://www.clarin.com/sociedad/OMS-recomienda-impuestos-bebidas-azucaradas_0_1666633373.html');
+act_413.setDescription('La agencia de salud de Naciones Unidas pidió a los países que utilicen la política fiscal para incrementar el precio de gaseosas, bebidas deportivas e incluso jugos 100% fruta como medida para combatir la obesidad, la diabetes y la caries dental.');
+act_413.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/OMS-recomienda-impuestos-bebidas-azucaradas_0_1666633373.html');
+
+var showShareBarUI_params_413=
+{ 
+containerID: 'shareQuote_413',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_413,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_413
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_413);
+ A escala mundial la cantidad de casos de obesidad se duplicó desde 1980. En 2014 más de 1.900 millones de adultos -personas de 18 años y más- estaban en sobrepeso, de ellos más de 600 millones eran obesos. En 2015, 42 millones de niños de menos de 5 años tenían soprepeso o eran obesos. Mirá también: Cómo afecta el sodio alto en el cuerpo humano Al mismo tiempo la cantidad de adultos que sufren de diabetes pasó, en 35 años, de 108 millones en 1980 a 422 millones en 2014, según un primer informe global de la OMS publicado en abril. En 2012 la diabetes mató a 1,5 millones de personas en el mundo, a los que hay que agregar 2,2 millones de muertes debido a enfermedades vinculadas a la diabetes, lo que hace un total de 3,7 millones de muertes.
+
+El nuevo informe es el resultado de una reunión el año pasado entre expertos fiscales, a quienes la OMS pidió estudiar cómo las políticas fiscales pueden bajar la tasa de diabetes. Por ejemplo, México impuso en 2014 un impuesto a las bebidas azucaradas que provocó un alza del precio de 10%, y el consumo cayó 6%. 
+
+
+"Las políticas fiscales deberían apuntar a los alimentos y las bebidas para las que existen alternativas", sugirió el informe.
+
+
+
+
+
+var act_882 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_882 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_882.setTitle('"Las políticas fiscales deberían apuntar a los alimentos y las bebidas para las que existen alternativas", sugirió&nbsp;el informe.');
+act_882.setSubtitle('Guerra contra la obesidad'); 
+act_882.setLinkBack('http://www.clarin.com/sociedad/OMS-recomienda-impuestos-bebidas-azucaradas_0_1666633373.html');
+act_882.setDescription('La agencia de salud de Naciones Unidas pidió a los países que utilicen la política fiscal para incrementar el precio de gaseosas, bebidas deportivas e incluso jugos 100% fruta como medida para combatir la obesidad, la diabetes y la caries dental.');
+act_882.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/OMS-recomienda-impuestos-bebidas-azucaradas_0_1666633373.html');
+
+var showShareBarUI_params_882=
+{ 
+containerID: 'shareQuote_882',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_882,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_882
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_882);
+ La OMS estima desde hace tiempo que el azúcar debería debe constituir menos del 10% del consumo energético diario de una persona, y llama ahora a los países a reducir de mitad esta tasa, a 5%. Esto representaría 25 gramos, o el equivalente de seis cucharadas de café de azúcar por día. Una lata de bebida gaseosa representa 10 cucharadas de café de azúcar.
+
+El informe también estima que las subvenciones a frutas y verduras para reducir su precio entre 10 y 30% sería eficaz para mejorar las costumbres alimenticias. Mirá también: Chile inicia una "batalla frontal" contra la obesidad infantil Fuente: AFP

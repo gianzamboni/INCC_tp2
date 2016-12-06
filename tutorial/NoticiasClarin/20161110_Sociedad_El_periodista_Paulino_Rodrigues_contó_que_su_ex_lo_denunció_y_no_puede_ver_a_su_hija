@@ -1,0 +1,18 @@
+
+El periodista Paulino Rodrigues contó que fue denunciado por su ex pareja y que no puede ver a su hija desde hace 141 días. Anoche, en su programa de radio Continental habló de "una denuncia infundada, solo sustentada por un informe psicológico de alguien a quien la madre llevó el día después de nuestra separación. Que ningún pediatra, por cierto, valida ni mucho menos. Supone que mi hija pudo haber sido por quien les habla abusada sexualmente, con cuestiones como el dedo en la cola". Mirá también: Mar del Plata: la madre de Lucía denunció agresiones de un funcionario 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La nena tenía dos años y ocho meses cuando supuestamente eso sucedió. "Soy un papá que no lo dejan ser. Que inicialmente, de manera comprensible y con sentido común, le libraron una restricción. Pero que hoy ya no la tiene, pero tampoco le dicen cómo revincularse. Desde el día 1 dije analícenme psicológicamente, psiquiátricamente, analicen a la madre, escuchen a Mía, mi hija", continuó el periodista. Mirá también: Le dan la prisión domiciliaria a un cura acusado de abuso de menores Rodrigues agregó que desde entonces lo analizaron psicológicamente. Los próximos pasos serán las pericias psiquiátricas y su hija tendrá que hablar en una Cámara Gesell. También detalló que él denunció al profesional que hizo el informe "por falso testimonio y mala praxis". Agregó que "soy un padre inocente, absolutamente, que quiere estar con su hija. Con la que no pude estar prácticamente durante mucho tiempo".  Mirá también: Empezó el juicio contra un profesor de gimnasia acusado de abusar de ocho nenes  En el programa radial estaba presente la abogada que lo representa. Además, el periodista publicó en Infobae --otro medio donde trabaja-- un video titulado "Quiero recuperar a mi hija" donde mira a cámara y cuenta su versión de los hechos.

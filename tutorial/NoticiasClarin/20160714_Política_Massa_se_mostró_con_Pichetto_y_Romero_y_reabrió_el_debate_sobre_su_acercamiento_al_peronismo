@@ -1,0 +1,86 @@
+
+Sergio Massa recibió en su distrito político de pertenencia a dirigentes peronistas y reabrió el debate sobre su eventual acercamiento o retorno al peronismo. El líder del Frente Renovador recibió con un abrazo a Miguel Ángel Pichetto, el incombustible jefe de los senadores peronistas, y a Oscar Romero, el diputado sindical que conduce el Bloque Justicialista, escisión peronista en Diputados, donde comparte destino Diego Bossio, un amigo de Massa. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/diegobossio/status/753373863044583424",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75337386304458342")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ La foto en la fábrica de autopartes Elhymec, en Troncos del Talar, sumó a otros peronistas: desde el senador nacional Juan Manuel Abal Medina hasta el alcalde local Julio Zamora. Así, Massa plantó un mojón en su relación con el peronismo institucional, del que Pichetto hoy forma parte como secretario político y operador autorizado de gobernadores. Massa oscila así entre su relación aceitada con Margarita Stolbizer, que le sirve al renovador en dos planos: una foto con alta dosis de transparencia -en tiempos de furia judicial con las últimas gestiones gubernamentales- y que le otorga una opción electoral para 2017 en la provincia de Buenos Aires. 
+
+
+Pero diferentes dirigentes peronistas que apuestan por la renovación y el cierre definitivo de la etapa kirchnerista, coincidieron en una frase: "Esta foto nos sirve a todos".
+
+
+
+
+
+var act_379 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_379 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_379.setTitle('Pero diferentes dirigentes peronistas que apuestan por la renovación y el cierre definitivo de la etapa kirchnerista, coincidieron en una frase: "Esta foto nos sirve a todos".');
+act_379.setSubtitle('POLÍTICA NACIONAL'); 
+act_379.setLinkBack('http://www.clarin.com/politica/Massa-Pichetto-Romero-acercamiento-peronismo_0_1613238733.html');
+act_379.setDescription('Se mostraron en una caminata por Tigre. Estuvieron diputados gremiales y Abal Medina. Mensaje al Justicialismo pero también, al Gobierno nacional.');
+act_379.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Massa-Pichetto-Romero-acercamiento-peronismo_0_1613238733.html');
+
+var showShareBarUI_params_379=
+{ 
+containerID: 'shareQuote_379',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_379,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_379
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_379);
+ La instantánea con Massa hoy es una evidencia de renovación para quienes deben lidiar con el peso de la herencia política del Justicialismo y los muestra con el dirigente de mejor imagen, de ese sector. Para el de Tigre es una demostración más de peso político pero además, lo distancia del Gobierno nacional, en tiempos donde el Tarifazo interpela a los peronistas de toda estirpe. Massa sabe que para su objetivo supremo (ser Presidente)  es más necesario el Peronismo que la alianza con Stolbizer y Victoria Donda. Pero el escenario electoral es tan distante para algunos que la foto de hoy en Tigre sirve para la ingeniería política de muchos y el enojo de la primera plana del Gobierno nacional.
+
+Luego, los referentes del peronismo fueron a otras dos fábricas para conversar con los trabajadores sobre la ley de autopartes y finalizaron en Lear S. A. (ver foto), donde el gremio SMATA tiene fuerte influencia.

@@ -1,0 +1,18 @@
+
+Dos periodistas del canal de televisión Chaco TV fueron agredidos por la dueña de del supermercado chino de la ciudad de Resistencia. Los trabajadores de prensa realizaban un informe en el lugar luego de que se conociera de que en ese local habían encontrado mercadería vencida. Los propietarios del establecimiento revolearon botellas y piedras para impedir que se registraran imágenes. La agresión sucedió pasadas las 10 de la mañana de ayer y fue registrada --a pesar de la violencia con la que actuó la mujer-- por la cámara de Walter Denaro. Las imágenes se difundieron por las redes sociales. El supermercado Zhong Guo Huong había sido antes noticia porque la Subsecretaría de Defensa del Consumidor, dependiente del Ministerio de Industria provincial, llevó a cabo allí un importante procedimiento de control de alimentos vencidos y con fechas de vencimientos adulteradas. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La primera en cuestionar el trabajo y la toma de imágenes fue la mujer quien luego, ante la respuesta del camarógrafo de que “están en la vía pública, no invadiendo la propiedad privada”, volvió con una botella que arrojó contra la cámara. También leé: "Condenan la agresión a una periodista que cubría protesta gremial"  El hostigamiento continuó y uno de los empleados también amenazó y corrió del lugar a Denaro y la periodista Cecilia Aranda. La tensión se mantuvo hasta que los dos trabajadores de prensa se alejaron del lugar e hicieron la denuncia en la comisaría. El informe periodístico se verá en los próximos días en el canal Chaco TV.

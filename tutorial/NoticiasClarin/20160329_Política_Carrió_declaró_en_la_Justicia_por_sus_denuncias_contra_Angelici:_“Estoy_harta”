@@ -1,0 +1,150 @@
+
+Elisa Carrió declaró hoy ante el juez Sebastián Casanello en una causa que se abrió a raíz de las denuncias que la diputada nacional de Cambiemos hizo en el programa Animales Sueltos contra el presidente de Boca, Daniel Angelici, íntimo amigo de Mauricio Macri, presidente de la Nación. “Angelici interviene en la Justicia con el consentimiento de Macri", había manifestado “Lilita” en esa entrevista televisiva de principios de marzo, que generó la denuncia formal presentada ante los Tribunales Federales de Comodoro Py por el abogado Carlos Díaz. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En la declaración, a la que tuvo acceso Clarín, la aliada de Macri lanzó una lapidaria crítica a la Justicia. “Hoy me toca cuestionar al Gobierno que llevé al poder. Y lo hago de la misma manera que cuando era oposición porque la lucha por el derecho no se negocia”, sostuvo. Mirá también: Las 20 frases más explosivas de Carrió “No sé que van a hacer con esto, pero bueno. A lo mejor es un testimonio histórico y me salen a pegar todos de nuevo, la corporación entera como siempre. Pero me voy a ir sin haber pactado nunca con ninguna corporación ni política, ni económica, ni judicial y así será”, disparó. 
+
+
+“Oyarbide tiene que ser destituido por delincuente, no jubilarse", lanzó Lilita.
+
+
+
+
+
+var act_136 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_136 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_136.setTitle('“Oyarbide tiene que ser destituido por delincuente, no jubilarse", lanzó Lilita.');
+act_136.setSubtitle('Sin filtro'); 
+act_136.setLinkBack('http://www.clarin.com/politica/Carrio-declaro-Justicia-denuncias-Angelici_0_1549045474.html');
+act_136.setDescription('Estuvo dos horas ante el Juez Casanello que la citó por sus dichos en Animales Sueltos, donde acusó al presidente de Boca por operar judicialmente&nbsp;con consentimiento de Macri. Todo lo que dijo en Tribunales.');
+act_136.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Carrio-declaro-Justicia-denuncias-Angelici_0_1549045474.html');
+
+var showShareBarUI_params_136=
+{ 
+containerID: 'shareQuote_136',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_136,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_136
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_136);
+ Y agregó: “El así fue es responsabilidad de ustedes y de usted señor Juez, ojalá que sirva para algo”, le espetó Carrió a Casanello, uno de los jueces más criticados por su aletargado desempeño en la ruta del dinero K. Mirá también: Carrió calificó a los jueces federales como “el escándalo institucional en la Argentina” Sobre Angelici, Carrió manifestó: “Tomé conocimiento de que un tal señor Angelici, que no sabía quién era, dado que no miro fútbol, ni juego fútbol, hablaba con Oyarbide pidiéndole que se jubilara, almorzaba con jueces y fiscales vinculados a Boca, y que ‘ayudaba’, como lo dijo el propio presidente en un reportaje en La Nación, al presidente sin cumplir institucional alguna”.Macri y Angelici en un homenaje que le hicieron en Boca. “Empecé a escuchar que el que se iba a encargar del Consejo de la Magistratura era Angelici entonces me dediqué a estudiar quién era Angelici”, le contó “Lilita” a Casanello. La diputada oficialista sostuvo ante la Justicia que, tras su investigación, descubrió que Angelici “era uno más en la larga tragedia nacional de operadores y vínculos promiscuos entre operadores políticos, la justicia los servicios de inteligencia y los clubes de fútbol”. Luego, dijo que revisando informes comerciales notó que Angelici era un “ser del juego”. “No sé si es delito pero estoy harta”, reconoció Lilita. “Oyarbide tiene que ser destituido por delincuente, no jubilarse. Estoy harta de haber sido denunciante porque no había Fiscales en la Nación que denuncien. Estoy harta, señor Juez, de tener custodia permanente cuando los asesinos y delincuentes están libres. Estoy harta, de que no haya justicia. Y que paguen los pobres el robo que cada diez años se lleva a la Argentina puesta”. Mirá también: Angelici cruzó a Carrió: "¿Cuándo me vieron en Tribunales o Comodoro Py?" Carrió además cuestionó el estancamiento en el que están las causas “Hotesur” y “ Repsol”. Sobre la primera, que salpica a la expresidenta Cristina Fernández de Kirchner y su empresa hotelera, manifestó: “Hotesur está en un limbo, la causa originaria es de Ercolini, no sé dónde la pateó pero la pateó, después hay una denuncia de irregularidades, no delito y la causa la toma Bonadio, y finalmente va a Rafecas, Rafecas se la devuelve porque parte es copia de nuestra denuncia ante Ercolini, el Fiscal Stornelli apela y se encuentra en el limbo, que Stornelli está vinculado al Club Boca Juniors no tengo dudas”. 
+
+
+"Estoy harta de haber sido denunciante porque no había Fiscales en la Nación que denuncien"
+
+
+
+
+
+var act_168 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_168 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_168.setTitle('"Estoy harta de haber sido denunciante porque no había Fiscales en la Nación que denuncien"');
+act_168.setSubtitle('Sin filtro'); 
+act_168.setLinkBack('http://www.clarin.com/politica/Carrio-declaro-Justicia-denuncias-Angelici_0_1549045474.html');
+act_168.setDescription('Estuvo dos horas ante el Juez Casanello que la citó por sus dichos en Animales Sueltos, donde acusó al presidente de Boca por operar judicialmente&nbsp;con consentimiento de Macri. Todo lo que dijo en Tribunales.');
+act_168.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Carrio-declaro-Justicia-denuncias-Angelici_0_1549045474.html');
+
+var showShareBarUI_params_168=
+{ 
+containerID: 'shareQuote_168',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_168,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_168
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_168);
+ En cuanto a Repsol, manifestó: “En el Parlamento denuncié a la señora Cristina Kirchner, que era presidente de la Nación a todos los diputados que votaban por la entrega de dinero a los españoles, en fraude a la Nación. Esa causa está en trámite ante el Juez Lijo hace diez años, lleva diez años. Nunca se allanó una oficina de Repsol”.El juez Casanello citó a Carrió con celeridad.  “Yo solo rogaba a los jueces no cerraran las causas, si no iban a hacer justicia, que al menos no las cierren. No sé quien mete la cola lo que sí sé es que no hay voluntad de investigar, ni política, ni judicial”, sentenció. En su declaración, “Lilita” además dejó trascender que teme que intereses españoles presionen sobre el PRO y la UCR, e inclusive sobre el propio PJ, para que no se investigue jamás esa causa.

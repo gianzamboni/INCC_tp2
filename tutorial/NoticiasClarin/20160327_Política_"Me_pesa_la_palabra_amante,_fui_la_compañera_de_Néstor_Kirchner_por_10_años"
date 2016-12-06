@@ -1,0 +1,18 @@
+
+Miriam Quiroga, la ex secretaria de Néstor Kirchner, volvió a hablar en televisión sobre su relación con el ex Presidente de la Nación. Tras confirmar días atrás que fue su amante durante 10 años, en esta oportunidad tocó nuevamente el tema en el programa de Mirtha Legrand. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Fue una confesión en todo sentido. En lo personal, hacia mi familia. No lo sabían. Era algo que hace mucho que me lo venían preguntando, pero yo consideré que no era el momento para contarlo. ¿Por qué ahora? Uno elige el momento de expresarse cuando lo considere. Estuve amenazada y tuve mierdo por mi familia", contó Quiroga en La Noche de Mirtha Legrand, el programa que va los sábados por la noche por Canal 13. Mirá también: Miriam Quiroga: "Fui amante de Néstor por diez años" La mujer, que es santacruceña y conoció a Néstor Kirchner cuando era gobernador de esa provincia, dio más detalles del vínculo. "Me pesa la palabra amante, fui la compañera de Néstor Kirchner. Pasé muchas horas trabajando a su lado. Él tomó la decisión de que lo acompañe y yo la de acompañarlo en su carrera política", confesó. Quiroga también agregó que Cristina Fernández de Kirchner estaba al tanto de la relación que los unía. "No podía no saberlo. Lo tenía (a Néstor Kirchner) a tres metros de mi oficina. Y por su despacho pasaron muchos funcionarios, entre ellos Cristina".

@@ -1,0 +1,18 @@
+
+"Lo primero que quiero hacer es estar con mi familia". Fernando Pengsawath, el policía de 23 años baleado el 31 de diciembre pasado en una ruta de Ranchos, su pueblo cercano a Chascomús, cuenta las horas. Los médicos le dijeron que mañana o, a más tardar, el jueves, podrá abandonar la clínica Fitz Roy de Villa Crespo, donde hoy cumplió 75 días internado. El joven policía estuvo al borde de la muerte durante casi un mes, y luego comenzó una lenta recuperación que seguirá aún varios meses más, aunque desde esta semana ya pueda irse a dormir a su casa. "Estoy vivo por milagro", dijo ayer a Clarín, mientras el jefe de los médicos que estuvieron a cargo de su recuperación, Marcelo Schieber, consentía. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Pengsawath recibió dos tiros de escopeta en el abdomen y un balazo de una pistola en una pierna. En este tiempo que pasó internado, debió ser operado 30 veces. El ataque sucedió en la madrugada del 31 de diciembre pasado, cuando junto con su compañera Lucrecia Yudati habían montado un retén policial para control de vehículos sobre la ruta provincial 30, a tres kilómetros de Ranchos, en la salida del pueblo hacia Chascomús. Allí estaban cuando le hicieron señas a una camioneta para que frenara en la banquina. Los ocupantes del vehículo acataron la señal, pero en cuanto los policías quisieron acercarse los tres ocupantes bajaron y dos de ellos dispararon a mansalva contra Pengsawath y Yudati. Los policías no alcanzaron ni a desenfundar. Retrocedieron y, heridos, saltaron a un zanjón de casi dos metros para buscar refugio. Allí escucharon cómo la camioneta se alejaba a toda velocidad. "Realmente pensé que me moría", dijo Pengsawath, y recordó que consiguió llegar hasta el patrullero para pedir ayuda por el apoyo que le daba su compañera, también herida. Yudati deberá seguir internada aún un tiempo más. Una bala le atravezó las dos piernas a la altura del tobillo y aún tiene el pie izquierdo muy comprometido. "Tengo paciencia y trato de mantener el buen humor. Mucha gente me visita todos los días y nunca me dejan sola", contó ayer a Clarín. Los hermanos Cristian y Martín Lanatta, y su cómplice Víctor Schilacci, están condenados por el llamado triple crimen de General Rodríguez, vinculado al contrabando de efedrina. Habían escapado de la cárcel de General Alvear, balearon a los policías de Ranchos en su huida, y días más tarde fueron recapturados en un pueblo de Santa Fe.

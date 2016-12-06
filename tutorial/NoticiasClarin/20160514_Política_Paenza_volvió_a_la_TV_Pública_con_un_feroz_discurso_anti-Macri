@@ -1,0 +1,86 @@
+
+El periodista y matemático Adrián Paenza volvió este fin de semana a la televisión abierta con la catorceava edición de su programa “Científicos: Industria Argentina”. El conductor, durante años muy cercano a la ex presidenta Cristina Fernández de Kirchner, arrancó el nuevo ciclo con críticas a las políticas del gobierno de Mauricio Macri sobre la ciencia. "Esta es sin ninguna duda una edición especial de “Científicos Industria Argentina”; hoy empezamos a recorrer la temporada número 14 en la televisión abierta", comenzó. “Yo no quería hacer más este programa. Yo no quería trabajar para este gobierno. No quiero trabajar para la administración de Macri”, se lamentó Paenza. “Y este es un canal estatal, en realidad, debería estar independizado de todo este tipo de cuestión pero no es así”, añadió. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ El matemático contó cómo cambió su decisión de no hacer el programa y le dedicó mensajes firmes al actual ministro de Ciencia y Tecnología, el kirchnerista Lino Barañao. “Nosotros no podemos hacer de cuenta como que no pasó nada, por más que se haya quedado el ministro (Barañao). Han pasado y están pasando muchas cosas muy serias en la Argentina”. Mirá también: Revuelo en Twitter por las críticas de Paenza a Macri en la TV Pública  A Barañao le dijo: “Luchar desde adentro significa denunciar lo que es inaceptable; no poner la firma como si se sintiera avergonzado de haber formado parte del gobierno anterior”.  “Él es el que se tiene poner al frente de los reclamos”, advirtió Paenza, uno de los divulgadores científicos más prestigiosos del mundo. Elogioso de las políticas de la última década, Paenza sostuvo que en el kirchnerismo “claramente hubo intencionalidad de convocar a la ciencia para que en la mesa se tomaran decisiones que nos importen para tener soberanía”. 
+
+
+En el gobierno de Cristina, "me sentía más cómodo", dijo Paenza en la TV Pública.
+
+
+
+
+
+var act_1e4 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_1e4 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_1e4.setTitle('En el gobierno de Cristina, "me sentía más cómodo", dijo Paenza en la TV Pública.');
+act_1e4.setSubtitle('Científicos Industria Argentina'); 
+act_1e4.setLinkBack('http://www.clarin.com/politica/Paenza-TV-Publica-discurso-anti-Macri_0_1576642442.html');
+act_1e4.setDescription('El periodista cient&iacute;fico arranc&oacute; su programa con un duro mensaje a Lino Bara&ntilde;ao y&nbsp;lament&aacute;ndose de &quot;trabajar para el Gobierno&quot;. Lo corrigieron.');
+act_1e4.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Paenza-TV-Publica-discurso-anti-Macri_0_1576642442.html');
+
+var showShareBarUI_params_1e4=
+{ 
+containerID: 'shareQuote_1e4',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_1e4,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_1e4
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_1e4);
+  Y sobre el presente se lamentó: “Yo pensé que esto no me iba a pasar más”.  “La gente eligió un modelo distinto, en el que se privilegian las corporaciones. La ciencia puede pasar a verse como un bien de consumo”, dijo, y añadió: “Durante mucho tiempo discutíamos proyectos y ahora estamos discutiendo salarios nuevamente. Una época que parecía olvidada”. Mirá también: Las nuevas caras de Canal 7  Finalmente, intentó justificar por qué decidió continuar durante el macrismo con el programa que tuvo su primera emisión en el gobierno de Eduardo Duhalde (en mayo del 2003). “Este es el programa de los científicos, no es un programa nuestro. Nosotros somos intermediarios”, dijo.
+
+ Luego, agregó: “Invitamos a un grupo de científicos para decirle al ministro: ‘Ministro, no crea que toda la sociedad científica está de acuerdo. Vamos estar monitoreando todo lo que pase’”.  Pero Claudio Martínez, el productor que lo acompañó en el piso, lo corrigió. “Dejame aclarar, simplemente agregar algo: vos decías que no querés trabajar para el gobierno de Macri. En realidad nosotros nunca trabajamos antes para el gobierno de Cristina”, recalcó Martínez.  “Pero me sentía más cómodo”, le respondió Paenza.  “Pero nosotros trabajamos para un medio público que nos dio el espacio durante tantos años”, indicó Martínez, y Paenza le dio la razón. “El canal nos está ofreciendo un espacio de libertad”, reconoció Martínez.  

@@ -1,0 +1,20 @@
+
+El gobernador de Salta, Juan Manuel Urtubey, se cruzó esta noche con el panelista Diego Brancatelli durante la emisión de Intratables (América TV). 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_t4m68iiz",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_t4m68iiz"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_t4m68iiz").after(scriptEl);
+ Fue cuando el periodista expresó: "Por lo que estamos escuchando no parece un dirigente de la oposición sino del oficialismo. ¿Qué voto busca captar de cara a 2017 o 2019 (si tiene ambiciones presidenciales)? Del kirchnerismo seguro que no y del peronismo.... hasta denosta la marchita peronista". "El peronismo no empezó en 2003, pero a partir de ahí empezó su destrucción", le respondió el gobernador en referencia al kirchnerismo. Y cerró: "Uno no es candidato con los votos de un espacio político, sino con los votos de la población".

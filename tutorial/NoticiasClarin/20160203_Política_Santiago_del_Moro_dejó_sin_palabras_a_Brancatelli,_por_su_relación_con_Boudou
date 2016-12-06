@@ -1,0 +1,50 @@
+
+Santiago del Moro le hizo un fuerte cuestionamiento a Diego Brancatelli, por su relación con el ex vicepresidente Amado Boudou, y lo dejó sin palabras. Como es habitual en Intratables, se venía dando un debate caliente en torno a la detención de la dirigente de la agrupación K Tupac Amaru, Milagro Sala, por el supuesto delito de defraudación al Estado provincial, bajo el cargo de "asociación ilícita". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Brancatelli, una de las voces identificadas con el kirchnerismo, que hasta quiso ser candidato a concejal en Ituzaingó, y defensor a ultranza de todos sus dirigentes, sostenía que el debate en torno a la lujosa vida de Sala, tenía que darse con ella en libertad, porque "está presa incorrectamente". El conductor primero intentó una reflexión acerca de que a los argentinos no les interesa que los políticos "metan la mano en la lata" y fue interrumpido por Brancatelli que le espetó: "Hay mucha hipocresía". Leé también: La lujosa vida de Milagro Sala Allí Del Moro estalló y perdió su tono moderador. "¿Hipocresía de qué, Brancatelli? Vos lo llevaste a la presentación de tu libro a Boudou", le reprochó. Y continuó: "A la presentación de tu libro llevaste a Boudou, ¿cómo podés llevar a Boudou, sospechado de corrupto?". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/josenunez545/status/641375255903272960",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_64137525590327296")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Efectivamente, en septiembre del año pasado el periodista militante llevó como estrella invitada a Boudou a la presentación de "Todos contra Branca, Branca contra todos", donde se cruzaron elogios, sonrisas y donde también llamaron a votar al entonces candidato presidencial del Frente para la Victoria, Daniel Scioli. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Leé también: Boudou fue la "estrella" en la presentación del libro de Brancatelli Meses después, a cinco días de la asunción de Mauricio Macri, se escribía otra controvertida página de la historia política del vicepresidente de Cristina Kirchner, convirtiéndose en el primer ex funcionario K en ser ser llamado a juicio oral, por la causa Ciccone. Además, el lunes tuvo otro revés judicial con el pedido del fiscal Carlos Rívolo para que sea procesado, en una causa por dádivas. Leé también: Terminó la feria judicial: piden el procesamiento de Boudou por dádivas

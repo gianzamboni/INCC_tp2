@@ -1,0 +1,18 @@
+
+Nuevas imágenes aparecieron del escrache que sufrió Carlos Zannini, el ex candidato a vicepresidente del kirchnerismo, en un avión con rumbo a Miami, Estados Unidos. Un grupo de pasajeros se indignó con la presencia del ex secretario de Legal y Técnica y compañero de fórmula de Daniel Scioli y fue insultado por un grupo de pasajeros dentro del vuelo 900AA, quienes pretendendían que se bajara del vuelo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Leé también: Nuevo escrache a Zannini: ahora lo insultaron en un avión rumbo a Miami Un pasajero ubicado en el asiento de adelante de Zannini filmó casi en primer plano el gesto adusto del ex funcionario, que cada tanto intenta decir alguna palabra en medio de los gritos y deja ver claramente cómo vivió el mal momento, sin perder la calma. Caradura”, “ladrón”, “vos seguís afanando”, “¡andate, rata!”, “basura”, “¡viajá por Aerolíneas (Argentinas)!”, fueron algunos de los epítetos, además de insultos. ​El tenso momento se dio antes del despegue, pero los reclamos habían empezado en la fila business de la aerolínea norteamericana, en el hall de Ezeiza.  Leé también: El mal momento de Zannini en la Bombonera El domingo, Zannini vivió otro mal momento durante el Superclásico en la cancha de Boca, cuando también fue insultado por los hinchas que se encontraban en la platea. Sin embargo, allí el ex candidato a vice del FpV contó con dos salvadores que sacaron a empujones a un hombre que lo increpaba de cerca. En febrero de este año, el “Chino” fue increpado en un supermercado de Santa Cruz, cuando vecinos de Río Gallegos le reclamaron: “Se robaron todo, ustedes se robaron todo, ladrones”.

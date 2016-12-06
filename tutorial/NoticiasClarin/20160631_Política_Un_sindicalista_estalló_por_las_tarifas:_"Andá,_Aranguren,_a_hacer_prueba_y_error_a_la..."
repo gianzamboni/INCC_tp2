@@ -1,0 +1,18 @@
+
+El secretario general de la Asociación Bancaria, Sergio Palazzo, insultó al ministro de Energía, Juan José Aranguren, y le pidió que no haga "prueba y error" con los trabajadores. "Andá, Aranguren, a hacer prueba y error con la puta madre que te re mil parió, no con los trabajadores", increpó ayer al funcionario durante un discurso frente a dirigentes y trabajadores de su gremio, lo que despertó los aplausos de los asistentes, y de sus compañeros de escenario, entre los que estaban Hugo Moyano y Luis Barrionuevo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Aranguren: habrá tarifas especiales para los barrios más pobres En un discurso encendido contra el Gobierno, Palazzo sostuvo que "algunas frases sueltas de funcionarios" nacionales "los pintan tal cual son", por lo que les reclamó que hablaran de "puestos de trabajo o disposición salarial". Durante el cierre del Congreso Nacional Bancario que se realizó en el auditorio Malvinas Argentinas del microcentro porteño, el líder de La Bancaria cuestionó los dichos de Aranguren, quien durante su presentación en la Cámara de Diputados para defender los aumentos de las tarifas dijo que el Gobierno estaba "aprendiendo". Mirá también: El Gobierno sale a defender a Aranguren por el conflicto de intereses con Shell Durante el Congreso, Palazzo cuestionó el aumento de precios y de tarifas y firmó un documento en el que pidió la "reapertura de la paritaria" de los trabajadores bancarios. La Bancaria y las conducciones de las tres CGT y ambas CTA se pronunciaron por "la recuperación gremial de la agenda de discusión de los grandes temas nacionales"; ratificaron "el camino de unidad del sindicalismo" y rechazaron "el ajuste, los tarifazos y el neoliberalismo". Mirá también: Tarifas: Aranguren anticipó más aumentos para 2017 Además de Moyano, Barrionuevo y Palazzo también estuvieron Héctor y Rodolfo Daer (en nombre de Antonio Caló), Pablo Micheli y Hugo Yasky. En la cumbre ratificaron que "la CGT se unificará en el Congreso del 22 de agosto próximo", a la vez que Palazzo subrayó que "los desencuentros y las diferencias que existieron y pueden aún existir entre los sectores son secundarias ante la realidad".

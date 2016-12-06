@@ -1,0 +1,18 @@
+
+El gesto del presidente estadounidense Barak Obama de sacarse el anillo y guardárselo en un bolsillo al saludar a algunos de los jóvenes reunidos para escucharlo el miércoles en la Usina del Arte sigue dando que hablar. Y hoy llegó a la prensa británica. Bajo el título “Barack Obama filmado ocultando su anillo de bodas antes de darle la mano a los jóvenes argentinos”, la edición online del diario inglés The Daily Mirror se ocupa hoy del tema. También la versión web del Daily Mail publicó una nota sobre el asunto. “El presidente de Estados Unidos había saludado una nueva era en la sociedad entre los dos países (Argentina y EE.UU), pero quedó atrapado haciendo algo embarazoso”, dice el Mirror. Mirá también: Obama: "Hay líderes que sólo quieren mantenerse en el poder" “El líder estadounidense fue capturado por una cámara retirando subrepticiamente la joya y poniéndola en un bolsillo del pantalón, al parecer por consejo de los guardias de seguridad”, continúa el diario inglés. Críticos del presidente presentaron las imágenes como evidencia “de lo que el presidente piensa realmente de la nación”, dice el Mirror. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El video circula por Internet desde hace días y generó múltiples comentarios. Que lo hizo por temor a que se lo robaran fue una de las interpretaciones más repetidas para el hecho. Aunque hubo también quien dio lugar a la idea de que la joya le queda grande. En ese caso, podría haberse tratado de un gesto de precaución para no perderla accidentalmente. Mirá también: Un “town hall” que sorprendió a todos en La Boca No es la primera vez que el anillo de bodas de Barak Obama es noticia. La prensa estadounidense informó sobre algunas ocasiones en la que detectaron que el presidente no estaba usando su anillo.

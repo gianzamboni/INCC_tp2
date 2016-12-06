@@ -1,0 +1,18 @@
+
+ El presidente para América Latina de SAP, Claudio Muruzábal, dijo en el Foro de Inversión y Negocios en Buenos Aires que está “evaluando nuevas formas de ampliar la presencia” de la empresa de software en el país. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ “Vemos que hoy hay una buena conversación sobre las oportunidades de creación de empleo y desarrollo de negocios en el país”, dijo Muruzábal, que ya ve "los primeros indicios de inversiones que abrirán nuevos puestos de trabajo en el país”.  Muruzábal no dio detalles ni plazos de la inversión de SAP, que ahora tiene dos centros de exportación de servicios en Argentina, donde emplea a 660 personas.

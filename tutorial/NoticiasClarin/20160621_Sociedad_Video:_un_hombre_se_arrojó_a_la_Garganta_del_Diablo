@@ -1,0 +1,18 @@
+
+El video es breve, pero muy impactante. En la Garganta del Diablo, en las Cataratas del Iguazú, un turista está filmando los saltos de agua cuando un hombre, que aparentemente es también un turista, se trepa por la baranda y cae en el agua. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ La identidad del hombre la difundieron medios locales. Era un brasileño, Vinicius De Campos Cruz, de 26 años, que había llegado desde la localidad de Osasco, en San Pablo para alojarse en Foz de Iguazú.  Según trascendió, había dejado en las inmediaciones de la pasarela de Garganta un bolso con sus pertenencias, en el que también había una nota explicándoles a sus familiares por qué se quitaba la vida.

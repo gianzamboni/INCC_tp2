@@ -1,0 +1,20 @@
+
+Jessica Stubbins, de la ciudad de Scunthorpe, en el Reino Unido, dio a luz en menos de un minuto a su beba en la puerta del hospital de esa villa británica, mientras su marido buscaba lugar para estacionar.  La mujer acaba de atravesar la primera serie de puertas cuando sintió una aguda puntada en la panza y su hija, Lucy, llegó al mundo. Una cámara de seguridad del Scunthorpe General Hospital grabó el sorprendente parto. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Su marido Tom, un carnicero, dijo al programa Good Morning Britain lo que exclamó su mujer segundos después de parir: "¡Es una nena! ¡Lo siento, lo siento!'. "Se sentía muy culpable porque me perdí el parto. Estaba en estado de shock absoluto y no sabía lo que estaba pasando", recordó. Mirá también: Polémica por otra madre-abuela: dio a luz con 63 años La pareja apareció en el estudio de televisión esta mañana con Lucy y Penny, su hermana mayor. Allí, Jessica le dijo al conductor Ben Shephard: "Sólo le dije a Tom que mejor me dejara en la puerta mientras estacionaba. Y entonces estaba tratando de cerrar la primera puerta muy rápido y luego me di cuenta de que mi beba ya estaba en el camino".
+
+La mujer ni siquiera se sentó. De pie, doblada por el dolor, pujó, se bajó el pantalón y fue sosteniendo a la recién nacida mientras salía de su cuerpo. Las imágenes son impresionantes y los conductores del programa resaltaron que "por el amor de madre, esta mujer nunca dejó caer a su hija al suelo. Fortaleza absoluta".  Apenas terminado el parto -que duró menos de un minuto- las enfermeras se acercaron y envolvieron a la beba en un buzo antes de llevar a la familia al interior del hospital. Mirá también: Amamantar a 4 tetas: la emotiva historia de una pareja de mamás "Espero que no te hayan cobraro el estacionamiento", bromeó el conductor del programa luego de haberse emocionado, como muchos televidentes, al ver a esta familia completa tras un episodio que los tomó tan por sorpresa.  

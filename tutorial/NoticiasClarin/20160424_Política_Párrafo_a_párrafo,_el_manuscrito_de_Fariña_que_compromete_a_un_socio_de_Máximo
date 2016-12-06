@@ -1,0 +1,334 @@
+
+Además de declarar durante más de ocho horas, el "arrepentido" Leonardo Fariña le entregó al juez Sebastián Casanello un manuscrito de cinco hojas donde suma información sobre los manejos y negocios de Lázaro Báez bajo investigación. En el escrito aporta nuevos datos que podrían complicar a Cristina y Máximo Kirchner. Mirá también: La ruta del dinero K: hallan pruebas de las bóvedas Menciona a Roberto Saldivia, un abogado que integró el directorio de uno de los hoteles de la ex familia presidencial, y explicitó la cercanía de Báez con Osvaldo Sanfelice, socio de Máximo en la inmobiliaria de Río Gallegos. A continuación, la transcripción completa del manuscrito: "Sr. Juez Por medio de escrito deseo hacer una breve ampliación de mi indagatoria, para contarle algunos detalles que no fueron volcados el día 8 pasado y que quizás le parezcan o los valore como importantes para la causa. Mirá también: Fariña presentó un escrito y comprometió a un socio de Máximo Kirchner Durante mi estadía en Río Gallegos, el señor Báez y demás integrantes del grupo mostraban como el encargado de las cuestiones personales legales de Baez al Dr. Saldivia. No recuerdo si se llama Roberto o Ricardo, creo que Roberto. Esta persona era en lo legal, lo que el contador César Andrés era en lo contable.
+
+El doctor Saldivia y el contador Andrés eran sus técnicos de más confianza. Este abogado se encargaba de los asuntos y estrategias legales de Báez. Entre otras causas, por lo menos hasta el año 2011, era quien designaba los abogados para las diferentes causas. Mirá también: Un fiscal jujeño, a Máximo Kirchner: "Vaya preparando las valijas, usted que conoce de eso" Yo he compartido varias charlas, se encargaba de colectarme la información para la auditoría y he tenido comunicaciones telefónicas con él. Inclusive una vez lo fui a buscar al Aeroparque cuando vino de Río Gallegos. En la primera parte de mi trabajo para Austral, en el cual yo estaba mucho en la empresa, varias veces Báez junto con Andrés y Saldivia se iban juntos a juzgados y bancos. El Dr. Saldivia es una pieza clave en la estructura legal de Báez. 
+
+
+El Dr. Saldivia es una pieza clave en la estructura legal de Báez"
+
+
+
+
+
+var act_c45 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_c45 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_c45.setTitle('El Dr. Saldivia es una pieza clave en la estructura legal de B&aacute;ez&quot;');
+act_c45.setSubtitle('La ruta del dinero K'); 
+act_c45.setLinkBack('http://www.clarin.com/politica/Parrafo-manuscrito-Farina-compromete-Maximo_0_1564643537.html');
+act_c45.setDescription('La transcripci&oacute;n completa del escrito que le entreg&oacute; al juez Casanello en la causa contra L&aacute;zaro B&aacute;ez. Aport&oacute; datos que podr&iacute;an complicar a Cristina y su hijo.');
+act_c45.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Parrafo-manuscrito-Farina-compromete-Maximo_0_1564643537.html');
+
+var showShareBarUI_params_c45=
+{ 
+containerID: 'shareQuote_c45',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_c45,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_c45
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_c45);
+ Por otra parte, quiero manifestar que el entonces presidente de Austral Construcciones, Julio Mendoza, era el encargado de armar las ofertas de licitación. Con esto quiero decir, y me consta, que se encargaba, además de armarlas técnicamente, de incrementar las partidas de la licitación. Entiéndase que si el presupuesto de un pliego ya tenía un sobreprecio digitado (no todas, pero varias de las que he visto de valor alto), se requiere que los costos denunciados por la empresa deben estar incrementados. Por este motivo vuelvo a reiterar que es imprescindible analizar las hojas de oferta denunciadas por la empresa, como así también la composición del precio manifestado por el pliego de la obra. Mirá también: ¿Aguanta Argentina un “Mani pulite”? En otras ocasiones, se organizaba que los oferentes sean sólo empresas del grupo. Hay obras muy grandes cuyos pliegos fueron sólo adquiridos por Gotti Hnos. SA, Austral y Kank y Costilla. Con esto lo que quiero decir, es que para que haya sobreprecio en las obras públicas adjudicadas no se requiere sólo del actuar doloso de la empresa adjudicataria, sino también del presupuesto de la obra licitada, y eso ya depende de los ministerios. Y otra cosa importante a estudiar es el tema de la no realización de certificación de obra pero su positiva certificación. Me consta que Austral ha certificado porcentajes de obra o valores de certificación falsos pero que han sido convalidados por Vialidad. Una nochecita en la oficina de Austral en Río Gallegos, Martín llevó en un botinero unos pocos fajos de dólares que dijo que eran para el inspector de Vialidad por una obra. No puedo identificar ese inspector porque yo no iba a las obras, sólo trabajaba con papeles. 
+
+
+Una nochecita en la oficina de Austral en Río Gallegos, Martín (Báez) llevó en un botinero unos fajos de dólares que dijo que eran para el inspector de Vialidad por una obra"
+
+
+
+
+
+var act_f93 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_f93 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_f93.setTitle('Una nochecita en la oficina de Austral en R&iacute;o Gallegos, Mart&iacute;n (B&aacute;ez) llev&oacute; en un botinero unos fajos de d&oacute;lares que dijo que eran para el inspector de Vialidad por una obra&quot;');
+act_f93.setSubtitle('La ruta del dinero K'); 
+act_f93.setLinkBack('http://www.clarin.com/politica/Parrafo-manuscrito-Farina-compromete-Maximo_0_1564643537.html');
+act_f93.setDescription('La transcripci&oacute;n completa del escrito que le entreg&oacute; al juez Casanello en la causa contra L&aacute;zaro B&aacute;ez. Aport&oacute; datos que podr&iacute;an complicar a Cristina y su hijo.');
+act_f93.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Parrafo-manuscrito-Farina-compromete-Maximo_0_1564643537.html');
+
+var showShareBarUI_params_f93=
+{ 
+containerID: 'shareQuote_f93',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_f93,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_f93
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_f93);
+ Estimo que el valor de las facturas apócrifas debe ser similar al valor del adelanto de obra (adelanto financiero). También quiero decir que se investiguen las facturas apócrifas o las extracciones de efectivo y la distribución de dividendos de segunda cadena de giro. Es decir, por ejemplo, con los combustibles. Austral se compraba a sí mismo el combustible por medio de las empresas de combustible de Báez y como Austral pagaba caro el combustible, la facturación apócrifa está en la empresa de combustible, que no es más que el mismo accionista con otro nombre de empresa o testaferro accionista. Entonces, en este caso, real, la empresa de combustible debe sacar del giro de la empresa el efectivo. Y para hacerlo usan facturas apócrifas, o en su defecto, si necesitan lavar dinero o pagar la “coima” retornando en blanco, pagan servicios o adquieren servicios y/o bienes no utilizados. Mirá también: Lázaro Báez: un imperio de propiedades bajo sospecha Otro lugar que debe investigarse es el hotel en donde yo me alojaba en mis estadías en Río Gallegos. No recuerdo si se llama “Hotel Santa Cruz” u “Hotel Río Gallegos”. Allí habría que pedir el registro de alojamientos para probar que estuve allí. Ese hotel queda en la zona céntrica de Río Gallegos y el restorán da a la esquina. En ese hotel Austral tenía “cuenta corriente”, es decir, pagaban un monto por reserva de habitaciones. Hice referencia al Dr. Saldivia ya que puede tener documentación que sirva para el proceso y porque me consta la estrecha confianza con el señor Báez. 
+
+
+Con el paso del tiempo, Martín Báez me dijo que 'El Bochi' (Sanfelice) era el encargado de la inteligencia de ellos. No me consta que haya trabajado para los servicios pero sí que era el encargado de la inteligencia para el grupo"
+
+
+
+
+
+var act_4d5 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_4d5 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_4d5.setTitle('Con el paso del tiempo, Mart&iacute;n B&aacute;ez me dijo que &#39;El Bochi&#39; (Sanfelice) era el encargado de la inteligencia de ellos. No me consta que haya trabajado para los servicios pero s&iacute; que era el encargado de la inteligencia para el grupo&quot;');
+act_4d5.setSubtitle('La ruta del dinero K'); 
+act_4d5.setLinkBack('http://www.clarin.com/politica/Parrafo-manuscrito-Farina-compromete-Maximo_0_1564643537.html');
+act_4d5.setDescription('La transcripci&oacute;n completa del escrito que le entreg&oacute; al juez Casanello en la causa contra L&aacute;zaro B&aacute;ez. Aport&oacute; datos que podr&iacute;an complicar a Cristina y su hijo.');
+act_4d5.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Parrafo-manuscrito-Farina-compromete-Maximo_0_1564643537.html');
+
+var showShareBarUI_params_4d5=
+{ 
+containerID: 'shareQuote_4d5',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_4d5,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_4d5
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_4d5);
+ Otra situación que quiero asociar es la relación con el “Bochi” Sanfelice. Lo conocí en mi primera visita a Austral. A mí me llevan de su empresa “Pluscarga”, cuyo nombre legal es Seire SA, voy con el señor Carlos Minozzi, quien puede acreditar mis dichos. Cuando llegamos a la empresa, la reunión inicial la tuve con Martín Báez, Claudio Bustos, “El Bochi” Sanfelice y Carlos Minozzi. Con el paso del tiempo, Martín Báez me dijo que “El Bochi” era el encargado de la inteligencia de ellos. No me consta que haya trabajado para los servicios pero sí que él era el encargado de la inteligencia para el grupo. A su vez era el administrador de los bienes inmuebles y de los campos de Báez y de Austral Agro. Esta persona tiene la documentación de las propiedades de los Báez y de los campos de Austral Agro. A él lo traté personalmente en esa primera reunión y luego en el asado que comimos esa misma noche en la chacra, y luego sólo nos saludábamos en la empresa. Con respecto a los campos sólo he visto algunos boletos de compra-venta que se pagaron en dólares cash. Austral Agro era una empresa que tenía propiedades, no generaba ganancias (hasta que yo estuve), y estaban haciendo un proyecto experimental de plantaciones con semillas traídas de Canadá o USA. Esa empresa estaba a cargo de Leandro Báez. Lo que sí puedo asegurar es que el valor de patrimonio de la empresa no era coincidente con los valores de los boletos de compra-venta. Y además, había campos que no estaban incorporados al patrimonio, pero sí comprados por boleto. Considero que sería importante que se le pida información a los colegios de escribanos de Santa Cruz, Chubut y Río Negro para saber en qué operaciones aparecen los Báez. 
+
+
+Austral Agro estaba a cargo de Leandro Báez. El valor de patrimonio de la empresa no era coincidente con los valores de los boletos de compra-venta. Y además, había campos que no estaban incorporados al patrimonio, pero sí comprados por boleto" 
+
+
+
+
+
+var act_42d = new gigya.socialize.UserAction();
+
+var emailBodyCustom_42d = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_42d.setTitle('Austral Agro estaba a cargo de Leandro&nbsp;B&aacute;ez. El valor de patrimonio de la empresa no era coincidente con los valores de los boletos de compra-venta. Y adem&aacute;s, hab&iacute;a campos que no estaban incorporados al patrimonio, pero s&iacute; comprados por boleto&quot;&nbsp;');
+act_42d.setSubtitle('La ruta del dinero K'); 
+act_42d.setLinkBack('http://www.clarin.com/politica/Parrafo-manuscrito-Farina-compromete-Maximo_0_1564643537.html');
+act_42d.setDescription('La transcripci&oacute;n completa del escrito que le entreg&oacute; al juez Casanello en la causa contra L&aacute;zaro B&aacute;ez. Aport&oacute; datos que podr&iacute;an complicar a Cristina y su hijo.');
+act_42d.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Parrafo-manuscrito-Farina-compromete-Maximo_0_1564643537.html');
+
+var showShareBarUI_params_42d=
+{ 
+containerID: 'shareQuote_42d',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_42d,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_42d
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_42d);
+ Otra persona que puede aportar información sensible es el señor Fernando Butti, ex contador de Báez y persona de extrema confianza. Yo no llegué a conocerlo personalmente, pero es muy conocida su historia en Río Gallegos. Fue quien participó de la operación de Liechtenstein y le manejaba el patrimonio personal a Báez. Ellos se (ilegible) porque supuestamente Butti le habría robado dinero a Báez de las operaciones en negro que realizaba para él. Y esa historia me fue corroborada por el mismo Martín Báez. El problema había surgido porque Butti actuaba, entre otras cosas, como testaferro de Báez en varios campos. Y según dijo Martín, se quedó con algunos boletos de compra-venta y pagó sobreprecios en algunos de ellos. Cuento esto porque considero factible que el señor Butti pueda tener información y documentación importante de Báez para el proceso. Mirá también: Como testigo protegido, Fariña ahora está aislado y casi preso Otra cosa importante que quiero destacar es que mi ex abogado Horacio Diego Torre Petracci tiene documentación mía en su poder. Tiene documentación del campo de Mendoza, los papeles de la auditoría y compra de Traline SA (sociedad con la cual se compró “El Entrevero”). Tiene también facturas de gastos en el exterior míos, una carpeta con copias de pasaporte de Martín y Lázaro Báez con una hoja de comprobante de la cuenta de Lázaro Báez en PKB Suiza, Lugano. Hay otra documentación que tiene que no puedo especificar porque se llevó varias cosas del departamento donde yo vivía en la calle Libertador 2423, piso 23. Esto pasó el día en que este juzgado ordenó los allanamientos y que fueron a la casa de mi papá, de Elaskar y no sé si es el mismo día de SGI. Los domicilios de Petracci que conozco son: el estudio de la calle Montevideo (CABA), calle La Roche (Morón) y una quinta en Moreno. De la quinta en Moreno no recuerdo la dirección pero sí no está a nombre de él, está a nombre del padre. Es muy factible que la documentación esté en esa quinta. También tiene parte de los libros de Diego SA (sociedad dueña del departamento de Libertador). Los demás libros de Diego SA los tiene mi “ex” “contador” Guillermo Wainer. Su estudio está en la calle Rivadavia a la altura de Haedo. Mirá también: La corrupción, un sistema de los Kirchner Cuando el señor Petracci enlaza con Daniel Pérez Gadín en el año 2011 para solucionar el conflicto laboral con Báez, me presenta al señor Daniel Vidart. Esta persona es amiga de Walter Zanzot. Eran los que iban a intentar restablecer el vínculo con Lázaro. Vidart es dueño de una empresa de seguridad que se llama TSS Seguridad. Tiene la oficina en el mismo lugar que Petracci pero en el piso de arriba (calle La Roche, Morón). Vidart conoce a Báez porque estaba en Vialidad y se encargó de la seguridad de algunas propiedades de Báez. Con respecto a lo que se viene investigando quiero manifestar que es de (ilegible) que declare Maximiliano Goff Dávila, quien participó de casi todas las operaciones que se realizaron para Báez y también fue auditado por Gadín y (ilegible). Goff tiene material y correos electrónicos que son importantes para el proceso. A Goff lo llevé una vez a Río Gallegos y escuchó de la boca de Lázaro Báez que “yo era su persona de confianza”. Con respecto a la parte fiscal del grupo, es de vital importancia que vean mediante la AFIP, el innumerable número (sic) de planes especiales otorgados, caídos y vueltos a dar de alta que obtuvo la empresa. Esto está prohibido por la 11683 y muestra el encubrimiento que realizaba la AFIP en esos años para con las empresas del grupo. 
+
+
+Con respecto a la parte fiscal del grupo, es de vital importancia que vean mediante la AFIP, el número de planes especiales otorgados, caídos y vueltos a dar de alta. Esto muestra el encubrimiento que realizaba la AFIP"
+
+
+
+
+
+var act_bba = new gigya.socialize.UserAction();
+
+var emailBodyCustom_bba = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_bba.setTitle('Con respecto a la parte fiscal del grupo, es de vital importancia que vean mediante la AFIP, el n&uacute;mero de planes especiales otorgados, ca&iacute;dos y vueltos a dar de alta. Esto muestra el encubrimiento que realizaba la AFIP&quot;');
+act_bba.setSubtitle('La ruta del dinero K'); 
+act_bba.setLinkBack('http://www.clarin.com/politica/Parrafo-manuscrito-Farina-compromete-Maximo_0_1564643537.html');
+act_bba.setDescription('La transcripci&oacute;n completa del escrito que le entreg&oacute; al juez Casanello en la causa contra L&aacute;zaro B&aacute;ez. Aport&oacute; datos que podr&iacute;an complicar a Cristina y su hijo.');
+act_bba.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Parrafo-manuscrito-Farina-compromete-Maximo_0_1564643537.html');
+
+var showShareBarUI_params_bba=
+{ 
+containerID: 'shareQuote_bba',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_bba,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_bba
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_bba);
+ Y por último quiero que, habiendo tomado conocimiento que previo a que se allanara la escribanía Albornoz, el escribano fue y (ilegible), propongo que se pidan las llamadas que realizó en ese interín, porque Albornoz tiene testimonios muy sensibles para la causa. Como así también pido que se haga un barrido fino y entrecruzamiento de llamadas salientes de los teléfonos de Gadín en los horarios y días que muestran los videos de La Rosadita (en el video se ve que llama mientras cuentan dinero). Mirá también: Carrió: "Cristina decidió que hay que voltear ahora al Gobierno" También propongo que se haga una auditoría de los valores de los inmuebles escriturados por el Grupo Báez y por los Báez en personería física cuyo escribano fue Albornoz para constatar que las escrituras están hechas por valores muy inferiores a lo real. Esta es otra manera de introducir al circuito blanco dinero espurio".

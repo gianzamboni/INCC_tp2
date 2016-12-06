@@ -1,0 +1,36 @@
+
+En medio de un fuerte operativo de seguridad, el presunto autor intelectual del Triple Crimen de General Rodríguez, Ibar Pérez Corradi, pisó tierra argentina en carácter de detenido, después de cuatro años prófugo. Hoy debe declarar ante la jueza María Servini de Cubria, en Tribunales, y sus abogados adelantaron que su testimonio implicará a ex funcionarios del gobierno. Mirá la FOTOGALERÍA en HD  Pasadas las 18 de ayer, el avión de la fuerza aérea que lo trasladó desde Paraguay aterrizó en la pista que la base área militar tiene en Aeroparque. Allí, efectivos de la Policía de Seguridad Aeroportuaria, el grupo táctico Alacrán, y Gendarmería, estuvieron a cargo de su protección. Con escudos y armas largas, Corradi (que llevaba puesto casco y pasamontañia) estuvo rodeado continuamente por efectivos hasta que lo trasladaron al edificio Centinela, en Retiro, recorrido que fue monitoreado desde el cielo por un helicótero. 
+
+  “Dijimos que lo íbamos a traer. Aquí está y va a declarar ante la Justicia”, anunció la ministra de Seguridad, Patricia Bullrich, quien estuvo presente en aeroparque e incluso transmitió en exclusiva, desde su cuenta de Facebook, la salida de Corradi del avión. “Esperemos que esto termine de aclarar una de las causas más terribles, que fue el comienzo de una etapa durísima de narcotráfico en nuestro país”, dijo la mandataria, quien además de referirse al triple crimen de General Rodríguez, recordó “las muertes en Unicenter”, y la compra de “efedrina como si fuera agua”.  A su vez, remarcó que el acusado no se entregó por su cuenta y que “estuvo prófugo sin ser suficientemente buscado” por el gobierno anterior. “A Corradi lo agarramos y ustedes vieron que el día anterior se había borrado las huellas digitales”, destacó. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/PatoBullrich/status/750424019409768448",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75042401940976844")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+  Aún no está confirmado dónde quedará alojado definitivamente el ex empresario farmacéutico pero por las circunstancias del caso, permanecerá bajo custodia de Gendarmería, alejado de la órbita del Servicio Penitenciario Federal. “El imputado ha declarado que lo han querido asesinar y para nosotros, que somos el Estado, es fundamental cuidar su vida” indicó Bullrich. Siguiendo esa línea, fuentes judiciales indicaron que se ordenó blindar el área del tercer piso de los tribunales federales. También habrá restricciones en el ingreso y la circulación en la zona. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/PatoBullrich/status/750432365198110721",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75043236519811072")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Pérez Corradi debe someterse hoy a indagatoria por orden del Juzgado Federal N°1, señalado como el autor intelectual del asesinato de Sebastián Forza, Damián Ferrón y Leopoldo Bina. “La jueza lo quiere escuchar en indagatoria en el marco de la causa por el Triple Crimen, donde va a demostrar su inocencia. Y a partir de ahí empieza el derrotero de contestar todas las preguntas para despejar dudas respecto a las vinculaciones en la causa de la efedrina, lavado de dinero y cheques para campaña”, anunció Carlos Broitman, uno de sus abogados. Según explicó el letrado, “en Paraguay ya había temor porque debía declarar cuestiones muy graves con respecto a ex funcionarios de nuestro país”. De hecho, la extradición del empresario fue concedida por el juez de Garantías, Julián López, luego de que el acusado la aceptara por miedo a que lo mataran. "Tengo conocimiento de contratos para matarme...", sostuvo en un escrito de puño y letra dirigido a la Justicia paraguaya. Igualmente, más allá de las cuestiones especiales de protección "no cuenta con ningún otro beneficio", indicaron sus defensores.  Por su parte, la familia que Corradi formó en Paraguay ingresó en un régimen de protección de testigos y mientras permanezca en ese país estará bajo la custodia de las fuerzas paraguayas. En ese país, el argentino tenía, por su parte, una causa menor por portación de documentos de identidad falso. Pero la fiscalía había pedido la aplicación de la figura del "criterio de oportunidad". La ley establece que se puede extinguir el caso para que el enjuiciado pueda someterse a otro juicio cuya expectativa de pena es superior. Informe: Hugo Ruiz Olazar

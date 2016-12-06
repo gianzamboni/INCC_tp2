@@ -1,0 +1,127 @@
+
+No hay dudas de que el pole dance, o baile de caño, es una disciplina compleja. Hay que sostener todo el peso del cuerpo con la parte interior de la piernas y desarrollar el equilibrio y la fuerza de brazos para no terminar en el piso. La periodista Laury Thilleman, de 24 años y ex Miss Francia, fue invitada al programa francés Vendredi Tout Est Permis (Los viernes todo está permitido) y se animó a intentar bailar en el caño luego de que una bailarina profesional lo hiciera. ¿El resultado? un video viral que muestra el aparatoso golpe que se dio cuando cayó de cabeza. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160223_0013 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160223_0013_155";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Miss Francia protagonizó una terrible caída en el baile del caño',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/23/VID/CLAVID20160223_0013/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Miss-Francia-protagonizo-terrible-caida_CLAVID20160223_0013_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160223_0013',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/23/VID/CLAVID20160223_0013/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Miss-Francia-protagonizo-terrible-caida_3_1528077190.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160223_0013.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160223_0013){
+            //getBBTStats_CLAVID20160223_0013();
+            varModIdReprod_CLAVID20160223_0013 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+"ça va?" (¿estás bien?), le pregunta a una desorientada Thilleman el famoso conductor Jacques Essebag, conocido como Arthur. "Sí", contesta ella entre risas. El resto de los invitados no pudieron disimular las carcajadas y se acercaron a ayudar a la periodista con sonrisas de oreja a oreja. El video fue subido por varios usuarios a YouTube y en total suma más de 800 mil visualizaciones.También leé: "El divertido blooper de Adrián Pallares en 'Intrusos'" Lo peor del papelón que ocurrió en vivo en la televisón francesa fue que minutos antes de subirse al caño, Thilleman había dicho que era una buena nadadora y que eso la hacía lo suficientemente hábil, por la fuerza de brazos, para demostrar sus dotes en el pole dance. También leé: "Una conductora de TV, acosada en vivo por su compañero" A pesar de las risas, la producción del programa decidió llevarla inmediatamente a una clínica para descartar cualquier tipo de lesión. Thilleman está bien.

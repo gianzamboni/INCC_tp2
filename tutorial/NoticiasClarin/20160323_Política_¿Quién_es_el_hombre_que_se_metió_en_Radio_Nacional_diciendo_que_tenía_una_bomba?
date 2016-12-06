@@ -1,0 +1,35 @@
+
+Mañana de tensión y susto en los estudios de Radio Nacional. En plena emisión del programa "Poné Primera", que conduce Romina Manguel, un hombre entró a los gritos y amenazó a todas las personas presentes, periodistas, productores y personal de seguridad. Mirá también: Un hombre armado y a los gritos en plena transmisión de Radio Nacional Decía tener explosivos y amenazaba con hacer estallar la emisora. La entrevista que la periodista estaba realizando se tuvo que interrumpir y la radio fue a una tanda. El sujeto encaró a Eduardo Anguita, otro de los protagonistas del programa, y hacia él se dirigió con agresiones y amenazas. Hasta que policías pudieron reducirlo y detenerlo. Una vez detenido se supo que en su cinturón llevaba "cilindros metálicos, petardos y tuercas". El arrestado se llama Carlos Serbali, quien "estaba tomando un café en el bar de enfrente de la radio, luego se dirigió a la emisora, entró y caminó directo hacia la zona desde donde se sale al aire", indicó una fuente. Con mayores precisiones, el subdirector de Radio Nacional, Pablo Ciarliero, señaló que el hombre "se presentó en el mostrador de la radio y dijo que venía a buscar un premio y ahí mostró un cartucho con explosivos, los de seguridad intentaron reducirlo pero sacó un cuchillo y se metió adentro de los estudios". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Una vez evacuado el edificio y pasado el sofocón, se supo que esta persona también había sido el protagonista de un caso similar en el diario La Capital, de Rosario.
+
+En aquella oportunidad, el 29 de noviembre de 2011, Serbali entró por la puerta principal de La Capital. Eran las 17.30. Saludó al personal de vigilancia, les mostró lo que llevaba encima y les dijo: "Llamen a la policía porque tengo explosivos". Y se quedó allí, esperando, en la puerta del edificio del diario, ubicado en Sarmiento 763, pleno microcentro de la ciudad. Finalmente, fue detenido. A media mañana, un parte oficial del Ministerio de Seguridad de la Nación confirmó esa información: "El Ministerio de Seguridad de la Nación informa que efectivos de la Policía Federal Argentina detuvieron hoy, dentro de las instalaciones de la Radio Nacional, a Carlos Alberto Serbali, aparentemente periodista, de nacionalidad argentina, oriundo de Rosario, quien tenía en su poder un arma blanca y artefactos pirotécnicos a modo de cinturón de explosivos". "El sujeto, que posee una productora, amenazó con detonar la bomba y generó intimidación contra periodistas de Radio Nacional, pero fue reducido y detenido. A su vez cabe destacar que, en el año 2011, tuvo un episodio similar en el diario rosarino La Capital.  La causa la lleva adelante el juez Dr. Norberto Mario Oyarbide". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

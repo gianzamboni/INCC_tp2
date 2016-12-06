@@ -1,0 +1,134 @@
+
+Mientras el año pasado todos preveían la fatal llegada de un ajuste en medio de una situación económica ficticia que algún día iba a romperse, nos preguntábamos sobre la gradualidad. Todo el mundo daba por descontado sobre quién iba a recaer: la historia reciente y la antigua nos muestran que los ajustes siempre han perjudicado a los más débiles. Macri, durante la campaña, prefirió eludir el dramatismo del tema y poner el eje en la llegada de una lluvia de inversiones extranjeras. (Digresión: somos el país con 400 mil millones de dólares en el exterior que le pide dinero prestado a los demás). Hoy todos esos objetivos están por la mitad o en el comienzo de un camino interrumpido. Quizá sea el momento de preguntarse si se pueden completar. Francisco Pancho Cabrera, el ministro de Producción, lanzó el otro día que “ya no quedan empleados militantes en la administración”. Obviamente, no es así, aunque es cierto que varios miles fueron despedidos. Tarde, el Presidente dio a conocer un informe sobre “el estado del Estado”. Haberlo hecho en diciembre le hubiera servido para avanzar en esa materia. Los ajustes de tarifas respondieron a la lógica PRO de lohago-veoquépasa-sihayquilomboretrocedo, y hoy están en el final de un callejón que parece no tener salida: detrás de lo que parece una excusa formal varios jueces hicieron lugar a amparos que impiden los aumentos. Y digo “parece” formal, pero no lo es: la ley obliga al Gobierno a informarle al público en audiencias abiertas sobre los motivos de los aumentos y la composición de los costos y los precios. ¿Las empresas pueden dar esos datos? Durante doce años la mayoría de esos subsidios fueron ficticios, inflados con costos inexistentes y ahora debe ser complicado desenredar esos números. ¿Por eso el Gobierno no convocó a las audiencias o fue sólo por estupidez? ¿Pueden decir que no se dieron cuenta de que tenían que hacerlo? Para colmo, si las cifras que trascienden son verdaderas, todavía estamos en la mitad del camino de los aumentos. 
+
+
+El problema es que el desbarajuste económico y la corrupción kirchnerista fue tal que, es evidente, no puede arreglarse en un año
+
+
+
+
+
+var act_f60 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_f60 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_f60.setTitle('El problema es que el desbarajuste económico y la corrupción kirchnerista fue tal que, es evidente, no puede arreglarse en un año');
+act_f60.setSubtitle('La columna de Lanata'); 
+act_f60.setLinkBack('http://www.clarin.com/opinion/tregua_0_1593440688.html');
+act_f60.setDescription('');
+act_f60.addActionLink('VER MÁS', 'http://www.clarin.com/opinion/tregua_0_1593440688.html');
+
+var showShareBarUI_params_f60=
+{ 
+containerID: 'shareQuote_f60',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_f60,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_f60
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_f60);
+ Cuestionado por su “falta de sensibilidad” y bajando en las encuestas, el Gobierno anunció una serie de compensaciones que eran, en el fondo, buenas noticias, pero nadie las entendió como tales: el pago a los jubilados termina siendo cuestionado porque no respeta la orden de la Corte de pagar las sentencias completas, el gasto del Estado se sigue expandiendo y la recesión ya está instalada. Como decíamos la semana pasada, les encantaría correr el almanaque y ubicar el segundo semestre en el año que viene. El sueño del acuerdo sindical se derrumbó y –como siempre pasa en la Argentina, que sólo vive durante los comicios– se acercan elecciones y eso significa un cambio radical en todas las alianzas posibles. La proyección de un número es lo que mejor resume esta situación: el déficit primario sería en torno a los 300 mil millones de pesos, esto es un 4,1% del PBI, o sea 0,4 puntos menos que en 2015. Considerando el pago de intereses (y excluyendo los ingresos por rentas de la ANSeS y el BCRA) el resultado global totalizaría un déficit de 450 mil millones, o sea un 6,5% del PBI, casi idéntico al déficit del último año del kirchnerismo (tomando, en este caso, el número dado por Marcos Peña, que no coincide con los números de la Asociación Argentina de Presupuesto Publico del 4,1%. En este último caso sería peor: Macri habría aumentado el déficit en casi tres puntos). ¿Y entonces? ¿El ajuste dónde quedó? ¿Para qué sirvió la película de los últimos meses? El problema es que el desbarajuste económico y la corrupción kirchnerista fue tal que, es evidente, no puede arreglarse en un año. La pregunta es si puede arreglarlo un partido solo. Siempre descreí y me aburrieron esas propuestas multipartidarias, acuerdos vacíos en los que hasta la Iglesia se mete a los codazos y nunca resultan. Pero me parecen hoy la única solución a esta situación. El propio Perón decía que “un camello es un caballo hecho por una comisión”. Pero, ¿qué otra manera habría de solucionar las cosas que la toma de conciencia general de la situación y que todos actuáramos en consecuencia? ¿Y todos incluiría, también, al kirchnerismo? Sí, claro. Al kirchnerismo que no esté imputado de delito alguno. Los números no dan. Tenemos que estar todos de acuerdo en eso. Una parte del ajuste recaerá en los sectores más vulnerables, la menor parte, en lo posible. ¿Somos los demás, capaces de lo mismo? ¿Y si subimos Ganancias del 35 al 40 por un año? ¿Si se aceptan tributos a la patria financiera en un momento en el que los intereses en dólares favorecen como nunca la bicicleta? La pregunta es: ¿qué sucede si todos cedemos un poco? Estoy proponiendo un acuerdo que nos permita volver a la normalidad y salir de la crisis. 
+
+
+La pregunta es: ¿qué sucede si todos cedemos un poco? Estoy proponiendo un acuerdo que nos permita volver a la normalidad y salir de la crisis.
+
+
+
+
+
+var act_ff5 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_ff5 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_ff5.setTitle('La pregunta es: ¿qué sucede si todos cedemos un poco? Estoy proponiendo un acuerdo que nos permita volver a la normalidad y salir de la crisis.');
+act_ff5.setSubtitle('La columna de Lanata'); 
+act_ff5.setLinkBack('http://www.clarin.com/opinion/tregua_0_1593440688.html');
+act_ff5.setDescription('');
+act_ff5.addActionLink('VER MÁS', 'http://www.clarin.com/opinion/tregua_0_1593440688.html');
+
+var showShareBarUI_params_ff5=
+{ 
+containerID: 'shareQuote_ff5',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_ff5,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_ff5
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_ff5);
+ No es probable que lluevan inversiones extranjeras en los próximos meses. Y si sucede, será una llovizna especulativa, nunca un temporal. Lo que sí es seguro es que aumente la conflictividad social, que nadie sepa cuánto debe pagar de luz o gas, que la secta kirchnerista siga conspirando convencida de que puede sacar al gobierno, y que la inflación no ceda. La vocación de alianzas no es característica de Macri: se lo vio con Massa antes del comicio. Por paradoja, María Eugenia Vidal, al asumir, hizo exactamente lo contrario y con éxito. ¿Cómo convencer a alguien que ganó de que puede estar equivocado? La posibilidad de una “tregua” hace que todos se sientan responsables del presente y actúen en consecuencia. Hace cien años, o doscientos, todo esto se hubiera dicho de otro modo: “Hagamos algo por la Argentina”, hubieran dicho. De eso se trata.

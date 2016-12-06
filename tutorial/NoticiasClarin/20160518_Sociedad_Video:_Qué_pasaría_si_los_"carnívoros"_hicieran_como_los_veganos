@@ -1,0 +1,22 @@
+
+"No es que los veganos sean malas personas. Es que son terribles personas", dice al comienzo del video el youtuber JP Sears. "Si los 'carnívoros' hicieran como los veganos" fue subido a YouTube el lunes y ya tiene más de 1 millón y medio de visualizaciones. A eso hay que sumarle las más de 42 millones de reproducciones que tuvo en Facebook. Este éxito viral es un guiño a los amantes de la carne que se sienten "perseguidos" en momentos cotidianos compartidos con vegetarianos y también lo es para quienes son incomprendidos por sólo comer vegetales. Después del play arranca una escena cliché entre un "carnívoro" y una vegana. "Acabo de perder completamente el apetito", dice el youtuber al ver a su compañera de almuerzo comiendo una ensalada. En su papel de defensor de los que comen carne, JP Sears completa los 3 minutos de edición con frases que --según los comentarios--  hacen que sea "lo más divertido que se vio en las redes en mucho tiempo" y, también, expresan "una falta de respeto total a los animales y a quienes los defienden". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: De crudívoros a paleos, los comensales de la mesa diversa "Yo sólo como carne", "Esta salchicha es un sustituto del pepino. Tiene el sabor y la textura de un pepino. Pero sin nada de pepino", "comer vegetales hará que tu cuerpo sea demasiado alcalino [en el sentido de "sano"] y eso definitivamente va a matarte ¿De verdad querés eso?". Estas son las frases más comentadas que surgen del discurso ambiguo y paródico del youtuber. Una de las más "festejadas" es: "Las orcas son más espirituales que los humanos, y ellas sólo comen carne de focas. Entonces los hombres deberían comer sólo carne, porque esa es la dieta espiritual más evolucionada". La más polémica: "Sabés lo peligrosos que son los venados cuando se cruzan delante de los autos en el camino. Entonces, si no te los comés, estás queriendo que haya más personas muriendo en esos accidentes".  Pero un tercer grupo de opiniones en Facebook, vio el video completo antes de comentar, y entendió que el único objetivo de JP Sears fue el de bromear dentro de la serie de videos de su canal AwakenWithJP llamada "Una vida Ultra Espiritual". Si bien la cantidad de suscriptores de este youtuber es baja para su popularidad (tiene 169.113) las visualizaciones de todos sus videos superan los 13 millones. Y, con esta polémica, sabe que tendrá muchas más. Y ya hasta ya hay varios usuarios quesubieron aYouTube su reacción al ver este video: 
+
+ 
+
+ 

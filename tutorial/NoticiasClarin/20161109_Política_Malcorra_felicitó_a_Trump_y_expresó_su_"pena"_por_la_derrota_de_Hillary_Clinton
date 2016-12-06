@@ -1,0 +1,34 @@
+
+La canciller Susana Malcorra felicitó a Donal Trum por su el triunfo en las elecciones presidenciales de los Estados Unidos, aunque no ocultó su "pena" por la derrota de los demócratas en las urnas. "El pueblo norteamericano ha hablado en las urnas @realDonaldTrump ha triunfado. Felicitaciones por la democracia y sus instituciones", escribió la canciller desde su cuenta de Twitter, tras la consagración del magnate en los comicios. Se trata de la primera mención oficial del Gobierno argentino sobre el triunfo del republicano.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/SusanaMalcorra/status/796264739290615808",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79626473929061580")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Ganó Donald Trump: "Vamos a renovar el sueño americano" Luego, la ministra de Relaciones Exteriores volvió a felicitar a Trump "por ser electo nuevo presidente de los Estados Unidos". Y finalmente, expresó su pesar por la derrota de la candidata demócrata: "Una pena no ver una mujer tan capaz elegida para esa importante responsabilidad". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/SusanaMalcorra/status/796266656582533120",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79626665658253312")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ La canciller se había mostrado cautelosa respecto a los resultados electorales en Norteamérica, aunque en declaraciones dejaba ver la conveniencia en la relación bilateral de un triunfo demócrata. Mirá también: Gremialistas y analistas, entre Valeria Mazza y la prudencia del Gobierno nacional "Nuestra mayor preocupación es asegurarnos que haya una transición en la agenda lo más rápida y corta posible para continuar con la enorme cantidad de temas que tenemos en común con la administración de (Barack) Obama, y sentarnos con el equipo que Trump defina, para ver qué ajustes ven ellos", afirmó Malcorra en declaraciones a radio Mitre. Al ser consultada sobre sus declaraciones de apoyo a Clinton durante la campaña, Malcorra insistió en que el gobierno argentino quería asegurarse de que "no hubiera un retraso de la temática que estamos trabajando gobierno a gobierno" y esa situación "estaba maximizada a través de una continuidad del partido Demócrata y eso es lo que tenía máximo interés para la Argentina, desde una óptica muy utilitarista, en función de nuestras prioridades e intereses". Mirá también: La cobertura de los principales diarios del mundo del triunfo de Donald Trump "Pero la realidad ha sido otra. Nos tendremos que adaptar y así lo haremos, con la responsabildad institucional que nos corresponde. Ya estamos estableciendo contactos, que hemos tenido durante la campaña también, para asegurarnos que fluya este vinculo y se aceite lo antes posible", señaló. Y concluyó: "No podemos pensarnos inteligentemente insertos en el mundo sin un vínculo con los Estados Unidos. Hay que hacer que esto funcione para el bien de los argentinos".

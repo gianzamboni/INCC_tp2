@@ -1,0 +1,18 @@
+
+El sufrimiento de los conejos de angora en granjas fue denunciado por One Voice, una asociación francesa de defensa de los animales. En un impactante video, la ONG muestra la crueldad con la que estos ejemplares son “depilados” para recoger su pelo sedoso, que sirve para fabricar la angora usada en la industria textil y de la moda. Mirá también: Por una gran sequía, un parque sudafricano sacrifica 350 animales 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ A través de su campaña #StopAngoraFrance, la asociación pide “la prohibición de la cría y comercio de la angora” en Francia. "Ayudémoslos. ¡Que cierren las granjas de conejos!", reclaman. La petición --que está disponible para participar-- ya cuenta con más de 8.500 firmas y el número de adherentes aumenta segundo a segundo. Mirá también: Video: el sufrimiento de un oso polar exhibido en un shopping La investigación fue realizada por miembros de la ONG, que se infiltraron en seis granjas francesas entre febrero y julio de este año. "Las imágenes muestran claramente que los conejos sufren, lloran de miedo y de dolor cuando les arrancan los pelos, y en ocasiones la piel. Estos conejos permanecieron en pequeñas jaulas durante muchos años, para luego atarlos sobre una mesa y doblarlos en las peores posiciones durante una sesión de depilación dolorosa", explica One Voice en su sitio web.  Mirá también: Arrastró a su perro hasta matarlo y casi lo linchan  El informe describe que la "depilación" es una fuente de tensión constante. Muchas veces, el proceso se realiza frente a otros conejos, que escuchan los gritos de sus "compañeros" y eso les genera estrés. Además, tras la "cosecha", los animales quedan desnudos y son ubicados de nuevo en sus jaulas, sin ningún tipo de protección contra el frío. Pero esto no es todo. Durante la investigación, un granjero confesó que algunos conejos que desarrollan cáncer mientras están en las granjas son vendidos a un laboratorio para ser usados en experimentos.

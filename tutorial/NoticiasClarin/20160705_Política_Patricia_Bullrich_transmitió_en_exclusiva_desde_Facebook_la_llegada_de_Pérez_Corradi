@@ -1,0 +1,22 @@
+
+Siguiendo el ejemplo de Mauricio Macri, la ministra de Seguridad, Patricia Bullrich, transmitió en exclusiva desde su cuenta de Facebook la llegada de Ibar Pérez Corradi, el prófugo más buscado de la Argentina, al Aeroparque Metropolitano Jorge Newbery, tras su extradición desde Paraguay.   "Así llegaba Ibar Pérez Corradi a nuestro país.  Ya está a disposición de la Justicia", escribió la funcionaria de Cambiemos mientras mostraba en vivo el minuto a minuto del regreso del hombre condenado como el autor intelectual del Triple Crimen de General Rodríguez, donde fueron asesinados Sebastián Forza, Leopoldo Bina y Damian Ferrón en agosto de 2008.  Mirá también: Ibar Pérez Corradi llegó a la Argentina tras ser extraditado del Paraguay
+
+Las cámaras de la ministra Bullrich se aceraron más que las de la televisión, que tuvieron que seguir la noticia desde lejos. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_ya3tl3jz",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_ya3tl3jz"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_ya3tl3jz").after(scriptEl);
+ Esta no es la primera vez que el Gobierno decide mostrar a través de Facebook eventos en vivo. Macri ya lo había utilizado el día de su asunción para mostrar la intimidad de su viaje al Congreso y también durante el 25 de mayo, cuando solo a través de la red social se pudo ver el locro patrio que se sirvió para vecinos en la Quinta de Olivos.  Ahora, la ministra de Seguridad, un activa usuaria de Twitter y Facebook, mostró la llegada del peligroso detenido en redes. 

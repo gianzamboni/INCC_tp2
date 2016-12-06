@@ -1,0 +1,72 @@
+
+ “No más Cristina, ni Máximo”. Mario Ishii, intendente de José C. Paz, y Alejandro Granados, mandamás en Ezeiza, experimentados barones del conurbano con la piel ajada de tantas reelecciones, alzaron sus copas y brindaron por ese latiguillo que a partir de anoche será su frase de cabecera para marcar un punto de quiebre con todos los grupos de intendentes peronistas que coexisten en la ampliar geografía provincial. Granados jugó de local y recibió en el Mangrullo, su parrilla, a Ishii, que fue con su poncho rojo marca registrada. Entre una abundante picada y asado, todo maridado con un vino tinto como marca el protocolo popular, ambos jefes municipales marcaron su rechazo al Kirchnerismo sin Kirchner, que para ellos era únicamente de Néstor.  
+
+
+"Vamos a trabajar como intendentes en el día a día y acompañar institucionalmente la gobernabilidad​", dijeron.
+
+
+
+
+
+var act_6a3 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_6a3 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_6a3.setTitle('"Vamos a&nbsp;trabajar como intendentes en el día a día y acompañar institucionalmente la gobernabilidad​", dijeron.');
+act_6a3.setSubtitle('PJ'); 
+act_6a3.setLinkBack('http://www.clarin.com/politica/Granados-Cristina-Maximo-Kirchner-PRO_0_1654634632.html');
+act_6a3.setDescription('Los Barones del Conurbano se juntaron a cenar en el Mangrullo para fijar una posición conjunta de no alinearse a los grupos peronistas de Provincia. ');
+act_6a3.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Granados-Cristina-Maximo-Kirchner-PRO_0_1654634632.html');
+
+var showShareBarUI_params_6a3=
+{ 
+containerID: 'shareQuote_6a3',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_6a3,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_6a3
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_6a3);
+ También marcaron distancia con los grupos Esmeralda -al que muchos asociación con Sergio Massa- y Fénix -una escisión del primero, que promueve una renovación “sin excluir a nadie”- que mantuvo ayer una reunión con CFK en el instituo Patria, con dos bajas: las de Ariel Sujarchuk y Gustavo Menéndez.  Así, Granados e Ishii acordaron no sumarse a ninguna agrupación y ser una suerte de no alineados dentro del complejo mapa electoral del peronismo bonaerense. Creen, según han dejado trascender, que este es un año de gestión y no de campaña; de colaborar institucionalmente con las gestiones de María Eugenia Vidal (con quien mantienen diálogo personal y través de sus ministros para coordinar trabajos), y Mauricio Macri. Mirá también: Un intendente tiene el retrato de Macri y el de Néstor Kirchner en su despacho  Un detalle no menor para comprender el posicionamiento de ambos son los cuadros que decoran el despacho de Ishii en la municipalidad de José C. Paz: de un lado, Mauricio Macri sonríe con el bastón de mando y la banda presidencial, fecha 2015. Del otro, Néstor Kirchner sonríe con el bastón de mando y la banda presidencial, fecha 2003.
+
+ “Conversamos de la actualidad del PJ bonaerense, del futuro del mismo, hoy vacío de contenido y propuestas, trabajar como intendentes en el día a día y acompañar institucionalmente la gobernabilidad”, explicó Ishii que semanas atrás estuvo horas en la Casa Rosada, desfilando por despachos macristas.  Así, con la gestión como bandera, ambos acordaron colaborar “en todo” con el Gobierno -provincial y nacional- para que no sufran situaciones sociales complejas en un terreno tan inestable como el Conurbano y prometieron encolumnar a otros no-alineados en esa tarea de ser una oposición “constructiva”, aunque para sus detractores sea volver a hacer lo que siempre hicieron: oficialistas del poder de turno.
+
+Es más, el líder de José C. Paz tiene armados bolsones de comida, en caso de emergencias, y los puso a disposición de la Gobernadora y de intendentes que precisen, confirmaron a Clarín desde su entorno.

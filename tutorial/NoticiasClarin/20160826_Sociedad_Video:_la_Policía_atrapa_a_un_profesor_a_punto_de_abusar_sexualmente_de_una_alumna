@@ -1,0 +1,18 @@
+
+Pocas veces un abuso sexual estuvo tan al límite de concretarse antes de que interviniera la Policía. A Gilberto González Arias, profesor, de 65 años, se lo ve en calzoncillo amarillo y medias dispuesto a abusar a una de sus alumnas en una obra en construcción de Santa Bárbara de Pinto, Colombia. El docente le había prometido un "aprobado" a cambio de sexo. La chica aceptó pero llamó a las autoridades para que lo agarren in fraganti. Mirá también: Le tocó la cola a un mujer y estará más de dos años preso 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El video, grabado por uno de los policías, muestra el procedimiento que se llevó a cabo este jueves. Y no se trataría de una víctima aislada. Según la denuncia, la práctica del profesor de la Institución Educativa Nuestra Señora del Rosario era habitual. El padre de la alumna -que en las imágenes se la ve ya en corpiño- participó del operativo y no dudó en golpear al profesor, “en reacción a la dura situación a la que tuvo que someterse su hija para poderle darle captura”, describen medios locales. No trascendió la materia que dictaba ni la edad de chica, pero la escuela -de zona rural- también ofrece educación primaria y secundaria para adultos, por lo que podría no tratarse de una menor. Mirá también: Una chica de 14 años denunció que la violaron al salir de la escuela: investigan a policías La hipótesis de la Policía es que González Arias desaprobaba a propósito a las alumnas para luego extorsionarlas con mejores notas a cambio de sexo. Según el portal colombiano seguimiento.com, tres docentes de Santa Bárbara de Pinto fueron suspendidos por situaciones similares a la que se vio interrumpida en este video.  

@@ -1,0 +1,66 @@
+
+El senador Federico Pinedo, presidente provisional de la cámara alta, recibió hoy un curioso saludo de los productores de la serie estadounidense "House of Cards" y se prendió a la broma.Pinedo ocupó la Presidencia de la Nación durante las primeras doce horas del 10 de diciembre, luego de una polémica entre Cristina Fernández de Kirchner y el presidente Mauricio Macri por el traspaso de mando. Durante esas horas, muchos usuarios de Twitter inventaron bromas y memes sobre la presidencia de Pinedo, y al final del día el senador agradeció divertido los "gastes". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Adalbertomilk/status/699677152854339588",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69967715285433958")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Pero lo que ocurrió ahora, dos meses después, es que el que se prendió a la gastada fue Frank Underwood, el implacable protagonista de "House of Cards", a través de la cuenta oficial de la serie en Twitter. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/JuanFRaMontrull/status/699677988053454850",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69967798805345485")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Con un humor que se está volviendo marca registrada en el folclore de la política, Pinedo volvió a sumarse a la broma y este mismo martes le respondió a "Frank", el presidente de Estados Unidos en la ficción.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/rulopezzi/status/699679880498323457",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69967988049832345")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Leé también: Presidente Pinedo, las bromas hicieron estallar Twitter El mensaje de "House of cards" es parte de la promoción de la cuarta temporada de la serie de Netflix, que se estrenará el 4 de marzo. Es común que los productores utilicen la cuenta en Twitter para interactuar con políticos de distintas partes del mundo para publicitarse. El 7 de diciembre, por ejemplo, se habían metido en el debate electoral español.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/lostnstereo/status/696832699454132224",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69683269945413222")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

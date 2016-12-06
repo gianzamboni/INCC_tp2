@@ -1,0 +1,19 @@
+
+El juez federal Ariel Lijo se declaró incompetente hoy para investigar al suspendido director de Aduanas Juan José Gómez Centurión y decidió pasar el caso al fuero Penal Económico porque eventualmente si hay un delito ése sería el de contrabando. La medida beneficia al desplazado jefe de la Aduana, denunciado por la ministra de Seguridad Patricia Bullrich a partir de información anónima, según evaluaron fuentes judiciales. "Las medidas probatorias dispuestas no han logrado vincular a Juan José Gómez Centurión a algún hecho delictivo de competencia federal", escribió Lijo en una resolución de 34 páginas difundida esta tarde por el Centro de Información Judicial (CIJ). Mirá también: Macri quiere que vuelva Gómez Centurión a la Aduana pero espera una señal de la Justicia El juez explicó en el texto que si bien la denuncia se había radicado en el fuero federal en virtud del cargo de Gómez Centurión, ahora corresponde pasarla al fuero Penal Económico porque "el resultado de las medidas dispuestas no han permitido un avance sobre su eventual responsabilidad en las maniobras denunciadas". “En conclusión, del análisis de los hechos denunciados y la prueba colectada se puede establecer que las maniobras, por sus características y habitualidad, serían las propias de una organización dedicada al contrabando de mercaderías; cuya competencia corresponde al Fuero Penal Económico de esta ciudad”, manifestó el juez.
+
+En otro párrafo, refuerza la idea de que no se pudo avanzar sobre la responsabilidad del funcionario separado en el entramado denunciado. Dice textual: “En lo que respecta a Gómez Centurión y teniendo en cuenta, como ya mencioné, que su supuesta intervención en los hechos denunciados fue uno de los motivos por los cuales se radicó la denuncia en este fuero de excepción, lo cierto es que el resultado de las medidas dispuestas no han permitido un avance sobre su eventual responsabilidad en las maniobras denunciadas.” “La acreditación de distintos puntos de la denuncia realizada han permitido encuadrar las maniobras en delitos previstos en el Código Aduanero, es que corresponde que declare la incompetencia en razón de la materia y remita las presentes actuaciones a la Excelentísima Cámara Nacional de Apelaciones en lo Penal Económico de esta Ciudad a efectos de que sortee el Juzgado que deberá continuar interviniendo”, agregó. Si bien no existe una declaración de sobreseimiento sobre el funcionario preventivamente separado del cargo por el presidente Mauricio Macri, lo dipuesto hoy por Lijo allanaría su regreso a la jefatura de la Aduana. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

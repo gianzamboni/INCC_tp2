@@ -1,0 +1,17 @@
+
+Un espectáculo con animales en Tailandia terminó con un episodio de terror cuando una mujer intentó besar a una serpiente pitón, pero fue atacada por ésta en la nariz. Las imágenes -escalofriantes por los gritos de los que presenciaron el ataque- quedaron registradas en un video que ya recorre el mundo.Leé también: "Un nene de un año encontró una serpiente venenosa en el patio y la mató a mordiscos"La insólita y desesperante situación se vivió en el zoológico de Phuket en Soi Palai y la protagonista fue Jin Jing, de 29 años, quien aceptó ser parte del show ofrecido por la empresa Pa-wai Odski.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

@@ -1,0 +1,34 @@
+
+Una mujer atacada por un tiburón mientras se bañaba fue trasladada de urgencia a un hospital con el animal aún prendido a su brazo. Sucedió el domingo en Florida, en el sureste de Estados Unidos. Mirá también: En 2015 hubo récord de ataques de tiburones El pequeño tiburón gata, de 60 centímetros de largo, tenía sus dientes totalmente incrustados en el brazo de la nadadora. Para llevarla al hospital, los socorristas fabricaron una férula especial que sostenía el brazo y el tiburón a la misma vez, precisó el South Florida Sun-Sentinel. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/SunSentinel/status/732183850533724160",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73218385053372416")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ La víctima, una joven de 23 años cuyo nombre no trascendió, fue mordida mientras se bañaba en una playa de la ciudad de Boca Raton. Cuando llegó al puesto de salvavidas, acompañada de su compañero, el tiburón respiraba poco pero aún seguía prendido al cuerpo de la mujer. Mirá también: Video: dramático ataque de un tiburón a su cuidador El periódico The Palm Beach Post informó que tras el ataque un hombre que se encontraba en la playa mató al tiburón. Sin embargo, nadie logró desprenderlo del brazo de la mujer, que fue enviada de urgencia al Hospital Regional Boca Raton cuando manifestó que le faltaba oxígeno. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/pbpost/status/731934226308857856",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73193422630885785")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ La presencia de tiburones gata -que alcanzan los tres metros en la adultez- es común en la costa Atlántica de Florida. Pero, generalmente, estos tiburones no representan peligro. Son animales nocturnos que se alimentan de pequeños peces y otras criaturas marinas. Durante el día, se los puede ver en aguas poco profundas. Un testigo citado por el Sun-Sentinel declaró haber visto antes del ataque a algunos bañistas molestar al tiburón tirándole de la cola. Mirá también: Video: un tiburón se comió a otro en un acuario Fuente: AFP

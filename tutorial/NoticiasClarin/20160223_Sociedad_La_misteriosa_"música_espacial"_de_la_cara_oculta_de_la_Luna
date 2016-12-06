@@ -1,0 +1,127 @@
+
+-- ¿Escuchaste ese silbido también? -- Suena como, ¿sabes?, como música del espacio exterior. -- Me pregunto qué es. Esta conversación tuvo lugar el 18 de mayo de 1969 entre los astronautas del Apolo 10 Eugene Cernan y John Young sobre una extraño sonido, algo así como una música espacial, mientras su nave volaba alrededor de la cara oculta de la Luna. El audio se difundió ahora y la pregunta sobre el origen de aquel sonido se renovó. Sin embargo, la agencia espacial estadounidense se expresó al respecto y le restó importancia: aseguraron que lo que se oyó fue una interferencia entre radios. El sonido salió a la luz en estos días, como parte de la presentación de un documental llamado Los archivos no explicados de la NASA, donde se puede escuchar a los astronautas sorprendidos y confundidos ante el sonido en el viaje que sirvió de prueba para lo que luego sería la histórica misión del Apolo 11. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160223_0011 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160223_0011_836";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'La \"música espacial\" escuchada por Young y Cernan',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/23/VID/CLAVID20160223_0011/video_web.flv",
+        image: "http://images.clarin.com/sociedad/musica-espacial-escuchada-Young-Cernan_CLAVID20160223_0011_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160223_0011',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/23/VID/CLAVID20160223_0011/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/musica-espacial-escuchada-Young-Cernan_3_1528077188.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160223_0011.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160223_0011){
+            //getBBTStats_CLAVID20160223_0011();
+            varModIdReprod_CLAVID20160223_0011 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+La conversación entre los astronautas Eugene Cernan y John Young en el Apolo 10 y, de fondo, la "musica espacial".El sonido comienza una vez que la cápsula estaba en la cara oculta de la Luna, fuera del alcance de cualquier contacto por radio con la Tierra. En el archivo sonoro, también se puede oír a los astronautas de esa misión perplejos, discutiendo sobre el extraño sonido y sobre si deberían informar a la NASA o no. Lo que oyerion, similar a un silbido, se puede escuchar durante casi la hora entera que los tripulantes estuvieron fuera de rango de las radiotransmisiones con la Tierra. También leé: "Difunden nuevas imágenes del lado oculto de la Luna" Pero al parecer, el misterio de la “música” espacial no significó nada para la NASA, que le restó importancia y dijo en un comunicado que se trató de una interferencia entre las radios de las dos naves espaciales: el módulo lunar y el módulo de comando. Además, aseguraron que los archivos que contienen el enigmático sonido no fueron desclasificados, sino que estaban publicados desde 1973. Pero uno de los astronautas asegura en el documental: "Si estás en la cara oculta de la Luna y oís algún ruido extraño en la radio y sabés que está bloqueado desde la Tierra, entonces ¿qué podés pensar?". Está claro, el misterio seguirá abierto. También leé: "Descifran el enigma del lado oculto de la Luna"

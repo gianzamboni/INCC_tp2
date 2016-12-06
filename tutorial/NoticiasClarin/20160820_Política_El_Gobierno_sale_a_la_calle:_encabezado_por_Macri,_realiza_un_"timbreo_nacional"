@@ -1,0 +1,146 @@
+
+Los principales ministros del gobierno nacional salieron esta mañana a recorrer barrios del Gran Buenos Aires para hablar con los vecinos, en un "timbrazo nacional" organizado por el frente Cambiemos y que se realiza luego del fallo de la Corte Suprema que puso freno al tarifazo del gas.  Como parte de la actividad, la ministra de Seguridad de la Nación, Patricia Bullrich, participó de una recorrida por Quilmes junto al intendente Martiniano Molina. "Los estamos escuchando porque ustedes son muy importantes", señaló Bullrich tras visitar el hogar de un matrimonio de jubilados.  En tanto, el ministro de Trabajo, Jorge Triaca, junto a los ministros bonaerenses de Gobierno, Federico Salvai, el de Seguridad, Christian Ritondo, y el de Educación, Alejandro Finocchiaro, hicieron pie desde las 10 en punto en La Matanza.  A su vez, la ministra de Desarrollo Social de la Nación, Carolina Stanley, recorre junto al vicepresidente de la Juventud, Pedro Robledo, el partido de Esteban Echeverría.  El senador nacional Federico Pinedo, en tanto, se desplazó al interior bonaerense, para encabezar un timbreo por la ciudad de Bragado, ubicada a 200 kilómetros de la ciudad de Buenos Aires.  "Nosotros siempre salimos a dar la cara", explicó esta mañana en diálogo con Radio Continental, el ministro del Interior, Rogelio Frigerio.  Por su parte, el presidente Mauricio Macri encabezará una recorrida por San Miguel junto a la gobernadora bonaerense, María Eugenia Vidal, y el ex massista Joaquín de la Torre, quien oficiará de anfitrión ya que ocupó la intendencia de ese distrito hasta su nombramiento al frente del Ministerio de Producción bonaerense. El desembarco de Macri y Vidal en San Miguel había sido trazado semanas atrás, para formalizar el pase del ex armador massista en las filas de Cambiemos. Pero finalmente por cuestiones de agenda presidencial, se decidió postergarlo. El timbreo en todo el país:  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/EduardoCostaSC/status/767012774497038337",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76701277449703833")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/franquintana/status/767007476101353472",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76700747610135347")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Guillodietrich/status/767017372322566145",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76701737232256614")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ElybetCa/status/767026981485604864",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76702698148560486")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/josecorralSF/status/766995323986309120",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76699532398630912")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/BuryaileRicardo/status/767003154101760000",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76700315410176000")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Piter_Robledo/status/767000344366809088",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76700034436680908")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/cristianritondo/status/766990961855586304",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76699096185558630")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/PinedoFederico/status/767002550319054848",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76700255031905484")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

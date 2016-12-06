@@ -1,0 +1,143 @@
+
+Un trágico temporal de viento y lluvia se cobró la vida de dos personas esta noche en la capital cordobesa y dejó, además, varias calles céntricas totalmente inundadas, semáforos sin servicio, árboles caídos y cortes de energía eléctrica en algunos barrios de esa ciudad.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160216_0001 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160216_0001_789";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Temportal en Córdoba: informe del canal \"El Doce\"',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/16/VID/CLAVID20160216_0001/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Temportal-Cordoba-informe-canal-Doce_CLAVID20160216_0001_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160216_0001',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/16/VID/CLAVID20160216_0001/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Temportal-Cordoba-informe-canal-Doce_3_1523877598.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160216_0001.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160216_0001){
+            //getBBTStats_CLAVID20160216_0001();
+            varModIdReprod_CLAVID20160216_0001 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+ En cuanto a los fallecidos, se trata de un motociclista que fue arrastrado por la corriente de agua en el barrio Cofico y un bebé de siete meses, que murió cuando un árbol cayó sobre un auto Fiat 147, en el que se encontraba junto a sus padres. Un grupo de salvamento llegó al lugar e intentó rescatarlo pero no pudieron salvar la vida del pequeño, según consignó el portal de Internet del noticiero local de Canal 12. En cuanto al motociclista, circulaba con su rodado por calle Lavalleja, cerca del Puente Antártida, del barrio Cofico. Los testigos contaron que el hombre fue arrastrado por la corriente y en su recorrido, habría impactado su cabeza contra un automóvil que se encontraba estacionado.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Un alerta meteorológico regía para la Provincia antes de que se desatara, alrededor de las 20, la tormenta de lluvia, viento y granizo en distintas localidades, entre ellas, la ciudad Capital. También se habrían reportado un centenar de evacuados, según dijo Hugo Garrido, subsecretario de Emergencia Urbana de Córdoba, a TN. Usuarios de redes sociales comenzaron a compartir imágenes de calles céntricas totalmente inundadas y árboles caídos producto de las intensas ráfagas de viento. En tanto, el violento temporal alteró el normal funcionamiento del Aeropuerto Internacional Ingeniero Ambrosio Taravella, de esa capital, ya que dos vuelos tuvieron que ser desviados a Mendoza. El vuelo de LAN 4216, que debía llegar a las 20.05 y el 2518 de Austral, cuyo horario de aterrizaje estaba previsto para las 21.03. Si embargo, en plena tormenta, tres vuelos lograron despegar, pero con dificultades visuales por la intensa cortina de agua. Defensa Civil solicitó a los vecinos de Córdoba que no salgan de su casa y "en caso de que sea estrictamente necesario, circular con extrema precaución". Por su parte, la Empresa Provincial de Energía de Córdoba (Epec) informó, a través de su cuenta oficial de Twitter, que "debido al fenómeno meteorológico que afectó la ciudad de Córdoba, se produjeron fallas en distribuidores de media tensión y la salida de servicio de cuatro estaciones transformadoras". Los fuertes vientos, de hasta 110 kilómetros por hora, produjeron la caída de árboles sobre las líneas aéreas en distintos puntos de la ciudad.  Fuente: Agencia DyN e informe de Gustavo Molina (Corresponsal de Clarín en Córdoba)

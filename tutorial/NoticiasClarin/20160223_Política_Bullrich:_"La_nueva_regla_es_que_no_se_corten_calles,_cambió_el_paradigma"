@@ -1,0 +1,127 @@
+
+La ministra de Seguridad, Patricia Bullrich, aclaró anoche que los efectivos que intervengan para desalojar futuros cortes no permitidos, en el marco del nuevo protocolo antipiquetes, lo harán "con el mínimo uso de la fuerza"."Nosotros vamos a ir de una manera... con el mínimo uso de la fuerza. Sabemos lo que significa el uso muy potente de la fuerza. Puede ser que demore un poco más", admitió Bullrich.La funcionaria, en diálogo con el periodista Joaquín Morales Solá, por Todo Noticias, explicó que "la nueva regla es que no se corten calles, cambió el paradigma. Si alguien lo hace, tiene que saber que va a ir una fuerza policial a retirarlos", sostuvo.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160223_0002 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160223_0002_bf4";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Bullrich: \"La nueva regla es que no se corten calles, cambió el paradigma\"',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/23/VID/CLAVID20160223_0002/video_web.flv",
+        image: "http://images.clarin.com/politica/Bullrich-corten-calles-cambio-paradigma_CLAVID20160223_0002_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160223_0002',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/23/VID/CLAVID20160223_0002/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/2/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/politica/Bullrich-corten-calles-cambio-paradigma_3_1528077179.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160223_0002.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160223_0002){
+            //getBBTStats_CLAVID20160223_0002();
+            varModIdReprod_CLAVID20160223_0002 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+"Si el corte dura uno, dos o tres horas, a todo el mundo se le arruinó el día. Tiene que ser algo rápido". "Si no se van en 5 o 10 minutos, los vamos a sacar", añadió.En ese contexto, se preguntó, ante las críticas por la falta de diálogo: "Si se sabe que no se puede, y se corta igual, ¿cuál es la negociación? Que el gobierno tenga que aceptar cuatro años más una sociedad patas para arriba?".Bullrich admitió, no obstante, que "no va a ser fácil" terminar con esta metodología de protesta, pero pidió "paciencia", porque "las cosas hay que hacerlas bien"."Si hay provocaciones, intentos de corte de calle, nosotros vamos a ir de una manera... con el mínimo uso de la fuerza. Sabemos lo que singifica el uso muy potente de la fuerza", dijo.Y agregó: "Puede ser que demore un poco más, pero que la gente sepa que en los próximos cuatro años, este fenómeno va a ir cambiando y la gente va a tener más libertad".La ministra también se refirió a las críticas recibidas por la ubicación que tendrá la prensa en los operativos antipiquetes y al respecto aseveró: "Vamos a discutir con todos, y vamos a ir a un consenso".En cuanto al "escrache" que se le hizo en la puerta de su domicilio, la funcionaria advirtió que "el método de ir a las casa de alguien no corresponde".Sin embargo, desafió: "Yo hago esto por convicción, así que si hay alguien que quiere ir y protestar, puede hacerlo"."Esto es para la gente, y creo que así lo comprende", dijo Bullrich, quien recordó que el Ministerio habilitó una dirección de correo electrónico para conocer la postura de la ciudadanía y anotar sugerencias. "Recibimos 635 mails, y el 93 por ciento está a favor del protocolo", subrayó la funcionaria.El correo electrónico es: juntosavos@mingseg.gob.ar(DyN)

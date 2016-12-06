@@ -1,0 +1,68 @@
+
+Según la Coordinadora contra la Represión Policial e Institucional, 3070 personas fueron asesinadas por el represión estatal durante las gestiones kirchneristas (2003-2015). Las policías provinciales, los servicios penitenciarios y la Policía Federal son los principales responsables, y la cifra representa el 65 por ciento del total de los casos de violencia institucional desde la vuelta de la democracia.CORREPI es una organización que releva los casos de gatillo fácil, muertes de personas detenidas (que suelen incluir tormentos y torturas), fusilamientos en protestas y causas fraguadas. Entre otras cosas, a eso se refieren con "violencia institucional". En su informe 2015, que contempla aquellos casos "que impliquen la aplicación de política represiva y la utilización de los recursos del aparato estatal, cuyo resultado sea la muerte de la víctima", se advierte además que "los desaparecidos, con Jorge Julio López, Luciano Arruga y Daniel Solano como referencias obligadas, ya son más de 200" desde la vuelta de la democracia en 1983.No existen cifras oficiales del Ministerio de Seguridad sobre el tema. Por esta razón, desde 1996 CORREPI realiza informes "a partir de del contacto con los familiares o amigos de las víctimas, el chequeo de diarios nacionales y provinciales e informes de otras organizaciones y de organismos oficiales que registran datos de interés", según explica el documento de 2015.Además, el informe analiza la represión estatal no sólo durante el período en el que Néstor y Cristina Fernández de Kirchner estuvieron en el poder, sino también los abusos institucionales desde la vuelta de la democracia. Entre 1983 y 2015, el total de muertos sumó 4644 casos (número parcial, ya que el recuento cerró los primeros días de noviembre).El 45% por ciento de los ellos se dieron en la Provincia de Buenos Aires, seguida por Santa Fe (12%), Córdoba (8%) y la Ciudad de Buenos Aires (7%). El 52% de las muertes corresponden a jóvenes de menos de 25 años.Evolución de los casos de Violencia institucional desde 1996 (Fuente: Correpi)"Lo que demuestra el incremento de las cifras es que este conjunto de modalidades represivas es utilizado por cada una de las gestiones de gobierno desde 1983 a la fecha, sea cual sea su color político", explica a Clarín María del Carmen Verdú, referente de CORREPI que fue la abogada querellante en el juicio por el asesinato de Mariano Ferreyra (entre otros conocidos casos).FACTOR BERNI"Se ve un mayor sinceramiento de la represión directa a partir del ingreso de Berni, aunque el índice es sostenido de todos modos", puntualiza Verdú. Y resalta un dato en particular: "Los incrementos significativos del número de muertos se dan con las crisis: hay más casos de represión estatal en los períodos 2000-2001 y 2008-2009", explica."La propaganda discursiva que hizo el kirchnerismo de su supuesta campaña de no represión en la protesta social tiene como contraparte que fue el gobierno que más eficazmente usó la represión en la protesta. Incluso con la patota como forma de proceder: Mariano Ferreyra es sólo un ejemplo de cientos de casos en el interior del país", analizó Verdú. El documento tiene un extenso apartado de "violencia paraestatal", donde destacan el accionar de patotas y grupos de choeque paraestatales.    Mariano Ferreyra fue asesinado en 2010. "La bala rozó el Corazón de Néstor", declaró dos años después CristinaLas policías provinciales lideran la lista de agentes represivos: un 57% de las 4644 muertes corresponden a ellas, seguidas por agentes de servicios penitenciarios. La Policía Bonaerense está, así, en el ojo de la tormenta. Los casos de desaparición en democracia como el de Luciano Arruga o Jorge Julio López, o aquellos de asesinatos en manifestaciones como Mariano Ferreyra o Ángel Verón son sólo algunos emblemas que tienen repercusión en los grandes medios. Correpi detalla la cantidad de casos, que supera los miles.  Fuerzas de seguridad implicadas en casos de violencia institucional (Fuente: Correpi)"En general, históricamente hay más casos de violencia policial en el Conurbano Bonaerense que en CABA. Intervienen varios factores: la población es mayor, el número de policías desplegados es mayor, y hay zonas más conflictivas. Casi todos los casos que involucran a policías fuera de servicio ocurren en el Conurbano, ya que la mayor parte de los agentes policiales, incluso de las fuerzas federales, vive allí", explica a Clarín Manuel Tufró, coordinador del equipo de Seguridad Democrática y Violencia Institucional del Centro de Estudios Legales y Sociales (CELS).Lee más: Liberaron al oficial de la Metropolitana que baleó a un joven en La BocaEl CELS, entidad emblema de los derechos humanos presidida por Horacio Verbitsky, maneja otras cifras en materia de violencia institucional: "Entre el 1 de enero de 2003 y el 15 de noviembre de 2015 registramos al menos 1549 personas muertas por fuerzas de seguridad en el Área Metropolitana de Buenos Aires", señala Tufró.Las diferencias tienen que ver con las fuentes utilizadas para confeccionar las estadísticas: "Ante la ausencia de información oficial sobre violencia institucional, el CELS construye datos sobre violencia policial desde 1996 en base a información recopilada en medios de prensa de la Ciudad de Buenos Aires", aclara.
+
+
+El 52% de las muertes por represión estatal corresponden a jóvenes de menos de 25 años
+
+
+
+
+
+var act_580 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_580 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_580.setTitle('El 52% de las muertes por represión estatal corresponden a jóvenes de menos de 25 años');
+act_580.setSubtitle('Violencia institucional'); 
+act_580.setLinkBack('http://www.clarin.com/politica/Correpi-kirchnerismo-muertos-represion-estatal_0_1478852510.html');
+act_580.setDescription('La Coordinadora contra la Represión Policial e Institucional relevó la cantidad de casos de gatillo fácil, desapariciones forzadas, torturas en cárceles y muertes de personas detenidas en 2003 -2015.');
+act_580.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Correpi-kirchnerismo-muertos-represion-estatal_0_1478852510.html');
+
+var showShareBarUI_params_580=
+{ 
+containerID: 'shareQuote_580',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_580,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_580
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_580);
+En la primera mitad del año, el organismo que preside Horacio Verbitsky publicó su informe anual con sus propios números. Llegó a la conclusión de que 2014 fue el año con más casos de violencia institucional desde la llegada del kirchnerismo en 2003: 154 personas."No hay una sola clave para resolver este problema, pero lo fundamental es que las autoridades políticas consideren que las muertes ocasionadas por las fuerzas de seguridad constituyen un problema de gobierno", analiza Tufró . Para el especialista, se torna fundamental "dejar de dar mensajes de 'mano dura' y no incentivar la violencia policial", además de implementar "reformas de las fuerzas policiales, controles y sanciones a los efectivos que hagan un uso abusivo de la fuerza".Lee más: la violenta represión en Tucumán, justificada por el jefe de la PolicíaEl Ministerio de Seguridad de la Nación cuenta con un protocolo para la acción represiva. Desde fines de 2012 hay un programa de "uso racional de la fuerza", destinado "profesionalizar las intervenciones de los miembros de la Policía Federal Argentina, la Gendarmería Nacional, Prefectura Naval y la Policía de Seguridad Aeroportuaria, en materia de uso de la fuerza, con el objetivo principal de proteger la vida e integridad física de las personas, promover la eficacia operativa y las prácticas respetuosas de los Derechos Humanos".El secretario de Seguridad, Sergio Berni, fue consultado por Clarín respecto de estos casos registrados por CELS y CORREPI. Prefirió no hacer declaraciones sobre el tema.

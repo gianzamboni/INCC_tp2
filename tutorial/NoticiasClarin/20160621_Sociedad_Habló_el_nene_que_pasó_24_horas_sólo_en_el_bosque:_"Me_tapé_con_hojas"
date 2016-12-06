@@ -1,0 +1,20 @@
+
+Un chico de 12 años, llamado Santino, fue el sábado de excursión con su familia al Parque Nacional Los Alerces, en Esquel. Se alejó del sendero por el que transitaban y estuvo 24 horas extraviado, soportando temperaturas por debajo de los -8 grados. Ya en la comodidad de su casa, relató cómo fue la experiencia. Mirá también: El chico abandonado en un bosque dejó el hospital como una celebridad "El peor momento fue cuando no supe qué hacer porque no veía nada por la niebla. Me tapé con hojas y mi campera", contó Santino a TN y explicó que esa forma de recubrirse la aprendió viendo programas de Animal Planet. En todo esa jornada, no se alimentó. "Estaba a punto de comer hojas, pero no", precisó y afirmó que, en caso de sentir hambre, lo hubiera hecho. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ "Cuando no veía el lago llegué a perder las esperanzas. Me iba a acostar de vuelta, pero justo escuché unos gritos, fui corriendo, y pasó una camioneta. Estaba la ruta", explicó el chico, que reconoce haber sentido las piernas cansadas. Agregó que no lo encontraban porque "todos me estaban buscando del otro lado".
+
+Mirá también: Conocé al ser vivo más grande del planeta La mamá del chico, Paola, compartió su punto de vista. "Nosotros veníamos bajando, Santino se adelantó demasiado y se desvió del sendero. Decidió seguir bajando porque sabía que el lago estaba al lado de la ruta. Se cansó de caminar y buscó un lugar reparado para pasar la noche", explicó. "Estamos más tranquilos y felices, juntos, en casa. Santino está bien, un poco afónico, con los labios paspados, pero bien", concluyó la mujer. 

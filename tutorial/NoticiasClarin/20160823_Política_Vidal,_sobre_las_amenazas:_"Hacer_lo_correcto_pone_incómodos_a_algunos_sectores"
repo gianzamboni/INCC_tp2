@@ -1,0 +1,37 @@
+
+María Eugenia Vidal habló esta mañana respecto a las amenazas, luego de que dejaran un cartucho de escopeta en su vivienda particular, que no utiliza desde que asumió.  "Hacer lo correcto en la provincia de Buenos Aires pone incómodos a algunos sectores, pero eso es lo que votó la mayoría, el año pasado la mayoría votó un cambio", dijo Vidal en declaraciones a la cadena CNN en español. La gobernadora de la provincia de Buenos Aires sostuvo que la gente votó "que vayamos contra los policías que conviven con el delito, votó que saquemos del Servicio Penitenciario a aquellos que también son funcionales al delito, votó que eliminemos las mafias de negocios que había adentro del Estado, combatir el juego ilegal, y todo eso tiene costos". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Revelan nuevas amenazas a Vidal: dejaron un cartucho de escopeta en su garaje Esta mañana, el ministro de Justicia bonaerense, Gustavo Ferrari, reveló que la gobernadora provincial recibió nuevas "amenazas" y que le dejaron un "cartucho de escopeta" en la vivienda que ya no utiliza la mandataria. "Lo importante es que nosotros sabemos lo que estamos haciendo, que es lo correcto, y seguramente hacer lo correcto en la provincia de Buenos Aires pone incómodos a algunos sectores", expresó. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_phx6hcyw",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_phx6hcyw"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_phx6hcyw").after(scriptEl);
+ Vidal le concedió una entrevista al conductor Carlos Montero en la cadena internacional de noticias. Al ser consultada por las denuncias que formuló la diputada de la Coalición Cívica-ARI Elisa Carrió, sobre  el jefe de la Policía Bonaerense, Pablo Bressi, respondió: "Nos tomamos muy en serio todas las denuncias, no sólo la de Carrió que es una dirigente muy importante y valiosa de Cambiemos, y en todos los casos investigamos".     ¡Fuerza Maria Eugenia Vidal! las mafias no podrán amedrentarnos. La lucha por la #RepúblicaLibreDeMafias sigue. Las convicciones no se negocian. A photo posted by Elisa Carrió (@elisalilitacarrio) on Aug 23, 2016 at 9:27am PDT
+ Mirá también: El audio de la amenaza contra la gobernadora María Eugenia Vidal "Hasta el momento, nosotros no tenemos ningún elemento concreto, ninguna causa judicial, que vincule al jefe de Policía, pero él, como la gobernadora, como todos los funcionarios, estamos expuestos y frente a cualquier denuncia se actúa, se interviene, se investiga y eso claro que pisa muchos callos, pone incómodos a mucha gente?, resaltó. Además, dijo que viene trabajando con el jefe de Policía "y hasta tanto no haya algo concreto que lo vincule a un delito, como al resto de los funcionarios de la provincia de Buenos Aires, lo vamos a seguir sosteniendo". Mirá también: "No nos van a parar", afirmó Macri tras las nuevas amenazas contra Vidal Y fue contundente al explicar lo que espera la sociedad de su gestión: "Lo que la gente espera de nosotros, que tomemos estas decisiones, que demos estas peleas, que la policía entre donde había narcotráfico y donde antes no se entraba". Al tiempo que subrayó que "en lo que va del año" se desmantelaron más de 40 casinos clandestinos. "Todos esos son negocios de alguien", concluyó la mandataria provincial.

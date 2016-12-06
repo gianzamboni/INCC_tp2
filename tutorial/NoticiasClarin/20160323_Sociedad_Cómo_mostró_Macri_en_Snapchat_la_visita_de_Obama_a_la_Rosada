@@ -1,0 +1,65 @@
+
+Mauricio Macri estrenó esta semana su cuenta de Snapchat y desde allí su equipo de comunicación está revelando todo el backstage de la gira de Barack Obama en la Argentina. Hoy mostró cómo fue la recepción del presidente de Estados Unidos en la Rosada y la previa a la llegada de Obama a la Casa de Gobierno. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Anoche, la cuenta oficial de Macri también había subido fotos del arribo de su par estadounidense a Ezeiza desde una perspectiva diferente. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En las redes sociales, los que se toparon con la comitiva estadounidense también lo compartieron, como este video en Twitter.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/bepapaorfano/status/712504504437092352",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71250450443709235")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Ayer, subió fotos y videos de cómo el Centro Cultural Kirchner se está preparando para la cena de gala de esta noche.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

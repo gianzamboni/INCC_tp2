@@ -1,0 +1,40 @@
+
+Los diputados nacionales Sergio Massa, del Frente Renovador, y Ricardo Alfonsín, de la UCR, repudiaron hoy el ataque contra el auto en el que viajaba el presidente Mauricio Macri hoy en Mar del Plata.  “Una alternativa política no se construye tirando piedras, sino con propuestas para resolver los problemas de la gente”, afirmó Massa. "La violencia y el miedo son símbolos de un pasado al que la Argentina no quiere volver”, dijo. Mirá también: Agresiones a Macri y Vidal en un acto en Mar del Plata Por su parte, el diputado radical y presidente del Comité de la UCR de la provincia de Buenos Aires Ricardo Alfonsín aseguró que los agresores "no creen en la democracia ni en la defensa los derechos humanos". Mirá también: Los que hablan de “matar al Presidente”  "Cruzan límites que revelan que solo les preocupan los derechos humanos cuando son ellos las víctimas de su violación. Merecen nuestro más categórico repudio" dijo. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_qe0izxq9",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_qe0izxq9"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_qe0izxq9").after(scriptEl);
+ "Repudiamos los ataques hechos contra Mauricio y María Eugenia y toda tipo de violencia como forma de expresión pública y política. En la Argentina ya no hay lugar para la violencia ni para este tipo de conductas que no pueden repetirse", cuestionó el senador Federico Pinedo. También se pronunció Elisa Carrió, a través de la palabra de Héctor "Toty" Flores, uno de los referentes de la Coalición Cívica-ARI. "Estoy con Elisa Carrió y creemos que la agresión a Mauricio Macri y María Eugenia Vidal es un intento desesperado del Kirchnerismo. Solidaridad", escribió en su cuenta de Twitter. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/TotyFlores/status/764213967749259268",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76421396774925926")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Luego, ella misma con un tuit, reforzó su repudio: "El escrache es violencia y el único camino es la no violencia, mi total solidaridad con Mauricio Macri y María Eugenia Vidal". También hubo una declaración del interbloque de diputados de Cambiemos, conformado por el PRO, la UCR, y la Coalición Cívica - ARI, en la que ratificaron su enérgico repudio a las agresiones.  "Creemos que la libertad de expresión es poder manifestarse a favor de lo que se cree, pero debe hacerse respetando la democracia y la integridad de las personas. Arrojar piedras contra los automóviles en los que se movilizaban representantes elegidos por el voto popular e insultarlos no entendemos que sea el camino correcto", afirmaron. Y agregaron: "Venimos demostrando, tanto desde el Congreso como desde el Ejecutivo, que somos un frente abierto al diálogo, pero tiene que estar claro para todos que nada puede construirse desde la violencia". El jefe del bloque radical, Mario Negri, habló de un intento desestabilizador. “Hay que repudiar a quienes desde la sombra eligen la agresión para desestabilizar, no soportan estar fuera del poder, ya conocemos ese camino, hay que repudiar y prestarle atención, pues insinúan adónde quieren ir”.
+
+Desde el PRO, Nicolás Massot, aseguró que “los insultos y la violencia física no resuelven los problemas de los argentinos” y sostuvo que “como lo demuestra nuestra historia, ante cada agresión, vamos a seguir respondiendo con más diálogo y más trabajo”. Por último, Fernando Sánchez, de la CC-explicó que "las manifestaciones violentas, como las sufridas hoy por el Presidente y la gobernadora de la provincia de Buenos Aires no forman parte de las herramientas que nos da la democracia, y solo significan pobreza de argumentos e intolerancia". Macri tenía previsto encabezar hoy un acto con la gobernadora María Eugenia Vidal en Mar del Plata, pero el encuentro apenas duró 5 minutos ya que debido a las agresiones verbales, ambos decidieron abandonar el lugar.  Mirá también: Nueva amenaza de bomba en la Casa Rosada Antes de eso hubo tensión cuando comenzaron a escucharse gritos y agravios de parte de jovenes identificados como pertenecientes a la agrupación HIJOS, que lanzaron piedras contra el vehículo en el que se trasladaba Macri.  “Macri, basura, vos sos la dictadura”, coreaban, superponiendo sus gritos al discurso que en ese momento estaba dando Macri. Sobre la marcha, el Presidente se salió del libreto y reclamó que había que evitar los agravios y seguir avanzando para transformar al país.
+
+ 

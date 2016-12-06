@@ -1,0 +1,50 @@
+
+A su manera, Franky Zapata hizo realidad la fantasía puesta en juego en Volver al Futuro 2. En la película, su protagonista viaja en una patineta que avanza sin tocar el suelo. Zapata hizo lo mismo, y bastante más alto que Marty McFly. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ No es la primera vez que vuela en su “aerotabla”. Pero la novedad ahora es que logró desplazarse sin tocar el suelo más de dos kilómetros, lo que lo hizo acreedor de un récord Guinness. Mirá también: Esquiaron en bikini en un intento por batir un récord Guinness  Lo logró en la costa de Sausset-les-Pins, en el sur de Francia.  Zapata, que es francés, tiene 37 años y que es especialista en motos de agua, recorrió 2.252 metros entre su punto de despegue y el de vuelta al suelo. De este modo, informa Guinness, superó por mucho la anterior mejor marca en la especialidad, de 275,9 metros, lograda por el inventor canadiense Catalin Alexandru Duru. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Zapata avanzó por el aire acompañado por una flota de lanchas y motos de agua. Su "aerotabla", llamada Flyboard Air, fue desarrollada por su propia firma, Zapata Racing. Mirá también: Video: se dejan caer en colchones en efecto dominó y logran un Guinness  Zapata asegura que su tabla puede volar hasta a unos 3.000 metros de altura y alcanzar una velocidad máxima de 150 km/h. Sin embargo, en su vuelo récord solo alcanzó unos 55 km/h. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ La Flyboard Air se propulsa con aire y tiene una autonomía de unos diez minutos. El prototipo tiene ya cuatro años de desarrollo. Tiene cuatro motores de 250 caballos, y el combustible que los alimenta va en la mochila que debe portar el piloto. Dos motores adicionales, laterales, mantienen la estabilidad de la “aerotabla”. Mirá también: Más de 9 mil personas hicieron la mateada más grande del mundo

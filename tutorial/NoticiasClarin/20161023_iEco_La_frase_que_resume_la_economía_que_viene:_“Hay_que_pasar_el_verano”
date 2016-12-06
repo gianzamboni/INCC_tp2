@@ -1,0 +1,136 @@
+
+El Gobierno se juega a todo o nada a bajar la inflación en 2017. Y de ahí que sus funcionarios se muestren expectantes con la marcha de los precios en el período noviembre-marzo. Descuentan que el dato de octubre será alto por la suba del gas y las prepagas. La visión oficial al respecto reza que una tasa de inflación cercana a 1,5% mensual promedio en el verano volverá más creíble el cumplimiento de la meta de 17% de inflación para el año próximo y, de ese modo, las ambiciones oficiales de cara a la discusión salarial en marzo tendrán más plafón. En cambio, si la inflación resulta más alta a la esperada, el verano no habrá hecho más que meter arena en el engranaje de las expectativas y la formación de los precios en el arranque del año.
+
+Uno de los que mira la temporada 2017 es Federico Sturzenegger, presidente del BCRA. He ahí la decisión de la entidad de no bajar la tasa de interés. Son 40 segundos que arrancan en el minuto 58 del video de la conferencia de prensa con la presentación del informe de Política Monetario del BCRA el martes pasado y que puede verse por youtube. En forma resumida, y citando textual, el titular del banco responde sobre la decisión de dejar inalterado el nivel de la tasa de interés y si tiene que ver con la marcha de los precios de septiembre. Sturzenegger responde que no, que la estrategia es por la incertidumbre hacia adelante. “El tema de la tasa tiene mucho que ver con 2017, no tiene que ver tanto con lo que está ocurriendo ahora -refiriéndose a la inflación-, lo que está ahora me parece que estamos bien. Pero tenemos trabajo por hacer para 2017 y ese es el foco”. 
+
+
+“Hasta que no se alineen las expectativas con la meta es difícil que las bajen”, analiza Maximiliano Castillo, economista jefe de ACM.
+
+
+
+
+
+var act_797 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_797 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_797.setTitle('“Hasta que no se alineen las expectativas con la meta es difícil que las bajen”, analiza Maximiliano Castillo, economista jefe de ACM.');
+act_797.setSubtitle('Análisis'); 
+act_797.setLinkBack('http://www.clarin.com/ieco/resume-economia-viene-pasar-verano_0_1673232825.html');
+act_797.setDescription('Serán clave los datos de los precios entre noviembre y marzo. De ahí que el foco del Banco Central ya esté en 2017.');
+act_797.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/resume-economia-viene-pasar-verano_0_1673232825.html');
+
+var showShareBarUI_params_797=
+{ 
+containerID: 'shareQuote_797',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_797,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_797
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_797);
+ El Banco Central, y el Gobierno haciéndose eco, cantó quiero vale cuatro con la meta para el año que próximo. Habrá que ver si el mercado se va al mazo o si apuesta y juega fuerte. Y quién gana. Por ahora el mercado no cree. Así lo dice el IPM. “Para los primeros meses de 2017, tanto el REM como Consensus esperan una inflación aún por encima de lo esperado por el BCRA. El REM estima una inflación promedio de 1,6% para el primer trimestre. Consensus, por su parte, prevé una inflación promedio de 1,8% para el primer bimestre del año”. El REM son las expectativas que releva el banco y Consensus es un informe similar pero privado. 
+
+
+“Para hablar de un proceso de desinflación exitoso falta tiempo”, dice Lorenzo Sigaut, economista jefe de Ecolatina.
+
+
+
+
+
+var act_d94 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_d94 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_d94.setTitle('“Para hablar de un proceso de desinflación exitoso falta tiempo”, dice Lorenzo Sigaut, economista jefe de Ecolatina.');
+act_d94.setSubtitle('Análisis'); 
+act_d94.setLinkBack('http://www.clarin.com/ieco/resume-economia-viene-pasar-verano_0_1673232825.html');
+act_d94.setDescription('Serán clave los datos de los precios entre noviembre y marzo. De ahí que el foco del Banco Central ya esté en 2017.');
+act_d94.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/resume-economia-viene-pasar-verano_0_1673232825.html');
+
+var showShareBarUI_params_d94=
+{ 
+containerID: 'shareQuote_d94',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_d94,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_d94
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_d94);
+ ¿Conclusión? “Hasta que no se alineen las expectativas con la meta es difícil que las bajen”, analiza Maximiliano Castillo, economista jefe de ACM. “Para hablar de un proceso de desinflación exitoso falta tiempo”, dice Lorenzo Sigaut, economista jefe de Ecolatina. Otros, en cambio, creen que el banco bajará la tasa a 21-22% (hoy en 26,75%). Si la economía argentina pasó el invierno, que para muchos aún sigue, ahora viene el otro desafío: el verano y los precios.

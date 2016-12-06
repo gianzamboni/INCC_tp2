@@ -1,0 +1,24 @@
+
+ Un nuevo proyectil explosivo apareció en Morón el fin de semana. Lo tenía un chico en su casa como elemento de decoración sin saber que, en realidad, lo que había llevado a su hogar era una poderosísimo proyectil.  Tras leer una nota de Clarín sobre el explosivo encontrado durante los trabajos de soterramiento del tren Sarmiento, un proyectil de 75 mm del cañón Krupp de 1909, la madre del chico llamó desesperada al 911. Mirá también: Insólito: hallan un misil de más de 60 años cuando hacían túneles para soterrar el Sarmiento  “¡Mi hijo está loco, tiene una bomba en la casa!”, alertó. De inmediato se dio aviso a la Policía, a la Brigada de Explosivos de la provincia y, acompañados por personal de la secretaría de Seguridad del municipio, se procedió a secuestrar el proyectil, que también era de calibre 75 mm, pero de mayor tamaño al que se encontró el jueves en el obrador ferroviario.
+
+ “El explosivo ya fue detonado hoy en una cantera, se necesitó un perímetro de 250 metros por el poder de la bomba”, explicó a Clarín Sebastián Cinquerrui, secretario de Seguridad de Morón. “Nos pone contentos que, gracias a la comunicación del anterior proyectil, una persona haya tomado conciencia y llamado al 911. Un proyectil no es un souvenir”, dijo. “Sacar un artefacto así de las manos de un civil es un éxito”, agregó. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Tras el hallazgo de dos explosivos en pocos días en el municipio, la pregunta de cómo llegaron ahí y cuántos más habrá sigue sin tener una respuesta certera. Para trasladarlo, la brigada de explosivos debió utilizar un artefacto especial: 
+
+Ambaos proyectiles tenían más de 60 años, por eso una de las versiones apunta a que esos proyectiles encontrados podrían ser elementos robados en medio de la pelea dentro de las Fuerzas Armadas entre azules y colorados.  En aquella época, década del 60, ambas facciones se robaban entre sí de las artillerías, muchos tomaban proyectiles a modo de trofeo. Esos explosivos encontrados serían vestigios de aquella puja, olvidados o escondidos cuando la confrontación terminó.  “Este tipo de proyectiles, aunque uno los vea oxidados, no son souvenirs, son inclusive más inestables”, advirtió Cinquerrui.
+
+

@@ -1,0 +1,50 @@
+
+En el marco del Foro de Inversiones y Negocios, el presidente Mauricio Macri tuvo una maratón de reuniones con los CEOs que participan del evento y allí escuchó varios anuncios de las tan esperadas inversiones. Mirá también: Macri llamó a los empresarios a invertir: "Queremos que sean parte de esta etapa maravillosa" Con uno de los que se reunió fue con el titular de la minera Pan American Silver, Ross Beaty, que anunció una inversión de US$ 1.000 millones para el desarrollo de un megaproyecto en Chubut: el Proyecto Navidad, que será la reserva mundial más grande de plata. Mirá también: Grobocopatel: "En Argentina necesitamos crecer rápido" Otra de las reuniones fue con el director de Dow Chemical Company, Andrew Liveris, quien le anunció la intención de continuar con sus inversiones en el polo petroquímico de Bahía Blanca e invertir en el Cerro Policía para explotar energía eólica, en Río Negro. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/NacionPro/status/775724026094321664",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77572402609432166")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Paolo Rocca: “Hay oportunidades inigualables de inversión, con altas tasas de retorno” El mandatario recibió además al CEO del Grupo Enirgi, Wayne Richardson, que anunció que a fin de año comenzará en Salta la construcción de la planta de litio más grande del mundo. El empresario dijo también que la compañía comenzará a explorar otras áreas de negocios, para lo cual llegarán al país representantes de la firma en los próximos meses. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/geo_pm/status/775723949216923652",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77572394921692365")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Por otra parte, Macri se reunió con el vicepresidente senior de IBM Corporation, Bruno Di Leo, quien le transmitió a Macri que la empresa seguirá invirtiendo en el país y formando centros de capacitación, investigación y desarrollo para las áreas de salud, energía y agro.  El Presidente estuvo acompañado por el ministro de Energía y Minería, Juan José Aranguren, el titular del la Agencia Argentina de Inversiones y Comercio Internacional, Juan Procaccini y el secretario general de la Presidencia, Fernando de Andreis. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/mauriciomacri/status/775710561585750016",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77571056158575001")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ En el marco del Foro, los empresarios coincidieron con que Argentina está haciendo cambios estructurales que alientan a la inversión, pero advirtieron que estas políticas aún necesitan más tiempo para asentarse. Algunos de los que expusieron fueron el CEO del Grupo Techint, Paolo Rocca, el director ejecutivo para América Latina y el Caribe de Toyota, Steve St. Angelo; y el director ejecutivo del holding publicitario WPP, Martin Sorrel.

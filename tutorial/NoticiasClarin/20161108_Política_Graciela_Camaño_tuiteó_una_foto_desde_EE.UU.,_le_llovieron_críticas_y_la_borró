@@ -1,0 +1,98 @@
+
+Graciela Camaño reabrió la polémica en torno a la suspensión de la actividad de la semana en el Congreso, debido a que varios legisladores viajaron para seguir de cerca la elección presidencial en Estados Unidos. La diputada del Frente Renovador tuiteó una foto arriba del micro "rumbo a los centros de votación", donde también se puede ver al jefe del bloque radical, Mario Negri, y tras la fuerte polémica que levantó lo borró. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/frgalindez/status/796004666953859072",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79600466695385907")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mientras que algunos le apuntaron directamente al viaje de los legisladores, otros pusieron la lupa en el error ortográfico al escribir "Mariland", en lugar de "Maryland". Sin embargo, aunque el tuit fue borrado rápidamente una vez que estallaron las críticas de los usuarios, el mensaje no desapareció del todo de la red social.  Sin entrar en la polémica, Camaño subió luego una foto junto a Negri y Luciano Laspina, presidente de la comisión de Presupuesto y Hacienda, aprovechando el viaje para una reunión en el Banco Interamericano de Desarrollo (BID). 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/GracielaCamano/status/795706601562902528",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79570660156290252")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Polémica por las fotos de Marijuan yendo a ver a la Argentina en Nueva Jersey Esta mañana, la legisladora, que preside la Comisión de Amistad con EE.UU, explicó los motivos del viaje aunque evitó referirse a las controversias que despertó su tuit en las redes. "En este momento estamos en una escuela en el distrito de Arlington, nosotros conformamos una comisión, que tiene una homónima en Estados Unidos de congresistas también y hacemos varias actividades y en esa calidad es que estamos en esta elección en Estados Unidos", explicó Camaño en diálogo con radio El Mundo. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/zeinicienta/status/796007816045719552",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79600781604571955")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Expresó que luego irán a Virgina a una estación de bomberos y a una biblioteca, donde también los ciudadanos norteamericanos emitirán su voto. Y finalmente, contó que dicha comisión está integrada por cinco legisladores, CEOs de empresas argentinas y funcionarios del Gobierno nacional. "El grupo es aproximadamente de 20 personas, no sé los otros grupos, y la cámara siempre reconoce un viático mínimo aún cuando uno pueda sostener el viaje, es algo de mil y pico de dólares", detalló. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ncariola/status/796006924621934592",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79600692462193459")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Pese a las explicaciones, los usuarios de la red continuaron con sus críticas, que se sumaron a los cuestionamientos por parte de de la Izquierda al viaje y la suspensión de la actividad parlamentaria. Myriam Bregman, diputada nacional del PTS-FIT expresó en declaraciones radiales que “mientras en nuestro país hay urgencias y necesidades que no pueden esperar, el Congreso estará paralizado durante una semana porque muchos diputados y senadores viajan a los Estados Unidos por las elecciones en ese país”. Y sentenció: "Todavía no se apagó la bronca por el dietazo que se dieron los legisladores y ahora de turismo por Estados Unidos, en un viaje que en la mayoría de los casos ni siquiera es oficial. Esperamos que no sea con dinero público, como los jugosos viáticos en dólares que paga el Congreso. A cualquier trabajador lo echan si falta una semana a su trabajo”. Mirá también: Elecciones en EE.UU: ¿Por qué se vota un martes? 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/myriambregman/status/795992752559366144",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79599275255936614")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Según publica la página del bloque de Diputados de la UCR, la actividad tendrá "uno de los platos fuertes de la tupida agenda de los parlamentarios argentinos: una reunión en la Embajada argentina con diputados e invitados especiales, para debatir en torno a 'Perspectivas y desafíos de la relación entre Argentina y los EEUU y su proyección en América Latina y el Caribe'”. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Leacurrao/status/796006713816186880",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79600671381618688")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Allí estarán participando de la mesa, moderada por el Embajador Martín Lousteau: Negri (UCR, Cambiemos), Camaño (UNA), Silvia Lospennnato (Unión PRO, Cambiemos), Guillermo Snopek (Justicialista) y Fernando Sánchez (Coalición Cívica, Cambiemos). "En el último día de la visita, el viernes, está prevista la visita al Banco Interamericano de Desarrollo (BID) y una reunión con el Director Ejecutivo por Argentina, Raúl Novoa y funcionarios de la organización", concluye. Mirá también: El Gobierno insiste en apurar la reforma electoral para aplicarla en 2017 

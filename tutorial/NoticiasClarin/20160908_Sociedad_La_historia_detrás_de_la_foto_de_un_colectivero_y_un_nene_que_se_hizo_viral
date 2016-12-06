@@ -1,0 +1,18 @@
+
+Un gesto o una acción a veces pueden cambiarlo todo. Un chofer de colectivo cordobés esta semana se hizo famoso por un acto que tuvo con un pasajero de 11 años: le regaló un par de zapatillas para su cumpleaños. El momento fue captado por otra pasajera, que compartió las fotos en Facebook y rápidamente se viralizaron. Pero detrás de esas imágenes hay una historia de amistad, amor y esfuerzo.  “No todo está perdido”, es el mensaje que acompaña una de las fotos que publicó Agustina Márquez Ibañez, que ya fue compartida más de 26.000 veces desde el martes. Lo que cuenta ella es la historia del regalo de un chofer a un nene. Luego de que explotará en las redes sociales, se conocieron los actores principales de la escena: Julio Gonzalez, colectivero de la línea 10, y Gian Carlos, el joven pasajero. Gian Carlos viaja todos los días desde su escuela en el centro hasta el barrio humilde Los Artesanos. El trayecto -que dura media hora- les permitió a chofer y pasajero construir su amistad. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+“Me pregunta por mi mamá, mi papá, me pregunta qué hice en la escuela, cómo me va y cómo juego a la pelota. De eso hablamos”, relata el nene, que el domingo pasado cumplió años y, como era de suponer, se lo contó a su amigo Julio. El chofer lo esperó como todos los días, pero esta vez con un par de zapatillas de las que el pequeño Gian no se separó más. Leé también: "El conmovedor gesto de un nene portugués con un hincha francés"  “Sabía que era su cumpleaños, entonces el lunes lo esperé con un par de zapatillas, pero no nos percatamos de que nos habían sacado una foto”, dice Julio y agrega: “Hay mucha gente que hace esto todo el tiempo, que ayuda y que no se conocen sus historias, pero están, están por todos lados”. El nene nació en Lima y desde hace 6 años que vive en Córdoba. Es el mayor de tres hermanos. Su papá es albañil y su mamá, ama de casa. "Hacemos un esfuerzo muy grande para salir siempre adelante. A veces puedo acompañar a mi hijo hasta la escuela, pero a veces no me alcanza la fuerza, lo que hizo el chofer es muy bueno. Le estamos agradecidos”, agregó Carlos Suárez, el papá del chico. También leé: "Un rescate impensado, una caricia y un video que conmovió al mundo"

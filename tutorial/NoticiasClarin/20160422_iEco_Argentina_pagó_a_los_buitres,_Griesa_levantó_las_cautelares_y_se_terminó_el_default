@@ -1,0 +1,20 @@
+
+El juez Thomas Griesa levantó finalmente las medidas cautelares que pesaban sobre Argentina y nuestro país salió formalmente del default. Simultáneamente un comunicado del mediador Daniel Pollack señalaba que el magistrado estaba “muy gratificado” por este momento en la larga batalla judicial que presidió por más de 15 años.
+
+“Habiendo revisado cuidadosamente los escritos presentados por la Argentina, esta Corte encuentra que todas las condiciones precedentes han sido alcanzadas. Por eso, las medidas cautelares son levantadas en todos los casos”. Así, escuetamente, el juez Griesa ponía punto final a más de 15 años de litigio y levantaba las medidas que habían llevado a la Argentina al default en 2014. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/alfonsopratgay/status/723533480899039232",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72353348089903923")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Las “condiciones precedentes” a las que alude el magistrado son la aprobación de las leyes Cerrojo y Pago soberano por parte del Congreso argentino y el pago a los holdouts que habían cerrado acuerdos con la República. Poco antes, la Argentina había confirmado al juez que esta mañana había pagado a los holdouts y le pedía al magistrado que levantara las medidas cautelares. Con la firma de Michael Paskin, el abogado del estudio Cravath, Swine & Moore, el escrito afirmaba que “la República Argentina ha hecho el pago completo, en concordancia con los términos específicos del acuerdo suscripto”, en referencia al pacto firmado con los acreedores antes del 29 de febrero. “Basándose en esas condiciones, se solicita respetuosamente a la Corte que emita una orden que, al haberse cumplido con satisfacción las dos cláusulas necesarias para el levantamiento de las cautelares, éstas se levanten”. Argentina ya había hecho esta mañana el depósito de 9.352 millones de dólares para pagar a unos 220 bonistas con los que acordó, entre ellos los más grandes como NML de Paul Singer y Aurelius. En un comunicado, el mediador Pollack también aclaró cómo había sido el proceso. Dijo que el juez Griesa no habla públicamente, salvo por sus fallos, pero que le había expresado que estaba “gratificado” por la finalización del largo conflicto de 15 años. Pollack destacó que las partes hayan podido alcanzar un acuerdo “luego de años de hostilidad y amargas recriminaciones entre el anterior gobierno argetino y los holdouts” En un escrito presentado ante el juez Thomas Griesa, la Argentina confirmó que pagó esta mañana a los holdouts y le pide al magistrado que levante las medidas cautelares que había llevado a la Argentina al default. Con la firma de Michael Paskin, el abogado del estudio Cravath, Swine & Moore, el escrito afirma que “la República Argentina ha hecho el pago completo, en concordancia con los términos específicos del acuerdo suscripto”, en referencia al pacto firmado con los acreedores antes del 29 de febrero.  Grisa actuó rápido. Hace instantes se conoció la resolución, con su firma, que levantaba todos las medidas cautelares que pesaban sobre la República Argentina. Esto quiere decir que el país puede salir a emitir deuda bajo ley Nueva York sin ningún tipo de riesgo.   Mirá también: Fondos buitre: Argentina les paga hoy US$ 9.352 millones Mirá también: Oficializan la emisión de bonos para salir del default

@@ -1,0 +1,50 @@
+
+El paso de la tormenta "Gertrude" por la isla de Irlanda provocó hoy el derrumbe de parte de una icónica arboleda de hayas que se popularizó en todo el mundo por la serie de televisión "Game of Thrones". La hilera de árboles, conocida como "The Dark Hedges" (los "setos oscuros", su traducción del inglés), fue uno de los escenarios elegidos para el rodaje de la serie por la productora, la cadena de televisión estadounidense HBO, que tiene sus estudios principales en Belfast. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En las imágenes difundidas por la cadena británica BBC, se pueden observar varios árboles caídos sobre la carretera, una de las más visitadas por los miles de turistas y seguidores de esta serie de ficción medieval. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/bbcweather/status/693047227405721600",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69304722740572160")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/SkyNews/status/693085515600502784",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69308551560050278")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Las hayas de "The Dark Hedges" fueron plantadas en el siglo XVIII por la familia de los Stuarts para crear una espectacular entrada a su mansión de estilo georgiano de "Gracehill House", situada en el condado de Antrim, al norte de la provincia británica. Gracias a "Game of Thrones", éste y otros paisajes naturales en Irlanda del Norte propiciaron un repunte del turismo en la región, por lo que las autoridades tratarán de reparar tan pronto como sea posible los destrozos causados por "Gertrude". También leé: Tras las huellas de "Game of Thrones" Más de 22.000 hogares y negocios llegaron a estar hoy sin electricidad en la República de Irlanda, Irlanda del Norte y Escocia como consecuencia de los fuertes vientos provocados por el paso de esta tormenta. Fuente: EFE

@@ -1,0 +1,72 @@
+
+Cerca del mediodía de este sábado, una multitud celebró en el parque Francisco de Aguirre de Santiago del Estero la beatificación de Mamá Antula, la jesuita a la que el Vaticano este año le confirmó un milagro, por determinación del papa Francisco. Es la octava beata argentina. El hecho invocado para justificar la decisión es de 1904. Mamá Antula había muerto 105 años antes, en 1799, en la Casa de Ejércitos de Avenida Independencia, que hoy sigue en pie. Según explican en la Iglesia, se considera que intercedió para curar a la hermana Rosa Vanina, que tenía una enfermedad mortal sin tratamiento para la época. El Vaticano determinó ahora que la sanación fue inexplicable para la ciencia.  Ahora queda un solo paso para que la monja santiagueña se convierta en santa: debe comprobarse un segundo milagro de su autoría. Por estos días, en la Iglesia estudian un hecho que podría ser considerado de ese modo, lo cual abriría la puerta a su canonización. Así, pasaría a la historia como la segunda persona de nacionalidad argentina en ser santificada, luego del cura José Gabriel del Rosario Brochero, quien será proclamado santo el 16 de octubre en la plaza San Pedro.
+
+La Casa de Ejércitos Espirituales, en Independencia y Salta (CABA), donde en 1799 murió Mamá Antuna. Nació en Santiago del Estero en 1730. La nueva beata se llamaba María Antonia de Paz y Figueroa y había nacido en 1730. Desde muy joven comenzó a trabajar con los jesuitas y cuando los expulsaron se dedicó a recorrer el centro y Norte del país llevando la fe. "El resultado fue una importante inculturación de la fe. En Córdoba, sobre un total de 11 mil habitantes en la ciudad, más de tres mil personas participaron de los Ejercicios Espirituales. Ella tuvo un poder de penetración popular muy grande", afirmó el rector de la UCA, monseñor Víctor Manuel Fernández.  
+
+
+Es la glorificación de una mujer que era dinámica y el Papa Francisco vive con júbilo este momento
+
+
+
+
+
+var act_97b = new gigya.socialize.UserAction();
+
+var emailBodyCustom_97b = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_97b.setTitle('Es la glorificación de una mujer que era dinámica y el Papa Francisco vive con júbilo este momento');
+act_97b.setSubtitle('Quedó a un paso de ser santa'); 
+act_97b.setLinkBack('http://www.clarin.com/sociedad/multitud-celebro-beatificacion-Mama-Antula_0_1639636102.html');
+act_97b.setDescription('La consagraron hoy en Santiago del Estero, su provincia natal, por decisión de Francisco. Es la octava del país. ');
+act_97b.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/multitud-celebro-beatificacion-Mama-Antula_0_1639636102.html');
+
+var showShareBarUI_params_97b=
+{ 
+containerID: 'shareQuote_97b',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_97b,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_97b
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_97b);
+ El 2 de julio de 2010 el Papa Benedicto XVI la proclamó venerable y autorizó a la Congregación para las Causas de los Santos a promulgar el decreto por el que se reconoce que practicó las virtudes cristianas en grado heroico.
+
+Casi un siglo antes se había producido el milagro que este mediodía la consagró beata. Fue en 1904 y lo documentaron en 1905. La curación milagrosa fue a la hermana Rosa Vanina, una religiosa del instituto de las Hijas del Divino Salvador, cuya fundadora había sido Mamá Antula. Rosa tenía colecistitis aguda, con todos los síntomas de un shock séptico, mortal en la época.  Mirá también: Quién es Mama Antula, la próxima beata argentina Hubo un largo proceso para comprobar el milagro y reconocer su trabajo por la divulgación de la fe, hasta que finalmente este mediodía llegó la beatificación. La ceremonia estuvo a cargo del Prefecto de la Congregación para las Causas de los Santos, cardenal Angelo Amato, enviado del Vaticano, quien afirmó: "La Iglesia Católica ve muy bien esta beatificación de Mama Antula, que es la glorificación de una mujer que era dinámica y el Papa Francisco vive con júbilo este momento". El acto fue concelebrado por el cardenal primado de la Argentina, monseñor Mario Aurelio Poli, el cardenal Héctor Villalba, 36 obispos y más de un centenar de sacerdotes. Anoche, vecinos de Santiago del Estero y fieles de todo el país hicieron una vigilia para esperar la jornada. Una multitud celebró hoy la decisión. Así, Mamá Antula se consagró como la octava beata argentina y podría llegar a ser santa. 

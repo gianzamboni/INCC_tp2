@@ -1,0 +1,18 @@
+
+El futbolista colombiano Hanyer Mosquera, capitán del club Rionegro Águilas, fue enviado ayer a prisión un día después de ser detenido por la Policía por golpear a su pareja. Mosquera no jugó este domingo en la derrota que su equipo sufrió al perder por 4-0 frente al Santa Fe de Bogotá porque estaba sancionado por una falta disciplinaria. Según los dichos de Hindira Herazo, su pareja, el club lo sancionó porque se presentó ebrio a un entrenamiento. La agresión ocurrió el domingo en el conjunto residencial donde viven Mosquera y Herazo, y fue captada por una cámara de video ubicada en un ascensor. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El defensor fue arrestado de inmediato por la policía y ayer fue llevado ante un juez de control de garantías de Rionegro, un municipio contiguo a Medellín. "Fue capturado y puesto a orden de una autoridad competente. Cuando terminó la audiencia, le dieron medida de aseguramiento en centro carcelario y posiblemente lo trasladen al centro de reclusión transitorio de Rionegro", dijo el secretario de Gobierno de ese municipio del departamento de Antioquia, Hugo Parra. Mosquera, de 29 años, juega en Rionegro desde 2014, cuando fue transferido por el Once Caldas. (DPA)

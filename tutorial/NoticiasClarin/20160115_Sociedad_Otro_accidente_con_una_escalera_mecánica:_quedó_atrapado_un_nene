@@ -1,0 +1,127 @@
+
+Tres accidentes en seis meses. Todos relacionados con las escaleras mecánicas y todos en el mismo país, China. A fines de julio, en un centro comercial de Jingzhou, una mujer salvó a su hijo antes de desplomarse parte de la estructura y morir atrapada. Apenas una semana después, un empleado de un centro comercial de Shanghai perdió un pie. Ahora le tocó el lamentable turno a un nene: se cayó, quedó atrapado, y gracias a la ayuda de su madre pudo salir ileso.Sucedió en un shopping ubicado en la provincia china de Guizhou. En el video, que fue difundido por China TV, se ve a un pequeño parado a un costado de una escalera mecánica. Por la acción del movimiento, el niño se resbala y cae en un hueco que había entre el apoyabrazos y la pared.    
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160115_0011 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160115_0011_94c";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: ' Otro accidente con una escalera mecánica en China: un nene quedó atrapado',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/15/VID/CLAVID20160115_0011/video_web.flv",
+        image: "http://images.clarin.com/sociedad/accidente-escalera-mecanica-China-atrapado_CLAVID20160115_0011_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160115_0011',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/15/VID/CLAVID20160115_0011/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/accidente-escalera-mecanica-China-atrapado_3_1504679528.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160115_0011.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160115_0011){
+            //getBBTStats_CLAVID20160115_0011();
+            varModIdReprod_CLAVID20160115_0011 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+Su madre se da cuenta de lo ocurrido, entonces corre hacia él y logra sostenerlo. Sus gritos hacen que otras personas se acerquen y uno de ellos presiona el botón de emergencias para detener la escalera. La mujer forcejea y finalmente logra sacar al pequeño. Algunos testigos aseguraron que no sufrió lastimaduras severas.

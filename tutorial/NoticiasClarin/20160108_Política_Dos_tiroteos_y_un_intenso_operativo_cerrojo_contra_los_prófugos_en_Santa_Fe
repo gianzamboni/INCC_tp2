@@ -1,0 +1,17 @@
+
+La cinematográfica búsqueda de los tres prófugos del Triple Crimen de General Rodríguez tuvo ayer otra jornada bisagra. Durante la madrugada se detuvieron otras cinco personas en la zona sur de la provincia de Buenos Aires vinculadas con la fuga por pedido de los fiscales provinciales que intervienen en el investigación. Pero la secuencia clave ocurrió al sur de la provincia de Santa Fe. Cerca de las 7.30 de la mañana, un comando de la Gendarmería llegó hasta ese lugar. Horas antes, el juez federal Sergio Torres había firmado tres órdenes de allanamiento a partir de datos certeros que aportó la Agencia Federal de Investigaciones (AFI) (Ver página 6). Mientras se realizaban los operativos, los tres prófugos, Martín y Cristian Lanatta y Víctor Schillaci, intentaron fugarse a bordo de la Renault Kangoo, patente NCA960, que pertenecía a Elvira Susana Martínez, la ex suegra de Martín Lanatta. Dentro de ese vehículo fueron hallados dos teléfonos celulares que, ahora, serán peritados. Los prófugos se cruzaron con dos gendarmes. Hubo un feroz tiroteo. "Los sorprendieron porque los tres estaban vestidos de policías" confirmó anoche a Clarín una alta fuente del Ministerio de Seguridad.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

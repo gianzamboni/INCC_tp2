@@ -1,0 +1,38 @@
+
+La protesta de productores frutihortícolas de Río Negro y Neuquén en Plaza de Mayo dejó una contundente imagen, que debería llamar a la reflexión. Las imágenes aéreas, difundidas por Voz del Sur, no hace falta describirlas. Desde la 9.30, una larga cola enroscada de gente con changuitos y bolsas esperó recibir frutas gratis: 10 toneladas de peras y manzanas, que se agotaron en un poco más de una hora. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Regalaron manzanas en Plaza de Mayo como protesta y se llenó de gente En el video, también impactan los testimonios tanto de los productores como de las personas que fueron a buscar entre 3 o 4 frutas, en una cola -que si hubiese sido recta- tendría una extensión de 8 cuadras. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"No alcanzamos a cubrir los costos de producción y hoy vemos acá que muchos consumidores no pueden acceder a un kilo de manzana", dice uno de los productores que participó ayer de la protesta.
+
+Largas colas por fruta, en Plaza de Mayo. (David Fernández) Ayer, los productores repartieron folletos explicativos, donde explicaron que la diferencia entre el precio que reciben y el que pagan los consumidores: por un kilo de manzana cobran $ 3 mientras en góndola cuesta $ 28,10 (una diferencia del 851%), y para la pera los valores son $ 2,10 y $ 23,50 respectivamente (una diferencia del 1.009%).
+
+Protesta de productores, en Plaza de Mayo. (Andrés D´Elía) Mirá también: Mientras regalan manzanas, también las importan de Chile Una consumidora también opina que 100 pesos no alcancen. "Todo el mundo está viendo, no sólo la Casa de Gobierno, las cosas que están pasando", sostiene una mujer. Otra mujer también se queja del costo entre 40 y 50 pesos del kilo de manzanas, debido a "que nadie controla nada, porque si controlaran esto no estaría así y todos tendríamos derecho a comprar un kilo de manzana o de peras". Mirá también: En medio de la crisis de la fruta, creció la importación desde Chile En tanto, el ministro de Agroindustria, Ricardo Buryaile, prometió -en enero pasado-  créditos blandos y subsidios, pero los productores reclaman que esos capitales aparecieron poco y que el dinero no supera los 100 millones de pesos, mientras que la industria necesita un mínimo de 1200 millones, argumentan.  

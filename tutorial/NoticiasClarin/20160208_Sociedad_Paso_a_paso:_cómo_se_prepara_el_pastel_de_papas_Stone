@@ -1,0 +1,127 @@
+
+Mientras que en Argentina el pastel de papas divide a los comensales entre los que lo quieren con pasas de uva y aceitunas y los que no lo comen si lleva esos ingredientes, en el mundo de los Rolling Stones el shepherd's pie -como se lo conoce en su versión inglesa- no es otra cosa que un pedido excluyente para que Keith Richards salga al escenario. Y, lejos de cualquier rumor, el mítico músico reveló en su libro Life la historia del pastel de papa que exigió a los organizadores para sus shows en Argentina. Leé también: Los Stones serán "huéspedes de honor" de la ciudad de La Plata Dentro de los datos que trascendieron sobre la intimidad Stone, Clarín supo que los Rolling no vinieron con su chef personal y que se limitaron a enviar la receta del pastel de papa. A partir de ahí, la empresa de catering de la productora que acondicionó los camarines en el Estadio Único de La Plata lo ensayó varias veces y pasó  “la prueba del sabor” a cargo de los asistentes de los Stones. Si bien hay muchas recetas de la debilidad culinaria de Keith, el reconocido chef Dante Liporace, del restaurante Tarquino, nos enseña paso a paso cómo hacer el pastel de papas Stone: 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160205_0034 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160205_0034_21c";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Así se hace el pastel de papas que exigieron los Rolling Stones.',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/05/VID/CLAVID20160205_0034/video_web.flv",
+        image: "http://images.clarin.com/sociedad/pastel-papas-exigieron-Rolling-Stones_CLAVID20160205_0034_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160205_0034',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/05/VID/CLAVID20160205_0034/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/pastel-papas-exigieron-Rolling-Stones_3_1517278291.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160205_0034.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160205_0034){
+            //getBBTStats_CLAVID20160205_0034();
+            varModIdReprod_CLAVID20160205_0034 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+Tips del shepherd's pie: trozar la carne de cordero y cocinarla en vino tinto y caldo hasta que quede bien desmenuzada. Suplantar el queso parmesano por provolone (Liporace lo sirve como una espuma) y nunca jamás romper la crocantez de la capa de puré de papas antes de que ya lo haya hecho Keith Richards. Leé también: Una "Misa" Stone que terminó con el saludo del "sacerdote" Richards

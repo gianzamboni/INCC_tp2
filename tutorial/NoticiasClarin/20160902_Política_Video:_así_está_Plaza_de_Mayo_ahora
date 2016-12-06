@@ -1,0 +1,20 @@
+
+Decenas de miles de personas se congregaron en Plaza de Mayo para protestar contra el "ajuste" del Gobierno de Mauricio Macri y mostrar la preocupación por las fuentes de trabajo. El acto es la culminación de la Marcha Federal, organizada por la CTA y acompañada por agrupaciones de izquierda. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_jtq0ms2s",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_jtq0ms2s"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_jtq0ms2s").after(scriptEl);
+ Mirá también: Las CTA congregaron una multitud para protestar contra el Gobierno

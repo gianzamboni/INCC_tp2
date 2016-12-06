@@ -1,0 +1,34 @@
+
+Jorge Macri, intendente de Vicente López, salió al cruce de sus pares del peronismo a quienes calificó de "agresivos" y fue el jefe comunal de Moreno quien salió a responderle. El primo de Mauricio Macri y un hombre allegado a la gobernadora María Eugenia Vidal nombró a Verónica Magario, de La Matanza; Jorge Ferraresi, de Avellaneda; Fernando Espinoza Titular del PJ bonaerense y Walter Festa, de Moreno, "como los arietes más agresivos", quienes discuten por "el liderazgo del peronismo". Fue durante una emisión del programa "A dos miradas", por radio Splendid.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Lo que vemos que pasa es que hay algunos que hoy se muestran indignados por algunas cosas que ocurren en la provincia de Buenos Aires y vienen ocurriendo hace seis meses pero hace muchos años y que nunca habían hablado de golpe descubren que las escuelas están mal, los hospitales están más, la infraestructura no está, zonas que se inundan", señaló el jefe comunal y pariente del Presidente. Sin embargo, Macri ponderó a "los nuevos intendentes que quieren transformar", en contraposición a quienes tienen una "lógica de que si sos peronista, tenés que ser prepotente y agresivo". Leé también: Vidal, a los intendentes: "La pobreza no empezó el 10 de diciembre" Más tarde, en el mismo programa, salió el jefe comunal de Moreno a responder. "Que Macri venga a caminar Moreno, que venga a escuchar a los comerciantes y al pueblo de Moreno cómo se ve afectado por el tarifazo", señaló Festa. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Y continuó: "A mí pueblo sí afecta el ajuste, probablemente a un pueblo y vecinos como los que habitan Vicente López no, con todo respeto, tienen un colchón económico más alto que les permita sobrellevar esto". Leé también: Macri visitó el nuevo tramo electrificado del tren Roca, en Berazategui Festa desafió públicamente a Macri a recorrer su distrito. "Que Jorge Macri sea un ejemplo de intendente; quiero verlo gobernar un Moreno como está hoy", desafió. Y concluyó: "Ser agresivo como ellos califican porque uno desdribe la realidad, está totalmente equivocado". El jefe comunal y dirigente de La Cámpora finalmente habló del rol de la ex presidenta para el próximo año alectoral. “Cristina es una líder indiscutible, pero también es indispensable que haya una lista de unidad en el peronismo, porque tenemos un adversario en común y necesitamos organizarnos y juntarnos para vencerlo”, finalizó.

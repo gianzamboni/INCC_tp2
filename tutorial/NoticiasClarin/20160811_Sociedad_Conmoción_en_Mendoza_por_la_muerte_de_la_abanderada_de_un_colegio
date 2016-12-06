@@ -1,0 +1,24 @@
+
+Una adolescente que era abanderada de una escuela de Mendoza e insulino dependiente fue hallada muerta en su casa por directivos del centro educativo, quienes fueron al domicilio porque había faltado siete días seguidos, tras lo cual la justicia abrió una investigación. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Video que grabó Diana Pieraccioli para un casting en tevé. El caso generó conmoción en el barrio Ujemvi del departamento Las Heras y en la escuela Florencio Molina Campos, cuyas autoridades se movilizaron de inmediato ante las inasistencias y la falta de comunicación con los tutores de la estudiante, de 17 años. Mirá también: Repitió tercer año, casi abandona y ahora llegó a ser el mejor promedio Fuentes de la investigación señalaron hoy que se dispuso una autopsia para determinar las causas del deceso de la estudiante Diana Pieraccioli, quien vivía en una casa junto a su abuela, una mujer mayor de 70 años que al parecer sufre demencia senil.
+
+Pieraccioli fue por última vez a clase el 27 de julio y como desde entonces en la escuela nadie supo de ella, los directivos comenzaron a llamar por teléfono a la casa, pero nadie atendió los llamados. Ante ese cuadro, la regente y una preceptora de la escuela llegaron el viernes hasta la casa y tras hallarla muerta de inmediato dieron aviso a la policía y a la justicia. El director de la escuela, Marcelo Merenda, dijo a radio Nihuil que "luego de unos días que había faltado, nosotros hicimos todas las acciones que corresponde desde lo administrativo y fundamentalmente desde lo humano".
+
+"Un directivo del establecimiento, acompañado de una preceptora, la fueron a buscar a su casa, lograron entrar, porque al principio no nos podíamos comunicar con las personas que tenían la guarda de la nena, y la nena estaba muerta", añadió. Asimismo, señaló que "llevaba siete días sin concurrir" al colegio. Merenda explicó que la "DGE (Dirección General de Escuelas) tiene una serie de resoluciones y normativas que nosotros tenemos la obligación de seguir. De acuerdo a eso, cuando el alumno falta tres veces continuadas hay que comenzar a llamar a la casa para saber qué es lo que ha pasado". Mirá también: Con acatamiento dispar, se cumple el paro docente en la Provincia En ese marco, dijo que comenzaron a "hacer llamados telefónicos pero no nos atendían, hasta que finalmente luego de siete llamados telefónicos logramos contactarnos con la señora que tenía la tutela de la niña, vamos al domicilio y se constata que la niña ha fallecido. Vivía con la abuela y la bisabuela".
+
+Si bien el directivo indicó que "no había presentado signos de enfermedad, era una niña impecable, súper afable, muy inteligente", sostuvo que cuando se inscribió en 2011 "la persona que tenía la guarda nos comenta que la nena era insulino-dependiente". "Todos estamos destruidos, devastados, es muy triste", expresó el directivo. Fuente: DyN

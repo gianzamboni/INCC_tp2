@@ -1,0 +1,140 @@
+
+Se tomó unos segundos más de lo habitual, dudó, pero al final cedió. Analía abrió el paquete y convidó el cigarrillo que, como tantas otras veces, un desconocido acababa de pedirle. “Es como si me hubieran pedido más plata de la que puedo prestar”, dice, y matiza: “Pero entre adictos nos entendemos”. Mirá también: Mirá la nueva lista de precios de los cigarrillos de Massalin Entre el martes y ayer se oficializó el aumento de precio de los cigarrillos, que en algunas marcas alcanzó el 60 por ciento y que promedió el 55. Como es habitual, primero fue el turno de los producidos por la tabacalera Massalin Particulares: un atado de Marlboro de veinte pasó de 28 a 45 pesos y uno de Philip Morris saltó de 26 a 42. Ayer fue el turno de las marcas producidas por Nobleza Piccardo: los paquetes de veinte de Camel, Lucky Strike y Parisiennes saltaron de 28 a 43 pesos. Ambas tabacaleras justificaron los aumentos en el incremento de la alícuota de los impuestos internos a la producción de cigarrillos que, según el boletín oficial del lunes, pasó del 60 al 75 por ciento.
+
+Desde que empezó a rumorearse el alza de los precios hasta que se publicaron las listas oficiales, cada kiosco fue un mundo. Algunos sacaron los cigarrillos de la venta, otros empezaron a aplicar aumentos discrecionales –el martes, por ejemplo, vendían las marcas de Nobleza Piccardo siguiendo los aumentos que Massalin Particulares ya había hecho públicos– y unos pocos se atuvieron a los precios oficiales que seguían vigentes. Fue el caso de Sergio, dueño de un local en Avenida de Mayo: “Mucha gente cambió de marca de puchos por un día, compraron los de Nobleza en lugar de los de Massalin, y se ahorró hasta 15 pesos”, contó. Para Héctor, los aumentos repercutieron en las ventas: “Estos días la gente primero tiene bronca y recién después se resigna, yo vendí un 20 por ciento de lo que vendo todos los días”, dijo. Pero Rubén y Leandro, que atienden kioscos cercanos al Café Tortoni, coincidieron con Sergio al señalar que, más allá de algunas quejas por los aumentos, los fumadores compraron con la frecuencia de siempre. “Guardé los cartones hasta que se publicaron los nuevos precios porque si no me iba a salir carísimo reponer la mercadería”, se justificaba uno de los kiosqueros. Mirá también: Afirman que se evitarán por año 2.500 muertes y 4.200 infartos “Me aumentó la prepaga, me aumentó la luz y el gas para la calefacción, aumenta la comida, y ahora me aumentan los puchos”, se indignó Noelia, una empleada pública de 37 años que fuma unos siete cigarrillos por día. Compra Benson & Hedges: cada paquete le cuesta ahora cincuenta pesos. Mirá también: Suben un 60% los cigarrillos y es el mayor aumento de los últimos 15 años También habló de los aumentos generalizados Juan Carlos, un técnico electromecánico de Claypole: “En los últimos meses, no sé qué es lo que no aumentó, y creo que las grandes empresas se aprovechan”. Después de convidar uno de sus preciados Marlboro, Analía pensó en la salud y en el humor: “Tal vez es buen momento para dejar. Y en plena abstinencia generalizada, todos hacemos la revolución para que bajen los precios”.
+
+ 
+
+
+"Aumentó la luz, el gas, la nafta, y ahora los puchos. Tal vez sea momento para dejar”. (Analía, abogada, 49 años)
+
+
+
+
+
+var act_953 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_953 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_953.setTitle('"Aumentó la luz, el gas, la nafta, y ahora los puchos. Tal vez sea momento para dejar”. (Analía, abogada, 49 años)');
+act_953.setSubtitle('Tras los aumentos de hasta 60%'); 
+act_953.setLinkBack('http://www.clarin.com/sociedad/fumadores-quejan-subas-siguen-comprando_0_1570643110.html');
+act_953.setDescription('Muchos expresan su bronca, pero se resignan. Otros eligen marcas m&aacute;s baratas. Y algunos ahora se resisten a convidar.&nbsp;');
+act_953.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/fumadores-quejan-subas-siguen-comprando_0_1570643110.html');
+
+var showShareBarUI_params_953=
+{ 
+containerID: 'shareQuote_953',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_953,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_953
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_953);
+
+
+
+
+
+"Termino comprando a pesar del precio. Si te cuesta abandonar, vas a seguir fumando.” (Darío, empleado, 25 años)
+
+
+
+
+
+var act_841 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_841 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_841.setTitle('"Termino comprando a pesar del precio. Si te cuesta abandonar, vas a seguir fumando.” (Darío, empleado, 25 años)');
+act_841.setSubtitle('Tras los aumentos de hasta 60%'); 
+act_841.setLinkBack('http://www.clarin.com/sociedad/fumadores-quejan-subas-siguen-comprando_0_1570643110.html');
+act_841.setDescription('Muchos expresan su bronca, pero se resignan. Otros eligen marcas m&aacute;s baratas. Y algunos ahora se resisten a convidar.&nbsp;');
+act_841.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/fumadores-quejan-subas-siguen-comprando_0_1570643110.html');
+
+var showShareBarUI_params_841=
+{ 
+containerID: 'shareQuote_841',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_841,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_841
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_841);
+

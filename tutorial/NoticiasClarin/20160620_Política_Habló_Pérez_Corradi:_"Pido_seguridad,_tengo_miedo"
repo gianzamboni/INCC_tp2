@@ -1,0 +1,73 @@
+
+"Pido seguridad, tengo miedo", dijo hoy Ibar Pérez Corradi luego de presentarse en la fiscalía de Paraguay donde debía declarar por usurpación de identidad. Mirá también: Pérez Corradi admitió su identidad ante la Justicia y se acelera la extradición Y pidió seguridad para él y su familia pero sin decir a quién le tenía temor: "No voy a decir a quién", aseguró.  Y agregó: "Me están diciendo que me van a dar seguridad". Mirá también: El fiscal que investigó el triple crimen cree que Pérez Corradi tenía protección La fiscal paraguaya confirmó que Pérez Corradi usaba 4 identidades distintas y confirmó que se borró las huellas https://t.co/azjIc66ZoI— TN - Todo Noticias (@todonoticias) 20 de junio de 2016
+ El acusado de ser el autor intelectual del triple crimen, detenido ayer en Foz de Iguazú, dijo: "Voy a esclarecer mi imputación".  Tras negarse a declarar ante la Justicia de Paraguay, por uso de documento falso, el detenido mantuvo un breve diálogo con la prensa en el que advirtió: "Voy a esclarecer mi imputación, voy a presentar pruebas".
+
+Mirá también: Aníbal Fernández le contestó a Bullrich y se despegó de Pérez Corradi 
+
+
+Consultado por qué razón se quemó las huellas digitales, Corradi respondió: "Es un tema privado".
+
+
+
+
+
+var act_bef = new gigya.socialize.UserAction();
+
+var emailBodyCustom_bef = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_bef.setTitle('Consultado por qué razón se quemó las huellas digitales, Corradi respondió: "Es un tema privado".');
+act_bef.setSubtitle('Triple crimen'); 
+act_bef.setLinkBack('http://www.clarin.com/politica/Hablo-Perez-Corradi-miedo-decir_0_1598840180.html');
+act_bef.setDescription('El detenido en Paraguay dijo que va&nbsp;a presentar pruebas porque &quot;quiero demostrar mi inocencia&quot;.');
+act_bef.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Hablo-Perez-Corradi-miedo-decir_0_1598840180.html');
+
+var showShareBarUI_params_bef=
+{ 
+containerID: 'shareQuote_bef',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_bef,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_bef
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_bef);
+ Pérez Corradi, acusado como el autor intelectual del triple crimen de General Rodríguez, fue detenido ayer tras una operación de inteligencia conjunta en la ciudad brasileña de Foz de Iguazú, luego de permanecer cuatro años prófugo.
+
+Mirá también: Macri llamó a "trabajar juntos para derrotar el narcotráfico" Hoy, la jueza argentina Servini de Cubría pidió la extradición de Pérez Corradi, a quien investiga por el triple crimen pero también por la causa de la efedrina. "Nosotros preferimos que vaya a la Argentina a dar explicaciones. El mismo me lo dijo por teléfono, y yo lo tengo grabado, que quiere presentarse a dar explicaciones. El pidió siempre respetar los derechos constitucionales y que se le valoraran las pruebas", explicó Carlos Broitman, abogado de Pérez Corradi.  Además, el letrado agregó que su cliente se mantuvo prófugo porque consideraba "que no estaban dadas las condiciones y las garantías constitucionales para presentarse". Mirá también: La Justicia argentina ya pidió la extradición de Pérez Corradi

@@ -1,0 +1,22 @@
+
+Tres planetas potencialmente habitables que orbitan alrededor de una estrella enana ultrafría, a tan sólo 40 años luz de la Tierra, fueron descubiertos por un un equipo internacional de astrónomos desde el Observatorio La Silla, 470 kilómetros al norte de Santiago de Chile. El hallazgo se hizo con el telescopio Trappist, aparato robótico belga de 0,6 metros operado desde la Universidad de Lieja y basado en el Observatorio La Silla, donde dedican gran parte de su tiempo al seguimiento de la luz de unas 60 estrellas enanas ultrafrías. Estas estrellas tienen tamaños y temperaturas similares a las de Venus y la Tierra, y son los mejores objetivos encontrados hasta ahora para la búsqueda de vida fuera del Sistema Solar. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El equipo de astrónomos observó que esta estrella se desvanecía ligeramente por intervalos de tiempo, lo que indicó que varios objetos pasaban entre ella y la Tierra. Un análisis detallado confirmó luego la presencia de tres planetas con tamaños similares al de la Tierra.
+
+La estrella enana ultrafría TRAPPIST-1 en la constelación de Acuario. Mirá también: Estudiarán 20.000 estrellas en busca de vida extraterrestre "Realmente se trata de un cambio de paradigma con respecto a qué camino seguir en nuestra búsqueda de planetas y de vida en el universo. Hasta ahora, la existencia de estos mundos rojos orbitando alrededor de estrellas enanas ultra frías era puramente teórica, pero ahora tenemos, no un solitario planeta alrededor de una estrella roja débil, ¡sino un sistema completo de tres planetas!", expresó Emmanuël Jehin, coautor del nuevo estudio.
+
+Ilustración de la estrella enana ultrafría TRAPPIST-1 desde la superficie de uno de sus planetas Michaël Gillon, autor principal del artículo que presenta hoy el descubrimiento en la revista Nature, explicó: "Por qué estamos tratando de detectar planetas como la Tierra alrededor de estrellas más pequeñas y más frías en las vecindades del Sistema Solar? La razón es simple: con la tecnología actual, los sistemas alrededor de estas pequeñas estrellas son los únicos lugares donde podemos detectar vida en un exoplaneta del tamaño de la Tierra. Así que, si queremos encontrar vida en otros lugares del universo, ahí es donde debemos comenzar a buscar". Mirá también: Europa se lanza a buscar vida en Marte "Gracias a varios telescopios gigantes actualmente en construcción, pronto seremos capaces de estudiar la composición de la atmósfera de estos planetas y explorarlas, primero en busca de agua y, luego, en busca de trazas de actividad biológica. Es un paso de gigante en la búsqueda de vida en el universo", complementó Julien de Wit, coautor del MIT (Instituto de Tecnología de Massachusetts) en Estados Unidos. Para el mundo de la astronomía, este estudio abre una nueva vía para la caza de exoplanetas y también pone de manifiesto que la búsqueda ha entrado en el reino de los "primos" potencialmente habitables de la Tierra. Fuente: ANSA

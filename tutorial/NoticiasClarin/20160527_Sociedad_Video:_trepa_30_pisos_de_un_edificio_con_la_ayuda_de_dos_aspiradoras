@@ -1,0 +1,19 @@
+
+Una de las compañías de electrodomésticos más grandes del mundo tuvo una peligrosa idea para publicitar la potencia de un nuevo modelo de aspiradora. Contrató a una escaladora consagrada campeona mundial, le cargó dos aspiradoras en la espalda --adaptadas para el ascenso en un único dispositivo a modo de mochila-- y le dio ánimo para que ascienda 140 metros, 30 pisos, sobre los vidrios de un edificio. La idea era demostrar el poder de succión de ese diseño. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Sierra Blair-Coyle es la escaladora extrema que se animó a ser la cara y el cuerpo de esta publicidad grabada y producida en Corea del Sur. La empresa explicó que la joven debía apagar la máquina, que funciona con baterías, para que una de las copas dejara de succionar y así fuera posible despegarlas del vidrio para, luego, apoyar la otra copa y continuar ascendiendo. La mujer escaló como si fuese una spiderwoman. Mirá también: Mirá las proezas de un deportista extremo en silla de ruedas Las imágenes sorprenden por lo temerario de este aviso. Sin embargo, muchos de los comentarios del video, que la compañía subió a YouTube, hacen mención a que Blair-Coyle no confiaba completamente en la aspiradora, ya que se desplazaba con un tensor ajustado a su cintura."Con una cuerda de seguridad yo también me animo a hacerlo. ¿No es muy buena la aspiradora, verdad Sierra?", es uno de los comentarios con más likes debajo de este video. Otros usuarios trazaron una similitud con la escena de Misión Imposible, donde Tom Cruise usa succionadores para trepar el edificio más alto del mundo, en Abu Dabi. Si bien el prototipo que usó la escaladora no es el msmo que los consumidores pueden tener en sus casa, los 200 vatios de potencia y motor inverter de 45,000 rpm sí es el mismo.  La mujer logró el objetivo en media hora y festejó su ascenso con un posteo en Instagram. "Entre las copas mundiales de Japón y China, fui a Corea del Sur y grabé un comercial con mucha onda", escribió Blair-Coyle junto a su foto en las alturas.     Between the Japan & China World Cups I went to Korea and shot a really cool commercial with LG! Check out the link in my profile :) Una foto publicada por Sierra Blair-Coyle (@sierrablaircoyl) el 24 de May de 2016 a la(s) 9:32 PDT
+

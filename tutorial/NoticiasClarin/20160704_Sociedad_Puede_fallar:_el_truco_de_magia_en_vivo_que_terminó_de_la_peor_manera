@@ -1,0 +1,18 @@
+
+Ocurrió en la televisión polaca cuando un mago fue invitado a participar de un programa. En un momento dado, el ilusionista utilizó a la presentadora como parte del truco, pero nada hacía suponer lo que le pasaría. El truco de magia consistía en aplastar con la mano unas bolsas de papel. Sin embargo, en una de ellas el ilusionista había ocultado un clavo en su interior que por error clavó en la mano de la periodista. Tras el accidente la mujer tuvo que ir de urgencia al hospital, sin embargo algunos medios de comunicación de Polonia pusieron en duda el doloroso incidente que sucedió en directo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+También leé: "Intentó hacer un truco de magia con fuego y murió quemado"  Lo ocurrido en la televisión TVP2 de Polonia sorprendió a toda la audiencia, y más que nadie a Marzena Rogalska, presentadora del programa que le dio la bienvenida a un mago que tenía un particular truco de magia. Bolsas inofensivas de papel a las que tenía que golpear con la palma de la mano. En un momento dado, el ilusionista no se percata de que algo está yendo mal. Solo los gritos de la periodista expresaban que había habido un error en la realización del truco. En el interior de una de las bolsas, un clavo oculto había perforado la mano de la presentadora polaca que no paraba de gritar de dolor. Como se puede ver, el mago intenta ayudarla para aliviar el dolor y para ello le saca el clavo y tapa la herida. También leé: "Un juicio reveló el secreto de uno de los trucos más famosos de David Copperfield"  Según cuenta el Daily Mail, la presentadora tuvo que acudir al hospital para ser atendida por la herida, además de recibir la vacuna antitetánica. Una vez en casa, Rogalska subió un mensaje tranquilizador en Facebook informando sobre su estado de salud y sobre la falta de gravedad tras la herida. No obstante, tras el accidente algunos medios de comunicación polacos aseguraron que todo estaba preparado y que el incidente está preparado.

@@ -1,0 +1,18 @@
+
+La imagen de Marte como un desierto helado e inerte comenzó a cambiar cuando las sondas exploradoras descubrieron que en sus inicios el planeta había sido templado y húmedo. Y en diciembre pasado, la NASA anunció que había encontrado pruebas de que el agua líquida seguía fluyendo actualmente en Marte. Mirá también: Marte cambió de aspecto en su infancia por un gigantesco volcán "Han sido necesarias múltiples misiones durante varios años para resolver este misterio y ahora sabemos que hay agua líquida en la superficie de este frío y desértico planeta", dijo entonces Michael Meyer, jefe científico del programa de exploración marciana de la NASA. "Parece que cuanto más estudiamos Marte, más aprendemos de cómo la vida podría sustentarse aquí y dónde hay recursos para sustentarla en el futuro", aseguró. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: La misión espacial que lidera un argentino ya está camino a Marte Ahora, la NASA ha lanzado un video en el que se pueden ver las imágenes del planeta Marte tomadas  por la sonda Mars Reconnaissance Orbiter (MRO), que orbitó durante 10 años alrededor del planeta rojo dando más de 45.000 vueltas a su alrededor y fotografiándolo con impresionante detalle. Mirá también: Europa se lanza a buscar vida en Marte Sus instrumentos de observación por radar y espectrografía, y su cámara de alta resolución HiRISE han enviado más información que todas las demás misiones de exploración interplanetaria en conjunto. Barrancos, montañas e incluso dunas en movimiento y cráteres recientes han descubierto un mundo más activo de lo previsto. Mirá también: Un video de la NASA permite "sobrevolar" el planeta Ceres a todo color En el video se pueden ver los principales logros de la MRO, que a cinco años del fin previsto inicialmente para su misión sigue enviando imágenes de Marte que serán una herramienta fundamental para seleccionar el lugar en el que aterrizará la primera misión tripulada a aquel planeta.

@@ -1,0 +1,18 @@
+
+Según Andrei Vazhnov la próxima ola de innovación en tecnologías de información no vendrá exclusivamente de Sillicon Valley. Para el director del Instituto Baikal, las industrias tradicionales jugarán un papel fundamental en la innovación del futuro porque “estamos en el punto donde las tecnologías de la información, que antes estaban encerradas en las cajas que llamamos computadoras o teléfonos celulares, empiezan a desparramarse por todos lados”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+- ¿Hay algún sector donde la innovación se esté dando ya desde el sector y no sólo desde las startups de Internet?- le preguntó iEco en el Coloquio de IDEA. - Te puedo dar dos ejemplos. Yo te puedo poner un sensor de humedad del suelo. Para convertir eso en algo útil hay que saber de agronomía. Otro ejemplo. En el sector seguros. Si hay una pieza que se llama acelerómetro que puede detectar el movimiento relativo de un objeto como un auto. Pero para convertir estas mediciones en algo que automáticamente pueda determinar quién es un buen conductor y quién no, y definir una prima de seguro en función de eso, hay que saber mucho de la matemática de seguros. - Argentina jugó un papel importante en la primera ola de innovación de las empresas de Internet, ¿hay chances de que se repita en esta segunda ola de innovación? - Sí, absolutamente. La próxima etapa de las tecnologías de la información va a atacar a todos los ámbitos. Si un país tiene una ventaja relativa en algo, como por ejemplo Argentina en agricultura, puede tener una ventaja a nivel global para aplicar las nuevas tecnologías de la información en este ámbito. Por ejemplo hay una empresa en Argentina que se llama Less Industries que trabaja con Acrea en crear la solución de riego. Acrea en Argentina es un motor de innovación abierto desde los años cincuenta. No hay ninguna razón por la que los emprendedores de Argentina no puedan juntarse con los expertos del movimiento Acrea para crear una solución de optimización de riego.

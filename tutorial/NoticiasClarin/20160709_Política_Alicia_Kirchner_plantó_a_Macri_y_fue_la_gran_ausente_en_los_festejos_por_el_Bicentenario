@@ -1,0 +1,24 @@
+
+Los gobernadores Alicia Kirchner, Alberto Rodríguez Saá y Mario Das Neves, de Santa Cruz, San Luis y Chubut, respectivamente, fueron hoy los únicos mandatarios provinciales ausentes en los actos oficiales por el Bicentenario de la Independencia encabezados por el presidente Mauricio Macri en Tucumán. Por las provincias patagónicas asistieron sus vicegobernadores, mientras que los puntanos fueron los únicos que no tuvieron representación oficial.  Mirá también: Ningún mandatario extranjero viene a los festejos y Macri debe conformarse con el ex rey Juan Carlos Por el gobierno santacruceño, en representación de Kirchner asistió el vicegobernador Pablo González, que suele ser el encargado de mantener un diálogo institucional con la Casa Rosada. En el caso de Das Neves, ausente por motivos de salud, hizo lo propio el vicegobernador Mariano Arcioni.
+
+Kirchner, Das Neves  y Rodríguez Saá fueron los mandatarios que no estuvieron presentes en el saludo protocolar que Macri encabezó en el Salón Blanco de la Casa de Gobierno de Tucumán junto a la vicepresidenta Gabriela Michetti y el gobernador local, Juan Manzur. “Con responsabilidad, con compromiso, y sobre todo con convicciones vamos a ir avanzando” aseguró Alicia Kirchner en su celebración y destacó: “Quiero una Santa Cruz que despierte al diálogo, que entienda que se construye desde el diálogo, aun con las diferencias, aun con la diversidad". 
+
+Y señaló que el disenso "es bueno porque siempre ayuda a superar, pero nunca para colocar piedras y vallas que atenten contra el crecimiento del pueblo santacruceño”. Mirá también: Alicia Kirchner y José López, juntos en el convento de General Rodríguez El acto en Santa Cruz dejó una postal insólita que circuló en las redes sociales. En los festejos oficiales en la localidad de Comandante Piedrabuena, uno de los pasacalles que colgaron tenía un error en la fecha patria, decía: "Bicentenario de la independencia 1810-2016".   
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/panchorgl/status/751845963141091329",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75184596314109132")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ San Luis fue la única provincia que no suscribió al acta del Bicentenario que dio inicio a las celebraciones patrias en Tucumán. Si bien trascendió que no estaba de acuerdo en firmarla, oficialmente no se dio a conocer la negativa a aceptar la invitación a Tucumán, que le hicera llegar el Gobierno Nacional. Rodríguez Saá presidió en la ciudad de Villa Mercedes su propio acto de celebración en el que hubo un desfile cívico-militar. Su vicegobernador, Carlos Ybrahim Ponce, lo acompañó en los actos puntanos , al igual que el intendente de la ciudad de Villa Mercedes, Mario Raúl Merlo.
+
+Según informó la agencia DyN,  el gobernador puntano encabezó el desfile, cantó el himno y solo dejo el lugar, tras las dos horas de duración del acto, y cuando comenzaban los shows de danza y folklore y comenzaba a servirse el locro, . Los jefes parlamentarios del Frente para la Victoria tampoco habían querido participar de la sesión especial del Congreso que se llevó a cabo en Tucumán. 

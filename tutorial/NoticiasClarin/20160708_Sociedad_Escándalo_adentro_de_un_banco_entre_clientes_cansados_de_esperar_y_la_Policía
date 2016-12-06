@@ -1,0 +1,20 @@
+
+ Tensión, gritos, peleas, reclamos y dos detenidos. Todo eso se vivió adentro de la sucursal que el Banco Provincia tiene en Luján, en medio de un escándalo entre clientes cansados de esperar que los atendieran y la Policía. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ El día de furia fue el jueves, antes del fin de semana largo. Cuando se acercaba las 15, hora del cierre de la entidad, crecieron las protestas porque sólo había dos cajas funcionando y una gran cantidad de clientes. En algunos casos, según denunciaron, hacía cerca de tres horas que esperaban.  La situación se descontroló luego de que un hombre se puso a usar su celular. Un agente le advirtió que estaba prohibido hacer eso, pero en vez de guardarlo “agarró el teléfono y empezó a filmar y preguntarle a gente si estaba conforme con la atención del banco”, detalló un testigo en declaraciones al portal Luján en Línea. Mirá también: Revuelo en Barracas por un velorio en una casa de pastas  Ante esa actitud, un policía directamente le quiso sacar el aparato y otros clientes intervinieron para defenderlo. La custodia habitual de la entidad pidió refuerzos, llegaron más efectivos y ya con las puertas del banco cerradas, intentaron detener al hombre en medio de manotazos y empujones. Todo quedó registrado en filmaciones hechas con celulares, que reprodujeron los sitios de noticias locales.
+
+ Finalmente la policía se llevó al hombre y a otro cliente que se había puesto de su lado. Además, los bomberos tuvieron que asistir a una mujer que sufrió un ataque de nervios.  Los dos detenidos, identificados como Luciano Cachilobo y Gonzalo Martínez, fueron trasladados a la comisaría 1ª de Luján y recuperaron la libertad durante la noche del mismo jueves. Sin embargo, quedaron imputados por “resistencia a la autoridad”. Fuentes policiales sostuvieron que “se actuó en cumplimiento de las disposiciones que rigen en los bancos, la gente sabe que no puede utilizar el celular”.  Cachilobo explicó en diálogo con El Civismo: “El problema empezó cuando hacía tres horas que estaba esperando. A las 15 cerraron las puertas, con lo cual la única vía para comunicarme con mi familia era por celular. Como le informé al policía que estaba ahí, mi mujer sufría por cólicos en la vesícula biliar y una beba de 25 días con problemas intestinales”. Mirá también: Atacan con granadas una comisaría en Venezuela: hay un muerto y 25 heridos  Sostuvo además que solicitó la presencia del gerente “para que nos explique por qué para más de 150 personas había una sola caja abierta, pero nunca se hizo presente, lo que sí vino fue la Policía”. Y denunció maltratos: “Como es habitual, me insultaron, te aprietan las esposas hasta que que no te pasa la sangre, te pegan, te indimidan. Entraron con una Itaca al banco”. Desde la Bonaerense aseguraron que “no se hizo uso de la violencia, pero sí se tuvo que reducir a varias personas”. 

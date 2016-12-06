@@ -1,0 +1,68 @@
+
+
+
+
+ “Si ganaban la guerra me tenía que bajar los pantalones delante de ustedes”.
+
+
+
+
+
+var act_28a = new gigya.socialize.UserAction();
+
+var emailBodyCustom_28a = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_28a.setTitle('&nbsp;&ldquo;Si ganaban la guerra me ten&iacute;a que bajar los pantalones delante de ustedes&rdquo;.');
+act_28a.setSubtitle('CHUBUT'); 
+act_28a.setLinkBack('http://www.clarin.com/politica/funcionario-combatientes-ganaban-pantalones-delante_0_1548445380.html');
+act_28a.setDescription('El bochorno&nbsp;lo protagoniz&oacute;&nbsp;el secretario de Gobierno de Esquel&nbsp;cuando le fueron a pedir colaboraci&oacute;n para el acto del 2 de abril. El intendente lo ech&oacute;.');
+act_28a.addActionLink('VER MÁS', 'http://www.clarin.com/politica/funcionario-combatientes-ganaban-pantalones-delante_0_1548445380.html');
+
+var showShareBarUI_params_28a=
+{ 
+containerID: 'shareQuote_28a',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_28a,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_28a
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_28a);
+ Esa fue la desafortunada frase del secretario de gobierno de la municipalidad de Esquel, Oscar Mahuanna, al presidente del Centro de ex Combatientes de esa ciudad de la cordillera de Chubut, Gustavo Lefipán, cuando le fue a pedir colaboración para organizar el acto del sábado 2 de Abril. Hoy, el funcionario se quedó sin trabajo: lo echaron. La frase fue confirmada por el mismo Lefipán en diálogo con Clarín. “Como todos los años le pedimos colaboración al municipio. Nos derivaron a este señor que a su vez nos derivó a subsecretaria de modernización Karina Choi. Y así nos fueron paseando sin darnos respuestas”. a actitud del ahora ex funcionario no sólo provocó que el intendente Ubaldo Ongarato lo eche de su cargo. También que fuera a pedir disculpas al centro. Y en ese encuentro, Ongarato les  ratificó que conocía “la frase de su funcionario”. Mirá también: Las 20 frases más explosivas de Carrió Y que por eso, por la falta de colaboración y por la reacción de repudio que había causado en  la comunidad había  decidido echarlo”.Lefipán no  solo lamentó la reacción de Mahuanna sino que ratificó que “el acto del 2 de Abril lo vamos  a organizar nosotros. Como siempre colocaremos una ofrenda floral en el monumento a los caídos y organizaremos distintas actividades”.El centro le había pedido al municipio la realización del operativo de tránsito, la gestión ante la Banda de Música de la policía, que se haga cargo de las invitaciones y la posibilidad de conseguir un equipo de sonido. Como toda respuesta recibieron la frase del funcionario. Mirá también: Lilito K y pavita para pocos “No creemos que haya sido tanto porque todos los años pedimos cosas similares y no tenemos problemas. Queríamos además que Obras Públicas nos haga carteles identificatorios de las plazas que llevan el nombre de soldados caidos y lugares de las Islas Malvinas.  Nosotros aportamos un cartel con la distancia que existe desde Esquel hasta las islas. Pero tampoco tuvimos suerte”, finalizó Lefipán.

@@ -1,0 +1,40 @@
+
+Dicen que el perro es el mejor amigo del hombre. Y ahora, un grupo de investigadores estadounidenses trabaja en un proyecto para que esa amistad se afiance aún más. Crearon un chaleco que, mediante sensores, les permite a los animales comunicarse con las personas. Algo así como la posibilidad de “hablar”.  Mirá también: ¿Por qué "Buscando a Dory" puede ser un peligro para la naturaleza?  Los chalecos están equipados con sensores que se activan con la mordedura del perro, y otros cuando el perro acerca el morro a un sensor de proximidad. Una vez que se activan, envían señales sonoras que se traducen en lenguaje humano, notificaciones de texto a un smartphone o incluso permiten enviar un mapa satelital. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El proyecto se llama FIDO (por las siglas en inglés de "facilitar las interacciones a perros con ocupaciones") y lo está liderando en la universidad Georgia Tech la investigadora Melody Jackson. El objetivo de Jackson es que mejorar la tarea de asistencia de los perros guía, y también de aquellos que se dedican a ayudar en tareas militares o de rescates. Perros con ocupaciones.
+
+Melody Jackson y sus perros. (Rob Felt/Georgia Tech University)  “En la actualidad, los perros sólo pueden comunicarse con la gente mediante sus ladridos o con el lenguaje corporal. A veces eso no es suficiente“, dice Jackson y agrega: “Los sensores pueden darles una ‘voz’ que nunca tuvieron”.
+
+Los perros activan los sensores para comunicarse (Rob Felt/Georgia Tech University) En una de sus conferencias, Jackson destaca el ejemplo real de una persona con epilepsia que tiene un perro con este chaleco y es capaz de detectar cuando va a tener una convulsión. En ese momento, el perro está entrenado para apoyarla hasta una pared y evitar que se caiga, o mediante la tecnología del chaleco llamar a emergencias y darles su ubicación por GPS. Otra utilidad importante que puede tener esta tecnología es la detección de explosivos: el perro podría avisar al personal de seguridad sobre la peligrosidad de su hallazgo, y éste actuar en consecuencia. Mirá también: Murió Denzel, el perro que detectaba drogas: será despedido con todos los honores
+
+Los animales reciben un entrenamiento para usar el chaleco (Rob Felt/Georgia Tech University)  El invento hace recordar a Dug, el perro de la película "Up" de Disney-Pixar, que usaba un curioso collar que le permitía comunicarse con las personas, al transformar sus ladridos en palabras. Con este chaleco, la realidad parece no estar tan lejos de esa película animada. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+También leé: "La ciencia descubrió cómo sienten los perros y los gatos"  El proyecto está aún en fase de pruebas. Jackson trabaja en demostraciones de búsqueda y rescate en laboratorio. En la actualidad, los perros que buscan una persona desaparecida pueden hacerlo solos, olfateando un olor. Una vez que lo encuentran, deben abandonar a esa persona y regresar con su entrenador, para, a continuación, dirigir a todo el grupo de búsqueda hacia el lugar donde se encontraba. Pero ahora la mujer asegura que eso puede cambiar.

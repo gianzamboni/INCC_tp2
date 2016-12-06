@@ -1,0 +1,18 @@
+
+Tiempo Argentino, el diario que dejó de editarse, volvió a salir a la calle este domingo y que resultó casi imposible conseguir en los puestos de diarios, debido a la gran demanda que tuvo. Luego del conflicto con los empresarios Sergio Szpolski, ex candidato a intendente del Frente para la Victoria, y Matías Garfunkel, quienes dejaron de pagar los sueldos en diciembre del año pasado, los trabajadores decidieron armar una cooperativa y relanzar el diario. Y con una edición de 30.000 ejemplares distribuidos por Capital, Gran Buenos Aires y La Plata, el diario volvió a los puestos de diario, a un costo de $ 30. "El desempleo que oculta Macri: ya hubo 1000 despidos por día", es el título principal de Tiempo, que se trata de un informe especial con la situación laboral a partir del 10 de diciembre de 2015. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/tiempoarg/status/724085936632565760",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72408593663256576")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Leé también: Tiempo Argentino vuelve a salir a la calle por un día Además de las tradicionales secciones  que conformaban del diario, se pueden encontrar entrevistas a Eugenio Zaffaroni, Lino Barañao, Axel Kicillof y Ricardo Alfonsín; como así también las columnas de opinión de Víctor Hugo Morales, Héctor Recalde, Néstor Pitrola, entre otros. El diario se convirtió formalmente en una cooperativa el martes pasado, cuando se concretó el trámite ante el Instituto Nacional de Economía Social. Por el momento, la edición impresa semanal, a diferencia del soporte web que tendrá una actualización diaria y que estará listo en pocos días. En Twitter, los lectores fueron expresando su alegría a través del hashtag #VuelveTiempo con la foto del ejemplar adquirido, entre ellos se destacaron celebridades de la farándula, periodistas y dirigentes políticos. Leé también: El comprador de Tiempo Argentino ahora quiere devolvérselo a Szpolski

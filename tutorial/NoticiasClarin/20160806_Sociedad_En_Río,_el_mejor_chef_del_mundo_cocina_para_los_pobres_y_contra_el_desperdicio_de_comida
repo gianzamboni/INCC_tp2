@@ -1,0 +1,136 @@
+
+El mejor chef del mundo, el italiano Massimo Bottura, está en Río de Janeiro, la sede de los Juegos Olímpicos. Va a cocinar, pero no para el mismo tipo de público que está acostumbrado a recibir en Osteria Francescana, el restorán que tiene en Módena y que ya se ganó tres estrellas Michelin. Hará sus platos para cinco mil brasileños de bajos recursos, que no pagarán un solo real por sus manjares. Su meta es alertar sobre los riesgos de la malnutrición, el desperdicio de alimentos y la exclusión social. 
+
+
+"Tenemos una oportunidad a través de este proyecto, que es cultural y no de caridad, de luchar contra el desperdicio"
+
+
+
+
+
+var act_59f = new gigya.socialize.UserAction();
+
+var emailBodyCustom_59f = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_59f.setTitle('"Tenemos una oportunidad a través de este proyecto, que es cultural y no de caridad, de luchar contra el desperdicio"');
+act_59f.setSubtitle('Juegos Olímpicos'); 
+act_59f.setLinkBack('http://www.clarin.com/sociedad/Rio-cocina-pobres-desperdicio-comida_0_1627037374.html');
+act_59f.setDescription('El italiano Massimo Bottura abre este martes un restorán que alimentará a cinco mil brasileños de bajos recursos. ');
+act_59f.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/Rio-cocina-pobres-desperdicio-comida_0_1627037374.html');
+
+var showShareBarUI_params_59f=
+{ 
+containerID: 'shareQuote_59f',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_59f,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_59f
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_59f);
+ "Tenemos una oportunidad a través de este proyecto, que es cultural y no de caridad, de luchar contra el desperdicio. Si cambiamos la manera de pensar podemos hacer que nazca una nueva tradición", contó Bottura a los periodistas brasileños.  Mirá también: Los 10 consejos del mejor chef del mundo El presitigioso cocinero trabajará en el Refettorio Gastromotiva, un comedor que abrirá sus puertas el martes en el barrio de Lapa y puede recibir hasta 108 comensales a la vez. La iniciativa fue impulsada y coordinada por Gastromotiva, una organización sin fines de lucro que "busca transformar las vidas de las personas en situación de vulnerabilidad social a través de los alimentos", según precisan en la institución. Fue fundada por el chef David Hertz, nacido en Curitiba, y tiene sede en Brasil y México.  
+
+
+"Le prometí a mi madre que usaría mi notoriedad para tornar visibles a los invisibles"
+
+
+
+
+
+var act_4d1 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_4d1 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_4d1.setTitle('"Le prometí a mi madre que usaría mi notoriedad para tornar visibles a los invisibles"');
+act_4d1.setSubtitle('Juegos Olímpicos'); 
+act_4d1.setLinkBack('http://www.clarin.com/sociedad/Rio-cocina-pobres-desperdicio-comida_0_1627037374.html');
+act_4d1.setDescription('El italiano Massimo Bottura abre este martes un restorán que alimentará a cinco mil brasileños de bajos recursos. ');
+act_4d1.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/Rio-cocina-pobres-desperdicio-comida_0_1627037374.html');
+
+var showShareBarUI_params_4d1=
+{ 
+containerID: 'shareQuote_4d1',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_4d1,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_4d1
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_4d1);
+ "Le prometí a mi madre que usaría mi notoriedad para tornar visibles a los invisibles. Llegó el momento de devolver al mundo lo que me dio", explicó Bottura.  Su restorán fue elegido como el mejor del planeta por la clasificación de los "50 Best Restaurants". Según indica en su sitio Web, él mismo describe a su cocina como "tradicional vista a diez millas de distancia". Comer en él puede costar 600 euros por persona. 
+
+Mirá también: Los 10 mandamientos de la pasta, según el mejor chef italiano Durante los Juegos, varios cocineros famosos lo ayudarán donando su trabajo: los franceses Alain Ducasse y Claude Troisgros, el español Andoni Aduriz y los brasileños Alex Atala, Felipe Bronze, Roberta Sudbrack y Rafa Costa e Silva. Una vez que terminen las Olimpíadas, Refettorio Gastromotiva, que funciona en un predio donado por la Alcaldía de Río, se transformará en una escuela de cocina. También tendrá servicio de restorán a la hora del almuerzo bajo el concepto de "pague al mediodía y done la cena a una persona que lo precise". Bottura también está a cargo de Food for Soul, una organización que combate el desperdicio de alimentos y la exclusión social. Está planeando nuevos proyectos similares al de Río para el año que viene. Según contaron los organizadores, piensan realizarlos en Los Ángeles, Nueva York y Montreal. 

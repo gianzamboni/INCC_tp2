@@ -1,0 +1,70 @@
+
+En una entrevista con Clarín, hace ya cinco años, Sergio Schoklender había catalogado a José López directamente como un "hijo de remil putas y ladrón". Esta mañana, el ex apoderado de la Fundación Madres, que estuvo preso por el desvío millonario de fondos públicos para construir viviendas, volvió a prender el ventilador contra el ex secretario detenido. Y se acordó especialmente de quién fue su mentor, Néstor Kirchner. "Murió el jefe de la banda y cada uno siguió robando", dijo Schoklender por AM 950 Belgrano. Se refería al ex Presidente.  Mirá también: El ex secretario de Obras Públicas pasó la noche "deprimido" y casi no durmió "Yo me animé a denunciarlo a José López", recordó el mayor de los Schoklender, los hermanos presos por parricidio. "Cuando López quiso llevar su método a la fundación -agregó- es cuando yo renuncio. Kirchner lo pone en ese puesto para controlar las intendencias y gobernaciones. Los que no eran afines no recibían dinero". Más adelante, en diálogo con Pablo Duggan, agregó: "¿Vos creés que los jueces o funcionarios públicos viven con el sueldo que dicen cobrar? Cuando muere Kirchner, se arma quilombo porque no había nadie que manejaba esa estructura. Murió el jefe de la banda (Kirchner) y cada uno siguió robando".
+
+En cuanto a la división de los negocios, Schoklender señaló que "De Vido manejaba la caja de transporte, subsidios y energía. En compra de energía se gastaba más de 12 mil millones anuales, en barcos que nunca llegaban. La guita que manejaba De Vido debe estar en Seychelles". Hablaba del paraíso fiscal que se hizo famoso para los argentinos, años atrás, cuando la ex presidenta Cristina Kirchner realizó allí una sospechosa escala.  Mirá también: Trasladan a López a una fiscalía y declara por "portación ilegal de armas" Luego, Schoklenderamplió:"López fue el arquitecto de todo el patrimonio de los Kirchner y manejaba el entramado de los hoteles.Cuando se muere Néstor, López dice que se tiene que reunir 'con el pelotudo de Máximo'.Esos 8 millones de dólares que le encontraron a López seguro era el cambio chico que tenía en su casa. Más tarde, en diálogo con La Once Diez, Schoklender habló de la relación entre Hebe de Bonafini y López: "Se adoraban. Siempre la felicitaban aunque algo no estuviera bien. Cuando yo le decía algo a López, el se lo decía a Cristina, Cristina hablaba con Hebe y ahí me retaban". Y agregó: "El le palmeaba la espalda, le decía Hebe querida, nosotros te vamos a ayudar en lo que haga falta, a Hebe la compraron de esa manera, adulándola”. 
+
+
+"El le palmeaba la espalda, le decía Hebe querida, nosotros te vamos a ayudar en lo que haga falta"​
+
+
+
+
+
+var act_871 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_871 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_871.setTitle('"El le palmeaba la espalda, le decía Hebe querida, nosotros te vamos a ayudar en lo que haga falta"​');
+act_871.setSubtitle('SOSPECHAS DE CORRUPCIÓN,'); 
+act_871.setLinkBack('http://www.clarin.com/politica/Schoklender-acordo-Kirchner-Murio-robando_0_1595840426.html');
+act_871.setDescription('El ex apoderado de la Fundaci&oacute;n Madres, acusado por desv&iacute;os millonarios, apunt&oacute; con el ex presidente y Jos&eacute; L&oacute;pez.&nbsp;');
+act_871.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Schoklender-acordo-Kirchner-Murio-robando_0_1595840426.html');
+
+var showShareBarUI_params_871=
+{ 
+containerID: 'shareQuote_871',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_871,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_871
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_871);
+ Y por último, Sergio Schoklender sumó a Boudou en la cadena de responsabilidades:  "Cuando era funcionario de la cartera de Economía, también fue parte de esto, porque la autorización de las obras dependían del ministerio de Economía. Y hubo un montón de obras que no se terminaron", concluyó.

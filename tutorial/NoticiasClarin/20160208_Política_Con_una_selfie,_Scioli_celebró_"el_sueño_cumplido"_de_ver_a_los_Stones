@@ -1,0 +1,50 @@
+
+Daniel Scioli, el ex candidato presidencial del Frente para la Victoria, dejó por un momento de lado la interna del justicialismo y fue a ver el primer show de los Rolling Stones al el Estadio Único de La Plata.  "Un sueño cumplido", escribió el ex gobernador bonaerense, que pudo ver luego de diez años sin pisar la Argentina, a los Stones, que ayer dieron el primero de tres conciertos.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/danielscioli/status/696500411096768512",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69650041109676851")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Varios famosos se hicieron presentes para ver sus majestades, entre ellos Scioli, quien se ubicó en una de las plateas laterales al escenario y agradeció a los promotores "la confianza" que tuvieron al elegir el estadio platense para el show. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/danielscioli/status/696500594433982465",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69650059443398246")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ En Twitter, el ex candidato presidencial se refirió a La Autopista Buenos Aires-La Plata y al Único también como  "un sueño", a pesar de las demoras que hubo tanto para llegar como para irse una vez que finalizó el recital. Leé también: Los Rolling Stones hicieron delirar a los fans en La Plata Hay que recordar que el lugar donde tocaron ayer los Stones fue inaugurado por él durante su gestión en la Provincia de Buenos Aires. De hecho, en su campaña para la presidencia en 2015 -la cual perdió ante Macri-, uno de sus spots se presentaba como “el tipo del Estadio Único”. No es la primera vez que Scioli se muestra en el mundo del espectáculo. Sólo en el último mes, el ex candidato presidencial se dejó fotografiar con algunas figuras del teatro local. “Almuerzo en honor Cacho Castaña junto a Nito Artaza y Miguel Ángel Cherutti. En el encuentro celebramos la recuperación de Cacho y el éxito de “Segunda Vuelta”, dijo Scioli en la red social.   
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/danielscioli/status/691705321774018560",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69170532177401856")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

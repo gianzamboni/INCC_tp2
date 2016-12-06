@@ -1,0 +1,24 @@
+
+Mauricio Macri viajará este mediodía a la ciudad de Colonia, Uruguay, donde tendrá un encuentro con su par uruguayo, Tabaré Vázquez.
+Previamente visitó el predio de los Talleres Navales Dársena Norte (Tandanor), ubicados en el barrio porteño de Puerto Madero.
+El Presidente luego viajará al país vecino acompañado por la canciller Susana Malcorra, el secretario de Asuntos Estratégicos, Fulvio Pompeo, y el embajador de nuestro país, Guillermo Montenegro.
+
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Guillodietrich/status/685102821797134337",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68510282179713433")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ La actividad del mandatario argentino comenzó esta mañana con un encuentro en Casa de Gobierno con sus colaboradores y cerca de las 9.30, acompañado por el ministro de Defensa, Julio Martínez, pasó por la planta de Tandanor, el taller de reparaciones navales, donde fue recibido por el titular de esa empresa estatal, Jorge Arosa y otros directivos.
+Leé también: Preparan una nueva Unidad Médica para el Presidente
+En los talleres se encuentra en reparaciones el emblemático rompehielos Almirante Irizar, que quedo inutilizado por un incendio en 2007 y tras los trabajos realizados ya está a punto de volver a navegar.
+Fuente: Télam

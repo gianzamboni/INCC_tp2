@@ -1,0 +1,18 @@
+
+Un gorila que baila "ballet". Esa fue la insólita situación con la que se encontró una turista en el zoológico Twycross, ubicado en Warwickshire, Inglaterra. El simpático momento fue registrado con un celular y rápidamente se viralizó en las redes sociales.  Mirá también: Video: mirá el emocionante nacimiento por cesárea de una beba gorila 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El "bailarín" es Lope, un joven simio de tres años de edad. En forma delicada y con un brazo extendido, realiza varios giros sobre su pie, moviéndose con gracia y sutileza. La música clásica -que le agregaron posteriormente- completa la escena del show improvisado. Mirá también: Video: el zoo chino donde los enjaulados son los humanos "¡Lope disfruta de una obra de teatro! El juego es un aspecto importante y muy natural del comportamiento de los simios jóvenes", explicaron desde la cuenta de Facebook del zoológico. Allí compartieron el video, que fue filmado por Helen Fairhead y publicado en YouTube, para el deleite de miles de usuarios.

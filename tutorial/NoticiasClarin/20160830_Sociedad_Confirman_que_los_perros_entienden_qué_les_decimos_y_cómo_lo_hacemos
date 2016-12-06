@@ -1,0 +1,22 @@
+
+Los perros entienden qué les decimos y cómo se lo decimos. A esa conclusión llegó un estudio científico que descubrió que ellos utilizan las mismas zonas del cerebro que los humanos para procesar el lenguaje. Estos animales --al igual que nosotros-- procesan las palabras con el hemisferio izquierdo, e interpretan el tono con el hemisferio derecho, indicó la investigación publicada en la revista Science.
+
+Según lo informado por la agencia de noticias AP, los expertos descubrieron que los perros identifican que se les está felicitando sólo cuando las palabras y el tono coinciden. No producen el mismo efecto las palabras sin sentido dichas en tono alentador o las palabras significativas dichas en tono neutro. "El cerebro del perro registra lo que decimos y cómo lo decimos'', sostuvo el director de la investigación, Attila Andics, neurólogo de la Universidad Eotvos Lorand de Budapest. Mirá también: El perro adoptado por la azafata reabrió un largo debate En un video, el científico explica que la entonación trabaja de manera similar en muchas especies. Por ejemplo, la emoción se expresa con una voz fuerte. Pero los humanos usamos, además, palabras cuando nos dirigimos hacia las mascotas: "buen chico" o "bien hecho", son algunas frases que les dedicamos. "Lo que descubrimos fue realmente sorprendente. Los perros prestan atención tanto a las palabras como a la entonación", señala.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Según Andics, los hallazgos indican que la capacidad mental para procesar el lenguaje evolucionó antes de lo que se había creído en un principio, y que lo que hace única la comunicación humana es la invención de palabras. Mirá también: Cuánto cuesta clonar a tu perro "Las capacidades neurales de procesar palabras que muchos creían eran propias del ser humano en realidad se ven en otras especies", dijo el investigador. "Esto indica que el gran cambio que permitió a los seres humanos ser capaces de usar palabras no fue un gran cambio en la capacidad neural", continuó.
+
+"Si bien otras especies probablemente tienen la capacidad mental de comprender el lenguaje, esto es difícil de someter a prueba debido su falta de interés en el lenguaje humano", dijo Andics. El perro mantiene una sociedad con el ser humano desde hace miles de años, lo cual indica que presta mayor atención a lo que se le dice y cómo. Mirá también: Terremoto en Italia: perros que salvan y perros salvados Para realizar el estudio, los científicos entrenaron a 13 perros que se mantuvieron inmóviles durante siete minutos, mientras les hicieron una resonancia magnética cerebral. Entonces, midieron la actividad cerebral de cada animal al escuchar las palabras de su entrenador. Andics destacó que los perros examinados estaban despiertos, sueltos y felices. "Participaron voluntariamente", señaló. Además, la investigación demostró que cuando una persona los elogia, se activa el sistema de recompensa del perro, es decir, la región cerebral que responde a estímulos placenteros como la comida, el sexo, o las caricias. Esto sucede solo cuando las palabras y la entonación del elogio coinciden. "El elogio solo funciona como gratificación si la entonación es acorde con el significado", concluye Andics.

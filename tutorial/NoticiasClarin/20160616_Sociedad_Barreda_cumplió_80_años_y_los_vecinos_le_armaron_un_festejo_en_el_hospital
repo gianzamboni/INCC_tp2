@@ -1,0 +1,20 @@
+
+Durante mucho tiempo Ricardo Barreda festejó sus cumpleaños solo, detrás de las rejas de un penal. Pero esta vez fue diferente. Los 80 del odontólogo condenado a prisión perpetua por haber asesinado a su esposa, su suegra y sus hijas no sólo le llegaron en libertad, sino también con una "familia sustituta" que lo acompañó y lo aplaudió mientras pidió sus tres deseos. Mirá también: Barreda perdió 10 kilos, está débil y sufre de demencia senil Esta tarde, el hombre que el 20 de mayo último consiguió empezar a moverse en libertad sin rendir cuentas a la Justicia, festejó su cumpleaños en el Hospital de General Pacheco, donde se encuentra internado desde hace un mes por un cuadro compatible con demencia senil. Y si bien hacer una fiesta no estaba entre sus planes, los vecinos con los que compartió los últimos cinco meses en el barrio de Troncos, en Tigre, decidieron tomar la iniciativa para homenajearlo "como se merece", aseguran. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"En el verano cuando llegó al barrio le prometimos que los 80 los iba a cumplir en familia y así fue. Nos hubiera gustado hacerlo afuera del hospital porque muchos otros vecinos querían venir a saludarlo, pero está enfermo y necesita estar en la habitación", cuenta Yanina Robledo, la mujer que se animó a entablar una relación de amistad con Barreda. "Es el abuelo que nunca tuve y por eso quise acercarme a él", agrega. Mirá también: Barreda sigue internado y sus vecinos lo quieren de vuelta en el barrio Al festejo, que duró todo el tiempo permitido para recibir visitas, no le faltó nada. Hubo torta con bengalas, globos, empanadas caseras, mate y música. "Se que entre los deseos que pidió está seguir viviendo", sostiene Iván, el almacenero del barrio con quien compartió tardes de mate y fútbol. "Estaba re contento, con una sonrisa que hace mucho tiempo no le veíamos", agrega Erica, la dueña de la casa donde el odontólogo alquilaba su habitación.
+
+Ricardo Barreda está internado en la habitación 19 del sector de Cuidados Mínimos. Mientras se recupera (solamente tiene un suero conectado), están a la espera de alguna persona cercana que se acerque al centro de salud a llevárselo y hacerse cargo por su estado. "Queremos que Ricardo se recupere y puedaestar en un lugar mejor. Ya cumplió su condena y se merece disfrutar sus últimos años", sostiene Yanina. Por Sofía Krasnopol

@@ -1,0 +1,74 @@
+
+Es la mañana del 12 de agosto y la planta siderúrgica de Tenaris Siderca, en la localidad de Campana, en la provincia de Buenos Aires, se convierte en el escenario de una ceremonia infrecuente. Al lado de una montaña de chatarra (donde relucen las chapas retorcidas de lo que alguna vez fueron automóviles y camiones) y no muy lejos de un gigantesco horno fundidor, el escuadrón Alacrán, grupo de élite de la Gendarmería Nacional, custodia 33 cajones de madera barata. Los soldados -que cargan ametralladoras, visten chalecos antibala y llevan el rostro cubierto- miran de reojo la llegada del ministro de Justicia y Derechos Humanos, Germán Garavano; y de una comitiva que incluye a la ministra de Seguridad, Patricia Bullrich; al secretario de Seguridad, Eugenio Burzaco; a la directora de la Agencia Nacional de Materiales Controlados (ANMAC), Natalia Gambaro; además de capitanes, comisarios y autoridades de distintas fuerzas de seguridad. Es una mañana ventosa y no hay más de dos o tres periodistas en la siderurgia, pero buena parte de la plana mayor de los responsables de la seguridad del país se han reunido aquí, a 65 kilómetros de la Casa de Gobierno, porque los 33 cajones de madera contienen un botín preciado de 25 mil pistolas, revólveres, escopetas y ametralladoras. Este arsenal llegó desde el depósito de armas más grande del país -el Banco Nacional de Materiales Controlados (BANMAC)-, y está a punto de ser destruido. Es, a fin de cuentas, una ceremonia infrecuente para contribuir con el exorcismo de un viejo mal: la violencia armada.
+
+Entre los funcionarios y los capitanes se pasea también un hombre de gesto serio, que lleva unos papeles y unas carpetas bajo el brazo. No viste uniforme, pero los estatales se acercan a él para saludarlo y escucharlo. Es Adrián Marcenac. Su hijo Alfredo fue asesinado el 6 de julio de 2006, cuando iba caminando por la avenida Cabildo con dos amigos y sin aviso ni explicación recibió tres disparos a mansalva. Diez o quince metros más allá, un joven llamado Martín Ríos había vaciado el cargador de su pistola Bersa Thunder calibre .380 sobre la gente que pasaba. Otras seis personas resultaron heridas. Alfredo Marcenac, que había nacido en Necochea y cursaba su primer año de la carrera de kinesiología, tenía 18 años. 
+
+
+Gracias a la militancia por el desarme se destruyeron 300 mil armas. Entre 1992 y 2002, sólo 40 mil.
+
+
+
+
+
+var act_2e4 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_2e4 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_2e4.setTitle('Gracias a la militancia por el desarme se destruyeron 300 mil armas. Entre 1992 y 2002, sólo 40 mil.');
+act_2e4.setSubtitle('Investigación de Chequeado'); 
+act_2e4.setLinkBack('http://www.clarin.com/sociedad/anos-des-control-armas-Argentina_0_1676232431.html');
+act_2e4.setDescription('Por qué la transformación del RENAR en la ANMAC esconde una trampa y qué pasó para que el Plan de Desarme no sea hoy prioridad de los diputados en el Congreso de la Nación. Esto sucede a pesar de que la inseguridad está al tope de las preocupaciones de los argentinos.');
+act_2e4.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/anos-des-control-armas-Argentina_0_1676232431.html');
+
+var showShareBarUI_params_2e4=
+{ 
+containerID: 'shareQuote_2e4',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_2e4,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_2e4
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_2e4);
+ Desde entonces, Adrián Marcenac, su padre, cambió de vida: dejó de ser un anónimo ingeniero agrónomo y creó la Asociación Civil Alfredo Marcenac, impulsó una cátedra abierta en la Universidad Nacional del Centro de la Provincia de Buenos Aires -que creció hacia una Diplomatura-, presidió la Red Argentina para el Desarme y se convirtió en una suerte de fiscal de a pie que denuncia incansablemente el descontrol de las armas de fuego. Su presencia al lado de las 33 cajas repletas de pistolas y escopetas no es casual: después del asesinato de su hijo, y gracias a la militancia por el desarme de gente como él, se destruyeron 300 mil armas. Antes, entre 1992 y 2002, sólo 40 mil habían pasado por el molino triturador.
+
+“Detrás de cada arma hay quizás una muerte que se evita -dice Marcenac-. Por eso la destrucción es un acto que me conmueve profundamente. Siempre que pude, acompañé este tipo de eventos”.   Justo entonces, una grúa comienza a levantar una por una las 33 cajas de madera y a colocarlas en la cinta transportadora. Las pistolas y los revólveres, las escopetas y las ametralladoras pasan por el molino: el ruido de su pulverización se oye como un estruendo continuado. Un rato después salen hacia otra cinta en forma de partículas pequeñas. No miden más de una pulgada. Los funcionarios observan el paso de la chatarra en busca de alguna pieza entera, y después un imán separa el hierro de la madera y del plástico que alguna vez tuvieron las armas. El proceso lleva una hora. Por fin, el hierro entra en los hornos y el calor infernal transforma la chatarra en materia prima para la fabricación de acero. De las 25 mil armas se obtienen doce toneladas de acero aleado, un acero de calidad inferior que no se puede utilizar en grandes cantidades para la producción del acero último: en su viaje final, las armas pierden su oscuro aura y su valor monetario. Desaparecen como polvo entre las llamas. Las autoridades de la ANMAC esperan repetir esta ceremonia al menos dos veces cada año. 
+
+ ** Sin embargo, el control de los gatillos en la Argentina sigue siendo una pregunta abierta. La cuestión se ha convertido casi en un tabú: el debate se empantana porque para evaluar su realidad y para ordenar la destrucción de pistolas y rifles hace falta un conocimiento del campo y una libertad de acción que no existen o no están lo suficientemente articulados, y que definitivamente no están a un alcance sencillo de un ciudadano cualquiera que se interese en el tema. En 2007, justo cuando comenzó a discutirse públicamente un plan de desarme civil, el Registro Nacional de Armas (RENAR) dejó de publicar estadísticas sin dar ninguna explicación, y los números fueron escatimados durante casi una década. Recién ahora la ANMAC ofrece nuevos datos públicos: hay 1.541.497 armas registradas en la Argentina; 979.508 usuarios registrados; cuatro fábricas de armas (entre las que sobresale Bersa SA); 74.983 armas fabricadas entre enero y agosto de 2016; 13.940 armas importadas en el mismo período; y 45.836 armas exportadas, también en este período. La propia Agencia estima que en el mercado negro hay otro millón y medio de armas. Evaluaciones del sector civil, que hay cuatro millones. Es casi absoluto el paso de blanco a negro: la gran mayoría de las armas son fabricadas legalmente y en algún momento de su vida útil evaden el control del Estado. La ANMAC tiene apenas 20 inspectores para registrar 14 mil objetivos a lo largo del país, entre los que hay fábricas de armas, armerías, depósitos de armas y de explosivos, cotos de caza, recintos y vehículos blindados, explosiones de minería, perforaciones petroleras y usuarios individuales. 

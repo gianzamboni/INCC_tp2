@@ -1,0 +1,18 @@
+
+Una simple demostración de cómo funciona un lanzallamas, pero grabado en calidad 4K y con un efecto de slow motion, se convirtió en un fenómeno viral en YouTube, con más de 1,7 millones de reproducciones en poco más de un día. Mirá también: Video: las señoras que no logran sacarse una selfie 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Los youtubers del canal The Slow Mo Guys, que cuenta con 7,6 millones de suscriptores y acumula 871 millones de visualizaciones en sus videos, grabó estas imágenes como parte de sus proyectos para difundir videos de entretenimiento, pero basados en tecnología. Mirá también: Video: una escalera mecánica casi provoca una tragedia Las imágenes están subidas en su canal, y pueden apreciarse seleccionando la opción 4K en el extremo derecho del reproductor de YouTube.

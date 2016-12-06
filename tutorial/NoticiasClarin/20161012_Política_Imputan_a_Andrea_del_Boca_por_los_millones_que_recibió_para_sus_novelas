@@ -1,0 +1,68 @@
+
+El fiscal federal Federico Delgado pidió hoy investigar a la actriz Andrea del Boca y a Julio De Vido por unos 36 millones de pesos que el Ministerio de Planificación Federal cedió para la realización de una novela que nunca se exhibió. Según informa el portal TN.COM.AR, el Estado Nacional habría financiado mediante una contratación directa veinticinco capítulos de una novela protagonizada por Andrea del Boca y producida por 'a+A Group', dirigida por la actriz y su padre Nicolás. El denunciante es el abogado Ricardo Monner Sans quien dijo saber de un testigo, cuya identidad mantiene en reserva, que aseguró que el Ministerio de Planificación Federal entregó un total de 200 millones de pesos para amigos k de Santa Cruz para la realización de proyectos audiovisuales. Monner Sanz dijo que los amigos kirchneristas son “Sinema Producciones SA” (a cargo de Mauricio Brunetti, sobrino de Arturo Rodríguez, exintendente de la ciudad de Puerto Deseado, provincia de Santa Cruz); y la “Asociación Argentina de Efectos Visuales” dirigida por Gustavo Gutiérrez y dos personas más que “dan cursos arancelarios” bajo la órbita de la Universidad Nacional de San Martín. Además, el testigo arrojó que SINEMA podría estar vinculada con Alejandro Cacetta, director del Instituto Nacional de Cine y Artes Audiovisuales (INCAA). 
+
+
+ El fiscal Delgado además pidió evaluar “el criterio” por el cual se decidió suministrar el dinero, las cuentas bancarias utilizadas para canalizarlo y que se pida el acta constitutiva de la productora “a+A Group”.
+
+
+
+
+
+var act_3d1 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_3d1 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_3d1.setTitle(' El fiscal Delgado además pidió evaluar “el criterio” por el cual se decidió suministrar el dinero, las cuentas bancarias utilizadas para canalizarlo y que se pida el acta constitutiva de la productora “a+A Group”.');
+act_3d1.setSubtitle('"Mamá Corazón"'); 
+act_3d1.setLinkBack('http://www.clarin.com/politica/Imputan-Andrea-Boca-millones-novelas_0_1667233295.html');
+act_3d1.setDescription('El fiscal Delgado hizo lugar a un planteo por el uso de 36 millones de pesos para hacer una novela que aún no salió al aire. También investigan a De Vido.');
+act_3d1.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Imputan-Andrea-Boca-millones-novelas_0_1667233295.html');
+
+var showShareBarUI_params_3d1=
+{ 
+containerID: 'shareQuote_3d1',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_3d1,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_3d1
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_3d1);
+ Y determinó que que sean citados todos los que iban a participar de la novela tanto actores como camarógrafos, iluminadores y sonidistas “para que expliquen el qué, cómo y cuándo de su trabajo y si cobraron y de qué manera”.  "Mamá corazón" fue la ficción que más fondos recibió del Gobierno K: $25.607.000, a través de un polémico contrato con el ministerio de Planificación, en ese entonces a cargo de Julio De Vido. La miniserie era protagonizada por la actriz y dirigida por su padre Nicolás. Pero nunca salió a la luz.  A partir de estas irregularidades la Justicia abrió una investigación contra De Vido y a Del Boca, que fueron denunciados por el uso de fondos públicos para la grabación de una telenovela que jamás se exhibió. Mirá también: Andrea del Boca: política, telenovelas y sospechas La denuncia involucra a la Universidad Nacional de San Martín, fue presentada por el abogado Ricardo Monner Sans y quedó radicada en el juzgado federal de Sebastián Casanello con la intervención del fiscal Federico Delgado. Monner Sans pidió que se cite como testigo al titular del Sistema Federal de Medios Públicos Hernán Lombardi, que había hablado de fuertes irregularidades con los fondos para ficciones.  La presentación está basada en artículos periodísticos que indican que la Universidad de San Martín se habría usado como "pantalla" para "triangular" 36.500.000 pesos para la Productora A+A Group de los Del Boca. El convenio entre la UNSAM y el ministerio de Planifiación para filmar la novela de Del Boca se firmó en julio de 2015. En diálogo con Telenoche, el secretario legal y técnico de la Universidad de San Martín Eduardo Ratti desligó a la institución de cualquier responsabilidad. Según dijo, su tarea sólo consistió en ejecutar el Plan Nacional Banco Audiovisual de Contenidos Universales Argentino (BACUA). La artista, que defendió tajantemente el modelo K durante los últimos años, participó de uno del acto de uno de los proyectos culturales más ambiciosos del macrismo. La actriz estuvo junto a otros artistas en el lanzamiento del nuevo Plan de Fomento a la industria cinematográfica del Instituto Nacional de Cine y Artes Audiovisuales (INCAA). Mirá también: Andrea del Boca, a juicio por fondos del Estado Andrea del Boca participó de un acto del Gobierno que lanzó un plan para fomentar el cine  La iniciativa reemplaza la que rigió durante diez años e incluye una actualización de los montos que se manejaron en los últimos tiempos así como una nueva escala de acuerdo a audiencias y géneros, con carácter federal, que se materializó tras varios meses de elaboración y búsqueda de consenso entre entidades del sector.

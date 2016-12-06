@@ -1,0 +1,18 @@
+
+Durante más de dos horas, el Chaqueño Palavecino interpretó sus grandes éxitos y hubo más de 5 mil personas escuchándolo y aplaudiendo. Con sus gatos, cuecas y zambas cerró el lunes pasado la tercera edición del Espacio Clarín en Mar del Plata. A lo largo de 66 días, más de 250 mil personas disfrutaron de 212 espectáculos en vivo, entre los que se destacaron recitales, obras de teatro, desfiles y musicales, todos con entrada libre y gratuita. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Chayanne, Alejandro Lerner, Bruno Gelber fueron algunas de las celebridades que pasaron por el Espacio. Roberto Piazza, Benito Fernández, Nicole Neumann mostraron sus colecciones y dieron consejos sobre los mejores looks para vestir. Más de 1.200 artistas subieron al escenario principal y además la oferta se completaba con espectáculos para chicos, el humor de Martín Campilongo, números musicales y de baile. Otro segmento estuvo reservado a escritores e intelectuales que brindaron charlas amenas durante las jornadas.     Hubo presentaciones de libros, como el último de Facundo Manes, el reciente Premio Clarín de Novela, y la obra de Marcos Novaro y Marcelo Birmajer sobre la última década de acoso al periodismo. También se llevó a cabo el ciclo “Diálogos para pensar el país”, en el que referentes de todos los partidos políticos debatieron sobre los desafíos que marca la actual coyuntura. Todo lo que pasó contó con la cobertura de Clarín, Radio Mitre y TN. A través de 9 suplementos especiales, notas y transmisiones en vivo se pudieron revivir cada uno de los eventos. Desde un estudio especial de Radio Mitre montado en el lugar, se entrevistaron a todas las personalidades que pasaron por el Espacio Clarín. En total, fueron más de 220 horas de transmisión en vivo para todo el país. En Semana Santa, el Espacio Clarín renovará sus propuestas para que todos sigan disfrutando del arte y la cultura en Mar del Plata.

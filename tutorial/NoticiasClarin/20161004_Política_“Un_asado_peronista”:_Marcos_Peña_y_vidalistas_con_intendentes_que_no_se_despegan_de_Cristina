@@ -1,0 +1,68 @@
+
+El asado fue en un club de San Telmo y la excusa fue simple: “Juntémonos a comer una tirita”, fue la frase utilizada vía Whats App por los dos dirigentes claves en la relación de María Eugenia Vidal con los intendentes bonaerenses.  “Vienen Marcos y Fernando”, fue el siguiente mensaje que llegó por chat, algo que entusiasmó a los peronistas: nadie, más allá del grado de virulencia en alguno de sus discursos políticos, se niega a sentarse en una mesa con Marcos Peña y fernando De Andreis, jefe de Gabinete y secretario General de la Presidencia, hombres de íntima confianza del Presidente de la Nación.  “Es para hablar de política”, dijo Peña para alejar cualquier idea de que se hablara de negociaciones de algún tipo, como lo de acercar posiciones sobre el Presupuesto del la provincia de Buenos Aires, algo que ocupa y preocupa al Gabinete de María Eugenia Vidal.  Por eso, a la hora de la picada, Peña y De Andreis se juntaron con Federico Salvai, ministro de Gobierno y mano derecha de Vidal, y Alex Campbell, Subsecretario de Gobierno y Asuntos Municipales de la Provincia. Ese team recibió a los intendentes peronistas del flamante “Grupo Fénix”, los que arribaron juntos para no mostrar dobleces. Mirá también: El nuevo mapa de intendentes del PJ, al ritmo de Cristina y Massa  El asado sucedió en el Club San Telmo, ubicado en la Avenida San Juan, y que supo ser reducto de Eduardo Duhalde: el ex presidente sigue yendo a nadar allí, uno de sus hobbies. Y ahora, el PRO lo sumó a sus bastiones ya que el ministro Salvai es socio del exclusivo lugar. En el Gobierno nacional dijeron que esta cita tuvo el mismo espíritu que la de la semana pasada, cuando el jefe de Gabinete nacional comió con dirigentes radicales. 
+
+
+Esta vez, fue con los alcaldes que no logran romper aún el lazo con la ex Presidenta de la Nación: “Son los temerosos de Cristina”, como los bautizó un intendente jefe comunal que abreva en las aguas del “Grupo Esmeralda”, otra terminal del peronismo bonaerense.
+
+
+
+
+
+var act_813 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_813 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_813.setTitle('Esta vez, fue con los alcaldes que no logran romper aún el lazo con la ex Presidenta de la Nación: “Son los temerosos de Cristina”, como los bautizó un intendente jefe comunal que abreva en las aguas del “Grupo Esmeralda”, otra terminal del peronismo bonaerense.');
+act_813.setSubtitle('Peronismo y Cambiemos'); 
+act_813.setLinkBack('http://www.clarin.com/politica/Marcos-Pena-vidalistas-intendentes-Cristina_0_1662433777.html');
+act_813.setDescription('En San Telmo, el jefe de Gabinete y los funcionarios de confianza de la gobernadora bonaerense avanzaron en temas de gestión con alcaldes peronistas críticos.');
+act_813.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Marcos-Pena-vidalistas-intendentes-Cristina_0_1662433777.html');
+
+var showShareBarUI_params_813=
+{ 
+containerID: 'shareQuote_813',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_813,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_813
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_813);
+  “No sé si son ‘Los temerosos de Cristina’, para nosotros son intendentes como los otros”, esquivó bien temprano este miércoles un funcionario que llega bien temprano a la Casa Rosada y que repasó la lista de asistentes: Marcos Peňa, Federico Salvai, Fernando De Andreis y Alex Campbell por un lado y por el Grupo Fénix, el intendente de Castelli (Francisco Echarrren), el de Merlo (Gustavo Ménendez), el de Escobar (Ariel Sujarchuk), de Marcos Paz (Ricardo Curuchet), de Moreno (Walter Festa), de Navarro (Santiago Maggiotti), de La Matanza (Verónica Magario) y Franco La Porta (Congresal del PJ). Mirá también: Frigerio camionero y Dolina peronista  Marcos Peña se ubicó a la hora de cenar bien cerca de la intendenta de La Matanza, distrito que mantiene una tensa relación con la administración bonaerense. Magario pilotea el cruce que su antecesor, Fernando Espinoza, mantiene con los vidalistas, quienes lo consideran un “duro” al igual que los intendentes kirchneristas Jorge Ferraresi y Mario Secco (Avellaneda y Ensenada). De todos modos, Magario participa del programa nacional “El Estado en tu barrio”, con el que funcionarios nacionales recorren reductos bonaerenses gobernados por peronistas.  Desde el team de Macri y Vidal dijeron que el encuentro sirvió para mejorar vías de trabajo entre Nación, Provincia y municipios y negaron cualquier idea de cerrar acuerdos por el Presupuesto bonaerense, algo que dejaron trascender un par de intendentes peronistas.”No negociamos nada, hay que conocerse y mejorar los temas de gestión”, señalaron desde las oficinas de la Jefatura de Gabinete de Peña. En tanto, desde el entorno de Vidal, dijeron a Clarín que es “una más” de las cenas que ellos organizan con intendentes de todos los signos.  Así, este “asado peronista” acercó posiciones entre intendentes peronistas críticos y los gobiernos nacional y bonaerense de Cambiemos. El buen vino Saint Felicien relajó algunos espíritus díscolos, entre el vacío y la tira de asado; como de costumbre, Marcos Peña mantuvo el buen juicio y dio sorbos a una Sprite Zero, en línea con el estilo abstemio de su jefe político Mauricio Macri.

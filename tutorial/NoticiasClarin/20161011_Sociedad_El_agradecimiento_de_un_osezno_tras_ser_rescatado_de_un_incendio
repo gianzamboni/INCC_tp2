@@ -1,0 +1,18 @@
+
+Un cachorro de oso quedó atrapado en un incendio forestal en Rusia y el equipo de bomberos consiguió rescatarlo con vida. En las imágenes que grabaron poco después puede verse la reacción de osezno, que parece querer darle las gracias al hombre que le salvó la vida. También mirá: "Video: conmovedor rescate de un caballo en la nieve" El cachorro, que salió ileso del fuego y que presentaba buen estado de salud, intenta en todo momento agarrarse con fuerza a la pierna del hombre y se muestra con una actitud juguetona. Lo mordisquea, lo abraza y lo araña, mientras el hombre intenta zafarse del pequeño animal. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Los oseznos son animales activos, curiosos y juguetones. A esta edad son jugadores incansables y le dedican más del 35% del tiempo diurno al juego. Si son dos o tres hermanos juegan entre ellos: se persiguen, se lanzan manotazos y mordiscos, luchan, trepan a los árboles y agarran ramas o piedras. También mirá: "Mamá oso rescata a su bebé de una autopista"  Cuando se trata de un solo cachorro, la madre dedica más tiempo a jugar con el pequeño que en las familias numerosas. Esta actividad lúdica tiene una gran importancia para la preparación de los oseznos para su vida de adulto.

@@ -1,0 +1,129 @@
+
+Mauricio Macri agasajó anoche con un cocktail y una cena de gala a su par francés Francois Hollande en el Museo del Bicentenario, el mismo lugar en el que Cristina Kirchner recibió el año pasado al ruso Vladimir Putin. Entre los restos de la Aduana Taylor, a partir de las 20.30 los políticos del Gobierno y la oposición se mezclaron con empresarios, famosos y sindicalistas. Así pudieron verse algunas escenas irrepetibles. Gerónimo “Momo” Venegas estaba ansioso por saludar a Mirtha Legrand y a su nieta Juana Viale, una de las presencias más comentadas de la noche. Marta Minujín también se sumó al ecléctico grupo mientras que el ex tenista Guillermo Vilas hablaba de su amor por Francia ante un grupo de periodistas. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160225_0016 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160225_0016_e43";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Mauricio Macri agasajó a su par francés Francois Hollande en el Museo del Bicentenario',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/25/VID/CLAVID20160225_0016/video_web.flv",
+        image: "http://images.clarin.com/politica/Mauricio-Francois-Hollande-Museo-Bicentenario_CLAVID20160225_0016_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160225_0016',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/25/VID/CLAVID20160225_0016/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/2/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/politica/Mauricio-Francois-Hollande-Museo-Bicentenario_3_1529277073.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160225_0016.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160225_0016){
+            //getBBTStats_CLAVID20160225_0016();
+            varModIdReprod_CLAVID20160225_0016 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+La viuda de Jorge Luis Borges, María Kodama, tampoco se lo quiso perder. La convocatoria era tan amplia que pudo verse al jefe de Gabinete Marcos Peña interrumpiendo la ronda que conformaban el gobernador de Formosa Gildo Insfrán y su par tucumano Juan Manzur, apremiado ahora por la suerte judicial del plan Qunita.Mirá la fotogalería en HD Ernesto Sanz, ausente ayer en la cumbre de sus correligionarios en Open Door se paseaba por el Museo, igual que Leandro Despouy y el ex intendente de Almirante Brown Darío Giustozzi. Hugo Moyano dejó de lado las declaraciones duras contra el Gobierno y se sumó al convite para hablar con el socialista Hermes Binner.
+
+Los ministros tampoco quisieron perderse la partida. Allí estaban Juan Aranguren, Sergio Bergman, Carolina Stanley y otros colaboradores del Presidente como José Torello, el secretario de Medios Jorge Grecco o el jefe de los espías Gustavo Arribas. El diputado Eduardo Amadeo, en tanto, saludaba efusivamente al titular de Red Solidaria Juan Carr mientras circulaban copas de malbec y champagne Barón B. El servicio quedó en manos de It Catering. A las 21.07 Macri y Hollande irrumpieron en el salón, cuando los comensales ya estaban sentados en sus mesas. En la principal, en la que se ubicarían los mandatarios se sentaron Federico Pinedo, Emilio Monzó, el titular de la Corte Ricardo Lorenzetti y la primera dama Juliana Awada. Macri, el primero en hablar le obsequió a su invitado de honor la orden del Libertador José de San Martín y se disculpó por su francés nulo. “Estos lazos significan un enorme apoyo entre Francia y Argentina invito un brindis. ¡Viva Francia y viva Argentina!”, cerró Macri, en un breve discurso en el que repasó las metas de su gobierno. Mirá también: Hollande: “Quiero expresar la solidaridad de Francia con las víctimas de la dictadura" Hollande, que entregó la Legión de Honor a Macri, tardó un poco más. Evocó a Borges, a Julio Cortázar y los lazos entre los países. Al final prometió ayudar a la Argentina ante los organismos de crédito y señaló que la comitiva de empresarios que lo acompañaba saludaba el nuevo rumbo que el país estaba tomando.  

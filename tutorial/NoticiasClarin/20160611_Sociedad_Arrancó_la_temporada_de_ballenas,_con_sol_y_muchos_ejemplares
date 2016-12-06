@@ -1,0 +1,23 @@
+
+La temporada de ballenas se inauguró hoy con una gran cantidad de ejemplares tanto en Puerto Pirámides como en El Doradillo, una playa ubicada a 13 kilómetros de Puerto Madryn. Hubo diversos actos en el mar para “homenajear” a estos mamíferos marinos gigantes. Entre ellos, la presencia de un coro que desde una lancha les dedicó varias canciones. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Conocé al ser vivo más grande del planeta Por otro lado, el día acompañó: pleno sol sin viento, lo que hizo que el mar estuviera tranquilo y las lanchas pudieran salir sin inconvenientes. Además, y por decisión del gobierno provincial, no se cobró entrada en el ingreso a Península Valdés, el lugar declarado Patrimonio de la Humanidad y dentro del cual se encuentra Pirámides.
+
+Mirá también: Sorpresa en Copacabana: apareció un tiburón a 20 metros de la costa La ballena Franca Austral llega todos los años a las costas de Chubut para aparearse y parir. Arribaa fines de mayo y permanece hasta mediados de diciembre. Las pariciones se realizan en su mayoría en El Doradillo, un lugar de aguas profundas y rodeados de acantilados queprotegen a las ballenas de los fuertes vientos patagónicos. Allílos ejemplares pueden verse desde la costa. Mirá también la Fotogalería en HD
+
+Mirá también: En el aire: las cosas más insólitas que vieron los pilotos de avión Los avistajes se realizan desde Pirámides en lanchas autorizadas para prestar el servicio. Son el principal atractivo turístico de la provincia de Chubut y cada año lo disfrutan más de cien mil turistas. El 30 por ciento son extranjeros y suelen llegar desde el mes de septiembre, mes de buen tiempo y temperatura elegido también por grupos familiares. Para esta temporada se esperan unos 50 nacimientos.
+

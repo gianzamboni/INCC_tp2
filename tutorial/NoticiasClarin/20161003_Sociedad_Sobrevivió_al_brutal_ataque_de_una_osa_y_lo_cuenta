@@ -1,0 +1,24 @@
+
+"Sí, la vida apesta en el país de los osos". Así --con una mezcla de humor e ironía-- arranca el relato en video de Todd Orr.  "No sé qué (herida) tengo detrás del cuello. Hay pedazos de 'cosas' colgando de mi brazo y mi hombro está quebrado. Pero los órganos internos están bien ", continúa el cazador de Montana, Estados Unidos, que sobrevivió a dos ataques de la misma osa en un lapso de 10 minutos.  Lejos de sucumbir al espanto, el hombre se grabó malherido y subió el video a Facebook. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Una hembra grizzly (una subespecie del oso pardo y la más típica de EE.UU.) es la protagonista de esta historia. Como el propio Orr escribió en otro posteo, durante su caminata en busca de alces por el Valle Madison, se detenía "cada 30 segundos a gritar '¡Hey, oso!', para no sorprender a los osos en el camino".  Mirá también: Una familia criminal detrás de la red de tráfico de animales en Asia Más allá de los avisos audibles, el hombre de 50 años estaba preparado para todo. O, al menos, eso creía. Llevaba una pistola y un spray de gas pimienta, tal como el que usan los aventureros experimentados para repeler a los osos durante las caminatas.  
+
+Pero el encuentro sucedió. Los ojos de la osa, que estaba con su cría, se cruzaron con los de Orr. "Fue justo antes de la salida del sol en Montana, a las 7:26 am", cuenta la víctima. Gritó '¡Hey, oso!", una vez más, pero la osa se dio por aludida y giró en dirección a él.  "Empezó a correr hacia mí. Le grité varias veces para que supiera que era un humano y diera marcha atrás. Pero no tuve suerte", describe. En un acto de supervivencia, el cazador sacó el spray de pimienta y lo descargó por completo. Según Chuck Bartlebaugh, fundador y director del Centro de Vida Silvestre de Montana, "ese spray permite detener a un oso que esté corriendo hacia nosotros a unos 50 kilómetros por hora". Pero el impulso de la osa era irrefrenable. El animal lo tumbó, se subió a su cuerpo y lo atacó con garras y dientes, tal como una hembra que quiere proteger a su cría.
+
+Orr, que no es un novato en el tema, puso los brazos alrededor de su cuello para que el animal no le perforara la yugular. "La fuerza de cada mordida era como un mazazo de dientes", escribió. Y la tortura no tenía fin: "Paraba por unos segundos y volvía a morderme".  El hombre se quedó tumbado allí, en plan de mantener la calma, tal como aconsejan los expertos en momentos críticos como el que le tocó vivir. "Fue una eternidad. Y, a los pocos segundos, la osa desapareció", cuenta el sobreviviente. Pero la pesadilla recién comenzaba.  Mirá también: Los masáis, de cazar leones con lanzas a protegerlos con GPS Quizás la osa lo siguió en su camino hacia su vehículo. O su mala suerte se hizo carne: Orr se encontró de nuevo frente a frente con la bestia.  La hembra lo tiró de espaldas a la tierra y escuchó "el ruido de un hueso que se quebraba". Inmóvil, el hombre también sintió cómo le mordía la cabeza y abría un tajo profundo arriba de su oreja. "Pensé que ere el final", escribió. 
+
+"De repente se detuvo y se quedó encima mío. Nunca me olvidaré ese breve momento. Era el silencio de la muerte, Excepto por el sonido de su respiración pesada. Podía sentir y escuchar su aliento en mi nuca. Podía sentir sus garras delanteras clavándose en mi espalda debajo de mi mochila. Durante treinta segundos se quedó allí aplastándome. No me moví", detalló Orr. Luego de que el animal le perdonara la vida por segunda vez, el cazador llegó hasta su vehículo. Grabó el video --que ya supera las 20 millones de visualizaciones-- y manejó hasta el Ennis Hospital. Permaneció 8 horas en el quirófano, recibiendo múltiples suturas. "No fue mi mejor día, pero estoy vivo", concluyó. Al momento de publicación de esta nota, el Departamento de Pesca, Vida Silvestre y Parques de Montana no emitió comunicado alguno sobre si tomará medidas preventivas para quienes caminen por el Valle de Madison.  ​ 

@@ -1,0 +1,18 @@
+
+Una protesta de vecinos durante el acto que encabezó el presidente Mauricio Macri, en Rosario por el Día de la Bandera, terminó con enfrentamientos y un concejal del Frente para la Victoria herido. La "Multisectorial contra los Tarifazos de Rosario", que nuclea a movimientos políticos afines al kirchnerismo, comerciales y organizaciones sociales, se movilizó esta mañana para protestar "contra el hambre y los despidos", en medio de un fuerte operativo de Gendarmería para cuidar las inmediaciones del lugar. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/EMeraviglia/status/744919573594537984",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_74491957359453798")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Leé también: Macri llamó a "trabajar juntos para derrotar el narcotráfico" Los manifestantes, que desde temprano concentraron en la Plaza Pringles para marchar hacia el acto, se toparon con un vallado de Gendarmería. Allí, se produjeron disturbios, que finalizaron con algunos heridos entre los que se encuentra Eduardo Toniolli, concejal del FpV, con un corte en la cabeza. Los incidentes se produjeron en la intersección de las calles Laprida y Rioja, la organización intentaba llegar hasta la Plaza 25 de Mayo, donde se llevó adelante el acto central por la fecha patria, que encabezó el Presidente.

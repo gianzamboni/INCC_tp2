@@ -1,0 +1,30 @@
+
+Unos 16 millones de toneladas de alimentos se desperdician por año en Argentina. La cifra equivale a más de 87 millones de platos de comida por día, que van a parar a la basura. Para evitarlo, acaban de lanzar una campaña, que incluye un manual de consejos para que los consumidores desperdicien menos comida.  Mirá también: Según FAO, Argentina puede sumar 6,9 millones de hectáreas bajo riego 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Esos 16 millones de toneladas que se desperdician "podrían terminar con el hambre en nuestro país", dimensiona Natascha Hinsch, directora ejecutiva de la Red Argentina de Bancos de Alimentos, en diálogo con Clarín. Según datos del INDEC el 32% de la población es pobre y el Observatorio de la Deuda Social arroja que el 19,5% de los niños y adolescentes en el país padecieron inseguridad alimentaria en 2015. "Para empezar a revertir esta barbaridad es necesario que cada uno de nosotros tome conciencia de la magnitud del problema y empecemos a reducir el desperdicio en nuestros hogares", sostiene Hinsch. En este contexto, el Ministerio de Agroindustria de la Nación, la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), junto a las firmas Unilever y Carrefour, impulsan la campaña #NoTiresComida, para llegar de forma directa a los consumidores y dar visibilidad a la problemática.
+
+ Como parte de la campaña, difundirán en 588 supermercados un manual con consejos para planificar las compras, la preparación de la comida y guardar lo que sobra para no tirarla. También es fundamental chequear las fechas de vencimiento (Ver consejos debajo). Las consignas son simples: "Si no vas a comer el pan, no te lo sirvas. Si no vas a comer ensalada, no te sirvas el doble", explica un video de la FAO. Con esto buscan generar un cambio de hábitos, que se lleve a la práctica de manera permanente y durante mucho tiempo.
+
+ Consultada por este medio, Mercedes Nimo, Subsecretaria de Alimentos y Bebidas en el Ministerio de Agroindustria de la Nación, explica que, además de concientizar al consumidor, se trabaja con las cadenas de valor. "La mayor cantidad de pérdidas se da a lo largo de todos los procesos productivos: en las fábricas, en los mercados concentradores, en la poscosecha de las frutas y hortalizas. Igualmente, todo el desperdicio que hay en los hogares también es muy importante", describe. Mirá también: “Debemos comunicar la agricultura basada en la biotecnología”
+
+ Cada año 1.300 millones de toneladas de alimentos son desechados en el mundo, es decir que un tercio de lo que se produce nunca llega a un plato. Esto tiene un gran impacto sobre el ambiente, porque se está desperdiciando agua, suelo, energía, mano de obra, combustibles, dinero, entre otros recursos. Incluso, desde la FAO aseguran que disminuir la pérdida de comida ayuda a combatir el cambio climático.
+
+ En el marco de la campaña, presentaron un proyecto de ley para crear el “Día Nacional de la Lucha contra la pérdida y desperdicio de alimentos”, que se discutirá en el Congreso de la Nación. La fecha elegida es el 29 de septiembre, porque ese día se hizo en 2015 el primer encuentro regional de América Latina y el Caribe sobre este tema. El proyecto sería pionero en su estilo, ya que Mercedes Nimo sostiene que "no tienen conocimiento" de ninguno similar. Y describe: "Ese día, todos los focos estarán puestos en concientizar a la gente sobre la importancia que tiene no desperdiciar alimentos, no tirarlos y cuidarlos bien". Mirá también: El director de hospital récord ahora quiere combatir el hambre en el mundo
+
+Consejos para no desperdiciar en casa  1) Planificá las compras. Diseñá el menú semanal con anticipación, en base a cinco comidas diarias. Armá la lista de compras en base a tu planificación. En el punto de venta, hacé un recorrido inteligente: empezá por los artículos de limpieza y perfumería, después los alimentos secos y no perecederos (fideos, harinas, aceites), luego los frescos o perecederos (frutas y verduras) y al final los refrigerados o congelados (lácteos, carnes).  2) Organizá tus comidas. Utilizá las cantidades justas de ingredientes para el número de comensales que tengas. Al cocinar, sacá los ingredientes que vas a necesitar, preparalos con antelación y ajustá según las cantidades que indique la receta. Mantené ordenada la heladera para evitar que queden residuos de comida y alimentos estropeados. En la alacena, usá el sistema “primero en entrar, primero en salir” para empezar por los productos más antiguos.
+
+ 3) Evitá tirar las sobras. Para bajar la temperatura de las sobras usá el baño María inverso (sumergir el recipiente con las sobras en otro recipiente con agua y hielo). Guardalas lo más rápido posible en recipientes con tapa o bolsas herméticas. Las de la heladera debés consumirlas durante los dos días siguientes y las del freezer dentro de los tres meses. Nunca vuelvas a congelar las sobras descongeladas. Mirá también: Denuncian que casi no habrá  fondos para cuidar a los bosques

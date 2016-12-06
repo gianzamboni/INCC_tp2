@@ -1,0 +1,20 @@
+
+Más dolores de cabeza para el intendente de Lanús, Néstor Grindetti. El fiscal federal Patricio Evers pidió investigar hoy al ex ministro de Hacienda porteño por presunto enriquecimiento ilícito a raíz de su participación en empresas offshore descubiertas a partir de la investigación periodística internacional conocida como Panama Papers. Según se indicó, el fiscal solicitó librar exhortos a Suiza y Panamá por los poderes que tenía Grindetti. Mirá también: Grindetti rompió el silencio sobre los "Panamá Papers" La presencia de Grindetti en documentos filtrados de la firma Mossack Fonseca, revelados por el diario La Nación y Canal 13 en el marco de un convenio con el Consorcio Internacional de Periodistas ICIJ, sacudieron la figura del econocmista, que fue directivo de la firma SOCMA, perteneciente a la familia Macri, y luego migró al PRO como funcionario del actual presidente. El actual jefe comunal de Lanús no puso en su declaración jurada la cuenta suiza ni las acciones de la firma Mercier International, que son al portador, la forma de ocultar a los verdaderos dueños. Sin embargo, en 2013 Mercier International no le renovó su poder especial a Grindetti. Mirá también: El intendente Grindetti habló de su empresa off shore “Creo que es claro, ahí no hay ningún tipo de cuestión controversial. Se trata de una sociedad que no ha tenido ninguna actividad y por eso no ha sido registrada (en las declaraciones juradas)", se defendió el intendente al dar su versión de los hechos. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Grindetti explicó que "para los entendidos queda claro, obviamente para los que no lo son hay que explicarlo un poquito más, pero sencillamente es una empresa que no ha tenido actividad, no ha nacido, nunca se ejerció ningún tipo de actividad y por eso no ha sido declarada". "Esta es la más pura de las verdades y esto vamos a estar declarando si tenemos que hacer algún tipo de declaración formal”, indicó el 7 de abril pasado al programa “Lanús Escucha”, que emite el Municipio por FM Espacio. Mirá también: Intendentes del PRO dieron su apoyo a Grindetti A fines de abril, el intendente del PRO había protagonizado otra historia con ribetes judiciales cuando comenzó a circular una imagen en la que se lo veía en la lista de "Más buscados" de Interpol, por una causa en Brasil. Según explicaron en su momento fuentes de Gobierno, esa circular roja ya había sido dada de baja y se mantenía en la página por un tema administrativo.
+
+El intendente tenía pedido de captura y una prisión preventiva dictada en 2012. No obstante, asistió al Mundial de fútbol de Brasil sin inconvenientes porque –de acuerdo con sus dichos– la orden no tenía vigencia. 

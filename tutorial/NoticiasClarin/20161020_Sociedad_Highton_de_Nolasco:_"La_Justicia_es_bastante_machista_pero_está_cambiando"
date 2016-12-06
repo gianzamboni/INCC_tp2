@@ -1,0 +1,19 @@
+
+La vicepresidenta de la Corte Suprema de Justicia, Elena Highton de Nolasco, enfatizó hoy que "es fundamental la concientización que traen las marchas" de "Ni una menos" en la lucha contra la violencia de género y remarcó que "el machismo no es cosa del pasado, es algo actual". También consideró que la Justicia es "bastante" machista. "Ayer fue un día trágico, pero me dio aliento que tanta gente saliera. Aun las que no fueron a la marcha, estaban todas vestidas de negro", destacó la jueza tras la masiva movilización, que se realizó tras el primer paro nacional de mujeres. Mirá también: Las mujeres tomaron la calle bajo la lluvia para ponerle freno a la violencia machista 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En diálogo con radio La Red, la ministra de la Corte Suprema reiteró que la Justicia es "bastante" machista, pero valoró que "de a poco está cambiando". En este sentido, remarcó que "la Justicia es parte de la sociedad, así que vamos cambiando despacito" e hizo hincapié en que "lamentablemente también hay mujeres machistas, y a veces más que los hombres". Mirá también: Denise Dumas se largó a llorar en un móvil "La concientización que traen estas marchas es fundamental. La mujer que sea tratada con mínima violencia tiene que denunciar, no se la tiene que aguantar pensando que esto va a pasar, va a cambiar. Al contrario, va creciendo y creciendo hasta que termina en esto tan terrible, que es el femicidio", expresó. Para Highton de Nolasco "toda violencia es un aprovechamiento de cobardía, del fuerte contra el vulnerable y esto especialmente se ve en esta violencia de género", y detalló que "el 80 por ciento de casos de violencia doméstica es contra la mujeres, pero también hay violencia contra los ancianos y contra los más vulnerables". Mirá también: Paro en las oficinas: de negro, ellas salieron
+al mediodía a protestar La magistrada subrayó que "el machismo no es cosa del pasado, es algo actual", a la vez que valoró que "'Ni una menos' es una realidad que está trabajando todo el país". "Este es un mal del mundo. Todo el mundo tiene violencia de género, hasta los países más civilizados. No es problema de Latinoamérica, de pobres o de marginales, es de todos", sentenció. Consultada sobre los condenados por episodios de violencia de género que recuperan la libertad, respondió que "hay que atenerse a la ley, no se puede dejar preso a alguien de por vida", por lo que concluyó que "puede ser que cuando a uno le pasa, quiere que la persona esté tras la rejas toda la vida".  

@@ -1,0 +1,88 @@
+
+El debate en el Senado, que hoy tratará la obligatoriedad de los debates presidenciales, comenzó con durísimos cruces entre los senadores de Formosa por las declaraciones del radical Luis Naidenoff que habló de la provincia como un narcoestado. Todo a raíz de sus palabras por la detención de un familiar del gobernador Gildo Insfrán por narcotráfico, que fueron repudiadas por la legislatura provincial, controlada por el eterno mandatario.   El senador de Cambiemos pidió una cuestión de privilegio y sostuvo que la resolución de la legislatura provincial en contra suya “vulnera groseramente mi libertad de opinión consagrada en la Constitución Nacional”.   Naidenoff sostuvo que apeló a la palabra “narcoestado” para hablar de Formosa, su provincia, debido no solo a la detención del esposo de una sobrina de Insfrán, Javier Avalos, dueño de un camión en el que hallaron 2.500 kilos de marihuana camuflados en una carga de zapatillos, sino también a los numerosos episodios registrados en otras oportunidades. Mirá también: Detuvieron al familiar de Insfrán por el camión con los 2.500 kilos de marihuana   "No es la primera vez que en mi provincia se vinculan hombres y mujeres del poder político con el narcotráfico", sostuvo el senador radical. “En todos estos hechos, salvo dos excepciones que coinciden con el cambio de gobierno nacional, la actitud del gobierno provincial fue silencio, complicidad y premio. Por eso hablé de narco Estado. Puede sonar fuerte, pero hay un límite que tiene que ver con el ejercicio de la función que uno tiene con la función nacional”,sentenció.   En ese sentido, Naidenoff contó que fue víctima de un episodio de censura, cuando días atrás se le impidió ingresar a Canal 11 en su provincia, junto a Walter Ceballos, funcionario del ministerio de Defensa, también de extracción radical. “Pueden ingresar todos menos (Luis) Naidenoff”, lo frenaron a fines de octubre en el canal estatal de Formosa. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/luisnaidenoff/status/792098357481201664",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79209835748120166")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ “Esta es la consecuencia de denunciar la complicidad con el narcotráfico en Formosa”, denunció. "Cuando hay funcionarios vinculados al negocio de la droga no hay términos medios: o la sanción o la complicidad", concluyó. Mirá también: Gildo, la película Tras su intervención, los senadores del Frente para la Victoria que responden a Insfrán, que gobierna la provincia desde 1995. Primero lo cruzó José Mayans: “Quienes dicen que Formosa es un narcoestado están totalmente pasados en su visión de lo que es la provincia".
+
+  “Si llegase a haber una zona liberada es porque la libera gendarmería, prefectura o las fuerzas federales y no el gobernador", lanzó el senador K, desligando del tema al gobernador Gildo Insfrán y responsabilizando al Gobierno Nacional. Mirá también: Funcionario narco: uno de sus hijos "le abría" la frontera para entrar la droga desde Paraguay Para Mayans, las acusaciones de que Formosa se convirtió en un “narcoestado” forman parte de una ”campaña sucia” que se instala porque vienen las elecciones legislativas en pocos meses.  "No hace falta estar manchando a personas honorables para ganar un voto más, no se puede hacer eso", agregó el dirigente. 
+
+
+"La actitud [ante el narco] del gobierno provincial fue silencio, complicidad y premio", dijo Naidenoff.
+
+
+
+
+
+var act_850 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_850 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_850.setTitle('"La actitud [ante el narco] del gobierno provincial fue silencio, complicidad y premio", dijo Naidenoff.');
+act_850.setSubtitle('Narcozapallitos'); 
+act_850.setLinkBack('http://www.clarin.com/politica/Fuerte-Senado-Formosa-Insfran-narcotrafico_0_1679832114.html');
+act_850.setDescription('El radical Naidenoff pidió una cuestión de privilegio para denunciar que fue censurado en un canal de TV provincial por hablar del familiar del gobernador detenido con marihuana. ');
+act_850.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Fuerte-Senado-Formosa-Insfran-narcotrafico_0_1679832114.html');
+
+var showShareBarUI_params_850=
+{ 
+containerID: 'shareQuote_850',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_850,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_850
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_850);
+   En la discusión terció la senadora María De la Rosa. "Estamos cansados de que desde algunos medio periodísticos se agravie gratuitamente a los formoseños", dijo.
+
+  En tanto, en Diputados, un grupo de legisladores de Cambiemos presentó un proyecto repudiando la censura contra Naidenoff en canal 11 de Formosa.   La diputada Karina Banfi enfatizó que “este no es un caso aislado, es un ejemplo más de la política del gobernador Insfrán para censurar y silenciar lo que sucede en Formosa”. Y agregó, "no solo se vulneró la libertad de opinión del legislador, sino que se violó el acceso a la información de la ciudadanía que implica el derecho a conocer opiniones y visiones acerca de las cuestiones públicas". El proyecto de repudio, además de la firma de Banfi, fue acompañado por los diputados Martín Hernández (UCR-Cambiemos), Alicia Besada (PRO- Cambiemos), José Luis Patiño (PRO-Cambiemos), Cornelia Schmidt Liermann (PRO- Cambiemos), Fernando Sánchez (Coalición Cívica - Cambiemos), Stella Maris Huczak (PRO- Cambiemos).   

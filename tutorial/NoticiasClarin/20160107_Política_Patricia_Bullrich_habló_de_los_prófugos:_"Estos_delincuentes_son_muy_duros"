@@ -1,0 +1,143 @@
+
+La ministra de Seguridad de la Nación habló del operativo de captura de los prófugos del penal de General Alvear, que esta manñana se tirotearon con agentes de Gendarmería. "Estos delincuentes son muy duros", expresó. Leé también: Paso a paso, la persecusión y las balaceras de los Lanatta y Schillaci en la rutaLuego de un tiroteo cerca de la localidad de San Carlos, toda la atención se concentró en las rutas de esa provincia y se montó un megaoperativo con fuerzas de la Gendarmería Nacional y la policía santafesina. Fuentes oficiales afirmaron a Clarín que en un "99% se trata de los Lanatta y Schillaci", los condenados del triple Crimen de General Rodríguez.  Patricia Bullrich tenía esta mañana un acto para poner en funciones a la nueva cúpula de la Gendarmería pero las novedades del caso (con un saldo de dos gendarmes heridos) llevó a la funcionaria de Mauricio Macri a suspender la actividad oficial en La Matanza y subirse a un helicóptero junto al secretario de Seguridad de la Nación, Eugenio Burzaco. Tiroteos en Santa Fe: uno de los gendarmes heridos está graveBurzaco ayer participó del allanamiento a una casa quinta de la localidad de Chascomús, donde los prófugos estuvieron alojados al menos 48 horas, en el que se detuvo a dos personas. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160106_0033 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160106_0033_071";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Allanamientos en Chascomús por la fuga.',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/06/VID/CLAVID20160106_0033/video_web.flv",
+        image: "http://images.clarin.com/policiales/Allanamientos-Chascomus-fuga_CLAVID20160106_0033_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160106_0033',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/06/VID/CLAVID20160106_0033/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/10216/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/policiales/Allanamientos-Chascomus-fuga_3_1499280090.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160106_0033.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160106_0033){
+            //getBBTStats_CLAVID20160106_0033();
+            varModIdReprod_CLAVID20160106_0033 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+Los operativos de auer fueron ordenados por el fiscal Mariano. En los mismos quedó demorado un comerciante de 50 años de apellido Lorenzetti, muy conocido en la zona, quien les habría prestado una quinta a los tres prófugos. "El detenido los alojó", sentenció Burzaco. El tiroteo de hoy en Santa Fe no es el primero que protagonizan los Lanatta. El 31 de diciembre pasado, cerca de Ranchos, provincia de Buenos Aires, los prófugos detuvieron su vehículo en un control de tránsito cuando dos oficiales les hicieron señas de luces por exceso de velocidad.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Apenas bajaron de una camioneta, comenzó una balacera contra los efectivos de seguridad que, como estaba levantando el retén porque su turno concluía, fueron sorprendidos por la violenta reacción de los delincuentes. Lucrecia Yudati y Fernando Pengsawath se lanzaron a un costado de la ruta en medio de una lluvia de balas: Yudati está fuera de peligro, pero Pengsawath sigue en estado reservado. 

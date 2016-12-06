@@ -1,0 +1,22 @@
+
+ Miles de fieles participan de la tradicional peregrinación a Luján, que este año tiene como foco central la "fraternidad entre los argentinos". La columna principal, como es habitual, partió a las 12 desde el santuario de San Cayetano, en Liniers.  La peregrinación se realiza bajo el lema "Madre, danos tu mirada para vivir como hermanos". En esta oportunidad, se busca acercar a nuevos participantes. "Esta es una invitación especial para aquellos que no fueron nunca a Luján. Me gustaría que intenten, que se organicen con un amigo, con una amiga. No hace falta mucho para ir caminando: un bolsito, algún sandwich. Y encontrarse con un pueblo que está en marcha y busca, en torno a la fe, la fraternidad que buscamos los argentinos", sostuvo el cardenal Mario Poli.
+
+ "No hace falta pertenecer a una parroquia, a un movimiento o una capilla. Bastaría con que vengan, nada más. Hay muchos jóvenes que no están ni bautizados y quieren a la Virgen. Bueno, que ellos también se sientan comprometidos para venir. La Virgen nos quiere a todos, es Madre", aseguró en un videomensaje. Mirá también: Peregrinación a Luján 2016: El recorrido de los fieles y las claves de la jornada  Los peregrinos, tras partir desde Liniers, esperan llegar alrededor de las 6 del domingo a la Plaza Belgrano, frente a la Basílica, donde una hora después el purpurado presidirá la misa. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_q2l619ss",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_q2l619ss"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_q2l619ss").after(scriptEl);
+  Este año, las alternativas de la peregrinación juvenil podrán seguirse a través de las redes sociales: @LaPereLujan en Twitter, en la página de Facebook Peregrinación Juvenil Luján y en Instagram, @LaPereLujan.  El presbítero Juan Bautista Xatruch, responsable de la Peregrinación a Luján para la Comisión Arquidiocesana de Piedad Popular, destacó que más de 4.000 voluntarios prestarán asistencia a los peregrinos en los 80 puestos sanitarios dispuestos a lo largo del camino.  El sacerdote indicó que este año, además del gesto de entregar un alimento no perecedero, se invita a rezar un Avemaría por la patria a cada hora y a llevar una vela para encender el domingo, a la hora cero, "para iluminar el camino" hacia la Virgen. La Cruz Roja Argentina informó que más de 300 integrantes de esa organización, distribuidos en 10 puestos sanitarios, brindarán cobertura de primeros auxilios a los peregrinos a lo largo del recorrido durante 24 horas. La empresa AySA anunció, por su parte, que dispondrá un operativo especial de asistencia, con 12 camiones cisterna y un grupo electrógeno, a fin de brindar agua potable a los caminantes en los puestos sanitarios instalados desde Morón hasta Francisco Alvarez.

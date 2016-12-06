@@ -1,0 +1,18 @@
+
+La ex presidenta Cristina Kirchner se refirió al acto de ayer que encabezaron las centrales obreras contra la política económica del Gobierno y dijo "estar muy contenta" por una"jornada tan maravillosa". La ex jefa de Estado, que supo cuestionar duramente a los líderes sindicales que adoptaban medidas de fuerza contra su gestión, se comunicó con artistas K durante un evento realizado en el Teatro Roma de Avellaneda y no dejó pasar la oportunidad para mostrar su satisfacción por el acto. "¡Qué jornada la de hoy, tan maravillosa! Estoy muy contenta", dijo al contar que siguió por televisión la marcha. Fue la propia Cristina que luego subió a su Facebook el video que registra la comunicación telefónica. Allí, apuntó: "Qué jornada tan maravillosa. Apenas entrado el día parte de la Patria salió otra vez a las calles con la forma de trabajadores, operarios, gente suelta, una Patria que quiere futuro. Y apenas entrada la noche tenemos Patria, pero en Avellaneda", dijo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Del otro lado de la línea estaba la actriz Rita Cortese y varios artistas identificados con el kirchnerismo con los que la ex mandataria se reunió en su regreso a Buenos Aires, en virtud de su declaración indagatoria ante el juez Claudio Bonadio por la causa del dólar futuro.  Fue anoche en el teatro Roma, de Avellaneda: en el lanzamiento del ciclo "La Patria en textos y canciones", auspiciado por el Instituto PATRIA, la flamante fundación que nuclea al kirchnerismo desde que dejó el poder, estuvieron algunos referentes cristinistas, como el ex titular de la AFI Oscar Parrilli, la ex ministra de Cultura Teresa Parodi y los dirigentes de Nuevo Encuentro Martín Sabbatella y Gabriela Cerruti.

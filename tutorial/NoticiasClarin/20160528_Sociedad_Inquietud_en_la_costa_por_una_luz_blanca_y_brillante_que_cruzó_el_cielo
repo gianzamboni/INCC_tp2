@@ -1,0 +1,70 @@
+
+El intendente de Pinamar ya se está acostumbrando a mirar al cielo como medida de Gobierno. Es que el joven Martín Yeza este sábado volvió a sorprenderse con una extraño objeto en el espacio visible desde la tierra, luego de que hace diez días toda la zona se asustara con la caída de un bólido en el mar.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/martinyeza/status/736548656455770112",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73654865645577011")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ La "luz blanca" sorprendió no sólo a los pinamarenses sino a los habitantes de distintas ciudades de la costa atlántica, como Villa Gesell, Mar del Plata y Miramar. Mirá también: Buscan si quedaron rastros del objeto que cayó del cielo en Pinamar Fernando Sánchez Montero, educador astrónomo, sostuvo en diálogo con Télam que "cerca de las 7:15, muchos marplatenses se sorprendieron con la presencia de una extraña luz blanca muy brillante que circulaba por el cielo". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/1990abm/status/736513096815149056",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73651309681514905")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Leoyancaan/status/736514527597060096",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73651452759706009")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Montero afirmó, también, que "se trató de un fenómeno extraño, muy brillante, poco natural, que realizaba movimientos lentos y continuos, que pudo ser observado por miles de personas a lo largo de varios minutos". Sin embargo, luego del primer momento de desconcierto general ante el objeto volador no identificado, el mismo Yeza difundió la idea más probable: la mancha blanca se trataría de un globo de la NASA. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/martinyeza/status/736548885808713729",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73654888580871372")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Efectivamente, hace once días la NASA lanzó con éxito un globo de superpresión que está intentando hacer un viaje récord alrededor del mundo. Y hoy cruzó la provincia de Buenos Aires de oeste a este.
+
+ La NASA ya había advertido que el globo sería visible desde tierra, especialmente durante el amanecer y el atardecer, y en países del hemisferio sur como Argentina y Sudáfrica.
+
+ El propósito del viaje del globo es evaluar y validar la tecnología de superpresión para estudiar si pueden hacer viajes de más de cien días. El récord actual de este tipo de globos es de vuelos de 54 días. Mirá también: La NASA prueba un nuevo habitáculo inflable en la Estación Espacial Internacional El artefacto mide 532.000 metros cúbicos, lleva un espectrómetro y un telescopio de rayos gama, e inicialmente había logrado una altura de vuelo operativo de 33,5 kilómetros.

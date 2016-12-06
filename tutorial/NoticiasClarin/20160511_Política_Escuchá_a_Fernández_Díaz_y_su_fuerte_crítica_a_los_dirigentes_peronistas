@@ -1,0 +1,18 @@
+
+El periodista Jorge Fernández Díaz arremetió con dureza contra varios dirigentes peronistas en su programa Pensándolo Bien, que va de lunes a viernes a las 20 por Radio Mitre.  Fernández Díaz criticó la carta que los 54 intendentes peronistas de la provincia de Buenos Aires le enviaron el lunes a la gobernadora María Eugenia Vidal para pedirle más policías, por el avance del narcotráfico y los hechos delictivos violentos en ese territorio. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ “Los 54 intendente peronistas de la provincia de Buenos Aires le escribieron ayer (por el lunes) una carta a la gobernadora Vidal para expresarle su preocupación por el aumento del narcotráfico. Para requerirle de manera urgente más presencia policial. Esto ya es surrealismo, el estado de máxima pureza. Los barones del Frente para la Victoria están profundamente preocupados por la inseguridad y los narcos. Son los mismos personajes que manejaron durante décadas la provincia de Buenos Aires y acompañaron y sostuvieron el proyecto catastrófico que fundió a la administración publica, le entregó la mafia a la policía, fracasó de manera rotunda con su política de seguridad y además permitió, algo que la historia solo puede juzgar, que entrara el narcotráfico como nunca se había visto en el país, a niveles alarmantes. Es genial”, comenzó.  “El partido que fracasó y perdió su bastión histórico, la zona donde más pobres y narcos hay por metro cuadro, la fuerza política que llevó como candidato a Aníbal Fernández y fue castigada sin piedad en las urnas por los bonaerenses, precisamente a raíz por su tolerancia al tráfico de drogas y la masividad de los delitos peligrosos, los grandes culpables de este desastre, tienen hoy el tupé de fotografiarse juntos y mostrarse indignados por los flagelos que ellos mismos permitieron durante años de gestión turbia. Es el peronismo, amigos, con su mismo susurro de siempre. 'Sin nosotros no se puede gobernar', agregó.  También hubo críticas para el jefe de la UOM, Alberto Caló, y para el senador Miguel Ángel Pichetto, por la ley antidespidos. “El señor Caló, señor Caló, que hasta ayer nomás era un carnero de Cristina, es hoy un combatiente de primera fila. Un intransigente de las siete suelas. Y el señor Pichetto, que se cansó de doblarse ante la más ridículas y peligrosas iniciativas autoritarias de su reina, el pobre senador que no podía pensar por su cuenta, ahora está hecho un gladiador durísimo que pretende hacer hocicar sí o sí al gobierno constitucional. Para que aprendan quién manda en la Argentina.  “Al gobierno no le queda otra que mostrar los dientes y luego tender la mano. Porque a pesar de las cobardías e hipocresías, el peronismo no puede ser obviado. Tiene representación parlamentaria y territorial”, cerró. 

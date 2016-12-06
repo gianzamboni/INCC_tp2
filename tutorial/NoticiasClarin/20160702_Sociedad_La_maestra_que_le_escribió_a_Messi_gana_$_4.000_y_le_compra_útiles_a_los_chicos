@@ -1,0 +1,18 @@
+
+Su carta a Lionel Messi tras su anuncio de su retiro de la Selección le generó una exposición impensada. Yohana Fucks, la maestra que hace dedo para viajar todos los días 100 kilómetros hasta la escuela Filiberto Reula, en el barrio Lomas del Mirador en Paraná, Entre Ríos, estuvo ayer en el programa Intratables y contó que con lo que cobra de manos del Estado no llega a $ 4.000 en blanco. "Apenas llego a los 9 mil con trabajos en negro. Y hay miles de maestras en mi situación", agregó. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+  Fucks, que se recibió hace cinco años de maestra, habló también de la zona donde trabaja, "un lugar estigmatizado por la droga , la delincuencia y la muerte", pero ella estimula a sus alumnos para que sientan que otro futuro es posible. También se asombra porque, como dice: "Hemos hecho protestas por salario, transportes, comedores y por el narcotráfico en el barrio donde doy clases y llegué acá por Messi". En esa línea, reconoció que la mediatización de la carta tuvo como objetivo que se conozca la precaria situación en la que viven y van a estudiar sus alumnos.  Mirá también: Habló la maestra de la conmovedora carta a Messi: "Que afronte una presión mayor" "Utilicé los medios para eso, para mostrar la realidad de mis alumnos. Estando acá, pensaba que mis alumnos no tienen cloacas, zapatillas, no tiene comida. Ni para comprar un cuaderno", señaló Fucks y contó que junto a sus compañeras utilizan los viáticos que reciben para comprar útiles para los chicos.   Consultada sobre las causas de la deserción escolar, ella mencionó la situación de precariedad que viven los alumnos. "Tenemos alumnos que durante una semana no vienen al colegio porque no tienen zapatillas", detalló y contó que hacen una colecta entre los familiares de cada maestra para conseguirles calzado a sus estudiantes. "Buscamos, pedimos, siempre hay un hermano que creció y no las usa más". La maestra mencionó que es la primera vez que visita la Ciudad Buenos Aires. La repercusión de la carta no sólo logró su presencia en los medios argentinos, también le hicieron entrevistas desde España, México y los Estados Unidos.

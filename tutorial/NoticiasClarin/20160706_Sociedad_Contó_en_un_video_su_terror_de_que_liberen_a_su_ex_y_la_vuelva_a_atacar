@@ -1,0 +1,18 @@
+
+Luciana Romero vive una verdadera pesadilla. La misma que se multiplica por miles en el país: la de una ex pareja que la acosa y la agrede. En el último episodio de violencia que sufrió, el hombre la apuñaló. Mirá también: Mató a su mujer, quiso fingir un suicidio y lo condenaron a perpetua  Para evitar la agresión, no alcanzó con la presencia del padre de Luciana, que la acompaña desde que ella es amenazada y perseguida por su ex. Mientras se recupera de las heridas sufridas en el ataque, Luciana está aterrorizada porque teme que el agresor, que está detenido, recupere la libertad en pocos días. Mirá también: Indice de violencia de género: ya respondieron 40 mil mujeres  En un video difundido, entre otros medios, por Diario Chaco, la mujer muestra su angustia y su impotencia, ya que, a pesar de haber tomado todas las medidas a su alcance, no logró detener la violencia que sufre. "Hice todo lo que se podía hacer y todo lo que tenía que hacer, en la comisaría y en el Juzgado...”, dice Luciana, desesperada,   Fue apuñalada el viernes 1 de julio en la esquina de la avenida 9 de Julio y calle 1, de Resistencia, Chaco, en la puerta del Hogar Teresa de Calcuta. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Luciana tiene con su ex pareja una hija de tres años y, tras una convivencia de nueve años, hace tres meses que decidió separarse para dejar de sufrir violencia verbal y golpes. Mirá también: Hallaron descuartizada a la joven fueguina buscada hace 10 días  El viernes, según relató la mujer, mientras volvía de su trabajo junto a su padre en auto, su ex marido los chocó con el suyo y cuando ella se bajó el hombre la atacó a puñaladas. Su padre intervino y la mujer logró escapar y refugiarse con heridas múltiples en su rostro, cuello y tórax.  Por la constante persecución de su ex pareja, la mujer se mueve permanentemente acompañada y debió cambiar de jardín a su hija. El hombre la llama, se acerca a la casa donde vive, la espera a la salida del trabajo y la amenaza. Mirá también: Al menos dos de cada 10 mujeres asesinadas había denunciado a su agresor  Ahora Luciana teme que su agresor recupere la libertad y la vuelva a atacar. Tras la difusión de su caso, la Justicia le entregó un botón antipánico. Y el fiscal del caso le dijo que haría lo posible para que el agresor esperara el juicio detenido.

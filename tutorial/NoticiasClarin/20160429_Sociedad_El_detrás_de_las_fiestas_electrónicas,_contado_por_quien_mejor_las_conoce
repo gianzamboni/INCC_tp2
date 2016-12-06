@@ -1,0 +1,136 @@
+
+Enzo Maqueira (38) es el autor de "Electrónica", novela que va por su tercera edición. Para crear a sus personajes ficticios, los clubbers -jóvenes de clase media universitaria que asisten a los boliches de música electrónica- realizó una investigación empírica sobre la movida techno y el consumo de éxtasis (la tapa del libro es una sugerente boca con una pastilla en la lengua). Dos años después de su "estudio", y desde el epicentro del sismo que las cinco muertes de la Time Warp provocaron en la noche electrónica de Buenos Aires, revela a Clarín qué hay detrás de quienes usan lentes de sol en plena oscuridad y asisten a boliches que son "templos para entrar en éxtasis". Mirá también: Prohiben todas las fiestas en la Ciudad de Buenos Aires "Prohibir las fiestas electrónicas va a hacer que haya más fiestas privadas en casas. Ya pasa todos los fines de semana. Donde hay escaleras, puertas cerradas y la posibilidad de una tragedia es mucho mayor que en lugares mal controlados pero medianamente controlados", opina Maqueira sobre la veda que decretó el Gobierno porteño luego de la tragedia del 15 de abril en Costa Salguero. Y señala: "es la medida más simplista y, al mismo tiempo, más estúpida que se pueda implementar. Nunca que se prohibió algo sirvió. En este caso no solo se va a seguir haciendo si no en un marco de aún mayor desprotección que en la Time Warp". 
+
+
+Hay dealers que tratan de entrar a un boliche donde no son bienvenidos porque allí tienen su propio circuito de dealers
+
+
+
+
+
+var act_241 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_241 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_241.setTitle('Hay dealers que tratan de entrar a un boliche donde no son bienvenidos porque allí tienen su propio circuito de dealers');
+act_241.setSubtitle('A dos semanas de la tragedia en Costa Salguero'); 
+act_241.setLinkBack('http://www.clarin.com/sociedad/detras-fiestas-electronicas-contado-conoce_0_1562843870.html');
+act_241.setDescription('Enzo Maqueira investig&oacute; la movida techno para escribir una novela que lo volvi&oacute; famoso. Prob&oacute; coca&iacute;na, alucin&oacute;genos y otras drogas y cont&oacute; todo desde su propia experiencia &quot;electr&oacute;nica&quot;.&nbsp;');
+act_241.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/detras-fiestas-electronicas-contado-conoce_0_1562843870.html');
+
+var showShareBarUI_params_241=
+{ 
+containerID: 'shareQuote_241',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_241,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_241
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_241);
+ Mirá también: "Nunca me sentí un adicto, pero quizás lo fui"
+
+Tapa de "Electrónica" (Interzona). Va por su tercera edición. "Vi dueños de boliches que veían frente a sus narices que se estaban consumiendo drogas. También vi a la gente de seguridad sacando a los dealers. Pero vi, muchísimas veces, venta de drogas en medio del boliche, frente a los patovicas, y no se sacó a nadie. Hay dealers que trabajan para el boliche o que paran en ese boliche y tienen algún tipo de arreglo y otros que tratan de entrar a un boliche donde no son bienvenidos porque allí tienen su propio circuito de dealers", detalla el autor y compara esa "mafia química" con la de los taxis de Ezeiza, "donde no todos los autos tienen derecho a levantar pasajeros". Mirá también: Confesiones de un dealer: "A los chicos los podés estafar con basura" Junto al sociólogo José María Casco, Maqueira escribió para la revista Anfibia la crónica "La vieja felicidad del éxtasis" y puso en palabras qué es el nigstamo: "el movimiento involuntario (y descontrolado) de los ojos por culpa del éxtasis". Ese reflejo "buchón" del consumo de MDMA (3,4-metilendioximetanfetamina), la sustancia del éxtasis, hace que los clubbers- además de proteger sus pupilas dilatas de la luz- intenten disimularlo con anteojos de sol en plena pista. 
+
+
+La gente toma éxtasis, no para abstraerse de la realidad
+
+
+
+
+
+var act_f17 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_f17 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_f17.setTitle('La gente toma éxtasis, no para abstraerse de la realidad');
+act_f17.setSubtitle('A dos semanas de la tragedia en Costa Salguero'); 
+act_f17.setLinkBack('http://www.clarin.com/sociedad/detras-fiestas-electronicas-contado-conoce_0_1562843870.html');
+act_f17.setDescription('Enzo Maqueira investig&oacute; la movida techno para escribir una novela que lo volvi&oacute; famoso. Prob&oacute; coca&iacute;na, alucin&oacute;genos y otras drogas y cont&oacute; todo desde su propia experiencia &quot;electr&oacute;nica&quot;.&nbsp;');
+act_f17.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/detras-fiestas-electronicas-contado-conoce_0_1562843870.html');
+
+var showShareBarUI_params_f17=
+{ 
+containerID: 'shareQuote_f17',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_f17,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_f17
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_f17);
+ Ante la pregunta de cómo influirá en los consumidores el "fantasma" de una pastilla Superman "letal", Maqueira contesta con seguridad: "entre los clubbers hay pocos miedos. Es probable que al principio disminuya el consumo y que después siga todo como siempre. También es probable que haya gente que ahora quiera probar la Superman. Porque hay muchos que van atrás de las experiencias fuertes. Otro miedo es no poder hidratarse [otro efecto del éxtasis]. Por eso, resalto la imprudencia de los organizadores que cortaron el agua o no garantizaron que haya agua libre toda la noche ". Mirá también: La noche, con controles extremos en el primer viernes post Time Warp Según el autor, que no está a favor de las drogas pero sí de su legalización, "el éxtasis provoca empatía con el contexto, sentís amor por los demás, te sentís parte de un todo. Genera un baile colectivo y al mismo uno introspectivo en el que uno puede tener alucinaciones no muy vívidas con los ojos cerrados. La parte anfetamínica de esa pastilla, en cambio, da energía para moverse. Por eso la gente toma éxtasis, no para abstraerse de la realidad".

@@ -1,0 +1,18 @@
+
+Hacerse una selfie cada día durante ocho años requiere paciencia y fuerza de voluntad. Eso es lo que hizo desde que tenía 12 años Hugo Cornellier, un youtuber canadiense que sorprendió en esta red social con un video montaje que acaba de publicar. Un time lapse que muestra su evolución física de nene a adulto en los últimos ocho años gracias a más de 2.500 fotos. Hugo decidió hacerse una selfie cada día mucho antes de que este tipo de fotos inundaran Internet. A lo largo del tiempo, fue colgando distintos montajes para mostrar sus cambios, hasta llegar a este time lapse. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ “Estoy tan contento de finalmente mostrarles en lo que estuve trabajando. Finalmente estabilicé todas mis selfies y centré mis ojos en todas las fotos. Tuve que editar, alinear y retocar cada foto, una por una. Me tomó un minuto por cada cada foto”, contó el youtuber sobre su trabajo. Mirá también: Murió por sacarse una selfie con un revolver  “Este proyecto es ahora todo lo que yo quería que fuera. Los veré a todos ustedes en la marca de los 10 años. Este es un proyecto que va a continuar. Nunca pararé de sacarme fotos. Nunca”, promete Cornellier. Algo similar a lo de este youtuber canadiense viene haciendo el artista de Alaska Jonathan Keller con su proyecto “La adaptación de mi generación”, en el que también se saca una foto cada día desde los 16 años. Ahora se acerca a los 40 y dice que seguirá sacándose fotos hasta el día de su muerte. Mirá también: Video: se sacó una selfie diaria durante 12 años  

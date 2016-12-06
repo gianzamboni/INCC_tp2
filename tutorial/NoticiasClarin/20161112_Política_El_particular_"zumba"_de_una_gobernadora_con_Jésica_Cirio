@@ -1,0 +1,68 @@
+
+Rosana Bertone, la gobernadora de Tierra del Fuego, mostró sus habilidades artísticas arriba de un escenario y bailó "zumba" con Jésica Cirio, la modelo y primera dama de Lomas de Zamora, en un gimnasio en Río Grande, ciudad hasta donde llegó la esposa de Martín Insaurralde para dictar una clase masiva del ritmo.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Un poco a destiempo y acompañada por la legisladora del FpV, Myryam Martínez, Bertone se divirtió al ritmo de Maluma y Thalia con su tema "Desde esa noche".  El viaje de Cirio también le sirvió a la modelo para hacer trabajo social junto a la gobernadora peronista, que desde que asumió mostró sintonía con el Gobierno de Mauricio Macri y distancia con el sector ultrakirchnerista del PJ. "Junto a Jésica Cirio acompañando el gran trabajo social que hace la comunidad de la Capilla Virgen del Rosario de la Margen Sur en Río Grande", escribió en Twitter Bertone.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/RosanaBertone/status/797464300768137216",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79746430076813721")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Jésica Cirio es instructora de Zumba, el ritmo aeróbico que hace furor en los gimnasios a lo largo y ancho del país, y ella comenzó a recorrer municipios dando clases maestras. La semana pasada estuvo en Tigre y ahora llegó a Tierra del Fuego para hacer quemar calorías a los riograndenses que coparon el gimnasio del polideportivo Muriel.      MASTERCLASS TIERRA DEL FUEGO! Nos vemos mañana 14hs en el Gimnasio Muriel en Río Grande!!! Los espero a todos!!! #Zumba #ZumbaMasterClass A video posted by Jesica Cirio Oficial (@jesicacirio) on Nov 11, 2016 at 6:22am PST
+ La concurrencia, según mostraron las fotos, fue un éxito y la modelo se mostró más que contenta por el masivo zumba en el fin del mundo. Es más, le agradeció a la gobernadora que, por uno minutos, la acompañó, aunque fuera de ritmo, en su master class. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/jescirio/status/797537766502502400",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79753776650250240")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/jescirio/status/797538534206873600",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79753853420687360")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+     Sin palabras Tierra Del Fuego!!! Son tan genios!!! Me voy llena de energía, gracias por ser parte de este estilo de vida tan lindo que es @Zumba ❤️️❤️️❤️️ #Zumba #ZumbaClass #ZumbaMasterClass A video posted by Jesica Cirio Oficial (@jesicacirio) on Nov 12, 2016 at 1:15pm PST
+

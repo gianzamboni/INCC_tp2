@@ -1,0 +1,20 @@
+
+Especialistas en toda clase de catástrofes, los bomberos están habituados a apagar incendios, rescatar personas en grandes accidentes y colaborar en cualquier evento desafortunado. Pero esta semana al Cuerpo de Bomberos Voluntarios de Luján se enfrentó por primera vez con un contratiempo distinto: la reanimación de una mascota desvanecida en medio de un incendio. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Para probarlo está el video que muestra cómo dos integrantes de la fuerza sacan a un perrito blanco del interior de una casa que se incendiaba en el barrio Parque Lasa de Luján. Después de realizarle maniobras de reanimación, le conectan oxígeno, le dan agua y lo cuidan hasta que el animalito vuelve en sí.  "Encontramos la casa cerrada y llena de humo. Rescatamos a dos perros y un gato que estaban lejos del fuego y después, en la habitación que se quemaba había un perrito que estaba desmayado por la inhalación de humo", contó el subayudante Lucas Ferretti, uno de los que intervino en el operativo.
+
+"Tuvimos que practicarle maniobras de resucitación y ponerle oxígeno. Ahí empezó a respirar por sus propios medios. Entonces seguimos con oxígeno, mojándole la cara y dándole agua hasta que pudo respirar por sus propios medios. El perrito sobrevivió y cuando nos retiramos del lugar ya estaba corriendo con los demás", finaliza el bombero, que recibió el cariño y la admiración de los vecinos que presenciaron el rescate.   Clarín Zonales

@@ -1,0 +1,22 @@
+
+El tono de la exposición, tanto de los funcionarios de Hacienda y Finanzas como de los diputados (oficialistas y opositores) fue bastante juicioso en el plenario de las comisiones de Diputados que recibieron a Alfonso Prat Gay para escuchar detalles del acuerdo con los bonistas y plantear sus dudas. Todo fue calmo hasta que entró en escena el diputado Axel Kicillof. El último ministro de Economía de Cristina Kirchner repitió sus argumentos archi conocidos: que no hay que pagarles nada a los fondos buitre por encima de lo que se les pagó a los bonistas que aceptaron los canjes. Y que fueron los propios holdouts los que dilataron las negociaciones que terminaron incrementando el monto a pagar. “Compraron a precio vil y encima el taxi de los intereses lo pusieron en marcha ellos, no fue nuestra estrategia”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Después, Kicillof volvió a quejarse del fallo del juez Thomas Griesa. “Litigamos y litigamos. llegamos a la última instancia y la Justicia de Estados Unidos nos dio la espalda, contra la opinión del FMI, de dos premios nobel, la ONU. Fue un puñal por la espalda la sentencia que fijó la cláusula de pari passu, a la que todo el mundo le daba muy poca probabilidad de ocurrencia”. Kicillof tomó los dichos de Prat-Gay, quien dijo que hay que salir a endeudarse para evitar un severo ajuste fiscal. “Dicen que si se endeudan no hay ajuste. Porque la inflación teóricamente viene por emitir pesos. Pero van a emitir los mismos pesos para comprar los dólares que entren. O a los gobernadores les van a dar dólares? No, les van a dar pesos. Al final el grado de emisión no es el mismo, con o sin ajuste.?”
+
+Finalmente, se quejó de contratar a bancos internacionales ,que asesorarán en la colocación de los nuevos bonos que emitirá el Gobierno, una vez cerrado el acuerdo. Y denunció que se cerró una negociación a las apuradas. Le respondió Prat Gay, con tono enérgico. “Axel, los bancos son los mismos que vos contrataste en su momento y les pagaste mucho más. La única negociación que cerraste fue con el Club de París, y pagaste el 100% de la deuda, negociaste a tontas y a locas, en 48 horas.cerraste todo. Pagaste todos los punitorios y no entró una sola inversión después de ese acuerdo. Además, no se si Paul Singer festeja o no este festejando el acuerdo que estamos por firmar, pero el que seguro sí festejó fue Antonio Brufau (ex CEO de Repsol-YPF) con todos los bonos que les diste por la indemnización de la expropiación”.
+
+Prat Gay siguió: “ahora Kicillof se preocupa por la inflación, y por la emisión de pesos. Pero no por los pesos que el BCRA le regalaba al Tesoro. El ajuste de la inflación es el que queremos evitar. Además, si sobran pesos por vender dólares, eventualmente podemos comprar dólares”.

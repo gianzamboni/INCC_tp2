@@ -1,0 +1,70 @@
+
+   Máximo Kirchner denunció hoy una persecución contra él y contra su madre, por parte de algunos sectores del Poder Judicial, de políticos como Margarita Stolbizer y de los medios de comunicación. Mirá también: El fiscal Rívolo también imputó a Cristina Kirchner por coimas  "Hay gente que si no denuncia, políticamente no existe", dijo el diputado nacional por Radio Del Plata. Y comparó la situación judicial de su familia con una de las series colombianas sobre Pablo Escobar Gaviria. Mirá también: Desarmaron la sala dedicada a Néstor Kirchner en el CCK 
+
+
+ “Me hace acordar mucho a una serie ‘El patrón del Mal’. Y te dicen ‘si Néstor está muerto, te lo voy a desenterrar y te lo vuelvo a matar. Aquello que no se puede saldar políticamente lo saldan con persecuciones", señaló Máximo Kirchner.
+
+
+
+
+
+var act_320 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_320 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_320.setTitle(' “Me hace acordar mucho a una serie ‘El patrón del Mal’. Y te dicen ‘si Néstor está muerto, te lo voy a desenterrar y te lo vuelvo a matar. Aquello que no se puede saldar políticamente lo saldan con persecuciones", señaló Máximo Kirchner.');
+act_320.setSubtitle('POLÍTICA NACIONAL'); 
+act_320.setLinkBack('http://www.clarin.com/politica/Maximo-persecucion-judicial-acordar-Mal_0_1576042415.html');
+act_320.setDescription('El diputado dijo: &quot;Te dicen si N&eacute;stor est&aacute; muerto, te lo voy a desenterrar y te lo vuelvo a matar&#39;&quot;.');
+act_320.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Maximo-persecucion-judicial-acordar-Mal_0_1576042415.html');
+
+var showShareBarUI_params_320=
+{ 
+containerID: 'shareQuote_320',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_320,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_320
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_320);
+ Mirá también: Desayuno completo y pacto a medias   Luego dijo que “hay una inquina con el apellido Kirchner”, sumó que “una cosa son las investigaciones y otras son las persecuciones” y señaló allí a “el señor Magnetto, el señor Rendo. Y también el Gobierno y sectores del Poder Judicial”. Mirá también: El Gobierno logró aplazar la ley antidespidos: no hubo quórum  El diputado por Santa Cruz, imputado ayer por cobrar coimas a través de alquileres junto a su madre, criticó la gestión del gobierno de Mauricio Macri: “El Gobierno tiene que asumir las ideas que tienen y dejar de echar la culpa. Esto no es producto de una herencia. El Gobierno decidió la suba de las tarifas", señaló-  Y analizó que “si uno mira desde el 24 de marzo hasta ayer, la movilización es ascendente”. Y sobre la sesión fallida de ayer en Diputados, afirmó que “Cristina aplicaba políticas en favor de los trabajadores, no tenía sentido una ley ‘antidespidos’ en ese momento".
+
+ Luego dijo que "en el kirchnerismo si algo hubo fue libertad. La gente votó por lo que faltaba, no para involucionar”. Y aseguró que "hay gente que si no denuncia, políticamente no existe", finalizó Máximo Kirchner por Del Plata.

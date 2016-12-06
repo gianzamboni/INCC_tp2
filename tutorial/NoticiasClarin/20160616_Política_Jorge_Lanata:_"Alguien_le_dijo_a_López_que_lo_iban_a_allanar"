@@ -1,0 +1,18 @@
+
+El periodista Jorge Lanata participó anoche como invitado en el programa "A dos voces", por TN, y analizó el escándalo político que desató la detención del exsecretario de Obras Públicas José López, sorprendido el lunes por la Policía cuando intentaba esconder bolsas con millones de dólares en un convento de General Rodríguez.  "Alguien le dijo a López que iban a allanar un lugar donde él o De Vido tenían plata. Según el informe policial, López salió de su casa a la 1.08 y llega al convento después de las 4. De Tigre a General Rodríguez hay 40 minutos. Evidentemente fue a buscar la plata a algún lugar y, desde ahí, al convento", analizó Lanata, quien regresa a la televisión con PPT el domingo 3 de julio. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Sobre la reacción que causó en el seno del kirchnerismo la caída de López, Lanata sostuvo que "hoy no se pueden tomar en serio las declaraciones de los kirchneristas porque esto es un zafarrancho, un descontrol y cualquiera sale a decir cualquier cosa".  Consultado sobre la situación judicial de Cristina Kirchner, Lanata sostuvo que "si se pudiera de reabrir la causa de enriquecimiento ilícito, que es la más simple, la que cerraron tres jueces distintos, Cristina va presa por enriquecimiento ilícito. No hace falta todo lo demás", en referencia al resto de las causas que rodean a la ex mandataria y a su familia.  En otro tramo de la charla con los periodistas Edgardo Alfano y Marcelo Bonelli, Lanata apunto contra el juez federal Daniel Rafecas, a quien acusó de "hacerse el tonto durante cuatro años" ya que tiene a su cargo una causa contra López por enriquecimiento ilícito, pero "nunca lo citó y hoy le toca investigarlo", declaró.  En este sentido, Lanata usó el mismo argumento contra el magistrado Sebastián Casanello -que lleva la causa de "La Ruta del dinero K"- a quien señaló de "mirar para otro lado durante cuatro años" en la causa contra el empresario K Lázaro Báez. Seguido, el periodista enfatizó que "Casanello no tiene que estar a cargo de esa causa" y puso su esperanza en que "la Cámara tiene que quitársela".

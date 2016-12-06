@@ -1,0 +1,26 @@
+
+Luego de los ataques del ISIS en Francia, el Gobierno creó una "mesa de trabajo" entre representantes de la AFI y de las fuerzas de seguridad para intentar prevenir un tercer atentado terrorista en la Argentina, tras la negativa del kirchnerismo a debatir este tema. En esta línea, después de muchos años,  la Prefectura hizo hoy un simulacro de un ataque de estas características. Así los comandos de la agrupación Albatros realizaron un ejercicio para repeler un inexistente ataque de un grupo terrorista en la terminal portuaria de Exolgan S.A, ubicada en el Dock Sud, provincia de Buenos Aires. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Después de los atentados terroristas contra la embajada de Israel (1992) y la AMIA (1994) -que están impunes- distintos gobiernos discutieron sobre mejorar las leyes antiterroristas e incluso entrenar a grupos policiales antiterroristas pero hasta ahora no se avanzó mucho. El Departamento Unidad Investigación Antiterrorista (DUIA) que dirigía el comisario Fino Palacios se hundió junto con las internas de la causa AMIA. Es más el ex canciller Héctor Timerman creó una crisis diplomática con EE.UU. cuando inspeccionó en el 2011 un avión militar de ese país que traía entrenadores en antiterrorismo para el grupo GEOF de la Policía Federal. 
+
+Ahora la ministra Patricia Bullrich encabezó ayer un ejercicio que consistió en una toma de rehenes, enfrentamientos armados, rescates en el agua, la actuación de la Agrupación Albatros y de la Brigada de Explosivos. Si bien el simulacró estuvo debajo de la perfomance de grupos antiterroristas de EE.UU. o Europa se vio un esfuerzo para tener algún tipo de fuerza especializada en un flagelo del siglo XXI.
+
+El simulacro recreó la llegada al país de un buque de bandera panameña con tres personas sin documentación habilitante a bordo, que lograron bajar en territorio argentino e intentaron salir de la terminal por el control de acceso, simulando ser parte de la tripulación. El entrenamiento siguió con el pedido de documentación para poder ingresar, se verificó que no estaban incluidos en el listado de tripulación, por lo que se dio intervención al personal de Prefectura que cumple funciones en la terminal.
+
+   En ese momento, los tres hombres iniciaron el ataque y tomaron rehenes, por lo que se iniciaron negociaciones con los terroristas, los que declararon haber dejado explosivos escondidos, los que harían estallar si no se accedía a sus demandas.    Luego de varios intentos para escapar de la terminal y al verse cercados por Prefectura, uno de los terroristas se arrojó al agua para escapar, pero fue detenido, mientras que los otros dos individuos fueron reducidos por los efectivos.
+
+   También participaron del simulacro integrantes del Servicio de Buques Guardacostas, Aviación, Narcotráfico, Sanidad, Servicio de Salvamento, Incendio y Protección Ambiental, Dirección de Inteligencia Criminal, Secretaría General, Departamento Bienestar y de la Prefectura Zona Río de la Plata.  

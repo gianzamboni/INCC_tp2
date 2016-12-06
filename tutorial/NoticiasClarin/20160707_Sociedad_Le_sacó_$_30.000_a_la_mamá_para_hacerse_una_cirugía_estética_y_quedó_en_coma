@@ -1,0 +1,20 @@
+
+Una adolescente de 15 años se encuentra en coma farmacológico peleando por su vida luego de someterse, sin autorización de sus padres, a una cirugía estética de abdomen en una clínica del barrio porteño de Flores. La adolescente, según informa hoy el diario Crónica, ante la negativa de su progenitora para permitirle hacerse la intervención, decidió sacarle el dinero que su mamá tenía ahorrado y someterse a la cirugía sin siquiera informarle. La operación se hizo el martes en el Centro Quirúrgico Neuquén, ubicado en la calle Neuquén al 1400. La chica, que fue identificada como Erika Carrasco Coats Lucas, está internada en el Hospital Alvarez luchando por su vida por un edema pulmonar agudo, que se habría producido por la anestesia. Fue trasladada hasta allí luego de que la familia fuera informada el día de la cirugía por un llamado desde ese centro asistencial en el que les dijeron que Erika “había sufrido un problema”. La mamá de Erika habló este mediodía con los medios en la puerta del Alvarez y dijo que ella no firmó ninguna autorización para que la chica se haga la intervención.  “Yo no firmé nada. Me agarró un dinero que tenía guardado. Se hizo la operación. Cuando me llamaron de la clínica estaba grave”, dijo la mujer. Además, denunció que la cirujana cuando le comunicó de la complicación, "me ofreció llevar a mi hija a un hospital en Capitán Sarmiento, a 180 kilómetros de acá, a lo que dije que no". Y se quejó de que en el hospital Alvarez, donde está internada, no la dejan entrar a terapia intensiva para ver a su hija "pero sí está la cirujana".  
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_7s5eyypj",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_7s5eyypj"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_7s5eyypj").after(scriptEl);
+ Un tío de la joven, Fernando, dijo: “Esto es una barbaridad, una locura que se genera en el mismo momento que una clínica le acepta dinero a una menor que se va a operar. En mi poder se encuentra un recibo de $9.000 y el otro de $21.000 está en la comisaría 50°, donde se denunció lo sucedido”. El hombre además cuestionó el accionar de la clínica: “Uno advierte cuando hay intención de tapar todo. En la comisaría no me quisieron dar una copia de la denuncia y en el Centro Quirúrgico Neuquén me dijeron que allí no habían operado a nadie. Alguien tendrá que hacerse responsable de lo que le pasa a Erika”. El diario Crónica accedió a uno de los recibos que le entregaron a la menor. Ese papel está membretado a nombre de la doctora Silvana del Giúdice. Una versión indicaba además, que la chica habría falsificado una autorización de la madre para poder someterse a la intervención. 

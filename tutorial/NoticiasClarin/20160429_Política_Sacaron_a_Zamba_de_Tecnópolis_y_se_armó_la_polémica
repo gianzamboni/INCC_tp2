@@ -1,0 +1,98 @@
+
+Se dice que "una imagen vale más que mil palabras". Sin dudas, la que fue difundida ayer a través de Twitter sirvió de disparador para una nueva polémica entre kirchneristas y la administración de Mauricio Macri. El muñeco que personifica a Zamba, el niño de las tiras infantiles del canal Pakapaka, en las que repasa momentos de nuestra historia junto al General San Martín, Manuel Belgrano y otros próceres, fue retratado en la basura tras el desmantelamiento de su parque temático.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/FernandezAnibal/status/725831246094458880",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72583124609445888")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Como era de esperar, la foto publicada por uno de los 100 trabajadores que fueron despedidos de Tecnópolis provocó enojo entre legisladores y exfuncionarios del Gobierno de Cristina Fernández, como Aníbal Fernández, Gabriela Cerrutti, Miguel Funes y hasta el exsecretario general de la Presidencia Oscar Parrilli. Al respecto, afirmó que "decidieron desmontar todo rastro de Zamba y cualquier relato de la historia". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/2505As/status/726080389027082240",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72608038902708224")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ “Nos causa mucho dolor y tristeza por la manera displicente y de revanchismo y de odio con la cual esta gestión está llevando adelante toda su gestión, en lo político y en lo cultural también”, dijo Parrilli en declaraciones a Radio Del Plata. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/beanavone/status/726083267292594176",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72608326729259417")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/xfabianasolanox/status/725882602184388608",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72588260218438860")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Del otro lado de la grieta, el exdiputado Fernándo Iglesias, enemigo declarado del kirchnerismo, respondió con munición pesada el tuit de Gabriela Cerruti. Marcelo Tinelli le puso humor a la fotografía de Zamba y hasta se la vinculó con la visita de John Travolta.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/bandrui15/status/726096443375685632",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72609644337568563")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ale_ledesma_84/status/726083980211195904",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72608398021119590")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Desde el gobierno explicaron que "estas figuras presentaban un alto nivel de deterioro por estar al aire libre,entonces en estos momentos estamos retirando porque tienen condiciones que pueden afectar la seguridad de los visitantes. Y se están preparando los nuevos contenidos para las muestras al aire libre, que arrancan en julio". La casa Pakapaka fue montada en 2012 por orden del Ministerio de Educación, un año después de la inauguración de Tecnópolis. Este parque ubicado en el corazón de Villa Martelli significó el reductopredilectos para organizar actos y dar discursos de la ex presidente Cristina Kirchner. "No pudo dejar de observar la ridiculez de altos dirigentes de la política K, que lo han intentado presentar esto como un hecho de discriminación ideológica. Del ridículo no se vuelve", sentenció sobre la polémica Hernán Lombardi, el ministro de Medios y Contenidos Públicos.

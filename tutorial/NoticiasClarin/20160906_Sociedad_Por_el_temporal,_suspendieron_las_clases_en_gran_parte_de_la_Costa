@@ -1,0 +1,20 @@
+
+Un temporal de lluvia y viento provocó hoy en varias ciudades de la costa atlántica bonaerense caída de árboles, carteles y postes, desde Mar del Plata a Mar del Tuyú, por lo cual fueron suspendidas las clases en las escuelas de casi todas las localidades. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Asimismo, hubo anegamientos en barrios del municipio de General Pueyrredón, donde el jefe de Defensa Civil, Alberto Quintana, dijo que había "muchas calles intransitables y se está en alerta para asistir a familias", aunque aclaró que "no hubo evacuados". Las lluvias, acompañadas por fuertes ráfagas de viento, afectaron también a barrios de la Capital Federal y el Gran Buenos Aires, dado que cayeron ramas de árboles en zonas de Parque Chacabuco, Villa Urquiza, Avellaneda y Quilmes. Mirá también: El viento destrozó el cartel de entrada a Villa Gesell En Villa Gesell, el vendaval derribó el cartel de bienvenida al municipio que está sobre la ruta y también volteó varios árboles, indicó el jefe de bomberos de esa comuna, Hugo Piriz.
+
+A raíz del alerta meteorológico, las autoridades del Consejo Escolar del partido de La Costa dispusieron suspender todas las actividades escolares este martes en las ciudades del municipio. Defensa Civil de la Municipalidad de La Costa advirtió que de acuerdo a los datos del Servicio Meteorológico Nacional las lluvias persistentes seguirán hasta la noche. Las complicaciones, más allá de la lluvia, se produjeron a raíz de la fuerza de los vientos que desde la madrugada soplaron con ráfagas que llegaban hasta 70 kilómetros por hora, desde el sector sur y sudeste. En Mar del Plata, el jefe de Defensa Civil, Alberto Quintana, dijo que allí también "están suspendidas las clases en el turno tarde y noche en todos los niveles educativos tanto públicos como privados". Mirá también: Por el viento, cayó un semáforo sobre un motociclista en Caballito La intendencia dispuso realizar por la noche "una evaluación para determinar si mañana hay clases o no, según cómo sigue este alerta meteorológico". El rectorado de la Universidad Nacional de Mar del Plata dispuso a su vez asueto administrativo para hoy a partir del mediodía, aunque era potestad de cada decano el dictado del asueto académico.En Pinamar las clases también fueron suspendidas en toda la jornada y Defensa Civil indicó que rige un alerta por vientos intensos con velocidades que podían alcanzar 70 kilómetros por hora y que pueden "incrementarse durante la noche". El temporal provocó allí caída de árboles en zonas céntricas y en caminos internos, así como el desplazamiento de postes que llevan cables de energía. De acuerdo a las mediciones oficiales, durante la mañana en Pinamar cayeron más de 16 milímetros de lluvia y hubo ráfagas cercanas a 50 kilómetros por hora. Fuente: DyN

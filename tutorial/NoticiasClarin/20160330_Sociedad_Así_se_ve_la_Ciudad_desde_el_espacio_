@@ -1,0 +1,210 @@
+
+En la era de la conectividad, hasta los astronautas comparten su vida en las redes sociales. En especial en Twitter, donde publican las mejores fotos de la Tierra tomadas desde el espacio. Tan creativos como "marketineros", varios miembros de la NASA crearon "hashtags" que reúnen imágenes bajo una temática. El último caso es #CitiesFromSpace (Ciudades desde el espacio), donde Tim Kopra exhibe distintas urbes del mundo. Y ayer le tocó a la capital argentina Mirá también: El hielo del Ártico, en un nuevo mínimo histórico "Buenos Aires, pequeña porción de una ciudad increíble", escribió Kopra, que está viviendo en la Estación Espacial Internacional como parte de las Expediciones 46 y 47 de la NASA. Lo acompañó con una imagen de alta definición que muestra el sur porteño, incluidos los barrios de San Telmo, La Boca y Puerto Madero. También se ve claramente el Riachuelo y parte de Avellaneda: incluso, con sus colores característicos, se pueden identificar las canchas de Racing y de Independiente.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/astro_tim/status/714944498435010560",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71494449843501056")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El astronauta compartió, además, una foto del Río Colorado, que atraviesa la Argentina y delimita la frontera entre las provincias de La Pampa y Río Negro. "No hay muchas carreteras en esta parte del país", bromeó Kopra. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/astro_tim/status/714939685408280576",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71493968540828057")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Los argentinos en la era dorada del espacio La serie #CitiesFromSpace se completa con una bella imagen de Washington, la capital de Estados Unidos y sede de la Casa Blanca. También, un particular punto de vista de la ciudad de Kansas: "Extraño el barbecue (parrillada) y el jazz", aseguró el astronauta.   
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/astro_tim/status/714947248275210241",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71494724827521024")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/astro_tim/status/714596137810935808",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71459613781093580")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Hay más postales espaciales. La Patagonia de Chile y las playas de Australia también pasan por la lente de este peculiar fotógrafo. Lo mismo que las ciudades de Paris (Francia), Atenas (Grecia) y Moscú (Rusia), entre otras. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/astro_tim/status/713436458841931776",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71343645884193177")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/astro_tim/status/714594957143764992",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71459495714376499")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Registran por primera vez la onda de choque de una explosión de estrellas 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/astro_tim/status/713861538424168449",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71386153842416844")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/astro_tim/status/713497320608935936",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71349732060893593")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/astro_tim/status/714237097239056385",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71423709723905638")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ La primera persona que usó Twitter desde el espacio fue el astronauta estadounidense Mike Massimino. En 2009, durante una misión de reparación del Hubble, subió a la red social decenas de fotos de la Tierra. A partir de ese puntapié inicial, los inquilinos de la Estación Espacial Internacional profundizaron esa especie de "género" fotográfico, con tomas verdaderamente increíbles. Mirá también: Tras 40 años, la NASA lanzará otro mensaje terrícola al espacio La italiana Samantha Cristoforetti (la primera mujer de su país en salir al espacio), el estadounidense Terry Virts y el ruso Anton Shkaplerov ampliaron el catálogo e incluyeron varias vistas fantásticas de la Argentina. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/AstroSamantha/status/540239729196023809",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_54023972919602380")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/AstroTerry/status/557575342110416896",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_55757534211041689")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/AntonAstrey/status/601467695662436352",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_60146769566243635")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Por su parte, Scott Kelly, el estadounidense que más tiempo permaneció en el espacio, tenía desde la Estación Espacial Internacional una vista privilegiada de la Tierra, que retrató y publicó en su cuenta de Twitter. Por ejemplo fotografió Africa desde otra perspectiva, mostrando un colorido único. Este tipo de imágenes las bautizó con la etiqueta #EarthArt, para consolidarse como un verdadero artista.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/StationCDRKelly/status/677252245373718528",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_67725224537371852")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

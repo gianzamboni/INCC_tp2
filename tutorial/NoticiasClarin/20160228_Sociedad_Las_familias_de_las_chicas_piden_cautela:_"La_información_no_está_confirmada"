@@ -1,0 +1,36 @@
+
+Las familias de Marina Menegazzo y María josé Coni, las dos turistas argentinas perdidas en Ecuador, salieron hoy a pedir cuatela luego de que el ministro del Interior de ese país, José Serrano, informara a través de su cuenta de Twitter que ambas chicas había sido encontradas sin vida.  "La información no está cien por ciento confirmada porque no se pudieron reconocer los cuerpos", afirmó a radio 10  María Emilia Coni, hermana de una de las jóvenes que habían desaparecido durante sus vacaciones por Latinoamérica.  "Solo se sabe que encontraron dos cuerpos", agregó.  Al dar la noticia, el ministro manifestó haber hablado con los padres de las mendocinas. "Hace pocos minutos he hablado con sus padres, he tenido que darles la fatal y trágica noticia que las hemos encontrado sin vida, con traumas en sus cabezas", escribió minutos después de las 15.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ppsesa/status/704006284257959936",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70400628425795993")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ppsesa/status/704007131071123456",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70400713107112345")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ La familia desmiente haber recibido un llamado oficial. "La información se soltó sin que se comunicaran con nosotros", explicó Coni.  En la página de Facebook que se creó para nuclear información sobre el paradero de las chicas también se subió un mensaje en torno al presunto hallazgo sin vida de ambas.
+
+"Por favor, no publiquen ni crean lo que la gente está compartiendo. No hay datos oficiales. Nosotras y solamente la familia diremos la verdad. Esto no es oficial. Por favor tengan piedad de nuestro estado como familias y amigos. La búsqueda sigue", escribieron.  

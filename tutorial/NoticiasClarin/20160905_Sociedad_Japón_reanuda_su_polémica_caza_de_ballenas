@@ -1,0 +1,38 @@
+
+Japón inauguró hoy su temporada de pesca de ballenas "con fines científicos" en la costa norte del archipiélago. Una flota de cuatro barcos planea capturar 51 ejemplares de ballena minke, según anunció la Agencia de Pesca japonesa. La controvertida actividad genera críticas internacionales. 
+
+ La temporada se desarrollará hasta finales de octubre en el Pacífico Norte. Tiene como fin contribuir a la gestión de los recursos marítimos, a partir del análisis del contenido de los estómagos de las ballenas capturadas, aseguran las autoridades japonesas. Mirá también: La isla italiana que añora "la mattanza" de atún La flota de pesqueros zarpó hoy de la localidad de Kushiro, en la isla septentrional de Hokkaido, y su cuota de capturas será similar a la del año pasado, según la Agencia Nipona de Pesca, que defiende los fines científicos de este programa. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Sin embargo, esta actividad fue objeto de críticas de la comunidad internacional al considerar que se trata de pesca comercial encubierta, dado que la carne de los especímenes capturados y estudiados es posteriormente vendida. 
+
+ En marzo de 2014, la Corte Internacional de Justicia dictaminó que el programa similar que Japón realizaba en la Antártida no era legal, al no ajustarse a los "fines científicos" establecidos por la Comisión Ballenera Internacional (CBI).  Mirá también: El trágico final para 24 ballenas en México Aunque la sentencia del tribunal de La Haya no afectaba a su otro programa científico en el Pacífico Norte ni a las capturas comerciales que Japón realiza en sus costas, Tokio decidió reducir el volumen de ejemplares capturados. En este sentido, el país asiático tiene previsto revisar el próximo noviembre su programa ballenero en el Pacífico Norte. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Fuente: EFE

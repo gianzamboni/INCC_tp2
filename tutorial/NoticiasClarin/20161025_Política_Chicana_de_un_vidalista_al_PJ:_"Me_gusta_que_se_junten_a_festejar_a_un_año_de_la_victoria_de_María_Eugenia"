@@ -1,0 +1,70 @@
+
+La chicana estaba servida y alguien, se sabía, iba a decirla hoy 25 de octubre, a un año del triunfo de Cambiemos en provincia. Fue el ministro de Gobierno de la provincia de Buenos Aires, Federico Salvai. La mano derecha de la gobernadora María Eugenia Vidal la usó para hablar del encuentro del peronismo en Lobos. "Es muy oportuna la fecha que eligieron", lanzó. "Me gusta que la oposición se junte hoy a festejar a un año de la victoria de María Eugenia Vidal", ironizó el funcionario, al participar esta mañana de un desayuno organizado por una revista local. Mirá también: Intendentes de todos los sectores peronistas buscan la unidad en Lobos Salvai fue uno de los oradores del encuentro sobre la imagen de la política bonaerense, quien en el marco de la charla aprovechó la oportunidad para referirse con sarcasmo a la cumbre del Partido Justicialista (PJ): "Es muy oportuna la fecha que eligieron", dijo. "Es un día especial, a esta hora había una sensación, una expectativa altísima puesta en el resultado en la elección a Gobernador. Un año después, hemos hecho balances, diagnósticos, todavía no pudimos festejar aquella victoria, porque desde el primer día nos hemos puesto a trabajar a ver como sacábamos los municipios y la Provincia adelante", remarcó según informó la agencia Télam.
+
+Hace un año, María Eugenia Vidal dio el batacazo y derrotó a Aníbal Fernández en territorio bonaerense, histórico bastión del peronismo, que no perdía una elección desde 1987 cuando el radical Alejandro Armendáriz dejó el poder provincial. Con un espíritu de la búsqueda de unidad de cara a las legislativas de 2017, los jefes comunales ingresaron de a grupos al salón principal del Club Atlético Independiente de Lobos, en donde compartían este mediodía un asado, en la tierra donde nació Juan Domingo Perón, líder del Movimiento Nacional Justicialista. 
+
+
+Todavía no pudimos festejar aquella victoria, porque desde el primer día nos hemos puesto a trabajar
+
+
+
+
+
+var act_dbb = new gigya.socialize.UserAction();
+
+var emailBodyCustom_dbb = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_dbb.setTitle('Todavía no pudimos festejar aquella victoria, porque desde el primer día nos hemos puesto a trabajar');
+act_dbb.setSubtitle('Buenos Aires'); 
+act_dbb.setLinkBack('http://www.clarin.com/politica/Chicana-vidalista-PJ-Maria-Eugenia_0_1675032623.html');
+act_dbb.setDescription('Lo dijo el ministro de Gobierno, Federico Salvai, mano derecha de la gobernadora bonaerense refiriéndose a los intendentes peronistas que hoy se reunieron en Lobos. ');
+act_dbb.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Chicana-vidalista-PJ-Maria-Eugenia_0_1675032623.html');
+
+var showShareBarUI_params_dbb=
+{ 
+containerID: 'shareQuote_dbb',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_dbb,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_dbb
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_dbb);
+ El encuentro, del que participaron más de 50 intendentes bonaerenses, se desarrolló a puertas cerradas, sin acceso a la prensa e incluso con algunos legisladores provinciales que quedaron afuera de la cumbre partidaria.  Mirá también: Duelo: el PJ se junta un año después de la "paliza" de Vidal a Aníbal F. "Es la primera reunión de todos después de que perdimos. Lo más importante es que estemos acá para analizar posiciones y alternativas de cara al futuro", indicó en la previa Martín Insaurralde, de Lomas de Zamora. "No vemos una Provincia que vaya para adelante. Yo no tengo relación con la Goberbadora. Nos han dejado solos y no se hacen cargo de nada" aseguró Mario Secco, el ultra k intendente de Ensenada. 

@@ -1,0 +1,18 @@
+
+Un video muestra al oso Jimbo abrazando y besando a un hombre. No es cualquier sujeto, sino que Jim Kowalczik y su esposa Susan cuidaron a este animal de 22 años desde que era un osezno y se refieren a él como "su hijo". La confianza y el cariño mutuo están a la vista. Mirá también: El agradecimiento de un osezno tras ser rescatado de un incendio  La pareja se dedica a cuidar 11 osos en el Orphaned Wildlife Centre, un centro de rescate de animales salvajes ubicado en Nueva York, Estados Unidos. "Son como nuestros hijos. Eso es lo mucho que los queremos y ellos también nos devuelven un montón de cariño", contó el hombre, según lo publicado en Daily Mail. Entre todos los animales, Jimbo se destaca. "Es mi mejor amigo. No hay nada mejor que eso. Él te ama sólo por lo que sos", explicó el rescatista. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ También dio detalles sobre cómo es relacionarse con un animal gigante que pesa 635 kilos. "Es muy amable, pero a veces no conoce su propia fuerza. Cuando estás tratando de alejarte, te agarra de tu ropa o pantalones y te arroja de nuevo hacia él", describe Jim. "Pensá en la persona más fuerte que conocés y magnificalo más de mil veces. Esa es la fuerza que tiene", sostiene. Mirá también: Murió el oso panda en cautiverio más viejo del mundo  La extraordinaria relación entre las dos especies puede disfrutarse en el video, de corta duración pero de gran significado. Los dos amigos se abrazan y se acarician. Incluso, Jim no siente temor en poner su mano dentro de la boca del animal. Como cierre, le da un masaje en la espalda, un mimo que el oso evidentemente disfruta y agradece. Mirá también: El tierno video de una elefanta "rescatista"

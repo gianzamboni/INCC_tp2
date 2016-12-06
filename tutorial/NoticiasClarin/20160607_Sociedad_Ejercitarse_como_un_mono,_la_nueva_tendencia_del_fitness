@@ -1,0 +1,105 @@
+
+Trepan árboles, corren descalzos, se tiran en el barro y se arrastran por el pasto. Así, como si fueran simios o con "estilo Tarzán", entrenan los seguidores del movnat, un método pensado para favorecer el movimiento natural en los seres humanos. Es furor en el Reino Unido. Mirá también: Lo nuevo: entrenar haciendo equilibrio sobre el agua 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Este tipo de entrenamiento se presenta como muy efectivo y exigente, aunque sus promotores aseguran que se adapta a todos los niveles. Acá no se hacen repeticiones ni se usan máquinas como las de un gimnasio. Por el contrario, se desarrollan las habilidades propias del cuerpo humano - que están "adormecidas" por la vida sedentaria, como correr, saltar, trepar, escalar, nadar, mantener el equilibrio, lanzar, cargar, levantar, y hasta luchar o defenderse. Mirá también: Mirá cómo luce esta abuela de 64 años gracias al ejercicio 
+
+
+"Entrenamos para la vida real", sintetiza el sitio oficial de movnat. "Nos adaptamos a las demandas contextuales del terreno, la climatología, el estrés, la visibilidad, las limitaciones, el peso y las superficies irregulares", agrega.
+
+
+
+
+
+var act_1bc = new gigya.socialize.UserAction();
+
+var emailBodyCustom_1bc = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_1bc.setTitle('"Entrenamos para la vida real", sintetiza el sitio oficial de movnat. "Nos adaptamos a las demandas contextuales del terreno, la climatología, el estrés, la visibilidad, las limitaciones, el peso y&nbsp;las superficies irregulares", agrega.');
+act_1bc.setSubtitle('Mirá los videos.'); 
+act_1bc.setLinkBack('http://www.clarin.com/sociedad/Ejercitarse-mono-nueva-tendencia-fitness_0_1591040938.html');
+act_1bc.setDescription('El &quot;movnat&quot; es furor en el Reino Unido. Aseguran que el m&eacute;todo busca desarrollar habilidades de los humanos adormecidas por la vida sedentaria.&nbsp;');
+act_1bc.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/Ejercitarse-mono-nueva-tendencia-fitness_0_1591040938.html');
+
+var showShareBarUI_params_1bc=
+{ 
+containerID: 'shareQuote_1bc',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_1bc,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_1bc
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_1bc);
+ 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El sistema se nutre del Método Natural o Hebertismo (de Georges Hébert, de principios del siglo XX), las técnicas de gimnasia natural, el acondicionamiento militar, técnicas indígenas, sistemas de corrección de movimiento, el parkour (que se practica en entornos urbanos) y hasta de combates orientales, como el aikido.  Lo ideal es realizarlo al aire libre, pero también se practica en gimnasios. En un espacio similar a las clases de CrossFit, que son tendencia en Argentina, el alumno debe atravesar distintas postas, siempre usando la fuerza del propio cuerpo. Toda la clase se realiza descalzo y se utilizan complementos como barras, cajones y sogas. Mirá también: Juegos Olímpicos: quieren sumar 5 deportes nuevos Como toda novedad que se impone, el entrenamiento natural está presente en las redes sociales. Numerosos practicantes usan la etiqueta #movnat para compartir imágenes y videos donde muestran sus destrezas.     Holy unstable, Batman! I haven't crawled on a hand rail in ages. Un vídeo publicado por Satchel Paige (@satchelpaigemusic) el 6 de Jun de 2016 a la(s) 5:26 PDT
+     One of my favorite new practice routes... 1) Tuck pop up 2) Tripod transition 3) Low balance to pivot transition Un vídeo publicado por Chandler Stevens (@chandlerthemover) el 6 de Jun de 2016 a la(s) 11:43 PDT
+     Brachiation and swing ups in 90 degree temps to warm-up before I go lift weights! #fitness #movnat #naturalmovement Un vídeo publicado por Michael Sotos (@roguevalleystrong) el 5 de Jun de 2016 a la(s) 1:25 PDT
+     Managed to get out over the weekend for a bit of play and exploration. I love exploring what I can do like this because it make your weak points show up. Here those precision jumps at the back are well within my ability but because they are more than a metre up you can see how careful I am with them. #naturallyhuman #play #betheyounatureintended #naturalmovement #bigkid #movelikeahuman #movnat Un vídeo publicado por Naturally Human (@naturally.human) el 5 de Jun de 2016 a la(s) 12:33 PDT
+     It's been a while since I posted something. But the foot pinch challenge was a go🐒 #0181training #training #MovNat #footpinchchallenge #functionaltraining #functionalmovement #move #movers #climbing #naturalmovement #motivation #goodtimes #workout #fitspo #monkeyaround #playtime #freemovers #primal #instamood #workout #fitfamnl #noexcuses #workhard #instafit #roguefitness @movnat Un vídeo publicado por Micha Spanjersberg (@michael.1992) el 5 de Jun de 2016 a la(s) 9:54 PDT
+  

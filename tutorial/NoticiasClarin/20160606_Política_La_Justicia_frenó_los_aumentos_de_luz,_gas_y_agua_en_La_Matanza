@@ -1,0 +1,68 @@
+
+  Una jueza Civil y Comercial aceptó el amparo que solicitó la intendenta Verónica Magario y así, frenó los aumentos tarifarios en La Matanza.  La resolución de la Justicia establece "la suspensión de la aplicación de los incrementos dispuestos", que las facturas que aún no hayan sido emitidas se hagan con el tarifario anterior a los aumentos y que, en caso de haberse emitido y los abonados hayan pagado el monto con el aumento, "los importes deberán tenerse por pagados 'a cuenta', reintegrándose su monto en las próximas facturas hasta su compensación total". Mirá también: Macri reaparece en un acto en Lomas y anuncia beneficios para los clubes de barrio 
+
+
+ La intendenta de La Matanza afirmó que "esta medida hace justicia con el esfuerzo de toda la sociedad matancera que se unió para este reclamo".
+
+
+
+
+
+var act_507 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_507 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_507.setTitle(' La intendenta de La Matanza afirmó que "esta medida hace justicia con el esfuerzo de toda la sociedad matancera que se unió para este reclamo".');
+act_507.setSubtitle('FRENO A LOS INCREMENTOS DE SERVICIOS'); 
+act_507.setLinkBack('http://www.clarin.com/politica/Justicia-freno-aumentos-agua-Matanza_0_1590440976.html');
+act_507.setDescription('Una jueza Civil y Comercial dio v&iacute;a a un amparo de la intendenta y tiene validez tanto para hogares como para empresas, clubes de barrio y centros de jubilados del municipio, as&iacute; como para la Universidad de La Matanza.');
+act_507.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Justicia-freno-aumentos-agua-Matanza_0_1590440976.html');
+
+var showShareBarUI_params_507=
+{ 
+containerID: 'shareQuote_507',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_507,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_507
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_507);
+  El Juzgado de Primera Instancia en lo Civil y Comercial número 10, a cargo de la jueza Edith Irene Rota, dio lugar al recurso de amparo solicitado por la intendenta Magario para frenar los aumentos tarifarios en los servicios de luz, gas y agua potable tanto para los hogares como para las empresas del municipio, los clubes de barrio, los centros de jubilados, la Universidad Nacional de La Matanza y demás asociaciones sociales y deportivas. Mirá también: El mal estado en que dejó Cristina las instalaciones de la Casa Rosada  En la resolución emitida, la jueza entiende que Verónica Magario en su carácter de intendenta representa a la totalidad del municipio, y que las medidas de aumento dictadas por el Ministerio de Energía y Minería de la Nación y por la Subsecretaría de Recursos Hídricos del Ministerio del Interior, Obras Públicas y Vivienda de la Nación, "son susceptibles de generar un perjuicio irreparable a los usuarios de los servicios públicos señalados". Mirá también: Scioli tiene peli y Axel no besa  En tal sentido, la jueza resolvió en primer lugar declararse incompetente para permitir que el caso se remita a la esfera del Justicia Federal, y al mismo tiempo, "hacer lugar a la medida cautelar de no innovar solicitada por la Representante de este Municipio, ordenándose la suspensión de la aplicación de los incrementos dispuestos". La orden judicial es también específica en cuanto a los pasos a seguir a partir de ahora y establece que: se debe "ajustar las facturas que se hubieran emitido bajo los parámetros del tal normativa, a las tarifas previas a las citadas resoluciones, efectuándose nueva liquidación a tal fin".  Además, en su parágrafo cuarto la resolución advierte que "si la nueva facturación ordenada no fuera emitida antes de los sucesivos y periódicos vencimientos, las citadas empresas deberán admitir el pago del servicio según el cuadro tarifario vigente con anterioridad a los incrementos establecidos (...), sin que ello pueda implicar, en modo alguno, la interrupción o alteración de los servicios".  Y en el siguiente parágrafo establece: "para el caso de que los aumentos facturados se hubiesen abonado a la fecha de notificación de la presente, sus importes deberán tenerse por pagados 'a cuenta', reintegrándose su monto en las próximas facturas hasta su compensación total. La medida comprende también las boletas que éstas prestadoras emitan en lo sucesivo, que no deberán incluir el aumento previsto en las Resoluciones y Disposiciones señaladas, por el término de tres meses (180 días) a partir de la notificación de la presente". Mirá también: Imagen del fango K y lastre para el PJ  En tanto, el juez en lo Contencioso Administrativo de La Plata, Luis Arias, advirtió hoy que los usuarios de energía eléctrica de la provincia no deben pagar las facturas con aumentos, ya que así lo establece la medida que dictó días pasados, y aclaró que ese beneficio no incluye a los partidos del área metropolitana, que tienen el servicio de Edenor y Edesur. "Las personas que tienen su factura y se vence, lo que tienen que hacer es no pagar y esperar la nueva facturación", manifestó Arias, en referencia a su medida cautelar, dictada el martes pasado. El fallo abarca a "todas las empresas prestadoras y distribuidoras y cooperativas", sostuvo, "a excepción de la zona concesionada para Edenor y Edesur, que son servicios federales", destacó, en declaraciones a radio Plus de La Plata. El magistrado recordó que la medida "suspende la resolución número 22 de este año del Ministerio de Infraestructura y Servicios Públicos de la provincia de Buenos Aires, que aprobó el nuevo cuadro tarifario del servicio de energía eléctrica". Asimismo otorgó al gobierno de María Eugenia Vidal un "plazo de 24 horas, que ya venció, para que notifique a las empresas de las medidas cautelares" y, "sino lo hiciera habrá una multa de 30 mil pesos diarios para los funcionarios", aseguró. Tras ese término, habrá "un plazo de cinco días para las empresas para que emitan una nueva facturación". Las nuevas facturas, destacó, deben llegar "conforme a lo que (las empresas) venían cobrando antes" del incremento de las TARIFAS autorizados por el gobierno.

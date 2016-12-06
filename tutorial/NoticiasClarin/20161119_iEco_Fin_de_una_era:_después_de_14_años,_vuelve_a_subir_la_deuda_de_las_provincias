@@ -1,0 +1,134 @@
+
+La deuda de las provincias “se ha incrementado significativamente” en lo que va del año. Así lo considera un trabajo reciente del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento, donde advierte que el monto que las provincias adeudan llegará a ser el 29% de sus ingresos para diciembre. En 2015 fue 26%. Desde el punto de vista macroeconómico y político, la cifra de 29% parece no revestir gravedad. Dentro del Gobierno, y en el mercado mismo, hay coincidencia: los montos son bajos, muchas provincias tomaron prestado para hacer obras de infraestructura con lo cuál verán subir sus activos y endeudarse es una opción redituable para ganar las elecciones en 2017. 
+
+
+"Es la primera vez desde 2002 que sube la deuda en relación a la recaudación” (Félix Piacentini director de la consultora NOAnomics)
+
+
+
+
+
+var act_fce = new gigya.socialize.UserAction();
+
+var emailBodyCustom_fce = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_fce.setTitle('"Es la primera vez desde 2002 que sube la deuda en relación a la recaudación” (Félix Piacentini director de la consultora NOAnomics)');
+act_fce.setSubtitle(' '); 
+act_fce.setLinkBack('http://www.clarin.com/ieco/Fin-despues-vuelve-subir-provincias_0_1690031126.html');
+act_fce.setDescription('Será casi el 30% de la recaudación total. Si bien el nivel aún es bajo, advierten por la emisión en dólares.');
+act_fce.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/Fin-despues-vuelve-subir-provincias_0_1690031126.html');
+
+var showShareBarUI_params_fce=
+{ 
+containerID: 'shareQuote_fce',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_fce,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_fce
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_fce);
+ Pero entonces, ¿dónde yace la preocupación? Una es el cambio de tendencia. Félix Piacentini, economista y director de NOAnomics, lo pone así: “Es el primer aumento de la deuda como porcentaje de la recaudación en las provincias desde 2002 a la fecha. Hay que tener cuidado como sigue esto hacia adelante”. Piacentini es de los economistas que piensa que sin una adecuación del tamaño del Estado, no solo disminuirán las posibilidades de crecimiento de la economía argentina sino que aumentará la chance de que sus niveles de endeudamiento crezcan como sucedió en otras etapas por no ordenar las cuentas públicas. El déficit de las provincias se incrementará de 0,9% del PBI en 2015 a 1,3% este año según estimaciones privadas. 
+
+
+"Tomar prestado en dólares explica el 95% de este incremento de la deuda provincial” (Walter Agosto Investigador principal de Cippec)
+
+
+
+
+
+var act_367 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_367 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_367.setTitle('"Tomar prestado en dólares explica el 95% de este incremento de la deuda provincial” (Walter Agosto Investigador principal de Cippec)');
+act_367.setSubtitle(' '); 
+act_367.setLinkBack('http://www.clarin.com/ieco/Fin-despues-vuelve-subir-provincias_0_1690031126.html');
+act_367.setDescription('Será casi el 30% de la recaudación total. Si bien el nivel aún es bajo, advierten por la emisión en dólares.');
+act_367.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/Fin-despues-vuelve-subir-provincias_0_1690031126.html');
+
+var showShareBarUI_params_367=
+{ 
+containerID: 'shareQuote_367',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_367,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_367
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_367);
+ Pero hay otra preocupación detrás de este incremento de las obligaciones de las provincias. Walter Agosto, investigador principal de Política Fiscal de CIPPEC y autor del estudio, advierte que el actual marco legal y de gestión de la deuda pública resulta inadecuado en un contexto donde las provincias vuelven a pedir prestado en dólares y sus ingresos son en pesos. Nueve jurisdicciones han emitido 7.060 millones de dólares en lo que va del año, apunta el trabajo de Cippec, en tanto que diez lo han hecho en moneda nacional por un monto de $ 39.822 millones. “Este hecho explica que el stock total haya crecido un 35% en los primeros siete meses del año. El endeudamiento en dólares explica el 95% de dicho incremento”, dice Agosto. Estos mayores niveles de endeudamiento vienen acompañados de un proceso de redolarización iniciado en 2013 y profundizado en los años siguientes. Mientras que en 2013 la deuda en moneda extranjera representó el 30% del total, en la actualidad ronda el 60%. Según señala el Fondo Monetario en su artículo IV que publicó hace una semana atrás, una devaluación del peso de 50% en 2017, “incrementaría a 47% la participación de la deuda de las provincias sobre el total de sus ingresos”. La mayor parte de la deuda de las provincias está concentrada en un puñado de jurisdicciones. La Ciudad y la provincia de Buenos Aires contribuyen a explicar más de la mitad. El 20% restante corre para Córdoba, Chubut, Mendoza, Neuquén y Santa Cruz. El secretario de Finanzas de la provincia de Buenos Aires, Sebastián Katz, señala que los servicios de la deuda de la provincia representarán en los próximos años menos del 10% de los ingresos totales, “una cifra muy baja”. Y que el aumento de la deuda para la Provincia previsto para 2017, de unos $60.000 millones, se usará para pagar amortizaciones y financiar nuevas obras. La provincia contempla un equilibrio operativo para el año que viene con lo cual el déficit proyectado de $35.000 millones se explicaría casi en un 100% por el aumento de inversión en infraestructura. En 2017 las provincias podrían endeudarse para financiar sus desequilibrios siempre que cumplan con una reducción del 10% del déficit o un tope en el crecimiento del gasto corriente.  

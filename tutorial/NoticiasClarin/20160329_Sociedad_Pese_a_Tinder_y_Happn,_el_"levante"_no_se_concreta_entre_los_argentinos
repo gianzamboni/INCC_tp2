@@ -1,0 +1,34 @@
+
+Ella acaba de bajarse Happn. “Están todos buenos. Esto es la perdición”, les dice a sus amigas el jueves antes de ir a un after office en Palermo. Florencia no es una adolescente que use Snapchat o le guste sacarse selfies de cuerpo entero frente al espejo. Tiene 31, es abogada y hace dos meses que cortó con su novio. “Sí, pero tranqui. Al principio sos una ‘nena en tienda de caramelos’. Pero después se te va a pasar la excitación”, le dice Josefina, una comunicadora social que ya la borró y volvió a descargar varias veces. La “novata” no se desalentó y siguió dando likes, recibiendo saludos y hasta chateando con cinco hombres a la vez. A un mes de esa primera descarga, Florencia borró Happn  de su iPhone. ¿Cuándo se acabó el dulce? Cuando pasó más tiempo conectada a la aplicación que saliendo con hombres. Y este efecto colateral de las llamadas aplicaciones “para conseguir citas” se multiplica entre los usuarios de Argentina.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Happn ayuda a encontrar a quien te cruzaste.Florencia y Josefina representan el yin y el yang de las sensaciones inmediatas y a largo plazo del “amor de app”. Y no es una cuestión de género, es una cuestión de números. A poco más de dos años de haber conquistado los smartphones de los solteros en Argentina -tiene más de 500 mil usuarios activos- Tinder está formado por un 52% hombres y 48% de mujeres que se congratulan por haber matcheado (cuando ambos usuarios se dan like -“me gusta”- se produce la “coincidencia” o match y se abre un chat) y que, con el paso del tiempo, consiguen pareja, disfutan del sexo casual o simplemente se quedan en el limbo de ver un catálogo de candidatos (por día hacen más de 15 millones de “deslizados” para mirar perfiles) con los que, en menor porcentaje, se puede llegar a hablar y, con la mayoría, no habrá contacto físico.Mirá también: Experiencia Tinder: "¿Por qué me borraste?"Lo mismo sucede con Happn -llegó a Argentina hace un año, tiene casi 300 mil usuarios en Buenos Aires y también funciona por geolocalización-que apunta a reencontrarnos con quien nos hayamos cruzado en la calle, en un boliche, en el trabajo o hasta dentro de un avión. Al igual que Tinder, en Happn los hombres son mayoría y los likes y saludos se dan y reciben a mansalva. Pero ¿Cuándo se concreta la salida?“Es medio pesado tener que responder cinco o seis veces por día a un ¿Todo bien? ¿Qué hacías? ¿De dónde sos?”, cuenta a Clarín Mariela, asesora de una diputada nacional que apaga Tinder y Happn (en la jerga se dice “ponerse oculto”) cuando va a su oficina en el Congreso para evitar hacer “match” con algún colega. “Estás vinculado por un ‘hilito’ a la persona con la que empezaste a chatear. Así que a la mínima cosa que no te guste, al primer chiste malo o la primera desubicación ¡Pum! lo bloqueas o le dejás de hablar. Esto no te da el tiempo para conocer a alguien. Sólo ves si es lindo y si es copado chateando”, explica con la seguridad de quien hizo muchos “swipes” (deslizamientos)  en Tinder y dio muchos corazones en Happn. “Lo bueno es salir con un pibe. Llegar a la salida ya es mucho porque muchos te cuelgan. Una vez en el bar, si no te gusta, te escapás o hacés la gran ‘un amigo tuvo un accidente’ y listo”, dice una amiga de Mariela que bromea con que en las apps de citas está pasando lo mismo que en plano real: “falta el tipo que se la banque posta. Terminamos encarando nosotras. Ya cansa”.Un match real. Elisa y Giovanni se conocieron a través de Tinder.Y los números la acompañan: las argentinas están entre las más decididas a la hora de enviar “saludos”, para llamar la atención directa de un hombre,  con un promedio 16,5 saludos por mes sólo en Happn (ambas aplicaciones suelen coexistir en los smartphones).
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Tinder lanza 'Super like' y triplica la probabilidad de matchear.“Cuando recién te bajás Tinder crees que vas a tener sexo todos los fines de semana. Pero hasta la mina que parece más provocativa en las fotos termina queriendo pasar a WhatsApp para seguir un charla interminable que puede terminar en CERO salida. A Tinder le falta acción”, dice sin vueltas un traumatólogo de 30 años que prefiere no dar su nombre. “Sabemos que esto no es una app de sexo. Pero se supone que es para conocer chicas, no para chatear con ellas”, agrega entre risas y sentencia “creo que hablé de temas más profundos con chicas Tinder (Tinderellas en inglés) que con mis ex novias”.Mirá también: Los argentinos, entre los que más recurren a las app del levanteAl parecer, el bajo porcentaje de citas concretadas mediante estas apps se extiende en todo el mundo. Y como nada ayudó el Super Like y la varita mágica que incorporaron Tinder y Happn para que los usuarios digan que les gusta mucho esa persona, ya surgió en EE.UU. la app Dine, con el lema "más citas, menos deslizamientos". Creada para que dos usuarios se encuentren directamente en el bar o café que hayan elegido antes, incluso, de que suceda el “match”. ¿Será la solución? Según cómo lo usen los solteros argentinos cuando llegue al país.

@@ -1,0 +1,36 @@
+
+¿Cómo transformar la educación para adaptarla al siglo XXI? Ese fue el eje de la jornada “Innovación educativa para la sociedad del conocimiento”, organizada por Fundación Noble para celebrar su 50° aniversario. Ayer se dieron cita en el Malba especialistas nacionales y extranjeros, funcionarios, líderes de ONG y docentes, con el objetivo de debatir sobre los retos que plantea el escenario educativo. Con la conducción de María Laura Santillán, también se presentaron experiencias innovadoras que ya están respondiendo con éxito a esos desafíos urgentes. Mirá también: Más jornada extendida y mejor formación docente, entre las prioridades En la apertura, Inés Aguerrondo, socióloga especialista en educación de la UCA, habló sobre educación para el siglo XXI. José Luis Roces, rector del ITBA, se refirió a las “competencias” que serán imprescindibles en el futuro. Y Javier Simón, especialista del INFOD, se enfocó en el “pensamiento tecnológico”. Luego llegó el turno de cuatro experiencias innovadoras aplicadas en Perú, México, Brasil y Argentina. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Ethel44388140/status/790693635637579776",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79069363563757977")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Jorge Yzusqui habló sobre las Escuelas Innova, una cadena de colegios privados de Perú, que desarrolló un modelo educativo disruptivo, reconocido por el BID entre las 10 innovaciones educativas más “inspiradoras” de América Latina. Se basa en cuatro ejes: una arquitectura especialmente diseñada para fines educativos; la integración de la tecnología; profesores constantemente capacitados; y la formación de los alumnos en valores y en las habilidades para el siglo XXI. MIRÁ TAMBIÉN LA FOTOGALERÍA HD “El modelo pedagógico está basado en dos formas de trabajo: un 70% es grupal y el resto individual”, explicó Yzusqui. En el trabajo grupal se usa la indagación como método de conocimiento: “Los profesores lanzan un desafío a los alumnos y ellos van descubriendo el conocimiento”. Los docentes son guías; los alumnos buscan en Internet, trabajan en equipos y colaborativamente van descubriendo las respuestas. Mirá también: Pese a la polémica, la prueba Aprender avanza en todo el país Juan Martín Martínez Becerra dio a conocer las Redes de Tutoría de México. Arrancó hace más de 10 años en escuelas públicas rurales y hoy se extiende en más de 10.000 colegios de ese país. “Los principios pedagógicos de la relación tutora se basan en una creencia: que todos tienen capacidad de aprender”, señaló Martínez Becerra. El punto de partida del modelo es el interés genuino del estudiante: “El querer aprender es uno de los principales factores que determinan el aprendizaje”. Una vez que el alumno alcanzó los aprendizajes esperados, el ciclo se completa cuando él enseña lo aprendido a un compañero. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/mechimiguel/status/790566620548784129",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79056662054878412")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Marco Fisbhen viajó desde Brasil para presentar la experiencia de Descomplica, el portal de videos educativos más grande de ese país, que suma 12 millones de alumnos mensuales. Fisbhen explicó que el proyecto se basa en dos premisas: “Aprender es divertido –lo que no quiere decir que sea gracioso ni fácil– y es para todos”. “Queremos que los mejores profesores del mundo lleguen a todos, con contenidos interdisciplinarios y contextualizados”, aseguró el fundador de Descomplica. Y graficó el alcance de la iniciativa con una cifra elocuente: “Una clase en vivo llegó a tener 840 mil alumnos. Fue trending topic mundial y superó a la cantante inglesa Adele, que ese día había sacado su último disco”. La última experiencia innovadora presentada ayer fue Arte, Bienestar y Creatividad en la Comunidad (ABC), de la Fundación Crear Vale la Pena. Graciela Cañás explicó que este modelo, inspirado en una iniciativa escocesa y aplicado en escuelas públicas argentinas, integra el arte y la creatividad en forma transversal a los contenidos curriculares. En las aulas, junto al docente trabaja un “artista vinculante” que acerca los contenidos escolares por medio del arte. “De esta forma, mejora la calidad de los aprendizajes y la convivencia”, aseguró. Mirá también: Tres chicos argentinos subieron al podio de las matemáticas Todas las experiencias mostraron resultados que las avalan. En el caso de ABC, el 97% de los docentes percibe que el proyecto mejoró la convivencia y el 83% sostiene que mejoró el rendimiento. En Descomplica multiplicaron las posibilidades de que un alumno brasileño de bajos ingresos logre acceder a la educación superior, en un sistema muy selectivo. En México, los alumnos que participaron de las Redes de Tutoría mejoraron rápido sus resultados en la prueba nacional de secundaria. Las escuelas Innova, en tanto, duplicaron el promedio del desempeño que surge de las evaluaciones nacionales en Perú, en lengua y matemática. El evento se transmitió desde las cuentas de Fundación Noble en redes sociales, tanto en Facebook como Twitter. Para seguirlos, se utilizó el hashtag #DebateEducativo. --------- Declarada de interés educativo
+
+Los diputados Lia Rueda y José Acevedo, de la legislatura porteña, declararon la jornada de ayer de interés educativo. Después de las diversas exposiciones, Acevedo entregó la distinción. La recibió Marcela Noble Herrera, por el Grupo Clarín. Acompañaron Martín Etchevers, Mercedes Iñigo y María Julia Manzini, del Grupo Clarín; María José Schiariti, de la Fundación Noble; y María Laura Santillán. Durante los 30 días de septiembre los medios del Grupo Clarín publicaron diversas notas sobre educación, un tema clave para el futuro del país. ------- Un Malba lleno, con destacadas personalidades De Grupo Clarín estuvieron José Aranda, Martín Etchevers, Marcela y Felipe Noble Herrera, Florencia Pagliaro, Horacio Quirós y Ricardo Kirschbaum. También asistieron Guillermo Jaim Etcheverry, Diego Golombek, Pablo Jacovkis, Gustavo Iaies, Gabriel Sánchez Zinny, Axel Rivas, Agustina Cavanagh, Claudia Romero, Susana Decibe, Silvia Fajre, Cris Morena, María Cher, Oscar Ghillione, Mariana Shahinian, Guillermo Ambrogi, Aldo Donzis, Jorge Sigal, Agustina Blanco, Mercedes Miguel, José M. del Corral, Hugo Masci, Verónica Torassa, Jesús Rodríguez, Fabio Tarasow, María Leguizamón, Eduardo Mondino, Norberto Frigerio, Diego Santilli, José Acevedo y Josefina Maxit.

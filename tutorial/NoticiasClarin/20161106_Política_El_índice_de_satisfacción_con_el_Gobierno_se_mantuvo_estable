@@ -1,0 +1,68 @@
+
+Luego de un leve repunte el mes pasado, la satisfacción de los argentinos respecto del desempeño del Gobierno de Mauricio Macri se mantuvo estable durante octubre. Así lo muestran los resultados de la encuesta “Indicadores de Satisfacción Político Institucional” (ISPI), que realizó de forma conjunta Ipsos Argentina y la Universidad de San Andrés. El estudio se realizó vía online, del 1 al 31 de octubre pasado, y comprendió 1001 encuestados de 16 a 55 años de edad y de distintos puntos del país. El Poder Ejecutivo cosechó por segundo mes consecutivo una nota de 4,6 puntos de nivel de satisfacción. Puntualmente, a los encuestados se les consultó: “Utilizando una escala de 1 a 10 donde 1 es “Muy insatisfecho/a” y 10 “Muy satisfecho/a”, ¿Cuál es su grado de satisfacción con el Poder Ejecutivo?”. Así, otra vez, la Casa Rosada obtuvo una calificación superior respecto a los otros poderes del Estado: la satisfacción con el Poder Legislativo volvió a ser -también por segunda ocasión seguida- 4,4, mientras que el Poder Judicial se mantuvo en 4 puntos. 
+
+
+La cifra: 4,6.Es el índice de satisfacción que sacó el Gobierno en una escala de 1 a 10.
+
+
+
+
+
+var act_226 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_226 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_226.setTitle('La cifra: 4,6.Es el índice de satisfacción que sacó el Gobierno en una escala de 1 a 10.');
+act_226.setSubtitle('El termometro social'); 
+act_226.setLinkBack('http://www.clarin.com/politica/indice-satisfaccion-Gobierno-mantuvo-estable_0_1682231814.html');
+act_226.setDescription('Así lo determinó una encuesta de ISPI. La Casa Rosada cosechó más adhesión que la Justicia.');
+act_226.addActionLink('VER MÁS', 'http://www.clarin.com/politica/indice-satisfaccion-Gobierno-mantuvo-estable_0_1682231814.html');
+
+var showShareBarUI_params_226=
+{ 
+containerID: 'shareQuote_226',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_226,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_226
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_226);
+ La Justicia, a diferencia de la suerte que tuvo Ejecutivo, esboza desde junio una caída constante en el nivel de conformidad de los argentinos. El Gobierno nacional registró un mayor puntaje en la franja etaria que va de los 25 a los 34 años calificó con 5,1 puntos, mientras que entre los más jóvenes, de 16 a 24 años, promedió 5 puntos. A nivel regional, la puntuación respecto de la satisfacción fue más baja en la zona cuyana (4,6 puntos) que en el Gran Buenos Aires y el Interior de la Provincia (4,8 puntos). En tanto, la nota más alta para el Gobierno está en la Ciudad de Buenos Aires, en el NOA y en la Zona Centro (5,1). Curiosamente, el trabajo revela que los argentinos se muestran más satisfechos al ser consultados por “cómo marchan las cosas en el país”: promedió 4,9 puntos. De acuerdo con el sondeo, las áreas de política pública con menor satisfacción resultaron: Seguridad (3,8 puntos), Justicia (4 puntos); Empleo (4,1 puntos), Económica (4,2 puntos); y Defensa (4,4 puntos). Por otra patye, las áreas de mayor conformidad del sondeo fueron: Turismo (5,4 puntos), Relaciones Exteriores (5,3 puntos), Cultural (5,2), Ciencia y Tecnología (5,2), Medios (5,2). 

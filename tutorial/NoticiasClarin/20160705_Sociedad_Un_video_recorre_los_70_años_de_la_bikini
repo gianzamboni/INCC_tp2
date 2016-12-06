@@ -1,0 +1,34 @@
+
+“De pronto flash, la chica del bikini azul”, inmortalizaba allá por la década del ochenta un joven Luis Miguel. Pasaron setenta años entre aquellos diseños cerrados hasta el cuello y estos trapitos confeccionados con centímetros de tela que ahora lucen la mayoría de las mujeres, y es -sin dudas- el traje de baño que predomina en las playas y piletas de todo el mundo.  El 5 de julio de 1946, el ingeniero mecánico, Louis Réard, entró en el mundo de la moda al crear una prenda que siete décadas más tarde usan tanto las adolescentes como las abuelas, las amas de casa como las figuras políticas; las flacas y las rellenitas. Decidió llamarla "bikini" en homenaje al conjunto de arrecifes de coral Bikini, cercano a las Islas Marshall, donde las fuerzas armadas estadounidenses habían desplegado ensayos con bombas nucleares unos meses antes. Un video muestra la historia que recorrió la prenda desde entonces hasta hoy. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Los comienzos no fueron fáciles. El Vaticano la tachó por “pecaminosa” y se prohibió en países como Italia, España y Bélgica. Hasta a las modelos de entonces les costaba atreverse a salir en público a enseñar la nueva prenda de baño de 76 centímetros cuadrados divididos en dos piezas. Pero hubo alguien, Micheline Bernardini, bailarina de un casino de París, quien se animó a mostrarla en público. Mirá la fotogalería en HD “Si bien la bikini apareció en la década del 40, su generalización fue en los años 60 y no es casual porque en ese momento la mujer cobra conciencia de su propio cuerpo como nunca, son años feministas, de libertad, y eso se ve en una prenda que revela la importancia de mostrar el cuerpo”, reflexiona a Clarín Susana Saulquin, socióloga especializada en moda y autora de Historia de la moda argentina. Leé también: "El aniversario de una prenda revolucionaria: la bikini cumple 70 años"  Microbikini, trikini, tankini y burkini. Esta vestimenta de dos piezas existe en la actualidad en múltiples formas y variantes, pero desde que los trajes de baño aparecieron se modificaron drásticamente, simbolizando también la liberación del cuerpo de la mujer.  El año pasado se viralizó un video en donde la modelo y presentadora de la televisión estadounidense Amanda Cerny luce un total de 11 looks, que pasan desde el primer traje de baño compuesto de varias capas hasta los minúsculos bikinis de la actualidad. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ “A diferencia de otras modas, que son cíclicas y por eso van y vienen, la bikini, como la minifalda o el jean, generaron cambios tan grandes en las costumbres que quedaron como formas de vestir instaladas”, sostiene Saulquin. La hipótesis se constata en playas de todo el mundo.

@@ -1,0 +1,68 @@
+
+Una nueva dirigencia empresaria está surgiendo en la Argentina al calor de la tecnología y la innovación. Paradójicamente, son emprendedores que nacieron globales a fines de los ’90 y principio de este siglo cuando el país se cerró sobre sí mismo. Hoy sobresalen en Latinoamérica y están decididos a ser protagonistas de la nueva economía del conocimiento, un sector en el que Argentina tiene grandes posibilidades. Por eso el gobierno del presidente Macri está implementando políticas públicas para transformar al país en un real hub internacional de innovación. La reinserción del país en el mundo promete darle más vigor y escala a este proceso. Mirá también: Marcos Galperín: “Soy súper optimista para el país en los próximos años” Recientemente se sancionó la ley del emprendedor y se están creando fondos de capital semilla y de capital de riesgo. Si bien otros países como Chile y Brasil ya implementaron este tipo de medidas, Argentina tiene ventajas notables. De los 6 unicornios de América Latina (compañías de tecnología valuadas en más de US$1.000 millones) 4 son argentinos. MercadoLibre y OLX en comercio electrónico, Despegar.com en turismo y Globant en software. Pero son sólo las cabezas de un movimiento mayor. Satelogic desarrolla minisatélites que compiten con la NASA; Technysis, de software para banca online que se usa en toda la región; Bioceres generó en Rosario un polo de biotecnología para el agro de vanguardia; Murali creó un canvas digital de planificación que utiliza IBM en todo el mundo; Unleash, un virus inteligente para curar el cáncer. Mirá también: Martín Migoya: “Nos gustaría un empresariado que piense un país en grande” 
+
+
+Esta generación de jóvenes emprendedores son contraculturales y expresan los valores que el país necesita
+
+
+
+
+
+var act_c1a = new gigya.socialize.UserAction();
+
+var emailBodyCustom_c1a = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_c1a.setTitle('Esta generación de jóvenes emprendedores son contraculturales y expresan los valores que el país necesita');
+act_c1a.setSubtitle('Por María Eugenia Estenssoro'); 
+act_c1a.setLinkBack('http://www.clarin.com/ieco/Innovacion-vision-futuro_0_1647435406.html');
+act_c1a.setDescription('Surge una nueva dirigencia empresaria en el país. Nacieron globales cuando Argentina se cerró sobre sí misma. ');
+act_c1a.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/Innovacion-vision-futuro_0_1647435406.html');
+
+var showShareBarUI_params_c1a=
+{ 
+containerID: 'shareQuote_c1a',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_c1a,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_c1a
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_c1a);
+ Mirá también: Roberto Souviron: "El que mejor se adapta es el que sale más favorecido" Las empresas de tecnología ya emplean a 170.000 personas en total, más que la industria automotriz. Sus exportaciones de US$ 7.000 millones cuadruplican las de la carne. Son el tercer sector en importancia en ventas al exterior. Expertos en desarrollo sostienen que en la sociedad posindustrial aquellos países que no logren generar ventajas competitivas en la economía del conocimiento quedarán más rezagados que nunca. Extensos estudios también demuestran que las economías extractivas, basadas en materias primas (soja, petróleo o minería) no generan necesariamente ni progreso ni inclusión. Allí están Venezuela y los Emiratos Arabes como ejemplo. Mirá también: Alec Oxenford: "Importa más el know how que el know who” Un rasgo muy destacable de esta generación de jóvenes emprendedores es que son contraculturales y expresan los valores que el país necesita. Mientras tradicionalmente la mayoría del empresariado se concentró en el mercado local, ellos salieron a conquistar el mundo. Mientras aquí se priorizó el corto plazo, ellos se enfocaron en el largo; cuando la mayoría apostó al tipo de cambio alto para exportar, ellos se enfocaron en la calidad global. El ecosistema emprendedor tiene, además, una cultura distintiva: trabajan en red, colaboran unos con otros, incluso entre rivales, y quienes alcanzan el éxito apoyan y financian a los que vienen detrás. Están demostrando que en nuestro país se puede tener éxito apostando a la calidad, la transparencia y el mercado global. Y que no somos tan individualistas como pensamos.

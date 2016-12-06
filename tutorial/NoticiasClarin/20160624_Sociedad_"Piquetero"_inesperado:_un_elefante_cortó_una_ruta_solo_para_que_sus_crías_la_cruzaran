@@ -1,0 +1,18 @@
+
+Los animales son capaces de cualquier cosa por defender a su crías. Hasta de cortar el tránsito de una ruta. Eso fue lo que hizo un elefante en la India, que impidió que los autos avanzaran para que su “familia” pueda cruzar del otro lado de la cinta asfáltica. El video compartido en YouTube se viralizó intensamente. También leé: "Video: salvó a un elefante bebé y lo llevó a vivir a su casa"  Las imágenes fueron registradas en el Parque Nacional De Gorumara, ubicado en West Bengal, India. Al inicio del clip se aprecia que un elefante de gran porte aleja a un hombre que pasaba por el lugar en bicicleta, y a unos autos que están cerca. Cuando el animal ve que ya nadie puede molestar, "avisa" a sus crías para que puedan cruzar la ruta. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Instantes más tarde se puede ver cómo entonces los elefantes caminan sin que nadie los moleste. Esta tierna acción del animal hizo que el video se convirtiera en viral en las redes sociales. También leé: "Un elefante rechazado causó destrozos y pánico entre los conductores" En YouTube, solo la copia difundida por el usuario "Jasoprakas Debdas", publicada el 23 de mayo, hasta la fecha sumó más de un millón de reproducciones.

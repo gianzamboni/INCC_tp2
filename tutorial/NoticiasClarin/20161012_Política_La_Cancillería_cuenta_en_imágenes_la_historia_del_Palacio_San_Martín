@@ -1,0 +1,18 @@
+
+Monumento histórico nacional, el Palacio San Martín es uno de los edificios más emblemáticos de la Ciudad de Buenos Aires por el que desfilaron los Presidentes y cancilleres argentinos de los últimos cien años. Pero también mandatarios y ministros de todo el mundo. Sede Ceremonial de la Cancillería, su historia se conocerá ahora en unos curiosos audiovisuales que ordenó difundir ahora la ministra Susana Malcorra. Son ocho capítulos que se podrá ir viendo a través de las cuentas de Twitter, Facebook, Instagram y YouTube, del ministerio. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Según un comunicado de la Dirección de Prensa y Difusión de la Cancillería la historia se llama "Miradas del Palacio San Martín” y se podrá ver un capítulo por semana. El Palacio de estilo Bellas Artes fue construido entre 1905 y 1909 para la familia Anchorena, una de las mas aristocráticas de Buenos Aires. Fue adquirido por el Gobierno nacional en 1936 para ser la sede de la Cancillería. En 1993, se inauguró el edificio de enfrente, sobre Arenales y Esmeralda, y quedó como gran espacio ceremonial. Incluso suele abrir sus puertas la llamada Noche de los Museos. Pero sufrió un enorme abandono en la última década, y ahora estudian su restauración. 

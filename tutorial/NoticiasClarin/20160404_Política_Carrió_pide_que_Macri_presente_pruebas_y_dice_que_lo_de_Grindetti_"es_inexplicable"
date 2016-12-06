@@ -1,0 +1,116 @@
+
+Elisca Carrió salió hoy a través de la red social Twitter a diferenciarse del Gobierno nacional y volvió a sacudir a la administración macrista. Esta vez, por los llamados "Panamá Papers", que hablan de que el Presidente argentino figura como director de una compañía radicada en Bahamas. 
+
+
+Carrió dijo que Macri "debe presentar las pruebas de sus dichos. Y fustigó al intendente de Lanús y ex ministro porteño,  Néstor Grindetti, al decir que "su situación es inexplicable"
+
+
+
+
+
+var act_3d7 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_3d7 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_3d7.setTitle('Carri&oacute; dijo que Macri &quot;debe presentar las pruebas de sus dichos. Y fustig&oacute; al intendente de Lan&uacute;s y ex ministro porte&ntilde;o, &nbsp;N&eacute;stor Grindetti, al decir que &quot;su situaci&oacute;n es inexplicable&quot;');
+act_3d7.setSubtitle('PANAMÁ PAPERS'); 
+act_3d7.setLinkBack('http://www.clarin.com/politica/Carrio-Macri-presente-pruebas-Angelici_0_1552644988.html');
+act_3d7.setDescription('La diputada asegura que la revelaci&oacute;n &ldquo;es una buena noticia para todo el mundo&rdquo;. Y&nbsp;vuelve a la carga contra&nbsp;Angelici.');
+act_3d7.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Carrio-Macri-presente-pruebas-Angelici_0_1552644988.html');
+
+var showShareBarUI_params_3d7=
+{ 
+containerID: 'shareQuote_3d7',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_3d7,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_3d7
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_3d7);
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/elisacarrio/status/717026279984332800",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71702627998433280")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ “Esta es una buena noticia para todo el mundo, que se empiecen a conocer las sociedades offshore”, señaló Carrió y afirmó que “la única comisión investigadora de sociedades offshore en Argentina, fue la comisión sobre lavado de dinero de hace 15 años, que yo presidí. Y ahí ya estaba el estudio Fonseca de Panamá y las cuentas provenientes del narcotráfico del Gral. Noriega”. La diputada integrante de Cambiemos mencionó una vez más al amigo de Macri, Daniel Angelici, lo que presagia un nuevo cruce con el Poder Ejecutivo:  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/elisacarrio/status/717025998429110272",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71702599842911027")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ "Es muy bueno para el mundo que toda esta información se de a conocer. El Presidente Mauricio Macri, que proviene de una familia de empresarios y él mismo lo ha sido, debe probar sus dichos", detalla. Más tarde, mediante un comunicado, Carrió dice que "en el caso de Daniel Muñóz, que fue Secretario Privado del matrimonio Kirchner y que fue el portador de los bolsos repletos de dinero que el ex Presidente recibía, se trata lisa y llanamente de dinero proveniente de la corrupción política". "Los 'beneficials owners' de Aldyne son Jorge Galitis y Edgardo Levita. Galitis es socio en Desarrollos Maipú de Daniel Angelici", detalla. Y luego dispara: "La situación de Néstor Grindetti es inexplicable". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/elisacarrio/status/717024608008986624",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71702460800898662")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

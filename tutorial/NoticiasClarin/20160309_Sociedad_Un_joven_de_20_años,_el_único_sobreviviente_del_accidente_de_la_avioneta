@@ -1,0 +1,18 @@
+
+Ayer a la noche, dos avionetas chocaron en pleno vuelo en las inmediaciones del Aero Country Club de General Rodríguez. Tres personas murieron en el lugar y Alejo Andrade, de 20 años, logró sobrevivir. Volaba en una avioneta Petrel junto al fallecido piloto Javier Sonin. El otro piloto, que también murió, era sobrino del dirigente aeronáutico Pablo Biró. Mirá también: El sobrino del titular de la Asociación de Pilotos, uno de los fallecidos en el choque de dos aviones Después de la tragedia, el joven fue rescatado por los bomberos y lo trasladaron al Hospital Vicente López y Planes de la localidad de General Rodríguez, donde sucedió el accidente. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Carlos Marino, director del establecimiento, confirmó a Clarín que Alejo estuvo en terapia intensiva y que después lo derivaron al Hospital Italiano en Capital, porque contaba con una obra social. "Estuvo acá internado en el día de ayer con una fractura expuesta de tobillo, una fractura de columna lumbar y una herida contuso cortante en el cráneo, con pérdida de conocimiento", informó Marino. Mirá también: ¿Cómo fue el choque de las dos avionetas? En el Vicente López y Planes lo intervinieron quirúrgicamente en la guardia. "Se le hizo una toilette (una limpieza) y una estabilización del tobillo", contó Marino. Respecto a la gravedad de la situación, respondió que "el pronóstico es reservado desde el punto de vista de su fractura de tobillo, que tiene un grado de compromiso, y habrá que esperar las próximas semanas su evolución". "Pero el resto está bien", comentó el director del hospital y confirmó que el muchacho recuperó el conocimiento. De todos modos, "eso está en observación todavía y justamente está en el Hospital Italiano por este tema". Agregó que después de este tipo de traumas siempre hay un segundo momento a resolver: habitualmente se observa, se hacen imágenes y en función de eso hay un tratamiento farmacológico. "Esto evoluciona en el día a día. Es un paciente joven y esperamos con todo salga bien. Por una fractura expuesta de tobillo se puede tener una mínima secuela o todo lo contrario. Son fracturas complejas y difíciles de tratar", concluyó Marino.

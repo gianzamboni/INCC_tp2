@@ -1,0 +1,22 @@
+
+No es un hallazgo cualquiera. No porque sea un animal muy antiguo sino por su estado de conservación. Hace sólo unas semanas los científicos anunciaron el hallazgo del primer cerebro bien conservado de un cánido de la época del Pleistoceno, pero el animal no sólo conservaba su cerebro en buen estado, sino también su aspecto externo, tal y como fue hace 12.460 años: con la piel, el pelo, los huesos. El descubrimiento no llegó por casualidad. En 2011 hallaron en el noroeste de Rusia los primeros restos de perro, cuando los buscadores intentaban dar con colmillos de mamuts. Cerca de aquellos primeros restos se encontraron los nuevos, que destacan por su apariencia impecable. Primero dieron con un hocico y luego descubrieron el resto del cuerpo, de lo que parecía un cachorro de perro de la Edad del Hielo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En total hallaron un par de cachorros en la misma zona, con cinco años de diferencia, pero en esta ocasión el segundo se encuentra en perfecto estado de conservación, incluso mejor que el primero. Los restos se encontraron cerca de lo que se cree que son vestigios de actividad humana en el distrito de Ust-Yansky deYakutia, en una empinada orilla del río Syalakh. El hecho de que los cuerpos se hayan encontrado cerca de otros restos de asentamientos humanos hace pensar que puedan haber sido animales domésticos. Los resultados de la autopsia, con el análisis del cerebro y de los posibles restos del estómago, darán detalles de la posible convivencia con los humanos.
+
+En todo caso no se trataría de los restos cánidos domésticos más antiguos, ya que el primer perro (canis lupus familiaris) fue domesticado hace 15.000 años en Asia Central, en lo que hoy es Nepal y Mongolia, procedente del lobo, según un estudio publicado en la revista de la Academia de las Ciencias de Estados Unidos (PNAS). Pero sí serían los restos mejor conservados y los que podrían alumbrar mayor información sobre su rol en los asentamientos de humanos. Leé también: Un agricultor encontró restos de un mamut que vivió hace unos 15 mil años Además, la autopsia realizada y de la que da cuenta The Siberian Times, contó con la presencia del científico surcoreano Hwang Woo-Suk, que estaba recogiendo muestras para una clonación potencial del cachorro. Woo-Suk es conocido por su ambición de clonar mamuts y, recientemente, un león de las cavernas extinguido. También está detrás de la construcción de una instalación de la clonación de animales en China y celebró un concurso-clonación de perros en el Reino Unido. Los cachorros encontrados en la estepa rusa constituyen los primeros mamíferos carnívoros hallados intactos con la piel, el pelo y los órganos internos, “algo que nunca antes había sucedido en la historia”, según Sergei Fedorov, director de exposiciones en el Museo del Mamut de la Universidad Federal del noreste de la capital de la región de Yakutsk. Además, el descubrimiento podría contribuir al animado debate científico sobre el origen de los perros domesticados.
+
+Para aclarar algunas de las cuestiones que se estudian en este campo, los científicos analizarán las muestras de antiguas bacterias de los intestinos de los cachorros, así como de los parásitos que pudieran haber sido específicos de su especie. Leé también: Qué es el "huevo" gigante que encontraron en Ezeiza Al parecer, los cachorros habrían muerto en un deslizamiento de tierra, y permanecieron momificados completamente desde el Pleistoceno. Junto a ellos, el arqueólogo Alexander Kandyba, del Instituto de Arqueología y Etnografía en Novosibirsk, halló herramientas hechas de huesos, pero también descubrió huesos de animales con restos de carne y fuego, lo que contribuye a la teoría de que estos cachorros podrían haber sido animales domésticos antiguos. Las pruebas de ADN que se realizaron al primer cachorro mostraron que se trataba de un perro en lugar de un lobo, aunque los científicos son prudentes y trabajan para confirmarlo también en este segundo cánido, puesto que la composición genética de estos animales antiguos es muy similar. Fuente: La Vanguardia.

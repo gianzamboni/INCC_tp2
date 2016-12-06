@@ -1,0 +1,20 @@
+
+José tiene 13 años y en la escuela lo cargaban, le decían “Obama” porque era morocho. Tanto lo cargaban que el nene le pidió a su mamá que lo cambiara de colegio y así lo hizo hace un par de meses. Pero el lunes pasado el chico faltó a su nueva escuela sin avisarle a nadie, por eso su madre fue a hablar con las autoridades y cuando regresó a su casa se encontró con el chico tirado en el piso con un disparo en la cabeza. José permanece internado en el hospital local Virgen del Carmen, donde su estado es gravísimo. Según dijeron fuentes del centro de salud, el estado del chico es "irreversible", informó la agencia Télam.  El hecho ocurrió en el barrio 6 de agosto de Zárate. Y quien contó los detalles de lo que ocurrió fue su hermano Damián: “Quiero aclarar que mi mamá nunca le pegó, jamás nos maltrató. Sólo discutieron, lo retó por haberse rateado como cualquier mamá, pero no hubo violencia”, dijo ya que las primeras versiones estaban relacionadas con una posible violencia familiar.  En cambio el joven relató que su hermano sufría bullying en su anterior colegio y que él mismo fue quien le dijo a su mamá que lo sacara de allí: “Lo cargaban mucho, le decían 'Obama' y él sufría. Cuando volvía para casa se iba a dormir sin comer, no quería salir a jugar con sus amigos, era otro”, cuenta y agrega: “Ahora que lo cambiaron estaba mejor, se soltaba más y hablaba más con nosotros, por eso no podemos entender lo que pasó”. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_r95670rp",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_r95670rp"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_r95670rp").after(scriptEl);
+ Lo que pasó fue que José faltó el lunes al colegio, pero sin avisarle a sus padres. La mamá se enteró, lo retó´y fue a hablar con las autoridades, pensaba que ahí también era víctima de Bullying. Pero lo peor fue cuando volvió a su casa y se encontró con que su hijo estaba tirado con un disparo en la cabeza. También leé: "Desesperada carta de un chico de 13 años que sufría bullying y se suicidó"  “El arma es de mi papá. La tenemos por los hechos de inseguridad que hay en la zona, está todo muy peligroso. Pero nunca la mostró ni dijo dónde la guardaba, no se cómo hizo para encontrarla”, explicó Damián al canal de noticias C5N.  “Esperemos que se recupere. Todavía no entiendo qué lo llevó a mi hermano a hacer eso”. 

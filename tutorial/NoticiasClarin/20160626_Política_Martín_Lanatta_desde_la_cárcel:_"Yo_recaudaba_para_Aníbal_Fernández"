@@ -1,0 +1,22 @@
+
+Martín Lanatta, uno de los condenados a prisión perpetua por el Triple Crimen de General Rodríguez, donde fueron asesinados Sebastián Forza, Damián Ferrón y Leopodo Bina, volvió a hablar desde la cárcel, esta vez ante una cámara de televisión, y apuntó contra Aníbal Fernández. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Yo recaudaba para Aníbal Fernández. Es uno de los tipos más ricos de la provincia de Buenos Aires", lanzó al programa La Cornisa, de Luis Majul, el hombre que escapó del penal de General Alvear el verano pasado junto a su hermano Christian y a Víctor Schillaci, los otros dos condenados por el crimen. Mirá también: Investigan un suicidio que estaría vinculado al Triple Crimen de Rodríguez En la entrevista completa, que será transmitida hoy a las 23 horas por América TV,  Lanatta afirma que el ex jefe de Gabinete K "hacía la recaudación para Cristina Fernández de Kirchner" y lo define como el jefe de una banda que une el dinero negro, las armas y el tráfico de efedrina.  "Uno de los tipos que le manejan el bajo mundo a Aníbales Marcelo mallo, es el soldado de Aníbal", dijo el preso, en referencia al ex titular de la ONG de Barrabravas "Hinchadas Unidas Argentinas", al que le encontraron un arma utilizada en el crimen del Unicenter. Mirá también: Ordenaron la detención del barrabrava K vinculado a un doble crimen narco También dio detalles sobre su fuga:  "Nos abrieron la puerta, dijeron 'acepta la mano que te están dando', ellos nos dan un punto de encuentro, una zona en la casa quinta, en Buenos Aires", reveló y contó que le pedían grabar un testimonio desvinculando al dirigentes K del tema. 
+
+Desde Londres, donde fue entrevistado por Clarín, Aníbal F. negó cualquier tipo de vínculo con Lanatta y también con el recapturado Ibar Pérez Corradi, cuya extradición pidió la Argentina. -¿Por qué lo vinculan con Pérez Corradi si usted dice que no lo conoce?  -Es un invento de Carrió que lo basó en que Lanatta, a quien le compraron la lengua y la exhibió el otro gordito, Lanata, en Canal 13. Fue con toda la parafernalia para atacarme en la elección y lo consiguieron. Porque vamos a ser honestos, lo consiguieron. No sé quiénes son los tipos estos. -Sin embargo, Martín Lanatta, hoy volvió a acusarlo y dice que usted es "un asesino y un narco" -No tengo que preocuparme por eso. Una vez le dije al hoy Presidente que yo lo invitaba a que hagamos los dos la rinoscopía y lo sigo invitando.
+
+Lanatta promete seguir apuntando contra el ex jefe de Gabinete, al que le espera un frente judicial abierto tras celebrar el triunfo de Las Leonas en el Champions Trophy de Hockey, en su rol de presidente de la asociación del deporte. 

@@ -1,0 +1,21 @@
+
+El secretario de Derechos Humanos y Pluralismo Cultural de la Nación, Claudio Avruj, habló hoy sobre la desclasificación de archivos de la dictadura que prometió el presidente de los Estados Unidos. Claduio Avruj dijo hoy que llevará "por lo menos un año y medio" porque se debe cumplir con trámites propios de acceder a arcivos de inteligencia.
+
+Avruj afirmó por Radio La Red que hay "buenas expectativas" en el Gobierno argentino de acceder a esa documentación, que será en gran parte, de archivos de inteligencia de la CIA y el Pentágono. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: El Vaticano confirmó que en pocos meses se podrán conocer los archivos de la dictadura Ayer, durante la conferencia de prensa conjunta que brindaron Barack Obama y Mauricio Macri en la Casa Rosada, el presidente argentino le agradeció puntualmente a su par estadounidense la decisión de desclasificar los archivos sobre la dictadura militar que están en poder del gobierno de ese país. Mirá también: Para el Gobierno argentino, la decisión de desclasificar documentos de la dictadura "cerrará algunas heridas" “A horas de cumplirse los 40 años del golpe de Estado que consolidó el capítulo más oscuro de nuestra historia, usted aceptó nuestro pedido de desarchivar los archivos. Estamos muy agradecidos. Todos tenemos derecho a saber la verdad de lo que ocurrió. Fue una demostración muy importante que demuestra que si dialogamos con el resto de los países con seriedad y respeto, los países colaboran con nuestros pedidos", detalló Macri delante de Obama. Mirá también: Ojo de bife y provoleta: Michelle Obama fue a comer a una parrilla de San Telmo
+

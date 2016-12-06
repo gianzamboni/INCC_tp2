@@ -1,0 +1,18 @@
+
+La ex presidenta Cristina Fernández acusó hoy al Gobierno de "perseguir y atacar a los que ya no están y no pueden defenderse", luego de que la Unidad de Información Financiera (UIF) pidió a la Justicia Federal que declare la inhibición general de bienes en la sucesión del ex presidente Néstor Kirchner. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/CFKArgentina/status/774614468508647424",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77461446850864742")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ A través de su cuenta de Twitter, la mandataria sostuvo que "como el desastre económico generado por el Gobierno cada vez es mayor, para intentar taparlo ya no les alcanza con perseguir a CFK", en alusión a sí misma, por lo que "ahora el Gobierno también se dedica a perseguir y atacar a los que ya no están y ni siquiera pueden defenderse". Mirá también: Pidieron congelar los bienes de la sucesión de Néstor Kirchner El órgano autárquico del Ministerio de Hacienda pidió el jueves la inhibición de bienes, mientras que reclamó se aparte al diputado nacional Máximo Kirchner de la administración de la sucesión, y que se nombre a un interventor judicial mientras se instruyan causas contra la familia. El pedido fue recibido por el juez federal Julián Ercolini y el fiscal que tiene la tarea de realizar la pesquisa, Gerardo Pollicita, quienes ahora deberán determinar si dan lugar al pedido.

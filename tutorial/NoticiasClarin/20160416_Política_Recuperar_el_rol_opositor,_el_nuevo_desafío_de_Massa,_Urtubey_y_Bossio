@@ -1,0 +1,75 @@
+
+El rol opositor al Gobierno nacional comenzará a tomar bríos en dirigentes y fuerzas políticas que mantuvieron equilibrio en estos poco más de 100 días de administración de Mauricio Macri. Voces que eran amigables y tolerantes con la luna de miel de todo gobierno nuevo comenzaron a virar y a lanzar una pelea por quién es más opositor. Aquí aparecen los nombres de Juan Manuel Urtubey, Sergio Tomás Massa y las figuras del nuevo PJ: José Luis Gioja, Daniel Scioli y Diego Luis Bossio. El mandatario salteño compartió el viaje no demasiado fructífero del Presidente al Vaticano para visitar al Papa Francisco. Y fue anfitrión del jefe de Estado este miércoles en su provincia, mientras Cristina concurría a Tribunales e intentaba copar la parada política.
+
+Pero Urtubey aprovechó su visita al ahora politizado programa de Alejandro Fantino para embestir contra el ajuste: “Salimos del realismo mágico para ir a la ortodoxia neoliberal más absoluta”, dijo de modo estudiado el peronista salteño. Sergio Massa también compartió delegación con Macri y Marcos Peña en el Foro económico de Davos. Pero esta semana, dos de sus hombres más duchos en la comunicación salieron a criticar la “insensibilidad” del Presidente y los suyos: Felipe Solá y Alberto Fernández. El ex jefe de Gabinete dijo en un programa de televisión que “Massa empezó a descubrir al verdadero Macri, tan desaprensivo con los temas sociales”.
+
+Por su parte, Diego Bossio -diputado peronista escindido del bloque del FpV- criticó desde su cuenta de Twitter y dijo que “desde el bloque Justicialista exigiremos que la inclusión social continúe siendo prioridad del Estado. En el contexto del ajuste social actual, el eje deber ser la defensa del empleo”. 
+
+
+¿Algo de eso habrán hablado la semana pasada Massa, Urtubey y Bossio, en un asado que compartieron en un quincho de Barrio Norte?
+
+
+
+
+
+var act_2e0 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_2e0 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_2e0.setTitle('&iquest;Algo de eso habr&aacute;n hablado la semana pasada Massa, Urtubey y Bossio, en un asado que compartieron en un quincho de Barrio Norte?');
+act_2e0.setSubtitle('PERONISMO'); 
+act_2e0.setLinkBack('http://www.clarin.com/politica/Recuperar-opositor-Massa-Urtubey-Bossio_0_1559244515.html');
+act_2e0.setDescription('El gobernador salte&ntilde;o critic&oacute; el salto del &ldquo;realismo m&aacute;gico a la ortodoxia neoliberal absoluta&rdquo;. Voceros del renovador, como Sol&aacute; y Alberto Fern&aacute;ndez, criticaron el ajuste. La ex Presidenta lo hizo tambi&eacute;n en su acto de regreso.
+&nbsp;');
+act_2e0.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Recuperar-opositor-Massa-Urtubey-Bossio_0_1559244515.html');
+
+var showShareBarUI_params_2e0=
+{ 
+containerID: 'shareQuote_2e0',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_2e0,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_2e0
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_2e0);
+ Por último, está la reaparición política de Cristina quien, según los suyos, alteró la agenda social: “Ahora todos le van a tener que pegar al ajuste”, dice una diputada que participó del encuentro de la ex Presidenta con sus legisladores.
+
+Ahora es el turno de los intendentes fieles a Cristina, a quienes convocó para el próximo lunes en la Fundación Patria, de Rodríguez Peña 80, barrio de Congreso. Francisco Durañona y Vedia, Jorge Ferraresi, Juan Patricio Mussi, Walter Festa y Mario Secco son algunos de los más fieles que seguro estarán. Pero ayer, la convocatoria incluía a todos los alcaldes peronistas: del llamado "Grupo de los Ocho" -sector de los más jóvenes y que plantean una renovación- ya dieron su OK Juan Zabaleta, Ariel Sujarchuk, Gustavo Menéndez y Leonardo Nardini. "Por respeto y por ser la ex Presidenta, vamos a ir todos. Después, marcaremos nuestra posición", adelantó a Clarín uno de los intendentes quien no quiere un roce tan pronto con alguien a quien aplaudían sin miramientos hasta hace muy poco. Este escenario de críticas opositoras llevará al Gobierno nacional a redefinir algunos de sus lazos con el peronismo, en sus diferentes vertientes. Pero ahora, todos aparentemente unificados en un discurso opositor. LANZAN LA "FACULTAD DE LA MILITANCIA "Este sábado, lo harán con una clase de Mercedes Marcó del Pont. Es una iniciativa de la "Corriente de la Militancia", de la que forman parte Taiana, Rossi y Filmus, entre otros. “La Facu” es un curso de formación política que comenzó en Rosario, Santa Fe, de la mano de la Corriente de la Militancia. Y a sus cursos irán dirigentes políticos cercanos en los últimos años al kirchnerismo, como parte de las 40 horas cátedra a las que deben concurrir los casi 170 inscriptos. La Facultad de la Militancia es una idea del grupo político, del que participan Agustín Rossi y Jorge Taiana, entre otros, y que tendrá en su primer “clase magistral” a Mercedes Marcó del Pont, ex jefa del Banco Central. El resto de la cursada estará a cargo de académicos de la ciudad de Rosario y en las clases magistrales también participarán Daniel  Fernando Filmus y Alberto Quevedo, director de FLACSO. “Orientación política con sustento académico”, defienden los impulsores de este “Facu” de la miltancia.

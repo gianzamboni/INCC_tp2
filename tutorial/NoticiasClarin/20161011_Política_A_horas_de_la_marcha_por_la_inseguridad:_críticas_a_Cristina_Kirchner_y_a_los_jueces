@@ -1,0 +1,18 @@
+
+Familiares y víctimas de tragedias y hechos de inseguridad concentrarán esta tarde frente al Congreso, para protestar contra la inseguridad, la injusticia y la impunidad, bajo el “Para que no te pase”. La protesta, que los convocantes aclaran "no es contra nadie, sino a favor de la vida" está encabezada por Matías Bagnato, sobreviviente de un incendio intencional donde murió toda su familia conocido como la Masacre de Flores; María Elena (Jimena) Aduriz, mamá de Ángeles Rawson, víctima de un femicidio; Carolína Píparo, baleada en una salidera bancaria cuando estaba embarazada, lo que provocó la pérdida del bebé; y María Luján Rey, madre de Lucas, una de las 52 víctimas de la Tragedia de Once. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ParaQueNoTPase/status/783084679830396929",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78308467983039692")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Una marcha por la inseguridad y la justicia, organizada por las víctimas La convocatoria ha cobrado una fuerte repercusión en las redes sociales y desde temprano es tendencia con dos hashtag: #ParaQueNoTePase y #YoVoy, donde la gente sube su foto adhiriendo a la concentración de hoy en la Plaza de los Dos Congresos. "Cristina Kirchner nunca reconoció la inseguridad, es lamentable que ahora hable cuando el kirchnerismo negaba el tema permanentemente cada vez que aparecía una víctima mediática", expresó Píparo, en AM 950 Radio Belgrano. Y le apuntó a "gran parte de la Justicia penal" a la que señaló por ser "abolicionista". "No estamos pidiendo mano dura, las leyes sobran pero el problema es el margen a la interpretación que tienen los jueces, que siempre protegen a los delincuentes, ese es el punto en común que tenemos todos. Queremos justicia justa", sentenció. Mirá también: Marcha por la inseguridad: "No es contra nadie, es a favor de la vida" Por su parte, Bagnato adelantó que habrá un escenario donde dos oradores, los periodistas Lorena Maciel y Luis Novaresio, leerán un documento y que no hablará ningún familiar de víctima, porque "la idea es que la convocatoria sea de todos". Ayer, Luján Rey sostuvo que la convocatoria no es contra el Gobierno actual, sino que interpela al Estado para que tome medidas de prevención contra "la inseguridad, la injusticia y la impunidad". Algunos de los reclamos puntuales son una asistencia integral inmediata y sostenida desde el mismo momento en que se convierte en víctima o familiar de víctima, la provisión de un abogado y que las víctimas formen parte del proceso de ejecución penal, entre otros. Mirá también: Encuesta sobre inseguridad y justicia: la mirada de la gente, según el candidato al que votaron Más información: #ParaQueNoTePase 

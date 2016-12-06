@@ -1,0 +1,106 @@
+
+Casas a medio hacer, algunas de ellas abandonadas y luego tomadas por familias a las que les había prometido un hogar. Otras que ni siquiera existen. Parcelas donde hay fierros oxidados pero ningún ladrillo y terrenos donde las conexiones de agua están a la vista de todos, en el suelo, entre yuyos. Esas fueron algunas de las postales que los funcionarios de la Oficina Anticorrupción de Jujuy pudieron retratar en el relevamiento de obra pública que hicieron sobre 10 barrios donde la organización Tupac Amaru, comandada por Milagro Sala, debía construir viviendas. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Las viviendas fantasma de la Tupac son también imágenes de la corrupción. No tan explícitas como los bolsos de José López lanzados al monasterio de General Rodríguez o los millones de la Rosadita de los Báez. Y son, según afirman en el Gobierno de Jujuy, la razón de por qué Milagro Sala está presa, acusada de asociación ilícita y defraudación al Estado. Mirá también: Gerardo Morales contra Cristina: "Milagro Sala tiene mucho que explicar"  Según el informe de la OA Jujuy y el Instituto de Vivienda provincial, al que tuvo acceso Clarín, el Estado Nacional le giró fondos a la provincia por $1.383.751.787,60 para que la organización de Milagro Sala construya 8.532 viviendas a través de sus cooperativas de trabajo. Un total de 1.836 de esas casas jamás se comenzaron a levantar y otras 524 unidades permanecen, al día de hoy, inconclusas.  En la OA, con un equipo compuesto por ingenieros, arquitectos y escribanos públicos, fueron a los barrios de la Tupac para documentar el avance de las obras ya pagas y constataron las irregularidades a las que le pusieron una cifra: $722.925.537,59 de fraude a la Administración Pública (a valores históricos).
+
+ Otro dato que arrojó su investigación es el precio que insumiría hoy terminar con las obras que la Tupac Amaru se comprometió a recibir los millones de Estado. “A valores actuales, la construcción de las viviendas faltantes y la terminación de las viviendas inconclusas requeriría $1.239.804.000”, afirmaron. Mirá también: Reapareció Cristina: defendió a Milagro Sala y usó la cuenta de Skype de un ex aspirante a espía K  “El Mapa de la Corrupción de Jujuy surgió como una necesidad de comunicar con claridad el resultado del trabajo de investigación que comenzamos en Enero pasado”, explicó a Clarín Joaquín Millón Quintana, titular de la OA jujeña.  -¿Es una manera de responder a los que dicen que Sala es una presa política? - Milagro Sala no es una presa política. Nosotros iniciamos una investigación, en función de las obligaciones legales, denunciamos ante la justicia y fueron los fiscales y jueces de Jujuy quienes decidieron la prisión preventiva de la dirigente. Con el Mapa ponemos a la vista de todos las pruebas que fundamentan esas denuncias. 
+
+
+Se calculó en casi $723 millones el fraude a la Administración Pública.
+
+
+
+
+
+var act_83d = new gigya.socialize.UserAction();
+
+var emailBodyCustom_83d = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_83d.setTitle('Se calculó en casi $723 millones el&nbsp;fraude a la Administración Pública.');
+act_83d.setSubtitle('Viviendas incompletas y sin hacer'); 
+act_83d.setLinkBack('http://www.clarin.com/politica/Milagro-Sala-millones-pesos-termino_0_1620438083.html');
+act_83d.setDescription('Según una auditoría de la Oficina Anticorrupción de Jujuy, a la líder de la Tupac Amaru se le dieron 1.383 millones para hacer 8.532 viviendas, pero no construyó 1.800 y dejó a medio hacer más de 500. Las imágenes.');
+act_83d.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Milagro-Sala-millones-pesos-termino_0_1620438083.html');
+
+var showShareBarUI_params_83d=
+{ 
+containerID: 'shareQuote_83d',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_83d,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_83d
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_83d);
+  -¿La realidad que encontraron superó a lo que imaginaban que se iban a encontrar?  -La corrupción le quita derechos a los ciudadanos. Las familias más necesitadas han sido las víctimas de un sistema nefasto, no diría inimaginable porque Jujuy sabía y por eso ha reclamado transparencia y Justicia.  El titular de la Oficina Anticorrupción jujeña contó que muchas personas de los barrios que visitaron prestaron su testimonio para el informe. “Quieren y necesitan solucionar su problema habitacional. Ha aportado y apoyado el trabajo de transparentar el manejo de fondos públicos”, dijo.  En ese sentido, Millón Quintana agregó que inclusive “voces desde la Tupac sostienen que el manejo discrecional de fondos le permitía Sala paliar necesidades sociales según sus consideración”. Mirá también: Nueva carta de Milagro Sala desde la cárcel, tras la detención de su marido Las conclusiones del informe son tajantes:  -Humahuaca: debían construir 740 viviendas, hicieron 557, están en construcción 101 unidades. Faltan: 82 viviendas.
+
+-General San Martín: debían construir 480 viviendas, sólo 180 están terminadas, mientras 52 se encuentran en construcción (avance inferior al 50%). Faltan: 248 casas.
+
+ -Calilegua: debían construir 588 viviendas. Solo hay 396, y 40 están inconclusas. Faltan 152.
+
+-San Pedro: debían construir 616 unidades, están hechas 351, otras 81 quedaron sin terminar. Faltan: 184 viviendas.
+
+ -La Esperanza: debían construir 380 viviendas, sólo hicieron 256, y hay otras 40 en construcción. Faltan 84.
+
+ -San Salvador de Jujuy: la Tupac debía hacer 3.788 casas. De las 600 correspondientes a las Etapas 14 a 16 sólo se han finalizado 397 y 120 se encuentran en diverso grado de avance. Faltan además 83 unidades. A las que deben sumarse las 600 de las Etapas 17, 18 y 19. Afirman que hay 106 viviendas terminadas de la Etapa 14 en el Barrio Alto Comedero. Faltan en total: 683 viviendas.
+
+-Palpalá: debían construir 720 viviendas, de las cuales sólo están levantadas 607. Faltan 113.
+
+-El Carmen: de las 400 viviendas que se debían construir, se han finalizado 380 viviendas. Faltan 20.
+
+-Perico: debían construir 380 unidades, hay 300 terminadas, y 50 están en construcción. Faltan 30.
+
+-Monterrico: debían construir 480 viviendas, están hechas 200 y otras 40 se encuentran en construcción. Faltan: 240 viviendas.
+
+ 

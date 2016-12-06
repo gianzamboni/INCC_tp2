@@ -1,0 +1,54 @@
+
+Guillermo Moreno desmintió hoy haber estado alguna vez en el convento de General Rodríguez donde fue detenido el ex secretario de Obras Públicas José López con 9 millones de dólares en bolsos. El ex secretario de Comercio Interior, a través de su abogado, emitió hoy un comunicado en respuesta a los dichos de un vecino del lugar, Antonio, que aseguró haberlo visto allí. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_bygxzzx2",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_bygxzzx2"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_bygxzzx2").after(scriptEl);
+ "A Moreno también lo vimos acá. Se comentó que la camioneta que la fundación tiene se la había dado Moreno”, contó el vecino en la puerta del convento.  Mirá también: Un vecino asegura que Moreno también frecuentaba el convento A raíz de sus palabras y la difusión de las mismas en televisión, Alejandro Rúa, abogado defensor de Moreno, emitió un escrito en el que se desmienten los dichos de Antonio, se pone en duda que sea un vecino del lugar y además se adelanta que el ex funcionario pedirá una rectificación al respecto.  
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_owm1ao5b",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_owm1ao5b"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_owm1ao5b").after(scriptEl);
+ "Frente a estas mentiras, mi asistido encuentra necesario transmitir: que lo que dice 'Antonio' es definitivamente falso", expresa el escrito que lleva la firma del doctor Rúa. En el texto, Moreno afirma que jamás pisó el convento de General Rodríguez y aclara que, desde que se desvinculó de la Secretaría de Comunicaciones y dejó de tener dependencia con el Ministerio de Planificación, jamás formó parte de ninguna comitiva con Julio De Vido. Mirá también: ¿Se hace el loco? José López baila desnudo ante las cámaras y llama a gritos a Alperovich "Que ni con él, ni con otras personas, ni sólo, estuvo en ese convento de general Rodríguez como le hacen decir a este 'vecino'. Y que tampoco donó a esa Fundación, que ni sabe cuál es, ni una combi ni nada", sentenció y calificó al testimonio que hoy dio este hombre como una "operación mediática en torno al caso".  Moreno además pide, en torno a la combi conocida como "Fatimovil", seguir la ruta de los dineros afectados a su compra para dar cuenta de que es una "mentira" lo dicho por el vecino. "Sobre la inexistente concurrencia de  Moreno en el lugar se intimará al referido 'Antonio' para que se rectifique en sus dichos, o se  iniciarán en su defecto las acciones que legalmente corresponden", advierte el comunicado. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/GracielaCaruga1/status/753345189725532161",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75334518972553216")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

@@ -1,0 +1,20 @@
+
+Un científico encontró una original forma de pedirle matrimonio a su novia. En un trabajo sobre la fisiología de los mejillones que publicó en la revista científica Marine Biology, reservó una línea para hacerle la pregunta a su pareja. Para ello, contó con la complicidad y el apoyo de los editores de la publicación.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/irasynovolveras/status/751059645649788928",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75105964564978892")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El biólogo vasco David Tamayo eligió por una original forma de proponerle matrimonio a su novia. No es el primer hombre que utiliza su imaginación para sorprender a la mujer en cuestión, pero en este caso sí encontró una forma muy original de pedir la mano. 
+
+Y buscó una forma acorde al mundo en el que él y su novia, Carolina Muguruza, también científica, mejor conocen. "En el ámbito en el que nos movemos, los artículos científicos representan la máxima expresión de nuestro trabajo, así que tenía sentido hacerlo así. Pensé que podía ser original y curioso", explicó el científico al diario El País. El pedido lo incluyó en el apartado de los agradecimientos, entre los que nombra a su novia, y agrega una pregunta: "¿Te casarías conmigo?". El científico contó cómo fue el momento en que su novia se encontró con la propuesta:  "Estábamos en casa y en cuanto vi que lo habían publicado le pedí, por favor, si podía descargarse el artículo en el ordenador, porque no quería que nadie se adelantase y lo leyese antes que ella", relata. Y con algo de ingenio la fue guiando para que llegara primero a los agradecimientos. Mientras ella leía, él se puso de rodillas y sacó el anillo.  La pareja, que lleva más de 10 años juntos, ya puso fecha para el casamiento. Será dentro de un año, en el País Vasco.  

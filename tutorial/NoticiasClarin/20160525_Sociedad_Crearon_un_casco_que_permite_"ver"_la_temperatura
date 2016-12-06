@@ -1,0 +1,18 @@
+
+Un equipo de investigadores de la Escuela Politécnica Federal de Lausana (EPFL), en Suiza, desarrolló un prototipo de visera inteligente que, junto con una cámara de imagen térmica,  permite ver la temperatura del entorno en tiempo real. La herramienta, asegura, será clave para optimizar el trabajo de los bomberos.  Al apagar un incendio, los bomberos cargan con un traje de unos 20 kilos más el equipo requerido, como la manguera o una cámara térmica para medir la temperatura del lugar y encontrar a las personas que puedan estar en peligro. Todo esto reduce su movilidad y su agilidad, sobre todo cuando se tienen que enfrentar también a las llamas, al humo y a la poca visibilidad. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Por eso, los ingenieros del EPFL pensaron en la utilidad que tendría integrar dicha cámara térmica en la propia máscara que utilizan los bomberos para repeler el gas, y así poder quedar más libres para terminar con el incendio y rescatar a las víctimas. "La cámara térmica es una herramienta indispensable, pero dificulta sus movimientos y los obliga a dejar de analizar el terreno", explicaron dos de los participantes del proyecto, Adrien Birbaumer y Martijn Bosch. Hasta el momento, el prototipo consiste en una minicámara infrarroja conectada al casco y a unas gafas en las que la imagen térmica se superpone a la de su campo visual, pero la idea es que las gafas queden también integradas en la máscara protectora. También leé: "crearon un simulador que permite volar como un pájaro sobre Nueva York" Uno de los principales retos a la hora de superponer las imágenes fue la representación del calor, ya que algunos colores pueden entorpecer la visión de los bomberos. "Trabajamos mucho en mejorar la manera de representar las zonas calientes y frías. Optamos por rojo y azul para diferenciar el calor del frío, pero tuvimos que utilizar otros tonos específicos para que sean visibles en un soporte transparente", explicó Birbaumer. Durante el desarrollo del prototipo, los ingenieros colaboraron de manera estrecha con los bomberos del cantón de Vaud, donde se encuentra la ciudad de Lausana. Según el responsable de la formación de los bomberos del cantón, Jean-Marc Pittet, que participó en las diferentes etapas de creación del prototipo, "al principio no sabemos muy bien lo que vemos, pero el periodo de adaptación es muy corto y las dos imágenes superpuestas se integran fácilmente". Fuente: EFE.

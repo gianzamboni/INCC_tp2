@@ -1,0 +1,68 @@
+
+ Sergio Massa tomó distancia en las últimas horas del kirchnerismo, que en la Cámara de Diputados impulsaba una sesión especial para este jueves para avanzar con la llamada ley “antidespidos”. Mirá también: Macri ya no es el mismo que asumió  El diputado del Frente Renovador confirmó que no participará de la sesión especial reclamada por el kirchnerismo para el jueves en la cámara baja, para tratar el proyecto de ley antidespidos, a menos que se le incorporen las modificaciones que impulsa su bloque. 
+
+
+"A mí el kirchnerismo no me va a llevar a los empujones al recinto a una sesión especial".. El jueves no hay sesión ordinaria", recordó el tigrense.
+
+
+
+
+
+var act_cf9 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_cf9 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_cf9.setTitle('"A mí el kirchnerismo no me va a llevar a los empujones al recinto a una sesión especial".. El jueves no hay sesión ordinaria", recordó el tigrense.');
+act_cf9.setSubtitle('LEY ANTIDESPIDOS'); 
+act_cf9.setLinkBack('http://www.clarin.com/politica/Massa-tablero-diferencio-llevar-empujones_0_1574842552.html');
+act_cf9.setDescription('Decidi&oacute; no apoyar&nbsp;la idea de una sesi&oacute;n especial&nbsp;para este jueves. Ahora hay tres dict&aacute;menes por Despidos.');
+act_cf9.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Massa-tablero-diferencio-llevar-empujones_0_1574842552.html');
+
+var showShareBarUI_params_cf9=
+{ 
+containerID: 'shareQuote_cf9',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_cf9,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_cf9
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_cf9);
+ Sobre la sesión especial que pretendía convocar el Frente para la Victoria, Massa fue terminante: "No vamos", comunicó, y se quejó: "Se siguen manejando como si no hubieses perdido las elecciones, con soberbia". No obstante, al hablar por América TV, Massa admitió que "sí estamos dispuestos a adelantar" el tratamiento de la iniciativa, pero que no lo hará "para ir a hacer seguidismo". En ese sentido, ratificó que el bloque del Frente Renovador apoyará le ley antidespidos si se le incorporan las modificaciones al proyecto que impulsa el Frente para la Victoria. Así, hay tres dictámenes sobre el tema en Diputados: el que impulsa el Gobierno nacional con sus legisladores, el que sostiene la iniciativa llegada desde el Senado (y que impulsan los K) y el del massismo, que avala lo aprobado en la Cámara alta pero que suma beneficios para las PyMES- Mirá también: Selfies para Peña, despidos en boca de todos y un blooper en la noche de Conciencia Massa explicó ayer que "nosotros vamos a apoyar que en Argentina haya doble indemnización por 180 días. Que haya freno a los despidos. Creemos que tiene que haber un mensaje del Estado en su conjunto para transmitir tranquilidad a mucha gente que tiene miedo de llegar al trabajo y encontrarse con el telegrama de despido". Pero advirtió que "uno no puede plantear un freno a los despidos si no promueve a la par medidas para crear empleos", en especial a las pymes. Mirá también: Reunión de Macri con las CGT: Caló le reclamó por 40.000 heladeras Por último, Massa adelantó que realizará una "consulta formal" sobre su proyecto con los máximos dirigentes de la CGT.

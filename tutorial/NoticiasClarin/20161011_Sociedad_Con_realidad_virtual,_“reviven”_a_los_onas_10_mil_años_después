@@ -1,0 +1,28 @@
+
+Entre Ushuaia y Río Grande; desde el Atlántico Sur hasta Punta Arenas; en los fríos territorios que hoy forman parte de Tierra del Fuego y el sur de Chile, hace unos 10.000 años vivieron diversas comunidades originarias onas. ¿Cómo eran sus días y sus noches? ¿Qué hacían para subsistir? ¿Cómo se protegían de las bajísimas temperaturas? Todo esto ahora se puede “revivir” a través de la realidad virtual. Pablo Codina y César Gonzales Russo, dos integrantes del equipo de prensa del municipio de Río Grande –en Tierra del Fuego–, produjeron el primer documental en América Latina que recrea en realidad virtual la cultura de los pueblos originarios. El proyecto “Raíces de Tierra del Fuego” nació con el fin de entretener y educar a los chicos que, por algún motivo, están internados en un hospital (ver Nació como...); y terminó siendo una producción que se expone en forma permanente en el Museo Municipal “Virginia Choquinte” de Río Grande, y que es visto por unos doscientos chicos de escuelas por día. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Una vez calzado el casco, la experiencia permite “viajar en el tiempo” y vivir una jornada junto a una familia de la comunidad ona shelk´nam, que habitó la zona cercana a lo que hoy es Río Grande. Para producir el documental, Codina y González se contactaron con descendientes directos de los shelk´nam, que son quienes hacen de “actores” en el documental. Mirá también: Río de Janeiro: el mural Etnias entró en los récords Guinness Para producir un documental en realidad virtual hoy no hace falta ser un gran estudio cinematográfico. Lo muestra el proyecto “Raíces de Tierra del Fuego”. Para realizarlo, Codina y González usaron una cámara 360 Ricoh Theta, que viene con dos lentes que captan videos en 180 grados cada uno en forma simultánea. Hay otras cámaras similares.
+
+Una vez obtenidas las imágenes, y a través de un software especial, los autores pudieron recomponer las secuencias de modo que puedan ser vistas tanto en 360 grados a través de plataformas como Facebook o YouTube, o en realidad virtual, siempre que se disponga de un casco.
+
+Los autores del documental buscaron que no haya necesidad de optar por una marca de casco en especial. “Podés verlo con cualquier casco y desde cualquier celular. Antes, hay que bajar una aplicación genérica de realidad virtual y después descargar el contenido”, explicó Codina a Clarín. Mirá también: El ritual de la Pachamama se realizará por primera vez en el Obelisco El material se grabó en el corazón de Tierra del Fuego, en el predio que posee la comunidad shelk’nam “Rafaela Ishton”. Las imágenes muestra una familia originaria vestida con sus ropas originales dialogando en su idioma y realizando tareas cotidianas. 
+
+Codina le contó a Clarín que el trabajo de investigación les demandó seis meses, y que viajaron a diversas regiones donde estuvieron las comunidades onas, especialmente Punta Arenas, Chile, donde hay mayor información sobre las costumbres y usos de este pueblo originario. Otra experiencia educativa con realidad virtual se pudo ver a mitad de año en la ciudad de Buenos Aires. Fue el trabajo “Lágrimas de Sol”, un documental en realidad virtual que recrea la lluvia de meteoritos que dio origen a Campo del Cielo, en el Chaco. Se trató de un trabajo de Sebastián Serantes, pensado también para chicos de escuelas y que fue exhibido en la Casa de Chaco de Capital.
+
+Raíces de Tierra del Fuego fue declarado recientemente de interés municipal por las autoridades de Río Grande y, por el momento, sólo se puede ver en el museo “Virginia Choquinte”. “Hasta ahora no liberamos el material, para que la gente venga a visitar la muestra, pero seguramente lo haremos más adelante”, anuncia Codina. --------------- Los orígenes del proyecto Nació como idea para chicos discapacitados
+
+Todo comenzó con la internación del hijo de Pablo Codina, que tiene Síndrome de Down. Por una peritonitis, tuvo que pasar largos días en el hospital, algunos en terapia intensiva. Y a Pablo no se le ocurrió mejor idea que hacer un documental con realidad virtual, que sirviera para que su hijo y todos los chicos que estaban internados se diviertan y aprendan. “Después nos dimos cuenta que había una traba, especialmente con los chicos más delicados. Las lentes de realidad virtual se contaminan con bacterias. Entonces dijimos, hagamos algo para las escuelas, para todos los chicos discapacitados”. Después vino el envión. Pablo Codina, junto a su compañero César Gonzales, investigaron durante seis meses todo lo relacionado a las comunidades originarias de la región. Se centraron en los Shelk´nam. El documental ahora está a disposición de los chicos de Río Grande, pero Codina se entusiasma: quiere que salga de la isla y llegue a la mayor cantidad de escuelas del país.

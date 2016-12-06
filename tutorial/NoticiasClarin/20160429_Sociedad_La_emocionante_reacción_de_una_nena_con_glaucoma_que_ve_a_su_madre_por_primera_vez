@@ -1,0 +1,18 @@
+
+Fue hace apenas un mes cuando el sueño de una niña brasileña se hizo realidad: ver a su madre por primera vez. Todo comenzó unos meses después de que Daiana Pereira tuviera a su pequeña Nicolly y se diera cuenta de que algo iba mal. La niña comenzaba a familiarizarse con el mundo, pero sus padres detectaron un problema que pronto se convirtió en algo peor: además de una ceguera parcial, Nicolly no oía bien, no hablaba ni tampoco podía caminar. Mirá también: Conmovedor: una mamá escuchó los latidos del corazón de su hijo en el cuerpo de otra nena  La niña de dos años, que sufre de glaucoma pediátrico, fue sometida a complicadas operaciones para restaurar la visión en su Brasil natal, pero sin éxito. El glaucoma infantil es considerado una enfermedad rara. No existe una causa clara, pero se produce cuando diversos fluidos se concentran en el ojo distorsionando la visión. Una de sus principales consecuencias es la ceguera.  La desesperación de sus padres les hizo compartir su caso en las redes sociales. El perfil de Facebook Pricesinha Nicolly les abrió las puertas no solo en Brasil, sino que el resto del mundo quiso colaborar al conocer el caso. Entre otros, Elio Jr., un conocido piloto junior de automovilismo brasileño, que donó un premio para pagarles el boleto de avión a Nicolly y a su madre a Estados Unidos. Una pareja que había perdido a su hijo adolescente en un accidente de tráfico, Carlos y Maria Fiallo, decidieron ponerse manos a la obra y recaudaron los más de 15 mil dólares que costaba la operación en el Bascom Palmer Eye Institute, en Florida (Estados Unidos), y que es considerada la mejor clínica oftalmológica del país. Mirá también: Coldplay le envió un mensaje al nene autista que se emocionó en su recital  Los médicos en el Bascom Palmer Eye Institute lograron recuperarle la vista en tan solo un intento, durante las tres horas que duró la intervención. El momento en que Nicolly ve a su madre por primera vez es absolutamente conmovedor. En un corto documental grabado por el Hufftington Post, cuentan la historia de la pequeña. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Pero no sólo lograron restaurarle la visión: los mismos médicos que la operaron de la vista descubrieron que la niña no estaba sorda, sino que simplemente tenía agua acumulada en los canales auditivos. Se los limpiaron y Nicolly no solo ve, sino que ahora también oye y habla. Mirá también: El pequeño gigante que conoció a su ídolo Trapito Las dos han prometido volver a Brasil con una revelación: No hay nada imposible. Fuente: La Vanguardia  

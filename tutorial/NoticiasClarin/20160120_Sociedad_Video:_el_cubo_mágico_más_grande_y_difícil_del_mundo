@@ -1,0 +1,127 @@
+
+2.691 piezas, 22X22 en cada cara, 200 milímetros de cada lado y una impresora 3D. Eso necesitó Corenpuzzle, la empresa que desarrolló el proyecto, para crear el cubo mágico más grande y difícil del mundo. Mundialmente conocido como Cubo Rubik, este prototipo "agigantado" fue construido en 8 meses y cada avance o retroceso durante su creación fue documentado en el perfil público de la empresa. Cada uno de sus lados, íntegramente impresos en una impresora 3D, es un poco más largo que uno de 3x3, otro de 4x4 y uno más de 5x5 unidos. Está compuesto de 484 celdas de colores y, expresado en escala, 4,3x10^1.795 (o 4,3 a la potencia de un 10 con 1.795 ceros).
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160120_0022 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160120_0022_128";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: ' El cubo mágico más grande y difícil del mundo.',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/20/VID/CLAVID20160120_0022/video_web.flv",
+        image: "http://images.clarin.com/sociedad/cubo-magico-grande-dificil-mundo_CLAVID20160120_0022_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160120_0022',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/20/VID/CLAVID20160120_0022/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/cubo-magico-grande-dificil-mundo_3_1507679239.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160120_0022.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160120_0022){
+            //getBBTStats_CLAVID20160120_0022();
+            varModIdReprod_CLAVID20160120_0022 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+Leé también: Un chico resolvió el cubo mágico en 5,25 segundosEl video que Corenpuzzle subió a YouTube para mostrar que batieron el récord mundial en tamaño y complejidad del cubo, fue publicado el jueves y ya tiene más de 900.000 vistas.Intento fallido. Lo publicó la empresa Corenpuzzle en su perfil de FacebookQuien tenga una impresora 3D apta para estas medidas, podrá descargar gratis los archivos de Corenpuzzle y tener un cubo mágico gigante en casa. ¿Cuánto se tardará en resolverlo?

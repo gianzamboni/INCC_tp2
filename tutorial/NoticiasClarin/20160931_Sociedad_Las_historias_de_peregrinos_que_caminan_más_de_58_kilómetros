@@ -1,0 +1,154 @@
+
+Entre los peregrinos que cada año caminan hasta Luján hay matices: algunos, convencidos de que el objetivo no es el camino sino llegar –y llegar caminando- se adelantan unas paradas y arrancan, por ejemplo, desde Moreno. Otros, hacen tramos en auto o salen la noche anterior para poder dormir, aunque sea sentados, al costado de la ruta. Pero ellos, los que acaban de salir desde la Parroquia San Cayetano, en Liniers, necesitan hacerla completa: lo que ahora viene serán 15, 16, 17 horas de caminata, calambres y ampollas húmedas que ni la vaselina en los pies podrá evitar: un sacrificio que muchos soportarán –cantando, emocionados, convencidos- con tal de llegar a la Basílica de Luján y “visitar” –así dicen- a la Virgen. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Verónica está sentada a la sombra, en la puerta de la parroquia. A su lado Ángeles, su beba de 10 meses, duerme. "Voy a ir con ella hasta Luján, empujando el carrito. Hace cinco años que vengo. Yo perdí todo, el trabajo, me desalojaron. Pero ahora estamos mejor y por eso voy con la beba a agradecer y a pedir trabajo para todos", dice. Irma Arribeños, cerca, llora y apenas puede hablar: "Yo perdí un hijo, la Virgen me ayudó a recuperarme, porque después tuve mellizos. Camine 10 años y ahora vengo a ayudar a los otros". 
+
+
+La pasamos mal en estos años. Pero hoy nosotras estamos acá, unidas, tenemos mucho que agradecer”
+
+
+
+
+
+var act_b22 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_b22 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_b22.setTitle('La pasamos mal en estos años. Pero hoy nosotras estamos acá, unidas,&nbsp;tenemos mucho que agradecer”');
+act_b22.setSubtitle('Procesión a Luján'); 
+act_b22.setLinkBack('http://www.clarin.com/sociedad/historias-peregrinos-recorren-kilometros-pausa_0_1660633964.html');
+act_b22.setDescription('Hay quienes buscan agradecer, buscar consuelo o seguir una tradición. Otros sorprenden y hasta llevan a sus perros en medio de la multitud.');
+act_b22.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/historias-peregrinos-recorren-kilometros-pausa_0_1660633964.html');
+
+var showShareBarUI_params_b22=
+{ 
+containerID: 'shareQuote_b22',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_b22,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_b22
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_b22);
+
+
+Alejandro va en bici, con sus cuatro caniches: Luna, Sol, Saturno y Estrella. Esta peregrinación que ahora es multitudinaria –se calcula que cada año mueve al menos a 2 millones de personas- empezó en 1975 como una forma de unir a los jóvenes. Pero fue mutando con el tiempo porque ahora la hacen incluso personas muy mayores. Carolina Londriel que recién arrancó con su mamá -72 años y un ACV en el currículum- sabe de eso. “Mi mamá es peregrina desde los primeros tiempos, la pasamos mal en estos años, hubo muchas muertes alrededor: mi papá, mis tíos. Yo también me enfermé. Pero hoy nosotras estamos acá, unidas, tenemos mucho que agradecer”, dice. Mirá también: Miles de fieles peregrinan a Luján con la consigna "fraternidad entre los argentinos" También, de aquella vieja y precaria organización, mutó a una logística mejor: esta vez habrá 17 puestos de hidratación con camiones cisterna y grupos electrógenos y 6.000 voluntarios en puestos sanitarios, con médicos, emergentólogos y enfermeros que no sólo deben atender urgencias sino que tienen una misión específica: masajear y suavizar los pies de los peregrinos para que puedan completar los 58.8 kilómetros. Quienes hacen la caminata –el lema de este año es “Madre, danos tu mirada para vivir como hermanos"- saben que la clave para sobrevivir es no improvisar: todos los que ahora aplauden la salida de la imagen cabecera de la virgen -que los elegidos soportan en los hombros- tienen zapatillas usadas y amoldadas, medias de algodón para cambiarse, bolsas de consorcio por si llueve y compañeros para no andar solos cuando llegue la noche. 
+
+
+Acá nos juntamos los viejos peregrinos y los chicos que vienen por primera vez".
+
+
+
+
+
+var act_6d0 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_6d0 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_6d0.setTitle('Acá nos juntamos los viejos peregrinos y los chicos que vienen por primera vez".');
+act_6d0.setSubtitle('Procesión a Luján'); 
+act_6d0.setLinkBack('http://www.clarin.com/sociedad/historias-peregrinos-recorren-kilometros-pausa_0_1660633964.html');
+act_6d0.setDescription('Hay quienes buscan agradecer, buscar consuelo o seguir una tradición. Otros sorprenden y hasta llevan a sus perros en medio de la multitud.');
+act_6d0.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/historias-peregrinos-recorren-kilometros-pausa_0_1660633964.html');
+
+var showShareBarUI_params_6d0=
+{ 
+containerID: 'shareQuote_6d0',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_6d0,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_6d0
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_6d0);
+  Pasaron 42 años y la peregrinación no se detuvo ni una sola vez. “Acá nos juntamos los viejos peregrinos y los chicos que vienen por primera vez y no entienden nada todavía. Para ellos es como un París Dakar, ya van a ver cuando lleguen lo que les pasa”, dice Sergio Calgaro, que peregrina desde 1978.  Alejandro, 60 años, va en una bicicleta con sus 4 perros caniches: luna, sol, saturno y estrella. Lleva agua para él y alimento balanceado para "su familia". No le importa cuántas horas va a pedalear, dice que tiene salud, y que no tienen ningún apuro.
+
+

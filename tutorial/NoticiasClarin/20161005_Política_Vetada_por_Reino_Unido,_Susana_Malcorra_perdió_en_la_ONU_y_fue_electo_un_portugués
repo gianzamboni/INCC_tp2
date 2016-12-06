@@ -1,0 +1,118 @@
+
+A la hora en que Susana Malcorra explicaba este mediodía ante la Comisión de Relaciones Exteriores del Senado los alcances de los acuerdos que se negocian con el Reino Unido y en especial lo que ataña al conflicto de soberanía de Malvinas, el Consejo de Seguridad de las Naciones Unidas echaba por tierras su sueño de convertirse en la primera mujer secretaria general del organismo. El portugués Antonio Guterres alcanzaba sus sexta votación en el primer lugar y, con más votos que el resto y ninguna impugnación de los países miembros permanentes, lo convirtieron sorpresivamente en el sucesor del coreano Ban ki moon a partir de 2017. Mirá también: Antonio Guterres será el nuevo Secretario General de la ONU
+
+Lo paradójico es que, según supo Clarín de muy altas fuentes, a Susana Malcorra la vetó el Reino Unido, uno de los cinco miembros del Consejo, lo que hizo trizas las teorías en el kirchnerismo que la ingeniera ministra utilizaba su cargo de canciller para seducir a los británicos. De acuerdo a lo que sabe este diario, la Canciller obtuvo hoy cinco votos positivos, de dos miembros permanentes como Estados Unidos y China, y probablemente de Uruguay, España y Egipto. Recibió siete votos negativos (el veto británico uno de ellos) entre los que podría estar Venezuela; y tres “no opiniones”, entre los que podría estar Francia y Rusia, dos miembros permanentes del Consejo. 
+
+
+Malcorra recibió la noticia este mediodía cuando estaba en el Senado. Se la transmitió en el embajador argentino ante la ONU, Martín García Moritán.​
+
+
+
+
+
+var act_a97 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_a97 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_a97.setTitle('Malcorra recibió la noticia este mediodía cuando estaba en el Senado. Se la transmitió en el embajador argentino ante la ONU, Martín García Moritán.​');
+act_a97.setSubtitle('Sucederá a Ban ki Moon'); 
+act_a97.setLinkBack('http://www.clarin.com/politica/Perdio-Malcorra-portugues-secretario-ONU_0_1663033768.html');
+act_a97.setDescription('La Canciller argentina aspiraba al cargo. Y tenía un fuerte apoyo del presidente Mauricio Macri.');
+act_a97.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Perdio-Malcorra-portugues-secretario-ONU_0_1663033768.html');
+
+var showShareBarUI_params_a97=
+{ 
+containerID: 'shareQuote_a97',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_a97,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_a97
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_a97);
+ Aunque esta situación dispara especulaciones sobre el futuro de la Cancillería, si la sucederá o no Alfonso Prat Gay u otros posibles candidatos, cerca del gobierno de Mauricio Macri no se apartaron de lo expresado varias veces por el Presidente, quien respaldó a Malcorra en sus deseos de competir por la ONU y además que quiere que siga siendo su ministro. El punto se sabrá más adelante, cuando Guterres asuma su mandato y siga la tradición de ofrecerle cargos a los que fueron candidatos a ocupar su sillón.   Antes de asumir como ministro de Macri, ella era la jefa de Gabinete de Ban ki moon.Trabajó en la ONU como directora mundial del Programa de Alimentos y  también directora logistica de operaciones del organismo multilateral. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/SusanaMalcorra/status/783726560415285248",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78372656041528524")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/SusanaMalcorra/status/783706878572462080",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78370687857246208")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/SusanaMalcorra/status/783707102606942208",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78370710260694220")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+  De hecho las redes sociales estallaron. Guterres, ex primer ministro de Portugal, ex presidente de la Internacional Socialista, Alto Comisionado para los Refugiados, es respetado y apreciado en la comunidad internacional. Pero hubo cierta desilusión en su elección entre quienes pedían que ganara una mujer. De los nueve secretarios generales que ha tenido el organismo, nueve fueron europeos, dos asiáticos, dos africanos, uno latinoamericano. Nunca una mujer.  Hubo varias votaciones hasta llegar a la elección de Guterres: en la primera, Malcorra había quedado octava después obtuvo algunos mejores resultados, luego volvió a caer al séptimo lugar y en la penúltima quedó cuarta, lo que encendió una luz de esperanza en los que la apoyaban a la rosarina. En consulta de este diario sobre el veto británico a Malcorra fuentes del Foreign Office se limitaron a señalar: “El único candidato, Antonio Guterres, se impuso hoy en la votación por nueve votos positivos y ninguna disconformidad de los cinco miembros permanentes. Este es el mínimo para tener éxito en un voto del Consejo de Seguridad para que este lo recomiende como el próximo secretario general", señalaron. "Guterres es un candidato fuerte y experimentado con probados antecedentes en liderazgo internacional al más alto nivel. El tiene las cualidades para ser secretario general. Debemos movernos hacia un voto formal”, agregaron. El mandato del actual secretario general, Ban Ki Moon, expira el próximo 31 de diciembre, por lo que antes de esa fecha el Consejo de Seguridad debe elevar una propuesta de sucesor a la Asamblea General de la ONU, que es la encargada de aprobar esa nominación. Mirá también: Malcorra defendió el comunicado conjunto con Gran Bretaña por Malvinas: "Es muy positivo"

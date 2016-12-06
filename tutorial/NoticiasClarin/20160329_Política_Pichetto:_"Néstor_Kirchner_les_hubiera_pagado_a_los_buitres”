@@ -1,0 +1,150 @@
+
+El titular del bloque de senadores del Frente para la Victoria (FpV), Miguel Ángel Pichetto, adelantó hoy que apoyará mañana en el recinto el proyecto de normalización de deuda, que contempla la derogación de las leyes Cerrojo y de Pago Soberano y autoriza la emisión de deuda por US$ 12.500 millones para el cierre del litigio con los fondos buitre, ya que "es lo mejor para el país". En declaraciones a Radio con Vos, el legislador rionegrino se refirió a la discusión que se dará mañana en el Senado sobre el acuerdo con los holdouts, que ya cuenta con la aprobación de la Cámara de Diputados, y dijo que si bien se trata de "un tema complejo y difícil", adelantó que "habrá un porcentaje de senadores que apoyarán esta medida". 
+
+
+Y aseveró: "Nestor Kirchner le pagaría a los holdouts, su meta fue el desendeudamiento".
+
+
+
+
+
+var act_988 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_988 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_988.setTitle('Y asever&oacute;:&nbsp;&quot;Nestor Kirchner le pagar&iacute;a a los holdouts, su meta fue el desendeudamiento&quot;.');
+act_988.setSubtitle('DEBATE EN EL SENADO'); 
+act_988.setLinkBack('http://www.clarin.com/politica/Pichetto-Nestor-Kirchner-pagado-buitres_0_1549045262.html');
+act_988.setDescription('El jefe de los senadores dijo no creer en la consigna &ldquo;Patria o Buitres&rdquo;. &nbsp;Y dijo&nbsp;que el bloque PJ tendr&aacute; libertad de acci&oacute;n para votar sobre la deuda. Le respondieron desde el kirchnerismo.');
+act_988.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Pichetto-Nestor-Kirchner-pagado-buitres_0_1549045262.html');
+
+var showShareBarUI_params_988=
+{ 
+containerID: 'shareQuote_988',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_988,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_988
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_988);
+ La respuesta le llegó desde el kirchnerismo, de la mano de la diputada Juliana Di Tullio: 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ditulliojuli/status/714803919533244416",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71480391953324441")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Pichetto siguió diciendo que "voy a acompañarla también porque me parece que es lo mejor para el país, tratar de solucionar este problema y normalizar las relaciones con los acreedores externos", dijo el senador. No obstante, el jefe de la bancada kirchnerista en la Cámara alta indicó que "el bloque va a tener libertad de acción". Asimismo, Pichetto consideró que "el pago puede ser injusto y doloroso, pero la realidad es que tenemos un juicio que hemos perdido y corren los intereses punitorios". 
+
+
+"Yo no creo en la consigna Patria o Buitres", manifestó el legislador.
+
+
+
+
+
+var act_f75 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_f75 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_f75.setTitle('&quot;Yo no creo en la consigna Patria o Buitres&quot;, manifest&oacute; el legislador.');
+act_f75.setSubtitle('DEBATE EN EL SENADO'); 
+act_f75.setLinkBack('http://www.clarin.com/politica/Pichetto-Nestor-Kirchner-pagado-buitres_0_1549045262.html');
+act_f75.setDescription('El jefe de los senadores dijo no creer en la consigna &ldquo;Patria o Buitres&rdquo;. &nbsp;Y dijo&nbsp;que el bloque PJ tendr&aacute; libertad de acci&oacute;n para votar sobre la deuda. Le respondieron desde el kirchnerismo.');
+act_f75.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Pichetto-Nestor-Kirchner-pagado-buitres_0_1549045262.html');
+
+var showShareBarUI_params_f75=
+{ 
+containerID: 'shareQuote_f75',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_f75,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_f75
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_f75);
+ Y sentenció: "Estamos ante una acción judicial que hemos perdido; ahora hay que resolverlo".

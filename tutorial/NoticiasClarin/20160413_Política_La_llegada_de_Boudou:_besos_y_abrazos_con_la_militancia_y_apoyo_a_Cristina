@@ -1,0 +1,18 @@
+
+El ex vicepresidente de la Nación, Amado Boudou, llegó solo a Comodoro Py y se mezcló entre los miles de militantes kirchneristas que se acercaron al barrio porteño de Retiro para darle su apoyo a Cristina Fernández, en lo que será su presentación ante el juzgado de Claudio Bonadio. Mirá también: Cristina está en Tribunales para declarar ante Bonadio “Fuerza Cristina, vamos a volver”, expresó en diálogo con Clarín el ex titular del Senado, que tiene nuevo look y que casi no podía caminar debido a las fotos que le pedían los militantes que llegaron a Tribunales. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Boudou: el primer ex funcionario K que irá a juicio oral en la era Macri por corrupción El marplatense deberá volver a Comodoro Py ya que irá a juicio oral por una causa de corrupción. En diciembre pasado, el fiscal del caso Ciccone, Jorge Di Lello, firmó la elevación a juicio oral de parte de esa causa. Mirá también: La Cámpora armó su propio operativo de seguridad en Tribunales

@@ -1,0 +1,82 @@
+
+La periodista Julia Mengolini reeditó ayer en Intratables un nuevo capítulo de la frase “roban pero hacen”, mientras se discutía en el programa sobre las imágenes del hijo de Lázaro Báez contando dólares en una financiera K de Puerto Madero.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Al respecto, la panelista afirmó sin titubear que "la corrupción no quita lo bueno de un proyecto político", una declaración que desató rápidamente el repudio de sus compañeros y la indignación en las redes sociales.  Débora Plager fue la primera que le salió al cruce al tildarla de "cómplice de la corrupción". “Los que han hecho silencio doce años han sido cómplices de los corruptos. Los que hoy todavía te responden, cuando ven un caso de corrupción, que se han incluido cuatro millones de jubilados y que la Asignación Universal por Hijo...Eso es complicidad", afirmó.  “Hay un error conceptual que es creer que se puede pagar un precio por la inclusión social”, argumentó la ex periodista de C5N. Y remató: “Si el precio a pagar para tener Asignación Universal por Hijo es tener dirigentes corruptos, no lo pago”. Mirá también: Escándalo: un video muestra al hijo de Báez contando dólares en una financiera K Mengolini, atónita por la repercusión de sus dichos, intentó relativizar la polémica argumentando que en la historia de todos los gobiernos "siempre hubo corrupción", mientras repetía una y otra vez que no justificaba los actos del hijo de Lázaro Báez.  Como era de esperar, la polémica frase de Julia Mengolini rebotó rápidamente en las redes sociales con mensajes de todo tipo.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/AndreaBiego/status/710081453019828224",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71008145301982822")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/tinchocanon/status/710078825372188676",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71007882537218867")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/pablogonzalezt/status/710081096608825344",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71008109660882534")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/esantandere77/status/710078499827130368",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71007849982713036")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Al final del programa, Mengolini no pudo aguantar las lágrimas y se quebró: "Yo no puedo trabajar así. Me duele porque este es un lugar que he valorado mucho; en pocos lugares como acá hay debate, pero si van a terminar estigmatizando a un compañero porque piensa distinto entonces la verdad no se puede venir".

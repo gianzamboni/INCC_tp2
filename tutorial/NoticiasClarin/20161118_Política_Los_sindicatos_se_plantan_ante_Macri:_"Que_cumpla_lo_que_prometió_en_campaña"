@@ -1,0 +1,74 @@
+
+Los sindicatos que marcharon hoy para pedir la sanción de la Ley de Emergencia Social plantaron su reclamó contra el presidente Mauricio Macri en la Plaza de los dos Congreso y le exigieron que cumpla con las promesas de campaña o habrá nuevas movilizaciones. "Queremos que el gobierno cumpla con las promesas de campaña: pobreza cero, eliminación del impuesto al salario y ahora le pedimos que apruebe la emergencia social", sentenció Carlos Acuña, secretario general del gremio de estaciones de servicio, y uno de los integrantes del triunvirato que conduce la CGT.
+
+Mirá también: Bajo el lema "Unidad por la justicia social" y con gigantografías de Perón y Evita, el Congreso aguarda la marcha opositora A medida que el reloj se acercaba a las 16, hora de acto principal, las calles se iban llenando de personas que avanzaban al Congreso. La convocatoria fue lo primero que resaltaron los lideres sindicales, enrostrándole al Ejecutivo su poder de copar la calle. 
+
+
+En la CGT hablan de un plan de lucha permanente y sostenido, de acá al primer trimestre de 2017
+
+
+
+
+
+var act_a86 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_a86 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_a86.setTitle('En la CGT hablan de un plan de lucha permanente y sostenido, de acá al primer trimestre de 2017');
+act_a86.setSubtitle('Marcha en Congreso'); 
+act_a86.setLinkBack('http://www.clarin.com/politica/sindicatos-plantan-Macri-prometio-campana_0_1689431152.html');
+act_a86.setDescription('Diferentes dirigentes de la CGT hablaron con Clarín y le enviaron mensajes al Gobierno.');
+act_a86.addActionLink('VER MÁS', 'http://www.clarin.com/politica/sindicatos-plantan-Macri-prometio-campana_0_1689431152.html');
+
+var showShareBarUI_params_a86=
+{ 
+containerID: 'shareQuote_a86',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_a86,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_a86
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_a86);
+ José Luis Lingeri, del sindicato de Obras Sanitarias, dijo: "Estamos contentos, con expectativas, el movimiento obrero está en la calle, con mucha gente y nos manifestamos por algo que es justo".
+
+Por su parte, Sergio Romero, de la Unión de Docentes Argentinos (UDA), sostuvo que en la Casa Rosada deben "hacer lectura de la marcha, ya que esto no es un hecho aislado". Y advirtió que, de no obtener respuestas seguirá las movilizaciones. "Tienen un tiempo de reacción sino esto es el inicio de un plan de lucha permanente y sostenido, de acá al primer trimestre de 2017", agregó.  Mirá también: El Centro porteño, colapsado por la marcha de la CGT al Congreso Pablo Moyano, del gremio de Camioneros, expresó que no hay "animosidad" por parte del movimiento obrero en contra del Gobierno, pero admitió que los trabajadores sienten "bronca" "porque las soluciones no llegan". El referente sindical sostuvo ante el canal C5N que el macrismo "gobierna para los ricos", por lo que reiteró su pedido para que la administración de Mauricio Macri "escuche la voz de los trabajadores que estamos en la calle".
+
+"Ojalá hubieran tenido la misma rapidez de darle soluciones a los trabajadores como se las dieron al campo o a las mineras", concluyó.

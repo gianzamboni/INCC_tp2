@@ -1,0 +1,18 @@
+
+Una intensa discusión se generó ayer en el piso de Intratables luego de que el programa conducido por Santiago del Moro pusiera al aire, en dúplex, una entrevista a Máximo Kirchner que realizaban en Radio del Plata. Mirá también: Por radio, Máximo Kirchner rechazó la acusación y volvió a cargar contra el gobierno de Macri El "debate" arrancó cuando el panelista K Diego Brancatelli se quejó porque "la gente está harta" del seguimiento que hacen los medios de las investigaciones de la Justicia. "Es cierto, son datos concretos y reales de la causa (Lázaro Báez). Ya lo dijimos. Cansa. Ya está claro. La gente escuchó quién es quien. Avancemos", propuso cuando el conductor le preguntó si creía que Leonardo Fariña y Lázaro Báez sufren una persecución. "Diego... Decí 'Milagros Salas es una corrupta' y la cortamos", lo desafió Paulo Vilouta. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Cuando el frustrado precandidato a intendente de Ituzaingó por el FPV (no lo dejaron competir en las PASO de 2015) sostuvo que un "blindaje mediático" protege al jefe de gobierno Horacio Rodríguez Larreta en torno a la tragedia de la fiesta electrónica en Costa Salguero, Del Moro intentó calmar las aguas dándole la palabra a Julio Bárbaro. El ya histórico referente del peronismo arrancó contemporizador y en su habitual tono de análisis, hasta marcó puntos de coincidencia con Brancatelli. Pero unos segundos más tarde se trenzó a los gritos con Leandro Santoro, el radical que fue candidato a vice del FPV en las elecciones porteñas de 2015. De allí en más, los cruces continuaron subiendo de tono y sumando participantes. No faltaron acusaciones y hasta juegos de palabras con los apellidos de unos y otros. Todo se puede seguir en un video que el propio Julio Bárbaro compartió por Youtube. 

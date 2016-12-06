@@ -1,0 +1,68 @@
+
+La demanda de especialistas en explotar la abrumadora cantidad de datos que circula en Internet, redes sociales, empresas y organismos públicos tiende a crecer casi al mismo ritmo que el volumen de la información que deben procesar. Pero la oferta de profesionales, como sucede en toda la industria de tecnología, no aumenta con la misma intensidad.La necesidad de incorporar científicos de datos se expande en los mercados de banca, seguros, retail, finanzas, Internet, marketing, telecomunicaciones, servicios públicos y gobierno, entre otros."Las empresas descubrieron que hay potencial para crear valor agregado a partir de los datos generados", dice Carlos Diuk Wasser, licenciado en Ciencias de la Computación de la UBA, que trabaja como científico de datos en la casa matriz de Facebook, en EE.UU.La demanda de estos profesionales se explica "por la evolución simultánea de distintos procesos que empujaron a las empresas a realizar una transformación digital que abre la puerta a nuevas capacidades y oportunidades; una de ellas es reconocer que los datos son un activo muy importante que genera un diferencial en el negocio", explica Mat Travizano, fundador y CEO de GranData. "Ahí es donde surge la necesidad de procesar datos y darles sentido para mejorar la toma de decisiones", completa.Travizano, físico de la UBA, opina que "hay consenso acerca de invertir y tener recursos humanos calificados en ciencia de datos, una mezcla creativa de disciplinas que tiene mucho de computador científico, pero también de comprender problemas del negocio".La escasez de profesionales en la industria informática se profundiza en esta área. En esta "intersección de computación, estadística, e incluso ciencias sociales cuantitativas es muy difícil encontrar gente con una formación tan interdisciplinaria –observa Diuk Wasser–. Hay muchas personas con formación en ciencias a la que les faltan los conocimientos de computación necesarios para lidiar con datos masivos, o gente con formación en computación que no tiene experiencia analizando datos. Hoy en día hay muchos programas cortos que tratan de saldar esa brecha".
+
+
+Almacenar información y procesarla: "Hace 30 años un supermercado quizás no almacenaba los tickets de todas las compras y, si lo hacía, no sabía qué hacer con ellos. Desde 1990 se volvió factible técnica y económicamente almacenar esa información y procesarla. Hoy un supermercado puede usar esos datos para redistribuir los productos en el local y lograr eficacia", dice Diuk Wasser.
+
+
+
+
+
+var act_891 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_891 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_891.setTitle('Almacenar información y procesarla: "Hace 30 años un supermercado quizás no almacenaba los tickets de todas las compras y, si lo hacía, no sabía qué hacer con ellos. Desde 1990 se volvió factible técnica y económicamente almacenar esa información y procesarla. Hoy un supermercado puede usar esos datos para redistribuir los productos en el local y lograr eficacia", dice Diuk Wasser.');
+act_891.setSubtitle('Nuevas profesiones'); 
+act_891.setLinkBack('http://www.clarin.com/ieco/Cientificos-datos-perfil-ciencia-negocio_0_1543645902.html');
+act_891.setDescription('A medida que aumenta el volumen de datos, crece la demanda de especialistas en su procesamiento.');
+act_891.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/Cientificos-datos-perfil-ciencia-negocio_0_1543645902.html');
+
+var showShareBarUI_params_891=
+{ 
+containerID: 'shareQuote_891',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_891,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_891
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_891);
+Según describe el analista de Facebook, su trabajo involucra "una combinación de conocimientos de computación (saber programar y analizar datos masivos en arquitecturas de procesamiento paralelo) y estadística (saber cómo analizar los datos y separar señal de ruido), más experiencia en alguna disciplina cuantitativa para saber qué datos analizar, para qué o cómo diseñar un experimento. En mi grupo de trabajo hay informáticos, estadísticos, economistas, cientistas políticos, sociólogos, bioinformáticos y demógrafos, entre otros".Esteban Feuerstein, director del Departamento de Computación de la FCEyN UBA y director ejecutivo y responsable del Programa de Ciencia de Datos de la Fundación Sadosky, señala que la demanda laboral de las empresas y organismos públicos "hoy se cubre de manera ad hoc, ya que todavía no hay un título de científico de datos o una currícula de grado precisa y específica para formar a estos profesionales". Aunque apunta que "existe una buena oferta de posgrado que sirve para formar a la gente que ocupa los puestos que se van creando".Es que, a falta de una estandarización, "hoy hay mucha formación pragmática", agrega Feuerstein. A su juicio, "esto sucede porque todavía se está definiendo esta disciplina, pero también por la propia naturaleza interdisciplinaria de estos perfiles, donde convergen numerosas especialidades".De acuerdo con Feuerstein, para estos profesionales "es interesante el conocimiento de algún mercado vertical y el manejo de herramientas de visualización, que resultan de mucha ayuda para mostrar la información en imágenes al cliente o al usuario no especialista".Para Dan Rozenfarb, cofundador y director de Investigación y Desarrollo de la empresa Keepcon y especialista en procesamiento de lenguaje natural, "el problema de la cantidad de datos ha existido siempre, pero el volumen es cada vez mayor y también existen más herramientas tecnológicas para procesar e interpretar".Y coincide en que está creciendo "la cantidad de profesionales que se está capacitando en este campo, así como la oferta de formación académica, con algunas maestrías y la incorporación de materias en los planes de las carreras de grado"."El 80% de la información disponible en Internet no está estructurada: se encuentra de archivos de PDF, Excel o Word; también hay videos y mucha información proveniente de Twitter y otras redes sociales, por citar sólo algunos casos –ejemplifica Rozenfarb–. El desafío consiste en procesar de manera automatizada esa información, cuya densidad y volumen seguirán aumentando, para poder interpretarla. La demanda de las capacidades y el conocimiento para extraer y procesar la información, que es muy valiosa, no van a parar de crecer. Y para hacerlo, se precisan científicos de datos".

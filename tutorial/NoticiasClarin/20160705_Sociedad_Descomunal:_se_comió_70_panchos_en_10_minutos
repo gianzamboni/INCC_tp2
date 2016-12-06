@@ -1,0 +1,18 @@
+
+Lo apodan “Mandíbulas” y, claro, no lo pueden llamar de otra manera. Su nombre es Joey Chestnut, tiene 32 años y es el último campeón del concurso de hot dogs organizado en Estados Unidos: se clavó 70 panchos en sólo 10 minutos. Flor de estómago.  La competencia la organiza desde hace ya varios años el restaurante Nathan's de Coney Island. Se hizo ayer, para celebrar el Día de la Independencia estadounidense. Chestnut se volvió al triunfo luego de comer 17 salchichas más que Matt Stonie, quien el año pasado había puesto fin a la racha de ocho años consecutivos de Chestnut como ganador del Cinturón Internacional de Mostaza Amarilla. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Mandíbulas se comió 70 panchos en diez minutos, lo que es todo un récord para la competencia, y volvió a batir su propia marca: en 2013 se devoró 69 salchichas y panes. Esto demuestra que siempre hay que superarse a uno mismo. Mientras festejaba con el cinturón de campeón tras su triunfo, Chestnut dijo que Stonie había “despertado al gigante dormido” cuando lo derrotó el año pasado y agregó: “El 2015 fue difícil, pero mejoré y éste fue el mejor año que tuve”. Es que no el honor está en juego, sino también una linda cifra de 40 mil dólares para el ganador. También leé: "La japonesa que come todo lo que encuentra y es estrella en YouTube"  El concurso de hombres se llevó a cabo después del de la división femenina, que ganó la campeona actual Miki Sudo. Ella retuvo su título: ganó por tercer año consecutivo al comer 38 salchichas. El resto quedaron “calentitos los panchos”.

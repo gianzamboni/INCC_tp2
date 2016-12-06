@@ -1,0 +1,20 @@
+
+La vida de los hermanos Milagros (18) y Alan Mendoza (16) cambió por completo desde que subieron un video en el que bailan un rock en el patio trasero de su casa de San Franciso Solano, antes de un asado familiar. Durante poco más de dos minutos, los jóvenes quilmeños sorprenden con su talento para moverse al ritmo de “Flip, flop and fly”, un clásico de Big Joe Turner. Con más de 1,5 millón de visitas en Facebook, el baile de estos chicos es furor en Internet y el video se viralizó en las redes sociales, donde la gente tiene comentarios elogiosos y de admiración hacia la pareja. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+“Todos los fines de semana la casa se llena de gente. Familiares, amigos y vecinos vienen a comer y charlar. Un día pusimos un rock y tuvimos la idea de filmar a los dos. Nos distrajimos tanto que se nos quemó el asado. Es más, en el video se ve a un amigo pasar con un balde con agua para apagar el fuego”, recuerda Olga, la mamá de los bailarines, entre risas. Alan subió el video sin imaginar que llegaría a reproducirse de tal manera. “Nos sorprendió muchísimo la repercusión que tuvo. Siempre posteamos nuestros bailes porque estamos metidos en el ambiente del rock, pero este video fue especial. Los vecinos empezaron a compartirlo y se volvió viral. Nos llegan mensajes hermosos y llamadas, propuestas para bailar. Estamos muy agradecidos con todos los que nos apoyaron. Las cosas que nos dicen te llenan el alma”, cuenta Alan, quien estudia en la Escuela Media N° 80 de Solano, donde todos los reconocen. Lo cierto es que la filmación se hizo popular entre las redes sociales y recorrió miles de grupos de Whatsapp. Varios programas de televisión se hicieron eco y lo reprodujeron. Es que la destreza de los hermanos quilmeños sorprende a todos. Esa habilidad no apareció de un día para otro. La pasión que ambos sienten por el rock fue transmitido por su papá Fabián –conocido como “Tarzán” en el barrio–, quien los llevaba a bailar a clubes de Solano cuando Milagros tenías apenas 12 años. “Siempre le dije a mi mamá que voy a llegar al programa de Marcelo Tinelli. Ahora que se prepare”, cuenta con una sonrisa Milagros. “Algo hermoso sería conseguir una beca de baile en algún instituto. Siempre hay más por aprender y las escuelas de danza son muy caras. Nosotros no podemos afrontar los gastos”, agrega la estudiante de la Escuela Media N° 11 y profesora de danzas árabes en el Instituto Niños de Alejandría.
+
+Luego del video y por su habilidad natural en la pista, a los hermanos Mendoza los invitan constantemente a bailar en eventos exclusivos para los amantes del rock y en boliches. También hacen presentaciones solidarias como la que tienen prevista el 10 de julio en José C. Paz,para ayudar a chicos en situación de calle. “Es un orgullo que nos llamen para hacer esto que tanto nos gusta. Y mayor es la alegría si con nuestro baile ayudamos a aquellos que más lo necesitan y ojalá la gente nos imite. Esto es un sueño”, cierra Alan.  Clarín Zonales

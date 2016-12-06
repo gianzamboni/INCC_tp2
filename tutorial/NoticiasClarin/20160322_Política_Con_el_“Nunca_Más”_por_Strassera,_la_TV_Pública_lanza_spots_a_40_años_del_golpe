@@ -1,0 +1,117 @@
+
+Para recordar y repasar hechos a 40 años del golpe militar, el Sistema Federal de Medios y Contenidos Públicos presenta desde hoy una serie de spots creados bajo la consigna Nunca Más donde se recuperan voces emblemáticas y algunos acontecimientos claves de la historia más trágica del país. Los videos serán emitidos por la TV Pública y el Canal Encuentro. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Las imágenes de archivo muestran a Ernesto Sábato entregando el informe de la CONADEP al Dr. Alfonsín, el alegato del fiscal Julio Strassera en el juicio a las Juntas, los de testimonios de Estela de Carlotto y las madres de Plaza de Mayo como así también fragmentos de una entrevista a Videla donde habla de los desaparecidos, declaraciones  del censor Tato, la guerra de Malvinas, la propaganda de la junta militar “Somos derechos y humanos”, entre otras. 
+
+
+Estos spots se verán en la TV Pública en medio de las críticas de organismos de derechos humanos a la política oficial en el rubro y a horas de una marcha de estas organizaciones contra la visita de Barack Obama a la Argentina, coincidente con la fecha del 24 de marzo.
+
+
+
+
+
+var act_fcb = new gigya.socialize.UserAction();
+
+var emailBodyCustom_fcb = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_fcb.setTitle('Estos spots se ver&aacute;n en la TV P&uacute;blica en medio de las cr&iacute;ticas de organismos de derechos humanos a la pol&iacute;tica oficial en el rubro y a horas de una marcha de estas organizaciones contra la visita de Barack Obama a la Argentina, coincidente con la fecha del 24 de marzo.');
+act_fcb.setSubtitle('DERECHOS HUMANOS'); 
+act_fcb.setLinkBack('http://www.clarin.com/politica/Strassera-TV-Publica-lanza-golpe_0_1544845651.html');
+act_fcb.setDescription('Las im&aacute;genes muestran la entrega del informe de la CONADEP a Alfons&iacute;n m&aacute;s&nbsp;testimonios de Carlotto y Madres de Plaza de Mayo.');
+act_fcb.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Strassera-TV-Publica-lanza-golpe_0_1544845651.html');
+
+var showShareBarUI_params_fcb=
+{ 
+containerID: 'shareQuote_fcb',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_fcb,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_fcb
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_fcb);
+ De todos modos, Estela de Carlotto dijo ayer mismo que si Obama quiere reunirse con las Abuelas, "que venga a visitarnos y lo recibiremos". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Un ejercicio criminal del poder del Estado Los spots se transmitirán desde el martes 22 en las tandas publicitarias. “Los argentinos debemos completar la transición del autoritarismo a la democracia. Llevar a cabo esa tarea es la mejor manera de decirle Nunca Más a la violencia del pasado. Donde se afirme la justicia en el marco de la ley, se afirmará la paz en el marco de un proyecto de convivencia” afirma Hernán Lombardi, Ministro de Medios y Contenidos Públicos y concluye: “Recordar la tragedia nos compromete aún más hacia el futuro”.    
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Lecciones de nuestra noche más negra “Nunca más a la censura. Nunca más a la intolerancia a la diversidad. Nunca Más al terrorismo de Estado.  Nunca Más a la prepotencia y la mentira en nombre de nuestros legítimos derechos. Nunca más a la apropiación de niños. Nunca más a ocultar la verdad. Nunca más desaparecidos en Argentina. Nunca más a la represión ilegal”, recitan los spots que se emiten desde este mediodía en la TV Pública y en Canal Encuentro.
+

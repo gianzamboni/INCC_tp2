@@ -1,0 +1,154 @@
+
+Con todos los micrófonos frente a ella y las cámaras de los principales canales de noticias enfocándola, Elisa Carrió volvió a lanzar críticas a propios y ajenos. “Hay gente que se está quedando sin trabajo porque no trabajaba", manifestó en referencia a los despidos en la administración pública.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En respuesta a gremios que plantean movilizaciones por los despidos y reclamos contra el Ejecutivo, sostuvo: "El aumento del mínimo no imponible no lo hizo Cristina y no vi ni una huelga".  Además se refirió al encuentro privado que mantuvo ayer con el presidente de la Nación, Mauricio Macri, y el extitular de la UCR, Ernesto Sanz en la residencia de Olivos, en medio de una semana cargada de tensiones entre la diputada y el oficialismo, al que pertenece. “Ver a dos hombres tratando de amansarme es divertido”, resumió la líder de la CC-ARI para graficar cómo sintió su paso por Olivos. Al ser consultada sobre si le dio un ultimátum a Macri por su relación con Daniel Angelici, a quien ella acusó de “operar” en la Justicia con el visto bueno presidencial, Lilita sostuvo que no. “Soy una actriz dramática de envergadura nacional”, ironizó y agregó: “Los amigos no me importan, me importa la República”.
+
+Ayer, horas antes de viajar a Washington, Macri estuvo en la Quinta presidencial con Carrió. ”Fue una reunión dura, franca y divertida”, acotó ella. Había llegado hasta allí después de tres días cargados de tensión por sus constantes críticas contra Angelici y la suba de tarifas de servicios públicos impulsada por el Gobierno. 
+
+
+Cada uno tiene los amigos que quiere
+
+
+
+
+
+var act_2f5 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_2f5 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_2f5.setTitle('Cada uno tiene los amigos que quiere');
+act_2f5.setSubtitle('Al presentar su libro'); 
+act_2f5.setLinkBack('http://www.clarin.com/politica/Carrio-gente-quedando-trabajo-trabajaba_0_1550245377.html');
+act_2f5.setDescription('La diputada oficialista habl&oacute; de todos los temas y se refiri&oacute; al&nbsp;encuentro en Olivos con el Presidente Macri y Ernesto Sanz.&nbsp;');
+act_2f5.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Carrio-gente-quedando-trabajo-trabajaba_0_1550245377.html');
+
+var showShareBarUI_params_2f5=
+{ 
+containerID: 'shareQuote_2f5',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_2f5,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_2f5
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_2f5);
+ “Macri va a tener que elegir si lo quiere a Angelici como socio o a mí como socia. Lo puede tener como socio en Boca, no en la Justicia”, había dicho el domingo por la noche “Lilita” en el programa de Luis Majul. Mirá también: Macri recibió a Carrió en Olivos: "Fue una reunión dura, franca y divertida" El martes, al ser citada por la Justicia para declarar en una denuncia que se originó por una declaración suya en TV, Carrió profundizó sus críticas contra el amigo del Presidente. “Hoy me toca cuestionar al Gobierno que llevé al poder. Y lo hago de la misma manera que cuando era oposición porque la lucha por el derecho no se negocia”, sostuvo. “No sé si es delito pero estoy harta”, lanzó. Mirá también: Piden la indagatoria de Angelici y Carrió lo celebra: "La República se construye, no se declama" La gota que rebalsó el vaso fue la de ayer, cuando desde su cuenta de Twitter, arremetió contra el Gobierno por la suba de tarifas al decir “No comparto ajustes brutales de agua, gas, transporte en medio de tan alta inflación, no se puede ahogar a la sociedad q nos apoya en el cambio”. Hoy volvió a referirse al tema: "Esto había que anunciarlo después de que la gente lea lo que han mejorado con las decisiones que está tomando el Presidente". 
+
+
+“Pienso morirme a los 107 años y pienso decir la verdad donde esté", dijo Carrió
+
+
+
+
+
+var act_64e = new gigya.socialize.UserAction();
+
+var emailBodyCustom_64e = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_64e.setTitle('&ldquo;Pienso morirme a los 107 a&ntilde;os y pienso decir la verdad donde est&eacute;&quot;, dijo Carri&oacute;');
+act_64e.setSubtitle('Al presentar su libro'); 
+act_64e.setLinkBack('http://www.clarin.com/politica/Carrio-gente-quedando-trabajo-trabajaba_0_1550245377.html');
+act_64e.setDescription('La diputada oficialista habl&oacute; de todos los temas y se refiri&oacute; al&nbsp;encuentro en Olivos con el Presidente Macri y Ernesto Sanz.&nbsp;');
+act_64e.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Carrio-gente-quedando-trabajo-trabajaba_0_1550245377.html');
+
+var showShareBarUI_params_64e=
+{ 
+containerID: 'shareQuote_64e',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_64e,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_64e
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_64e);
+ En una presentación de un libro junto a Ricardo López Murphy, a la diputada de la CC-ARI le preguntaron por los despidos en la administración pública. Los justificó y señaló que La Cámpora, agrupación de Máximo Kirchner, tenía ñoquis en el Estado. Sin embargo, también reclamó respetar a los empleados de planta. 
+
+“En Defensa había 300 chicos dedicados a hacer blog”, dijo. “Hay gente que ha abusado del poder, chicos de 22 años que ganaban 60 mil pesos”, puso como ejemplo “Lilita”. Mirá también: Carrió declaró en la Justicia por sus denuncias contra Angelici: “Estoy harta” También le preguntaron por la crisis que atraviesa los medios oficialistas, en los que hay despidos de periodistas. Y fue tajante: “Esos medios no existían, los defraudaron a ellos, el dinero y los millones los tiene el señor Cristóbal López, que los trabajadores vayan a embargarlo, quizas se quedan con todo”.

@@ -1,0 +1,68 @@
+
+ Uno de los conductores de la CGT le puso hoy un piso al bono de fin de año que la central obrera reclama. Carlos Acuña, secretario general del Sindicato de Obreros y Empleados de Estaciones de Servicios, Garages, Playas de Estacionamiento y Lavaderos, dijo que si la administración de Mauricio Macri "gobierna sólo para los patrones van a tener el conflicto en la puerta". 
+
+
+Y advirtió: "Mañana discutimos con los sectores privados y estamos pidiendo un piso de 2000 pesos como referencia y que cada sindicato discuta con su sector".
+
+
+
+
+
+var act_08b = new gigya.socialize.UserAction();
+
+var emailBodyCustom_08b = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_08b.setTitle('Y advirtió: "Mañana discutimos con los sectores privados y estamos pidiendo un piso de 2000 pesos como referencia y que cada sindicato discuta con su sector".');
+act_08b.setSubtitle('Disputa con el Gobierno'); 
+act_08b.setLinkBack('http://www.clarin.com/politica/jefes-CGT-puso-piso-bono_0_1670832964.html');
+act_08b.setDescription('Carlos Acuña, miembro del triunvirato de la central obrera, dijo que si Macri "gobierna sólo para los patrones van a tener el conflicto en la puerta".');
+act_08b.addActionLink('VER MÁS', 'http://www.clarin.com/politica/jefes-CGT-puso-piso-bono_0_1670832964.html');
+
+var showShareBarUI_params_08b=
+{ 
+containerID: 'shareQuote_08b',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_08b,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_08b
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_08b);
+ Uno de los secretarios generales de la CGT dijo por la FM FutuRock que "en realidad, al Gobierno hay que darle apoyo por cuatro años porque fue electo por el pueblo y hay que sostener la democracia. Pero si gobiernan sólo para los patrones, seguramente van a tener el conflicto en la puerta". "El Gobierno ha mostrado un perfil patronal, esperemos que se pueda revertir. Este presidente se comprometió a sacar el impuesto al salario, a pobreza cero. Está mintiendo", manifestó el gremialista. En tanto hoy, la ministra de Desarrollo Social, Carolina Stanley, convocó para mañana a representantes de las organizaciones sociales y la Iglesia, en una mesa tripartita por el diálogo social que se realizará una hora después del encuentro con la CGT y los empresarios para discutir el otorgamiento de un bono de fin de año para trabajadores públicos y privados. Mirá también: Entra en vigencia la ley que otorga beneficios fiscales a las pymes La reunión está prevista para las 11 en la sede de la cartera de Desarrollo Social, ubicada en la intersección de las avenida 9 de Julio y Belgrano, y se trata de la primera convocatoria oficial de este tipo a las organizaciones sociales; entre las cuales confirmaron su presencia Barrios de Pie, la Corriente Clasista y Combativa (CCC), y la Confederación de los Trabajadores de la Economía Popular (CTEP). Por parte de la Iglesia, está confirmado que concurrirá el obispo de Merlo-Moreno, monseñor Fernando Maletti, integrante de la comisión episcopal de Pastoral Social, según informaron a Télam fuentes episcopales. Mirá también: Efecto blanqueo: emitirían más deuda en dólares en 2017 En declaraciones a Télam, Daniel Menéndez, referente nacional de Barrios de Pie, destacó como "positiva e interesante" la convocatoria del gobierno nacional ya que le da "formalidad a un espacio de diálogo que veníamos reclamando desde que la situación social empezó a mostrar un deterioro importante". Para el dirigente, en esta mesa habrá dos niveles de diálogo: por un lado "la situación estructural de pobreza con objetivos de mediano plazo" y "lo más inmediato, de cara a las fiestas de fin de año, para tratar de recomponer los ingresos de los hogares más humildes que han sido deteriorados". Fuente Agencias

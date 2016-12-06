@@ -1,0 +1,18 @@
+
+El fiscal federal Federico Delgado, que investiga la muerte de cinco jóvenes en la Time Warp del 17 de abril, en Costa Salguero, sostuvo que "se deben responder dos preguntas básicas". "La primera es saber si la empresa que organizó la fiesta alquiló el predio y contrató a un proveedor de bebidas. En tal caso seria un empresario que asumió un riesgo para organizar esa fiesta". El otro interrogante para el fiscal es "si estamos frente a una sociedad" armada para organizar la fiesta. Delgado aseguró que  "estas dudas son simples, pero la respuesta cambia todo a la hora de dirimir las responsabilidades penales". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"No es lo mismo alquilar un predio, brindar un servicio de barra o ser socio. Hacia eso va la causa", sostuvo el fiscal en declaraciones realizadas en radio La Red. Además aseguró que existe un panorama donde advierte "un triángulo envuelto por el estado", que, según detalló, estaría conformado por Costa Salguero (el concesionario del predio), la empresa que organizó el evento y la firma que abastecía de bebidas a la fiesta. Todo con el Estado como "envoltura". En la charla, el funcionario ratificó algunos datos. Como que había 20.000 personas en un lugar habilitado para 13.000, que las pastillas se vendían libremente en todo el predio y que la Prefectura no hizo su trabajo en cuanto a las drogas. Sobre esto, denunció: "Hay una prueba que es que, a las 3 de la mañana, Prefectura tenía una bolsa llena de pastillas y recién le avisó al juez a las 11. Deben hacerlo inmediatamente".

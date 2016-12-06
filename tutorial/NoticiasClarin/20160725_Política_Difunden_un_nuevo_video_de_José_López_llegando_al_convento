@@ -1,0 +1,20 @@
+
+Se conocieron esta noche imágenes de cuando el ex secretario de Obras Públicas del kirchnerismo, José López, ingresa a General Rodríguez con su vehículo. Tras dar vueltas durante una hora, llega al monasterio con los bolsos de más de 9 millones de dólares y un arma. Fue allí, finalmente, donde fue detenido cuando intentaba ocultar el dinero. La filmación fue difundida por el equipo de investigación de La Cornisa (América TV). En ella se observa cómo López ingresa a General Rodríguez a las 2.33 de la madrugada del 14 de junio. Lo hace a través de la Ruta 28. Son imágenes del Centro de Monitoreo de esa municipalidad. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_5ahdts35",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_5ahdts35"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_5ahdts35").after(scriptEl);
+ Se sospecha que estuvo dando vueltas por Rodríguez durante una hora porque no podía comunicarse con el convento. Según el informe del programa de Luis Majul, López "tenía la idea de visitar a su viejo amigo el ex intendente de ese partido, Juan Pablo Anghileri, un hombre del Frente para la Victoria con quien López solía frecuentar el convento". En un momento del video se ve cómo el vehículo acelera cuando pasa cerca de una Comisaría. También, en otro tramo, el ex funcionario K enciende las luces altas por lo que encandila las cámaras de seguridad. Finalmente, llegó al convento a las 3.30 de la madrugada con los bolsos cargados de dólares al monasterio. Según se difundió en el informe, hay once llamados entre la monja Alba —involucrada en el caso— y la esposa de López el lunes previo al momento de la detención. También se dio a conocer en el programa un convenio de colaboración de fondos, de 2006, que lleva la firma de López por parte del área de Planificación para la transferencia de más de medio millón de pesos para refacciones del convento. Hace dos semanas, se había dado a conocer otro video en el que se observaba el momento exacto en que el ex secretario de Obras Públicas ingresa con los millones al lugar religioso. Mirá también: Un nuevo video muestra a José López con los bolsos en el convento

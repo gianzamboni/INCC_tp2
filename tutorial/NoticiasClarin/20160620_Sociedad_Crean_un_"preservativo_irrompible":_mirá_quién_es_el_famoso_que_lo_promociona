@@ -1,0 +1,34 @@
+
+Una empresa sueca afirma haber creado un preservativo irrompible. Su secreto está en una estructura formada por 350 alvéolos, resultado de siete años de investigaciones. Mirá también: Lanzan un juego para incentivar el uso del preservativo El preservativo Hex "está compuesto de 350 hexágonos diferentes" y para romperlo sería necesario quebrarlos uno a uno, asegura el fabricante Lelo, en su página web. "No era el material, el látex, lo que había que cambiar, era la estructura", afirma la empresa, que dice que este invento es el resultado de "siete años" de investigación. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Los hexágonos "son la forma perfecta de la naturaleza para que algo sea ligero pero resistente al mismo tiempo. Por eso, la estructura de un grafeno, el material más fino que hay, el más sólido que conoce la ciencia, es, tal y como lo han adivinado, un hexágono", señaló Lelo. Mirá también: Virus del sida: hay 250 casos nuevos por hora en el mundo Esta nueva tecnología implica que el precio del producto está por encima de otros preservativos del mercado. Antes del lanzamiento comercial que tendrá lugar en agosto, los consumidores que estén interesados pueden encargar una caja de 12 a un precio de 14 euros (unos 220 pesos argentinos). La empresa reclutó para su promoción al actor estadounidense Charlie Sheen, que en noviembre reveló que tiene el virus del HIV. "Algo que puede ser percibido como cinco segundos de incomodidad o de interrupción o contrariedad, puede prevenir una vida llega de arrepentimiento y sufrimiento", dijo Sheen, que ya lo promociona en Twitter. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/charliesheen/status/742688451569541121",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_74268845156954112")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Fuente: AFP

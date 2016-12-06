@@ -1,0 +1,66 @@
+
+José Ottavis salió al cruce del proyecto del gobierno provincial para dividir La Matanza, una iniciativa que ya está en la comisión de Asuntos Municipales de la Cámara de Diputados provincial. Vía Twitter, el diputado del Frente para la Victoria, denunció que detrás de la propuesta hay una intención electoral y publicó un provocador tuit contra la gobernadora.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/JoseOttavis/status/770399936437518337",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77039993643751833")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El proyecto que promueve la división del distrito más poblado del país (más de 2.000.000 de habitantes) en cuatro nuevos distritos: Los Tapiales, Gregorio de Laferrere, Juan Manuel de Rosas y La Matanza. Mirá también: Macri, en La Matanza: "La Argentina no termina en la General Paz" Y a la vez, es uno de los pocos lugares con una amplia hegemonía del FpV, allí ganó la intendenta Verónica Magario por más de 25 puntos. Ottavis se sumó a las críticas del kirchnerismo, quienes resisten a la propuesta y promovió su propia iniciativa para dividir en tres partes autónomas a la Provincia: norte, sur y centro. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/JoseOttavis/status/770400059322171392",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77040005932217139")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Nuevos cruces y polémica en el peronismo tras el fracaso de la marcha K 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/JoseOttavis/status/770400327853944833",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77040032785394483")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ "Ya dije que eras una gran candidata pero una mala gobernadora. No fuiste diferente cuando pediste un endeudamiento histórico para que lo pague el pueblo”, señaló el ex de Viky Xipolitakis. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/JoseOttavis/status/770400280185831425",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77040028018583142")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Macri en apuros: su imagen cae en el GBA El objetivo es que la división tenga tratamiento parlamentario en 2017, antes de las legislativas de medio término, donde La Matanza adquiere la dimensión del distrito electoral más importante del país. 

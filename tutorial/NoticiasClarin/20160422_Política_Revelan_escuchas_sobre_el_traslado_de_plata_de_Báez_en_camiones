@@ -1,0 +1,18 @@
+
+Salieron a la luz unas escuchas entre un comisario ("Fernando") y una cabo ("Natalia") que corresponden entre el 30 de septiembre de 2013 y el 1 de octubre de ese mismo año, que expondrían otra operatoria de la ruta del dinero K, además de la utilizada con los aviones: cómo Lázaro Báez traía dinero desde el sur a través de camiones.  "No quieren traer las cosas por el avión ni nada porque dicen que está todo controlado. No quieren trasladar guita, entonces la traen en un camión de televisores", dicen. Las escuchas fueron difundidas por "Telenoche". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Se transcribe en un tramo: —Che, después te tengo que contar porque… ¿Te acordás lo de la custodia esa del sur? —¿Qué pasó? —Dentro del camión viene plata de Lázaro (Báez). —Nooo. Lo único que me falta. Noo…. Nos va a hacer una cámara oculta (Jorge) Lanata. Vamos a salir en la tele con Lanata. Qué lo parió. Por ahí te vas a laburar con Lázaro, quién te dice. Sos el nuevo Fariña. —Bueno, dicen que no quieren traer las cosas por el avión ni nada porque está todo controlado, no quieren trasladar la plata. No quieren trasladar guita, entonces la traen en un camión de televisores. —Entonces Lázaro se chorea la plata, ¡yo sabía! Pero escuchame, si el secretario ese paparulo que tenía Kirchner terminó teniendo un montón de empresas a su nombre... Vos que sos súper inteligente ahí, ya está. Viste... Pegate a Lázaro. En otro se agrega: —Están desesperados. Se ve que quieren traer toda la guita. Mucha guita que tienen allá la quieren traer ahora para las elecciones. —Y tiene que ganar ésta… O sea que ahí van a empezar a adornar a medio mundo, por eso están desesperados para traer. Qué bárbaro. —Adentro del camión van a venir dos topadoras, dos máquinas de la constructora de este muchacho que te dije. Lo que sí no sabemos si va a venir soldada y adentro la guita, o cómo va a venir. Pero tampoco sabemos si darnos vuelta, viste. Yo ya estoy hablando con César para que si nos dicen que sí, que nos demos vuelta porque más de 10 millones van a venir de los otros, del otro color. —Si viene de Lázaro, seguro, es mucho. Y de todos los colores. El juez Sebastián Casanello, a cargo de la causa, recibió las escuchas el 23 de octubre de ese año, es decir cuatro días antes de las elecciones legislativas. Le envió el expediente al fiscal Marijuan y dictaron el secreto de sumario. Seguidamente, le encargaron a Gendarmería que, en los controles ruteros, paren todos los camiones que venían desde Santa Cruz y que traían algún tipo de maquinaria. Nunca encontraron el dinero.

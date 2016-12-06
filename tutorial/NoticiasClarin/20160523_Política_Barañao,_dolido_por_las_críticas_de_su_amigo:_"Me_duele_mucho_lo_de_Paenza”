@@ -1,0 +1,68 @@
+
+Lino Barañao, ministro de Ciencia y Tecnología, se mostró dolido por las críticas públicas que le hizo su amigo, el periodista y matemático Adrián Paenza. 
+
+
+"Me duele mucho lo de Paenza, una persona que hizo muchísimo por la ciencia argentina y con quien tengo una gran amistad", dijo el ministro en Radio Con Vos 89.9.
+
+
+
+
+
+var act_1e0 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_1e0 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_1e0.setTitle('"Me duele mucho lo de Paenza, una persona que hizo muchísimo por la ciencia argentina y con quien tengo una gran amistad", dijo el ministro en Radio Con Vos 89.9.');
+act_1e0.setSubtitle('DEBATE POR LA CONTINUIDAD'); 
+act_1e0.setLinkBack('http://www.clarin.com/politica/Baranao-dolido-criticas-duele-Paenza_0_1582041805.html');
+act_1e0.setDescription('El ministro de Ciencia y Tecnolog&iacute;a dijo que &quot;lo vamos a arreglar caf&eacute; de por medio&quot;. El periodista lo fustig&oacute; por seguir en el gobierno de Macri.');
+act_1e0.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Baranao-dolido-criticas-duele-Paenza_0_1582041805.html');
+
+var showShareBarUI_params_1e0=
+{ 
+containerID: 'shareQuote_1e0',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_1e0,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_1e0
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_1e0);
+ Las críticas del periodista fueron por la continuidad de Barañao en el Gabinete de Mauricio Macri. Mirá también: El director de la TV Pública contó que sabía del contenido del programa de Paenza  "Me da la sensación de que esto con Paenza lo vamos a arreglar café de por medio", aseguró Barañao quien sumó que "tal vez la formación matemática no es la que más habilita a tener dos pensamientos opuestos en la cabeza, como en política".  Adrián Paenza cruzó a Barañao por continuar en el Gobierno, ocupando el mismo cargo que desempeñó con Cristina Kirchner, y calificó el hecho de "traición". Y afirmó: "No lo quiero ver". Mirá también: Paenza volvió a la TV Pública con un feroz discurso anti-Macri  Por Radio Del Plata, Paenza dijo: "Estoy en desacuerdo.Yo tengo mucho invertido en esto y estuve hablando con él, me contó lo que iba a hacer y le dije que (continuar en el cargo) me parecía una traición. Estábamos tomando un café, cuando nos fuimos yo estaba convencido que iba a decir que no".  Barañao hoy dijo que lamentaba esa posición y contó que "así como mis hijos entendieron, esperaba que Paenza entendiera por qué cambié mi idea sobre trabajar en este Gobierno". Mirá también: Altas sillas y el llanto de Stiuso   Y sumó que "ha habido una continuación en los proyectos de ciencia y tecnología, y hemos tenido acompañamiento presupuestario. Hay una concepción de que no es conveniente que vaya todo bien en ciencia, para que a este Gobierno no le vaya bien".  La semana pasada, Adrián Paenza volvió con su programa a la TV Pública y comenzó el ciclo con una dura crítica a Mauricio Macri. Las autoridades de la señal pública habían decidido la continuidad de “Científicos Argentinos” y el periodista continúa con el programa, en cuya primera emisión cargó fuertemente contra el actual Presidente. 

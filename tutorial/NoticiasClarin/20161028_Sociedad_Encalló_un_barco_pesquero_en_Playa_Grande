@@ -1,0 +1,24 @@
+
+Un barco pesquero encalló esta madrugada a pocos metros de la orilla de Playa Grande, en Mar del Plata. MIRÁ LA FOTOGALERÍA EN HD Según informó Prefectura Naval Argentina (PNA), a raíz de la marejada la hélice habría quedado obstruida con algún elemento y la embarcación se quedó sin propulsión.
+
+Mirá también: Alerta en Punta del Este: encalló un buque cargado con aceite vegetal Se trata del Victoria I, un barco de mediana altura, en el que trabajan once tripulantes. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_3z4at3qs",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_3z4at3qs"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_3z4at3qs").after(scriptEl);
+ El hecho se produjo cerca de la 1.30 de la madrugada.
+
+Si bien los tripulantes quisieron abandonar la embarcación, la balsa salvavidas quedó en la arena, por lo que salieron por sus propios medios caminando por la orilla. Fuente: DyN.

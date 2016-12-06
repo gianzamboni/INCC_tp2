@@ -1,0 +1,34 @@
+
+"En los tribunales federales se puede construir impunidad". Así, Carlos Pagni arranca su editorial en Odisea Argentina. Y sigue: "muchos jueces federales utilizan los artilugios procesales, el poder que tienen dentro de un expediente, para garantizar la persistencia de la corrupción y asegurarle a los funcionarios que se corrompen, que no van a ser penalizados por la Justicia que ellos mismos ejercen". Mirá también: La columna de Pagni: "La corrupción como sistema" El título de su columna es "El blindaje judicial de CFK" y gira en torno a la novedad de que el fiscal Carlos Stornelli pidió la nulidad de los sobreseimientos que había dictado la Sala 1 de la Cámara Federal de apelaciones -la que está por encima de los jueces de instrucción- en el caso Skanska. El negociado, gestado en los comienzos del kirchnerismo, está ligado a la ampliación de gasoductos y a la emision de facturas truchas para encubrir sobreprecios en esas obras, que terminaban en forma de retornos para los funcionarios. "En el centro de esta película, como siempre, Julio De vido", dice el conductor en TN. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La columna de Pagni:"El blindaje judicial de CFK" (1era parte) Eduardo Farah, Eduardo Freiler y Jorge Ballestero son los jueces que lograron justificar el sobreseimiento de los funcionarios imputados y de los empresarios que estaban involucrados en la maniobra de Skanska. Para hacerlo, consideraron nula una prueba clave en el expediente. La grabación de una conversación entre el auditor interno de la empresa, Claudio Corizzo, y  Javier Azcárate, el ex gerente comercial de la multinacional Skanska. En ella, Corizzo interrogaba a Azcárate y éste explicaba que los sobreprecios se distribuían en forma de dádivas entre el presidente de ENARGAS (Ente Nacional Regulador del Gas), Julio Madaro, y el presidente de Nación Fideicomiso, Néstor Ulloa -que reaparece en la declaración de Fariña en la causa de Lázaro Báez y Austral Construcciones-". Ambos funcionarios habían sido sobreseídos ya que, sin esa conversación, fue posible desligar los sobreprecios (una irregularidad comercial) de las coimas (un delito político). 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La columna de Pagni:"El blindaje judicial de CFK" (2da parte) Mirá también: Piden reabrir la causa Skanska Pero lo que sucedió ahora -según Pagni. es que gracias al entonces fiscal de investigaciones administrativas, Manuel Garrido, la causa siguió. "Garido llegó hasta la Cámara de Casación y allí los jueces Mariano Borinsky y Juan Carlos Gemignani dijeron: 'no. Esta grabación debe ser considerada". Por lo tanto, conecta de nuevo los sobreprecios con las coimas", explica el periodista. En ese momento, el gobierno acusó a Clarín y La Nación de crear una fabulación en su contra.  "Si se revocan estos sobreseimientos (...) se pueden empezar a revisar otros sobreseimientos escandalosos. Como, por ejemplo, el de Oyarbide y el enriquecimiento ilícito de los Kirchner", dice Pagni y abre el debate en su programa. 

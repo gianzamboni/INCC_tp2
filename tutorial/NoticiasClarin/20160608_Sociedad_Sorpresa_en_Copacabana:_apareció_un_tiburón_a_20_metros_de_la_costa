@@ -1,0 +1,36 @@
+
+Un tiburón "ballena" fue avistado a unos 20 metros de las arenas de la playa de Copacabana, en Rio de Janeiro. Causó temor de algunos bañistas, en especial un grupo de jóvenes que estaban haciendo un entrenamiento de natación. También provocó curiosidad en los especialistas en fauna marina. Mirá también: Por primera vez estudian los tiburones del mar argentino 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Los jóvenes que estaban nadando a la altura del Puesto 6 de Copacabana percibieron la aleta dorsal del escualo y rápidamente salieron del agua. "Se asustaron bastante. El animal venía medio desorientado, venía desde Ipanema", contó Marie de Loys, alumna de la Escuela de Natación de Mar Copacabana. Agregó que su primera reacción fue "de miedo", pero que después se quedó mirándolo, porque "era algo realmente impresionante" debido a su gran tamaño.  Mirá también: Un desafío extremo para "unir el mundo" nadando
+
+Los chicos hicieron lo correcto al salir rápido del agua. "En ningún caso hay que permanecer cerca del tiburón para evitar obstruir su ruta de navegación, porque si no ataca", explicó Paulo Maia, de la organización no gubernamental S.O.S Aves y Compañía. Mirá también: Otro ataque de tiburón en Australia: dos víctimas en seis días No es algo habitual ver tiburones en Río de Janeiro, pero cada tanto merodean las playas de la zona sur donde se disputarán pruebas de natación y triatlón en los Juegos Olímpicos que se iniciarán el 5 de agosto.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Kadinhoboa/status/740484167507574784",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_74048416750757478")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Por su tamaño y la forma de desplazarse, "seguramente era un tiburón ballena adolescente que estaba perdido buscando la forma de volver a alta mar. El animal pudo haberse perdido debido a que se dejó llevar por la corriente o porque estaba detrás de una presa", concluyó Maia. Fuente: ANSA. 

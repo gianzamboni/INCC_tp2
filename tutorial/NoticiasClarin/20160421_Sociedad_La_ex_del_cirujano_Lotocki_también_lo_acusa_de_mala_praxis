@@ -1,0 +1,68 @@
+
+Aníbal Lotocki, "el cirujano de las famosas", vuelve a estar en la mira. A las acusaciones por mala praxis de Silvina Luna y Gabriela Trenchi, entre otras, ahora se suma la vedette Pamela Sosa, ex pareja del médico. Mientras las denuncias se acumulan, Lotocki sigue atendiendo y sigue operando.   Mirá también: Habló la mujer que esperaba mellizos y le dieron un bebé:  "Quiero saber qué pasó" El martes, Sosa consultó a la cirujana Mónica Milito porque sentía durezas que se iniciaron en los glúteos y las piernas, pero que luego migraron a otras partes del cuerpo. "Tiene granuloma en distintas partes del cuerpo, diabetes, neuritis y el páncreas afectado", confirmó la médica a Clarín. Agregó que la paciente está "internada ambulatoriamente, entrando y saliendo" y que no puede informar el lugar donde se atiende.  
+
+(Pamela Sosa en el estrenos de una obra de teatro, en 2014). Sosa y Lotocki fueron pareja durante ocho años. Ella lo ayudaba a difundir su trabajo y siempre lo defendió, incluso después de la separación. "Nunca sospeché nada. Si las pacientes confiaban en él, ¿cómo yo no iba a confiar?", dijo en conversación con radio La Red. "Es un monstruo, no puede operar nunca más a nadie. Mucha  gente me está escribiendo por redes sociales porque tiene problemas. Espero que se haga justicia. Tenemos que lograr que puedan investigarlo y sacarle el título", agregó. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Pros y contras de las cirugías estéticas, en  la mirada de un pionero Pamela también compartió su enojo en Twitter. "Juro que no voy a parar hasta verte tras las rejas. Me arruinaste la vida. Y no podés arruinar la vida de nadie más, y de eso yo me voy a encargar", escribió.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/pamelasosaok/status/722530133073137665",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72253013307313766")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/pamelasosaok/status/722890073096609794",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72289007309660979")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ En diálogo con Clarín, la abogada de Aníbal Lotocki, Ileana Lombardo, informó que Sosa aún no inició acciones legales. "Hasta ahora es un tema de los medios, nada más. No tenemos ninguna noticia directa a través de ella porque no ha hecho ningún reclamo y no se ha contactado con él. Por lo que sabemos hasta ahora, tiene que ver más con un tema de pareja que con un tema de mala praxis médica", lanzó. "Están resolviendo cuestiones pendientes como cualquier pareja, afectivas y económicas. Son conversaciones que mantienen entre ellos", agregó. Mirá también: Conmovedor mensaje de la mujer de Lanata a un año del trasplante Respecto a la actividad actual de Lotocki, la abogada señaló que "la clínica funciona, lo que no funciona es el quirófano. Está clausurado desde hace meses, en función de las causas penales que están en trámite. Se hacen las consultas habituales, que no tienen que ver con intervenciones quirúrgicas. El doctor Lotocki opera en otro lugar", reconoció. Pamela Sosa, al igual que otras mujeres que pasaron por este quirófano, apunta al uso de metracrilato como posible causante de su malestar. "Yo veía en el consultorio las ampollitas de metacrilato. Me voy a someter a una biopsia para ver qué me puso", dijo en la entrevista radial. El polimetilmetacrilato es un plástico y también se lo conoce por sus siglas PMMA, la misma de la droga que compone la pastilla Superman (aunque es otro químico, la parametoximetanfetamina). En Argentina, su uso como material de relleno fue aprobado por la ANMAT. Con frecuencia se usan microesferas para los surcos y las depresiones faciales. El problema es que se comenzaron a utilizar grandes cantidades como material de relleno en glúteos. Esa práctica habría generado las graves complicaciones. "El doctor usa esa sustancia, lo reconoce, y lo asume. Es una sustancia permitida", enfatiza la abogada de Lotocki. "A mí no me consta que ella tenga los padecimientos que dice tener y muchos menos que estén vinculados con la sustancia que ella dice o con la práctica del doctor Lotocki", continúa. Mirá también: Le trasplantaron la cara hace 5 años y ahora cuenta su historia "Se está diciendo que tiene diabetes autoinmune, pero ella ya era paciente diabética, no tiene nada que ver con la sustancia", lanza Lombardo. Se refiere a lo que la doctora Milito sostuvo en su raid televisivo: reconoció que todavía no puede determinar si la diabetes de Pamela está relacionada con el cuadro porque faltan los estudios correspondientes, pero sostuvo que "no tiene antecedentes en la familia, por lo que se presume que esto es una diabetes autoinmune, que a veces puede ser desencadenada por estos cuerpos extraños". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En este momento Lotocki tiene cuatro denuncias: las presentadas por Silvina Luna, Gabriela Trenchi, Lucía Diniz y Mariela Cardozo. Según la abogada, las causas están en etapa investigativa, algunas ya tienen las pericias médicas y en otras todavía no hay resultados. En la mayoría de ellas, se apunta al uso del metacrilato.

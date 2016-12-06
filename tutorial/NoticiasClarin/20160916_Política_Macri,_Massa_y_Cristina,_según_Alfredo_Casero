@@ -1,0 +1,18 @@
+
+El actor y humorista, Alfredo Casero, opinó esta noche sobre los principales dirigentes políticos del oficialismo y de la oposición. Fue durante una entrevista con Nelson Castro en el programa "El juego limpio" (TN). Mauricio Macri "Es nuestro funcionario votado, que tiene mucho que demostrar" Sergio Massa "Es muy parecido a Néstor Kirchner, incluso hasta en la cara, físicamente lo veo parecido. Nunca me olvido que fue puesto por Cristina Fernández de Kirchner​ y fue, con Martín Insaurralde, uno de los ninots (pequeños muñecos) del Gobierno". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Cristina Fernández de Kirchner "Una persona con una sociopatía, con una desesperación por tratar de demostrar cosas que son indemostrables. Una persona sumamente rica, sumamente resentida, enojada". Alfredo Casero concluyó: "No hay ninguno bueno de los que estén​. Lo único que trata el que está en el gobierno —y espero que no sea el caso de este gobierno— es que no exista una oposición armada e inteligente, sino una cosa dispersa y poco clara".

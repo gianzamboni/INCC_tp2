@@ -1,0 +1,39 @@
+
+José López era un hombre religioso, de eso no queda dudas. No solo apeló a un convento católico a la hora de intentar ocultar 9 millones de dólares negros, sino que también en su casa particular de Tigre, una mansión con pileta y un muelle privados, los símbolos y figuras de la religión cristiana se repiten a medida que uno recorre la propiedad. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Así lo muestra un video del allanamiento que tuvo lugar ayer en la lujosa vivienda a la vera del río Luján, donde ayer se secuestraron 2.500 dólares. En un hogar a leña que se erige como el corazón de la casa de dos pisos, figuras de la vírgen, el niño Jesús y otros Santos decoran el centro del living. Mirá también: López quedó detenido en Ezeiza, junto con Chueco, Jaime y Lázaro
+
+ En otra pared, la imagen del Papa Emérito Benedicto XVI decora el ambiente. “Su Santidad imparte de corazón la implorada bendición apostólica a José Francisco López y María Amalía Díaz e hijos”, reza el cuadro con el que se toparon los efectivos de la Policía. Mirá también: "López fue un infiltrado y un chorro", dijo Hebe de Bonafini  El resto de los elemento que fueron capturados en un video al que tuvo acceso Clarín marcan la otra obsesión del no-tan-sancto ex funcionario K. Los investigadores se encontraron con varias botellas de Whisky importados de los más caros -algunos de etiqueta azúl y otros dorados- y también decenas de joyas y brillantes de Swarovski y otras marcas, guardadas cada una en sus cajas.
+
+ Ese lujo se condice con los relojes, entre ellos un Rolex, que se le secuestraron al momento de su detención, cuando López lanzaba bolsos cargados con millones de dólares sobre una medianera del monasterio de General Rodríguez, que cuidaban dos monjas.
+
+Mirá también: Piden la destitución de Rafecas porque no investigó el enriquecimiento de José López En ese procedimiento, que finalizó casi 24 horas despues de la detención, se secuestraron 8.982.047 dólares, 153.610 euros, 59.114 pesos, 425 yuanes y 2 Ryales, varios relojes y un arma de guerra, entre otros elementos.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

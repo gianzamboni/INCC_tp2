@@ -1,0 +1,18 @@
+
+Pablo Biro era un instructor de vuelo, vivía en Parque Leloir y tenía 26 años. Fue una de las tres personas que fallecieron anoche en un choque de dos aviones en pleno vuelo. Sucedió en las inmediaciones del Aero Country Club de General Rodríguez, a 59 kilómetros de la Ciudad. "Lamentablemente tenemos que informar que uno de los fallecidos es el sobrino de Pablo Biro, titular de la Asociación de Pilotos de Líneas Aéreas (APLA)", informó TN. La víctima y el tío compartían el mismo nombre. Además, "es hijo de un comandante de Aerolíneas Argentinas, Daniel Biro, y también es el sobrino de Jorge Biro. Son tres hermanos comandantes, este era el hijo de Daniel", agregó el medio.   A principios del 2015, los hermanos Daniel y Pablo (padre y tío de la víctima) se enfrentaron en el gremio APLA para conducir el  sindicato aéreo.  Ellos pertenecen a la cuarta generación de pilotos de su familia. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Además de los tres muertos, la tragedia dejó una persona herida de gravedad. Las avionetas cayeron a la altura del kilómetro 141 de la Ruta 6, cerca del arroyo La Choza, poco después de las 19. Iban dos personas a bordo de cada la aeronave Mirá también: Una falla eléctrica convirtió al vuelo MH370 en un "zombi" sin rumbo Uno de los aviones era modelo Cessna 150, de la escuela Sky Flight. Simple, robusto y fiable, es biplaza y se utiliza para vuelos de instrucción. La visibilidad en cabina es buena, salvo en la parte superior donde la visión es bloqueada por las alas. Es una de las naves más populares para vuelos de entrenamiento por su facilidad para volar, sobre todo en maniobras de aterrizaje. El que protagonizó el accidente ayer llevaba como patente LV-CQJ. El otro avión implicado en la colisión era el Petrel 912I, el primer avión deportivo liviano construido por alumnos y docentes del Instituto Tecnológico de Buenos Aires. La patente era LV-BSH y fue presentado en 2007. Esta aeronave tenía su propio historial de emergencias.

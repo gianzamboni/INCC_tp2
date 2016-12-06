@@ -1,0 +1,266 @@
+
+Hay coincidencias entre funcionarios y expertos sobre dónde está parada la economía hoy: la actividad, luego de una contracción severa en la primera mitad del año, estaría estancada y con una tasa de inflación en un nivel alto. Hay coincidencia también sobre el panorama para dentro de doce meses: crecimiento en alza e inflación en baja. En el medio, se libra un debate para seguir con lupa: si el repunte de la economía sucedió en octubre, si será en noviembre o en diciembre. Y si la inflación bajará más o menos rápido. Magnitudes de recuperación y de deflación. Ya se verá. Mientras tanto, un grupo de economistas y profesores de la Universidad de Buenos Aires, analizó días atrás qué riesgos depara el 2017. Oscar Cetrángolo, Andrés López, Martín Rapetti, Luis Beccaria y Roberto Bisang conversaron en la Facultad de Ciencias Económicas de la universidad sobre temas fiscales, productivos, monetarios, laborales y agropecuarios, respectivamente. Daniel Heymann dejó su aporte en el tema inflación. 
+
+
+"El déficit de las cuentas públicas este año será el más alto desde la hiperinflación de 1989 y el déficit primario el más elevado desde 1982" (Oscar Cetrángolo)
+
+
+
+
+
+var act_c45 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_c45 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_c45.setTitle('"El déficit de las cuentas públicas este año será el más alto desde la hiperinflación de 1989 y el déficit primario el más elevado desde 1982" (Oscar Cetrángolo)');
+act_c45.setSubtitle('Perspectivas'); 
+act_c45.setLinkBack('http://www.clarin.com/ieco/riesgos-economia-ano-viene_0_1685831552.html');
+act_c45.setDescription('Economistas de la UBA plantean qué amenazas enfrenta el país y qué herramientas tiene el Gobierno a su alcance para remediarlas. El efecto de `la economía del día de la marmota`.');
+act_c45.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/riesgos-economia-ano-viene_0_1685831552.html');
+
+var showShareBarUI_params_c45=
+{ 
+containerID: 'shareQuote_c45',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_c45,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_c45
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_c45);
+ Todos ellos trazaron un panorama sobre el Estado de cada uno de estos frentes de la economía al día de hoy. Y luego, en cada caso, contaron qué riesgos ven y sugirieron qué podría hacer el Gobierno para minimizar los focos de conflicto. Aquí, un resumen. 1. La obsesión del Gobierno: 17% de inflación sí o sí  Heymann cree que bajar la inflación tal y cual apuesta el Gobierno es un arma de doble filo: la salida de la recesión (o el estancamiento) que se espera para fin y principios de año próximo podría ser más débil que la esperada. ¿Por qué? El economista dice que la política monetaria está condicionada a dos factores: el nivel de actividad local, que impacta sobre el déficit fiscal, y el contexto global, que configuran el comportamiento de nuestras exportaciones y de la deuda externa. “Las autoridades que manejan la política monetaria no pueden desentenderse de esto y de dañar el nivel de actividad en pos de cumplir con una meta de inflación”. Solución. Heymann, aunque no lo diga explícitamente, sugiere que la conducción de la macroeconomía reúna algo que este año no logró: coordinación. Dicho con sus palabras: “Resulta importante una elección cuidadosa del mix y de la secuencia de políticas económicas”. 
+
+
+"En 2017 resultará importante una elección cuidadosa de la combinación y la secuencia en la que se aplican las políticas económicas" (Daniel Heymann)
+
+
+
+
+
+var act_cdf = new gigya.socialize.UserAction();
+
+var emailBodyCustom_cdf = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_cdf.setTitle('"En 2017 resultará importante una elección cuidadosa de la combinación y la secuencia en la que se aplican las políticas económicas" (Daniel Heymann)');
+act_cdf.setSubtitle('Perspectivas'); 
+act_cdf.setLinkBack('http://www.clarin.com/ieco/riesgos-economia-ano-viene_0_1685831552.html');
+act_cdf.setDescription('Economistas de la UBA plantean qué amenazas enfrenta el país y qué herramientas tiene el Gobierno a su alcance para remediarlas. El efecto de `la economía del día de la marmota`.');
+act_cdf.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/riesgos-economia-ano-viene_0_1685831552.html');
+
+var showShareBarUI_params_cdf=
+{ 
+containerID: 'shareQuote_cdf',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_cdf,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_cdf
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_cdf);
+ 2. Las concesiones de Macri: más déficit fiscal Cetrángolo señala el caso en que, si el crecimiento transcurre por debajo de las expectativas oficiales y las pretensiones del Gobierno para ganar las elecciones, Macri conceda aumentos del gasto público por fuera de lo presupuestado. “Eso empeoraría la situación agregada, que no es menor. Este año el déficit cerrará en 7% del PBI, el más alto desde la hiperinflación y el déficit primario (5%) más alto desde 1982”. Este experto en finanzas públicas distingue dos tipos de amenazas sobre las cuentas fiscales. Una es la que llama ‘cuantitativa’. Con ello se refiere a que el déficit el año próximo sea superior al de 2016. “El rojo será más o similar al de este año y, en todo caso, el Gobierno podrá evitar que no suba”. El otro riesgo es que empeore la calidad del gasto. “Hay que hacer reformas para mejorar el impacto del gasto público”. Ve escaso margen de maniobra. Solución. Cetrángolo cree que “si el Gobierno tiene una dirección buscada en reformas de mediano plazo, por ejemplo, salud, educación, infraestructura, los cambios-concesiones de corto no debieran dificultar el sendero posterior”. Además, sugiere que se podría pensar en utilizar el Fondo de Garantía de la Anses. “Si uno efectivamente va a un sistema de reparto complementado por una prestación universal financiada con impuestos, no tiene necesidad de mantener ese fondo de capitalización y podría utilizarlo paulatinamente para favorecer el desarrollo de la economía”. 
+
+
+"Lo más importante será Brasil. Pero habrá que buscar otros mercados y estar atentos a la evolución de las importaciones" (Andrés López)
+
+
+
+
+
+var act_8ef = new gigya.socialize.UserAction();
+
+var emailBodyCustom_8ef = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_8ef.setTitle('"Lo más importante será Brasil. Pero habrá que buscar otros mercados y estar atentos a la evolución de las importaciones" (Andrés López)');
+act_8ef.setSubtitle('Perspectivas'); 
+act_8ef.setLinkBack('http://www.clarin.com/ieco/riesgos-economia-ano-viene_0_1685831552.html');
+act_8ef.setDescription('Economistas de la UBA plantean qué amenazas enfrenta el país y qué herramientas tiene el Gobierno a su alcance para remediarlas. El efecto de `la economía del día de la marmota`.');
+act_8ef.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/riesgos-economia-ano-viene_0_1685831552.html');
+
+var showShareBarUI_params_8ef=
+{ 
+containerID: 'shareQuote_8ef',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_8ef,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_8ef
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_8ef);
+ 3. Brasil y el proteccionismo  “Brasil será lo más importante”, dice López, en referencia al destino número 1 de las exportaciones argentinas. Y lo que pase allí no luce muy auspicioso, aun cuando se anuncie una recuperación después de tres años de recesión. Según el relevamiento de mercado del Banco Central de Brasil, el PBI brasileño crecerá 1,2% en 2017. Vale notar que desde hace cuatro semanas esa cifra viene revirtiéndose a la baja. Además de Brasil, López menciona otros dos riesgos: los flujos de comercio global y los precios de los productos que exporta Argentina. “Un escenario más proteccionista no solo afectaría las exportaciones a EE.UU., sino que podría tener un efecto dominó de guerra de monedas o represalias que sería malo para el comercio global”. “Lo de las commodities es muy especulativo porque depende de muchas cosas incluido que va a pasar con China, que hará la Fed con las tasas y qué va a pasar con la política energética en EE.UU.”. 
+
+
+"¿Qué es la economía del `Día de la Marmota`? A fines de 2017 el déficit fiscal, la inflación y el atraso cambiario podrían ser similares a los de fines de 2015" (Martín Rapetti)
+
+
+
+
+
+var act_a0f = new gigya.socialize.UserAction();
+
+var emailBodyCustom_a0f = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_a0f.setTitle('"¿Qué es la economía del `Día de la Marmota`? A fines de 2017 el déficit fiscal, la inflación y el atraso cambiario podrían ser similares a los de&nbsp;fines de 2015" (Martín Rapetti)');
+act_a0f.setSubtitle('Perspectivas'); 
+act_a0f.setLinkBack('http://www.clarin.com/ieco/riesgos-economia-ano-viene_0_1685831552.html');
+act_a0f.setDescription('Economistas de la UBA plantean qué amenazas enfrenta el país y qué herramientas tiene el Gobierno a su alcance para remediarlas. El efecto de `la economía del día de la marmota`.');
+act_a0f.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/riesgos-economia-ano-viene_0_1685831552.html');
+
+var showShareBarUI_params_a0f=
+{ 
+containerID: 'shareQuote_a0f',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_a0f,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_a0f
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_a0f);
+ Solución. “Buscar otros mercados y estar atento a la evolución de las importaciones en los sectores sensibles. Además, seguir negociando para remover trabas a las exportaciones argentinas en servicios, por ejemplo”. 4. La cosecha de EE.UU. Bisang advierte por una nueva cosecha récord de EE.UU. “Podría impactar en los precios de los granos”. El experto señala que los estadounidenses vienen batiendo dos récords. “Climas que durante las últimas tres campañas resultaron excepcionales y rendimientos que reflejan el hecho de que se van despegando tecnológicamente”. Para Bisang “queda la duda de cómo les va a los farmers con Donald Trump … con Bush ‘acomodaron’ los subsidios al etanol y eso genero el boom del trigo”. Otra duda “es cómo reaccionaran los mercados de futuros de soja y las posiciones de los fondos especulativos ante la eventual pérdida de valor del dólar y eventual suba del petróleo”. Bisang dice que “el campo no será un boom en 2017”. “Los proyectos de inversión que andan dando vuelta son 2 o 3 inversiones fuertes en puertos y 2 o 3 plantas de crushing, más mejoras de plantas”. “En los próximos 5 años llegaremos a 150 millones de toneladas y no habrá más tierras. La cantidad de tierra que hay para la Argentina es la que a grandes rasgos vemos hoy”. Solución. Para Bisang, el plan debería ser modificar la matriz productiva y avanzar hacia un agro de avanzada para proveer de materias primas en alimentos diferenciados, bioenergía y biomateriales. 5. La economía del Día de la Marmota  Rapetti advierte por la fatiga del mercado con Argentina. El riesgo, explica, es que entre los inversores y Wall Street gane terreno la idea de que el macrismo no llevó a cabo reformas de fondo y la economía adolece de los mismo problemas que con el kirchnerismo. “A fines de 2017 Macri podría exhibir los mismos números de tasa de inflación, nivel de déficit fiscal y atraso cambiario que a fines de 2015”. A esto Rapetti lo llama ‘la economía del Día de la Marmota’, en alusión a la película que mostraba a un periodista que todos los días vivía atrapado en el mismo día. Si los mercados cuestionan los fundamentals de la macroeconomía, dice Rapetti, el ruido agregaría complicaciones en un año en que el país tendrá más necesidades de financiamiento. Esto sumado a un contexto global donde sería más difícil bajar el costo financiero. Solución. Rapetti aconseja "acumular reservas y tener un tipo de cambio real más alto que el actual".

@@ -1,0 +1,21 @@
+
+La presencia de Natalia Oreiro en la fiesta del HSBC fue ayer uno de los secretos mejor guardados en el Coloquio de Idea. La celebración tenía un motivo especial, el regreso de Gabriel Martino como presidente de la entidad. “El pájaro” como lo llaman sus colegas banqueros había sido removido del puesto por Axel Kicillof con denuncias que nunca se pudieron demostrar en la Justicia. Federico Sturzenegger lo respuso en cuanto asumió en el Banco Central. Anoche en el último piso del Sheraton había una alegría por momentos desbordante entre las exquisiteces de los mejores chefs del país y una barra de tragos sofisticados. Pero el plato fuerte fue a eso de las 22,30 cuando en un vestido azul Klein brillante y unas botas largas a tono una deslumbrante Natalia Oreiro irrumpió en el escenario al ritmo de “no me arrapiento de este amor” la canción de la película Gilda. Y que todos sabían de memoria y acompañaban con frenesí. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Desde ese instante, fue una pelea por la selfie con ella. Y algunos hasta se animaron a subir a bailar con una generosa Oreiro que los invitaba a compartir ese estrellato instantáneo. Mirá también: Macri en IDEA: citó a Perón y reclamó solidaridad a los empresarios #NataliaOreiro cantando en la fiesta Coloquio Idea en Mar del Plata🎤💃 pic.twitter.com/VitEJ63iaQ— Las fieles de Oreiro (@FielesDeOreiro) 14 de octubre de 2016
+ Martino y Cristiano Rattazzi pasaron la prueba con honores. Distinto fue el caso de Jorge Pereyra de Olazabal. Pero la que se llevó las palmas fue Tatiana, la vocera de la financiera First, que se animó a cantar “Fuiste”. Desde lejos observaban el ministro Francisco Cabrera, Martín Cabrales y el embajador de Estados Unidos Noah Mamet. Arde el círculo rojo en #ColoquioIDEA . Ella es Natalia. El es Cristiano pic.twitter.com/ot5Db61NcB— Franco Mercuriali (@fmercuriali) 14 de octubre de 2016
+ Mirá también: Natalia Oreiro llevó "Gilda" a la cárcel de mujeres de Ezeiza Rattazzi se subió a bailar con Natalia Oreiro pic.twitter.com/w1ixHgt4b7— mayra garcia (@mayravgarcia) 14 de octubre de 2016
+

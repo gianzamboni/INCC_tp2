@@ -1,0 +1,72 @@
+
+A las 9.38 de este sábado 6 de agosto las sirenas de los Bomberos de Rosario volvieron a sonar. Lo hicieron para recordar a las 22 víctimas fatales de la explosión por una fuga de gas y el derrumbe de las torres de Salta 2141, hace exactamente tres años. Esta mañana hubo una misa a cargo del arzobispo Eduardo Martín y recitales en el lugar del accidente. Los familiares reclamaron que se ponga fecha para el inicio del juicio oral y público, y que la empresa Litoral Gas no preste más servicios. Reiteraron su pedido, también, para que se expropie el predio de la tragedia para convertirlo en un espacio de memoria. El Papa Francisco les mandó un rosario bendecido. "Esta jornada llamada de Justicia y Memoria es un homenaje a aquellos que pagaron con la vida la negligencia, de impericia, de irresponsabilidad, la corrupción y el egoísmo de otros", afirmó esta mañana Eleonora López, una de las familiares de las víctimas de la explosión, según informa el diario La Capital. 
+
+
+
+
+"Esta jornada llamada de Justicia y Memoria es un homenaje a aquellos que pagaron con la vida la negligencia, la impericia, la irresponsabilidad, la corrupción y el egoísmo de otros"
+
+
+
+
+
+var act_83e = new gigya.socialize.UserAction();
+
+var emailBodyCustom_83e = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_83e.setTitle('"Esta jornada llamada de Justicia y Memoria es un homenaje a aquellos que pagaron con la vida la negligencia, la impericia, la irresponsabilidad, la corrupción y el egoísmo de otros"');
+act_83e.setSubtitle('Tragedia en Santa Fe'); 
+act_83e.setLinkBack('http://www.clarin.com/sociedad/explosion-Rosario-recordaron-pidieron-justicia_0_1627037387.html');
+act_83e.setDescription('Los familiares pidieron que la empresa Litoral Gas dejé de prestar servicio en la ciudad. El Papa Francisco les mandó un rosario bendecido. ');
+act_83e.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/explosion-Rosario-recordaron-pidieron-justicia_0_1627037387.html');
+
+var showShareBarUI_params_83e=
+{ 
+containerID: 'shareQuote_83e',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_83e,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_83e
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_83e);
+ En medio del dolor, recordaron que todavía no hay una fecha de inicio para el juicio oral y público, que debe definir el destino de los 11 acusados de tener responsabilidad en la explosión del 6 de agosto de 2013, entre los que están los inspectores de la empresa Litoral Gas, Gerardo Bolaños, Guillermo Oller y Luis Curaba; el jefe de esa sección, Claudio Tonucci; y la gerenta técnica, Viviana Leegstra; el gasista Carlos García y su ayudante, Pablo Miño; el gasista que trabajó días antes de la tragedia, José Allala; y los tres integrantes de la administración del edificio: Mariela Calvillo, Norma Bauer de Calvillo y Carlos Repupilli. Todos, procesados por el delito de estrago culposo agravado, por el que podrían ser darles hasta de cinco años de prisión. Mirá también: Conmoción en Barracas: un muerto y dos operarios graves por un escape de gas Los familiares contaron que recién para fin de año creen que podrán tener una fecha de inicio y se quejaron de que la empresa Litoral Gas "pone palos en la rueda" constantemente.  "Todo lo impugnan, todo lo recusan, quieren impugnar todas las declaraciones indagatorias y volver a foja cero, hacen abuso de la ley, nos chicanean y juegan a nuestros desgaste. Y es así, estamos desgastados y cansados, pero vamos a seguir hasta que haya algo de Justicia", contó ayer a La Capital Claudia Vaio, mamá de Santiago Laguía, que murió tras la explosión. 
+
+Mirá también: Explosión y derrumbe en el centro de Rosario: hay cinco heridos En el acto estuvieron presentes familiares de víctimas de la Tragedia de Once, como María Luján Rey, mamá de Lucas Menghini; referentes de las inundaciones de la provincia de Buenos Aires; y José Iglesias, padre de adolescentes muertos en el incendio del boliche Cromañón. El legislador porteño Gustavo Vera también estuvo en el acto: fue a llevarles el rosario bendecido por Francisco. 

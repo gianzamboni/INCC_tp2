@@ -1,0 +1,136 @@
+
+César Milani se afilió al PJ bonaerense. Lo hizo a pedido de Guillermo Moreno, su amigo, socio y ahora compañero militante con quien salió "a caminar la provincia". La última parada fue esta semana con un acto en Lomas de Zamora donde inauguraron una unidad básica de la agrupación "La Néstor Kirchner". El ex jefe del Ejército en la era Cristina es el actor principal de un plan político de Moreno que lo impulsa para que sea candidato del peronismo por la provincia de Buenos Aires en las elecciones del año próximo. Si eso ocurriera, se sumaría a nombres que suenan para esa disputa por el panperonismo: Daniel Scioli, Florencio Randazzo, Sergio Massa y quizá Cristina de Kirchner. "Es una idea mía, yo lo impulso" avisa Moreno que se conoce hace años con el militar retirado: juntos, relata, hacían cinta a la hora del almuerzo en el gimnasio del edificio Libertador y en los últimos años se convirtieron en socios comerciales en una cadena de pancherías. "Ninguno vive de eso, es para dar trabajo porque sabíamos como venía la mano con Macri" dice sobre el emprendimiento que lo vincula con Milani. Mirá también: Guillermo Moreno y César Milani expanden su cadena de pancherías: abrieron un local en el centro ¿MIlani candidato? "Es el único que sabe de seguridad y puede hacer algo. Y la seguridad es uno de los grandes problemas de las familias argentinas" explicó Moreno en diálogo con FM Uno. 
+
+
+El jefe del Ejército de Cristina está actualmente comprometido con causas por enriquecimiento ilícito y en la desaparición de un conscripto que estuvo bajo su mando en tiempos de la dictadura militar: en la primer causa, se analiza la incongruencia entre sus ingresos, el crecimiento de su patrimonio y la casa de más mil metros cuadrados que adquirió en el partido de San Isidro.
+
+
+
+
+
+var act_b31 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_b31 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_b31.setTitle('El jefe del Ejército de Cristina está actualmente comprometido con causas por enriquecimiento ilícito y en la desaparición de un conscripto que estuvo bajo su mando en tiempos de la dictadura militar: en la primer causa, se analiza la incongruencia entre sus ingresos, el crecimiento de su patrimonio y la casa de más mil metros cuadrados que adquirió en el partido de San Isidro.');
+act_b31.setSubtitle('Peronismo Post K'); 
+act_b31.setLinkBack('http://www.clarin.com/politica/Milani-candidato-aventura-Guillermo-Moreno_0_1685231509.html');
+act_b31.setDescription('Hizo afiliar a su amigo militar en el PJ bonaerense. Se reunió con Duhalde y dice que Cristina no puede ordenar al peronismo.');
+act_b31.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Milani-candidato-aventura-Guillermo-Moreno_0_1685231509.html');
+
+var showShareBarUI_params_b31=
+{ 
+containerID: 'shareQuote_b31',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_b31,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_b31
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_b31);
+ 
+
+
+En la otra, es acusado por la familia de un soldado desaparecido y que era ayudante de Milani cuando, en 1976, Milani era subteniente en el Batallón de Ingenieros de Construcciones 141 de La Rioja, unidad que había sido enviada a Tucumán para integrar el Operativo Independencia.
+
+
+
+
+
+var act_b45 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_b45 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_b45.setTitle('En la otra, es acusado por la familia de un soldado desaparecido y que era ayudante de Milani cuando, en 1976, Milani&nbsp;era subteniente en el Batallón de Ingenieros de Construcciones 141 de La Rioja, unidad que había sido enviada a Tucumán para integrar el Operativo Independencia.');
+act_b45.setSubtitle('Peronismo Post K'); 
+act_b45.setLinkBack('http://www.clarin.com/politica/Milani-candidato-aventura-Guillermo-Moreno_0_1685231509.html');
+act_b45.setDescription('Hizo afiliar a su amigo militar en el PJ bonaerense. Se reunió con Duhalde y dice que Cristina no puede ordenar al peronismo.');
+act_b45.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Milani-candidato-aventura-Guillermo-Moreno_0_1685231509.html');
+
+var showShareBarUI_params_b45=
+{ 
+containerID: 'shareQuote_b45',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_b45,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_b45
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_b45);
+ Guillermo Moreno que dice que Donald Trump está haciendo seis años después lo que él hizo en Argentina en materia de "impulso del mercado interno" y que le va a mandar al presidente electo los "libros de Perón y Evita", forma parte de la cúpula del PJ nacional y se enfrascó, cuenta, en una ronda de reuniones y consultas. La más novedosa ocurrió en estas horas: Moreno se reunió con Eduardo Duhalde, el ex presidente interino que ha sido, en este tiempo, un crítico brutal de Cristina de Kirchner. Las oficinas del Movimiento Productivo Argentino (MPA) de Duhalde están a la vuelta de la casa de Moreno en el centro porteño. Es más: el MPA esta casi pegado a una Unida Básica de "La Néstor Kirchner". Habían hablado y se vieron ayer. "Con Duhalde coincidimos en que está mal la economía y él tiene una mirada política de que podría ser peligroso que Macri pierda la elección el año que viene" le contó Moreno a Clarín.
+
+Mirá también: Así es la panchería “alemana” de Guillermo Moreno y César Milani "Macri mintió en la campaña haciéndose pasar por peronista y después hizo todo lo contrario" aseguró el ex funcionario. Bajó, además, el tono de las disputas pasadas con el ex gobernador bonaerense. "Si no hubiese sido por Duhalde, Kirchner no llegaba a presidente" explica Moreno e invita a dejar atrás las diferencias y rencillas del pasado con el propósito de unir al peronismo. "Unir a todos porque hoy hay una figura exluyente" sostiene y, ante la pregunta, aclara: "Ni siquiera Cristina". Luego enumera como parte de esa unidad a Duhalde, José Manuel De la Sota y los Rodríguez Saá, entre otros. Sobre Massa, cree que el tigrense podría no tener necesidad de competir en la elección intermedia, "no exponerse" y en esa línea habla de un 2017 sin Massa ni Cristina como candidatos.

@@ -1,0 +1,17 @@
+
+Dos hermanos mellizos que nacieron en las últimas horas en el estado estadounidense de California, no compartirán, sin embargo, ni el día de cumpleaños ni el año de nacimiento. Cada uno de ellos nació un año diferente, según informó el hospital Kaiser Permanente de San Diego.Leé también: Mellizos de todo el país se juntaron en Tucumán La pequeña Jaelyn Valencia nació a las 23:59 horas del último día de 2015. Dos minutos más tarde, a las 00:01, ya en 2016, llegó al mundo su hermano Luis.(Jaelyn y Luis, los mellizos que tienen distinta fecha de cumpleaños nacidos en San Diego. AP). Según explicó a FOX 5 el padre de los pequeños, Luis Valencia, él y su esposa Maribel no esperaban en realidad el nacimiento hasta dentro de un mes. Pero la mujer rompió bolsa en forma anticipada.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

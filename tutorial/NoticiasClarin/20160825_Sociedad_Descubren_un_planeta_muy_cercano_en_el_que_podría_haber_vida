@@ -1,0 +1,40 @@
+
+Utilizando telescopios del Observatorio Europeo Austral (ESO) y otras instalaciones, un equipo de astrónomos encontró claras evidencias de la presencia de un planeta orbitando la estrella más cercana a la Tierra, Próxima Centauri. Este mundo, tan intensamente buscado y bautizado como Próxima b, orbita a su fría y roja estrella anfitriona cada once días y tiene una temperatura que permitiría la existencia de agua líquida en su superficie. Así lo informó en un comunicado el (ESO).
+
+Este mundo rocoso es un poco más masivo que la Tierra y es el planeta más cercano a nosotros y también puede ser el planeta más cercano que pueda albergar vida fuera del Sistema Solar, dice el ESO. Mirá también: La misión que simula un año en Marte, a punto de lograr su objetivo Un artículo que describe el hallazgo de este hito se publicó hoy en la revista Nature.
+
+A poco más de cuatro años luz del Sistema Solar, se encuentra una estrella enana roja que ha sido nombrada Próxima Centauri, dado que es la estrella más cercana a la Tierra aparte del Sol. Esta estrella fría de la constelación de Centaurus es demasiado débil para poder ser detectada a simple vista y se encuentra cerca de un par de estrellas, mucho más brillantes, conocidas como Alfa Centauri AB. Mirá también: Descubren en el Sistema Solar un planeta enano muy lejano Durante el primer semestre de 2016, Próxima Centauri fue observada con regularidad con el espectrógrafo Harps, instalado en un telescopio de La Silla (Chile) y monitoriada simultáneamente con otros telescopios de todo el mundo. Esto formó parte de la campaña Pale Red Dot (Punto rojo pálido), en la que un equipo de astrónomos, dirigido por Guillem Anglada-Escudé (de la Universidad Queen Mary de Londres), buscaba el pequeño bamboleo que, por la fuerza de la gravedad, provocaría en la estrella la existencia de un planeta en órbita. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Guillem Anglada-Escudé explicó el trasfondo de esta búsqueda única: "Las primeras señales de un posible planeta se vieron en 2013, pero la detección no era convincente. Desde entonces, hemos trabajado duro para obtener más observaciones con la ayuda del ESO y de otras instituciones". Mirá también: Descubren un planeta que tiene 3 amaneceres y atardeceres cada día Al combinar los datos de Pale Red Dot con observaciones anteriores llevadas a cabo en observatorios del ESO y en otros lugares, se ha obtenido claramente un resultado verdaderamente emocionante. A veces, Próxima Centauri se aproxima a la Tierra a unos cinco kilómetros por hora –el ritmo de una marcha humana normal– y, a veces, retrocede a la misma velocidad. Este patrón regular de cambio de velocidades radiales se repite con un período de 11,2 días. Un análisis cuidadoso de los minúsculos cambios en el efecto Doppler indicó la presencia de un planeta con una masa al menos 1,3 vez mayor que la de la Tierra, orbitando a unos 7 millones de kilómetros de Próxima Centauri, lo que equivale a sólo el 5 % de la distancia Sol-Tierra.
+
+Aunque Próxima b orbita mucho más cerca de su estrella que Mercurio del Sol en nuestro Sistema Solar, su estrella es mucho más débil que el Sol. Como resultado, Próxima b se encuentra dentro de la zona habitable alrededor de la estrella y tiene una temperatura superficial estimada que permitiría la presencia de agua líquida. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+A pesar de la órbita templada de Próxima b, las condiciones en la superficie pueden verse fuertemente afectadas por las llamaradas de rayos X y de radiación ultravioleta procedentes de la estrella, mucho más intensas que las que experimenta la Tierra con respecto al Sol. Mirá también: Tras 12 años, la sonda Rosetta terminará su misión el 30 de septiembre Este descubrimiento será el inicio de observaciones más amplias, tanto con instrumentos actuales como con la próxima generación de telescopios gigantes como el E-ELT (European Extremely Large Telescope). Próxima b será un blanco perfecto para la búsqueda de evidencia de vida en otros lugares del Universo. De hecho, el sistema Alfa Centauri es también el objetivo del primer intento de la humanidad de viajar a otro sistema solar, el proyecto StarShot. Mirá también: Desde el desierto de Atacama, logran captar por primera vez el centro de la Vía Láctea Anglada-Escudé concluyó: "Se han encontrado muchos exoplanetas y van a descubrirse aún muchos más, pero buscar el potencial análogo de la Tierra más cercano y conseguirlo ha sido la experiencia de toda una vida para todos nosotros. Historias y esfuerzos de muchas personas convergen en este descubrimiento. El resultado es también un homenaje a todos ellos. El siguiente paso es la búsqueda de vida en Próxima b".

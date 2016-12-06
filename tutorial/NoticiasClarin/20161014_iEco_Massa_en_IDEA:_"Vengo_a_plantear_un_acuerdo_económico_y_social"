@@ -1,0 +1,18 @@
+
+Sergio Massa se paseó por el Coloquio de IDEA, en Mar del Plata, junto a Margarita Stolbizer. Nada decisivo dijo sobre el acuerdo electoral que teje con ella rumbo a 2017. Pero disfrutaba de cada foto a su lado. El líder del Frente Renovador y Stolbizer se sentaron uno al lado del otro para oír el discurso de cierre de María Eugenia Vidal. Y hasta la aplaudieron. “Vamos a plantear un acuerdo económico y social entre gobierno, empresarios y trabajadores para definir la Argentina del largo plazo. Hay que definir cuánto van a pesar los impuestos en los próximos diez años, la matriz energética, el tipo de cambio. Estas cosas tienen que trascender a un gobierno, tienen que ser una política de Estado”, afirmó.- Usted vino el año pasado a IDEA como candidato. La sociedad eligió a otro. ¿El país hoy está mejor o peor que hace un año?- En algunos temas mejor, en otros peor. Institucionalmente la Argentina está mejor, volvimos a recuperar mercados, capacidad de crédito, confianza en el mundo. Tenemos un problema serio de pobreza, que ha crecido. No podemos no poner en el marco de una acuerdo qué vamos a hacer con la pobreza, con la inseguridad.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+-¿En cuánto tiempo se puede bajar la pobreza? -  La pobreza se baja con empleo y con educación. Y los dos instrumentos  que tiene el Estado son la seguridad social y los impuestos. El sistema  impositivo argentino es muy regresivo. El que hace horas extra paga  Ganancias y el que gana 10 millones en la Bolsa no.- ¿Qué va a hacer el año que viene en las elecciones?- El FR va a competir, buscar un acuerdo amplio, expresar pluralidad y futuro.-  Usted se mostró en Mar del Plata con Stolbizer, se la disputan varias  fuerzas, es la dirigente de moda pero parece estar más cerca del FR.-  Con Margarita empezamos en marzo un trabajo común, que tiene una  agenda. Conseguimos que en Diputados se apruebe la ley del Arrepentido,  la extinción de dominio, estamos peleando por una ley de protección a la  Víctima. Queremos construir una alternativa política.- ¿Usted va a ser candidato?- Lo vamos a decidir en conjunto con De la Sota, Lavagna, junto al bloque de diputados nacionales cuando llegue el momento.

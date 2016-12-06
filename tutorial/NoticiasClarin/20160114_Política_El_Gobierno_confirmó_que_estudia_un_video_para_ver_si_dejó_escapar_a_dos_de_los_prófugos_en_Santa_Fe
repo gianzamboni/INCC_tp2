@@ -1,0 +1,127 @@
+
+El secretario de Seguridad, Eugenio Burzaco, confirmó esta mañana que el Gobierno analiza las imágenes de un video en el que se vería la detención de tres personas en la zona de Santa Fe donde se buscaba a los tres prófugos de la cárcel de General Alvear. Clarín había adelantado la existencia de esta prueba.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160114_0027 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160114_0027_d59";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Video sobre los prófugos que analizan las autoridades.',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/14/VID/CLAVID20160114_0027/video_web.flv",
+        image: "http://images.clarin.com/policiales/Video-profugos-analizan-autoridades_CLAVID20160114_0027_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160114_0027',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/01/14/VID/CLAVID20160114_0027/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/9/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/policiales/Video-profugos-analizan-autoridades_3_1504079604.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160114_0027.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160114_0027){
+            //getBBTStats_CLAVID20160114_0027();
+            varModIdReprod_CLAVID20160114_0027 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+Ese video correspondería al día del escándalo informativo, el sábado pasado. Entonces, cerca del mediodía, se informó que se había detenido a los tres condenados por el triple crimen: Martín y Cristian Lanatta, y Víctor Schillaci. Pero luego de varias horas se confirmó que el capturado era sólo uno, Martín Lanatta. Desde entonces, además de un pase de facturas por el origen de la información, entre funcionarios provinciales y nacionales, fuerzas de seguridad y judiciales, se empezó a generar la duda: ¿y si en realidad los habían capturado y los liberaron?Las versiones, aseguran en la Nación, son muchas. Por eso, insisten, piensan avanzar sobre terreno firme. Una de esas pruebas será el análisis del video. Allí, en principio, ni siquiera se veía claro si las fuerzas de seguridad que detienen a tres personas (presuntamente los prófugos) son de Gendarmería o de un cuerpo especial de la Policía de Santa Fe. Sus vestimentas son parecidas. Como adelantó Clarín, Burzaco confirmó esta mañana que las imágenes serán enviadas a un "laboratorio para que sean más nítidas", porque "queremos estar seguros de que, primero son las personas que estábamos buscando. Segundo, comprender las fuerzas que están actuando en ese proceso y también si la fecha se corresponde al día sábado".

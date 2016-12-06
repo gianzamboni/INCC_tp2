@@ -1,0 +1,18 @@
+
+Mientras en el Congreso se espera el debate por el proyecto de ley que prohíbe las carreras de galgos, en la Provincia persiste una nebulosa legal y un arraigo cultural extendido que las mantiene en pie. Aunque no existen registros oficiales, se estima que en el territorio bonaerense hay unos 60 canódromos distribuidos en distrito del oeste y norte del conurbano y en localidades chicas del interior. Mirá también: Incidentes frente al Congreso entre defensores y detractores de carreras de galgos  También se instaló en los últimos años la resistencia de entidades defensoras de los derechos animales, contra esta práctica. Sobre esa disputa avanzó la gobernadora María Eugenia Vidal y el 30 de setiembre pasado anunció a través de su cuenta de Facebook que enviaría un proyecto para prohibir las competencias con estos animales en la jurisdicción. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ A la par de la propuesta legislativa, promovió inspecciones y operativos policiales para clausurar reuniones ilegales como ocurrió hace una semana en Luján. Allí, el instituto de Loterías y la Bonaerense ingresaron en un canódromo, rescataron 30 animales y multaron a los organizadores. Las infracciones fueron también por las apuestas ilegales, que son la matriz de esta actividad. Mirá también: Las carreras de galgos pasarían hoy a ser ilegales  El proyecto de Vidal está en Diputados. Prevé una reforma a la Ley 12.449 (de 2002) que regula esta actividad. Esa norma restringe las carreras de perros excepto las realizadas en “canódromos habilitados”. La iniciativa prohibe las competencias de cualquier raza y en cualquier lugar. “Los animales merecen nuestro respeto y nuestro amor. No más carreras de galgos”, fue el mensaje de la gobernadora desde las redes. Mirá también: Macri, contra las carreras de galgos  La propuesta firmada por Vidal está en la comisión de Asuntos Municipales. Y ayer, el diputado Santiago Nardelli (Cambiemos) dijo que el bloque “acompaña la iniciativa de prohibir una situación que provoca maltrato animal intolerable y que pretendemos erradicar”.

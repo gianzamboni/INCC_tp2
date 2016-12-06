@@ -1,0 +1,19 @@
+
+A Simon Cowell terinaron de "cerrarle" estos 8 argentinos. El juez más exigente del programa estadounidense America's Got Talent fue concreto: "Esta audición fue mucho mejor que la primera. Fue increíble". Habla de Malevo, el grupo argentino de malambo que volvió a pisar fuerte en la televisión de EE.UU.   En junio, Malevo tuvo su primera presentación en el programa y el video se hizo viral a los pocos días. Los ocho jóvenes de “Malevo Compañía de Malambo” hicieron zapatear a muchos de los que estaban en las tribunas y los espectadores también notaron el talento argentino en esa performance folclórica. 
+
+ "Amo a estos chicos, los amo, los amo", resumió Mel B, la ex Spice Girl que tiene su lugar en el jurado junto a Cowell, Heidi Klum y Howie Mandel.  Si bien todo el jurado aplaudió de pie, fue George López, actor que ofició como juez invitado, quien presionó el botón dorado y envió a los argentinos directo a la la instancia de las presentaciones en vivo. Mirá también: Quiénes son los argentinos que deslumbraron en EE.UU. bailando malambo Los Malevo -que el propio programa tilda de "sexy dancers"- llegaron al concurso porque uno de ellos se contactó con un productor de America's Got Talent. El grupo está integrado por los Nicolás Morales, Adrían Saldivia, Alejo Acosta, Leandro Palavecino, Marcos Olivera, Sebastián Lucero, Matías Rivas y el coreógrafo y también bailarín Matías Jaime. En el video de presentación, donde bromearon sobre sus largas cabelleras y contaron que tuvieron una infancia muy humilde, sin luz y sin agua. Todos se dedican a otras cosas para sobrevivir: uno es carpintero, otro albañil y un tercero trabaja en una estación de servicio. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

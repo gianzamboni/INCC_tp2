@@ -1,0 +1,18 @@
+
+La tecnología está, cada vez más, al servicio de los viajeros. Ya lo supo Carles Giro de Pedro, el español que dio la vuelta al mundo "en 90 selfies". Ahora, su compatriotra Paco Nadal dio un paso más: se compró un dron, lo cargó en su mochila, y lo llevó a recorrer todos los continentes. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Nadal es periodista, escritor, y tiene un blog en el diario El País, llamado El Viajero. "Recorre el planeta desde Tucumán a Groenlandia y desde Osaka a Tegucigalpa", describe su cuenta de YouTube. Fiel a los tiempos que corren, se entusiasma con los nuevos dispositivos y a los usos (a veces exagerados) que les damos. Así, responde a sus seguidores interrogantes del tipo: "Hago 3.000 fotos en cada viaje, ¿es grave?". Mirá también: Buenos Aires, las 5° ciudad más visitada de Latinoamérica  En este caso, Paco llevó una cámara voladora para registrar cada lugar que fue recorriendo. "Se cumple un año desde que me compré el dron. Parece mentira pero en ese tiempo he visitado 11 países de cinco continentes tratando de grabar una cosa muy concreta: la belleza. En este video resumo lo mejor de esos 365 días de filmaciones aéreas", publicó el miércoles en la presentación de las imágenes. Mirá también: Un blogger reveló las claves de WIFI de los aeropuertos del mundo  En solo 3:16 minutos, podemos acompañar a este aventurero por países tan distantes como Kazajistán, Perú, Japón, Australia, Nepal, España, Alemania, Noruega, Costa Rica, Groenlandia y Namibia. Todo, visto desde el aire.

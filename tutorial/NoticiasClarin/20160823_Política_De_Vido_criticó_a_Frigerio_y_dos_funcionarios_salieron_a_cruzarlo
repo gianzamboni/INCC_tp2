@@ -1,0 +1,66 @@
+
+Julio De Vido se la agarró con Rogelio Frigerio, lo acusó -entre varias cosas- de tener "paralizadas" todas las obras públicas y dos funcionarios del Ministerio de Interior salieron a cruzarlo. Con una catarata de tuits, el ex ministro de Planificación defendió los logros de su gestión. "De nada sirve seguir echando culpas al pasado cuando se demuestra claramente ineptitud y falta de transparencia en la acción de gobierno", escribió. El domingo, en la mesa de Mirtha Legrand, el ministro Frigerio había responsabilizado al kirchnerismo por la crisis energética y dijo que "si seguíamos con la mentira de las tarifas nos pasaba lo de Venezuela". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/JulioDeVido/status/767746161675493376",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76774616167549337")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Frigerio, en la mesa de Mirtha: "Si seguíamos con la mentira de las tarifas nos pasaba lo de Venezuela" Desde la cartera de Frigerio no se quedaron callados y salieron a cruzarlo. Ricardo Delgado, subsecretario de coordinación de la Obra Pública Federal, le reprochó la perdida de puestos a fines del año pasado 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/delgado_rr/status/767856010442702848",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76785601044270284")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Nuevos adelantos financieros por $ 550 millones para Jujuy y Chaco No fue el único. El secretario de Interior de la Nación le recordó algunos detalles de la "herencia" que dejó en Planificación, las numerosas causas que tiene en la Justicia y el caso de José López. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/SebastiangdlCh/status/767837055946723328",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76783705594672332")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: La CGT ya tiene conducción unificada: cómo se repartieron los cargos 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/SebastiangdlCh/status/767836976154349572",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76783697615434957")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 

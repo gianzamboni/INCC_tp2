@@ -1,0 +1,72 @@
+
+Un escándalo causó, la semana pasada, la peor crisis en la historia del Nobel de Medicina, cuando un médico del instituto que da el premio y dos jurados fueron acusados de malas prácticas y negligencia. Ahora, una nueva polémica envuelve al mundo científico. Esta vez los involucrados son investigadores de la prestigiosa Universidad de Harvard, en Estados Unidos. Mirá también: Parches para cada síntoma: los riesgos de la extrema medicalización Una investigación reveló que en la década del 60 la Sugar Research Foundation (hoy conocida como Sugar Association) pagó a tres nutricionistas de Harvard para que publicaran una investigación que minimizara la relación entre el consumo de azúcar y las enfermedades cardíacas, y que en su lugar responsabilizara a las grasas saturadas. Según lo difundido, el importe abonado fue el equivalente a 50.000 dólares actuales.
+
+El soborno fue descubierto por investigadores de la Universidad de California y publicado el lunes en el último número de la revista JAMA, de la Asociación Médica Estadounidense. Para llegar a estas revelaciones, analizaron documentos internos, informes históricos y declaraciones de principios. 
+
+
+"Ellos fueron capaces de descarrilar la discusión sobre el azúcar por décadas", sostuvo Stanton Glantz , profesor de medicina y uno de los autores del artículo publicado en JAMA.
+
+
+
+
+
+var act_40a = new gigya.socialize.UserAction();
+
+var emailBodyCustom_40a = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_40a.setTitle('"Ellos fueron capaces de descarrilar la discusión sobre el azúcar por décadas", sostuvo Stanton Glantz , profesor de medicina y uno de los autores del artículo publicado en&nbsp;JAMA.');
+act_40a.setSubtitle('Tras la crisis del Nobel'); 
+act_40a.setLinkBack('http://www.clarin.com/sociedad/escandalo-cientifico-sobornos-investigadores-Harvard_0_1649835110.html');
+act_40a.setDescription('En la década del 60, recibieron dinero de la industria azucarera para criticar a las grasas. Sus estudios que influyeron en la investigación nutricional por décadas. ');
+act_40a.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/escandalo-cientifico-sobornos-investigadores-Harvard_0_1649835110.html');
+
+var showShareBarUI_params_40a=
+{ 
+containerID: 'shareQuote_40a',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_40a,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_40a
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_40a);
+  El estudio en cuestión se tituló "Grasas dietéticas, los carbohidratos y la enfermedad cardiovascular aterosclerótica" y fue publicado en agosto de 1967 en la prestigiosa revista New England Journal of Medicine. Tuvo gran influencia en las investigaciones nutricionales que se realizaron durante las siguientes cinco décadas. Por lo tanto, se cree que muchas de las recomendaciones que se siguen dando hoy en día pueden haber sido formadas, en parte, por la industria azucarera. Mirá también: Prueban que los remedios contra el colesterol dan más beneficios que riesgos
+
+ Según lo informado en el diario The New York Times, ya no están vivos ni los científicos ni los ejecutivos de la industria azucarera que participaron en el soborno. Uno de los investigadores fue Marcos Hegsted, que llegó a ser el líder de nutrición en el Departamento de Agricultura de Estados Unidos. Otro fue Fredrick J. Stare, presidente del Departamento de Nutrición de la Universidad de Harvard. Mirá también: Tras las críticas, sacan los productos Cormillot de Precios Cuidados

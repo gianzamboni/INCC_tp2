@@ -1,0 +1,18 @@
+
+La primera misión de Nekton, en colaboración con el Ministerio de Medio Ambiente del Gobierno de las Bermudas, acaba de comenzar. El objetivo es verificar la salud de los océanos ante las consecuencias y futuras amenazas de la contaminación humana. La tecnología que se pondrá a prueba en esta misión pretender enviar un mensaje de alarma mundial sobre la importancia de dejar una huella verde en cada aspecto de nuestras vidas. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En un video de la puesta en marcha de la Misión Nekton, Greg Foot, periodista especializado en Divulgación Científica, dijo a la prensa de Bermudas: "Todos están muy emocionados, este es el preciso momento en que la Misión comienza y no hay margen de error". Los submarinos que se utilizarán tienen un valor de 2 millones de dólares y a esa suma habrá que agregarle los salarios de los científicos y los técnicos. Pero la promesa de hacer in diagnóstico sobre la salud de los océanos no tiene precio para los que soñaron y desarrollaron esta misión. Mirá también: El paraíso en el que está prohibido vivir  Para explorar el impacto de las actividades humanas en las profundidades del océano, esta es la primera de una serie de expediciones en las que la Misión Nekton utilizará submarinos no tripulados, con cascos totalmente esféricos, y equipados con tecnología de realidad virtual para que las cámaras de 360 ​​grados tomen las imágenes de la manera más exacta posible y así  permitan a los científicos elaborar un diagnóstico nunca antes visto para los océanos.

@@ -1,0 +1,34 @@
+
+Ocho niños y dos adultos resultaron heridos al descarrilar una montaña rusa en Escocia. Sucedió el domingo por la tarde, cuando un vagón (compuesto por cinco líneas de asientos) se salió de su riel, chocó contra la estructura principal y cayó hacia el piso desde una altura de nueve metros. Mirá también: Inaugurán en Londres el tobogán más alto del mundo Por el accidente, dos chicos (uno de once y otro de doce años) permanecen internados en el Hospital Royal para Niños, en Glasgow, uno con golpes en el pecho, abdomen y piernas, y el otro con heridas en un brazo y una mano. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Otras ocho víctimas fueron en un principio trasladadas a hospitales de la zona. Seis de ellas permanecen internadas, incluidos un adolescente de 19 años con una lastimadura en la rodilla, una chica de 14 años con lesiones en el pecho y un niño de 11 años con golpes en la cabeza y en una pierna. Mirá también: Inauguran un infartante tobogán de vidrio en el edificio más alto de Los Ángeles  Todo sucedió en el parque de diversiones M&D ubicado en Motherwell, North Lanarkshire. La atracción que se descarriló -- Llamada Tsunami -- es una montaña rusa invertida que puede alcanzar una velocidad de 64 kilómetros por hora. Mirá también: Video: una montaña rusa récord, en primera persona  La policía de Lanarkshire informó en su cuenta oficial de Facebook que el parque temático y el área inmediata fueron evacuados tras el incidente. "El M&D está ahora cerrado", detalla el comunicado. Agrega que se están realizando investigaciones para detectar la causa del incidente y piden a los testigos que se acerquen a declarar. Mientras, algunas de las personas que presenciaron el momento comparten su consternación en las redes sociales. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/_demicampbell/status/747085763939008512",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_74708576393900851")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Por su parte, el diario local Herald Scotland informa que el juego Tsunami había pasado una inspección anual de seguridad justo una semana antes del descarrilamiento. "Fue el primer incidente de este tipo" en 50 años de negocio, dijo a ese medio Douglas Taylor, director del M&D. Mirá también: Video: se quiso sacar una foto y perdió el celular en una montaña rusa

@@ -1,0 +1,84 @@
+
+Otra vez a través de su cuenta de Twitter, la ex presidenta Cristina Fernández de Kirchner volvió a cuestionar a la ministra de Seguridad, Patricia Bullrich, por su supuesto vínculo con sitios webs contrarios a su gobierno que arengaban marchas en su contra. La ministra de Cambiemos, lejos de quedarse callada, le sugirió que pida "una audiencia" con ella, así puede contarle "los logros del ministerio que mejoran la vida de la gente". La ex mandataria copió en su Twitter fragmentos de una entrevista realizada para el diario Página/12 a Marcelo Morán, dueño de un grupo de Facebook llamado "El Anti K", desde donde se llamaba a marchar contra el kirchnerismo. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/CFKArgentina/status/763474027067441154",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76347402706744115")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ "¿Qué era el "El Anti K" y quiénes eran los dirigentes políticos que estaban atrás? ¿Cuáles son los recursos que se necesitan para hacer un 'Anti K'? ¿Qué pasó con esa página, que su fundador la perdió?¿Qué contenidos tenía esa página y quién los fijaba?", se preguntó CFK. "Quien impulsaba la publicación de imágenes de la Presidenta colgada de una horca, con la leyenda 'Justicia' es hoy Ministra de Seguridad de la República Argentina, donde están ocurriendo, entre otros, hechos como" el del robo a la casa de la periodista Cynthia García", dijo. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/CFKArgentina/status/763475475071176704",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76347547507117670")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ "Como dice propaganda de Clarín que le 'dejaron' a la periodista en su casa: 'Todas estas preguntas tienen respuesta'", sostuvo la dirigente, al afirmar entre líneas que el robo a la casa de García fue intencional. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/CFKArgentina/status/763475836305637377",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76347583630563737")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/CFKArgentina/status/763476400359796737",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76347640035979673")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ En su último tuit, Cristina aprovechó para criticar también a Mauricio Macri. "Pensar que hoy el presidente de la Nación llamó a Hebe (De Bonafini) 'una desquiciada'", tras los dichos del mandatario hoy en una entrevista con el medio web BuzzFeed.
+
+La respuesta de Bullrich no tardó en llegar: "Sra. @CFKArgentina, pida una audiencia y con gusto le contaré los logros del ministerio de Seguridad que mejoran la vida de la gente". ¿Lo hará? 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/PatoBullrich/status/763487908405837824",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76348790840583782")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Fuente: Télam

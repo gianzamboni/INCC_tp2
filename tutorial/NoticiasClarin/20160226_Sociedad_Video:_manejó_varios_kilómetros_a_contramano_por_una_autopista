@@ -1,0 +1,18 @@
+
+Las bocinas lo alertaban, las luces altas le indicaban que se corriera: “Está loco, está loco”, repetían quienes lo filmaban. Pero nada lo detuvo. Un automovilista manejó en contramano durante varios kilómetros por la autopista Córdoba – Río Cuarto y todo fue capturado por otro hombre que lo filmó varios minutos. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Las imágenes causan estupor y pánico. El video fue compartido por la página de Facebook de la radio LV16 y ya suman miles de reproducciones. Es que nadie puede entender cómo ese auto viaja a tanta velocidad a contramano. Las opiniones de los internautan son variadas: algunos dicen que no se dio cuenta, otros que está loco y que debería ir preso. También leé: "Borracho y de contramano, chocó y mató a dos personas" Los datos concretos que se conocen hasta el momento son que el automovilista (no se sabe si es hombre o mujer) manejaba muy rápido por una vía por la que no debía circular sobre la autopista Córdoba- Río Cuarto, entre Almafvuerte y Los Cóndoresideos vi. También leé: "Lo detuvieron borracho y de contramano en la autopista: ¿qué dijo?"

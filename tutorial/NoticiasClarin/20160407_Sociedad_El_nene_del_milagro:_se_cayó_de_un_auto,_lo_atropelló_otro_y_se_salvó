@@ -1,0 +1,18 @@
+
+Un nene sobrevivió a un increíble accidente en Yunnan (China). El menor viajaba en un monovolumen con su familia cuando se abrió el portón trasero y él salió despedido. El conductor del auto que iba detrás no pudo reaccionar a tiempo y terminó pasando por arriba del pequeño. Mirá también: Impactante video: así atropelló y mató un conductor alcoholizado Al caerse, el chico intentó ponerse en pie, pero resultó imposible porque en pocos segundos se vio atrapado debajo de un coche. Los padres se dieron cuenta de inmediato y detuvieron la furgoneta para acudir al rescate. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Tremendo vuelco y milagro en el TC 2000 en Concordia Las imágenes capturadas por una cámara de tráfico muestran el accidente en un cruce de caminos. Según informa Sky News, el menor fue trasladado a un hospital de la ciudad, donde sólo lo trataron de unas heridas leves. Fuente: La Vanguardia

@@ -1,0 +1,18 @@
+
+La semana pasada, la libertad de expresión y el periodismo en la Argentina fueron protagonistas en escenarios internacionales y las repercusiones continúan. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Leé también: Entregaron a Héctor Magnetto el premio a la Libertad de Expresión El premio de Freedom House a Héctor Magnetto –que el CEO de Clarín hizo extensivo a todos los medios y periodistas argentinos que mantuvieron su independencia durante la última década- fue resaltado por la prensa local y del exterior. Leé también: Destacan en EE.UU. el rol de Clarín en la última década Pero además, el caso argentino fue abordado en un encuentro celebrado por Freedom House antes de la ceremonia de premiación y en un debate sobre “Libertad de prensa en las Américas”, organizada por el Centro de Estudios Estratégicos Internacionales (CSIS), del que participaron los editores generales de Clarín, The Washington Post y El Nacional de Caracas. Leé también: Intenso debate sobre medios y poder en Latinoamérica

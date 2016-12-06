@@ -1,0 +1,84 @@
+
+Este 20 de julio hubo fulbito y festejo del Día del Amigo en la Residencia Presidencial de Olivos.  El partido disputado en la reciclada cancha de fútbol de la Quinta no contó con la participación del Presidente de la Nación, quien sí se sumó luego, a una cena posterior donde hubo asado y foto para Twitter, como no se pierde nunca de hacer el macrismo. Mirá también: Macri: "Acá no hay más Cristóbal López que no pagan sus impuestos"  Ayer, justamente, la figura del partido de fútbol fue Fernando De Andreis: el secretario General de la Presidencia había tenido un día de furia al responder a decenas de requisitorias periodísticas por la cancelación del contrato del “Fútbol para Todos”, asunto que siempre se trató en su área. Mirá también: El Papa recibirá a Macri en un fecha especial: 17 de octubre  Tal vez por eso, el secretario General marcó tres goles en el triunfo del equipo “Casa Rosada” por 4-1. Marcos Peña hizo el cuarto y el ministro económico de Vidal, Hernán Lacunza, el único del equipo “Ministerios”. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/mauriciomacri/status/755943270933340160",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75594327093334016")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+  Casa Rosada formó como el vocero Iván Pavlovsky (arquero y otro de destaca actuación), Fulvio Pompeo, Sebastián García de Luca , el rústico secretario de Medios Jorge Grecco, Marcos Peña, el citado De Andreis, “Colorado” Mac Allister, Pablo Clusellas y un colado, el vicejefe de Gobierno porteño, Diego Santilli. Mirá también: Macri: "Me parece una locura hablar de un segundo mandato"  Por el equipo derrotado se alistaron el secretario de Derechos Humanos, Claudio Avruj; los ministros Guillermo Dietrich y Buryaile, Hernán Iglesias Illa, Hernán Lacunza, Matías Crotto, Otamendi y Santillán para el resto de "Ministerios".  Luego, fue el turno de la ducha y apareció Mauricio Macri, con dos inseparables; su hija Antonia y su bufanda, el accesorio de moda que ya es un ícono de su militancia por el ahorro de energía, en medio del duro tarifazo. Mirá también: Marcos Peña, sobre las boletas de gas: "Hasta tanto no se resuelva el fallo no hay que pagarlas"  Macri encabezó la mesa del asado por el Día del Amigo y sentó a su derecha, como es habitual, a su jefe de Gabinete Marcos Peña. A la hora del brindis por la amistad, el jefe de Estado no habló pero sí lo hicieron sus amigos y compañeros de ruta de muchos años, José Torello e Iván Pavlovsky.   Entre los cortes de asado se habló de política. La preocupación por el impacto del tarifazo fue matizada por lo que varios de esa mesa definieron como “una onda positiva que vemos en la gente”.  Así definió ante Clarín uno de los integrantes del equipo vencedor: “Hay una onda positiva, que la inflación va a bajar. Y también hay un clima muy positivo que transmiten los líderes mundiales e inversores sobre Argentina”. Mirá también: Macri, a la Rural en camioneta Casi como un mantra sciolista, los funcionarios de Cambiemos observan el futuro político de la administración macrista “con fe, con optimismo y con trabajo”. Los meses por venir mostrarán el verdadero curso de los hechos. 
+
+
+Un párrafo final mereció el tema Fútbol: no solo con el asunto del FPT sino con el próximo técnico de la Selección Nacional. La presencia de Fernando Niembro en el festejo atrajo las preguntas de los interesados en el rubro, donde el nombre de Miguel Ángel Russo fue repetido en varias oportunidades.
+
+
+
+
+
+var act_29c = new gigya.socialize.UserAction();
+
+var emailBodyCustom_29c = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_29c.setTitle('Un párrafo final mereció el tema Fútbol: no solo con el asunto del FPT sino con el próximo técnico de la Selección Nacional. La presencia de Fernando Niembro en el festejo atrajo las preguntas de los interesados en el rubro, donde el nombre de Miguel Ángel Russo fue repetido en varias oportunidades.');
+act_29c.setSubtitle('POR LOS PASILLOS'); 
+act_29c.setLinkBack('http://www.clarin.com/politica/Macri-Antonia-sobremesa-inflacion-inversores_0_1617438273.html');
+act_29c.setDescription('El Presidente posteó anoche una foto de la cena donde festejó el 20 de Julio. No jugó en el partido habitual de Olivos. Preocupación por las inversiones y el respaldo de líderes mundiales. Estuvo Niembro y se habló de la Selección.');
+act_29c.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Macri-Antonia-sobremesa-inflacion-inversores_0_1617438273.html');
+
+var showShareBarUI_params_29c=
+{ 
+containerID: 'shareQuote_29c',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_29c,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_29c
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_29c);
+ 

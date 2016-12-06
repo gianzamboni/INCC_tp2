@@ -1,0 +1,74 @@
+
+En un momento donde en el mundo de la política se discute la forma de comunicar de la Casa Rosada, Marcos Peña reunió a la tropa de voceros del Gobierno con el objetivo de reforzar la autoestima de su equipo y trazar una estrategia común en materia comunicacional.  Aprovechando que Macri mantuvo su agenda -como cada viernes- en la Quinta de Olivos, el jefe de Gabinete convocó a los voceros de todos los ministerios y de secretarías de Estado en el Centro Cultural Kirchner para una larga jornada de capacitación, dividida por paneles según el área.
+
+Peña fue el encargado de la apertura y habló en el módulo "Lineamientos generales y estrategia política". Allí realizó una fuerte defensa del modelo de comunicación "real" y "mano a mano" macrista, rechazó las críticas que recibe incluso desde sectores de Cambiemos e instó a los voceros a "trabajar en apuntalar el liderazgo" del Presidente. "Tenemos que ser conscientes del valor del trabajo en equipo y del mandato que tenemos cuando todos los días tratamos de generar una conversación, porque la comunicación es una conversación. Ya no se puede bajar una línea pasiva, hoy se trata de la interacción, con los timbreos o las redes", expuso el jefe de Gabinete, a horas de un nuevo timbreo de Cambiemos a nivel nacional. Y cruzó con ironía a las críticas. "En muchos, hay una cierta subestimación de nuestro estilo: nos ven como naifs o ingenuos", dijo, al ponderar el uso de las redes sociales y señalar que "ya no es posible comunicar como hace 20 años, cuando no había estos avances tecnológicos". "Estamos haciendo algo que nunca se hizo. Nadie trabajó la comunicación pública como ahora", enfatizó. Peña, además, alertó a los voceros a no correrse de la línea comunicacional que se baja de Jefatura de Gabinete y a resguardar la información de cada área: "Tenemos que cuidarnos del ego en la comunicación del Gobierno. Somos receptores de demanda del deseo de comunicar todo lo que estamos haciendo. Y alguien nos decía en Facebook que no nos preocupemos por la comunicación, que cuando él estuviera bien, ya se iba a dar cuenta solo". En pantalla gigante, mientras hablaba Peña, se repetían conceptos comunicacionales que son marca registrada del PRO: "Los temas que aparecen en los medios no son los temas de la gente. Por eso tenemos que buscar sintonizar con las preocupaciones reales de las personas" y "Con los periodistas hay que charlar en un ida y vuelta: armar un diálogo entre personas humanas sin buscar generar una pelea", fueron algunos.  
+
+
+"En muchos, hay una cierta subestimación de nuestro estilo: nos ven como naifs o ingenuos", dijo Peña.
+
+
+
+
+
+var act_03e = new gigya.socialize.UserAction();
+
+var emailBodyCustom_03e = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_03e.setTitle('"En muchos, hay una cierta subestimación de nuestro estilo: nos ven como naifs o ingenuos", dijo Peña.');
+act_03e.setSubtitle('Cumbre en el CCK'); 
+act_03e.setLinkBack('http://www.clarin.com/politica/Pena-voceros-respondio-criticas-subestimacion_0_1655834500.html');
+act_03e.setDescription('"Nos ven como naifs o ingenuos", ironizó el jefe de Gabinete, en una reunión de responsables de prensa de los ministerios. ');
+act_03e.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Pena-voceros-respondio-criticas-subestimacion_0_1655834500.html');
+
+var showShareBarUI_params_03e=
+{ 
+containerID: 'shareQuote_03e',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_03e,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_03e
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_03e);
+  "Mauricio es un líder del siglo XXI. Y nosotros tenemos que trabajar en apuntalar ese liderazgo. Nuestra responsabilidad es muy grande y tenemos un trabajo muy grande para seguir haciendo en materia de nuestro vínculo con el periodismo", arengó Peña en el final de su exposición, antes de irse rumbo a la Quinta de Olivos y corroborar que parte de su mensaje había llegado: en efecto, el encuentro en el que acompañó a Macri con el ex presidente de Brasil, Fernando Henrique Cardoso, no se filtró y recién vio la luz una vez que Presidencia hizo circular la foto.
+
+ Pero, tras la ida de Peña, disertaron los principales referentes del Gobierno en materia comunicacional. Siempre bajo la coordinación del secretario general de Presidencia Fernando de Andreis.   De estrategia de comunicación hablaron Joaquín Molla, el publicista preferido de Macri; Julián Gallo, el responsable de las redes sociales del Presidente; y Victoria Bluthgen, encargada del "Estado en tu barrio", el plan del Gobierno que busca un acercamiento directo con la gente llevando al territorio y poniendo a disposición stands de servicios del Estado. Luego hubo charlas según cada tema que brindaron referentes de las áreas en distintos salones. Por caso, en la Sala Naranja encabezó el debate el subsecretario de Vínculo Ciudadano, Guillermo Riera, responsable de las cuentas oficiales del Gobierno; y Mora Jozami, especialista en encuestas, se refirió a los "mitos y realidades" de la opinión pública. Diego Copello, encargado del contenido audiovisual, lideró la Sala Azul, donde los secretarios Jorge Sigal y Gabriela Ricardes expusieron sobre Medios Públicos. En la Sala Amarilla, Silvana Giudici planteó el desafío de regular equitativamente la pauta oficial y Sebastián Tabakman, María Pia Delneri y Belén Cersósimo, delfines del secretario de comunicación pública Jorge Greco, contaron sus experiencias en el contacto con la prensa desde Presidencia. En la Sala Violeta, Hernán Iglesias Illa, lugarteniente de Peña, profundizó sobre los ejes de comunicación estratégica que plantea Jefatura de Gabinete; Julieta Herrero habló sobre su trabajo como directora de discurso del Presidente, y Lucía Aboud y Fátima Micheo dieron detalles de cómo se coordina la agenda presidencial en función de las problemáticas que se presentan en cada ministerio. Por último, hubo en la Sala Verde un panel enfocado en el diseño.
+
+El panel de cierre, como para mantener el interés de la tropa tras casi 6 horas de capacitación, se denominó "Inspirar" y estuvo a cargo de otros tres funcionarios de jerarquía del Gobierno: el ministro de Cultura Pablo Avelluto, el filósofo y asesor de discurso Alejandro Rozitchner; y el titular del Sistema Federal de Medios Públicos Hernán Lombardi.  

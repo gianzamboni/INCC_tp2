@@ -1,0 +1,68 @@
+
+El ministro de Educación, Esteban Bullrich, se fue lapidario hoy al referirse refirió a la detención de José López, ex subsecretario de Obras Públicas del kirchnerismo. "Acá no hubo magia, hubo curro. Se curraron mucha, mucha, mucha plata y tiene que aparecer", sostuvo. “Con ese dinero -en referencia a los 8.5 millones de dólares que hasta ahora se contaron- se podrían construir diez jardines de infantes, y de ese modo garantizarle a 2.500 chicos el acceso a las salas de 3, 4 y 5 años", señaló, poniéndole a las cifras de billetes encontrados una comparación gráfica. Bullirch siguió: "Tenía guardados diez jardines de infantes en su casa esta persona. Este señor tenía 8 millones y medio de dólares guardados en algún lado, ésta es la impunidad con que se movían". 
+
+
+"No fue magia", fue un lema del kirchnerismo.
+
+
+
+
+
+var act_66f = new gigya.socialize.UserAction();
+
+var emailBodyCustom_66f = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_66f.setTitle('"No fue magia", fue un lema del kirchnerismo.');
+act_66f.setSubtitle('Tras la detención del ex funcionario K.'); 
+act_66f.setLinkBack('http://www.clarin.com/politica/ministro-Macri-lapidario-Aca-curro_0_1595240638.html');
+act_66f.setDescription('Lo dijo Esteban Bullrich, de Educaci&oacute;n. &quot;Con ese dinero se podr&iacute;an construir 10 jardines de infantes&quot;, compar&oacute;.&nbsp;');
+act_66f.addActionLink('VER MÁS', 'http://www.clarin.com/politica/ministro-Macri-lapidario-Aca-curro_0_1595240638.html');
+
+var showShareBarUI_params_66f=
+{ 
+containerID: 'shareQuote_66f',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_66f,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_66f
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_66f);
+  El ministro del PRO recordó que, en su paso por el Congreso como diputado, denunció la causa Skanska. “La causa nació por la presencia de facturas truchas en fideicomisos públicos. Falsificaban facturas y retiraban dinero que nos les correspondía. Había sobreprecios de un 30% o 40% en los gasoductos que se fueron construyendo”, dijo. “Hay mucho para investigar. Hubo una investigación seria del Juez López Biscayart y quedó en el olvido. Fue uno de los pocos jueces que investigó a los Kirchner en el 2004 o 2005, cuando nadie se animaba. La corrupción también tiene mucho que ver con la educación”, expresó. 

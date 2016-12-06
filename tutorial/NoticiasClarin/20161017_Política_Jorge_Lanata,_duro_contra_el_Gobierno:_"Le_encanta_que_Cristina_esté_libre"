@@ -1,0 +1,20 @@
+
+Jorge Lanata abrió su programa Periodismo para Todos con un editorial contra la ex presidenta Cristina Fernández y su abogado Gregorio Dalbón, pero también con duras críticas al Gobierno de Mauricio Macri y la especulación en torno a las elecciones de 2017 y la situación judicial de la ex presidenta. Luego de su descargó contra la ex mandataria y su abogado, que en la audiencia de conciliación trató de cobarde al periodista, Lanata se despachó contra Cambiemos. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_3jrejfz6",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_3jrejfz6"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_3jrejfz6").after(scriptEl);
+ Mirá también: Jorge Lanata y un durísimo editorial con insultos contra Cristina y su abogado "Yo lamento que Cristina esté libre y lamento más que el Gobierno de Macri especule con eso y que al Gobierno de Macri le encante que Cristina esté libre, me parece una lástima", expresó el conductor. Y continuó: "Y sé qué es así. ¿Por qué les conviene que Cristina esté libre? Porque les conviene electoralmente para el año que viene, porque si Cristina está libre va a haber una lista de los K, otra de Massa y otra -a lo mejor- del peronismo". De esta manera, el conductor explicó que con un peronismo dividido en varias boletas y con la ex presidenta en libertad, pese a las múltiples causas que afronta en la Justicia por corrupción, "lo joden a Massa para que no pueda ganar". Mirá también: Un documento complica a Romina Mercado, la sobrina de Cristina Kirchner "Me parece sinceramente una mierda esta historia pero es así, nadie se los está contando, se los estoy contando yo ahora. Por supuesto que el Gobierno va a decir que no. Es así", sentenció el conductor de PPT. Y calificó a la discusión política en argentina de "mediocre" y "miserable", debido a que "después del Gobierno más corrupto de Argentina" sólo hay tres presos: Ricardo Jaime, el empresario K Lázaro Báez y José López. "¿Vos pensás que los culpables del Gobierno K fueron tres?", se preguntó Lanata. Y le pegó a la Justicia, por tener como estrategia esperar que surja algún nuevo arrepentido. Mirá también: El controvertido informe de Lanata sobre los extranjeros  

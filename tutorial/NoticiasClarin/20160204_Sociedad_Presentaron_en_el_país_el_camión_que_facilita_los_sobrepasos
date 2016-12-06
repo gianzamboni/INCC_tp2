@@ -1,0 +1,17 @@
+
+El martes se presentó en el país un desarrollo tecnológico para camiones que busca prevenir los accidentes de tránsito en situaciones de sobrepaso.La iniciativa la llevó a cabo Samsung Electronics Argentina junto a la agencia de publicidad Leo Burnett Argentina; Ingemática, empresa argentina dedicada a crear soluciones de tecnología; Helvetica SA, firma argentina dedicada a la ingeniería del remolque y la construcción y Volvo Trucks Argentina, uno de los principales fabricantes de camiones del mundo.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

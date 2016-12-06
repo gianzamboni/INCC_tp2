@@ -1,0 +1,161 @@
+
+La diputada nacional Elisa Carrió encabezó este sábado en la provincia de Santa Fe el congreso federal de la Coalición Cívica-ARI (CC-ARI), que contó con la presencia de la gobernadora bonaerense María Eugenia Vidal; el jefe de Gobierno porteño, Horacio Rodríguez Larreta, y otras figuras de partidos políticos que integran el frente Cambiemos.   
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_qji3n882",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_qji3n882"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_qji3n882").after(scriptEl);
+ "Hay dos cuestiones innegociables: Lorenzetti y Angelici", sentenció Lilita en un breve contacto con la prensa tras un encendido discurso. "Son innegociables para él o son innegociables para mí", dijo. "La República exige una diferencia entre el fútbol y la política, el fútbol tiene contacto con barrasbravas y muchos barras son sicarios", sostuvo. Carrió viajó en auto desde San Nicolás y, al arribar a la Estancia Los Cerrillos, en Santa Fe, afirmó que el partido que fundó hace 15 años "entregó todo para que en la Argentina pueda nacer la República y hoy veo la República en el país", aunque resaltó que "todavía falta mucho".
+
+En el Congreso que se llevó a cabo a 60 kilómetros de Rosario, "Lilita" Carrió expresó que "yo entregué todo también, hasta mi físico y mi salud". "La Alianza fue un error, acá puede haber errores, pero Cambiemos no fue un error, fue un acierto", lanzó la líder de la CC-ARI desde el escenario. "Con Mauricio (por Macri) teníamos algunas diferencias en el pasado que las salvamos mediante un diálogo sincero y honesto", sostuvo. En ese sentido, la diputada de Cambiemos dijo que "no se trata de reparar el pavimento tapando baches", sino que "se trata de repavimentar la Argentina desde la transparencia". 
+
+
+"Ahora andan todos queriéndome, menos Massa me quieren todos", sostuvo la líder oficialista.
+
+
+
+
+
+var act_d5d = new gigya.socialize.UserAction();
+
+var emailBodyCustom_d5d = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_d5d.setTitle('"Ahora andan todos queriéndome, menos Massa me quieren todos", sostuvo la líder oficialista.');
+act_d5d.setSubtitle('De cara a 2017'); 
+act_d5d.setLinkBack('http://www.clarin.com/politica/Carrio-CC-ARI-Vidal-Larreta-PRO_0_1690031068.html');
+act_d5d.setDescription('A la cumbre de la fuerza de Lilita fueron dirigentes de todos los partidos que integran Cambiemos. Macri mandó a Vidal, Larreta y sus máximos referentes. Video.');
+act_d5d.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Carrio-CC-ARI-Vidal-Larreta-PRO_0_1690031068.html');
+
+var showShareBarUI_params_d5d=
+{ 
+containerID: 'shareQuote_d5d',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_d5d,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_d5d
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_d5d);
+ "Hace un año nadie creía en Cambiemos y ganamos en una elección que tuvimos que pelear hasta las 5 de la mañana.  Sabíamos que iba a ganar María Eugenia porque las mujeres de la provincia no podían votar por la droga que iba a condenar a sus hijos", analizó. "Nuestro rol, el de la CC-ARI, es el de decir que el camino del atajo nos lleva a la Argentina vieja, nuestro rol es ir al camino de la República", sentenció. "La batalla con Anibal la voy a seguir de por vida", expresó. Si bien la diputada nacional, aliada a Cambiemos, reconoció que en el país "falta mucho todavía", se mostró "tranquila" con su labor en la actividad política. Sobre su futuro político: "Ojalá no tenga que llegar al Senado, imaginate si me tocaba Boudou como presidente, le tiro una molotov", dijo dando a entender que se siente más cómoda en Diputados. Aunque enseguida deslizó que podría ser candidata a la Cámara Alta por la Ciudad.
+
+El presidente Mauricio Macri había sido el principal invitado al cónclave, tras una semana en la que Carrió volvió a mostrar su diferencias con el Ejecutivo. Pero participaron dos de los máximos exponentes del PRO: Vidal y Rodríguez Larreta. También fueron invitados al encuentro, en el que se celebrarán los 15 años de existencia de la Coalición Civica, la vicepresidenta Gabriela Michetti; el jefe de Gabinete, Marcos Peña; los ministros Alfonso Prat Gay, Carolina Stanley y Rogelio Frigerio; el dirigente radical y vicegobernador bonaerense, Daniel Salvador; el titular de la Cámara de Diputados, Emilio Monzó; y el presidente de la UCR, José Corral, entre otros referentes. ¡Felices 15 años a la CC-Ari! ¡Gracias por su inigualable aporte a la política argentina! #15AnosCCARI @elisacarrio— Gabriela Michetti (@gabimichetti) 19 de noviembre de 2016
+ Hace unos meses, Vidal se movilizó en helicóptero hasta la casa de la diputada nacional en Exaltación de la Cruz, luego de que Carrió vinculara al jefe de la Policía Bonaerense con el narcotráfico. Hoy, después de participar del Consejo Nacional de Mujeres del PRO en el Club Sarmiento de la localidad bonaerense de Tres de Febrero, la gobernadora puso rumbo hacia Santa Fe para un nuevo encuentro con Lilita. 
+
+
+"A Lorenzetti y Aníbal los voy a seguir de por vida", lanzó Lilita.
+
+
+
+
+
+var act_51a = new gigya.socialize.UserAction();
+
+var emailBodyCustom_51a = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_51a.setTitle('"A Lorenzetti y Aníbal los voy a seguir de por vida", lanzó Lilita.');
+act_51a.setSubtitle('De cara a 2017'); 
+act_51a.setLinkBack('http://www.clarin.com/politica/Carrio-CC-ARI-Vidal-Larreta-PRO_0_1690031068.html');
+act_51a.setDescription('A la cumbre de la fuerza de Lilita fueron dirigentes de todos los partidos que integran Cambiemos. Macri mandó a Vidal, Larreta y sus máximos referentes. Video.');
+act_51a.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Carrio-CC-ARI-Vidal-Larreta-PRO_0_1690031068.html');
+
+var showShareBarUI_params_51a=
+{ 
+containerID: 'shareQuote_51a',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_51a,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_51a
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_51a);
+ Más allá de haber invitado a Macri, esta semana Carrió machacó en la reunión de la Comisión de Relaciones Exteriores de la Cámara de Diputados que preside: “Detesto que el Poder Ejecutivo haga todo y nosotros vengamos sólo a ratificar”. El ácido comentario llegó días después del encuentro que mantuvo la líder de la CC-ARI con el Presidente en la residencia de Olivos. Ahora, en una fecha especial para su fuerza, aparecerá en la foto rodeada de referentes del PRO.
+
+El congreso de la CC-ARI, en el que participaron dirigentes de todos los partidos políticos que integran el frente Cambiemos, se organizó a pocos kilómetros de localidad de La Emilia, donde hace 15 años se realizó el acto fundacional del ARI. Mirá también: Video: el desopilante festejo de Carrió por los 15 años de la CC-ARI
+
+En la jornada eligieron a las nuevas autoridades de la Mesa Nacional CC-ARI, y se comenzaban a delinear los primeros trazos de la estrategia electoral de esa fuerza de cara a las legislativas de 2017. En las elecciones pasadas, fue con listas propias en la primaria de Cambiemos. Trascendió además que se difundirá una carta abierta en la que se resaltará la labor de Carrió como diputada nacional y su lucha contra la corrupción durante los últimos años.

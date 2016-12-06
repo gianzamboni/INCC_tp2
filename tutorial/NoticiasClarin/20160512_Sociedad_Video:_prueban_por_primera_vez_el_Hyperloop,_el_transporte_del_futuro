@@ -1,0 +1,28 @@
+
+ El futuro del transporte comenzó tal vez a tomar forma en el desierto estadounidense, con el primer ensayo público de un sistema de propulsión que haría funcionar un proyecto futurista de tren de alta velocidad, el “Hyperloop”.
+
+El primer ensayo, en el desierto de Nevada (EFE)  Frente a un grupo de invitados sentados en gradas, una especie de trineo se deslizó a lo largo de una pequeña vía instalada en el desierto, cerca de Las Vegas, en el oeste de Estados Unidos, antes de frenar y detenerse en un lecho de arena y una nube de polvo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ En el futuro, el sistema probado por la emergente empresa estadounidense Hyperloop One deberá propulsar cápsulas que transporten pasajeros o mercancía en almohadones de aire en un tubo a baja presión, lo que les permitiría recorrer en 30 minutos los cerca de 600 kilómetros que separan Los Angeles de San Francisco. Mirá también: El tren que viajará a 1.000 km/2 podría estar funcionando en sólo dos años  La idea de Hyperloop, considerada por algunos como ciencia ficción, se basa en una tecnología de propulsión, que involucra contenedores en levitación que utilizan magnetos y electricidad para trasladarse en un ambiente de baja fricción a más de 1.126 kilómetros por hora. Fue lanzada hace tres años por el multimillonario estadounidense Elon Musk, que también está detrás de los vehículos eléctricos Tesla y de la sociedad aeroespacial SpaceX. Pero como Musk estaba ocupado construyendo sus empresas de autos eléctricos y azoteas solares, la ofreció a quien quisiera llevarla a la práctica. Mirá también: Quién es Elon Musk, el visionario que quiere cambiar los autos y los cohetes  “Es un momento significativo para nosotros como equipo”, señaló el cofundador de Hyperloop One, Shervin Pishevar, ante el público sentado frente al carril eléctrico. “Estamos en terreno sagrado para nosotros. El equipo trabajó increíblemente duro para llegar a lo que llamamos ‘la muestra de nuestra Kitty Hawk’”, dijo Pishevar en referencia al pueblo de Carolina del Norte donde los hermanos Wright hicieron volar el primer avión propulsado en 1903.
+
+El Hyperloop, en acción durante el testeo (EFE)  “El objetivo de este ensayo no es solamente desplazar el trineo”, comentó Brogan BamBrogan, otro de los confundadores de Hyperloop One. “Es concebir un sistema de aceleración que pueda llevar pasajeros y mercancías, y así bajar los costos” para permitir la utilización de esta potencial tecnología en el mundo entero.
+
+Brogan BamBrogan, cofundador de Hyperloop One (Reuters)  BamBrogan explicó que el trineo evolucionaría hacia una especie de chasis para las cápsulas, capaz de acelerar a 640 km/h en pocos segundos, con la idea a largo plazo de llegar a velocidades casi supersónicas.  “Usted no sentirá mas aceleración que la de un avión que despega”, agregó BamBrogan. Luego de la aceleración, la cápsula se deslizará en largas distancias, y asegurará así un transporte tranquilo y un bajo consumo de energía, aseguró. La compañía emergente prometió un ensayo a escala y velocidad reales en un tubo de dos kilómetros de acá a fin de año, en este mismo desierto.  Hubo también otras promesas, como la de Rob Lloyd, director ejecutivo de Hyperloop One: “Estaremos trasladando mercancía en 2019, y transportando pasajeros de forma segura en un Hyperloop en 2021”.
+
+Los periodistas, testigos del ensayo (Reuter)  Un día antes del ensayo, la compañía anunció inversiones de 80 millones de dólares de distintas compañías, entre ellas la estatal francesa SNCF, muy activa en el transporte de alta velocidad en Europa, y de GE Ventures, rama de inversiones del conglomerado estadounidense General Electric. De hecho, Hyperloop One ya cuenta alianzas con especialistas del sector como la francesa Systra (filial de la SNCF) o la alemana Deutsche Bahn Engineering and Consulting. Mirá también: La empresa Space X enviará una nave a Marte en solo dos años  Tan segura está la compañía del avance del proyecto que pidió a empresas, gobiernos, ciudadanos y académicos en todo el mundo presentar propuestas de lugares donde podrían ser construidos los sistemas. “La competencia es un llamado a los más brillantes a nivel mundial a que nos den ideas”, dijo Lloyd, en el lugar del ensayo, y aseguró que la empresa construirá el sistema en los sitios ganadores.
+
+Así transportaría pasajeros el Hyperloop (AP)  “Creo que esto hará al mundo físico lo que Internet hizo al mundo digital”, dijo Andrew Liu, vicepresidente de la multinacional de ingeniería AECOM, otra de las firmas colaboradoras de Hyperloop One.  Fuente: Agencias

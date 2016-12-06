@@ -1,0 +1,18 @@
+
+La Asociación de Entidades Periodísticas Argentinas (ADEPA) condenó la demostración de intolerancia y violencia verbal ejercida por el exfuncionario Guillermo Moreno en el programa Zona de Investigaciones, de Canal 9.  "Adepa transmite su solidaridad con Martín Tetaz. A la vez, advierte y hace un llamado público a la tolerancia y el respeto", dice el comunicado difundido al mediodía del jueves. Mirá también: Moreno insultó a un economista que le preguntó por la inflación: "Con este idiota no hablo" Además, narra los hechos que se sucedieron a partir del entredicho entre el economista y el exsecretario de Comercio. En una grave demostración de intolerancia y violencia verbal, el exsecretario de Comercio de la Nación Guillermo Moreno insultó al economista Martín Tetaz durante la emisión de ayer del ciclo Zona de Investigaciones, que se emite por Canal 9 de la ciudad de Buenos Aires. Adoptó esa antidemocrática actitud ante una serie de preguntas que el panelista le hacía en relación con los índices de inflación registrados durante los gobiernos kirchneristas. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ "Con este idiota no hablo más", dijo el exfuncionario a los gritos cuando el economista le preguntó por qué si la inflación anual durante el gobierno de Cristina Fernández era del 10 por ciento, el sueldo del propio Moreno, el de la presidenta y el de la mayoría de los trabajadores crecían al 30 por ciento, lo mismo que los subsidios a la energía. Mirá también: Silvia Fernández Barrio, dura con Guillermo Moreno tras el escándalo  Ante la insistencia de Tetaz con sus preguntas, Moreno se puso de pie para increparlo y además le pidió –también a los gritos- a las conductoras del ciclo, Silvia Fernández Barrio y Mercedes Mendoza, que echaran al economista del estudio donde se emitía el programa en vivo.  En un principio, Tetaz se paró para retirarse, pero luego Fernández Barrio lo llamó para que se volviera a sentar y siguiera participando del programa, a pesar de que Moreno continuaba gritando y pidiendo que no hablara.  La Asociación de Entidades Periodísticas Argentinas (Adepa) transmite su solidaridad con Martín Tetaz. A la vez, advierte y hace un llamado público a la tolerancia y el respeto, especialmente de aquellos dirigentes políticos cuyas acciones verbales, difundidas en los medios y que repercuten en las redes sociales, pueden desencadenar luego hechos de violencia física, como ya sucedió en varias oportunidades.  En momentos en que el país ha retomado la senda del diálogo y el ejercicio de las libertades de expresión y de prensa sin represalias, es lamentable que sucedan esta clase de hechos que nos retrotraen al clima que se vivía antes del 10 de diciembre de 2015.

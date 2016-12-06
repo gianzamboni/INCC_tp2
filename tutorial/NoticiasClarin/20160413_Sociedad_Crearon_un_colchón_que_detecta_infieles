@@ -1,0 +1,20 @@
+
+Cuando parecía que todo estaba inventado, llegó el colchón "inteligente" que detecta infidelidades. El curioso invento fue presentado hoy por una empresa española. A través de sensores ultrasónicos, descubre la "trampa" y envía una alerta al móvil del engañado. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Según lo difundido por la agencia ANSA, la compañía Durmet se decidió a fabricar este colchón ante los resultados de las estadísticas que señalan que los españoles son los europeos más infieles y que el 94% de los que engañan a sus parejas prefieren consumar su deseo en la intimidad del propio dormitorio. Mirá también: Las argentinas son las más infieles de América Latina ¿Cómo funciona? Tiene sensores de vibración en los muelles y un detector de zonas de contacto que perciben la actividad sexual que sucede en la superficie. En declaraciones a EFE, Iván Miranda, ingeniero de Durmet, explicó que los sensores con los que cuenta el Lover Detection System "miden el tiempo que tarda en viajar el sonido" para, así, detectar los cambios de presión sobre el colchón.
+
+(Un ejemplar del colchón, durante la presentación a los medios. EFE) Luego, mediante una aplicación que se instala en el celular, el colchón envía una alerta. "Si alguien usa tu cama de manera 'sospechosa', te avisa", informa el video oficial publicado en YouTube. Pero eso no es todo. El mensaje que llega al smartphone incluye también detalles de la relación con el amante: duración del encuentro, intensidad e impactos por minuto. Mirá también: Chau ronquidos: nuevo dispositivo promete silenciarlos El Smarttress, que es como se llama este colchón inteligente, fue presentado hoy en Madrid con motivo del Día Internacional del Beso. Una insólita manera de festejar.

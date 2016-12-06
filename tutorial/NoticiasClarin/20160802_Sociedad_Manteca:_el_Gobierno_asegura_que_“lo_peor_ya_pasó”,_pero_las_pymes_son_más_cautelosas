@@ -1,0 +1,38 @@
+
+La falta de manteca es una realidad que se puede ver en cualquier góndola, ya sea de hipermercado, supermercado de grandes cadenas o chino, también en los almacenes. Y los precios a los que se consigue, es cada vez mayor.  
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_jl6zdqyr",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_jl6zdqyr"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_jl6zdqyr").after(scriptEl);
+  Desde el Gobierno, el subsecretario de lechería del Ministerio de Agroindustria, Alejandro Sanmartino, aseguró que “lo peor ya pasó y vamos hacia un normal abastecimiento del producto”. “Está faltando manteca en las góndolas, pero lo peor ya pasó. El faltante es consecuencia de la caída estacional de producción, la crisis climática de Córdoba y Santa Fe y el aumento del consumo de manteca (característico en invierno)”, explicó el funcionario. Tras las palabras de ayer del ministro de Agroindustria, Ricardo Buryaile, quien atribuyó la falta de manteca en las góndolas a "decisiones empresariales" de "hacer queso, porque permite más margen de rentabilidad", Sanmartino dijo que en ralidad "la manteca es un subproducto, no un producto directo (como el queso)”. “Cuando hay más escasez en el invierno se destina más leche a productos enteros, menos descremados con lo cual siempre falta grasa para hacer manteca o crema. Esta tirantez normal, se agravó por la caída en la producción por las inundaciones. Es todo un paquete de cosas que llevó a este desabastecimiento”, explicó.  Y admitió que ante estas situaciones de alta demanda y baja oferta disponible "siempre hay especualción con los precios. El consumidor tiene que saber que se va a normalizar. Puede haber sectores comerciales que suban el precio más de la cuenta, pero también está en el consumidor defenderse y con la seguridad y determinación de un gobierno que va a asegurar el abastecimiento de manteca", añadió. Sin embargo, desde las pymes del sector no coinciden con este pronóstico y son un poco más cautelosos: la situación mejorará recién hacia la primavera.  
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_zs2jazz0",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_zs2jazz0"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_zs2jazz0").after(scriptEl);
+ Pablo Villano, presidente de la Asociación de Pequeñas y Medianas Empresas Lácteas (Apymel), explicó hoy que la conjunción de inundaciones en provincias lecheras y un desaliento a la producción provocó el faltante de manteca, situación que persistirá por lo menos durante "agosto". “Yo creo que el faltante se va a manifestar en este mes”, añadió. “Para normalizar la producción de leche hay que esperar a que se alarguen los días, que crezca el pasto, las vacas se alimenten mejor y den más leche”, añadió Villano. Ahora, el directivo de la Apymel puntualizó que "hubo una baja en la producción importante de leche, por diferentes motivos, el principal las inundaciones en dos provincias lecheras como Santa Fe y Córdoba, de las que no se recuperaron, y un desaliento en el precio de la producción del litro de leche".  "Nos falta todavía pasar este mes, donde va a haber un faltante, porque la misma leche hay que destinarla a otros productos, como el queso cremoso, que ante la inflación que hay, es el que más se consume", dijo al canal TN.  

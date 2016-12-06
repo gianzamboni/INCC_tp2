@@ -1,0 +1,68 @@
+
+Viviana Fein habló tras presentar su renuncia al cargo de fiscal. La funcionaria que instruyó la causa por la muerte del fiscal Alberto NIsman dijo que “dejé mis causas listas y dije misión cumplida, a emprender una nueva vida”. La mujer que fue señalada por el polémico procedimiento en el departamento de Nisman la madrugada de su muerte aseguró que “no hay elementos que permita la certeza para un dictamen”. Mirá también: Renunció Fein, la fiscal que no pudo esclarecer la muerte de Nisman “Se habló de contaminación de la escena antes y durante mi presencia. Dejé asentados tres detalles por ese tema”, aseveró y dijo que “no hubo terceras personas en ese departamento” aunque dudó: “No puedo probarlo de manera categórica”. 
+
+
+"Ojalá apareciera una prueba de que alguien entró y lo mató. No pasó. La querella unidireccionó la acusación por ese lado", dijo por FM Vorterix.
+
+
+
+
+
+var act_551 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_551 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_551.setTitle('&quot;Ojal&aacute; apareciera una prueba de que alguien entr&oacute; y lo mat&oacute;. No pas&oacute;. La querella unidireccion&oacute; la acusaci&oacute;n por ese lado&quot;, dijo por FM Vorterix.');
+act_551.setSubtitle('LA MUERTE DEL FISCAL'); 
+act_551.setLinkBack('http://www.clarin.com/politica/Fein-renuncia-Nisman-Lagomarsino-yCarrio_0_1562243801.html');
+act_551.setDescription('La fiscal que instruy&oacute; la causa del ex fiscal dijo que &ldquo;ojal&aacute; apareciera una prueba de que alguien entr&oacute; y lo mat&oacute; pero no pas&oacute;&rdquo;.&nbsp;');
+act_551.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Fein-renuncia-Nisman-Lagomarsino-yCarrio_0_1562243801.html');
+
+var showShareBarUI_params_551=
+{ 
+containerID: 'shareQuote_551',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_551,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_551
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_551);
+ Agregó que “nunca se unidireccionó la investigación. Hubo 160 testimonios. Una línea fue la de Carrió, el grupo de iraníes en Buquebus”. La diputada de Cambiemos había denunciado el movimiento de un grupo de iraníes entre Uruguay y Argentina, cerca de la fecha de la muerte del fiscal especial por AMIA. Mirá también: Un equipo de fiscales investigará la muerte de Nisman Fein defendió su trabajo y negó influencias de la procuradora Alejandra Gils Carbó:  "En ningún momento fui presionada y actué con toda la libertad del mundo". Cuestionó a Sandra Arroyo Salgado, ex esposa de Nisman, al decir que “el objetivo de la querella era claramente que se pasara la causa al fuero federal”.  Y habló del espía informático que trabaja con el fiscal: “A Lagomarsino se le imputó desde el principio la facilitación del arma, las coartadas fueron chequeadas. Cuando Lagomarsino dejó el departamento Nisman estaba vivo, se comunicó con su guardia”. Aseguró: “Hoy no hay una sola prueba que permita hablar de homicidio". Y finalizó: “Creo en Dios, le pido al Supremo que se sepa la verdad y la familia tenga paz”, dijo Fein por Vorterix. La fiscal Viviana Fein, quien hasta diciembre pasado estuvo al frente de la investigación de la muerte de su colega Alberto Nisman, presentó su renuncia e inició los trámites para jubilarse. La Procuradora General de la Nación, Alejandra Gils Carbó, aceptó su dimisión a fines de la semana pasada, al tiempo que autorizó que un grupo de fiscales federales a cargo de Eduardo Taiano, lleve adelante la investigación sobre la muerte de Nisman, tras su traspaso a la justicia federal. Mirá también: En el peronismo ahora la pelea es por la lapicera Fein ya había anunciado que dejaría su cargo cuando terminara su actuación en la causa Nisman, de la cual fue desplazada por la jueza de Instrucción Fabiana Palmaghini, quien luego se declaró incompetente. En paralelo con el traspaso, Taiano recibió el encargo de formar un grupo especial de cuatro fiscales para investigar el caso. En el ámbito del Ministerio de Justicia, a su vez, se conformó una secretaría a cargo del ex senador radical Mario Cimadevilla con idéntico fin y para apoyar desde el gobierno la investigación sobre el atentado a la mutual judía de 1994.

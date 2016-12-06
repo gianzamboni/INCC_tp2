@@ -1,0 +1,72 @@
+
+La contaminación atmosférica se ha convertido en uno de los principales factores de riesgo de los accidentes cerebrovasculares (ACV), sobre todo en los países en desarrollo, según un estudio publicado hoy en la revista especializada The Lancet Neurology. Mirá también: Para la OMS, los porteños respiran partículas peligrosas "Nos ha sorprendido descubrir que una proporción asombrosamente alta de la carga de los ACV se podría atribuir a la contaminación atmosférica, en particular en los países en desarrollo", subraya el profesor Valery L. Feigin, de la Universidad Tecnológica de Auckland (Australia), que dirigió el estudio.
+
+Estación de Monitoreo de aire en la ciudad de Buenos Aires, en Córdoba y Rodríguez Peña / GERMAN GARCIA ADRASTI El estudio realizado en 188 países entre 1990 y 2013 se centró en la "carga" de la enfermedad, es decir el número de días perdidos por una mortalidad prematura y años de vida productivos perdidos debido a incapacidades. Mirá también: Londres: medirán la contaminación del aire con palomas conectadas a Twitter Al pasar revista a 17 factores de riesgo, los científicos descubrieron que un 90% de la "carga" de los ACV se podían achacar a factores de riesgo modificables, esencialmente factores de riesgo comportamentales como el tabaquismo, una mala alimentación o el sedentarismo. Todos los años en el mundo, unos 15 millones de personas se ven afectados por un ACV, seis millones mueren y 5 millones sobreviven con hándicaps permanentes. Mirá también: El smog pone freno a los autos en varias ciudades de Italia Los principales factores de riesgo son conocidos, aunque se pueden dar diferencias según los países: la hipertensión, una alimentación pobre en fruta y verdura, la obesidad, el sedentarismo, el tabaco o una alimentación demasiado rica en azúcar o sal. 
+
+
+Todos los años en el mundo, unos 15 millones de personas se ven afectados por un ACV, seis millones mueren y 5 millones sobreviven con hándicaps permanentes.
+
+
+
+
+
+var act_b34 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_b34 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_b34.setTitle('Todos los años en el mundo, unos 15 millones de personas se ven afectados por un ACV, seis millones mueren y 5 millones sobreviven con hándicaps permanentes.');
+act_b34.setSubtitle('Lo afirma un nuevo estudio científico'); 
+act_b34.setLinkBack('http://www.clarin.com/sociedad/contaminacion-principales-factores-riesgo-ACV_0_1592840829.html');
+act_b34.setDescription('Los cient&iacute;ficos descubrieron que en unos 20 a&ntilde;os, el papel de la contaminaci&oacute;n atmosf&eacute;rica ha aumentado sensiblemente. Se porduce, sobre todo, en los pa&iacute;ses en desarrollo.');
+act_b34.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/contaminacion-principales-factores-riesgo-ACV_0_1592840829.html');
+
+var showShareBarUI_params_b34=
+{ 
+containerID: 'shareQuote_b34',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_b34,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_b34
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_b34);
+ Los científicos han descubierto que en espacio de unos 20 años, el papel de la contaminación atmosférica ha aumentado sensiblemente. La parte atribuible a la contaminación se ha evaluado en un 33,7% en los países con ingresos bajos y medios, contra sólo un 10,2% en los países de altos ingresos en 2013, en fuerte alza desde 1990.
+
+En Asia del sur y África subsahariana, esa parte alcanza incluso un 40%, sobre todo por la contaminación del aire interior debida al uso de combustibles sólidos para calentarse o cocinar. Más allá de la contaminación, varios factores más de riesgo desempeñan un papel creciente en los ACV a nivel mundial, como es el caso sobre todo de la obesidad y el sedentarismo. Los consumos de bebidas azucaradas, por su parte, ha aumentado un 84% y supone un aumento del 63% del riesgo por este factor. Mirá también: Cómo está Chernobyl 30 años después Con un control de los factores de riesgo evitables ligados al modo de vida "se podrían evitar tres cuartas partes de los ACV en el mundo", estima Feigin, que insta a los Gobiernos a actuar tasando o legislando sobre el tabaco, alcohol, bebidas azucaradas o grasas naturales. "Es necesario reconocer la necesidad de mejorar la prevención primaria y la voluntad de los gobiernos", prosigue. En un comentario que acompaña el artículo, el profesor Vladimir Hachinski, de la universidad canadiense de Western Ontario, y Mahmud Reza Azarpazhooh, de Mashhad (Irán) consideran "muy alarmante" el papel de la contaminación" en los ACV. "Sabíamos que la contaminación puede dañar los pulmones, el corazón, el cerebro, pero la magnitud de esta amenaza parece haberse subestimado", añaden. Fuente: AFP

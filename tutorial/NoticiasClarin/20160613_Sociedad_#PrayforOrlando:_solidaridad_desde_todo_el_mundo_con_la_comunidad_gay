@@ -1,0 +1,156 @@
+
+Edificios iluminados, como la Torre Eiffel, marchas en ciudades como Londres o Sidney, y una fuerte reacción en las redes sociales fueron las muestras de solidaridad con la comunidad homosexual este lunes, un día después de la matanza en un club gay de Orlando.
+
+“París está con Orlando. Esta noche, la Torre Eiffel se iluminará con los colores LGBT”, anunció en Twitter la alcaldesa de la capital francesa, Anne Hidalgo. “Queremos mostrar nuestra resolución de no callarse, de vivir, y de luchar contra los oscurantistas y el terrorismo”, explicó. El mismo sentimiento se extendía en Londres, Hong Kong o incluso Bangkok y Seúl, donde se esperaban concentraciones durante el día en homenaje a las víctimas de la peor matanza de la historia de Estados Unidos, reivindicada por el grupo yihadista Estado Islámico (EI). Mirá también: Edificios de luto e iluminados por la bandera gay
+
+Homenaje en las puertas de la Embajada estadounidense en Bangkok, Tailandia (EFE)  El tiroteo sucedió horas antes de que se hiciera la marcha del orgullo gay en Washington y otras ciudades de Estados Unidos. En Los Angeles, nuevamente el horror: la Policía de la ciudad de Santa Mónica detuvo a un hombre con armas de asalto y posibles explosivos que planeaba ir al desfile. "La comunidad de gays, lesbianas, transexuales y bisexuales (LGTB) debe seguir reafirmándose para luchar contra la homofobia y poner fin a tragedias como el tiroteo de Orlando", dijo la activista Kelly Knoxx.
+
+La marcha del orgullo gay en Washington  De manera espontánea, pequeñas concentraciones tuvieron lugar el domingo por la noche en París, Madrid, Guadalajara en México y por supuesto en Orlando, donde cerca de 300 personas rezaron y cantaron en memoria de las víctimas. En solidaridad con la comunidad homosexual, el puente del puerto de Sidney fue adornado con los colores del arcoiris y los berlineses dejaron flores como homenaje en la puerta de Brandenburgo. Mirá también: Masacre en Orlando: "Mamá, te amo, están disparando en el boliche" Los dirigentes del mundo entero condenaron un “acto de terror y de odio”, según las palabras del presidente estadounidense Barack Obama, y un “crimen bárbaro”, según su homólogo ruso Vladimir Putin. El primer ministro británico David Cameron se mostró “horrorizado” y el papa Francisco repudió “esta nueva manifestación (...) de un odio sin sentido”. “A pesar de la “tristeza (...) estamos firmemente decididos a continuar con nuestra vida abierta y tolerante”, señaló la canciller alemana Angela Merkel en China, donde se encuentra de visita.
+
+El ayuntamiento de París, con la bandera del arcoiris En las redes sociales, se convirtieron en trending topic los hashtags #PrayforOrlando (recen por Orlando), #LoveisLove (el amor es amor) y #LoveWins (el amor gana), que se popularizó luego de que la Corte Suprema de Estados Unidos aprobara en 2015 el matrimonio entre personas del mismo sexo. Mirá también: Para el padre del atacante, "Dios en persona castigará a los homosexuales" Los internautas quisieron rendir su homenaje publicando mensajes “contra la homofobia”, recurriendo a los colores de la bandera del arcoiris, y posteando y fotos de hombres o mujeres besándose. Pero las redes sociales, que apenas consiguen filtrar los contenidos homófobos, estaban llenas de ambigüedades este lunes. “Acabo de leer #jesuisgay... no cuentes conmigo, hermano”, tuiteaba por ejemplo una joven. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ismaelalvarez/status/742020303799324674",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_74202030379932467")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+     💔💛💚💙💜 Una foto publicada por Lane's Mommy and Daddy (@ferdalump) el 12 de Jun de 2016 a la(s) 6:14 PDT
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/SocratesSerrano/status/742186293216575488",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_74218629321657548")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Please be kind to each other. Spread love, not hate. All our lives are so precious.  #PrayForOrlando @OrlandoPolice pic.twitter.com/PtUEFOnQZb— Graham Lake (@graham_lake) 12 de junio de 2016
+  El cantante Ricky Martin fue uno de los que primero se solidarizó vía Twitter. Habló del amor, los crímenes de odio y reclamó por el control de armas. Tuvo miles de retuits y adhesiones. “Soy gay y no tengo miedo. El amor conquista todo”, posteó Ricky en inglés también con el hashtag #PrayforOrlando. Más tarde, el músico puertorriqueño escribió dos mensajes en español. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ricky_martin/status/742037063625637888",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_74203706362563788")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ricky_martin/status/742073485992820741",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_74207348599282074")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ricky_martin/status/742271606467235840",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_74227160646723584")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ En nuestro país, el repudio tuvo varias voces. La Federación Argentina de Lesbianas, Gays, Trans y Bisexuales (FALGTB) "recuerda a la comunidad que las personas LGBT sufren la más extrema violencia y discriminación cotidiana en numerosos países del mundo y son objeto de todos los fundamentalismos religiosos que alimentan esa violencia, con declaraciones y acciones discriminatorias, estigmatizantes y violentas", informó en un comunicado. Por su parte, la Comunidad Homosexual Argentina (CHA) "se solidariza con las víctimas y sus familiares y se suma al rechazo internacional por este claro ataque homofóbico y xenófobo sucedido en Estados Unidos", publicó en su sitio web.   Famosos y dirigentes de la comunidad locales también se sumaron en Twitter a los homenajes.  Mirá también: El atacante trabajó en una empresa de seguridad con vínculos con el Gobierno 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ronaldo1ro/status/742060006003085312",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_74206000600308531")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/sanmihanovich/status/742152811320889344",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_74215281132088934")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/sanmihanovich/status/742135717980196864",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_74213571798019686")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/karinakactriz/status/742013416769003520",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_74201341676900352")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

@@ -1,0 +1,34 @@
+
+Resolver un cubo de Rubik es, para muchos, una misión imposible. Imaginemos solucionar tres al mismo tiempo, en solo 20 segundos, mientras se hacen malabares. Un video sugiere que existe alguien en el mundo capaz de lograrlo. Fue subido a YouTube por un joven que, ya desde su nombre, demuestra su fanatismo por este juego: se presenta como RuboCubo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Muchos espectadores opinan que es imposible de lograr y que el video está trucado. Dicen que las imágenes están reproducidas "marcha atrás" y que este hombre empezó con los cubos ya armados, para luego desarmarlos en el aire. RuboCubo se defiende: "Algunos comentarios son muy graciosos. No invertí el video. ¿Nadie descargó el video y lo reprodujo en reversa para comprobar si se ve más o menos natural? Me imagino que se vería muy raro visto en reversa", asegura. Mirá también: Un robot resolvió el cubo Rubik en apenas 887 milisegundos Créase o no, al parecer RuboCubo no fue el único que mostró esta hazaña en un clip. En 2013, un malabarista demostró --mediante una cámara subjetiva-- sus habilidades para armar tres cubos a la vez. Eso sí: cumplir el objetivo le llevó bastante más tiempo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El cubo mágico o de Rubik tiene seis caras cubiertas por pegatinas de seis colores. Las caras se giran y los colores se mezclan. Para resolverlo, cada cara debe volver a consistir en un solo color. En mayo del 2014 cumplió 40 años y ya está considerado como un objeto de culto, incluso para los centros artísticos: el Museo de Arte Moderno de Nueva York (Moma) adquirió y expuso un ejemplar, lo mismo que el Museo de Artes Aplicadas de Budapest (IMM). Mirá también: Video: el cubo mágico más grande y difícil del mundo Durante años, la solución parecía estar en un mínimo de 18 movimientos, aunque no había certeza respecto a la cifra definitiva. Pero hace cuatro años, investigadores de la Universidad de Kent State, en Ohio, anunciaron, gracias a la colaboración de Google, que el número "final" es 20 movimientos, ni uno más.

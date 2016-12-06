@@ -1,0 +1,70 @@
+
+Esta mañana, la canciller Susana Malcorra puso la pelota del lado del Presidente cuando le preguntaron si iba a competir por la secretaría general de las Naciones Unidas. "Es una decisión que depende de Mauricio Macri", aseguró en dilálogo  con La Once Diez. 
+
+
+“Mi postulación en la ONU depende de la decisión de Macri” afirmó la ministra en el programa de radio “Arriba Juan”, de la Once Diez.
+
+
+
+
+
+var act_817 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_817 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_817.setTitle('“Mi postulación en la ONU depende de la decisión de Macri” afirmó la ministra&nbsp;en el programa de radio “Arriba Juan”, de la Once Diez.');
+act_817.setSubtitle('El futuro de la canciller argentina'); 
+act_817.setLinkBack('http://www.clarin.com/politica/Malcorra-espera-Macri-candidatearse-ONU_0_1570642950.html');
+act_817.setDescription('La pulseada por suceder al secretario general Ban ki Moon ya empezó. La ministra argentina es una de las precandidatas');
+act_817.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Malcorra-espera-Macri-candidatearse-ONU_0_1570642950.html');
+
+var showShareBarUI_params_817=
+{ 
+containerID: 'shareQuote_817',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_817,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_817
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_817);
+ Pero en realidad, la postulación de la canciller a suceder al coreano Ban Ki Moon, que estará al frente de la secretaría general de la ONU hasta fin de diciembre, es ya casi un hecho. Hoy, después de comparecer en el Senado sobre la política exterior argentina Malcorra emprenderá viaje a Washington, donde entre mañana y pasado el Consejo Permanente de la Organización de Estados Americanos debatirá el caso Venezuela. Argentina preside el Consejo. Pero, después, y antes de emprender viaje a Londres, Beirut, Beijing y México DF, Malcorra pasará por Nueva York. Si bien el representante ante la misión de la ONU, el embajador Martín García Moritán prepara los detalles de la participación argentina en una reunión de paz y seguridad, la canciller argentina pule los detalles de cómo será su postulación. Clarín sabe que ya la tiene decidida y que, además, goza para ello de la simpatía de Macri, con quien habló en las última horas.
+
+El proceso de selección del nuevo secretario es una ardua batalla global, política y económica que ya comenzó. Pero según sabe este diario “Susy”, como le dicen en el exterior sus ex colegas ya goza de simpatías de los cinco permanentes del Consejo de Seguridad: Estados Unidos, Rusia, China, Francia Gran Bretaña. Una de las ventajas para Malcorra es que hay un consenso generalizado de que el próximo secretario general sea mujer. Pero eso no es todo. Por la “lógica” geopolítica, el puesto correspondía a una figura de Europa del Este. La lista de “potenciales es de tres: la búlgara Irina Bokova -directora general de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura-; la canciller croata Vesna Pusić; y, la canciller moldava Natalia Gherman. Bokova es una de las candidatas más fuertes aunque también apareció la neozelandesa, ex primera ministra y actual administradora del Programa de las Naciones Unidas para el Desarrollo, Helen Clark. Bokova ya se presentó a esta carrera donde debería haber aval ruso, y eso es lo que le abre camino y fuerte a Susana Malcorra, un peso pesado también en la ONU, donde su último puesto fue de jefa de Gabinete del propio Ban Ki Moon. Hoy, también refirió a otros temas. “La política exterior tiene que estar basada en la prioridad de los intereses de la Argentina”, señaló y sobre la relación con el Reino Unido afirmó: “Tenemos una agenda amplia pero obviamente tenemos una cuestión que nos separa que es el tema Malvinas”, señaló a La Once Diez. Si se postula a la secretaría general, en el país empieza la jugada de su sucesión prematura como canciller.

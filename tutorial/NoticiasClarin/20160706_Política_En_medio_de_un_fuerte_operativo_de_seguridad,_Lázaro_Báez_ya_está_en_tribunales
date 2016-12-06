@@ -1,0 +1,68 @@
+
+Los tribunales federales de Comodoro Py, situados en el barrio porteño de Retiro, amanecieron hoy con un doble vallado en el frente del edificio y un importante operativo de seguridad debido a la jornada de indagatorias prevista para la jornada. 
+
+
+Poco antes de las 8 de la mañana, el empresario Lázaro Báez ingresó al edificio de los tribunales de Retiro.
+
+
+
+
+
+var act_026 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_026 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_026.setTitle('Poco antes de las 8 de la mañana, el empresario Lázaro Báez ingresó al edificio de los tribunales de Retiro.');
+act_026.setSubtitle('CORRUPCIÓN K'); 
+act_026.setLinkBack('http://www.clarin.com/politica/operativo-seguridad-Lazaro-Baez-tribunales_0_1608439157.html');
+act_026.setDescription('El edificio de los juzgados federales de Comodoro Py tienen hoy doble vallado y un importante despliegue de seguridad por la jornada de indagatorias. A las 11 va Cristina');
+act_026.addActionLink('VER MÁS', 'http://www.clarin.com/politica/operativo-seguridad-Lazaro-Baez-tribunales_0_1608439157.html');
+
+var showShareBarUI_params_026=
+{ 
+containerID: 'shareQuote_026',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_026,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_026
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_026);
+ Y también fue trasladado, junto al empresario kirchnerista, su contador Daniel Pérez Gadin. Para las 10 está citado el financista Ibar Pérez Corradi, quien ayer fue extraditado desde Paraguay, en la causa por el triple crimen de General Rodríguez, ante la jueza María Servini de Cubría. Mirá también: Dos mujeres le hacen un favor a Macri A la misma hora irán el empresario kirchnerista Lázaro Báez, junto a su contador Daniel Pérez Gadín (detenidos el 5 de abril) y el abogado Jorge Chueco, atrapado en Paraguay el 19 de abril, tras unos días prófugo. En este caso los indagará el juez Sebastián Casanello, que investiga la llamada "ruta del dinero K". A las 13, mientras tanto, pasará la ex presidenta Cristina Fernández para notificarse ante el juez Claudio Bonadio en la causa por la venta de dólares a futuro. Mirá también: Con dirigentes K, no autorizó actos pero si que la acompañen El mismo día del cumpleaños de su hija Florencia Kirchner, la ex jefa de Estado pidió que se postergue la audiencia, prevista en un primer momento para las 10, porque debía ir al médico. Esta mañana había un importante despliegue de fuerzas de seguridad en las adyacencias de Comodoro Py 2002 y se dispuso un doble vallado en el edificio.

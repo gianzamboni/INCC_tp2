@@ -1,0 +1,22 @@
+
+Más de 9.000 personas firmaron una petición en Change.org para cerrar temporalmente el canal de YouTube de Eugenia Cooney porque su imagen puede inducir a la anorexia. La iniciativa asegura que la joven influencer estadounidense de 22 años, que pesa poco más de 27 kilos y está visiblemente delgada, “sufre una seria condición médica y necesita buscar ayuda”. Mirá también: Un famoso youtuber se defiende 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+“Puede que no intente influenciar a sus seguidores intencionalmente (más de 870.000 personas están suscritas a su canal), pero no ayuda a las niñas con anorexia u otros problemas alimenticios al mostrar más del 50% de su cuerpo en los videos y fotos”, continúa la petición. Agrega que el público de Cooney tiene entre 12 y 21 años y ella está dando un "muy mal ejemplo" a un rango de edad proclive a sufrir trastornos alimenticios.     Hello guys hope you're having a good day ^-^ 💙 Una foto publicada por Eugenia Cooney (@eugeniacooney) el 24 de Ago de 2016 a la(s) 12:33 PDT
+ Mirá también: Quería ser youtuber y acumuló 101 mil euros de deuda con Google La youtuber quiso contestar a las críticas a través de un video. “Siento mucho que la gente esté molesta conmigo, no estoy tratando de hacer nada malo. Nunca intenté ser una mala influencia ni he incitado a los demás a que se parezcan a mi”, dice Cooney en su canal. "Desearía que la gente tuviera menos odio y fuera más positiva. Gracias, de todos modos, a la gente que se preocupó por mi. Estoy definitivamente bien y no estoy muerta ni nada por el estilo jajaja. ¡Los amo, chicos!", agrega la joven.       NEW VIDEO up on my YouTube channel! My favorites this month! ^-^ please go watch and give it a like if you enjoy 💖 LINK IN MY BIO Una foto publicada por Eugenia Cooney (@eugeniacooney) el 9 de Nov de 2015 a la(s) 1:14 PST
+ Según la Asociación Nacional de Desordenes Alimenticios (NEDA por sus siglas en ingles), en Estados Unidos 20 millones de mujeres y 10 millones de hombres sufren algún tipo de trastorno alimenticio clínicamente importante, entre los que se encuentran la anorexia y la bulimia.
+
+Mirá también: Un youtuber causó pánico en Barcelona Fuente: La Vanguardia

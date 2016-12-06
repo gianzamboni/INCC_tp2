@@ -1,0 +1,82 @@
+
+Franco Macri salió a acusar a los gobiernos kirchneristas por el crecimiento del narcotráfico en los últimos años en nuestro país y denunció una maniobra detrás de la decisión de quitarle a su empresa Socma la concesión del Correo Argentino, en 2003. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/FrancoMacri/status/722241517444853760",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72224151744485376")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ A través de su cuenta de Twitter, el empresario y padre del Presidente de la Nación se mostró indignado con las muertes de los jóvenes en la fiesta electrónica en Costa Salguero por la ingesta de drogas. Leé también: Siguen en grave estado los tres jóvenes internados en el Hospital Fernández 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/FrancoMacri/status/722240931911626752",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72224093191162675")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/FrancoMacri/status/722241107166380033",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72224110716638003")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El empresario recordó las declaraciones de varios funcionarios kirchneristas, entre ellos Aníbal Fernández, respecto a que "Argentina era un país de tránsito" y no de cocinas de drogas.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/FrancoMacri/status/722241297805918209",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_72224129780591820")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Esta mañana, al ser consultado respecto a los tuits de Franco Macri, el jefe de Gabinete sostuvo que respetan su "autonomía" a la hora de opinar. Leé también: Dólar futuro: Marcos Peña salió a cruzar fuertes a las acusaciones de la ex presidenta "Más allá de ser el padre del Presidente, él tiene que profundizar lo que ha dicho y presentar las pruebas a la Justicia de lo que está planteando", señaló Marcos Peña. Y concluyó que el Gobierno no tiene una opinión formada respecto a las denuncias del empresario, sobre la gestión kirchnerista. Leé también: Ahora Casanello apunta a "una estructura delictiva internacional" de lavado ​El empresario, que algún momento admitió haber votado a Cristina Kirchner, ahora cambió su postura radicalmente y respalda la gestión de su hijo, como también no tiene reparos en apuntarle a los gobiernos K. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/FrancoMacri/status/719263268452311040",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71926326845231104")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

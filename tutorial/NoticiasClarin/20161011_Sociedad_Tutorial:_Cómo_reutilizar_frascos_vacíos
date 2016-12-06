@@ -1,0 +1,18 @@
+
+En Mercado Libre Argentina 20 frascos con animales en la tapa se venden por $ 999. Guardate esa luca para otra cosa. Te acercamos este tutorial extrafácil para que aprendas a hacerlos vos mismo y, de paso, disminuyas la cantidad de basura que tirás al contenedor. ¿Ya los reutilizabas? Bueno, ahora decoralos con esta idea unisex y apta para todos los ambientes de tu casa.   
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Paso a paso: -Limpiá muy bien los frascos por dentro y por fuera (usa agua caliente y alcohol para que no queden rastros de pegamento de la etiqueta). -Elegí los animalitos que quieras para las tapas y la pintura en aerosol que más te guste. -Aplicá pegamento transparente en las patitas y pegalos a las tapas. -Pintalas con aerosol (dale las manos que sean necesarias) y dejá secar muy bien. Muy fácil ¿no? Atento a este tip: -Usa pintura en aerosol satinada --no con terminación mate-- así se ensucian menos y podés limpiarlos con un trapo mojado.  ¿Qué otros tutoriales querés que hagamos? Comentá. Mirá también: Tutorial: ¿Cómo distinguir tus juegos de llaves?

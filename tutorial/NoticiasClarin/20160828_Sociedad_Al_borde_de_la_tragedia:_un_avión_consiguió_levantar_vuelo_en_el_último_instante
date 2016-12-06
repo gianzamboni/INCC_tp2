@@ -1,0 +1,18 @@
+
+Las imagenes son impactantes: un Boeing 737 de pasajeros de la compañía marroquí Air Royal Maroc intenta levantar vuelo pero la maniobra demora en concretarse y recién lo logra en el tramo final de la pista de despegue. Ocurrió el 23 de julio en el Aeropuerto de Francfort, pero el video se conoció en los últimos días. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Según se puede observar, cuando el avión se encamina al despegue, no alcanza suficiente potencia y sustentación para mantenerse en el aire. La respuesta del piloto parece ser aumentar la velocidad de la aeronave, pero sin conseguir despegar hasta después de haber recorrido casi toda la pista. Mirá también: Un cantante colombiano se salvó de un accidente en avioneta y subió un video  Hasta el momento se desconoce la razón exacta del incidente. Aunque se barajan algunas posibilidades: una falla en el despliegue de los flaps para el despegue, la programación de la velocidad u otro ajuste incorrecto.

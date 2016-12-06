@@ -1,0 +1,18 @@
+
+Esta es una historia de solidaridad, como todas las que implican la donación de los órganos de un ser querido. Pero el video que la registra impacta, conmueve y refleja el porqué de la importancia de donar. Lukas falleció con siete meses y sus padres decidieron donar su corazón. Ese órgano le devolvió la vida a Jordan, una nena de cuatro años. Heather Clark, la mamá del bebé, conoció a Jordan y pudo escuchar los latidos de su hijo dentro de ella. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La pequeña Jordan pasó la mayor parte de su vida en el hospital de Niños de Phoenix, Estados Unidos. Nació con un defecto congénito en el corazón y los médicos dijeron que su única esperanza era un trasplante. La ayuda que necesitaba llegó de parte de la familia de Lukas, un bebé de Arizona que falleció en junio de 2013. Gracias a sus órganos -que fueron donados por su madre- se pudieron salvar tres vidas. Entre ellas, la de Jordan. Leé también: Una técnica para facilitar los trasplantes a partir de cerdos es el avance del año 2015 Un video del canal CNN muestra el emotivo momento en que la mamá de Lukas y la de Jordan se conocen y se unen en un largo abrazo. Luego, con un estetoscopio, Heather escucha en el pecho de la niña al corazón de su hijo. "Ese es tu bebé", le dice Esther González, la mamá de Jordan.    En la Argentina, el Instituto Nacional Central Único Coordinador de Ablación e Implante (Incucai) desalienta que los padres de los donantes conozcan a los receptores, para evitar el vínculo que pueda formarse entre ambos. Por este motivo, en 2013 generó gran conmoción cuando se supo que una familia de Corrientes donó los órganos de su hija de dos años y eso permitió trasplantarle el corazón a Renzo Antonelli, un nene que esperó ocho meses con un órgano artificial y que generó una enorme movilización en las redes sociales. En ese momento, el Incucai manifestó su "profunda preocupación y malestar" ante la difusión de la identidad del donante. Renzo rechazó el órgano y murió poco después.  En sólo un día, el video de la madre de Lukas fue visto más de 22.000 veces. La semana pasada se viralizó en las redes sociales otro video que muestra cómo reacciona un chico al despertarse de un trasplante de corazón. Trevor Sullivan tiene 15 años y su papá grabó las primeras palabras que dijo al darse cuenta de que había sobrevivido a la operación.

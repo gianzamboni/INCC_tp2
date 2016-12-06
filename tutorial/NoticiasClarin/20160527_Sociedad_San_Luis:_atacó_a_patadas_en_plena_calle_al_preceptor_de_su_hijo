@@ -1,0 +1,18 @@
+
+Un preceptor de la escuela 176 de Villa Mercedes, Carlos Domínguez Martínez fue agredido brutalmente a trompadas y patadas en el piso en plena calle, según se puede ver en el video de una cámara de seguridad. El agresor es el padre de un alumno que fue sancionado por las autoridades de la escuela.  El hecho ocurrió hace 15 días, pero recién tomó estado público a partir de la denuncia policial que Domínguez radicó en la comisaría 8 de esa localidad puntana. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Según relató Domínguez, estaba en plena calle charlando con una vecina cuando apareció el agresor. “Vos retaste a mi hijo, lo vas a suspender, yo te voy a enseñar a respetar a mi hijo”, asegura el preceptor que escuchó antes de recibir una trompada que lo arrojó al piso. Luego, el hombre siguió dándole varias patadas. Mirá también: Pellegrini: ganó la toma y separaron a los dos preceptores acusados  El preceptor dijo que lo único que hizo fue tratar de poner orden en uno de los cursos de segundo año, porque “había un grupo de revoltosos que no dejaban que se realizara una clase”. Aseguró que el hijo del agresor “es un gran chico y excelente alumno, por eso no entiendo la reacción del padre”.  El preceptor, de 52 años, expresó a sus abogados que vive atemorizado y pidió la intervención de la Justicia. Sus abogados, Eddi Bernardis y Gastón Yllera, pidieron que se secuestre la filmación cercana a la calle Montevideo al 380 de Villa Mercedes como prueba del ataque.

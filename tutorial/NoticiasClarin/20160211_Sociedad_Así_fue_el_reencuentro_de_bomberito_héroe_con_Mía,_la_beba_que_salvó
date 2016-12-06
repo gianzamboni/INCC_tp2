@@ -1,0 +1,18 @@
+
+Al ver las imágenes que quedaron registradas en las cámaras de seguridad de la Municipalidad de San Martín, Roxana Lopez no podía creer que siguiera viva.  El 26 de enero estaba esperando el colectivo sobre la avenida junto a sus cinco hijos, cuando tres ladrones que escapaban de la Policía en un auto robado la atropellaron violentamente a ella y a la beba que llevaba en brazos.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mía, de 7 meses, voló varios centímetros por sobre el techo del Chevrolet Aveo y cayó de cabeza al piso de tierra.  A Roxana la arrastraron unos 300 metros en el capot del coche, hasta que los asaltantes volantearon para arrojarla al suelo. Se despertó en hospital y lo primero que hizo fue preguntar por su hija.   Leé también: Un bomberito de 15 años salvó a Mía, la beba atropellada en una persecución policial Mía no se salvó de milagro. Ahí estaba Juan Cruz Amerise, un chico de 15 años que ya probó sus aptitudes para ser bombero y seguir la carrera de su padre. "Estaba yendo a comprar el pan y vi todo. Lo primero que hice fue agarrar a la nena, no respiraba, me saqué la remera, la envolví y comencé a hacerle RCP (reanimación cardiopulmonar). No reaccionaba, pero seguí y a los tres minutos volvió a respirar", le cuenta Juan a Clarín y así, con simpleza, relata cómo salvó una vida.  Ese mismo día, con los movileros y cronistas en la puerta de su casa, el "bomberito" sólo pedía una cosa: conocer a Roxana y a Mía.  Seguido por los cables de los móviles, caminó hasta la casa de esa mujer de 33 años que tenía heridas leves y le dijo: "no tenés nada que gradecer". Mía estaba en perfecto estado pero debía seguir internada en el hospital Eva Perón a modo de observación. El reencuentro con la beba que salvó tuvo que esperar. Leé también: Dieron de alta a la beba atropellada en San Martín y el papá pide trabajo Este miércoles, 15 días después de haberla salvado, Juan se levantó de la silla en la que esperaba en la Municipalidad de San Martín y le dio un beso en la mano a Mía, que lo miraba sonriente desde los brazos de su padre. El bomberito, que será el padrino de la beba, miró al hombre con lágrimas en los ojos y repitió: "no tenés nada que agradecer".

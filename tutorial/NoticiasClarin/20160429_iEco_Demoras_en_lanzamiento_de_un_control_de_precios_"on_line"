@@ -1,0 +1,68 @@
+
+La secretaria de Comercio, dependiente del ministerio de Producción, postergará el lanzamiento del sistema por el que difundirá los precios de los supermercados en tiempo real. El Sistema Electrónico de Publicidad de Precios Argentinos (SEPA), cuyo estreno estaba previsto para estos días será postergado. Mirá también: Con dólares y obras, el Gobierno busca pasar el invierno 
+
+
+El Gobierno promete que la iniciativa será renombrada como "Precios Claros" y que su debut se concretará hacia mediados de mayo.
+
+
+
+
+
+var act_cc6 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_cc6 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_cc6.setTitle('El Gobierno promete que la iniciativa será renombrada como "Precios Claros" y que su debut se concretará hacia mediados de mayo.');
+act_cc6.setSubtitle('Información al consumidor'); 
+act_cc6.setLinkBack('http://www.clarin.com/ieco/Demoras-lanzamiento-control-precios-line_0_1567043516.html');
+act_cc6.setDescription('Estaba previsto para la &uacute;ltima semana de abril. Pasa a mediados de mayo y con un nuevo nombre.');
+act_cc6.addActionLink('VER MÁS', 'http://www.clarin.com/ieco/Demoras-lanzamiento-control-precios-line_0_1567043516.html');
+
+var showShareBarUI_params_cc6=
+{ 
+containerID: 'shareQuote_cc6',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_cc6,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_cc6
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_cc6);
+ Mirá también: Construirán 120 mil nueva viviendas en todo el país Durante febrero, cuando la preocupación por el alza de precios empezó a preocupar al oficialismo por su efecto en la opinión pública, el Gobierno avisó que lanzaría un sistema para vigilar los precios de los supermercados. Mirá también: Moreno, de la guerra contra los medios al armado de Szpolski De esta manera, a través de una mayor transparencia, esperaban que las cadenas rebajaran los importes. Aunque se vino trabajando con las cadenas y sus proveedores para este sistema, el lanzamiento fue postergado. Mirá también: María Eugenia Vidal: "Las decisiones difíciles de los primeros meses eran necesarias" Aunque se mantendrá el esquema de desarrollar una web donde los consumidores puedan consultar los precios de su sucursal más cercana o preferida antes de ir a comprar, el sistema se llamará "Precios Claros" y su debut será hacia mediados de mayo.

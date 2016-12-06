@@ -1,0 +1,18 @@
+
+Un nene de doce años llamó por teléfono al número de emergencias 911 desde dentro del auto para reportar que su madre estaba manejando ebria. Ella fue detenida por poner en peligro a menores y violar las normas de tránsito. Mirá también: El chico abandonado en un bosque dejó el hospital como una celebridad  La policía de Lakewood, una pequeña ciudad al norte del estado de Ohio, EE.UU., detuvo a la mujer el pasado 28 de mayo después de que el chico llamara a la policía para decir que su madre estaba al volante y parecía “realmente ebria’’, según informó el sitio Cleveland.com. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Primero, los agentes policiales se contactaron con paramédicos porque estaban preocupados por si Tanisha Robinson, de 39 años, estaba teniendo una crisis de diabetes. Los paramédicos hallaron un nivel alto de glucosa en el cuerpo de la mujer, pero además su nivel de alcohol en sangre estaba por encima del límite legal. También leé: Manejaba borracha y lo transmitió en vivo con su celular La mujer dijo a los médicos que había bebido vodka en una fiesta de graduación antes de que la policía la detuviera. Ni el niño que hizo la llamada a emergencias ni dos hermanos menores, de dos y ocho años, que también iban en el auto, sufrieron lesiones. Sin embargo la mujer fue declarada culpable por un juez, señala la agencia de noticias AP.  "Mi madre está realmente borracha", dijo el chico de doce a la operadora del 911. El nene dijo que estaban en un coche blanco y trataba de decirle a la operadora dónde estaban antes de que la llamada se cortara. Según Cleveland.com, los chicos dijeron a los oficiales que la mujer bebió una gran cantidad de líquidos claros mientras conducía.  Robinson estaba confundida, aturdida y desorientada cuando la policía detuvo el Ford Escort blanco que conducía a la 1:30 de la mañana del 28 de mayo, dicen informes de la policía de Lakewood.

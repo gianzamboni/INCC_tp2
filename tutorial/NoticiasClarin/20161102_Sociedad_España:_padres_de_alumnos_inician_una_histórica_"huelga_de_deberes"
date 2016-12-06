@@ -1,0 +1,18 @@
+
+Hartos de que los deberes les roben el fin de semana con sus hijos, padres y madres de alumnos de centros públicos españoles han convocado para noviembre una huelga contra las tareas escolares, según anunciaron este miércoles. La "huelga de deberes" durante los fines de semana de noviembre ha sido convocada por la Confederación Española de Asociaciones de Padres y Madres de Alumnos (CEAPA), una red que representa a unos 12.000 de los más de 18.000 centros públicos del país. La iniciativa, sin precedentes, va dirigida en principio a los alumnos de primaria, secundaria y bachillerato, es decir desde los 6 hasta los 17/18 años. Parte del "absoluto convencimiento de que los deberes están siendo perjudiciales" para los niños, al dificultar su desarrollo integral más allá de los conocimientos puramente académicos, explica a la AFP José Luis Pazos, presidente de la CEAPA. Mirá también: Los 5 mejores sistemas educativos del mundo España es el quinto país (de un total de 38 estudiados) con la mayor carga de deberes para los alumnos después de Rusia, Italia, Irlanda y Polonia, 6,5 horas a la semana frente a una media de 4,9, según la edición 2012 del informe PISA de educación, elaborado por la OCDE. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Dicha carga no se traduce en un mejor rendimiento de los alumnos españoles, a los que este informe da tradicionalmente una puntuación mediocre en matemáticas, lectura y ciencia. Mirá también: ¿Por qué la educación de Finlandia es la mejor del mundo? En cambio, en Finlandia y Corea del Sur, dos de los países con mejores resultados según el informe PISA, la media de deberes a la semana era inferior a tres horas. La Organización para la Cooperación y el Desarrollo Económico (OCDE) reconocía a fines de 2014 que, a la luz de las estadísticas del informe PISA, la carga de deberes "no suele estar relacionada con el rendimiento global del sistema escolar". José Luis Pazos sostiene que hay un problema de fondo con la educación en España, todavía muy apegada al método tradicional de memorización. Según él, en una sociedad en la que es tan fácil acceder a infinidad de datos, "lo que les tenemos que enseñar a los niños no es a que memoricen, sino a gestionar la información, a ser críticos, a seleccionar lo que vale y lo que no vale, y lo que necesitan en su día a día". "La sociedad ha cambiado profundamente a su alrededor, pero el ambiente en el aula no", critica.  Fuente: AFP

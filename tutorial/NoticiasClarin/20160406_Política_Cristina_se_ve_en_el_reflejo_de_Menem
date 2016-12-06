@@ -1,0 +1,70 @@
+
+Cristina Elisabet Fernández de Kirchner sabe lo que va a pasar. Así lo repiten varias fuentes con acceso a la actualidad de la ex Presidenta de la Nación quien ya prevé una sucesión de convocatorias judiciales. “Lo sabe y no le importa”, dice una persona que idolatra a la ex jefa de Estado y que “confía” en lo que sucederá ante las eventuales convocatorias judiciales: “Va a haber reacción popular y no porque alguien la conduzca”, asegura al imaginar plazas, marchas y otras manifestaciones públicas repletas de indignación contra lo que llamarán una persecución.
+
+Cristina se ve hoy reflejada en la sombra de Carlos Saúl Menem, el ex Presidente argentino que gobernó desde 1989 hasta 1999 y que fue detenido el 7 de junio de 2001 por la venta de armas a Ecuador y Croacia durante su gobierno, tema develado oportunamente por el diario Clarín. Mirá también: Una denuncia de Stolbizer, clave para la causa por la que detuvieron a Báez Menem cumplió arresto domiciliario hasta el 21 de noviembre de ese año, cuando la Corte Suprema emitió un fallo absolutorio en su favor. El magistrado que había decidido su detención era Jorge Urso, juez federal que hasta el final del menemismo fue relacionado con el Gobierno. Urso era uno de los “jueces de la servilleta”, como llamó Domingo Felipe Cavallo al grupo de magistrados que, supuestamente, el ministro menemista Carlos Corach le había mostrado como parte de una corte de fieles. Ahora Lázaro Báez -el empresario símbolo del kirchnerismo y socio comercial de los Kirchner- está preso por decisión del juez Sebastián Casanello, quien fuera relacionado en los últimos tiempos con La Cámpora: la propia Elisa Carrió lo vinculó con la agrupación de Máximo Kirchner. 
+
+
+“Pasó de ser tortuga a ser tortuga exprés”, rezongó hoy un peronista porteño ante Clarín sobre el proceder de Casanello.
+
+
+
+
+
+var act_9fd = new gigya.socialize.UserAction();
+
+var emailBodyCustom_9fd = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_9fd.setTitle('&ldquo;Pas&oacute; de ser tortuga a ser tortuga expr&eacute;s&rdquo;, rezong&oacute; hoy un peronista porte&ntilde;o ante Clar&iacute;n sobre el proceder de Casanello.');
+act_9fd.setSubtitle('DESPUÉS DE LA DETENCIÓN DE LÁZARO BÁEZ'); 
+act_9fd.setLinkBack('http://www.clarin.com/politica/Cristina-ve-reflejo-Menem_0_1553844792.html');
+act_9fd.setDescription('La ex Presidenta es consciente de su delicada situaci&oacute;n judicial. Culpa al gobierno de Macri y enojo con Casanello. Los fueros de M&aacute;ximo.');
+act_9fd.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Cristina-ve-reflejo-Menem_0_1553844792.html');
+
+var showShareBarUI_params_9fd=
+{ 
+containerID: 'shareQuote_9fd',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_9fd,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_9fd
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_9fd);
+ Así, Cristina espera ahora un derrotero judicial y culpa al Poder Ejecutivo actual, como en su momento se relacionó el accionar de Urso contra Menem por influencia del gobierno de Fernando De la Rúa, quien sucedió al peronista riojano. La ex Presidenta piensa que todo se concentrará sobre ella: no contra su cuñada Alicia ni contra su hijo Máximo, porque tiene fueros al ser diputado de la Nación. Precisamente en la casa de Alicia Margarita Kirchner, Cristina siguió las imágenes televisivas de la detención de Lázaro Báez y pasó la noche en esa residencia, según informó el sitio santacruceño Opi Santa Cruz. Mirá también: La investigación muestra una enorme montaña de pruebas En tanto, en la Cámara de Diputados de la Nación, donde hay varios hombres y mujeres que conversan con Cristina, aseguran que ya se prepara para el escenario político y judicial que encontrará, cuando deba regresar a Buenos Aires. Mientras tanto, la ex esposa de Néstor Kirchner habla por teléfono con sus legisladores fieles del tema Buitre, maldice a José Luis Gioja por la normalización del PJ y culpa directamente a Mauricio Macri por su suerte judicial. Mirá también: Lázaro Báez y una frase inquietante: "Es tiempo de contar mi verdad"

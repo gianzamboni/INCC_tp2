@@ -1,0 +1,18 @@
+
+Elisa Carrió faltó anoche al programa de Mirtha Legrand debido a que fue internada en la Clínica Austral por una nueva baja de potasio. Sin embargo, la dirigente del ARI salió al aire en comunicación telefónica donde reveló que padece "problemas cardíacos" y opinó sobre la pobreza tras la difusión de los datos del INDEC. "Tengo problemas con el potasio, cardíacos", indicó la legisladora, quien agregó que "cinco días fueron muy agotadores" y que deberá hacer reposo. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/elisacarrio/status/782393960039849985",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78239396003984998")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Margarita Barrientos pidió "urgentemente una reacción del Gobierno" contra la pobreza "Por ahí no me doy cuenta y trabajo demasiado. Ayer trabaje como 12 horas seguidas", le contó a la Diva de los Almuerzos. De esta manera, dio a conocer su malestar al excusarse por no haber podido concurrir al programa de Mirtha Legrand, en canal 13, e indicó que se encontraba internada en la clínica del hospital Austral. "Me baja el potasio y eso me desestabiliza", añadió.  Al ser consultada sobre cómo se sentía, indicó: "Se me oprime un poco el pecho. Tengo problemas cardíacos". Mirá también: "No seamos indiferentes ante la pobreza", pidió el cardenal Poli en la misa de Luján "Me asuste cuando me dijeron que antes había tenido un infarto pero de eso nadie me dijo", reveló Carrió y apuntó que "eso fue hace un año", en ocasión de una internación anterior. "Me asusto un poco porque a mí nadie me dijo. Yo sabía que había tenido una arritmia muy fuerte", contó. Mirá también: Este nivel de pobreza es la grieta más dolorosa Y con humor dijo: "Me fui a 'hacer las manos' para ir al programa y termine en el hospital". De todas formas, la diputada fundadora del ARI, de la Coalición Cívica y de Cambiemos opinó sobre política y advirtió que "la contracara de la corrupción es la pobreza". "Es un escándalo moral que en la llanura más rica del mundo haya un 30 por ciento de pobres", advirtió.

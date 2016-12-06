@@ -1,0 +1,68 @@
+
+El juez federal Ariel Lijo afirmó hoy que no descarta citar a la ex mandataria Cristina Fernández y al ex vicepresidente Julio Cobos en la causa por presunto lavado de dinero en el financiamiento de la campaña electoral de 2007, pero remarcó que "por ahora" no hay pruebas para involucrarlos en la investigación. Mirá también: Los jueces son los primeros arrepentidos "Las personas que tenían responsabilidad objetiva están mencionadas en el expediente, el resto es especulativo, ni ellos mencionaron a nadie ni hay pruebas", sostuvo sobre la posibilidad de que Fernández de Kirchner y Cobos hubieran estado al tanto de la presunta maniobra de lavado. Mirá también: Procesaron por lavado a los recaudadores de Cristina en 2007 Sin embargo, consultado sobre si los podría citar a declarar, el magistrado respondió: "Yo no descarto nada. Lo que digo es que hasta este momento, que es demasiado, las personas sobre las que se recabó pruebas son estas". Lijo dijo que "hasta ahora, lo que está demostrado es que hubo una operación de lavado que fue por más de un millón de pesos" y puntualizó que "parte de ese financiamiento fue con medicamentos y la venta de efedrina". 
+
+
+"Las personas que fueron responsables de este financiamiento están o procesadas o sospechadas, en grado de probabilidad muy alto, de que han cometido otros delitos", sentenció en conversación con radio La Red.
+
+
+
+
+
+var act_492 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_492 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_492.setTitle('"Las personas que fueron responsables de este financiamiento están o procesadas o sospechadas, en grado de probabilidad muy alto, de que han cometido otros delitos", sentenció en conversación con radio La Red.');
+act_492.setSubtitle('CORRUPCIÓN K'); 
+act_492.setLinkBack('http://www.clarin.com/politica/Lijo-descarta-Presidenta-Cobos-campana_0_1601239918.html');
+act_492.setDescription('El juez dijo que&nbsp;&quot;no descarto nada&quot; pero&nbsp;remarc&oacute; que &quot;por ahora&quot; no hay pruebas para involucrarlos en la investigaci&oacute;n.');
+act_492.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Lijo-descarta-Presidenta-Cobos-campana_0_1601239918.html');
+
+var showShareBarUI_params_492=
+{ 
+containerID: 'shareQuote_492',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_492,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_492
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_492);
+ Mirá también: El kirchnerismo en carne viva: 10 noticias en 10 días que dejaron el modelo al desnudo Además, detalló que "los aportes lo hicieron personas que no tienen ninguna capacidad económica", por lo que enfatizó que "son operaciones de lavado de dinero" dentro de una causa en la que había "más de 200 empresas involucradas y miles de cheques". Consultado por las declaraciones de la ex presidenta, quien ayer aseguró que hay una persecución contra el kirchnerismo, dijo que "no" cree que sea así y adjudicó la activación después del cambio de gobierno de las causas contra ex funcionarios kirchneristas a los tiempos de la Justicia.

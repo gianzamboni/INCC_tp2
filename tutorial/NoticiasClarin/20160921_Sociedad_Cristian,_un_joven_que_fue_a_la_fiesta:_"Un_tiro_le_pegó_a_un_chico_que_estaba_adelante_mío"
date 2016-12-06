@@ -1,0 +1,22 @@
+
+Cuando anoche salió con sus amigos, Cristian (20) nunca imaginó que la fiesta a la que iría para festejar la llegada de la primavera, en una quinta de Moreno, terminaría de manera trágica: con un muerto y varios heridos. "Un tiro le pegó a un chico que estaba adelante mío y escuché cuatro disparos más", relata.     
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_q77tifrx",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_q77tifrx"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_q77tifrx").after(scriptEl);
+ El joven y sus amigos llegaron a la quinta donde se hacía la fiesta cerca de las 2 de la madrugada. "Me invitaron y como era el Día de la Primavera fui para allá", explica en declaraciones a América 24.  MIRÁ LA FOTOGALERÍA EN HD Cristian dice que no pudo entrar al evento: "Cuando llego a la puerta, veo que toda la gente empieza a correr", a salir desesperada. Algo, aún no sabía qué, había pasado. Entonces, el joven y sus amigos deciden irse. Pero pasó algo que no esperaban: "Cuando me estoy yendo, viene una moto, frena y empieza a disparar" contra la gente que estaba en la calle. El chico recuerda que en la moto desde donde les disparaban iban dos jóvenes. "Uno manejaba y atrás iba otro que disparaba a todos, a los que estaban en la calle, en la parada, al que le pegaba, le pegaba...", detalla.
+
+Él mismo se salvó de casualidad. "Un tiro le pegó a un chico que estaba adelante mío", dice. Y agrega que por lo menos oyó "cuatro (disparos) más". El joven reconoce que tuvo "miedo" y resalta que, por lo que pudo ver, en el lugar "había muchos menores" pero ningún adulto.  La Policía, dice, llegó a la fiesta después de que se oyeran los disparos: "Cuando estábamos a tres cuadras (de donde fue la fiesta), recién llegó la Policía y todavía faltaba para llegar" a la quinta.

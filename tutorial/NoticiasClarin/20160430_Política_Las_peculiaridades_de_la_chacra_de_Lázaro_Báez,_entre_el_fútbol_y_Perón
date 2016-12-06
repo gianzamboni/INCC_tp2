@@ -1,0 +1,72 @@
+
+La chacra de Lázaro Báez en Río Gallegos, un "fuerte" de seis hectáreas, expuso más excentricidades de la millonaria familia que hoy está siendo investigada por lavado de dinero. Entre el deporte, los placeres y el "folclore peronista", se trató de un allanamiento con peculiaridades de todos los gustos. Mirá también: La Oficina Anticorrupción se presentó como querellante en la causa Báez En el frío de Río Gallegos y con la última luz del día, los efectivos federales y personal de la AFIP comenzaron el allanamiento al predio ubicado en zona de chacras. Allí dejaron en cajas para retirar los libros de colecciones de Báez que van desde material de Evita y fotos de Perón hasta ediciones limitadas de costosas colecciones de clásicos de la literatura. Cartas escritas por el General y una versión de "La razón de mi vida" traducida al árabe, estaban entre la colección "peronista" del empresario K. Sumado al busto de yeso de Evita que tiene en uno de los quinchos. 
+
+
+ "Primeras ediciones de libros de Evita, fotos antiquísimas de Perón, era un museo", relató un testigo. 
+
+
+
+
+
+var act_c13 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_c13 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_c13.setTitle(' "Primeras ediciones de libros de Evita, fotos antiquísimas de Perón, era un museo", relató un testigo.&nbsp;');
+act_c13.setSubtitle('La Ruta del dinero K'); 
+act_c13.setLinkBack('http://www.clarin.com/politica/peculiaridades-Lazaro-Baez-futbol-Peron_0_1567643240.html');
+act_c13.setDescription('Cancha de c&eacute;sped, pileta climatizada, camperas sin usar, sauna y recuerdos peronistas, en un allanamiento que dej&oacute; sorprendido a las fuerzas de seguridad.');
+act_c13.addActionLink('VER MÁS', 'http://www.clarin.com/politica/peculiaridades-Lazaro-Baez-futbol-Peron_0_1567643240.html');
+
+var showShareBarUI_params_c13=
+{ 
+containerID: 'shareQuote_c13',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_c13,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_c13
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_c13);
+
+
+El próximo paso será tasarlos, tarea que se encomendará a especialistas. El destino final podría ser una donación, como contaron a Clarín. Lo que llamó la atención además, fue un gran cuadro de Néstor Kirchner tallado a mano y de grandes dimensiones. En el galpón de autos de alta Gama, la PSA se encontró con una estatua de bronce del ex Presidente sobre un colchón de dos plazas. Un homenaje constante por parte del empresario que se hizo millonario gracias al kirchnerismo. Mirá también: Allanaron Austral Construcciones, la empresa insignia de Lázaro Báez  Pero el impacto no sólo lo género el lujo de los muebles, sino un inmenso armario de más de cuatro metros lleno de ropa de primera marca. Una gran colección de camperas de reconocidas marcas, con una particularidad: todas tenían las etiquetas colocadas, nunca se utilizaron. Mirá también: Vialidad denuncia que Báez hizo obras con "un enorme sobreprecio" digitado por De Vido Saunas y baños en suite fueron parte del registro que se realizó hasta llegar a un segundo piso que con una privilegiada vista, contaba con un gimnasio de última generación en aparatos. Y para acompañar este especio, un jacuzzi, un hidromasaje y una ducha escocesa, una al lado de la otra. Abajo, en el quincho donde Lázaro Báez mostró una bodega de vinos (donde se sospecha había una bóveda) se encontraron con más duchas.
+
+ Sorprendidos algunos, encontraron la explicación inmediatamente: un inmenso ropero con muchas camisetas de fútbol, originales y de diferentes equipos. Botines, redes para los arcos y pelotas de diversos colores, terminaron de completar el mapa: estaba todo lo necesario para cada partido que Lázaro y Martín Báez fanáticos del fútbol, jugaban en la lujosa chacra. Otro dato complementario: el mayor de los hijos varones del empresario K tenía 45 pares de zapatillas y botines de todo tipo y color. Mirá también: Así es la estatua de Néstor Kirchner que Lázaro Báez guardaba en un galpón  Todo estaba dispuesto para jugar un "picadito" en la cancha de fútbol completamente de césped natural y con un sistema de iluminación propia, ubicada a mano izquierda apenas se ingresa a la propiedad rodeada de álamos y pinos. Afuera, en el destacado jardín con flores y pinos, hay otra dependencia que es parte de los 300 metros cubiertos que tiene la propiedad que abarca seis hectáreas según el plano con el que ingresaron los Federales. Allí, dispuesta, con la temperatura indicada durante el allanamiento se toparon con una pileta climatizada de forma irregular y muy bien cuidada. Es la vivienda que más uso registró de todas las allanadas. Con un total de cinco habitaciones, la mayoría con baños en suite, la chacra 39 fue uno de los principales refugios de Lázaro Báez durante los últimos diez años.  

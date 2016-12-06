@@ -1,0 +1,24 @@
+
+En la sede del Comite Nacional de la UCR y con la presencia del jefe de Gabinete, Marcos Peña, y el ministro del Interior, Rogelio Frigerio quedó lanzada esta tarde la mesa de Cambiemos en Santa Fe, decisión que pone en riesgo la ya debilitada alianza que los radicales tienen con el socialismo en esa provincia. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Esta es una decisión que los radicales hemos tomado en todo el país para constituir Cambiemos y estamos convencidos de que necesitamos esta herramienta para transformar el país, sino fuera por Cambiemos estaríamos gobernados por Lázaro Báez y Milagro Sala", señaló el presidente de la UCR e intendente de la ciudad de Santa Fe, José Corral, quien aseguró que "aún con las preocupaciones y problemas" existentes deciden apoyar con la "expectativa de que es posible un país mejor".
+
+Según explican los dirigentes, el nuevo escenario político requiere este cambio y los partidos que integran El Frente Progresista, Cívico y Social (FPCyS) deberán tomar las decisiones que consideren correctas. 
+
+Dentro del radicalismo esto también genera tensiones. "La UCR a nivel nacional acordó con el PRO y debemos seguir esa línea. Al que no le gusta que se vaya", dicen algunos, a la vez que reconocen que la relación con el socialismo es un "matrimonio viejo".
+
+"Siempre puede haber haber diferencias, ha sido muy bueno el trabajo que hemos hecho en todo este tiempo con la UCR", aseguró Marcos Peña y agregó que Cambiemos quiere seguir creciendo.

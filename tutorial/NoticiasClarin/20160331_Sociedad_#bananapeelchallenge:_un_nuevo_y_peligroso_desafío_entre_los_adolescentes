@@ -1,0 +1,50 @@
+
+Se sabe, los adolescentes muchas veces en su intento por eludir el aburrimiento buscan formas no convencionales de entretenerse. Y en tiempo de redes sociales, esas “locas” ideas pueden terminar viralizándose e imitadas por otros pares. Mirá también: Qué hay detrás de los baldazos que son furor en la web Este es, precisamente, el caso de Jason Oakes, a quien en medio de su aburrimiento se le ocurrió probar en carne propia lo que miles de veces vimos en los dibujitos animados: pisar una cáscara y resbalarse. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/weedeeyaaa/status/715512744796037120",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71551274479603712")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El joven grabó su intento y lo subió a Twitter el domingo, donde rápidamente se viralizó y, a la vez, comenzaron a aparecer las imitaciones, bajo el hashtag #bananapeelchallenge. Mirá también: Por qué el video de este casamiento recorrió el mundo Este caso es diferente a otros desafíos que se han lanzado en las redes con algún fin solidario, como concientizar sobre alguna enfermedad o alguna temática específica. Sin embargo, desde cuentas oficiales, autoridades salieron a pedirles a los jóvenes que eviten sumarse a este desafío, ya que es peligroso.  Así lo advirtieron en España la Guardia Civil y la Policía Nacional: 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Jaimosus/status/715500505053720576",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71550050505372057")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/M4rySand/status/715509827267649536",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71550982726764953")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

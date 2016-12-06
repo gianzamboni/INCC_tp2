@@ -1,0 +1,18 @@
+
+Los personas con mucha barba saben lo duro que es lidiar todos los días con máquinas de afeitar: cortes, irritaciones, sarpullidos etc. Por eso ahora un grupo de emprendedores creó un producto que quiere acabar con todos estos inconvenientes: una máquina de afeitar que funciona con láser.Para fabricarla, la empresa buscó inversores en la plataforma de financiamiento colectivo Kickstarter y fue un éxito: buscaban recaudar 160 mil dólares y ya recibieron más de un millón.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Las ventajas de esta maquinita de afeitar son varias: no irrita la piel, porque solamente corta pelo, afeita al ras, no lastima y además no produce desperdicios. Las hojitas de las afeitadoras tradicionales no se pueden reciclar, por lo que generan mucha basura, además de ser siempre un riesgo para la gente por su filo. Se calcula que solamente en Estados unidos se tiran, cada año, dos mil millones de cuchillas de máquinas de afeitar.Leé también: "Estafa insólita: creó una falsa sucursal de un banco"Este dispositivo se puede usar con agua, aunque no hace falta. Sí, otro factor interesante para destacar, ya que usarla habitualmente logrará que los hombres desperdicien menos agua. El láser tendría una vida útil de 50 mil horas y necesita una pila AAA para funcionar. Los envíos de la afeitadora Skarp comenzarán en 2016.Leé también: "Jóvenes argentinos crearon un programa que puede leer las emociones de un texto"

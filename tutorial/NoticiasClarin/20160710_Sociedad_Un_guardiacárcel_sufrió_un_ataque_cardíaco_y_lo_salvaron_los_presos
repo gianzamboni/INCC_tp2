@@ -1,0 +1,18 @@
+
+Ocho presos que esperaban esposados porque iban a ser trasladados de una cárcel de Texas, Estados Unidos, ayudaron a salvar la vida del guardia que los acompañaba, quien se desplomó tras sufrir un ataque al corazón.  Todo quedó registrado en un video. Mirá también: Preso en Devoto, usaba su celda para hacer el "control de calidad" de la droga que vendía Aunque los prisioneros se encontraban con esposas, salieron de una celda de detención de los tribunales del distrito Weatherford cuando vieron que el hombre que los controlaba estaba en el suelo. Empezaron a golpear paredes y gritaron hasta que personal de seguridad se acercó. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Al principio, en el otro extremo de la cárcel creyeron que había empezado una pelea entre internos, pero al llegar y despejar el lugar encontraron al guardia tirado en el piso y a los presos intentando socorrerlo. Mirá también: El "Chapo" Guzmán se queja de la "mugre" en su celda y pide lavandina para limpiar "Nunca pasó por mi mente no ayudarlo. Si se cayó, tenía que hacerlo", sostuvo uno de los internos, Nick Kelton. Y agregó: "Nos preocupaba que los otros guardias llegaran con armas sobre nosotros". Los paramédicos llegaron a tiempo gracias al aviso de los presos y el guardia está fuera de peligro.

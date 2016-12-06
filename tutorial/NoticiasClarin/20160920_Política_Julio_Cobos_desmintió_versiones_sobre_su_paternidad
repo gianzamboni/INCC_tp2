@@ -1,0 +1,34 @@
+
+El senador nacional Julio Cobos salió a desmentir las versiones respecto a un supuesto hijo extra matrimonial, en medio de la separación de su esposa, Cristina Cerrutti. La versión comenzó a circular a raíz de una publicación del sitio de noticias BigBangNews, dirigido por Jorge Rial, que daba cuenta de una crisis de pareja de Cobos con su mujer y el supuesto affaire con una joven. “Esto pertenece a mi vida privada y no se relaciona con mi trabajo aunque algunos lucren con mentiras, sin reparar en el daño que ocasionan”, fue uno de los contundentes mensajes del radical, vía Twitter. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/juliocobos/status/777955568447262720",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77795556844726272")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Las 12 claves del sistema para "ahorrar en ladrillos" que aprobó el Congreso De esta manera, el senador radical salió al cruce de la información publicada por el portal, a la que calificó de "mal intencionada y lesiva para con mi familia y afectos cercanos". En una serie de tuits, Cobos sí reconoció el "proceso de separación" que atraviesa con su pareja "en términos cordiales, maduros y respetuosos". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/juliocobos/status/777959715955437568",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77795971595543756")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Acuerdo entre el Gobierno y la oposición para limitar los superpoderes

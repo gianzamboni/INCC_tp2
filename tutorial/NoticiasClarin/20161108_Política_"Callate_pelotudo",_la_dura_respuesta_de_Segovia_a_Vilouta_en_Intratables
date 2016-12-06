@@ -1,0 +1,84 @@
+
+Otro fuerte cruce se dio anoche en Intratables entre un panelista y un invitado, a raíz de la interrupción del servicio de la línea C de subte el viernes, tras el descarrilamiento de una formación. De un lado: Néstor Segovia, uno de los llamados metrodelegados; del otro: Paulo Vilouta, panelista del programa.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Tras seis horas de paro, reanudan el servicio en el subte C El sindicalista comenzó su calma exposición de los hechos ocurridos el viernes a raíz de que tren sin pasajeros se descalzó de la vía, lo que obligó a interrumpir el servicio y luego reestablecerlo con un tramo corto. "Los pasajeros nos escupieron, nos dijeron de todo porque tenemos mala fama por la prensa, pero colaboramos hasta el día de hoy", dijo Segovia. Y el periodista lo cruzó: "De la prensa no, por ustedes". A partir de allí, el debate levantó la temperatura instantáneamente. "Callate pelotudo", disparó Segovia, ante los gritos de "vagos" del panelista. 
+
+
+"Dejame hablar, porque vos ya me tenés podrido", retrucó el metrodelegado. A lo que Vilouta respondía: "Manga de vagos, del primero al último".
+
+
+
+
+
+var act_1e0 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_1e0 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_1e0.setTitle('"Dejame hablar, porque vos ya me tenés podrido", retrucó&nbsp;el metrodelegado. A lo que Vilouta respondía: "Manga de vagos, del primero al último".');
+act_1e0.setSubtitle('Televisión'); 
+act_1e0.setLinkBack('http://www.clarin.com/politica/Callate-respuesta-Segovia-Vilouta-Intratables_0_1683431697.html');
+act_1e0.setDescription('El metrodelegado se cruzó fuerte con el periodista por la interrupción del servicio en la Línea "C".');
+act_1e0.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Callate-respuesta-Segovia-Vilouta-Intratables_0_1683431697.html');
+
+var showShareBarUI_params_1e0=
+{ 
+containerID: 'shareQuote_1e0',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_1e0,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_1e0
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_1e0);
+ Luego, más Insultos, gritos y acusaciones se sucedieron, ante un Santiago del Moro que intentaba terciar en la situación. "Chicos, basta o corto todo", advertía el conductor. Y logró su cometido. El secretario adjunto del gremio de los trabajadores del subte continuó con su tranquila exposición y denunció que la firma Metrovías emitió un comunicado responsabilizando por la interrupción del servicio a un "conflicto gremial". Ayer, el problema en la línea que une Constitución con Retiro continuó desde la mañana y cuando todo parecía resuelto, los metrodelegados paralizaron el servicio de toda la línea por "falta de seguridad". Recién pasadas las 17, el gremio dejó sin efecto la medida de fuerza y el servicio se reanudó justo para la hora pico de la tarde. "Hoy los pasajeros (por el lunes) me re contra putearon y capaz que esto te hace feliz hermano", le dijo Segovia a Vilouta. Y el cruce se volvió a desatar.  "No, no me hace feliz, la gente quiere viajar", respondió una vez más el periodista. "Quiere viajar pero no están dadas las condiciones", insistió Segovia, quien contó que una inspección del Gobierno porteño determinó que no había "peligro de derrumbe" en los túneles de la línea. Mirá también: Desde mañana venderán la tarjeta SUBE en las estaciones de subte Esta mañana, el recorrido completo funcionaba aunque con una importante demora debido a que sólo uno de los dos andenes estaba habilitado para el ascenso y descenso de usuarios. Además de que los trenes permanecían detenidos entre cuatro y seis minutos en cada estación.

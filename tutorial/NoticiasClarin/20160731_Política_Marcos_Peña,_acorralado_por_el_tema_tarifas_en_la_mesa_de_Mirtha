@@ -1,0 +1,34 @@
+
+El tema de los aumentos de tarifas levantó la temperatura del programa de Mirtha Legrand este domingo, donde la única voz en defensa del reajuste de tarifas fue la del jefe de Gabinete, Marcos Peña. La Diva de los Almuerzos preguntó si los incrementos tarifarios no se pudieron hacer de manera gradual, crítica a la que también se sumaron el periodista Jorge Fernández Díaz y el actor Oscar Martínez. El ministro hizo hincapié en la implementación de la tarifa social, que "un tercio de argentinos" ya goza del beneficio y reconoció que -en particular- sobre el tema de gas hubo errores, situación que se modificó a través del tope del 500%. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"En agua, luz, transporte, se logró implementar, sobre todo la tarifa social y se superaron las trabas judiciales", insistió el ministro coordinador. "Es una canallada lo que cobra AySA", lo cruzó expresó el actor, quien contó que pasó de pagar de  $ 400 a $ 2.500. Y que además cuestionó que la empresa de agua no tenga medidores. Mirá también: Marcos Peña cruzó a Cristina Kirchner y dijo que "cada vez menos gente le cree" "Es de lo único que habla la gente: '¿Cuánto te vino?'", insistió la conductora. "Ese es el punto, AYSA tenía un déficit muy grande que lo pagabas con la inflación; la tarifa social está llegando a más gente y está en 30% de usuarios potenciales hay que cambiar la locura que no haya medidores de agua, al igual que luz para poner medidores inteligentes", respondió Peña. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/marquitospena/status/759791140686004224",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75979114068600422")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ A lo que Mirtha volvió a retrucar con los errores comunicacionales por parte del Gobierno. "¿Por qué no explican ustedes bien?", le cuestionó al ministro. Mirá también: Macri apuesta a un Plan de 8 puntos para arrancar con el crecimiento Y aunque reconoció "varios aciertos" durante los primeros meses, como la eliminación del cepo cambiario, la conductora del clásico de la televisión argentina sentenció: "Esto de las tarifas ha sido -a mí modo de ver- tremendo". Peña volvió a señalar que a partir del "segundo semestre" los indicadores económicos irán mejorando. "Estamos saliendo de una época complicada", concluyó. Mirá también: Peña dijo que "este año" el Congreso tiene que modificar las escalas del Impuesto a las Ganancias No fue el único tema caliente al que tuvo que enfrentarse Peña, la reunión entre Macri y Tinelli también fue muy cuestionada por los invitados a la mesa dominical. Lo mismo ocurrió con el tema de los aumentos de precios en los supermercados, donde Fernández Días y Martínez coincidieron en que tras la asunción de Macri se dio una "escalada infame".

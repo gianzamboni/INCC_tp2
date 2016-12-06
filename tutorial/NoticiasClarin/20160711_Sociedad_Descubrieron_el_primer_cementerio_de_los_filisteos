@@ -1,0 +1,160 @@
+
+El descubrimiento en el sur de Israel de un cementerio filisteo, el pueblo de la antigüedad al que perteneció Goliat, está empezando a revelar los secretos de esta civilización desaparecida hace 2.600 años. Mirá la Fotogalería en HD.  Pincel en mano, Daniel Master, un arqueólogo estadounidense de la Universidad de Harvard, trabaja de rodillas en lo que una vez fue una cámara mortuoria, situada en la ciudad israelí de Ascalón. Con delicadeza extrae de la tierra arenosa el esqueleto intacto de un filisteo, al que enterraron junto a un frasco de perfume de terracota y que con el paso del tiempo ha quedado pegado a su cráneo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+
+
+
+"Es el resultado de años de excavaciones, la ocasión de encontrarse de nuevo frente a ellos.Con un total de 145 cuerpos descubiertos, no sólo queremos entender sus ritos funerarios sino también reunir indicios a partir de sus osamentas que nos permitan entender como vivían", explica Daniel Master.
+
+
+
+
+
+var act_c18 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_c18 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_c18.setTitle('"Es el resultado de años de excavaciones, la ocasión de encontrarse de nuevo frente a ellos.Con un total de 145 cuerpos descubiertos, no sólo queremos entender sus ritos funerarios sino también reunir indicios a partir de sus osamentas que nos permitan entender como vivían", explica&nbsp;Daniel Master.');
+act_c18.setSubtitle('Hallazgo en Israel'); 
+act_c18.setLinkBack('http://www.clarin.com/sociedad/Descubrieron-primer-cementerio-filisteo_0_1611438906.html');
+act_c18.setDescription('Revela los secretos del pueblo al que perteneció Goliat. Mirá el video y la fotogalería en HD. ');
+act_c18.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/Descubrieron-primer-cementerio-filisteo_0_1611438906.html');
+
+var showShareBarUI_params_c18=
+{ 
+containerID: 'shareQuote_c18',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_c18,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_c18
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_c18);
+ Mirá también: Encuentran restos monumentales de la ciudad que habitaba Goliat Los arqueólogos llevaban 30 años intentado encontrar un cementerio para poder llevar a cabo un estudio a gran escala sobre los filisteos. Las primeras fosas fueron descubiertas en 2013 en Ascalón, una ciudad costera que en el apogeo de los filisteos llegó a tener 13.000 habitantes y donde ahora hay un parque natural.
+
+Se sabe poco sobre el origen de este "pueblo del mar", aunque existen varias hipótesis. La presencia de objetos de alfarería roja y negra los relacionan con la civilización micénica, nacida en las islas griegas, pero también se estudia la posibilidad que fueran una tribu venida del desierto o de las montañas.
+
+"Lo único seguro es que eran extranjeros en esta región semita", explica Master. Según el arqueólogo, está comprobada su presencia entre el año 1.200 y 600 antes de Cristo en una pequeña zona de costa, entre la actual Franja de Gaza y Tel Aviv. Mirá también: Descubren una ciudad medieval oculta en la vegetación en la jungla de Camboya Los filisteos eran comerciantes y marinos, hablaban una lengua de origen indoeuropeo, no practicaban la circuncisión y comían carne de cerdo y de perro, como demuestran los huesos encontrados en Gat, Gaza, Asdod, Ecrón, las ciudades que junto a Ascalón formaban el estado filisteo.
+
+Pero la historia de este pueblo ha estado marcada por la imagen negativa que dieron de ellos en la Biblia sus vecinos israelíes. Los filisteos aparecen en el Génesis y en el Libro de Samuel, donde se explica cómo los guerreros filisteos capturaron el Arca de la Alianza judía y también el célebre duelo entre el gigante filisteo Goliat y el judío David. De ahí salió el adjetivo "filisteo", que significa "de espíritu vulgar o escasos conocimientos". 
+
+
+"Durante milenios no pudimos acceder a su historia pero utilizando lo que dejaron -y no sólo las palabras de sus enemigos, que los describían como el peor pueblo imaginable- vamos a ver lo que nos dicen sus restos", comenta Master.
+
+
+
+
+
+var act_664 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_664 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_664.setTitle('"Durante milenios no pudimos acceder a su historia pero utilizando lo que dejaron -y no sólo las palabras de sus enemigos, que los describían como el peor pueblo imaginable- vamos a ver lo que nos dicen sus restos", comenta Master.');
+act_664.setSubtitle('Hallazgo en Israel'); 
+act_664.setLinkBack('http://www.clarin.com/sociedad/Descubrieron-primer-cementerio-filisteo_0_1611438906.html');
+act_664.setDescription('Revela los secretos del pueblo al que perteneció Goliat. Mirá el video y la fotogalería en HD. ');
+act_664.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/Descubrieron-primer-cementerio-filisteo_0_1611438906.html');
+
+var showShareBarUI_params_664=
+{ 
+containerID: 'shareQuote_664',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_664,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_664
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_664);
+ A pocos metros de las fosas, en el laboratorio al aire libre de la excavación, Sherry Fox, una arqueóloga especialista en el análisis de restos humanos, es la encargada desvelar los secretos de las osamentas. "Mirando sus dientes nos damos cuenta de que tuvieron una vida dura, hay líneas que indican una interrupción de crecimiento, probablemente por fiebre o hambruna durante la niñez", explica con una calavera en la mano. Mirá también: Descubren un tumba que podría ser la de Aristóteles
+
+"También se ve en sus huesos que eran grandes trabajadores, que practicaban la consanguinidad y que utilizaban los dientes como herramienta, probablemente para tejer", explica Fox. Agrega que no tenían un físico "especialmente desagradable" y su talla era normal, lejos de la imagen del "gigante" Goliat descrito en la Biblia. Mirá la fotogalería en HD.  Por otra parte, Daniel Master desmiente el parentesco entre los filisteos de entonces y los actuales palestinos. "Se parecen las palabras, pero no los pueblos. La ciudad de Ascalón fue totalmente destruida en diciembre del 604 antes de Jesucristo por Nabucodonosor y los supervivientes fueron exiliados a Babilonia por los persas. Todo lo que vino después no tiene nada que ver con los filisteos", afirma.
+
+Fuente: AFP

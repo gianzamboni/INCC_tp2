@@ -1,0 +1,34 @@
+
+A través de un dron se pudo conocer el estado de casi 40 formaciones que el ex secretario de Transporte, Ricardo Jaime, compró en 2005 y que hoy permanecen abandonados junto a un galpón en La Plata. Es una parte de los 160 formaciones que se trajeron de España y Portugal en el marco del llamado “Plan Nacional de Reorganización, Recuperación del Ferrocarril Nacional”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+(Video: Agustin Beltrame/Telenoche)Pero las imágenes, que fueron obtenidas por la señal TN mediante una cámara conectada a un dron, muestran lo contrario a los anunciado por el nombre del plan: la mayoría de los trenes están desarmados, quemados y deteriorados por la falta de mantenimiento. En otras palabras, son chatarra. El resto del material ferroviario permanece Chascomús, Retiro, Remedios de Escalada y otras partes del país. Jaime permanece detenido desde este domingo por decisión del juez federal Julián Ercolini, que en la resolución judicial sostuvo que “los fondos abonados por el material rodante adquirido, eran de desproporción exorbitante en relación a su calidad y funcionalidad real”, lo que “hace presumir que grandes sumas de dinero fueron sustraídas de la esfera de la administración pública por los funcionarios a quienes fueron confiadas”, consideró. Ayer, antes Ercolini, Jaime declaró que compró los trenes viejos por 102 millones de euros “por expresas instrucciones” de Néstor Kirchner y del ex ministro de Planificación Federal, Julio de Vido. De hecho, este último ya fue llamado a indagatoria por el juez federal Claudio Bonadio, pero por otra de las causas en la que está procesado Jaime: la tragedia del choque de trenes en la Estación Once. Mirá también: "Jaime cruzaba de noche de Economía a la Rosada con bolsos para Néstor Kirchner" Previamente había afirmado que, mientras que se desempeñó como secretario de Transporte, cumplió “directivas del Poder Ejecutivo Nacional”, tanto en el mandato de Néstor como en el de Cristina. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: Jaime dijo que actuó por orden de Kirchner y De Vido

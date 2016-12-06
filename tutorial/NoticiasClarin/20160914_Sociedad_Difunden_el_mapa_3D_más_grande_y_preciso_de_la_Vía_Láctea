@@ -1,0 +1,24 @@
+
+El mapa más detallado del cielo jamás realizado, con más de 1.000 millones de estrellas de la Vía Láctea, fue difundido hoy por la Agencia Espacial Europea (ESA) a partir de las observaciones de su telescopio espacial Gaia. Se trata de la mayor muestra de objetos celestes hasta la fecha. Mirá también: China lanza el "Palacio celestial" y ya planea su estación espacial
+
+ "Es el mapa más grande y preciso jamás realizado" de nuestra galaxia, dijo Anthony Brown, director del centro de procesamiento de datos del proyecto Gaia, en una conferencia de prensa de la ESA desde Madrid. El responsable de la misión, Fred Jansen, agregó que está "súper contento" con la precisión de los datos recopilados hasta el momento, que se distribuyen entre científicos para su análisis. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La misión se lanzó 1.000 días atrás, el 19 de diciembre de 2013, y tendrá una duración de cinco años. En el centro está la sonda espacial Gaia, de 10 metros de ancho, que recuerda a un barril asentado en un platillo volante. Está equipada con dos telescopios y orbita lentamente alrededor del sol. Mirá también: Un argentino, detrás de un importante hallazgo astronómico El mapa revelado hoy se basa en los datos recopilados durante los primeros 14 meses de estudio del firmamento, hasta septiembre de 2015. "La presente publicación nos ofrece una primera impresión de los extraordinarios datos que nos esperan y revolucionará nuestra comprensión de cómo las estrellas se distribuyen y se desplazan por nuestra galaxia", señaló Álvaro Giménez, director de Ciencia de la ESA. La agencia informó que "en el futuro" se publicará un catálogo más extenso.
+
+Durante su estadía en el cielo, Gaia supervisa cada una de sus estrellas objetivo una y otra vez, hasta unas 70 veces cada una y de ese modo puede registrar sus posiciones, sus movimientos y los cambios que se produzcan en su brillo. Además, se recogen datos sobre la temperatura y la composición de las estrellas. La misión también busca proporcionar nuevas y estrictas pruebas sobre la Teoría General de la Relatividad desarrollada por Albert Einstein. Mirá también: Captan por primera vez un fabuloso fenómeno cósmico
+
+ Mil millones es un número de estrellas abrumador. Sin embargo, se estima que esta cantidad representa apenas el uno por ciento de las estrellas existentes en la Vía Láctea, que tiene unos 100.000 años luz de diámetro. La medición de distancias entre estrellas, tanto en nuestra galaxia como más allá, desempeña un papel fundamental en la astronomía, que marcó un nuevo hito hoy con la difusión del mapa.  Fuente: Agencias 

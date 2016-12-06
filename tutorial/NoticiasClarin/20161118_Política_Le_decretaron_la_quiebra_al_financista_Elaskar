@@ -1,0 +1,101 @@
+
+La Justicia dictaminó la quiebra de Federico Elaskar, el financista de la firma SGI, conocida por "La Rosadita" y donde se veía cómo contaban millones hombres como Martín Báez -hijo del empresario Lázaro- y el ex marido de Iliana Calabró, Fabián Rossi, entre otros. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La resolución judicial de la UF12 determinó que "el juzgado decretó su quiebra en su ex juicio de concurso preventivo. Continúa como síndico el contador Fernando Ezequiel Aquilino".
+
+¿Quién es Federico Elaskar? Dueño de la financiera SGI, con sede en el edificio Madero Center de Puerto Madero, conocida como “La Rosadita”. 
+
+
+Admitió en 2013 ante las cámaras del programa de Jorge Lanata que él y Leonardo Fariña organizaron la estructura de empresas fantasma registradas en Panamá (como Teegan Inc., que luego se mudó a Belice) para triangular y sacar del país al menos 55 millones de euros, con destino final en Suiza.
+
+
+
+
+
+var act_b29 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_b29 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_b29.setTitle('Admitió en 2013 ante las cámaras del programa de Jorge Lanata que&nbsp;él y Leonardo Fariña organizaron la estructura de empresas fantasma registradas en Panamá (como Teegan Inc., que luego se mudó a Belice) para triangular y sacar del país al menos 55 millones de euros, con destino final en Suiza.');
+act_b29.setSubtitle('Dueño de "La Rosadita"'); 
+act_b29.setLinkBack('http://www.clarin.com/politica/decretaron-quiebra-financista-Elaskar_0_1689431082.html');
+act_b29.setDescription('La Justicia la dictaminó en el juicio de concurso preventivo. Su empresa estaba radicada en el Edificio Faena de Puerto Madero.');
+act_b29.addActionLink('VER MÁS', 'http://www.clarin.com/politica/decretaron-quiebra-financista-Elaskar_0_1689431082.html');
+
+var showShareBarUI_params_b29=
+{ 
+containerID: 'shareQuote_b29',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_b29,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_b29
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_b29);
+ Mirá también: Descubren nuevos giros de plata negra de Báez en Panamá También dijo que después Báez le sacó por la fuerza SGI, donde fue reemplazado por el contador del empresario patagónico, Daniel Pérez Gadin. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

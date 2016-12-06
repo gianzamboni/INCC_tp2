@@ -1,0 +1,130 @@
+
+La Municipalidad de La Plata declarará "huéspedes de honor" a los integrantes de los Rolling Stones y les entregará las llaves de la ciudad como reconocimiento a los tres recitales que la legendaria banda británica lleva adelante en el Estadio Único de la capital provincial, donde presentaron su primer show el domingo ante 50 mil almas que vibraron, cantaron y gozaron sus éxitos.
+
+El intendente Julio Garro anunció que Mick Jagger, Charlie Watts, Keith Richards y Ronnie Wood serán homenajeados por su histórico paso por La Plata, única ciudad en la gira por Latinoamérica en la que los Stones brindarán tres recitales. También leé: Los Rolling Stones hicieron delirar a los fans en La Plata El miércoles próximo, durante el segundo show de la banda, se les hará entrega del título de Huésped de Honor y una llave de la ciudad como reconocimiento a su trayectoria y muestra de hospitalidad de los platenses, dijo Garro a través de las redes sociales. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160208_0022 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160208_0022_78c";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Los Rolling, ayer, en La Plata, abriendo con Start Me Up!!!',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/08/VID/CLAVID20160208_0022/video_web.flv",
+        image: "http://images.clarin.com/extrashow/Rolling-Plata-abriendo-Start-Up_CLAVID20160208_0022_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160208_0022',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/08/VID/CLAVID20160208_0022/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/10226/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/extrashow/Rolling-Plata-abriendo-Start-Up_3_1519078099.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160208_0022.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160208_0022){
+            //getBBTStats_CLAVID20160208_0022();
+            varModIdReprod_CLAVID20160208_0022 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+También, los cuatro stones recibirán como obsequio cuatro obras de arte con sus rostros, las cuales fueron realizadas y donadas por el reconocido artista plástico argentino Gustavo Masó. Leé también: Para muchos fanáticos fue un debut con gusto a despedida Los británicos cerrarán sus presentaciones en La Plata el sábado, luego seguirán con su gira Olé por Uruguay, Brasil, Perú, Colombia y México.
+

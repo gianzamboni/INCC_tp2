@@ -1,0 +1,18 @@
+
+Astrónomos descubrieron un pequeño asteroide de entre 40 y 100 metros de diámetro que acompaña a la Tierra en su traslación alrededor del Sol, informaron investigadores de la NASA. Mirá también: Detectan por segunda vez las ondas gravitacionales que predijo Einstein Desde la Agencia Espacial estadounidense creen que el miniasteroide, bautizado como 2016 HO3, se mantiene en órbita gracias a la fuerza de gravedad y lleva unos cien años acompañando al planeta. "Se puede decir que ese pequeño asteroide y la Tierra bailan juntos", señaló Paul Chodas, del programa de observación de la NASA dedicado a objetos cercanos a la Tierra (Near Earth Objects, NEO). Mirá también: Descubren un planeta muy parecido al de Star Wars El asteroide fue descubierto a finales de abril con el telescopio Pan-Starrs 1 de la Universidad de Hawái, en el Parque Nacional de Haleakala. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Según la NASA, tiene un predecesor: el 2003 YN107 giraba alrededor de la Tierra en una órbita similar. Hace unos diez años, sin embargo, desapareció en las profundidades del espacio. Mirá también: Captan por primera vez un fabuloso fenómeno cósmico Aunque este nuevo hallazgo parece fiel a su órbita e inofensivo, desde la NASA indican que si bien "en los próximos 200 años no se ve ningún peligro de que pueda chocar con la Tierra, no hay certezas a largo plazo".

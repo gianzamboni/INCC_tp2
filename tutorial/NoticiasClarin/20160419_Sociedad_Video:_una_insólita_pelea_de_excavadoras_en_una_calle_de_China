@@ -1,0 +1,18 @@
+
+Cuando parecía que ya habíamos visto todo en materia de peleas callejeras, llega desde China esta insólita pelea entre dos conductores de excavadoras en las calles de Xingtang, provincia de Hebei, China. La escena fue tomada por un transeúnte y subida a YouTube, donde rápidamente se hizo viral. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+De acuerdo a los testimonios, el enfrentamiento se habría producido luego de que los conductores de estas máquinas tuvieron una discusión, debido a que ambos se disputaban un mismo cliente. Así cada uno tomó su excavadora y comenzó a luchar sin tregua. La pelea no concluyó hasta que una de las máquinas terminó volteada. En ese momento llegaron otras para prestar auxilio y calmar los ánimos. Algunos sitios vinculan este tipo de episodios con la crisis que está pasando el sector de la construcción en China, donde se habría producido una reciente ola de despidos.

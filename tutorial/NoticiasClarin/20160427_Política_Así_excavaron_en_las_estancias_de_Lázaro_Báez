@@ -1,0 +1,18 @@
+
+Con máquinas retroexcavadoras trabajando sobre el terreno, los allanamientos en las estancias de Lázaro Báez sumaron hoy un nuevo capítulo: la pesquisa bajo tierra. Así lo mostró en canal Todo Noticias. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Guiados por perros de la AFIP, especializados en rastrear dinero, los inspectores que realizan los allanamientos -encabezaron por el fiscal Marijuan- a los campos del empresario excavaron en el lugar y removieron tierra a raíz de las declaraciones del ex valijero, Leonardo Fariña, quien habló de billetes escondidos en bóvedas. Mirá también: Allanan las casas de todos los hijos de Lázaro Báez: secuestraron una impresora y cajas “Otra anécdota para contar, es que en una tanda de billetes,los últimos de un fajo quedaban inservibles por humedad y hongos, porque uno de los famosos lugares donde se guardaba dinero era la supuesta bodega, la bodega no eran solamente lockers, eran cajas ciegas en la parte de abajo, esos cajones daban al piso", dijo. Y agregó: "En la chacra donde siempre comíamos los viernes, guardaban una cantidad importante de dinero”, explicó el arrepentido". Mirá también: Ahora, allanan Austral Construcciones, la empresa insignia de Lázaro Báez En el marco de las pesquisas en esas estancias, que comenzaron ayer por la tarde en El Calafate, ahora se remueves partes del suelo para ver si hallan algo enterraron en las inmensas superficies de los terrenos de Báez.  Mirá también: Embargan un campo de Báez en Uruguay por presunto "lavado de dinero"

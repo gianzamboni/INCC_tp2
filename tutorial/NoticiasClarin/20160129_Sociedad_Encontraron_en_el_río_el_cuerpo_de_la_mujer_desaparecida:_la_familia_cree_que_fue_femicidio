@@ -1,0 +1,17 @@
+
+El cuerpo de María Liliana Arce, quien era buscada desde el fin de semana cuando fue al río junto a su pareja, fue hallado en la tarde noche de ayer a la altura de Acassuso, partido de San Isidro, al norte del conurbano bonaerense.La noticia fue confirmada a DyN por fuentes de la Prefectura Naval, fuerza que dio con el cadáver ayer por la tarde en el Río de la Plata.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+

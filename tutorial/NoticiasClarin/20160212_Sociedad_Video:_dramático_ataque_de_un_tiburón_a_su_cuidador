@@ -1,0 +1,127 @@
+
+La reacción de un animal salvaje es muchas veces imprevisible. Y más, si se trata de un tiburón encerrado en un acuario, con el añadido de ser una hembra preñada. Uno de los videos de naturaleza que está despertando esta semana más atracción en las redes sociales es precisamente el protagonizado por una hembra de tiburón toro (o tiburón tigre, Carcharias taurus) y uno de sus cuidadores en un acuario de Sudáfrica. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160212_0002 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160212_0002_2ae";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Un tiburón ataca a un cuidador en un acuario de Sudáfrica',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/12/VID/CLAVID20160212_0002/video_web.flv",
+        image: "http://images.clarin.com/sociedad/tiburon-ataca-cuidador-acuario-Sudafrica_CLAVID20160212_0002_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160212_0002',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/12/VID/CLAVID20160212_0002/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/tiburon-ataca-cuidador-acuario-Sudafrica_3_1521477839.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160212_0002.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160212_0002){
+            //getBBTStats_CLAVID20160212_0002();
+            varModIdReprod_CLAVID20160212_0002 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+El buzo participaba en una operación rutinaria de la población del acuario y toda la intervención parecía transcurrir con normalidad hasta que, de forma inesperada, el tiburón reacciona violentamente y ataca a su cuidador, que tiene que salir de maner ainmediata y ser atendido por los médicos del lugar. Leé también: Video: un tiburón se comió a otro en un acuario El vídeo difundido esta semana fue filmado en 2012, pero sigue siendo impactante. Más cuando se puede ver cómo le quedó el brazo al cuidador, que por lo que se puede ver en las imágenes, estuvo cerca de perderlo. Hace poco se conoció que el 2015 tuvo el récord de ataques de tiburones. En total se registraron 98 ataques no provocados, diez más que en el año 2000, que hasta ahora tenía el récord, y seis fueron mortales según el Archivo Internacional de Ataques de Tiburones (AIAT), una base de datos que gestiona la Universidad de Florida desde 1987.

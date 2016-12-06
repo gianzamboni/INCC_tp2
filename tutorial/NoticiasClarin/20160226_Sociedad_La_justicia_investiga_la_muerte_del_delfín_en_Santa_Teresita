@@ -1,0 +1,22 @@
+
+La Justicia busca identificar a las personas que presenciaron la muerte del delfín en una playa de Santa Teresita, el 10 de febrero pasado, en el marco de una causa que trata de establecer si el mamífero murió como consecuencia de haber sido capturado por los turistas. Según se informó en Tribunales, el fiscal federal Ramiro González solicitó diversas medidas para identificar a quienes aparecen en las imágenes difundidas en redes sociales y diversos medios de comunicación.
+
+González, a cargo de la Unidad Fiscal de Investigaciones en Materia Ambiental (UFIMA), requirió a la División Operaciones del Departamento de Delitos Ambientales de la Policía Federal desgrabar el video publicado en el perfil de un usuario de la red social, en el cual se evidenciaría la captura presuntamente cometida en la zona costera.
+
+También leé: "La muerte del delfín en Santa Teresita, en medios de todo el mundo" También requirió analizar las fotografías y lo difundido por los medios de comunicación, a los fines de identificar a quien habría sacado al animal agua. Al mismo tiempo, se solicitó al titular de la Dirección de Fauna Silvestre un informe sobre las características del delfín y toda información que tenga sobre el hecho. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+También leé: "Polémica por un grupo de turistas que se sacó fotos con un delfín" La causa se había iniciado a raíz de la difusión de fotos en la red social Facebook, en las que se observa a un grupo de personas sosteniendo a una cría de la especie "franciscana" fuera del agua, y posteriormente muerta en la orilla. Fuente: DyN

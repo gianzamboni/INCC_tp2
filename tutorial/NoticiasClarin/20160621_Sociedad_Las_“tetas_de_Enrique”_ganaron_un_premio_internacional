@@ -1,0 +1,18 @@
+
+Las tetas de Enrique le ganaron a la censura de Facebook. Y ahora, también, ganaron un premio internacional. Mirá también: Una campaña contra el cáncer de mama desafía a la censura  La campaña creada por una asociación de pacientes que tuvieron cáncer de mamá para concientizar sobre el autoexamen mamario fue un éxito viral inmediato. La hizo el Movimiento Argentino de Lucha contra el Cáncer de Mama (MACMA). En ella, se explica con un modelo masculino (al que llamaron Enrique) cómo hacerse el autoexamen. Así, buscaron vencer la censura de las redes sociales como Facebook e Instagram, que dan de baja cualquier contenido que muestre (o parezca mostrar) un pecho femenino. Mirá también: Ahora Facebook censuró un dibujo de un caballo 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Ahora, la campaña (que en realidad se llama TetasxTexas) ganó el premio mayor para campañas de bien público en el Festival de Creatividad Cannes Lions Salud, un reconocimiento que se otorga en conjunto con las Naciones Unidas, informó hoy MACMA.  “Se convirtió en la campaña de prevención de esta enfermedad que más se viralizó en la historia”, afirmaron desde la ONG, y aportaron las cifras: en una semana, tuvo 22 millones de visualizaciones y más de 48 millones de impresiones en redes sociales. La campaña fue creada ad honorem por la agencia DAVID Buenos Aires y fue replicada por medios de todo el mundo. Mirá también: Las tetas de Enrique: la campaña que logró ganarle a la censura en las redes sociales   El cáncer de mama es la primera causa de muerte en la mujer adulta y en Argentina una de cada ocho mujeres está en riesgo de tenerlo. “Queremos generar conciencia sobre la importancia de la detección temprana, la necesidad de la visita anual al médico clínico y al ginecólogo, la realización de una mamografía anual después de los 40 años y del autoexamen mamario, esté último como complemento de la visita al médico y la mamografía”, explica Marta Mattiussi, de la comisión directiva de MACMA.  

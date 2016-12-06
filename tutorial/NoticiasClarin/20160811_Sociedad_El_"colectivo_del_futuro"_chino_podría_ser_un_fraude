@@ -1,0 +1,22 @@
+
+Las autoridades chinas han pospuesto las obras de la fábrica donde se preveía producir en serie a partir de 2017 el autobús-túnel inventado por la empresa china Huaying Group, mientras afloran dudas sobre la viabilidad de este nuevo vehículo e incluso temores de que esta creación sea un fraude.
+
+Según relataron hoy autoridades de la ciudad de Zhoukou (centro de China), donde iba a construirse la fábrica, al diario oficial China Daily, el proyecto se ha pospuesto porque "el informe de impacto ambiental no ha sido aún aprobado", pese a que se celebró una ceremonia de inauguración de las obras en julio. Mirá también: En China prueban el "colectivo del futuro" que va por arriba de los autos La empresa pequinesa Huaying Group, responsable del autobús-túnel (que la semana pasada se estrenó en las calles de la ciudad de Qinghuangdao, en el norte del país), había acordado en diciembre la apertura de la fábrica con las autoridades de Zhoukou.
+
+El retraso en las obras se conoce después de que algunos expertos chinos hayan puesto en duda la utilidad del vehículo, en teoría ideado como alternativa más barata a las redes de metro, y también después de que en algunos medios se acusara a la empresa inventora de obtener su financiación engañando a sus inversores. Mirá también: Video: el "colectivo del futuro" irá por arriba de los autos El primer vehículo de este tipo, llamado TEB-1 (siglas en inglés de Autobús Elevado de Tránsito) circuló la semana pasada unos cientos de metros en un acto de exhibición. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Con capacidad para 300 pasajeros, el TEB-1 mide 22 metros de largo, 4,8 de alto y 7,8 de anchura, dimensiones suficientes para circular sobre dos carriles a la vez y que un automóvil pueda adelantar a otro debajo de este ciclópeo autobús. El proyecto es visto como una alternativa mucho más económica a las redes de metro, ya que podría costar cinco veces menos que los trenes subterráneos, aunque aún presenta problemas técnicos, ya que el modelo experimental, entre otras cosas, no es capaz de girar y sólo avanza en línea recta. Fuente: EFE.

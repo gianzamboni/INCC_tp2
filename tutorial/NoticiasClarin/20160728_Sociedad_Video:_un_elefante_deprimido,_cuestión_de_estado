@@ -1,0 +1,24 @@
+
+El destino del deprimido elefante Kaavan, estrella del zoo de Islamabad y regalo del Gobierno de Sri Lanka, ha llegado a las más altas instancias políticas paquistaníes y podría ser liberado en un santuario después de que el Parlamento así lo recomendase, ante la presión de activistas de todo el mundo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Khaavan, un paquidermo grisáceo con motas amarillas de 32 años, sufre depresión, estrés y problemas en el comportamiento, después de tres décadas recluido en un pequeño recinto y tras la muerte de su compañera Saheli en 2012. Mirá también: Video: así reubican en Africa a los elefantes para protegerlos Después del fallecimiento de su pareja, el elefante vivió encadenado durante tres años, hasta que la presión en las redes sociales llevó al zoo a quitarle las cadenas. Activistas de todo el planeta lanzaron una campaña por la liberación del animal, entre ellos la cantante estadounidense Cher, y su petición online logró más de 200.000 firmas.
+
+El Comité Permanente del Senado paquistaní tomó cartas en el asunto y recomendó hace dos días la liberación del animal en un santuario, aunque no en su país de origen, Sri Lanka, porque sería devolver un regalo oficial. "Kaavan debe retirarse de su trabajo en el zoo y ser liberado en un santuario", dijo a Efe la parlamentaria Samina Abid, quien llevó la cuestión al Senado. Abid afirmó que el animal se encuentra "angustiado" tras décadas en un pequeño recinto y años de abusos y encadenamiento, por lo que ha llegado el momento de que sea puesto en libertad. Mirá también: Este elefante de peluche se fue a recorrer el mundo El elefante fue un regalo oficial del Gobierno de Sri Lanka en 1985 y por tanto es un asunto de Estado. "Es muy complicado porque es un regalo del Gobierno de Sri Lanka. Es una cuestión estatal. No se puede devolver un regalo de otro país", dijo a Efe el vicepresidente de la Fundación para la Conservación de la Naturaleza de Pakistán, Safwan Shahab Ahmad.
+
+El especialista, que ha estudiado a Kaavan durante los últimos 23 años, afirmó que el estado del animal es "miserable", sufre depresión, estrés y anomalías en el comportamiento debido a la soledad, la falta de espacio y las cadenas. El recinto del animal ocupa una superficie de 90 por 140 metros, sin árboles y con la poca sombra que ofrece un pequeño edificio con el techo roto en una ciudad donde se supera con facilidad los 40 grados en verano. Ahmad cree que el elefante morirá pronto si no es liberado en un santuario, por ejemplo, en Birmania, que a diferencia de Pakistán cuenta con el hábitat natural de estos animales. Mirá también: "Piquetero" inesperado: un elefante cortó una ruta solo para que sus crías la cruzaran Bilal, el cuidador de Kaavan en los últimos 28 años, cree, sin embargo, que el animal solo necesita otra compañera para recuperar el ánimo. "No tiene sentido que lo manden al extranjero. Sería un insulto para Sri Lanka. Es mejor que le traigan una compañera y arreglen un poco su recinto", indicó Bilal. El cuidador reconoció que el animal estuvo encadenado durante mucho tiempo tras la muerte de Saheli porque desarrolló un comportamiento impredecible y en ocasiones violento, pero aseguró que ahora solo se le ponen cadenas cuando le limpian.
+
+La opinión de Bilal es compartida por el parlamentario y ministro de Desarrollo de Islamabad, Tariq Fazl Chaudhry, quien está tratando de privatizar parte de la gestión del zoo. El político argumentó que se puede traer un elefante hembra de Sri Lanka para hacer compañía a Kaavan y ampliar el zoo. "Las licitaciones para la ampliación del zoo ya se han publicado", indicó Chaudhry en la sesión del Senado en la que se trató el futuro del animal, de acuerdo con el diario Express Tribune. Sin embargo, varios senadores respondieron con ironía que cuando la ampliación del zoo haya finalizado, "quizás en 2025", el elefante habrá muerto. Mientras las altas instancias de la política paquistaní debaten su destino, Kaavan sigue siendo la estrella del zoo capitalino. A la hora del baño diario del animal, familias, grupos de niños y curiosos se acercan a ver al gigantesco elefante y alimentarlo a través de las rejas de su reducto. Los niños ofrecen trozos de bambú y hierba y el animal busca con su trompa los alimentos, para delicia de los más pequeños, en la que quizás sea una de los últimas ocasiones para ver a Kaavan en Pakistán. Por Jaime León / EFE

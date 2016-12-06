@@ -1,0 +1,18 @@
+
+Se presentó esta mañana y casi en simultáneo, se empezó a distribuir. El billete de $ 200 ya entró en el circuito de monedas que los argentinos usarán a diario los próximos años. Por una cuestión de logística, pasarán varios días hasta que el público reciba su primera "ballena", el animal que se eligió para ilustrar. Pero conviene prestar atención: el nuevo diseño incluye varias medidas de seguridad, para garantizar su autenticidad. A continuación, un video en el que se detalla cómo identificarlas. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+  

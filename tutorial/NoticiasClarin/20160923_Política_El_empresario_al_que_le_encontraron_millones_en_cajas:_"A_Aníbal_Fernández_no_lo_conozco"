@@ -1,0 +1,111 @@
+
+El empresario tabacalero Carlos Tomeo, denunciado por Elisa Carrió al que ayer le encontraron 4 millones de pesos en cajas de cartón en el marco de varios allanamientos, volvió a negar que conociera al ex jefe de Gabinete, Aníbal Fernández, al que le exigió que "de la cara y diga que no me conoce, su silencio no sirve". 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_beqj229o",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_beqj229o"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_beqj229o").after(scriptEl);
+ "A Aníbal Fernández no lo conozco, nunca lo he visto en mi vida, nunca he estado en obra pública, no soy proveedor del Estado, solo me he dedicado a trabajar, mi negocio es el tabacalero", explicó en diálogo con América TV.  Mirá también: Carrió, recargada: cuatro denuncias a políticos y empresarios, bajo la sombra de Aníbal F. Tomeo, que sostuvo que tampoco tiene contacto alguno con el sindicalista camionero Hugo Moyano y el ex apoderado de la Fundación Madres de Plaza de Mayo, Sergio Schoklender salió a hablar luego de que la diputada Elisa Carrió lo denunciara como integrante de una red de supuestas maniobras de lavado de dinero: "No entiendo por qué Carrió me vincula a Aníbal Fernández". Respecto de los millones de pesos encontrados en una vivienda de su propiedad en el Country Abril, de Berazategui, Tomeo explicó que el dinero estaba en esa casa "porque mi consuegro guardo el dinero cuando me fui de vacaciones".
+
+"Esta todo en mi declaración jurada fue fiscalizado, fiscalizaciones de muchos días, no de horas, una duró como mil días, a mi, mi empresa, mi hijo, mi mujer", señaló.  
+
+
+"Me han perseguido con fiscalizaciones", afirma Tomeo.
+
+
+
+
+
+var act_a54 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_a54 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_a54.setTitle('"Me han perseguido con fiscalizaciones", afirma Tomeo.');
+act_a54.setSubtitle('Allanamientos en el Country Abril'); 
+act_a54.setLinkBack('http://www.clarin.com/politica/empresario-Tomeo-desafio-Anibal-Fernandez_0_1655834537.html');
+act_a54.setDescription('El tabacalero Carlos Tomeo salió a reclamarle al ex jefe de Gabinete que aclare su situación. Tras una denuncia de Carrió, allanaron su domicilio y encontraron un tesoro. Qué dijo el ex jefe de Gabinete.');
+act_a54.addActionLink('VER MÁS', 'http://www.clarin.com/politica/empresario-Tomeo-desafio-Anibal-Fernandez_0_1655834537.html');
+
+var showShareBarUI_params_a54=
+{ 
+containerID: 'shareQuote_a54',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_a54,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_a54
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_a54);
+ "En la industria tabacalera se mueve todo en efectivo. Los kiosqueros pagan en efectivo, no con cheques", sostuvo. "Estoy aportando todos los documentos, me parece valedero que la diputada haga la denuncia", dijo. Para remarcar su inocencia, insistió: "Tengo todo declarado y por eso voy a hacer un juicio y donaré el dinero". Tomeo dijo que "a veces tener éxito molesta a algunos" por eso "hacen daño, trabajamos, pagamos y contribuimos, sería bueno ver cuántos cuidados como yo los han fiscalizados tantas veces en su vida como a mí". 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_y1wumvg3",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_y1wumvg3"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_y1wumvg3").after(scriptEl);
+ Sobre su vinculación con la política, el empresario denunciado por Carrió, aseveró que "nunca aporté plata para la campaña de ningún partido. Yo voté al gobierno actual, pero nunca aporté a Cambiemos". Mirá también: El tesoro escondido en la casa del denunciado empresario Carlos Tomeo La Prefectura allanó el pasado martes, por orden del juez federal Luis Armella, varias propiedades en el country Abril pertenecientes a Tomeo, a quien Elisa Carrió acusó de ser el testaferro del ex ministro y ex senador nacional Aníbal Fernández. El ex jefe de Gabinete K salió a hablar tras las palabras de Tomeo. "DESQUICIADA: Una nueva denuncia pretendió involucrarme. NO CONOZCO al Sr. Tomeo ni bien ni mal y jamás escuché mencionar su nombre. Game over". DESQUICIADA: Una nueva denuncia pretendió involucrarme. NO CONOZCO al Sr Tomeo ni bien ni mal y jamás escuché mencionar su nombre. Game over— Aníbal Fernández (@FernandezAnibal) 23 de septiembre de 2016
+ Carlos Daniel Tomeo fue denunciado por Elisa Carrió como parte de un grupo de legisladores, funcionarios y empresarios que tendrían vínculos con el ex jefe de Gabinete Aníbal Fernández, relacionados con supuestas maniobras de lavado de dinero. Tomeo, dueño de la tabacalera Espert de Berazategui, que la semana pasada fue allanada por el juez federal de Quilmes Luis Armella. Ya en aquel operativo se secuestraron “dos bolsos con $ 6.819.900 y US$ 405.101 en efectivo”. Además, Tomeo aparece como titular de más de 20 vehículos de alta gama y diez inmuebles situados en el interior del Country Abril, de Hudson.
+
+Desde la Coalición Cívica-ARI, partido de Lilita, Mónica Frade, asesora jurídica de la diputada de Cambiemos, dijo que la denuncia contra Tomeo surgió porque "se sospecha que la plata [encontrada en la casa del country Abril] es de origen político".  "Para nosotros el enriquecimiento es proveniente del lavado y creemos que puede ser 'prestanombre' de algunas personas que estamos investigando, de las que no voy a dar nombres porque la investigación tiene apenas un mes", aseguró la abogada en declaraciones formuladas esta mañana a la radio FM Delta.
+
+

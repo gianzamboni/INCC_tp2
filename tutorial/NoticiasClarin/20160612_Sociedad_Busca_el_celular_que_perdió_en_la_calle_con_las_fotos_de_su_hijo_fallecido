@@ -1,0 +1,22 @@
+
+A través de una campaña en las redes sociales, Mariano Ramos busca desesperadamente un celular que perdió el martes en el barrio Don Bosco, de Córdoba. Allí guardaba audios, videos y fotos de su hijo Mateo,de tres años,que falleció el 19 de agosto del año pasado. ​ 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+“El martes había ido a comer a lo de mi hermana y tenía el celular. Me subí al auto y cuando llegué a casa no lo tenía más. Creo que pudo haberse caído en la calle. O, como mi hermano y yo usamos ese auto para trabajar de remiseros, por ahí quedó escondido en algún lugar que no vimos, un pasajero lo encontró y se lo quedó”, cuenta Ramos a Clarín. Como no se trató de un robo ni de un arrebato, la familia Ramos tiene la esperanza de que algún vecino o alguien que pasaba por ahí lo haya encontrado. “No pido el celular, no me importa, sólo quiero que me hagan llegar la memoria o que me manden los archivos por mail. No me interesa lo material, sólo recuperar los videos y los audios de mi hijo, que no los había compartido con nadie. Los tenía sólo yo y estaban ahí. Muchas de las fotos están en Facebook, pero los videos y los audios no los tengo en ningún otro lado”, dice el joven de 24 años. 
+
+ Ya buscó por todos lados los distintos registros: no están ni en el backup de su mail, ni los había compartido con sus familiares. Sólo estaban en el celular Motorola G2 que perdió hace cinco días en Nicolás Esandi al 7000. El primer impulso de la familia Ramos fue compartir la búsqueda a través de las redes sociales para dar con quien lo haya agarrado y apelar a su solidaridad. Enseguida la historia de Mariano se hizo viral y miles de personas lo compartieron para ayudarlo a dar con los archivos. 
+
+ Mateo Ramos tenía tres años cuando falleció, el 19 de agosto del año pasado. Luchaba contra el cáncer desde los 11 meses. Quienes puedan colaborar con la búsqueda o tengan alguna información pueden comunicarse por mail a yani_ramos86@hotmail.com, por teléfono al (0351) 15 816 3935 o por Facebook.

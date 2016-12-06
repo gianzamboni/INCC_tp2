@@ -1,0 +1,34 @@
+
+ Guillermo Moreno debutó como actor. El controvertido ex secretario de Comercio Interior K lanzó hoy en redes sociales un cómico spot en el que se lo ve sirviendo sopa de una olla para luego criticar al gobierno de Mauricio Macri, del que es un férreo opositor.  La pieza se titula “SOPA” y el economista peronista, que semanas atrás entrevistó a Maradona y Hebe de Bonafini en su programa radial y llamó a defender a Cristina, es el protagonista y único actor. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Con un tango de fondo, Moreno camina alrededor de una mesa con un cucharón en mano, sirviendo sopa hasta que, de repente, al llegar al cuarto plato, empieza a rascar el fondo de la olla y no hay nada.  Es entonces cuando negando con la cabeza, en un gesto de cine mudo de Charles Chaplin, gira el recipiente y se lee un cartel de “Cambiemos”. Acto seguido, rompe el silencio: "¡Bestias! Le sacaron la comida de la boca al pueblo”, lanza mirando a cámara. Mirá también: Guillermo Moreno desmintió haber frecuentado el convento de los bolsos de López  El plano se abre y muestra al exfuncionario mirando callado a cámara con la olla vacía en la mano hasta que aparece el logo de su agrupación “La Néstor Kirchner”.  Con este video, Moreno retoma sus críticas contra el Gobierno apelando a una polémica frase que lanzó semanas atrás cuando, en televisión, dijo: “Videla tiraba gente al mar, pero no le sacó la comida a la gente”. Mirá también: Maradona con Moreno y Hebe: "Quieren meter presa a Cristina porque hizo las cosas bien"  Ese día, sostuvo que "no hubo gobierno más brutal que este en los últimos 70 años" y acusó a la administración de Macri de sacarle "la comida de la boca a la gente". Y redobló la apuesta al afirmar: "Videla tiraba a nuestros compañeros al mar, pero no les sacó la comida. No se metió con el precio de la comida". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Una frase por la que fue criticado tanto desde el oficialismo como desde la oposición, inclusive dentro del kirchnerismo, al que representa. Poco le importó al economista K, que hace meses abrió una panchería con César Milani, ex jefe del Ejercito. Mirá también: Así es la panchería “alemana” de Guillermo Moreno y César Milani Ahora, el hombre que durante años fue acusado de manipular la inflación y los índices de pobreza, volvió a repetir ese exabrupto, esta vez en su debut actoral para las redes sociales.

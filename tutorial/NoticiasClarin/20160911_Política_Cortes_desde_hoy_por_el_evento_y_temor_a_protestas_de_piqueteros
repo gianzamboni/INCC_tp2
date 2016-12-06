@@ -1,0 +1,18 @@
+
+Automovilistas que van al Microcentro a trabajar en auto, abstenerse de hacerlo desde hoy hasta el jueves con ese medio: durante estos días se llevará a cabo en el CCK el Foro de Inversión y Negocios y habrás zonas en las que no se podrá acceder en vehículos. Además, el Gobierno prevé movilizaciones de Quebracho, la izquierda, Barrios de Pie y del movimiento MILES de Luis D' Elía, que puedan trastornar aún más el ya de por sí el complejo mapa callejero. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/solotransito/status/775265382336790529",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77526538233679052")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El rectángulo delimitado por las avenidas Córdoba, Eduardo Madero, Independencia, Paseo Colón y su continuación Leandro N. Alem directamente estará cerrado al tránsito desde hoy a la mañana. En tanto, para esta área más grande, que va desde el bajo hasta Bernardo de Irigoyen y su sucesora Carlos Pellegrini, entre las avenidas Independencia y Córdoba, el Gobierno recomienda no transitar en vehículos aunque no estará cerrada: estiman que habrá movilizaciones espontáneas. El Ejecutivo porteño destinará más de 100 agentes de tránsito.  Otra recomendación es estar atento a los carteles informativos callejeros ya que darán cuenta de posibles cortes por manifestaciones. En vistas al Foro, Barrios de Pie había instalado el jueves, luego de las 100 ollas populares que desplegó en el Ciudad, una carpa frente al CCK: piden por "trabajo digno" y que se dicte "la emergencia social". Hubo tregua y hoy los recibirá la ministra de Desarrollo Social porteña, Guadalupe Tagliaferri. "Si no hay soluciones en esta instancia volveremos a instalar la carpa", aseguró a Clarín el referente de ese espacio, Daniel Menéndez. 

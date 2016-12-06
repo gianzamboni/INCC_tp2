@@ -1,0 +1,68 @@
+
+Ahora Víctor Hugo denuncia censura. Con nosotros no, Víctor Hugo. La censura es la prohibición de la expresión. No se le ha prohibido a Víctor Hugo expresarse. Se terminó su relación con radio Continental. Eso es todo. Como cualquiera, Víctor Hugo puede buscar otros espacios para decir lo suyo. En su momento sus relatos de goles trajeron aire fresco. En su momento supo ser comentarista independiente que compartía con Magdalena Ruiz Guiñazú la transición entre el programa que ella finalizaba y el programa que él empezaba. Hasta que comenzó su devoción por el kirchnerismo. De impugnarle a Kirchner que comprara dos millones de dólares en base a información privilegiada pasó a ser creyente. No hubo ninguna transición. Sólo un llamado de Kirchner. O algo más. Así son las conversiones: por revelación o por dinero. Defendió todo, sin matices. Corruptos como Boudou. De Vido y Lázaro Báez y los negociados del juego de Cristóbal López y de Cristóbal López con los Kirchner. Apoyó la estigmatización sistemática de periodistas y la versión exculpatoria del Gobierno respecto de la tragedia de Once. Cada día inundaba de sentencias absolutorias a los funcionarios y de sentencias condenatorias a quienes los criticaban. Tiene todo el derecho de seguir haciendo lo mismo. No es alguien encarcelado en el silencio. El problema es que ya no están ni el kirchnerismo ni la pauta oficial. Aunque tiene a tiro una docena de radios kirchneristas. Las del grupo Indalo de Cristóbal López; las del grupo 23 de Szpolski y Garfunkel; las del grupo Octubre de Víctor Santa María; las de Electroingeniería de Ferreya y Acosta y los medios del grupo Olmos de la UOM.
+
+
+De impugnarle a Kirchner que comprara dos millones de dólares en base a información privilegiada pasó a ser creyente
+
+
+
+
+
+var act_e5b = new gigya.socialize.UserAction();
+
+var emailBodyCustom_e5b = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_e5b.setTitle('De impugnarle a Kirchner que comprara dos millones de dólares en base a información privilegiada pasó a ser creyente');
+act_e5b.setSubtitle('En foco'); 
+act_e5b.setLinkBack('http://www.clarin.com/politica/Victor-Hugo_0_1502850013.html');
+act_e5b.setDescription('');
+act_e5b.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Victor-Hugo_0_1502850013.html');
+
+var showShareBarUI_params_e5b=
+{ 
+containerID: 'shareQuote_e5b',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_e5b,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_e5b
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_e5b);
+ Victor Hugo es un hábil negociador y un grupo empresario en sí mismo. Fue un imán para avisos publicitarios del mundo del deporte y en los últimos años un inmenso beneficiario del dinero del Gobierno. Hoy perdió audiencia y el poder de generación de negocios privados.  Ahora se convierte a sí mismo en un mártir, casi en un héroe. No es un modelo periodístico sino un emblema de lo contrario. Es alguien que habla sin datos y que ataca sin pruebas. Es propaganda. Quiere hacer creer que su despido es un caso de libertad de prensa. Que Clarín lo despidió. No, Víctor Hugo. No ha sido Clarín. Tampoco Macri. Pasó simplemente que dejó de ser útil para quienes lo empleaban.

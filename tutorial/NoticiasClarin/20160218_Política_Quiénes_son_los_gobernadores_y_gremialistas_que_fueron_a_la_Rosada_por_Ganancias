@@ -1,0 +1,32 @@
+
+Poco después de las 10 de la mañana de este jueves, el Presidente de la Nación anunció cambios en el mínimo no imponible del impuesto a las Ganancias y en las escalas.
+
+Mauricio Macri hizo este anuncio en un marco que recordó a alguno de los actos de Cristina Fernández de Kirchner en la Casa Rosada, donde gobernadores, legisladores y dirigentes K se acercaban a aplaudir los discursos de la entonces Presidenta. Varios de los que tuvieron un paso por esos actos estuvieron hoy retornaron a la Rosada; tanto gremialistas como legisladores y mandatarios provinciales.
+
+Los gobernadores de Salta, Juan Manuel Urtubey; de Córdoba, Juan Schiaretti; de Chubut, Mario Das Neves; de Tucumán, Juan Manzur; de Entre Ríos, Gustavo Bordet; de La Pampa, Carlos Verna; de Formosa, Gildo Insfrán;  de la provincia de Buenos Aires, María Eugenia Vidal y el jefe de Gobierno porteño, Horacio Rodríguez Larreta. Por Mendoza, estuvo la vicegobernadora Laura Montero.
+
+Por el lado de los gremios, significó el regreso de varios de ellos después de muchos años: en ese grupo estaban Hugo Moyano, Gerónimo “Momo” Venegas y Julio Piumato. También se vio allí al petrolero Jorge Ávila, José Luis Lingeri, el municipal Amadeo Genta y al histórico Antonio Cavalieri, de Comercio.
+
+A ese grupo se acercó Patricia Bullrich, quien saludó con un amable beso a su viejo rival Hugo Moyano. Luego la ministra de Seguridad se acercó al gobernador salteño y conversó unos cuantos minutos con Urtubey.
+
+Al terminar el breve acto, el Presidente se acercó a saludar a la primera fila y privilegió a los gremialistas: hubo beso para Moyano, Venegas y Genta. Luego, fue hacia el pelotón de gobernadores, donde hubo risas y chistes en voz baja con Urtubey, Verna y Schiaretti.
+
+Los presentes fueron muchos y la capacidad se vio colmada: por eso, se vio hasta último minuto al secretario General de la Presidencia, Fernando de Andreis, agregando una fila más de sillas en el acto realizado en el Salón Blanco de la Casa de Gobierno. 
+
+Alfonso Prat Gay no estuvo presente en la Rosada durante el anuncio por estar en Brasil, país al que fue para "poner en común las posiciones de ambos países ante el G20", según comunicó ese ministerio. Allí, el ministro de Hacienda y Finanzas Públicas , Alfonso Prat-Gay, visit aBrasilia para reunirse con su homólogo brasileño Nelson Barbosa, Ministro de Hacienda, y el Canciller del país vecino, Mauro Vieira. Prat-Gay viajará la semana próxima a Shangai, para participar en la reunión de ministros de Economía y Finanzas y Gobernadores de Bancos Centrales del Grupo, que tendrá el lugar los próximos 26 y 27 de febrero en la ciudad china.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/elisacarrio/status/700295862321287168",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70029586232128716")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

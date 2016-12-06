@@ -1,0 +1,20 @@
+
+Mundo Loco, la productora que le dio forma a Metegol, la película animada de Juan José Campanella y Gastón Gorali, hoy presume de ser la punta de lanza que reimpulsó la industria de la animación en Argentina, ayudando a capacitar a otros y promoviendo el talento argentino en el mundo. “Metegol avanzó con la locomotora y puso las vías del tren a la par, ahora las vías ya están”, resumió Gorali, productor general de Mundo Loco, en el Coloquio de IDEA. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+- Si casi no había profesionales de animación, ¿cómo hicieron para encontrar personal para Metegol?  - Reclutamos gente de varias formas. Mucho talento argentino trabajó en la película pero también gente de otros países con experiencias en grandes estudios. Esa interacción entre gente con mucha experiencia y gente talentosa que aún no había tenido la oportunidad de trabajar funcionó muy bien. 
+
+- ¿Están pagando sueldos internacionales?  - Lo que no nosotros hacemos en gran parte va al mundo. Es lógico que tengamos que competir con talente que puede trabajar en cualquier parte del mundo. Los salarios tienden a ser salarios que se pueden manejar en otras partes del mundo. Pero lo interesante no es tanto el costo bajo que podamos tener como país o industria sino el valor agregado alto. Que nos vengan a buscar por nuestras ideas, más allá de si somos baratos o caros.  - ¿Cómo se hace para competir con el poder de las multinacionales estadounidenses en la distribución?  - Con la fragmenntación de medios que hay, en el futuro la distancia entre quienes cuentan las historias y las personas que las quieren ver es cada vez más corta. Cada vez hay menos interlocutores en el medio. Es interesante ver cómo las buenas ideas llegan a donde tienen que llegar. Si bien hoy por hoy es verdad que hay una industria que le cuesta encontrar su vehículo de distribución.

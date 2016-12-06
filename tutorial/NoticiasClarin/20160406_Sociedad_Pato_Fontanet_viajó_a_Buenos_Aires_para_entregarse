@@ -1,0 +1,146 @@
+
+Si los integrantes de Callejeros no se presentan hoy, la Justicia mandará a detenerlos. En ese contexto, el cantante Patricio Fontanet --que reside en Córdoba-- ya viajó a Buenos Aires para entregarse. Así lo confirmó su abogado, Marcelo Brito, a la radio cordobesa Cadena 3. Fontanet fue condenado a siete años de cárcel, pero ya cumplió un año y ocho meses de prisión preventiva. "Ahora le resta cumplir, desde el punto de vista formal, cinco años y cuatro meses de prisión", señaló el defensor. Agregó que ese tiempo se puede abreviar por buena conducta y que va a tener el derecho de la libertad condicional, una vez cumplidos los dos tercios de la pena. Mirá también. Especial multimedia - Cromañón 10 años 2004 - 2014 "Nos parece que la Corte ha resuelto de la peor manera, ha saldado de una manera inesperada un pronunciamiento sobre un proceso que fue de tanto debate", agregó Brito, que está a cargo la defensa de cuatro miembros de la banda.  Según lo informado en la radio, el abogado le aconsejó a Fontanet presentarse ante la Justicia en Buenos Aires y completar el tratamiento psiquiátrico al que estaba siendo sometido. Luego, cuando sea dado de alta, podría solicitar el derecho de cumplir su pena en una cárcel de Córdoba, cerca de donde vive su pareja y su hijo. Mirá también: Homenaje en el subte a las víctimas de Cromañón La Corte Suprema de Justicia de la Nación rechazó ayer por "inadmisibles" los recursos extraordinarios presentados por las defensas de once condenados por la tragedia del boliche Cromañón, ocurrida en diciembre de 2004 y que provocó 193 muertes. Por lo tanto, todos ellos deberán cumplir en prisión las penas que recibieron. La novia del cantante, Estefanía Miguel, expresó su bronca en Twitter al enterarse de que "El Pato" debe volver a prisión. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/estefaniamiguel/status/717501340872781826",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71750134087278182")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/estefaniamiguel/status/717501516488302592",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71750151648830259")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/estefaniamiguel/status/717501586780659713",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71750158678065971")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/estefaniamiguel/status/717501728225161216",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71750172822516121")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/estefaniamiguel/status/717501789327777794",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71750178932777779")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/estefaniamiguel/status/717501994253029376",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71750199425302937")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/estefaniamiguel/status/717502059696758784",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71750205969675878")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/estefaniamiguel/status/717502108585607168",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71750210858560716")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/estefaniamiguel/status/717502126398775296",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71750212639877529")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

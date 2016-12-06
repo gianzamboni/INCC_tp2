@@ -1,0 +1,18 @@
+
+ Clarín recibió este martes el premio al Mejor Servicio de Noticias Móvil en la competencia mundial de los Digital Media Awards 2016.   Año a año la Asociación Mundial de Periódicos y Editores de Noticias (WAN-IFRA) reúne los mejores trabajos digitales de los medios de cuatro continentes y elige los ganadores en ocho rubros. En esta ocasión, Clarín fue el representante de América Latina en la categoría móvil y triunfó.  El servicio galardonado fue la cobertura que hizo este diario en Telegram durante la campaña histórica del balotaje presidencial. Telegram es una aplicación de mensajería de vanguardia, sin fines de lucro y comprometida a la libertad de expresión, que compite en innovación con WhatsApp y Messenger.  Durante unos 25 días Clarín envió alrededor de 300 mensajes periodísticos que incluyeron unos 80 links, 130 imágenes y 20 clips de audio y video. La cobertura abarcó noticias de último momento, datos de utilidad para el votante, las frases y el color de la campaña, encuestas electorales, la noche del debate entre Mauricio Macri y Daniel Scioli, lo mejor de las redes sociales y lo más destacado de la larga jornada del 22 de noviembre, cuando se eligió al Presidente actual. El proyecto estuvo a cargo del editor de móviles de Clarín, Juan Marcos Bouthemy, que en mayo de 2015 se convirtió en el primero en ocupar ese puesto creado en el marco de la transformación digital del diario.   La distribución de estos contenidos en Telegram fue una reacción ante la importancia del acontecimiento, y el interés y necesidad de los lectores.  Esta distinción internacional, que Clarín recibió el martes en Viena, celebra una renovada lógica editorial que atiende a los flujos en la conducta de los usuarios de smartphones y tablets. Y lo hace sin abandonar el periodismo que interpreta, orienta y entretiene.  El trabajo galardonado  contó con la colaboración del equipo web, de cronistas digitales y de editores de Política y Fotografía, quienes incluyeron en sus rutinas el aporte de materiales para la cobertura. Eso fue posible en parte gracias a cambios que ha llevado adelante Clarín como medio multiplataforma. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ El año pasado Clarín ya había sido premiado en Hamburgo con el Digital Media Award mundial al Mejor Involucramiento de Audiencias. Y el galardón al Mejor Servicio Móvil de Latinoamérica lo recibirá formalmente durante el evento regional de WAN-IFRA, donde también se anunciarán el resto de los premios. Esta vez se llevará a cabo en Buenos Aires entre el 16 y 18 de noviembre y contará con la participación de conferencistas internacionales y las empresas del sector.  En Viena, el martes también distinguieron al trabajo de los argentinos de Muy Liebre (La Nación) y de los mexicanos de Pictoline, así como a medios de Sudáfrica, India, Inglaterra y Omán.

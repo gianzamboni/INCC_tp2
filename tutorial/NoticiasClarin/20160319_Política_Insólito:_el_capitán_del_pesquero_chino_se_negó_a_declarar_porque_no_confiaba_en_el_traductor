@@ -1,0 +1,22 @@
+
+El juez federal Hugo Sastre no pudo obtener una declaración del capitán y los tres marineros del buque chino hundido esta semana por "un inconveniente" con el traductor: el responsable del pesquero no confiaba en él. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El secretario penal del Juzgado Federal, Mariano Miquelarena, explicó que a través de un intérprete no oficial de mandarí -empleado de una minera de la localidad rionegrina de Sierra Grande- se le comenzó a tomar declaración al capitán del pesquero pero éste decidió no seguir colaborando mientras se le comunicaban sus derechos. Según revelaron a la agencia DYN fuentes de la investigación, el capitán se habría negado a declarar por "falta de confianza" con el intérprete. Ante ello, las autoridades judiciales debieron convocar a un traductor oficial de mandarín a través de la Cancillería para poder tomar declaración testimonial al capitán del barco "Lu Yan Yuan Yu 010", detenido e incomunicado en el Guardacostas Prefecto Derbes, y a sus tripulantes, que permanecen demorados.
+
+El juez federal de Rawson sí obtuvo ayer el testimonio del jefe de Prefectura de Puerto Madryn, Rodolfo González, quien aseguró que "no hubo intención de hundir el barco" y explicó la dificultad de hacerlo con las municiones que usa la fuerza de seguridad naval. Mirá también: Prefectura hundió un barco chino que pescaba ilegalmente en Mar Argentino Según fuentes judiciales, el prefecto mayor insistió con que "no hubo intención de hundir el barco desde Prefectura" y con que se actuó "dentro de los protocolos establecidos para este tipo de hechos". "Se pidió la disuasión a través de comunicaciones radioeléctrica, señales sonoras, visuales y luego con los disparos intimidatorios para que depongan su actitud", manifestó. Y, agregó: "Cuando hablo de señales visuales estoy hablando de la bandera del Código Internacional que indica que deben detener su marcha. Este protocolo no sólo se aplica en este país sino en el resto del mundo". Consultado sobre un posible autoatentado por parte de los marinos chinos, reconoció que "esto se está investigando". "En todos los casos Prefectura formaliza las actuaciones administrativas necesarias para deslindar las responsabilidades en el hecho. Eso está a disposición de la Justicia que determinará los hechos en uno u otro sentido", añadió. Mirá también: Tirotearon a un barco chino que pescaba ilegalmente frente a Chubut González detalló que el guardacostas de Prefectura "posee armamento policial a bordo. Estamos hablando de calibre 7.62, que utiliza el FAL y calibre 12,7 que es un tamaño un poco mayor que la 7.62. Este último no tiene penetración en la chapa naval". "Eventualmente, el 12,7 puede llegar a tener penetración según el sector pero son de bajo impacto y pocas posibilidades de ingreso", añadió al descartar que haya podido hundirlo.
+
+El jefe de Prefectura de Puerto Madryn confirmó que "no hubo intención de hundir el barco. La Prefectura está destinada a la preservación de los bienes y la vida humana" y "mal puede pretender hundir una embarcación". Prefectura puso a disposición de la Justicia Federal "registros documentales y fílmicos" del procedimiento en el expediente iniciado por "atentado y resistencia a la autoridad" e "infracción a la Ley de Pesca".

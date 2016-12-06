@@ -1,0 +1,18 @@
+
+No fue un incendio, un choque, ni disturbios en la vía pública. Pero tuvieron que llegar los bomberos para solucionarlo. En China, cuatro efectivos rescataron a un niño de cuatro años cuya cabeza quedó accidentalmente atrapada en un sillón. Mirá también: Revelan cómo murió un chico en el tobogán de agua más alto del mundo 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ El pequeño se encontraba junto a sus padres en un salón de belleza ubicado en Guizhou, una provincia del suroeste de ese país. Por curiosidad, puso su cabeza en un agujero del sillón. Pero le resultó imposible sacarla y, para ayudarlo, los testigos tuvieron que llamar al servicio de emergencias. Mirá también: ¡Niños, fuera de peligro! Evita que sufran accidentes domésticos  Un video difundido por la agencia Télam muestra cómo los bomberos debieron utilizar tijeras para poder cortar el sillón. Después de algunos minutos --y ante la presencia de varios curiosos-- el niño pudo ser rescatado sin sufrir lesiones. Mirá también: Video: tiró un gato desde un 4° piso para ver si caía de pie y tuvo que pedir perdón

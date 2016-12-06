@@ -1,0 +1,18 @@
+
+La llegada a la sede de la Policía Federal en la capital cordobesa del ex secretario de Transporte de la Nación Ricardo Jaime quedó registrada en una conversación telefónica que el ex funcionario mantenía al aire con el canal de noticias TN. En la conversación con la conductora Dominique Metzger de TN, Jaime contó que se había enterado sobre el pedido de su detención ordenada por el juez Julián Ercolini por un familiar que escuchó la noticia en un medio de prensa. Y afirmó que él tenía previsto viajar Buenos Aires el lunes para presentarse ante la Justicia al día siguiente. Y cuando se disponía a responder una pregunta de la periodista le pidió que lo esperara un momento. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Entonces, se escucha cómo le daba indicaciones a quien conducía el taxi en el que se trasladaba. En un momento pide “no pasés despacio”. Y por las calles que menciona en sus indicaciones se entiende que el ex secretario de Transporte se encontraba arribando a la sede de la Policía Federal en Córdoba, adonde entró por una puerta lateral. Mirá también: El pedido de detención de Jaime Ercolini pidió la detención del ex funcionario en el marco de una causa en la que se investiga el pago de comisiones para la compra, en 2005, de decenas de trenes usados a España y Portugal.  La sede de la Policía Federal en la ciudad de Córdoba. Mirá también: Encontraron al presunto testaferro de Jaime escondido en un placard

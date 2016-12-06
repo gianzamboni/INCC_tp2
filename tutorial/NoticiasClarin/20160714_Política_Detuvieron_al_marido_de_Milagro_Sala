@@ -1,0 +1,20 @@
+
+Raúl Noro, esposo de Milagro Sala, fue detenido hoy en Jujuy en el marco de las causas por las que se investiga a la titular de la Tupac Amaru, Milagro Sala, por ilícitos con fondos públicos. Se le imputa ser parte de una asociación ilícita y defraudación a la administración pública.  Noro, periodista y uno de los principales voceros de la organización, quedó internado y detenido por problemas de salud en el hospital Pablo Soria, pero antes grabó un video que difundió a través de la cuenta de Twitter de la Tupac. Mensaje de Raul Noro antes de su detención pic.twitter.com/wAyNNu96IF— Prensa Tupac (@PrensaTupac) 14 de julio de 2016
+ "Lo único que puedo decir es que estamos viviendo un Estado policial-militar igual que en el época del proceso pero restringido a la provincia de Jujuy", afirmó el hombre, que es vicepresidente de la Tupac.  Mirá también: Milagro Sala, a juicio oral por amenazar con "poner una bomba" en una comisaría En ese sentido, Noro se desligó de las imputaciones en su contra y dijo que no hay garantías constitucionales: "Todo está inventado, estamos en una situación en la que ni siquiera podemos trabajar tranquilamente con los abogados defensores, porque hay sanciones para ellos, es tremendo lo que pasa y me gustaría denunciar este hecho a todo el país". Raul Noro ya fue trasladado al hospital Pablo Soria donde le haran estudios y quedara internado pic.twitter.com/2K3brxb5cz— Prensa Tupac (@PrensaTupac) 14 de julio de 2016
+ Mirá también: Habló Milagro Sala: "Yo no soy López, no he robado nada" Noro fue detenido en el marco de la causa de la cooperativa "Pibes Villeros", parte de la Tupac, cuyos integrantes fueron filmados retirando en bolsos 29 millones de pesos en efectivo del Banco Nación, destinados a la obra pública. En esa causa permanece prófugo Javier Nieva. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+

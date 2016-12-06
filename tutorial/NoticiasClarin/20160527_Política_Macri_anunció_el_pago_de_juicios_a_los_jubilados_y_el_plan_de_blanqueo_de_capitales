@@ -1,0 +1,102 @@
+
+El presidente Mauricio Macri anunció hoy un paquete de medidas como el pago a los jubilados y el plan de blanqueo de capitales. El presidente estuvoacompañado del ministro de Hacienda, Alfonso Prat-Gay y el jefe de Gabinete, Marcos Peña, entre otros funcionarios de la administración nacional, entre los que se destacaban el titular de la ANSES, Emilio Basavilbaso, quien más tarde amplió los anuncios sobre el sector previsional. Mirá también: La apuesta de Macri para dejar atrás la tormenta El jefe de Estado afirmó hoy que con la iniciativa del Gobierno para el pago a jubilados que tienen sentencia firme en juicios por ajuste de haberes se busca "terminar con décadas de atropello y estafas". Es una muestra de "agradecimiento a quienes dieron una vida de trabajo, amor, educación y cuidado", expresó el jefe de Estado. 
+
+
+Macri prometió que con el proyecto de ley para dar cumplimiento a sentencias previsionales, va a "terminar con décadas de atropellos a nuestros nuestros jubilados".
+
+
+
+
+
+var act_20c = new gigya.socialize.UserAction();
+
+var emailBodyCustom_20c = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_20c.setTitle('Macri prometió que con el proyecto de ley para dar cumplimiento a sentencias previsionales, va a "terminar con décadas de atropellos a nuestros nuestros jubilados".');
+act_20c.setSubtitle('MEDIDAS DE GOBIERNO'); 
+act_20c.setLinkBack('http://www.clarin.com/politica/Macri-juicios-jubilados-blanqueo-capitales_0_1584441593.html');
+act_20c.setDescription('Dijo que los cambios en jubilaciones representan &quot;un 45% de aumento en los haberes&quot;.');
+act_20c.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Macri-juicios-jubilados-blanqueo-capitales_0_1584441593.html');
+
+var showShareBarUI_params_20c=
+{ 
+containerID: 'shareQuote_20c',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_20c,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_20c
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_20c);
+ Al anunciar la iniciativa, en un acto realizado en el barrio porteño de San Cristóbal, MACRI dijo que se busca "terminar con décadas de atropello y estafas respecto a nuestros queridos jubilados". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/MaryNabarj/status/736188292182474753",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73618829218247475")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+  El proyecto contempla que el pago de los reajustes de haberes a jubilados se concretará a través de los ingresos que perciba el fisco por el blanqueo de capitales y los fondos que ingresen por la venta de las acciones, serán destinados a solventar el pago a los jubilados, entre otras cuestiones. Mirá también: Cómo será el plan de pago, según la situación de cada jubilado  El artículo que buscará viabilizar la venta de las acciones de empresas privadas que tiene en su poder la Anses busca levantar la traba implementada por el kirchnerismo el año pasado para una decisión de este tipo, cuando sancionó un proyecto de ley una cláusula que estipula la necesidad de contar con el voto positivo de dos tercios de los legisladores para autorizar una transacción de ese tipo.
+
+ Las acciones que integran el Fondo de Garantía de Sustentabilidad fueron a parar a manos de la Anses tras la reestatización del sistema previsional y el fin de las AFJP y corresponden a empresas como Telecom, Clarín, Techint, entre otras firmas. Mirá también: Sorpresa y silencio en la Rosada por la difusión del patrimonio de Macri  Lo concreto es que esa ley puede se derogada a través de otro proyecto superador que cuente con el aval de una mayoría simple. Para el oficialismo, el proyecto votado en su momento por el kirchnerismo respondió más a una cuestión ideológica que efectiva, ya que considera que es más conveniente desvincularse de esas acciones por los vaivenes de la economía. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/mauriciomacri/status/736188280631238658",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73618828063123865")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: Se busca urgente un punto de inflexión

@@ -1,0 +1,70 @@
+
+Doce diputados del Frente para la Victoria votaron en general el proyecto de Presupuesto 2017, lo cual demuestra la división que enfrenta el kirchnerismo, y más cuando se mezclan los intereses de los gobernadores que reclamaron a sus legisladores que respalden el acuerdo alcanzado con el gobierno nacional, que contempla fuertes transferencias a las provincias. Mirá también: Tras el llamado de atención de Macri, Diputados suspendió el "dietazo" del 47% Los diputados que responden a los mandatarios provinciales le dieron la espalda a la agrupación ultrakirchnerista La Cámpora, que ayer y en la reunión del bloque del martes ejerció una fuerte presión para que los legisladores apoyen el dictamen de minoría diseñado por el ex ministro de Economía kirchnerista Axel Kicillof rechazando el proyecto de la Casa Rosada. 
+
+
+¿Quiénes son los integrantes de la bancada presidida por Héctor Recalde que votaron a favor del proyecto de Presupuesto de Macri? Luis Basterra (Formosa), Juan Carlos Díaz Roig (Formosa), Inés Lotto (Formosa), Sandra Castro (San Juan), Héctor Tomas (San Juan), José Luis Gioja (San Juan), Carolina Gaillard (Entre Ríos), Lautaro Gervasoni (Entre Ríos), Miriam Gallardo (Tucumán), Mirta Soraire (Tucumán), Daniel Di Stéfano (Misiones) y Sandra Mendoza (Chaco).
+
+
+
+
+
+var act_da8 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_da8 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_da8.setTitle('¿Quiénes son los integrantes de la bancada presidida por Héctor Recalde que votaron a favor del proyecto de Presupuesto de Macri?&nbsp;Luis Basterra (Formosa), Juan Carlos Díaz Roig (Formosa), Inés Lotto (Formosa), Sandra Castro (San Juan), Héctor Tomas (San Juan), José Luis Gioja (San Juan), Carolina Gaillard (Entre Ríos), Lautaro Gervasoni (Entre Ríos), Miriam Gallardo (Tucumán), Mirta Soraire (Tucumán), Daniel Di Stéfano (Misiones) y Sandra Mendoza (Chaco).');
+act_da8.setSubtitle('Congreso Nacional'); 
+act_da8.setLinkBack('http://www.clarin.com/politica/Doce-kirchneristas-Campora-Presupuesto-Macri_0_1680431956.html');
+act_da8.setDescription('Son de Formosa, Chaco, Entre Ríos y Misiones. Primó el criterio de los gobernadores de esas provincias, quienes mantienen una relación cordial con el Gobierno nacional. MIRÁ LA FOTOGALERÍA EN HD');
+act_da8.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Doce-kirchneristas-Campora-Presupuesto-Macri_0_1680431956.html');
+
+var showShareBarUI_params_da8=
+{ 
+containerID: 'shareQuote_da8',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_da8,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_da8
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_da8);
+ Estos sumaron su voto a los 177 que cosechó el dictamen de mayoría, lo que implica haber alcanzado más de los dos tercios de los miembros del cuerpo.
+
+Mirá también: Diputados aprobó el primer Presupuesto de la gestión Macri Llamó la atención el voto afirmativo del vicepresidente del bloque, el formoseño Luis Basterra, que hasta ahora había siempre apoyando las posturas de su bancada en el tema de los fondos buitre y sobre el contrato público-privado. Otros formoseños -Juan Carlos Díaz Roig e Inés Lotto- también sumaron su voto positivo como así la chaqueña Sandra Mendoza, la ex mujer de Jorge Capitanich, quien aclaró porque no se le registraba el sufragio que lo había hecho en forma favorable al proyecto de mayoría. También votó a favor la entrerriana Carolina Gallaird, que había firmado el dictamen de minoría presentado por Kicillof, y su coterráneo Lautaro Gervasoni, que responden al gobernador Gustavo Bodert; el misionero Daniel Di Stefano y las tucumanas Mirta Soraire y Miriam Gallardo. También llamó la atención el respaldo de tres diputados del Partido para la Victoria, una escisión del kirchnerismo: Remo Carlotto, Araceli Ferreyra y Andrés Guzmán. Fuente Télam

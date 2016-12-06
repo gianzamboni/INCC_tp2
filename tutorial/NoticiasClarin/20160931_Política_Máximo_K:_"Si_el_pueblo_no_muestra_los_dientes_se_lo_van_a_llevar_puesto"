@@ -1,0 +1,22 @@
+
+A Máximo Kirchner no le importó la imputación contra el intendente Julio Pereyra, aliado de Néstor y Cristina Kirchner, por enriquecimiento ilícito. Ayer fue hasta la localidad bonaerense de Florencio Varela, una de las más pobres del Conurbano, para inaugurar una Unidad Básica que lleva el nombre de su madre. El diputado y líder de La Cámpora apuntó contra el presidente Mauricio Macri en la semana en que el INDEC volviera a publicar el índice de pobreza. "A uno no le deja de llamar la atención que alguien que asumió hace 10 meses la conducción del país, nos diga a todos los argentinos que desde el miércoles acepta ser evaluado por nosotros como Presidente", señaló sin nombrarlo.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/wadodecorrido/status/782206016066912256",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78220601606691225")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El líder de La Cámpora defendió la gestión de su madre que, seún dijo, "eligió la condena mediática en vez de la de su pueblo". Además, el diputado del FPV acusó al Ejecutivo de perseguir a los trabajadores: "Es el Gobierno del sálvese quien pueda. Es el miedo de muchos compañeros de la fábrica a levantar la voz por temor a que los echen y aceptar cualquier cosa por parte de los patrones. Es el miedo de muchos que ni siquiera pueden poner en su Facebook o en su Twitter la remera del dirigente político que más les guste, porque eso pone en riesgo su trabajo, porque te persiguen". 
+
+ Mirá también: Allanaron la municipalidad de Varela por una denuncia contra el intendente "Si el pueblo no muestra los dientes se lo van a llevar puesto. La historia argentina lo demuestra constantemente. Tiene que organizarse, tiene que trabajar en conjunto", agregó desafiante.  El hijo de los ex Presidente consideró que los medios "son elementos de dominación" y se refirió a la imagen positiva de la gobernadora bonaerense María Eugenia Vidal. "¿De qué vale la imagen positiva de un dirigente si la gente deja de comer? Es preferible tener la imagen negativa porque te les tenés que parar y te condenan por eso", remarcó.
+
+También llamó a la unidad del "frente popular" y a ponerse "la patria al hombro". "Lo que viene es fulero y entre todos juntos va a ser mucho más fácil salir adelante", arengó a los militantes y le agradeció al intendente Pereyra, "que no pudo venir, pero siempre estuvo al lado de Néstor".

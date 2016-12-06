@@ -1,0 +1,22 @@
+
+La agresión que sufrieron el presidente Mauricio Macri y la gobernadora María Eugenia Vidal hace una semana en Mar del Plata fue la consecuencia de un plan previamente organizado. Un informe de inteligencia agregado al expediente judicial, y al que accedió Clarín, señala a tres agresores, dos mujeres y un hombre, que arrojaron piedras contra los vehículos oficiales. Los tres tendrían relación con una agrupación de izquierda denominada “Votamos Luchar” que protagonizó incidentes ese mismo día con la Policía a cuatro cuadras del lugar donde tuvo lugar el acto oficial. Las imágenes de las cámaras de seguridad de la Municipalidad muestran que al menos dos de los agresores fueron detenidos por efectivos de la Bonaerense y luego liberados. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Hasta anoche, oficialmente no había ningún detenido por los incidentes que obligaron a repensar los operativos de seguridad en torno al presidente. A eso se suma una fuerte interna judicial. El juez a cargo de la causa, Alfredo López, acusó públicamente a la fiscal Laura Mazzaferri de intentar cerrar la causa y de actuar en beneficio de los manifestantes. Ayer, el magistrado recibió custodia por un confuso episodio.   Con las imágenes de las cámaras de seguridad, los investigadores lograron reconstruir la secuencia de los incidentes. El helicóptero presidencial aterrizó a las 9:30 en el Hospital Regional Central de Mar del Plata. Macri abordó una camioneta junto a la gobernadora y fueron directo al barrio Belisario Roldán, en la periferia de la ciudad.
+
+El acto duró apenas siete minutos por las agresiones verbales que provenían desde un sector del público. “Macri, basura, vos sos la dictadura”, cantaban los manifestantes. Cuando el presidente y la gobernadora abandonaron el lugar, un grupo de personas arrojó piedras contra los autos oficiales.  Las imágenes de las domos ubicados en el lugar muestran a dos personas, una mujer y un hombre, aparentemente menores de edad, que arrojaron piedras sobre el auto de Vidal. A la mujer, una agente de la Bonaerense la redujo contra un patrullero, pero llamativamente no quedó detenida. Según pudo saber Clarín en fuentes oficiales, el parte policial de la Bonaerense, también en poder del juez, no habla de detenidos, y sólo menciona que hubo un suboficial herido en el lugar.  En otra secuencia de las imágenes también se puede ver a una mujer, mayor de edad, que arroja piedras. Las cámaras de seguridad, ubicadas a 50 metros del lugar, muestran corridas y forcejeos entre la Policía y un grupo de manifestantes. Los agresores todavía no fueron identificados, pero la investigación los vincula con Ricardo “Cacho” Berrozpe, dirigente de la agrupación “Votamos Luchar”, un desprendimiento del Movimiento Teresa Rodríguez.
+
+Según las imágenes, Berrozpe estaba a cuatro cuadras del lugar de las agresiones, en un corte de calles, sobre la avenida 180, donde también hubo incidentes con la Policía. Berrozpe tiene un antecedente policial: en 2005 participó de los incidentes ocurridos durante la IV Cumbre de las Américas por la presencia del presidente estadounidense George W. Bush. Concretamente se lo acusó del incendio de una sucursal del Banco Galicia. El informe de inteligencia también menciona a una concejal de General Pueyrredón, Débora Marrero, y a una mujer cercana al ex intendente Gustavo Pulti.  El juez López cuestionó en las últimas horas a la fiscal Mazzaferri, a la que acusó de actuar como “abogada defensora”. El magistrado tiene desde ayer una custodia especial por un episodio extraño: el auto oficial del juzgado fue chocado ayer al mediodía por otro vehículo que se fue del lugar sin ser identificado. En ese momento, López no estaba dentro del auto.   Informe: Guillermo Villarreal

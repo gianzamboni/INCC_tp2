@@ -1,0 +1,20 @@
+
+El Gobierno chino expresó hoy a la Argentina su "seria preocupación" por el hundimiento ayer de un buque pesquero a la altura de Puerto Madryn, Chubut, cuya tripulación pudo ser rescatada. De cuatro tripulantes, hoy, sólo el Capitán seguiría detenido por disposición del juez federal de Rawson Hugo Sastre. Desde Beijing se pidió un extenso informe al Gobierno de Macri sobre lo ocurrido: quieren confirmar la versión oficial, que por ahora no los dejaría conformes. Así lo supo Clarín de fuentes involucradas en el hecho, y que a esta hora también publica la prensa internacional.
+
+"El Consejo de Estado de China ha puesto una atención cercana a estos hechos", dijo oficialmente el vocero de la cancillería china, Lu Kang, quien informó también que a través de el ministro de Relaciones Exteriores y la embajada de su país en la Argentina expresaron al gobierno de Macri su "seria preocupación" y que demandaron un "chequeo de lo ocurrido".  Clarín consultó sobre las versiones de que hay enorme inquietud en la Cancillería argentina y en Presidencia de la Nación por la trascendencia que Beijing le dé al tema. Hasta el momento, nadie se ha pronunciado aquí.   
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Versiones más complejas a las que también llegó Clarín, indicarían que los chinos mismos se hicieron hundir el barco aprovechando los disparos argentinos. Según la información oficial del Ministerio de Seguridad, ayer fue Prefectura la que hundió por disparos el buque Hua Li 10, por no acatar todas las órdenes que marcan el protocolo internacional ante la pesca ilegal en aguas argentinas.

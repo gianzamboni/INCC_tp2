@@ -1,0 +1,20 @@
+
+Por La Vanguardia Adrián tiene un sueño: ser torero. A sus ocho años conoce bien a fondo de la tauromaquia -acto de hacer corridas de toros- y esta misma semana pudo codearse con sus ídolos en Valencia, España, en una corrida benéfica para ayudar a niños con cáncer, como él. El pequeño, que sufre un sarcoma de Ewing, formó parte del tradicional festival que clausuró una cita cuyas ganancias estaban destinadas a la Fundación de Oncohematología Infantil.
+
+La ilusión de Adrián, sin embargo, cuenta con una detractora que criticó con indudable desacierto su pasión por los toros. “Yo no voy a ser políticamente correcta. Qué va. Que se muera, que se muera ya. Un niño enfermo que quiere curarse para matar herbívoros inocentes y sanos que también quieren vivir. Anda yaaaaa! Adrián, vas a morir”, publicaba Aizpea Etxezarraga (o al menos, así dice llamarse) en su perfil de Facebook. Mirá también: Multitudinario adiós al torero muerto por cornadas en España La joven cerró su cuenta o activó todas las barreras de privacidad que la red de Zuckerberg permite, para evitar que su perfil sea localizado. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/ftorodelidia/status/785500704622387201",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78550070462238720")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ La Fundación Toro de Lidia anunció que emprenderá medidas legales  en su contra. “Nuestros abogados ya trabajan para que no quede impune”, publicó en Twitter. No es la primera vez que la institución sale en defensa de los amantes y/o profesionales de la tauromaquia. Tras el aluvión de insultos al fallecido torero de 29 años, Víctor Barrio --el pasado 11 de julio--presentaron una denuncia en comisaría “contra varias personas”, incluyendo a Vicent Belenguer, un ciudadano valenciano que decía ser maestro de profesión, y que se burló de esa muerte. Mirá también: Impactante: un toro corneó y mató a un torero en un festival en España 

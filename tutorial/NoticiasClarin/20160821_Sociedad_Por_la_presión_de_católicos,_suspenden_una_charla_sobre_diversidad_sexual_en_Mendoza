@@ -1,0 +1,73 @@
+
+El anuncio informaba sobre una charla de diversidad el viernes en Mendoza. Pero una movilización de un grupo de católicos presionó al Municipio de General Alvear que finalmente decidió suspender la actividad a cargo de la Secretaría de Derechos Humanos y Pluralismo Cultural de la Nación. La medida generó fuertes críticas de funcionarios locales en las redes sociales.
+
+Uno de los que se expresó en contra de que en el pueblo se discutiera sobre sexualidad fue el sacerdote Fabricio Ariel Porta, quien convocó a la población a repudiar la charla. Lo hizo a través de su perfil de Facebook, donde publicó: "La municipalidad de nuestro departamento abre las puertas y adhiere a las políticas de la ideología de género. Y aunque los funcionarios municipales digan no adherir a esto, permiten este tipo de acciones tendientes a minar la moral y las buenas costumbres de nuestro pueblo. Como cristianos debemos hacernos presentes para decir no a este tipo de 'políticas'. Aquí no juegan los 'respetos humanos', aquí juega nuestro compromiso por el bien y la verdad. Dios nos pedirá cuentas".  
+
+
+Dios nos pedirá cuentas", expresó el sacerdote Fabricio Porta al convocar a la población para repudiar la actividad.
+
+
+
+
+
+var act_bcc = new gigya.socialize.UserAction();
+
+var emailBodyCustom_bcc = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_bcc.setTitle('Dios nos pedirá cuentas", expresó el sacerdote Fabricio Porta al convocar a la población para&nbsp;repudiar&nbsp;la actividad.');
+act_bcc.setSubtitle('ESCANDALO'); 
+act_bcc.setLinkBack('http://www.clarin.com/sociedad/presion-catolicos-suspenden-diversidad-Mendoza_0_1636036497.html');
+act_bcc.setDescription('El Municipio de General Alvear suspendió una capacitación a cargo de la Secretaría de Derechos Humanos de Nación. Rechazo de distintos funcionarios. ');
+act_bcc.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/presion-catolicos-suspenden-diversidad-Mendoza_0_1636036497.html');
+
+var showShareBarUI_params_bcc=
+{ 
+containerID: 'shareQuote_bcc',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_bcc,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_bcc
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_bcc);
+ A partir del revuelo ocasionado por los miembros del grupo católico, desde la Comuna a cargo del intendente de Cambiemos, Walter Marcolini, explicaron que la capacitación fue "postergada para informar a diferentes sectores sobre las temáticas a tratar". También trascendió que algunos funcionarios del gabinete municipal, que son activos militantes católicos y evangélicos, habrían presionado para frenar la capacitación. Al respecto, el secretario de Gobierno de general Alvear, José Vilches, comunicó: "Recibimos el planteo de algunos vecinos y diferentes iglesias porque les generaba desconfianza los temas que se iban a tratar. Por eso decidimos trabajar primero con la comunidad".
+
+Sin embargo, otros funcionarios mendocinos no tardaron en aparecer en la redes y demostrar su enojo. Una de ellas fue la directora de Derechos Humanos de Mendoza, Luz Faingold, quien en su cuenta de Twitter disparó: "Intolerantes que dicen ser religiosos impidieron una capacitación sobre diversidad sexual en el sur provincial". Mirá también: El equipo que sacó al rugby del closet y taclea la homofobia Por su parte, el concejal del PRO, Sebastián Martínez Barón, expresó: "Me parece un papelón. Me dio muchísima vergüenza que se haya organizado una charla sobre derechos humanos, género y diversidad sexual y que exista un grupo que se le ocurre boicotearla; eso es una falta de respeto".  Tras la cancelación, Porta volvió a escribir en Facebook. Esta vez lo hizo para agradecer "a Dios y a los responsables del gobierno que tomaron esta sabia determinación".   Intolerantes que dicen ser religiosos impidieron una capacitación sobre diversidad sexual en el sur provincial. pic.twitter.com/yeBAB35H5V— Luz Faingold (@luzafaingold) 19 de agosto de 2016
+

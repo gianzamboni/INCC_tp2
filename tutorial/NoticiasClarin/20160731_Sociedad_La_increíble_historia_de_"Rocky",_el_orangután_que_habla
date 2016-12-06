@@ -1,0 +1,18 @@
+
+Rocky, un orangután de 11 años que vive en el zoológico de Indianápolis, tiene una habilidad especial: puede hacer sonidos con sus cuerdas vocales o su laringe que suenan como la letra "A" o la expresión "Ah".  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Un grupo de investigadores del zoológico en el que vive Rocky observaron, que el animal podía imitar el tono de los sonidos humanos, algo que nunca antes había sucedido. El hallazgo fue publicado el miércoles pasado y, según el equipo de científicos, proporciona información sobre el origen evolutivo de la voz humana. Mirá también: Conmovedor video: la vaca que llora cuando la suben al camión del matadero Si bien todos estos sonidos siempre son variaciones de la misma vocal, a veces el simio los emite en tonos altos y, en otras oportunidades, en tonos mucho más bajos.  "Realmente redefine lo que sabemos acerca de las capacidades de los orangutanes", sostuvo Rob Schumaker , director del zoológico y uno de los autores del informe . "Lo que tenemos que considerar ahora es la posibilidad de que los orígenes del habla no sean exclusivamente humanos sino que puedan proceder de los grandes simios", agregó.  Mirá también: Para la ciencia, King Kong, Nessie y el Kraken existieron Rocky , que nunca vivió en la selva, aprendió esta habilidad durante su actividad como orangután de entretenimiento en películas y publicidades, antes de llegar al zoológico. De acuerdo a los expertos, Sólo él emite estos sonidos y los utiliza a diario. De hecho, ningún otro orangután, silvestre o en cautiverio, ha hecho este tipo de ruido.  Para mostrar las capacidades vocales del animal, el equipo filmó una "conversación" entre Rocky y Madeleine Hardus, un investigadora que trabaja con el zoológico. En el video se puede ver como ella decía "Ah " en un determinado tono y el simio imita exactamente el sonido para ganarse su comida. Y así lo hace con casi 500 variaciones del sonido.  Mirá también: Increíble: una orangután armó una hamaca en su jaula "Dicen que una imagen vale más que mil palabras, y este video lo demuestra", explicó Marc Bekoff, experto en ecología del comportamiento y profesor emérito de la Universidad de Colorado, que no participó en el estudio . Y suma: "Queda muy claro cómo el orangután imita las vocalizaciones humanas".  

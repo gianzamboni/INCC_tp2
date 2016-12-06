@@ -1,0 +1,22 @@
+
+Tres enormes tiras, celestes y blanca, flameando sobre el monumento, fueron el momento más emotivo de la tradicional promesa a la bandera, que se realizó ayer en la ciudad de Rosario y se repitió esta mañana.  Miles de alumnos de cuarto grado de la provincia de Santa Fe prometieron lealtad al símbolo patrio, en un acto que se realizó en coincidencia con el feriado de hoy que conmemora la muerte del General Martín Miguel de Güemes. En el acto, participaron también paracaídistas del AeroClub de Rosario.
+
+ Durante todo el fin de semana habrá distintas celebraciones tanto por el festejo de Güemes como por el feriado del lunes del Día de la Bandera. En la ciudad de Salta, en el Panteón de las Glorias del Norte, se está haciendo el tradicional desfile de Homenaje al Héroe Gaucho, en el que desfilarán más de 3.000 gauchos. El acto oficial será presidido por el gobernador Juan Manuel Urtubey. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El lunes a las 11, en el atrio del Convento de Santo Domingo, en San Telmo, se hará el acto por los 196 años de la muerte de Manuel Belgrano y de 11 a 18 se exhibirá en el Museo Histórico Nacional, en Parque Lezama, la Bandera de Macha, una de las más antiguas que se conserva y la que acompañó a Belgrano en la campaña del Norte.
+
+En el interior también habrá otras actividades especiales el lunes. De 10.30 a 16 se podrá ver la Bandera de los Bicentenarios, tejida al telar desde 2010 hasta hoy, en la Casa Natal de Sarmiento en San Juan. Y en el Palacio San José, en Entre Ríos, se hará un festival popular de música, danza artesanías y comidas criollas, de 10 a 18.

@@ -1,0 +1,18 @@
+
+Según informó hoy el Indec una familia compuesta por dos mayores y dos niños de 6 y 8 años necesitó en agosto contar con ingresos por $ 12.489,37 para no caer por debajo de la línea de pobreza, determinada por la Canasta Básica Total (CBT), compuesta por alimentos, indumentaria y servicios básicos.La medición tuvo un leve aumento respecto de julio, cuando había sido de $ 12.464,33. Influyó la suspensión del aumento de las tarifas de gas.(Hogar 1: tres miembros, compuesto por una jefa de 35 años, su hijo de 18 años y su madre de 61 años; Hogar 2: de cuatro miembros, compuesto por un jefe varón de 35 años, su esposa de 31 años, un hijo de 6 años y una hija de 8 años). 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El mismo núcleo familiar requirió de $ 5.175,92 para acceder a la Canasta Básica Alimentaria, es decir, la cantidad mínima de alimentos, para no caer debajo de la linea de indigencia. En julio el mismo concepto había sido de $ 5.149,41.Con estos datos, el Indec reanudo hoy la difusión de los valores de las canastas, que se había interrumpido a mediados del 2013 durante el gobierno de Cristina Fernández de Kirchner.

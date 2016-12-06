@@ -1,0 +1,127 @@
+
+El explorador británico Henry Worsley intentaba emular la expedición fallida que emprendió hace un siglo su compatriota Ernest Shackleton. Quería ser el primer hombre en cruzar solo, sin siquiera la ayuda de perros, la Antártida. Estuvo a sólo 48 kilómetros de lograr su objetivo, pero murió deshidratado y agotado.En la cuenta de Twitter @ShackletonSolo y en su blog de viaje, el explorador fue contando la severa misión, en la que pensaba ocupar 75 días para recorrer 1.770 kilómetros. Las fotos que Worsley subió impactan y cobran otra relevancia ahora, conocida su muerte.
+With great sadness, we confirm Henry Worsley died on the 24th January 2016 in Punta Arenas https://t.co/k5KnG85kdg pic.twitter.com/xx8fNh9lbz— Shackleton Solo (@shackletonsolo) January 25, 2016
+
+Henry Worsley is now in hospital in Punta Arenas with peritonitis. His wife Joanna has flown to join him. No further news until Tues 26-1-16— Shackleton Solo (@shackletonsolo) January 23, 2016
+
+Henry makes the courageous call to ALE - picked up safely late afternoon on Day 71 https://t.co/9C4GwSYJLf pic.twitter.com/sA64YXJcpr— Shackleton Solo (@shackletonsolo) January 23, 2016
+
+Tentbound at 9,400 ft - still higher than the Pole https://t.co/B9EVqAOD0w pic.twitter.com/hC2L4Bbect— Shackleton Solo (@shackletonsolo) January 23, 2016
+
+Henry pushes on through white darkness, his sights set on the blue ice beyond https://t.co/6DodDdPwG0 pic.twitter.com/Z1SP4E1H77— Shackleton Solo (@shackletonsolo) January 21, 2016
+
+A day of whiteout and a cursed soft surface - sleep the only answer on a day tough as this https://t.co/6EQUIjkDPk pic.twitter.com/mmOkPEMbpl— Shackleton Solo (@shackletonsolo) January 20, 2016
+
+Soft snow makes for a punishing day as hellish surface returns to test a determined Henry https://t.co/NeC7VBC8ce pic.twitter.com/YVH0spvBWG— Shackleton Solo (@shackletonsolo) January 18, 2016
+
+Poor conditions make for slow going as hungry Henry craves food food food & a little descent https://t.co/RuuM9MblQE pic.twitter.com/d3lO49Jr4x— Shackleton Solo (@shackletonsolo) January 16, 2016
+
+The white darkness returns as Henry crests Titan Dome and senses the start of the descent https://t.co/j6myZIqUb5 pic.twitter.com/OyUQUfk4kW— Shackleton Solo (@shackletonsolo) January 14, 2016
+
+Looking fly at 10,500ft - fresh pants for the descent as Henry nears the crest of Titan Dome https://t.co/NoUWJj6Nkm pic.twitter.com/OyAq5A87or— Shackleton Solo (@shackletonsolo) January 13, 2016
+
+The night walker - Henry hits the trail at midnight to climb Titan Dome https://t.co/3Fj5W0zeqK pic.twitter.com/0wRh9ytbdj— Shackleton Solo (@shackletonsolo) January 9, 2016
+
+Stomach upset forces rest day - but Henry is up and out by 10pm for a night trek https://t.co/S4BGDdQS34 pic.twitter.com/GN3iAiCmYq— Shackleton Solo (@shackletonsolo) January 8, 2016
+
+Dental drama as Henry grinds his way up the Titan Dome https://t.co/yMzY0l4aH1 pic.twitter.com/H9zXHuouIs— Shackleton Solo (@shackletonsolo) January 6, 2016
+
+Merry Christmas Henry - home comforts and calls to family make for a fine day https://t.co/62fffxZrWw pic.twitter.com/XvCwkALJGN— Shackleton Solo (@shackletonsolo) December 26, 2015
+
+La última selfie del explorador difiere mucho de la primera selfie que subió en la Antártida y de las fotos que publicó hace más de dos meses, cuando partió en la expedición.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/shackletonsolo/status/665127014240804864",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_66512701424080486")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/shackletonsolo/status/661147936236175360",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_66114793623617536")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/shackletonsolo/status/660776840827637760",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_66077684082763776")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+En estas semanas, subió también hermosas imágenes que tomó del continente blanco.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/shackletonsolo/status/673108638450479104",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_67310863845047910")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/shackletonsolo/status/671650112024813568",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_67165011202481356")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/shackletonsolo/status/671293004448165888",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_67129300444816588")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

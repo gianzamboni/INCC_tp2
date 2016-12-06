@@ -1,0 +1,18 @@
+
+El juez federal Daniel Rafecas defendió  publicamente su decisión de no darle curso a la denuncia del fiscal Alberto Nisman contra Cristina Kirchner por encubrimiento en el marco de la causa por el atentado a la Asociación Mutual Israelita Argentina (AMIA), la que “elude la legislación vigente”, según sostuvo. Lo hizo el programa de Mirtha Legrand y esta mañana en declaraciones radiales, donde también cuestionó la solicitada en la que figuras públicas de distintos ámbitos pidieron su remoción. “La presentación (de Nisman) elude la legislación vigente porque es el juez de la causa y no los Estados los que pueden dar de baja a las notificaciones rojas (orden de captura) de Interpol”, explicó el magistrado, sobre  la denuncia de Nisman. Y agregó que la sanción del Memorándum de entendimiento con Irán, no modificó las alertas sobre los ciudadanos iraníes de Interpol, uno de los principales fundamentos del fallecido fiscal especial UFI-AMIA. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá también: El juez Rafecas cree que la posibilidad de su remoción "es muy lejana" El magistrado agregó que “tendría que haber salido antes” a defenderse de las acusaciones públicamente. Al tiempo que advirtió que “muchas veces en los medios dicen cosas que no son así”. Esta mañana, el juez volvió a hablar en AM 750, ratificó sus dichos y dijo que ha fallado "conforme a derecho". "Un juez penal no puede abrir una causa sin que haya un delito en el pedido de denuncia y eso es el déficit que advertí en esa denuncia que presentó Nisman en enero de 2014", señaló. Mirá también: Rafecas defendió su desempeño y cuestionó a Nisman Y volvió a citar la hipótesis del fallecido fiscal, respecto a que el Gobierno había pedido la baja de las alertas rojas a Interpol, por la vigencia del memorándum con Irán. Además, reiteró que desde Interpol  informó al entonces gobierno que el pacto no modificaba el estatus de las alertas rojas y que fue este organismo el "instigador" del acercamiento entre Argentina e Irán. "Se trataba de una denuncia dond eno había delito que investigar ni ninguna prueba que sostenga esa hipótesis delictiva, entonces yo como juez consideré que no había otro camino que la desestimación de la denuncia", concluyó. Mirá también: Caso Nisman: en una solicitada piden la destitución del juez Rafecas

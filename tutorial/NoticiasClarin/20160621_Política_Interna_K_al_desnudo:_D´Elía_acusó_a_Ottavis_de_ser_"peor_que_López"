@@ -1,0 +1,18 @@
+
+El caso de José López, el ex secretario de Obras Públicas detenido cuando arrojaba bolsos con millones de dólares en un convento en General Rodríguez, sigue causando desconcierto en las filas kirchneristas. Ayer, Luis D´Elía intento poner un manto de luz sobre el tema y explicar que es algo que le puede pasar a cualquiera, pero un acto fallido lo dejó al descubierto. "La corrupción ese estructural en este partido", dijo. Ahora, se la agarró con José Ottavis. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Luis_Delia/status/745187013150793728",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_74518701315079372")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Leé también: El furcio de Luis D´Elía sobre la corrupción y el caso López El dirigente ultra K le apuntó al diputado de la provincia de Buenos Aires y referente de La Cámpora por su supuesto manejo irregular de los fondos de la Cámara de Diputados bonaerense. "Vos sos peor que López", le espetó el dirigente de MILES. Y lo volvió a tratar de "comegato", por su último romance con la vedette Vicky Xipolitakis. Leé también: Encuentran una bóveda oculta en el monasterio de General Rodríguez Por el momento, Ottavis no salió al cruce del ex piquetero, pero sí expresó su repudio. Vía Facebook, públicó un texto titulado "Basura", donde carga contra López. "Se equivocan si creen que un basural de los 'López' podrá enterrar el sueño de un reino de Justicia Social", sostiene. Días atrás, dio por terminado al kirchnerismo: "Ya no existe", sentenció. Aunque aclaró que la ex presidenta sigue siendo la líder más importante de la Argentina. Leé también: Para José Ottavis, el kirchnerismo "ya no existe"

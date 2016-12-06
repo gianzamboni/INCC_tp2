@@ -1,0 +1,26 @@
+
+La política los convirtió funcionarios emblemáticos del gobierno kirchnerista y ahora el fin de de ciclo los juntó: Guillermo Moreno y César Milani decidieron incursionar en el mundo de la gastronomía y crearon una empresa para abrir una panchería. El 11 de febrero pasado, el polémico ex secretario de Comercio Interior K y el controvertido ex jefe del Ejército se convirtieron los flamantes dueños de la firma Tío Tola S.A., cuyo objeto social es “la explotación integral de bares, restaurantes, parrillas, pizzería, confiterías y casas de comida”.  La empresa fue registrada por 99 años con un capital de $100.000, según figura en el Boletín Oficial.
+
+Más allá del abanico de posibilidades culinarias que ofrece el rubro, los ex funcionarios tienen decidido apostar a las salchichas y, quizas, tener su propia cadena de panchos, según pudo confirmar Clarín. En el Boletín Oficial, la inscripción de la empresa aparece con dos errores. El primero: llama a Guillermo Moreno, con el nombre de Mariano, cuando debería decir Mario Guillermo Moreno (su nombre completo).
+
+El segundo: la dirección de la empresa, Santo Domingo 249, no existe. La calle en cuestión comienza al 2200, en la intersección con San Antonio y allí hay una Unidad Básica de La Cámpora.  El titular de la sociedad será el empresario Carlos Alberto Castelli, fundador de Visión 101 y de Blue Star Group, que desarrollan las marcas “Todo Moda” e “Isadora”, especializadas en accesorios de moda femenina, entre otras. Su suplente César Santos Gerardo del Corazón de Jesús Milani.
+
+El ahora socio de Guillermo Moreno y Milani no es un empresario desconocido para el ex funcionario K; todo lo contrario. Castelli fue uno de los protagonistas de la gira comercial que Moreno hizo a Vietnam, con un nutrido grupo de empresarios. En Ho Chi Minh city, el entonces funcionario anunció con bombos y platillos la instalación de "Todo Moda" en la capital vietnamita. El empresario, bautizado en en el ambiente de los negocios como el “rey de la bijou”, fue además uno de los rostros de la Cámara de Exportadores Argentinos, una idea del ex agregado económico de la embajada argentina en Italia. Castelli fue titular del cuerpo que funcionó bajo el paraguas de la Confederación General Económica (CGE)  de Ider Peretti, uno de los “soldados de Moreno”. Otro dato: Castelli viajó con un grupo de 80 empresarios para ver al Papa Francisco con Guillermo Moreno hace algunos meses. En la foto que distribuyó la CGE, el empresario sale sonriente haciendo la “V” peronista mientras el Sumo Pontífice saluda a Moreno, que le llevó regalos "industria argentina".
+
+Castelli, de traje gris y lentes, haciedo la "v" peronista en el Vaticano Desde que dejaron el Gobierno, Moreno y Milani tomaron caminos contrapuestos. El militar eligió el perfil bajo y casi no se mostró en público desde que dejó el Gobierno el 23 de junio de 2015, envuelto en la polémica por las causas por presuntos delitos de lesa humanidad en su contra, por su accionar en la dictadura. A Milani, al que también se investiga en una causa por enriquecimiento ilícito, fue visto por última vez en un acto público hace poco, en la asunción del jefe del Ejército, Diego Suñer. Moreno, en cambio, regresó al país a principios de diciembre, cuando dejó su cargo en Roma. Desde entonces, se embarcó en un raid mediático para instalar su candidatura a ser el próximo jefe del Partido Justicialista. Creo la agrupación “La Néstor Kirchner”, lanzó una masiva campaña de afiliaciones y anunció que disputará las internas con Gabriel Mariotto, como su acompañante. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/LaNestorNacion/status/700292124210831360",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70029212421083136")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Ahora, ambos se proponen ingresar al mundo de la gastronomía, de la mano de los panchos y las "lluvias" de papas pay.  Clarín intentó consultar al ex secretario de Comercio K por su nueva actividad, pero no respondió los llamados, ni los mensajes de texto enviados. 

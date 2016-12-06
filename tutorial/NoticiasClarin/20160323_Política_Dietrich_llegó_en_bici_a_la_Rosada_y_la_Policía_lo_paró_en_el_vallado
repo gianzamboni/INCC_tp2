@@ -1,0 +1,26 @@
+
+“La mejor forma de moverse hoy en la ciudad, en bici!, escribió esta mañana el ministro de Transporte, Guillermo Dietrich, en su cuenta de Twitter. El ministro sorprendió a todos cuando esta mañana llegó a la Casa Rosada en bicicleta,  donde minutos después llegó el presidente Barack Obama para reunirse con Mauricio Macri. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Pero por  las medidas de seguridad que había en la zona, lo insólito fue que la policía en un primer momento no reconoció al ministro y no lo dejó pasar. Mientras esperaba a que la Policía lo habilitara a pasar,  la imagen que mostraba a Dietrich con una camisa blanca transpirada y apoyado en las vallas de seguridad,  circuló en las redes sociales y fue objeto de todo tipo de bromas. El ministro Dietrich cayó a casa Rosada en bicicleta, todo chivado, dice Mujica que es un papelón.— Cocu (@Coculo) 23 de marzo de 2016
+
+TNspeak: "Díganle a Dietrich que pedalee más rápido para cruzar Libertador o lo aplasta la Bestia."— Sebastián Soler (@TommyBarbanBA) 23 de marzo de 2016
+
+Guillermo Dietrich fue en bicicleta y llegó todo transpirado inmundo. Seamos decentes.— Soledad (@JolieSoleil) 23 de marzo de 2016
+ Otros también aprovecharon para recordar el día en que Dietrich utilizó el helicóptero presidencial para viajar hasta un country. Dietrich llegó en Bici. Después se va en helicóptero seguro.— Bostero De Ley (@Bosteroynadamas) 23 de marzo de 2016
+
+El ministro de transporte Dietrich llega en bici a la Rosada. Hoy no le prestaron el helicoptero presidencial.— ElTero (@fernando22197) 23 de marzo de 2016
+

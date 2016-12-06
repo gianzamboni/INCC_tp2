@@ -1,0 +1,18 @@
+
+Fundador de Officenet y emprendedor serial, Andy Freire pasó de armar startups a tratar de generar las condiciones para que otros lo hagan. Como ministro de Modernización e Innovación de la Ciudad de Buenos Aires, visitó el Foro de Inversión y Negocios que se celebra en el Centro Cultural Kirchner con la misión de "buscar inversores para la ciudad.  En el pasado, muchas multinacionales tecnológicas estadounidenses eligieron San Pablo para establecer su base en América Latina. La apuesta de Freire es que Buenos Aires sea la sede preferida a partir de ahora. Desde la exención impositiva para las inversiones hasta la Agencia de Inversiones "para ayudarles a que su aterrizaje sea lo más fácil posible": "Y sobre todo en ofrecerles un clima de confianza con un Gobierno nacional alineado con el Gobierno de la ciudad, que es algo que hoy pocas ciudades de Latinoamérica pueden ofrecer; hoy en día tenemos mucho mejores perspectivas que Brasil como destino de inversiones". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ - ¿Se puede hacer un Sillicon Valley porteño?  - Lo estamos haciendo, lo estamos haciendo. El Parque de la Innovación Sur lo lanzamos hace poco en el distrito tecnológico, donde se instaló el ITBA, la Universidad del Salvador, el CAECE (Centro de Altos Estudios en Ciencias Exactas). Los tres juntos, en la misma zona, van a fomentar el desarrollo de conocimiento alrededor del mundo emprendedor. Está demostrado que está desmotrado que cuando vos los ponés juntos y generás un polo de innovación aumenta la cantidad de patentes registradas per cápita y aumenta un 60% la tasa de sobbrevida de la actividad emprendedora. Estamos muy bien encaminados para ser el Sillicon Valley de América Latina y la capital de la innovación de América Latina.  - Falta una pata clave, el financiamiento que parece reservado a Sillicon Valleey, ¿cómo se hace para atraer al Venture Capital?  - Bueno, es la pata que falta, efectivamente. El Gobierno nacional está haciendo muy buen trabajo, Francisco Cabrera y Mariano Mayer, para armar un fondo de fondos. Esta idea de la ley de emprendedores que promueve que desde el Estado acompañemos a los que quieran invertir en emprendedores argentinos. Desde el Gobierno de la Ciudad estamos viendo distintas maneras de desarrollar programas de garantías, de incubación, que hagan que los emprendedores consigan ese capital semilla, que se llama así porque es la semilla que te permite construir una plata para que crezca y para que eso ocurra. 

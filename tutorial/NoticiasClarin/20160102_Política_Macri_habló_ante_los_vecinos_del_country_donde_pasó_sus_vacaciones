@@ -1,0 +1,18 @@
+
+Antes de volver a Buenos Aires, el presidente Mauricio Macri le habló a la gente que compartió con él un brindis en el country Cumelén. Hoy alrededor del mediodía el Presidente emprendió el regreso hacia Buenos Aires desde su lugar de vacaciones en villa La Angostura, Neuquén. Pero sus actividades oficiales comienzan el lunes.  Macri se subió, junto a su esposa Juliana Awada y su hija Antonia, a un helicóptero blanco en la zona del campo de golf del Complejo Cumelén, donde vacacionó, que lo llevó hasta el aeropuerto de Bariloche donde los esperaba el Tango 10. Antes de partir dio un discurso improvisado ante demás propietarios del barrio privado.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Ayer al mediodía se realizó un nutrido brindis en las instalaciones del Complejo Cumelén en el que tienen casas y propiedades de veraneo empresarios de la región y el país. En Cumelén también han pasado en algunas ocasiones sus navidades el rey Guillermo Alejandro y su esposa Máxima Zorreguieta. El presidente fue especialmente invitado a tomar el micrófono para ofrecer algunas palabras a las familias convocadas. Por algunos minutos Macri, vestido de remera gris y bermudas, entregó un mensaje optimista a su improvisada audiencia compuesta por unas 200 personas. “Esto recién empieza. Ahora conquistamos solamente la oportunidad de construir la Argentina que soñamos. Hace falta que todos los argentinos pongamos amor, pongamos compromiso, pongamos nuestra capacidad de hacer y la verdad y eso nos va a llevar a donde queremos todos”, indicó que fue muy aplaudido por los vecinos.Leé también: Macri recibió el nuevo año en Villa La Angostura El 31 a la tarde Macri había posteado en su cuenta de Facebook un mensaje de fin de año. “Abramos las ventanas. Ventilemos la casa ¡Dejemos que entre el aire fresco! Tenemos que estar contentos, llega un nuevo año y hay tanto por hacer: Construir lo que no hay, mejorar lo que existe, levantar lo que está caído, arreglar lo roto, limpiar lo sucio, ayudar a los que necesitan ayuda y ayudarnos entre todos a estar cada día mejor, avanzar hacia el futuro con entusiasmo...”, subió a la red social. El Presidente y su familia permanecieron ocho días en este barrio privado que cuenta con puerto propio y cancha de golf. Se trata de una zona con mucho verde, agreste y de amplios espacios para realizar caminatas. Estuvo custodiado por un equipo de la Policía Federal, miembros del Servicio de Inteligencia y la policía provincial de Neuquén aunque todos, por una recomendación especial de presidencia, permanecieron a buen resguardo donde su presencia no se hiciera notar. En sus breves vacaciones el mandatario siguió la rutina que conserva desde hace años en la villa en la que es considerado un vecino más. Largos paseos a la orilla del lago Nahuel Huapi, paseos en lancha, golf y comidas con amigos.

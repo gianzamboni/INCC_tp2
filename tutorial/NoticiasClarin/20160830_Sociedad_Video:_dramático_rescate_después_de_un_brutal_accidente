@@ -1,0 +1,18 @@
+
+Un brutal accidente de tránsito ocurrió en el estado de Nueva York, en Estados Unidos, el jueves. Chocaron 10 autos en una autopista, y la cámara que llevaba uno de ellos registró el momento del choque múltiple. Hasta aqui, las imágenes, si bien impactantes, resultan similares a varios otros siniestros que quedaron grabados por las cámaras en los vehículos. Lo diferente es lo que pasó después: los ocupantes de los autos se arriesgaron para salvar a una mujer que había quedado atrapada en uno de los coches, que se incendió. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El video lo difundió el propio alcalde de Binghamton, la ciudad donde ocurrió el accidente. “En un momento de crisis, estos valientes individuos navegaron a través de las llamas y rompieron los vidrios para salvar la vida de un extraño”, escribió en Facebook David Rich. Mirá también: Impresionante choque de camiones en Rusia El funcionario informó que la mujer sólo sufrió algunas heridas leves y que “milagrosamente, no hubo muertos en el choque”. Agradeció a los servicios de emergencia por su rápida respuesta y pidió colaboración en Facebook para lograr identificar a las personas que aparecen ayudando en el video “para que puedan ser reconocidas por sus esfuerzos”. Mirá también: Así fue el violento choque entre un auto y un camión que terminó con un muerto  El accidente, al parecer, se originó por una falla en los frenos de un tractor involucrado. Y, aunque se está investigando, el conductor, un hombre de 74 años, fue citado a declarar.

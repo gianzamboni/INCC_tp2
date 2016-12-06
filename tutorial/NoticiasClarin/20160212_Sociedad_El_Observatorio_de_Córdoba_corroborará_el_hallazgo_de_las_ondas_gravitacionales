@@ -1,0 +1,18 @@
+
+Tras la detección de las ondas gravitacionales, descubrimiento que fue confirmado ayer por científicos que participan del proyecto LIGO y que lidera la argentina Gabriela González, nacida en la provincia de Córdoba, se supo que además el Observatorio Astronómico de la Universidad Nacional de Córdoba (OAC) será una de las instituciones encargadas de detectar la contraparte óptica del fenómeno, informó el diario La Voz. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/pictoline/status/697820196115861508",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69782019611586150")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Es porque el proyecto Ligo y el OAC firmaron en 2014 un convenio para detectar las posibles contrapartes ópticas asociadas a las emisiones detectadas de ondas gravitacionales. Leé también: "Estamos todos como locos... Einstein estaría muy contento" Quienes deben realizar esta tarea son los científicos abocados al proyecto Toros (Transient Optical Robotic Observatory of the South, por sus siglas en inglés). Los instrumentos están ubicados en la Estación Astrofísica de Bosque Alegre y en el nuevo observatorio astronómico del cerro Macón en la Puna salteña. Leé también: Confirman una predicción de Einstein y se inicia una nueva era de la astronomía Toros recibió un alerta el 15 de septiembre por la detección de ondas gravitacionales procedente de Ligo e inició la búsqueda de la contraparte óptica con el telescopio de 0,41 metros, ubicado en la Puna salteña y también con el telescopio de 1,54 metros de diámetro ubicado en Bosque Alegre, Córdoba.

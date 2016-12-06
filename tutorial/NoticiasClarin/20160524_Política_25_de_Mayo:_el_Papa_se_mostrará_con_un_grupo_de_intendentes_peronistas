@@ -1,0 +1,68 @@
+
+    Un grupo de intendentes peronistas verá al Papa Francisco el próximo 25 de Mayo.  Este miércoles, durante la audiencia pública, cinco alcaldes tendrán su foto con el Sumo Pontífice: Gustavo Menéndez (Merlo), Juan Zabaleta (Hurlingham), Leonardo Nardini (Malvinas Argentinas), Francisco Echarren (Castelli) y el único no bonaerense: Enrique Cresto, de Concordia, Entre Ríos. Mirá también: El Papa llamó a la reconciliación y Macri le dio un rápido apoyo  Desde el sábado pasado, los intendentes comenzaron a emigrar a Europa; las dudas persistieron hasta ayer ya que, inicialmente, serían 10 los funcionarios que irían al viaje pero varios desistieron:. Eduardo "Bali" Bucca, Alberto Descalzo, Gabriel Katopodis, Martín Insaurralde, Fernando Gray, Juan Pablo De Jesús y Ariel Sujarchuk estaban en la lista pero al no ser una reunión privada con el Pontífice, prefirieron quedarse en “el territorio”. 
+
+
+ “Una cosa es sentarnos a almorzar, otra cosa es la audiencia pública”, dijo uno de los que pensaba visitar Roma pero que eligió quedarse en su municipio.
+
+
+
+
+
+var act_252 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_252 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_252.setTitle(' “Una cosa es sentarnos a almorzar, otra cosa es la audiencia pública”, dijo uno de los que pensaba visitar Roma pero que eligió quedarse en su municipio.');
+act_252.setSubtitle('POLÍTICA'); 
+act_252.setLinkBack('http://www.clarin.com/politica/Mayo-Papa-mostrara-intendentes-peronistas_0_1582641736.html');
+act_252.setDescription('Los alcaldes tendr&aacute;n una foto con Francisco en la audiencia de los mi&eacute;rcoles.');
+act_252.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Mayo-Papa-mostrara-intendentes-peronistas_0_1582641736.html');
+
+var showShareBarUI_params_252=
+{ 
+containerID: 'shareQuote_252',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_252,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_252
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_252);
+ Mirá también: Beatriz Sarlo, dura con el gobierno de Macri  Los intendentes bonaerenses siguen con sus cuitas y ayer mismo, varios de esos dirigentes se reunieron con legisladores provinciales para hablar de la reforma política. Pero otro elemento surgió en ese grupo de jóvenes alcaldes, que amenaza con convertirse en una fisura: la semana anterior, una cumbre con Florencio Randazzo en el “Búnker Esmeralda” que montó Martín Insaurralde molestó a varios de los excluidos: “Recién empezamos y ya hay mezquindades”, dijo un intendente que mostrará los dientes en la próxima reunión del grupo.  Por ahora, varios de ellos irán en busca de paz al Vaticano. Y de una foto con Francisco, para mostrar en su distrito donde la figura de Francisco es garantía de aceptación popular. Mirá también: El “Búnker Esmeralda”,  nueva base del peronismo territorial

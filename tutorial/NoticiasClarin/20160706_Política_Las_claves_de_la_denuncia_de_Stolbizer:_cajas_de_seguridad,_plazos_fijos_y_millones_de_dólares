@@ -1,0 +1,160 @@
+
+"La denuncia no tiene ni pies, ni cabeza. Stolbizer es mala y burra". Con esas palabras, algunas subidas de tono, la expresidenta Cristina Fernández de Kirchner salió a contestarle hoy a la diputada del GEN, quien ayer realizó una presentación judicial en la que apuntó contra CFK y sus hijos, Máximo y Florencia, por presuntas cajas de seguridad con millones de dólares en su interior. 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_4fwujiuk",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_4fwujiuk"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_4fwujiuk").after(scriptEl);
+ Con apenas tres carillas de texto, Stolbizer logró no solo que la ex mandataria saliera a increparla, primero a través en una carta de Facebook y luego ante las cámaras de televisión; también la denunció por calumnias e injurias.  Mirá también: Cristina, en Comodoro Py: "El hostigamiento del Poder Judicial ya es ridículo" ¿Qué denunció la diputada en su presentación para enfurecer a Cristina? A continuación las claves de su escrito:  1. El hecho. Stolbizer dijo que tomó conocimiento de "extraños movimientos bancarios" en las cuentas de las empresas de la familia K, así como en sus cuentas personales. "Existirían cajas de seguridad a nombre de la familia Kirchner y/o sus empresas que atesoran cifras millonarias en dólares".  2. Plazos fijos. La diputada afirmó -recordando una vieja denuncia suya- que existen diferencias entre los depósitos a plazos fijo que informó CFK en sus declaraciones juradas con otros documentos públicos suscriptos por ella. Ahí, hace hincapié en la sucesión de Néstor Kirchner, donde se informaron 19 plazos fijos en 2014. Sin embargo, la expresidenta declaró ante la Oficina Anticorrupción, desde 2011 a la fecha, solo 9 plazos fijos, todos en el Banco de Santa Cruz.  "Omitiendo declarar, según la presentación que se elija, 10 o 13 plazos fijos", detalla Stolbizer. Y agrega: "No tiene constancia de la existencia de depósitos en dólar como si se había afirmado en dos oportunidades antes el sucesorio". 
+
+3. Contra Máximo. Sin vueltas, la legisladora de la oposición acusa a Máximo Kirchner, diputado nacional y fundador de La Cámpora, por falsear su declaración jurada. "Informó que tenía 9 plazos fijos en el Banco de Santa Cruz omitiendo la misma cantidad que su madre", argumenta.  4. ¿Justicia "cómplice"? La denunciante en las causas Hotesur y Los Sauces es tajante al recriminarle a la Justicia el tiempo que demoró en actuar sobre sus presentaciones. Los acusa de haber permitido los manejos del dinero K.  Mirá también: Stolbizer: "El único daño que le puedo producir a la familia Kirchner es que terminen presos" "Las marchas y contramarchas en relación a los hechos denunciados, sin que se avanzara en la investigación, habría permitido que los Kirchner cancelaran dichos plazos fijos y se efectuaran sucesivos movimientos sospechosos en las cuentas bancarias y diferentes cajas de seguridad no declaradas que esconden cifras millonarias en dólares", acusó.  5. Las cajas de seguridad. Uno de los puntos más reveladores de la nueva denuncia de Stolbizer fue la existencia de cajas de seguridad a nombre de la familia Kirchner en bancos. "Los diferentes procesos judiciales pueden requerir a las entidades bancarias información sobre las cuentas de la familia Kirchner pero resulta imposible para los Bancos informar el contenido de las cajas de seguridad", alertó.
+
+6. Cinco millones de dólares. La diputada da cifras exactas del dinero que tanto Cristina como Máximo habría omitido declarar: una caja de seguridad con 2.250.000 de dólares y otra con 2.414.000 de dólares. "Nunca fueron declarador (ni los dólares ni la caja de seguridad), ni por la ex presidenta en su última declaración jurada ni por si hijo Máximo al presentarse como candidato", dice. 
+
+
+"El monto en dólares y su no declaración es un invento de la diputada, además de una mentira ridícula y malintencionada", dijo CFK.
+
+
+
+
+
+var act_b51 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_b51 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_b51.setTitle('"El monto en dólares y su no declaración es un invento de la diputada, además de una mentira ridícula y malintencionada", dijo CFK.');
+act_b51.setSubtitle('Justicia'); 
+act_b51.setLinkBack('http://www.clarin.com/politica/presentacion-Margarita-Stolbizer-Cristina-Kirchner_0_1608439247.html');
+act_b51.setDescription('Ayer la diputada presentó un escrito sobre presuntas cajas de seguridad que atesoran dinero a nombre de la familia Kirchner.');
+act_b51.addActionLink('VER MÁS', 'http://www.clarin.com/politica/presentacion-Margarita-Stolbizer-Cristina-Kirchner_0_1608439247.html');
+
+var showShareBarUI_params_b51=
+{ 
+containerID: 'shareQuote_b51',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_b51,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_b51
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_b51);
+ 7. El patrimonio de Flor K.  Stolbizer también apunta a la fortuna de Florencia Kirchner, la hija de la ex presidenta, que figura como accionista minoritaria en varias empresas K.  Señala que poseen una cuenta (la N°4004-168-198-1) con 1.032.144 de dólares, es decir casi 15 millones de pesos. Cuenta, también, que la joven que hoy cumple 26 años (nació el 6 de julio) tiene una caja de seguridad con 65.995.660 de pesos.  
+
+"Creemos que se destinó parte del dinero que es objeto de la investigación en las causas mencionadas para ser sustraído de los ojos de la Justicia", dice el escrito que lleva la firma de la abogada Silvina Martínez, asesora de Stolbizer.  8. Vaciamiento. La legisladora, que hoy fue denunciada por Cristina junto con el juez Claudio Bonadio y Silvina Martínez, además cree que existió un vaciamiento de las cuentas bancarias de los Kirchner y sus impresas investigadas por la Justicia porque, dice, "las mismas poseen montón mínimos que no superan los 2 millones de pesos en total".  Todas esas claves dispararon una rápida respuesta de CFK, en la que reveló inclusive que dolarizó todos sus ahorros cuando Mauricio Macri levantó el cepo al dólar, medida que ella habia impuesto. 
+
+
+Cristina responsabilizó a Stolbizer por cualquier daño que pudiera sufrir su familia seguridad 
+
+
+
+
+
+var act_962 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_962 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_962.setTitle('Cristina responsabilizó a Stolbizer por cualquier daño que pudiera sufrir su familia seguridad&nbsp;');
+act_962.setSubtitle('Justicia'); 
+act_962.setLinkBack('http://www.clarin.com/politica/presentacion-Margarita-Stolbizer-Cristina-Kirchner_0_1608439247.html');
+act_962.setDescription('Ayer la diputada presentó un escrito sobre presuntas cajas de seguridad que atesoran dinero a nombre de la familia Kirchner.');
+act_962.addActionLink('VER MÁS', 'http://www.clarin.com/politica/presentacion-Margarita-Stolbizer-Cristina-Kirchner_0_1608439247.html');
+
+var showShareBarUI_params_962=
+{ 
+containerID: 'shareQuote_962',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_962,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_962
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_962);
+ "Los movimientos de pesificación de los plazos fijos en dólares durante el ejercicio de mi presidencia, primero, y la dolarización de los mismos en el corriente año, después haber terminado mi mandato, se hicieron de acuerdo a la normativa vigente para la compra y venta de divisas del Banco Central", reconoció.
+
+Hoy, desde Tribunales, donde se vio cara a cara con Bonadio y luego denunció a Stolbizer, repitió ese argumento. Dijo que la compra y tenencia de moneda extranjera fue hecha con los recursos que tenía su familia.  "¿Por qué dolaricé? Porque no sé qué va a hacer esta gente con la economía, a mi me agarró el plan Bonex y el Corralito. No tengo confianza en este Gobierno" , explicó.   

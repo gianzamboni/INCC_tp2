@@ -1,0 +1,26 @@
+
+El avión Solar Impulse 2, que está dando la vuelta al mundo solo movido por energía procedente del sol, llegó hoy a El Cairo, su última escala antes del vuelo final para completar su vuelta al mundo. Procedente de la localidad española de Sevilla y tras cerca de 50 horas de viaje, el avión aterrizó en el aeropuerto de la capital egipcia a las 2.10 hora argentina, en medio de una gran expectación mediática. A su llegada, el suizo André Borschberg, que piloteó la aeronave desde Sevilla hasta El Cairo, fue recibido por su compañero, Bertrand Piccard, que lo abrazó y enseguida le puso un parche en la chaqueta en el que se leía la palabra "Egipto".
+
+Ya fuera de la aeronave, Borschberg insistió en el hecho de que el Solar Impulse 2 no lleva pasajeros pero sí un mensaje. "Este avión toma su energía de una fuente renovable, la almacena, porque el usuario, en este caso el piloto, no la necesita al mismo tiempo que es producida. De la misma manera, lo podemos hacer en las ciudades. Lo que hacemos en este avión es lo que deberíamos hacer en las ciudades", afirmó. Mirá también: El Impulse 2 cruzó el Atlántico con éxito y ya aterrizó en Sevilla Asimismo, recordó que hoy en día "en vez de pensar siempre en cómo producir más energía", las sociedades deberían reflexionar sobre "cómo utilizar mejor la energía que está disponible".
+
+Borschberg reconoció además que su viaje desde Sevilla hasta la capital egipcia fue "muy emocionante", ya que fue el último que hizo a bordo del Solar Impulse 2. En los próximos días, la aeronave completará su vuelta al mundo con el trayecto desde El Cairo hasta Abu Dabi, pero esta vez bajo los mandos de Piccard. El también suizo indicó que fue precisamente en Egipto donde este proyecto fue concebido. Mirá también: El Solar Impulse 2 cruza el Atlántico rumbo a Sevilla "Cuando volé por todo el mundo en un globo en 1999, aterricé en Egipto. Y aquí es donde tuve la idea de realizar otro vuelo alrededor del mundo, pero con un avión de energía solar", contó el piloto. Asimismo, resaltó el simbolismo que tiene el hecho de que el Solar Impulse 2 haya realizado su última escala en el país de los faraones.
+
+"Egipto fue el primer país, hace 2.800 años, donde el faraón Amenofis IV decidió adorar al Sol de manera monoteísta. Es el primer sitio donde el Sol se convirtió en un dios, en el único dios, así que creo que es muy simbólico". Mirá también: El avión solar sobrevoló Nueva York y se apresta a cruzar el Atlántico Casi 5.000 años después, no es que el piloto suizo profese una religión relacionada con el astro solar, pero sí está convencido de que, como reza el lema de la iniciativa, el futuro, también el de la aviación, es limpio. "Se puede descentralizar la producción de energía y ofrecerla por un precio muy bajo a todo el mundo. Ya no es energía solar para los países ricos, ahora es para los países en desarrollo, para que sean más ricos más seguros", añadió.
+
+En el aterrizaje también estuvo presente el ministro egipcio de Aviación Civil, Sharif Fathi, que recibió a Borschberg y dio la bienvenida a la iniciativa, además de destacar que se haya elegido Egipto como parte de su recorrido. Mirá también: El avión solar volvió a despegar y sigue su vuelta al mundo "Esto denota que hay seguridad en el país, que ha sufrido disturbios por la situación política en los últimos cinco años", señaló a EFE el responsable gubernamental. En torno a los pilotos, decenas de integrantes del equipo retransmitieron el evento en directo por diferentes redes sociales. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El Solar Impulse 2 llegará en los próximos días a Abu Dabi, tras completar una travesía de 35.000 kilómetros, 500 horas de vuelo y diez escalas sobrevolando el mar de Arabia, India, Myanmar, China, los océanos Pacífico y Atlántico, Estados Unidos, el sur de Europa y el norte de África. Mirá también: El avión solar está a punto de completar su cruce del Pacífico Este monoplaza, equipado con más de 17.000 células fotovoltaicas, está fabricado con fibra de carbono y se sustenta con una envergadura alar mayor que la de los Boeing 747, pero desplaza un peso similar al de un automóvil familiar vacío. Además, mantiene una velocidad de travesía de entre 45 y 90 kilómetros por hora, mientras que alcanza un techo de vuelo máximo de 8.500 metros de altitud. Fuente: EFE.

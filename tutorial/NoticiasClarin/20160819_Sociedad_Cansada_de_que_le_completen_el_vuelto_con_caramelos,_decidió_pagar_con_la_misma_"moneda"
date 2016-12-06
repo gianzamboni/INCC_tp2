@@ -1,0 +1,18 @@
+
+Una joven cordobesa decidió cobrar venganza ante los cientos de comerciantes que ante la falta de monedas optan por darte “un caramelito” de vuelto. Es que la ley establece que ante la imposibilidad de dar el vuelto, se debe redondear a favor del cliente, algo que muchas veces los comerciantes no hacen. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El video fue publicado por una joven cordobesa en su perfil de Instagram (@lachicadelosvideos) y ya superó las 24.000 reproducciones.  "Hoy salgo decidida a dar vuelta la historia, vamos a ver qué pasa", comienza el video en el que  se la ve en diferentes comercios "completando" el monto a a pagar con caramelos. En los comerciantes se nota la sorpresa, pero ninguno llega a reaccionar.  Mirá también: Enojado por una multa, la pagó con dos baldes llenos de monedas Se sabe, no es una situación muy agradable para el cliente, que muchas veces acepta esa “moneda” para evitar entrar en una discusión. Esta vez les tocó a ellos recibir "un caramelito" para completar.  

@@ -1,0 +1,23 @@
+
+Joseph "Joe" Lewis es un empresario británico de 79 años con una fortuna estimada en unos $ 5.300 millones, que lo ubica entre los 300 más ricos del planeta según el listado anual de la revista Forbes. Allí, el magnate dueño de la vivienda donde descansa el Presidente Mauricio Macri, figura como el séptimo en Inglaterra. Hoy, Lewis es el titular del grupo financiero Tavistock, que gestiona un patrimonio de 2.800 millones de dólares.
+
+Entre 1996 y 1997, Lewis compró un predio de 12 mil hectáreas a menos de 45 kilómetros de El Bolson, al sur de la provincia de Río Negro, entorno al lago Escondido. Fundó la compañía Hidden Like SA, la empresa con la que administra la finca en la que además de una mansión de 3.600 metros cuadrados, ofrece un chalet para invitados, caballerizas, espacio para la práctica de distintos deportes, una cancha de fútbol 11, un anfiteatro y helipuerto entre otras comodidades.
+
+Mirá también: Macri se alojó en el Sur, en la casa de un millonario polémico Al colgar el cartel de "Propiedad Privada" y cerrar el camino de acceso al Lago Escondido, la polémica estalló enseguida con los vecinos de El Bolsón. Desde 2005, pobladores de El Bolsón y de El Foyel, hicieron protestas públicas, denuncias y jornadas con recitales en defensa de los "derechos de las costas libres, y contra la concentración y extranjerización de la Tierra”. Mirá también El acceso a las costas de ríos y lagos, cada vez más restringido  En junio de 2011, el programa de televisión CQC envió al cronista Gonzalo Rodríguez como parte del segmento "Proteste ya" para mostrar que los vecinos de la zona no podían acceder a la costa del lago. Estuvo sin poder salir de la costa del lago por más de cinco horas y lo retiró la Policía provincial. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Hace cinco años, Lewis llevó al Gobierno provincial la iniciativa de hacer un aeropuerto en El Bolsón. El empresario difundió en la ciudad que se trataba de un "beneficio para la comunidad", pero recibió el rechazo de los pobladores. 
+

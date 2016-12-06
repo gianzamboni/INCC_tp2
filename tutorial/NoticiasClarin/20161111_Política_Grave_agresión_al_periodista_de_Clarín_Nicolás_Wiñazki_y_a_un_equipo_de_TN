@@ -1,0 +1,20 @@
+
+ Nicolás Wiñazki, periodista de Clarín, Radio Mitre, Canal 13 y TN, fue agredido ayer por la tarde mientras hacía una nota, por un hombre que lo insultó, lo golpeó en la cara y salió huyendo. El agresor golpeó a Wiñazki, al camarógrafo Juan Pablo Chávez, al productor Manuel Jove y a un asistente mientras grababan una nota en la ciudad de La Plata.  Wiñazki estaba en la capital bonaerense –en la calle 45 al 500– haciendo una nota junto a su compañera de TN Luciana Geuna, quien le dijo a Clarín que la situación fue “muy violenta” y que el hombre les gritó “oligarcas” antes de atacarlos a trompadas.
+
+ Según los testigos del hecho, el camarógrafo Chávez intentó calmarlo, pero el joven le pegó y lo tiró al piso y luego arremetió contra Wiñazki, quien recibió una trompada en el ojo. Tras el violento episodio, el agresor fue retirado del lugar por otro jóvenes que habían salido del mismo centro de estudiantes.  Wiñazki y sus compañeros hacían una nota sobre Ofelia Wilhem, madre de la ex presidenta Cristina Fernández de Kirchner. Se desconoce si el agresor sabía o escuchó de qué se trataba la entrevista, o si él mismo tiene alguna militancia política. Mientras Miguel Wiñazki –padre y colega de Nicolás– daba la noticia por Twitter, los periodistas hacían la denuncia policial.  Luego, en el piso de Telenoche, Wiñazki dio más precisiones de lo ocurrido. “Estoy bien, esto pasó mientras estábamos haciendo una nota sobre la madre de Cristina Kirchner”, explicó. El periodista agregó que cuando recién bajaba de un auto junto a su equipo “de la mano de enfrente apareció un chico de unos 25 o 30 años que nos empezó a gritar. Yo le expliqué que era nuestro trabajo, pero él se puso cada vez más violento”, relató. “Después de pegarme quedé bastante aturdido. El gritó algunas cosas más, cruzó la calle, y se fue gritando ‘oligarca’, ‘trabajan para Macri’, ‘hay hambre en el pueblo’”.  En un comunicado difundido anoche, la Asociación de Entidades Periodísticas Argentinas condenó el ataque. “Adepa repudia el hecho y espera que el mismo sea sancionado por la Justicia”, dice el texto. La organización también manifestó “su solidaridad con Wiñazki y los integrantes del equipo periodístico que lo acompañaba, a la vez que advierte y hace un llamado público una vez más a la tolerancia y al respeto de la tarea de la prensa.”  La fundación LED (Libertad de Expresión + Democracia), fundada por la ex diputada Silvana Giudici también manifestó su solidaridad con los periodistas agredidos. “LED insiste en la importancia de la labor de la prensa independiente como requisito para la convivencia democrática y reitera que cualquier forma de intolerancia atenta de manera clara contra los principios fundamentales que contemplan nuestra Constitución Nacional y los Tratados Internacionales que la integran”, dice el comunicado.  “Debemos recordar que la Comisión Interamericana de Derechos Humanos remarcó que ‘el ejercicio periodístico sólo puede efectuarse libremente cuando las personas que lo realizan no son víctimas de amenazas ni de agresiones’”, señaló.  “En nuestro país se ha vivido recientemente un clima de confrontación con los medios de prensa, que afortunadamente ha quedado atrás. En este contexto, la Fundación LED seguirá con atención la evolución de este caso para asegurar que se garantice plenamente el ejercicio de la libertad de expresión y de prensa”, concluye el texto. Miguel Wiñazki, también periodista de Clarín y Radio Mitre y padre de Nicolás, contó lo sucedido a través de su cuenta de twitter. "Desbocado y a traición una bestia golpeó en la cara a @wwnicolas mientras estaba trabajando. Ni olvido, ni impunidad!", dijo. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/MWinazki/status/797194494345089024",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_79719449434508902")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

@@ -1,0 +1,34 @@
+
+Alvaro Zicarelli hizo una descarga después de haber sido echado de su cargo de Director de Asuntos Globales del senado por Gabriela Michetti por sus agravios en un video a Cristina Fernández de Kirchner. La ex presidenta había difundido una filmación del funcionario durante un cacerolazo, en 2012, en la que la llamaba "guanaca, víbora y miope". Ayer, en el programa televisivo Intratables, conducido por Santiago del Moro, Zicarelli levantó polémica. Aunque aseguró que "si tuviera la oportunidad, le pediría disculpas (a Cristina Kirchner)", después dijo: "En términos civilizados, sigo pensando lo mismo". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Cuatro años después ya no soy esa persona", dijo sobre la filmación en la que se lo ve desencajado, hablándole a una cámara pero dirigiéndose a la ex presidenta y "la prole que la sigue". El panelista Diego Brancatelli, ferviente opositor al gobierno de Mauricio Macri, se cruzó con él: ""Esto lo que tuvo que soportar Cristina, las marchas del odio. Expresiones de odio".  Mirá también: Michetti echó al empleado del Senado que fue filmado insultando a Cristina -Quién vemos aquí, por más que ahora tenga anteojos, use una camisa y hable bien, en su cuenta... -empezó Brancatelli, pero el ex funcionario de Cambiemos lo interrumpió. -Ese no es mi tweet. Es un "fake" (cuenta falsa). Lo acaban de crear en mi contra -lo que Brancatelli tomó con ironía. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/CFKArgentina/status/776514162876878848",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_77651416287687884")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Cuando se difundió el video, tomado durante un cacerolazo en 2012, la vicepresidenta Michetti decidió despedir al funcionario de su equipo. "Me dijo que en un gobierno que intenta instaurar el diálogo, un funcionario no podía haber tenido este tipo de expresiones ni tenerlas ahora", contó Zicarelli. Y dijo agregó: "No sólo estoy de acuerdo, sino que en su posición habría tomado la misma posición".  Antes de asumir en el Gobierno, Zicarelli trabajaba como Director de Asuntos Institucionales y Cooperación Internacional en la fundación SUMA, que preside Gabriela Michetti. El 3 de febrero, había sido designado Director de Asuntos Globales del Senado de la Nación Argentina.

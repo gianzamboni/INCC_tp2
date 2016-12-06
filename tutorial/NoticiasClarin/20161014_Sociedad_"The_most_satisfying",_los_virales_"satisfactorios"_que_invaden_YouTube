@@ -1,0 +1,24 @@
+
+No hay misterio en lo que pasa cuando una prensa hidráulica aplasta un iPhone 7. Tampoco en el resultado de una lata de Coca-Cola siendo tragada por lava volcánica. La acción es irreversible. Pero escenas de destrucción total como éstas producen una extraña sensación de satisfacción y millones de visualizaciones en YouTube. Y la clave del éxito no está en el back and forward . Está en nuestro cerebro. Va el primer "disfrute": 
+
+ 
+
+ Es complejo, pero la suavidad y la perfección son tan efectivas como la destrucción en YouTube. Si de satisfacción hablamos, claro. “The most satisfaying video in the world” [El video más satisfactorio del mundo] es una compilación de 31 clips que supera las 15 millones de reproducciones [2 millones en los primeros dos días de publicado] y genera un efecto zen o hipnótico en los viewers. “¿Alguna vez viste algo que te hace sentir un cosquilleo en la piel y por alguna razón desconocida te proporciona una sensación de paz y felicidad ilimitada?”, preguntan los autores del video, en el canal de YouTube Digg.  Engranajes en perfecta sincronización, el glaseado perfecto de una torta, técnicas de marbling paint (jaspeado) “tan exactas que duelen”, entre otras imágenes, dan la respuesta. Ponemos a prueba el viral: 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Este video no es el primero (fue subido en febrero de 2016) pero sí el más popular de una interminable serie de “satisfaying videos”. Y a partir de las sugerencias que da YouTube al costado del viral, se desprende que al menos 13 de estos videos ocupan el ránking de los que superan las 10 millones de reproducciones. Según Google Argentina explicó a Clarín, a nivel mundial, el crecimiento de las búsquedas en YouTube por “Most Satisfying Video” es del 30% y surgió principalmente a partir de este año. “Si analizamos las de los últimos 12 meses, hubo un pico de búsquedas en la semana del 26 de junio al 2 de julio, y entre el 2 y 8 de octubre”, delimitan. 
+
+ ¿Qué tienen en común todos estos videos satisfactorios? La serie repetitiva de aspectos mundanos -como los que aparecen en la mayoría de los videos enfocados en la “suavidad y perfección”- o de acciones que “jamás haríamos en casa” -como romper objetos costosísimos para ver “qué hay adentro?” o ver “¿Qué pasa sí…?”-. De los comentarios se desprende que muchos se aburren “a los 30 segundos” y que muchos --muchísimos--otros, sienten “calma”, “felicidad” y, por supuesto, “satisfacción sin culpa” al ver simetría y destrucción. Como anticipamos al inicio de esta nota, la clave de este éxito está antes del play. Es la 3,4-dihidroxifenilalanina, mejor conocida como dopamina. Es la "rectora" del placer. Y éste llega en tres fases: "Primero viene el deseo: anticipación, anhelo, ansias. Después hay un período de gusto: el disfrute de la comida, el vino, el sexo, la película o las drogas. Finalmente, la saciedad: el período de la satisfacción”, describió a la BBC Morten Kringelbach, un neurocientífico de la universidad de Oxford en Reino Unido, sobre el “cerebro visual”. En otras palabras, el Huffington Post habló de “brain orgasm” (orgasmo cerebral) para analizar la serie de “satisfying videos” de arena kinética (los granos no se desperdigan, no mancha y hay miles de tutoriales para hacerla). “Dejá todo y mirá bloques de arena siendo cortados en porciones”, se titula la nota. Y, desde aquí, invitamos a hacer lo mismo:   

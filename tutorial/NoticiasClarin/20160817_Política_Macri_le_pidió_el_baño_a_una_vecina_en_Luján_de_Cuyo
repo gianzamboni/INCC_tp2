@@ -1,0 +1,18 @@
+
+El presidente Mauricio Macri sorprendió a una vecina de la localidad agrícola de Perdriel, en Mendoza, a quien le pidió permiso para pasar al baño. El imprevisto de Macri fue antes de iniciar un acto por el anuncio de una red de cloacas para 2 mil familias de esa zona viñatera de Luján de Cuyo. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ La vecina Liliana Monti, que es maestra y estaba con su guardapolvo a punto de salir a trabajar, vive frente a la plaza del barrio Coni, donde el presidente y su comitiva anunció una inversión de 33 millones de pesos en redes cloacales. Mirá también: Tras las amenazas, nuevas medidas de seguridad en la Casa Rosada El baño que utilizó Macri, de apenas un 1,5 metros cuadrados, está al final de un pasillo y tiene una luz tenue. "El baño está en excelentes condiciones, lo limpio todos los días", dijo la dueña de casa. Y aclaró que sólo alcanzó a sacarse una foto con el presidente cuando se iba porque estaba apurado. "No tuve oportunidad de decirle o pedirle algo. Venía por algo concreto: usar el baño". Mirá también: Macri: “Los problemas de fondo son la inflación y la generación de energía” Macri y el gobernador mendocino Alfredo Cornejo realizaron un acto por el 166 aniversario del fallecimiento de José de San Martín en el Cerro de la Gloria. Después, se trasladaron en helicóptero hasta los jardines de la bodega Norton en Luján de Cuyo, y en combi oficial al barrio Coni para el anuncio de obras. Fue un viaje relámpago de apenas una hora. Mirá también: La Rioja: llega Macri y entregará viviendas en el Barrio Néstor Kirchner

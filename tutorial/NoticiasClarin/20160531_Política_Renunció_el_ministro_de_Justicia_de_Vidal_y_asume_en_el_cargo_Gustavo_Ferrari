@@ -1,0 +1,70 @@
+
+El ministro de Justicia de María Eugenia Vidal presentó hoy su renuncia al cargo y la gobernadora designó en su reemplazo al abogado Gustavo Ferrari. Carlos Mahiques volverá así al Poder Judicial de la Nación, a su cargo de juez de la Cámara Nacional de Casación Penal, en el que tenía licencia hasta el 10 de junio. 
+
+
+En una carta que le envió a la gobernadora María Eugenia Vidal, Mahiques sostuvo que "fue un privilegio haber contado con su confianza y estímulo en este tramo fundacional de su gestión".
+
+
+
+
+
+var act_d66 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_d66 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_d66.setTitle('En una carta que le envió a la gobernadora María Eugenia Vidal, Mahiques sostuvo que "fue un privilegio haber contado con su confianza y estímulo en este tramo fundacional de su gestión".');
+act_d66.setSubtitle('PROVINCIA DE BS. AS.'); 
+act_d66.setLinkBack('http://www.clarin.com/politica/Renuncio-Justicia-Vidal-Gustavo-Ferrari_0_1586841366.html');
+act_d66.setDescription('Carlos Mahiques volver&aacute; al Poder Judicial de la Naci&oacute;n. El reemplazante es un abogado que era Asesor General y ya hab&iacute;a estado en la gesti&oacute;n de Scioli.');
+act_d66.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Renuncio-Justicia-Vidal-Gustavo-Ferrari_0_1586841366.html');
+
+var showShareBarUI_params_d66=
+{ 
+containerID: 'shareQuote_d66',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_d66,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_d66
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_d66);
+  "La inminencia del vencimiento, el próximo 10 de junio, del plazo de la licencia otorgada por el Poder Judicial de la Nación –que integro como juez de la Cámara Nacional de Casación Penal- me persuaden de la necesidad de retomar la función a la que me he dedicado más de cuarenta años de mi vida", agregó el ministro saliente.  Mahiques destacó que, durante su gestión, "sentamos las bases para la impostergable reforma del Servicio Penitenciario bonaerense".
+
+ El reemplazante Ferrari era hasta hoy, Asesor General de Gobierno y ya había estado en la gestión de Daniel Scioli.  Mahiques se va de la gestión en buenos términos con Vidal y vuelve a su tarea de juez. En tanto, el reemplazante Gustavo Ferrari ocupará así, un nuevo lugar en la administración bonaerense.  Ferrari fue asesor en la gobernación de Daniel Scioli y antes, fue diputado nacional, lugar al que llegó por la fuerza de Francisco de Narváez, del cual fue su hombre de confianza. 

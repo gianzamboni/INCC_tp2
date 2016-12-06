@@ -1,0 +1,20 @@
+
+ El video de dos perros "arrepentidos" se convirtió en el nuevo fenómeno viral en las redes sociales. Tanta ternura generó que hasta medios de otros países compartieran la filmación donde se ve a un joven que se enoja con sus dos mascotas --uno de ellos un pitbull-- al encontrar la plantilla de una de sus zapatillas destruida. Ubicó a los animales a la par y mirándolos fijo les preguntó quién había sido el responsable. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Daniel Martino, un joven de Tortuguitas, es el dueño de esa plantilla destruida. "Uno de estos dos señores casi me deja sin zapatilla, sospecho del gris", publicó en su cuenta de Facebook, junto a una imagen de las mascotas.  Mirá también: El perro que se mudó a Alemania "cuenta" su nueva vida en su Facebook En el video, el pitbull siente tanta "culpa" que no la puede ocultar e intenta esconderse detrás de una maceta. El dueño le muestra el destrozo que provocó y lo presiona: “¿Quién hizo esto?”, indaga. La respuesta es la cabeza gacha del animal y una mirada "arrepentida". A su lado, el otro perrito no se altera demasiado por lo que pasa. Primero, el dueño le pregunta si fue él quien lo hizo, pero se da cuenta de que no. Sin embargo, también lo acusa: "Vos sos cómplice", le dice.
+
+El video fue publicado el lunes en Facebook y en 24 horas sumó millones de reproducciones. Tanto, que hasta diarios internacionales lo reprodujeron, como el británico Daily Mail, que tituló la nota así: “¿Quién, yo? El hilarante video que capta el momento en el que un pitbull culpable oculta su cara de vergüenza”. Mirá también: Emotivo video de dos bomberos reanimando a un perrito durante un incendio

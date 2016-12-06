@@ -1,0 +1,56 @@
+
+Elisa Carrió había decidido tomarse 10 días de licencia de la actividad parlamentaria para bajar un cambio. Seguir trabajando en sus denuncias y proyectos, pero a otro ritmo, más calmo. Hoy, decidió interrumpirlapara estar en Diputados,votar la resolución para allanar la casa de Julio De Vido y, como era de esperar, cruzó al ex ministro K: "Quiero justicia y condena para De Vido, cajero de Kirchner y Cristina", lanzó. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Yo fui la que dije que De Vido era cajero de Kirchner en 2004 y lo repetí y lo repito, el señor De Vido es el más grande cajero del ex presidente Kirchner y de Cristina Kirchner a lo largo del tiempo. Y López solo es el valijero como lo era Uberti", manifestó "Lilita", al pedir la palabra para una réplica luego de la feroz discusión entre Fernando Sánchez, su mano derecha en Diputados, y Diana Conti, que terminó a los gritos, con insultos incluidos. Mirá también: Con amplia mayoría y fractura del bloque K, Diputados aprobó el allanamiento al domicilio de De Vido Carrió tildó de hipócritas a muchos de los diputados que votaron a favor de allanar al ministro."Cuántos de todos los que están acá cenaron con De Vido para pedirles obras públicas, cuántos cuando me trataban de loca por decirles que era una asociación ilícita, intendentes de todos los partidos, hablando con J.J.López y les entregaba el 30 % de las coimas", denunció.
+
+Mirá también: De Vido: "No soy ni he sido cajero de nadie" Y apuntó dando nombre y apellido contra el ex gobernador de Santa Fe, Hermes Binner, antiguo aliado político suyo. "Cuantos partidos de tantos años que hoy se conmemoran acá, los vi, al ex gobernador Binner abrazado con De Vido inaugurando obras y hablando mal de mi cuando necesitaba una audiencia, yo lo he visto señor presidente, en consecuencia, me parece no voy a hacer leña del árbol caído", dijo. Mirá también: Diana Conti insultó a los gritos a un diputado: "No tenés pelotas" "Quiero Justicia y condena para el señor De Vido, para todos los que denunciamos por asociación ilícita", reclamó y señaló que hay "oportunista" en el recinto "a tal punto es oportunista la política argentina que quieren tratar en un día, lo que no trató en 12 años". 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_bhduyyzh",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_bhduyyzh"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_bhduyyzh").after(scriptEl);
+ Carrió, que leyó sus críticas a De Vido en una sesión de 2003, cuando Kirchner recién asumía y tenia 70% de imagen positiva, también se cruzó con los diputados de izquierda. "Quiero contestarle a la señora de la izquierda [Por Miryam Bregman] que hay que saber de la historia, la izquierda jamas denunció al Citibank y a las grandes empresas, La coalicion civica y el ARI sí", recordó. Mirá también: Sánchez tras los gritos de Conti: “Al FpV le quedó como única tarea defender delincuentes” 
+
+
+    kWidget.embed({
+        "targetId": "kaltura_player_welo_0_qdjxetci",
+        "wid": "_102",
+        "uiconf_id": 23448755,
+        "flashvars": {
+            "watermark":{"img" : "http://welo.tv/static/js/clarin/logo.png","href" : "http://www.welo.tv/","cssClass" : "topLeft"},
+            "related": { "plugin" : false}
+        },
+        "entry_id": "0_qdjxetci"
+    });
+
+    var scriptEl = document.createElement("script");
+    scriptEl.type = "text/javascript";
+    scriptEl.src = "http://welo.tv/static/js/clarin/clarin.js";
+    $("#kaltura_player_welo_0_qdjxetci").after(scriptEl);
+ "Es bueno que empiecen a denunciar, Yo he denunciado a [Nicolas] Caputo [amigo personal del Presidente], también he denunciado en su momento a Macri, y también he denunciado a IECSA [empresa del primo del jefe de Estado]. La diferencia es que ustedes hablan acá, pero no denuncian afuera", los chicaneó.  

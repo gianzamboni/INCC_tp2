@@ -1,0 +1,116 @@
+
+El presidente Mauricio Macri, y ministros nacionales y provinciales, junto a referentes de las principales fuerzas que integran Cambiemos, realizaron hoy un nuevo timbreo en barrios porteños y de la provincia de Buenos Aires, tras la suspensión por lluvia de la actividad el fin de semana último. El jefe de Estado llegó hasta la localidad de Magdalena, en el interior bonaerense, para recorrer las afueras de esa ciudad y tomar contacto directo con los vecinos. En la Casa Rosada siguen al pie de la letras los consejos del asesor Jaime Durán Barba para proyectar cercanía y territorialidad. La gobernadora María Eugenia Vidal esta vez no fue de la partida. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/mauriciomacri/status/789844507634327553",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78984450763432755")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Macri se sacó fotos con los vecinos de Magdalena a medida que iba caminando y aprovechó para saludar a la peña local de Boca Juniors, el club del que es fanático. El mandatario explicó por las redes sociales que consultó a gente de la ciudad por sus ocupaciones, la seguridad del barrio e incluso aconsejó a algunos niños que "hay que estudiar".  Los funcionarios de la alianza gobernante desplegaron sus recorridas por distintos puntos principalmente de esta Capital y el Gran Buenos Aires con las consignas "Timbreo Nacional" y "Cambiando Juntos". Esta actividad estaba programada para el sábado 15 pero debió postergarse por "las malas condiciones meteorológicas" con fuertes lluvias y vientos registradas en el área metropolitana, indicaron desde Cambiemos. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/CaroStanley/status/789840390102872064",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78984039010287206")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El ministro de Justicia, Germán Garavano, estuvo en Garín, partido de Escobar, para "conversar con los vecinos", según retrató desde su cuenta en la red social Twitter, mientras su colega de Desarrollo Social, Carolina Stanley, se mostró en Merlo.  Al jefe de Gabinete, Marcos Peña, se lo vio por las calles de Lanús Oeste con el jefe comunal Néstor Grindetti​ Por su parte, la ministra de Seguridad, Patricia Bullrich, eligió San Martín, en tanto el titular de Hacienda, Alfonso Prat Gay, recorrió Pilar junto al intendente local, Nicolás Ducoté. "Visitando y charlando con vecinos de Peruzzotti", consignó el jefe comunal. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/marquitospena/status/789826396340252672",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78982639634025267")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ "Comenzamos el Timbreo Nacional en Pérez, Gran Rosario", indicó por su parte el ministro de Transporte, Guillermo Dietrich. Y el titular de Interior, Rogelio Frigerio, encabezó la movida en Entre Ríos, su provincia natal. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/CaroStanley/status/789822142640685056",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78982214264068505")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ A su vez, el ministro de Economía bonaerense, Hernán Lacunza, visitó José C. Paz junto a los vicejefes del Gabinete nacional Mario Quintana, Gustavo Lopetegui y la secretaria de Relaciones Parlamentarias, Paula Bertol. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/PaulaBertol/status/789825281632657408",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78982528163265740")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/PatoBullrich/status/789830509706747909",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78983050970674790")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El director general de Cultura y Educación bonaerense, Alejandro Finocchiaro, se mostró en el barrio Villa Luzuriaga de La Matanza, mientras el subsecretario de Gobierno y Asuntos Municipales provincial, Alex Campbell, dialogó con la gente en San Fernando, su tierra. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/marquitospena/status/789826048594706433",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78982604859470643")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Por su parte, el ministro de Trabajo bonarense, Marcelo Villegas, recorrió Moreno para dialogar con comerciantes. En tanto, el jefe de Gobierno porteño, Horacio Rodríguez Larreta, estuvo en la Comuna 15 junto al ministro de Desarrollo Urbano y Transporte, Franco Moccia, y la militancia juvenil de PRO. Y en Olivos, al secretario general de la Presidencia, Fernando de Andreis, lo acompañó el intendente de Vicente López y primo del jefe de Estado, Jorge Macri. 
+
+Por su parte, el jefe comunal de Quilmes, Martiniano Molina, recorrió el distrito junto al secretario general de la Gobernación bonaerense, Fabián Perechodnik. Asimismo, el intendente de Tres de Febrero, Diego Valenzuela, estuvo en Ciudadela, donde además examinó "la obra de la Plaza de la Familia en Villa Raffo", consignó en Twitter, mientras su par de Junín, Pablo Petrecca, expresó que "salimos a recorrer la ciudad con todo el equipo y charlar con los vecinos". Por otro lado, en una iniciativa similar, aunque desde el peronismo, el intendente de Resistencia, Jorge Capitanich, se mostró en Twitter durante una recorrida por los barrios Nazareno y Gobernador Goitia, donde analizó "junto a los vecinos diferentes acciones para el mejoramiento" de esas localidades.

@@ -1,0 +1,68 @@
+
+Pese a la faja que impide su ingreso, el despacho que La Cámpora reserva para Máximo Kirchner es custodiado las 24 horas por diputados kirchneristas y personal del bloque. Se turnan para cuidar los dos accesos a la oficina que estuvo en el centro de la polémica hace una semana y ya ingresaron algunos muebles. Buscan así retener uno de las principales espacios del tercer piso como demostración de fuerza.Como un secreto a voces, en los pasillos del Congreso ya no es novedad el resguardo que el kirchnerismo hace de la oficina que buscan conservar para Máximo. En el tercer piso, la custodia al despacho es celosa y la información proporcionada se mide palabra a palabra. "No es el tema más relevante, como bloque tenemos una agenda importante y cargada de temas que nos preocupan" se excusó un colaborador del FpV, pero no pueden ocultar el personal abocado a la tarea de custodiar la oficina que en un momento se pensó para una de las autoridades de la Cámara, el sanjuanino Luis Gioja.Leé también: Le sacaron el despacho a Máximo Kirchner y La Cámpora lo tomó por la fuerzaA simple vista se observa la seguridad instalada en las dos puertas de ingreso a la oficina, donde permanece un colaborar de cada lado realizando turnos de seis horas. El acceso más fotografiado tras la denuncia del kirchnerismo sobre el desalojo de las pertenencias del diputado y líder de La Cámpora, permanece con la faja que versa “consultar antes de ingresar”. Se observan las luces encendidas y se escucha el movimiento en su interior. “Se equiparon, trajeron un sillón, una heladerita y están ahí”, reconoció un integrante del bloque. Pero los asesores del FpV sólo plantean que “todos se están acomodando, las oficinas están en refacción la mayoría y nada está oficializado”.El despacho que quiere Máximo, semanas atras.La segunda puerta de acceso, en un pequeño pasillo que en la puerta tiene el número 340, ya no cuenta con la faja. Una integrante del equipo del FPV al abrir la puerta explicó a Clarín: "Estamos trabajando, tenemos cosas que hacer" y evadió explicar cómo se organizan para dormir en una oficina que está en obra.Máximo Kirchner: "Nadie usurpó nada, estaban arreglando el despacho"En el interior del despacho al que ya se le había moficiado la cerradura, se observó un sillón de color marrón, el sonido de un televisor de fondo y aseguraron, "aire acondicionado tenemos, eso sí". Máximo Kirchner nunca pisó ese despacho, y en el Congreso aseguran que de haberlo hecho “hubiera sido más difícil cualquier movida para reasignar el lugar, pero no había nada de él como dijeron los otros diputados”, señaló una fuente del sector.La Cámpora con un organizado sistema, permanece durante todo el día, resistiendo en el espacioso despacho para evitar que las autoridades de la Cámara efectivicen lo que ya anunciaron: entregar ese lugar a otro integrante del FPV.
+
+
+"No me estoy peleando por ningún despacho; no se puede entrar a la oficina de un diputado nacional", dijo Máximo cuando estalló el escándalo. 
+
+
+
+
+
+var act_d54 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_d54 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_d54.setTitle('"No me estoy peleando por ningún despacho; no se puede entrar a la oficina de un diputado nacional", dijo Máximo cuando estalló el escándalo.&nbsp;');
+act_d54.setSubtitle('Congreso. Tensión entre el macrismo y el Frente para la Victoria.'); 
+act_d54.setLinkBack('http://www.clarin.com/politica/Congreso-Maximo_Kirchner-La_Campora-Frente_para_la_Victoria_0_1514848807.html');
+act_d54.setDescription('El "acampe" de La Cámpora y sus aliados del Frente para la Victoria lleva más de una semana. La autoridades macristas de la Cámara baja habían puesto una faja de seguridad para hacer refacciones, pero ahora no pueden recuperarla.');
+act_d54.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Congreso-Maximo_Kirchner-La_Campora-Frente_para_la_Victoria_0_1514848807.html');
+
+var showShareBarUI_params_d54=
+{ 
+containerID: 'shareQuote_d54',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_d54,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_d54
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_d54);
+Lo cierto es que por reglamento, el personal de la Cámara sólo puede permanecer las 24 horas en el la oficina si algún diputado se queda fuera del horario habitual de funcionamiento. Según confiaron a Clarín fuentes parlamentarias, todos los días se queda un diputado K diferente junto a dos colaboradores en el despacho que sostienen “tiene que quedarse para Máximo”, aunque no hay ninguna decisión tomada al respecto.Hace una semana, esa oficina que hoy tiene pegada en su puerta una copia de la Intranet de la Cámara baja donde figura el nombre de Máximo, fue foco de la polémica. “Acá no se entregan los despachos por usos y costumbres ni por herencia, ellos decidieron reasignarse el despacho pero ahí debe ir una de las autoridades de la Cámara como el ex gobernador Gioja”, informaron desde el oficialismo a Clarín.Por ahora, todos circulan atentos en el tercer piso sin dejar de cuidar el despacho que reclaman para el hijo de Cristina Kirchner. En ese mismo piso tiene su oficina Juliana Di Tullio, Andrés Larroque, Héctor Recalde, Eduardo “Wado” de Pedro, Teresa García, Carlos Moreno y esperan que Máximo también.

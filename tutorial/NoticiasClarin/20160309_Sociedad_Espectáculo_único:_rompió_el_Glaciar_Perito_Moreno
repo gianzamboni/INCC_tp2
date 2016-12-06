@@ -1,0 +1,20 @@
+
+Es un clásico del sur argentino y las imágenes recorren el mundo. A las 10.56 cayó el puente de hielo del Perito Moreno y los turistas que estaban a la expectativa en el Parque Nacional Los Glaciares pudieron disfrutar de un fenómeno natural único. Se estima que entre unos 3.500 y 4.000 turistas estaban hoy en el parque. 
+
+ El proceso de ruptura de este gigante de más de 250 kilómetros cuadrados de hielo sobre el Brazo Rico del Lago Argentino había comenzado este martes. Esta vez, la ruptura se produjo a plena luz del día y pudo apreciarse en todo su esplendor. La vez anterior, en 2012, se dio a la madrugada, y no pudo verse.   Así comenzaba a romperse, el miércoles, el Perito Moreno: 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La frutilla del postre es cuando se derrumba el arco y el dique queda fuera de acción. Así todo vuelve a la normalidad: las aguas  se comunican y el Brazo Rico se une con el Canal de los Témpanos.  Los turistas, a esta altura del año, se quedan más tiempo en el lugar para retratar el momento exacto, aunque muchos no lo terminan viendo. También es un espectáculo la caída de las paredes laterales, de unos 70 metros de alto. Hoy había comenzado  a desprenderse una parte. Mirá la fotogalería en HD El glaciar estaba cerrado desde octubre del año pasado, a la espera del desmoronamiento. En febrero parecía que era inminente, porque entonces la crecida del brazo Rico había llegado a los llegó a 8,60 metros, una marca mayor a la de los últimos dos rompimientos anteriores. Ahora, el agua estaba a unos 10,50 metros por encima de lo habitual.  Lucas Ruiz, glaciólogo y becario del Conicet, le dijo al canal de noticias TN que "en verano el glaciar alcanza su mayor derretimiento anual. No conozco otro glaciar en el mundo que pueda verse de esta manera" Marcelo Maller 

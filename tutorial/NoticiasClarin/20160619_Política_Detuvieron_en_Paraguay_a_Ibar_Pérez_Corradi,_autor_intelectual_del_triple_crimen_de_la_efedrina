@@ -1,0 +1,76 @@
+
+Ibar Pérez Corradi, condenado por la justicia como autor intelectual del crimen de Sebastián Forza, Damián Ferrón y Leopoldo Bina en 2008 y prófugo desde 2012, fue detenido hoy en Paraguay, según confirmaron las autoridades de ese país. 
+
+El ministro del Interior paraguayo, Francisco de Vargas, informó la captura del fugitivo y anunció sutraslado hasta Asunción, donde deberá hacer frente a cargos por falsificación de documentos de identidad. Mirá también: Un "financista" que se quedó sin apoyo político, policial y de la ex SIDE Involucrado en el tráfico ilegal de efedrina, y vinculado por varios testigos a la supuesta trama de negocios y relaciones del ex jefe de Gabinete Aníbal Fernández, Pérez Corradi venía siendo buscado intensamente en los últimos meses y durante varios momentos se especuló con su entrega.
+
+Mirá también: Afirman que Pérez Corradi vivía con lujos y hasta tuvo dos hijos en Paraguay Pérez Corradi estaba prófugo desde hace 49 meses acusado de ordenar en 2008 los asesinatos de Forza, Ferrón y Bina, y por las que cumplen condena a perpetua los hermanos Martín y Cristian Lanatta y los hermanos Víctor y Marcelo Schillaci. Los hermanos Lanatta y Víctor Schillaci se fugaron el 27 de diciembre del penal de General Alvear y protagonizaron un raid delictivo entre Buenos Aires y Santa Fe, hasta que finalmente fueron detenidos en la localidad santafesina de Cayastá. Tras ese incidente, el Gobierno elevó la recompensa a dos millones de pesos por la detención de Pérez Corradi.
+
+La causa por las irregularidades en la venta de medicamentos en donde Pérez Corradi está procesado por encubrimiento de lavado de dinero se encuentra en manos del juez federal Sebastián Casanello. En tanto, la jueza federal de San Isidro Sandra Arroyo Salgado instruye el expediente por la extradición del financista a Estados Unidos. 
+
+
+La justicia paraguaya investigaba si el prófugo pagó 200 mil dólares por un DNI trucho de Walter Miguel Ortega Molinas, jóven que murió en 2002.
+
+
+
+
+
+var act_9fd = new gigya.socialize.UserAction();
+
+var emailBodyCustom_9fd = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_9fd.setTitle('La justicia paraguaya investigaba si el prófugo pagó 200 mil dólares por un DNI trucho de Walter Miguel Ortega Molinas, jóven que murió en 2002.');
+act_9fd.setSubtitle('Narcotráfico'); 
+act_9fd.setLinkBack('http://www.clarin.com/politica/Detuvieron-Paraguay-Corradi-Triple-Crimen_0_1598240186.html');
+act_9fd.setDescription('Fue en la zona de la triple frontera. Ahora lo trasladan a Asunci&oacute;n.&nbsp;');
+act_9fd.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Detuvieron-Paraguay-Corradi-Triple-Crimen_0_1598240186.html');
+
+var showShareBarUI_params_9fd=
+{ 
+containerID: 'shareQuote_9fd',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_9fd,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_9fd
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_9fd);
+ La detención de Pérez Corradi también fue confirmada por el abogado paraguayo Carlos Rodríguez, del que el prófugo argentino era cliente.  "Se estaba manejando con identidades falsas", dijo.
+
+Pérez Corradi y su novia en Asunción. (ABC Color) El operativo de detención del autor intelectual del triple crimen de la efedrina "fue una operación de inteligencia realizada por autoridades paraguayas" en conjunto "con autoridades brasileñas", relató.  Mirá también: Así fue la detención de Pérez Corradi Además, reveló que Pérez Corradi"se estaba manejando con identidades falsas" como "José Fernández" y que "tenía un DNI falso". En declaraciones a radio La Red, también señaló que su cliente utilizaba "otros alias" como "Walter, una identidad paraguaya de un joven fallecido hace como 14 años". "Lo están trayendo a nuestra capital para que sea sometido por la orden de captura realizada por los hechos que ha cometido en Paraguay", detalló el abogado.

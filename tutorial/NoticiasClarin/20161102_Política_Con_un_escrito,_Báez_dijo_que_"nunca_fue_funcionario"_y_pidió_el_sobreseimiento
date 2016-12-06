@@ -1,0 +1,76 @@
+
+Con su empresa al borde de la quiebra después de doce años de recibir millonarios contratos viales, Lázaro Báez declaró en la causa que investiga la corrupción en la obra pública y a lo que los fiscales Gerardo Pollicita e Ignacio Mahiques definieron como un "plan criminal" para favorecer al socio comercial de Cristina Kirchner con U$S 2.200 millones. Sin responder preguntas sobre los vínculos con la ex Presidenta, y presentando un escrito, negó todas las acusaciones en su contra. Además, como era esperado, la defensa a cargo de Maximiliano Rusconi pidió la nulidad de la indagatoria y el sobreseimiento de Báez. Dijo que le imputan hechos de un "funcionario público" lo que le valió una dura respuesta por parte del fiscal Pollicita que calificó el planteo de "sesgado".
+
+Acompañado por su abogado defensor, Báez dos días después que Cristina Kirchner negó ante el Juez Ercolini ser su amiga y socia,  no respondió preguntas y permaneció en silencio durante toda la indagatoria. Una vez más, pese a las expectativas colocadas en su declaración, no se refirió a la relación comercial que mantuvo con la ex presidenta durante años.  "Manifiesta que va a declarar a través del escrito que aporta y que no va a responder preguntas", explica el escrito que presentó el empresario K al que accedió Clarín. En primera instancia  Rusconi pidió la nulidad de la indagatoria argumentando que "no está descrita la imputación con precisión" contra su defendido y que todos "los actos que se le mencionaron no lo incluyen a Báez". 
+
+En el escrito la defensa hizo particular énfasis en que Lázaro Báez nunca fue "un funcionario público".  Y que le imputan los mismos hechos que a Cristina Kirchner. En este punto señalaron que las acusaciones contra el empresario se trata de una "copia textual de la imputación que días atrás se le hizo supuestamente por el mismo hecho a la ex presidenta de la República". 
+
+
+Rusconi calificó esto como "imposible en términos lógicos" considerando que tanto la ex Presidenta como el empresario K, realizaron "actividades absolutamente autónomas y tan distintas como ser presidente de un país y el otro empresario constructor". 
+
+
+
+
+
+var act_0fa = new gigya.socialize.UserAction();
+
+var emailBodyCustom_0fa = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_0fa.setTitle('Rusconi calificó esto como&nbsp;"imposible en términos lógicos" considerando que tanto la ex Presidenta como el empresario K, realizaron "actividades absolutamente autónomas y tan distintas como ser presidente de un país y el otro empresario constructor".&nbsp;');
+act_0fa.setSubtitle('Corrupción K'); 
+act_0fa.setLinkBack('http://www.clarin.com/politica/Baez-sobreseimiento-diferencio-Cristina-funcionario_0_1679832077.html');
+act_0fa.setDescription('Sin responder preguntas sobre los vínculos con la ex Presidenta, y presentando un escrito, negó todas las acusaciones en su contra. Además, como era esperado, pidió la nulidad de la indagatoria ');
+act_0fa.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Baez-sobreseimiento-diferencio-Cristina-funcionario_0_1679832077.html');
+
+var showShareBarUI_params_0fa=
+{ 
+containerID: 'shareQuote_0fa',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_0fa,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_0fa
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_0fa);
+ Este argumento ameritó una dura respuesta por parte de Pollicita que durante la indagatoria al pedir la palabra señaló que el planteo de la defensa "es sesgado, ha omitido considerar las numerosas referencias que en la imputación se le efectúan al señor Báez en cuanto a actos propios y dentro del contexto de la actuación de un grupo organizado de personas", lo que incluyó funcionarios y empresarios.  En su descargo el fiscal reiteró que no puede obviarse como un aspecto fundamental que Báez fundó su empresa a cuatro días " de la asunción del ex presidente Néstor Kirchner", no sólo eso sino que constituyó un conglomerado de empresas "que participan de la obra pública en Santa Cruz", como también el hecho de "haber participado de 52 licitaciones con diversas irregularidades".  Tanto Pollicita como Mahiques señalaron en el dictamen que además del "plan criminal" para favorecer a Báez en perjuicio del erario público, hubo también una estructura institucional con gente de confianza de los Kirchner y del empresario K en puestos claves, y un "direccionamiento" de fondos públicos como también el nombramiento de "personas de confianza" en puestos claves.
+
+Estos aspectos fueron refutados por Rusconi que indicó que las acusaciones contra Báez, se trata de decisiones propias "de un funcionario público", como ser "la transferencia de organismo a la órbita de ministerios, dictados de decretos. nombramientos de primos (en referencia a Carlos Santiago Kirchner), designaciones como administrador general, omisión de deber de administrar bienes, designación de partidas presupuestarias", entre algunos ejemplos que menciona el escrito. Y añade: "todos actos que, ni directa ni indirectamente, puede ser atribuidos al Sr. Báez".  En relación a estos planteos, donde buscan deslindar de cualquier responsabilidad al dueño de Austral Construcciones firma adjudicataria del 78,4 % de los contratos viales que el kirchnerismo volcó en Santa Cruz, la defensa sostiene que ninguna de las acusaciones son "atribuibles a Báez" y que no se define "cuál es la prueba verdaderamente a cargo" y acusa a la Justicia de llevar al imputado a "una defensa a ciegas". Pollicita sostuvo la imputación y que hay hechos que recaen sobre plena responsabilidad del empresario K. 
+
+Así, la defensa pidió el sobreseimiento del empresario K en la causa que investiga una matriz de corrupción en la obra pública y la nulidad de la indagatoria.  La Justicia investiga a Báez por irregularidades en los contratos otorgados: en quince casos presentó el mismo certificado técnico comprometiendo maquinaria y personal para obras que supuestamente se estaban realizando en simultáneo con muchos kilómetros de distancia, también por el presunto cobro de sobreprecios en las licitaciones que promedian el 65 %, la falta de terminalidad en el 50 % de los contratos pese a haberlos cobrado y con creces, según el dictamen. Además de licitaciones donde se modificaron los costos originales "acomodándolos a la oferta de Austral Construcciones".  Entre otros aspectos, también se le adjudica al empresario K certificaciones de obras por caminos no iniciados. Por los 51 contratos el Grupo Austral recibió U$S 2.200 millones y según la auditoría de Vialidad Nacional, fue el más favorecido con la obra pública y al único grupo empresarial al que "no se le adeudaba nada al 10 de diciembre cuando Cristina Kirchner dejó la Casa Rosada".  

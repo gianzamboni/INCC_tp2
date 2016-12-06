@@ -1,0 +1,200 @@
+
+El ex jefe de Gabinete Aníbal Fernández volvió a desvincularse de las acusaciones por narcotráfico y corrupción, al tiempo que afirmó sentirse "perseguido" por el Gobierno. "Claro que me siento perseguido", respondió Fernández cuando le preguntaron si existe una persecución del oficialismo contra ex funcionarios del gobierno kirchnerista y agregó que, en su caso, tiene "los teléfonos chupados". 
+
+
+Pero además, Aníbal apuntó contra la gobernadora de Buenos Aires, María Eugenia Vidal, a quien la tildó de "inútil", calificó su gestión como "horrible" y advirtió que "no va a tardar mucho el bonaerense en darse cuenta".
+
+
+
+
+
+var act_b8f = new gigya.socialize.UserAction();
+
+var emailBodyCustom_b8f = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_b8f.setTitle('Pero además,&nbsp;Aníbal&nbsp;apuntó contra la gobernadora de Buenos Aires, María Eugenia Vidal, a quien la tildó de "inútil", calificó su&nbsp;gestión como "horrible" y advirtió que "no va a tardar mucho el bonaerense en darse cuenta".');
+act_b8f.setSubtitle('CRUCE EN LA PROVINCIA'); 
+act_b8f.setLinkBack('http://www.clarin.com/politica/Anibal-inutil-Vidal-respondieron-nervioso_0_1604839524.html');
+act_b8f.setDescription('Anoche, Fernández volvió a desvincularse de las acusaciones por narcotráfico y dijo que es un "perseguido".');
+act_b8f.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Anibal-inutil-Vidal-respondieron-nervioso_0_1604839524.html');
+
+var showShareBarUI_params_b8f=
+{ 
+containerID: 'shareQuote_b8f',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_b8f,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_b8f
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_b8f);
+ Desde el gobierno bonaerense salieron hoy a cruzarlo al ex jefe de Gabinete y candidato del FpV en las pasadas elecciones para gobernador.  El ministro de Gobierno, Federico Salvai, dijo que "la provincia de Buenos Aires necesita que todos los dirigentes trabajemos con críticas constructivas." 
+
+
+"Estas declaraciones violentas no ayudan en nada. Debería estar preocupado por el avance de la Justicia: Aníbal está nervioso, está con miedo de ir preso", dijo Salvai a Clarín.
+
+
+
+
+
+var act_387 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_387 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_387.setTitle('"Estas declaraciones violentas no ayudan en nada. Debería estar preocupado por el avance de la Justicia: Aníbal está nervioso, está&nbsp;con miedo de ir preso", dijo Salvai a Clarín.');
+act_387.setSubtitle('CRUCE EN LA PROVINCIA'); 
+act_387.setLinkBack('http://www.clarin.com/politica/Anibal-inutil-Vidal-respondieron-nervioso_0_1604839524.html');
+act_387.setDescription('Anoche, Fernández volvió a desvincularse de las acusaciones por narcotráfico y dijo que es un "perseguido".');
+act_387.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Anibal-inutil-Vidal-respondieron-nervioso_0_1604839524.html');
+
+var showShareBarUI_params_387=
+{ 
+containerID: 'shareQuote_387',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_387,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_387
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_387);
+ Y atribuyó esos dichos del ex postulante a gobernador por el FpV a que "está resentido porque perdió las elecciones en la provincia de Buenos Aires". Mirá también: La Carta Abierta más cerrada En tanto, Federico Suárez, ministro de Comunicación de la Provincia, dijo que a "Aníbal le tendría que dar vergüenza hablar de María Eugenia Vidal: no tiene autoridad moral para hablar de ella". 
+
+
+"Aníbal Fernández es todo lo que los argentinos no queremos", dijo Federico Suárez a Clarín.
+
+
+
+
+
+var act_0f0 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_0f0 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_0f0.setTitle('"Aníbal Fernández es todo lo que los argentinos no queremos", dijo Federico&nbsp;Suárez a Clarín.');
+act_0f0.setSubtitle('CRUCE EN LA PROVINCIA'); 
+act_0f0.setLinkBack('http://www.clarin.com/politica/Anibal-inutil-Vidal-respondieron-nervioso_0_1604839524.html');
+act_0f0.setDescription('Anoche, Fernández volvió a desvincularse de las acusaciones por narcotráfico y dijo que es un "perseguido".');
+act_0f0.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Anibal-inutil-Vidal-respondieron-nervioso_0_1604839524.html');
+
+var showShareBarUI_params_0f0=
+{ 
+containerID: 'shareQuote_0f0',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_0f0,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_0f0
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_0f0);
+ Por su parte, Jorge Macri, intendente de Vicente López, también le respondió: “Aníbal Fernández nos tiene acostumbrados a estos shows mediáticos. No nos sorprende, qué podemos esperar de alguien que tiene tantos procesos y ni siquiera se puede subir a un avión tranquilo" Por Radio El Mundo, dijo que "la gente se ha manifestado, Aníbal ha perdido una elección en la provincia de Buenos Aires que él suponía que iba a ganar caminando". "Está dentro de este grupo de peronistas que intentan reinventarse desde este lugar de la prepotencia, que nos quieren llevar puestos o que se alegran si a nosotros nos va mal. Él tiene una lógica de salir hacia adelante a los bifes, y me parece que no es así, hay momentos en que uno tiene que llamarse al silencio", respondió Macri quien defendió a Vidal diciendo que él "salió a insultar a María Eugenia que tuvo que hacerse cargo de una provincia devastada". Es su estilo, y yo lo lamento porque estamos en una Argentina diferente, la gente desea que haya paz y que las cosas se encaminen y anden bien". Mirá también: Con promesas de luchar contra la impunidad, Rosattti asumió en la Corte Ayer, Aníbal Fernández habló tras el escrache que sufrió en un vuelo a Inglaterra y tras el procesamiento en la causa del "Fútbol para Todos". El ex funcionario kirchnerista confirmó que denunciará por "daños y perjuicios" a cuatro periodistas y a una diputada nacional, y les advirtió que tendrán que "pagar" ante la Justicia por sus dichos. Mirá también: Aníbal Fernández: "No me hago cargo de López" En declaraciones a C5N, Fernández precisó que aquellos contra los que iniciará acciones legales son "(la diputada nacional por la Coalición Cívica-Cambiemos Elisa) Carrió" y los periodistas "(Jorge) Lanata, (Nicolás) Wiñazki, Alfredo Leuco y Luis Majul". Por otra parte, Fernández ratificó que "no" conoce ni al detenido acusado de ser actor intelectual del triple crimen de General Rodríguez, Ibar Pérez Corradi, ni a uno de los condenados por ese hecho, Martín Lanatta, quien hace unos días aseguró que "recaudaba" dinero para él, y que el ex funcionario, a su vez, "hacía la recaudación para Cristina Fernández de Kirchner". Fernández desestimó las versiones que lo vinculan con Pérez Corradi y señaló: "No me hagan hablar de esas estupideces. Tenés que responder cuando tenés algo que ver, y yo no tengo nada que ver. No me pueden crear una vida que no tuve".

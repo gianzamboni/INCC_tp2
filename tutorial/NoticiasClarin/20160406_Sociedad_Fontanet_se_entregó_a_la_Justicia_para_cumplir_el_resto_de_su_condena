@@ -1,0 +1,18 @@
+
+El ex líder de la banda Callejeros, Patricio "Pato" Fontanet, se presentó hoy ante la Justicia y quedó detenido en la causa por la tragedia de Cromañón, al igual que el bajista Cristian Torrejón, mientras que el Tribunal Oral Criminal 24 ordenó la detención de otros siete condenados, informaron fuentes judiciales a la agencia de noticias Télam. Este capítulo más, seguramente el definitivo de una historia que empezó a escribirse la noche del 30 de diciembre de 2004, cuando murieron 193 personas, comenzó a escribirse ayer, cuando se supo que la Corte Suprema de Justicia de la Nación rechazó por “inadmisibles” los recursos extraordinarios de once condenados por la tragedia de Cromañón. Con este fallo, la sentencia de la Cámara de Casación quedó firme y habilitó la detención de los músicos de Callejeros, de tres ex funcionarios del gobierno porteño y de Raúl Argañaraz si ellos no se presentaban ante la Justicia. El recurso de apelación había sido presentado por los músicos Patricio Fontanet, Christian Torrejón, Daniel Cardell, Maximiliano Djerfy, Juan Carbone, Elio Delgado, Eduardo Vázquez (que cumple condena por el crimen de su pareja, Wanda Taddei). También habían apelado Raúl Villarreal, asistente de Omar Chabán, y tres funcionarios del gobierno porteño de Aníbal Ibarra: Ana María Fernández, Fabiana Fiszbin y Gustavo Torres. En un fallo firmado por los tres jueces, Ricardo Lorenzetti, Elena Highton de Nolasco y Juan Carlos Maqueda, la Corte declaró “inadmisible” el recurso presentado por todos los acusados. Mirá también: Especial multimedia, Cromañón 10 años 2004 - 2014 Las condenas estaban firmes desde septiembre de 2015, cuando habían sido confirmadas por la Sala IV de la Cámara de Casación. A Fontanet le corresponden siete años, al resto de los músicos, cinco y a Cardell, tres. En noviembre, la Cámara de Casación penal había rechazado una nueva apelación, pero el Tribunal Oral 24 rechazó la detención hasta que el máximo tribunal confirmara las sentencias, algo que sucedió ayer. Como la mayoría de los condenados ya cumplió gran parte de la pena, estarán en condiciones de pedir la excarcelación, excepto Fontanet y Villarreal. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Los últimos segundos antes de la tragedia. “Espero que de una buena vez termine todo como tiene que terminar: con todos los condenados presos”, dijo José Iglesias, abogado querellante y padre de una de las víctimas de la tragedia ante la última decisión de la Corte Suprema. “Ya está. Se hizo justicia. La dolorosa espera llegó a su final, todos los culpables pagarán”, dijo por su parte Nilda Gómez, de la agrupación Familias por la Vida.  Mirá también: Cromañón: la Cámara de Casación confirmó la condena a Callejeros En tanto, la mujer de Fontanet, Estefanía Miguel, descargó su bronca por Twitter, donde cuestionó duramente el fallo. Don Osvaldo, la actual banda de Fontanet, canceló los shows que tenía previstos próximamente en Corrientes y Santa Fe.  

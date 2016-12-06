@@ -1,0 +1,129 @@
+
+Repitió la postal de anoche y bailó para la militancia desde el balcón de su departamento en Recoleta. Horas antes de presentarse a declarar ante la Justicia por la causa que investiga la venta de dólar futuro, la ex presidenta Cristina Fernández de Kirchner saludó, entre pasos de baile y a cara lavada, a los militantes que hacen una vigilia en la puerta de su casa.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160412_0033 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160412_0033_b93";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Cristina bailando y sin maquillaje.',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/04/12/VID/CLAVID20160412_0033/video_web.flv",
+        image: "http://images.clarin.com/politica/Cristina-bailando-maquillaje_CLAVID20160412_0033_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160412_0033',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/04/12/VID/CLAVID20160412_0033/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/2/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/politica/Cristina-bailando-maquillaje_3_1557474270.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160412_0033.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160412_0033){
+            //getBBTStats_CLAVID20160412_0033();
+            varModIdReprod_CLAVID20160412_0033 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+ Mirá también: La Facultad de Periodismo de La Plata cierra para acompañar a Cristina en Tribunales Desde que llegó a la ciudad de Buenos Aires, anoche a bordo de un vuelo de línea de Aerolíneas Argentinas, un nutrido contingente de seguidores kirchneristas siguen cada paso de Cristina. Anoche la recibieron en el Aeroparque, luego la acompañaron en caravana a Recoleta y hoy también hicieron guardia cuando salió para ir rumbo al deparamento de su hija, Florencia Kirchner. 
+
+En el barrio de Constitución, la ex jefa de Estado, que aún no designó abogado defensor en la causa, en la que hoy también fue confirmado el juez Claudio Bonadio, se vio con el ex juez de la Corte Suprema de Justicia, Eugenio Zaffaroni, integrante de la Corte Interamericana de Derechos Humanos en la Organización de Estados Americanos (OEA).  Mirá también: El Mausoleo de Kirchner, complicado: está cerrado hace dos meses y se metió la Justicia El kirchnerismo prepara mañana una masiva movilización a los tribunales de Comodoro Py para "bancar" a su "jefa", como la denominan.  El piquetero oficialita Luis D'Elía encabezará una procesión desde la iglesia de San Cayetano, en el barrio de Liniers, para luego hacer una vigilia frente al juzgado.  La Cámpora y Nuevo Encuentro, de Martín Sabbatella, también se propone copar Retiro. Desde hace días organizan la logistica de la movilización.

@@ -1,0 +1,18 @@
+
+Agentes de Prefectura Naval mantenían hoy una vigilia en las playas de Mar del Tuyú, e intentaban liberar a la ballena que ayer a la mañana quedó encallada en un banco de arena en la costa de esa ciudad. Fernando Balmaceda, prefecto a cargo del operativo de rescate, informó que en cuanto la marea suba un poco intentarán atar a la ballena para remolcarla con un barco. La situación sigue siendo de riesgo. El navío que hará el operativo es un Guardacosta de la Prefectura, que empezará a empujar cuando el animal logre ser atado y la marea comience a subir. "La ayuda del agua es clave", informaron Balmaceda, y los especialistas de la fundación Mundo Marino que colaboran con el rescate. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El animal es una ballena del tipo "jorobada" de unos 15 metros de largo y que puede llegar a pesar más de 10 toneladas de peso. "Está cansada y se está empezando a poner nerviosa", dijo Balmaceda Mirá también: Una ballena sorprendió a un grupo de deportistas y los acompañó durante su actividad Grupos de rescatistas, entre biólogos y efectivos de Prefectura, intentaron ayer mover el enorme animal "hacia un chupón de la corriente" del mar a la espera de que la subida de la marea ayude a que reingrese al océano, dijeron los especialistas. El cetáceo apareció ayer por la mañana a metros de la playa de Mar del Tuyú, a la altura de la calle 84. El coordinador para el Desarrollo Sostenible de Planificación Económica Ambiental de la provincia, Mirko Schavartzma, indicó: "Es una ballena "de la especie megaptera novaeangliae o jorobada. Esta especie de ballena suele visitar el mar argentino, pero nunca se acercan tanto a la costa como la del tipo franca", añadió. Mirá también: La dramática agonía de una ballena franca austral que está encallada Según los especialistas, el animal no se encuentra lastimado, algo que favorece a su estado de salud llegado el caso que las tareas de rescate se prolonguen.  Ayer se hizo imposible lograr que la ballena jorobada pase el banco de arena a pesar de que unas 40 personas hicieron todos los esfuerzos. Efectivos de la Prefectura mantienen a los turistas alejados del animal ya que, aseguran, un pequeño coletazo del cetáceo podría ocasionar graves lesiones en un humano de ser alcanzado. 

@@ -1,0 +1,70 @@
+
+Margarita Stolbizer se refirió al estado de sus causas contra la ex presidenta Cristina Kirchner y analizó también el caso de la titular de Madres de Plaza de Mayo, Hebe de Bonafini, en la causa por presunta estafa al Estado a través de la construcción de viviendas sociales La diputada nacional por el GEN reconoció que la mediación del lunes con la ex presidenta Cristina Fernández "va a ser una reunión tensa" porque se dijeron "de todo" y adelantó que "no se siente obligada a pagar nada ni a tener que contestar nada", por lo que va a ir a firmar "un acta de que no hay arreglo y listo", en declaraciones a la Radio Con Vos. Mirá también: De Máximo Kirchner a Macri, Massa se reúne con todos También, en el marco de la investigación por irregularidades en el programa Sueños Compartidos que manejaba la Fundación Madres de Plaza de Mayo, Stolbizer opinó que "el juez Martínez de Giorgi tendría que haberle mandado una citación" a la titular de Madres de Plaza de Mayo "y haberle dicho 'mañana a las 8 estoy en su casa y le tomo declaración'". 
+
+
+Además, en diálogo con la agencia DyN, la diputada nacional aseguró que "no" se ve "dentro del gobierno" de Cambiemos, al tiempo que destacó el "liderazgo positivo" y "natural" de su par del Frente Renovador Sergio Massa.
+
+
+
+
+
+var act_2b5 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_2b5 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_2b5.setTitle('Además, en diálogo con la agencia DyN, la&nbsp;diputada nacional aseguró que "no" se ve "dentro del gobierno" de Cambiemos, al tiempo que destacó el "liderazgo positivo" y "natural" de su par del Frente Renovador Sergio Massa.');
+act_2b5.setSubtitle('POLÍTCA NACIONAL'); 
+act_2b5.setLinkBack('http://www.clarin.com/politica/Stolbizer-veo-dentro-gobierno-Cambiemos_0_1626437423.html');
+act_2b5.setDescription('Además, elogió el "liderazgo positivo de Massa", en medio de las reuniones del diputado con dirigentes del Peronismo.');
+act_2b5.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Stolbizer-veo-dentro-gobierno-Cambiemos_0_1626437423.html');
+
+var showShareBarUI_params_2b5=
+{ 
+containerID: 'shareQuote_2b5',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_2b5,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_2b5
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_2b5);
+ Mirá también: Los ruidos del poder que se reorganiza  Stolbizer subrayó la "excelente relación" que mantiene con la gobernadora María Eugenia Vidal con quien tiene "reuniones habituales" para hablar de la "gestión" pero "no del 2017". Asimismo, calificó de "disparate" y "parte de un folclore" la denuncia de Elisa Carrió contra el ex gobernador bonaerense Daniel Scioli y aseguró: "No hago denuncias que no puedo probar".
+
+"Con Massa compartimos claramente un espacio intermedio de quienes no somos el gobierno de Cambiemos pero tampoco somos La Cámpora apostando al fracaso del gobierno. Hay que fortalecer ese espacio intermedio y salir de una elección polarizada entre estos dos extremos", dijo la legisladora por la provincia de Buenos Aires. Mirá también: Doble jugada de Cristina para que la Justicia deje de investigarla por sus hoteles Y sumó: "Massa tiene condiciones y un liderazgo natural que ha sabido ejercer en un sentido positivo. Tuvo representación territorial importante, que fue el resultado de una buena representación electoral y podría haber sido más mezquino en eso y no fue así. Ha dado muestras en la Provincia y en la Nación de prestar colaboración sobre todo tratando de mejorar las iniciativas del Ejecutivo. El papel que han jugado los diputados del Frente Renovador ha sido muy importante para mejorar el tema de las jubilaciones, las Pymes, los hold out", detalló Stolbizer. Consultada sobre "si se ve dentro de Cambiemos", detalló: "No me veo dentro del gobierno, con ella (por Vidal )particularmente tengo una excelente relación, hablo periódicamente. La semana pasada hablé con (el intendente de Vicente López) Jorge Macri pero no de cara al 2017. Me junto con ella, hablo de la gestión, de la noticia del día", dijo Margarita Stolbizer.

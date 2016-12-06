@@ -1,0 +1,18 @@
+
+Además de la detención de Ricardo Jaime, el juez federal Julián Ercolini hoy citó a declaración indagatoria a Juan Pablo Schiavi, sucesor de Jaime al frente de la Secretaría de Transporte de la Nación. Schiavi deberá presentarse el 8 de abril a las diez de la mañana, por la causa en que se investigan irregularidades en la compra de trenes a España y Portugal.Mirá también: Ya trasladan a Ricardo Jaime de Córdoba a Buenos Aires El magistrado prohibió también salir del país a Jaime, a Schiavi, a Ricardo Domingo Testuri y a Ignacio Julián Soba Rojo, este último un jubilado octogenario, considerado un "prestanombre" de Jaime.
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Así trasladaban a Ricardo Jaime. En su resolución de hoy, el juez estableció que Jaime, "en su carácter de titular de la Secretaría de Transporte de la Nación, fue quien tuvo a su cargo la administración del patrimonio estatal en su órbita de actuación y suscribió (...) los contratos rubricados con el Reino de España y la República de Portugal, para proveer a nuestro país de material ferroviario, dentro del llamado 'Plan Nacional de Reorganización, Recuperación y Modernización del Ferrocarril Nacional'". Mirá también: Video: Jaime hablaba con un canal de TV cuando llegó a entregarse"De las constancias del expediente surge que los fondos abonados por el material rodante adquirido eran de desproporción exorbitante en relación a su calidad y funcionalidad real, lo que hacer presumir que grandes sumas de dinero fueron sustraídas de la esfera de la administración pública por los funcionarios a quienes fueron confiadas y que justamente debían proteger el patrimonio estatal", señaló el magistrado. Mirá también: Encontraron al presunto testaferro de Jaime escondido en un placardEn la resolución también se consideró que Manual Vázquez (presunto testaferro de Jaime), "encontrándose vinculado a la empresa CAESA y revistiendo a su vez carácter de funcionario de la mencionada Secretaría, tomó parte en la maniobra precedentemente descripta al tiempo que obtuvo beneficios para sí y para terceros en el marco de su intervención como asesor del organismo en las gestiones vinculadas a la suscripción de los contratos”. “Las facturas incorporadas en el trámite del expediente verifican las altas comisiones cobradas en concepto de honorarios por la empresa CAESA --que fue designada por la Secretaría de Transporte para la prestación de servicios de asistencia técnica en relación al material ferroviario adquirido a España y Portugal--, dinero que cabe sospechar determinó la dirección de sus intervenciones en las conductas descriptas", agregó el texto.Mirá también: Jaime: "Estoy dispuesto a dar todas las explicaciones que correspondan" Para Ercolini, "este accionar pudo concretarse gracias a la intervención de Ignacio Soba Rojo, quien en calidad de presidente de CAESA realizó todos los actos que demandaron la participación de esa empresa". Fuente: DyN.

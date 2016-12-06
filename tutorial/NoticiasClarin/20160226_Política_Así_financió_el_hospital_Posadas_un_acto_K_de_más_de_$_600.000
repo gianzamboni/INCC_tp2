@@ -1,0 +1,27 @@
+
+Micros para traslados de personas desde distintos lugares de la Provincia hasta el hospital Posadas y regreso: $159.000. Vallado, aire acondicionado y baños químicos: $170.000. Sonido, luces y video: $ 195.000. Servicio de catering completo para 260 personas: $61.500. Presentación de Víctor Heredia: $ 36.300. Que el hospital Posadas financie el primer acto de Cristina luego de que Macri ganara el ballotage: No tiene precio. En realidad sí, más de $ 600.000.Leé también: Un hospital que se convirtió en un refugio del sabbatellismo
+
+Fue el 25 de noviembre pasado y todos los gastos se registraron irregularmente en los libros de compras del hospital. Los funcionarios K-adeptos al partido Nuevo Encuentro de Martín Sabbatella- que habían sido designados en 2015 para transparentar las cuentas del hospital ubicado en el Palomar, no vieron "chica" la caja y decidieron celebrar a lo grande la inauguración de obras. Domingo Martín Latorraca usó el presupuesto del Posadas -que este año fue noticia por el escándalo del resonador- para contratar micros que facilitaran la llegada de militantes K hacia el acto de la ex presidenta. También se costeó el regreso a casa, el vallado, el montaje de luces y sonido y, por supuesto, el catering para 260 funcionarios dispuestos a aplaudir. La Comisión Normalizadora, designada por el Ministerio de Salud de la Nación, ratificó la denuncia presentada en el Juzgado Federal y Correccional de Morón y se abrió una investigación por el acto K que le costó $ 621.800 a un hospital público que no puede costear sus propias necesidades.  Médicos de guardia del Posadas contaron a Clarín que "en las guardias externas [a las que se accede ante un dolor o accidente] e internas [atención a los internados]. No hay insumos y las condiciones edilicias no son aptas para trabajar como se debe".Leé también: Nombramientos K: ahora serán 1.506 en el Hospital PosadasLas solicitudes provisionales y facturas a las que accedió TN
+
+GIF
+
+
+
+  var play6e6 = false;
+  var sup6e6 = new SuperGif({ gif: document.getElementById('imagen6e6')});
+  sup6e6.load(function(){
+      $("#gif_action6e6").click(function() {
+          if(play6e6) {
+              play6e6 = false;
+              sup6e6.pause();
+              $("#logo_gif_action6e6").show();
+          } else {
+              play6e6 = true;
+              sup6e6.play();
+              $("#logo_gif_action6e6").fadeOut();
+          }
+      });
+  });
+
+
+Cuando los médicos entrevistados hablan de "carencias" se refieren a medicación específica, antibióticos y analgésicos. Pero también hablan de falta de gasas, de hilo para suturar, de "guías de suero para hidratación venosa central" y hasta de placas para hacer radiografías. "Me estoy yendo del Posadas porque este lugar es un desastre", dice a Clarín otro médico, antes de conciliar el sueño durante el descanso de su guardia. "Cobro $17.000 con un contrato de 30 horas semanales. No tengo idea de cuánto cobran los monotributistas acá. El valor de ese acto me indigna", dice el profesional y aflora su bronca tras dos 2 años de atender en el Posadas a personas de bajos recursos. "El rubro médico está mal pago en todos lados -también trabaja coordinando guardias en un sanatorio privado- pero en el sector privado tenemos mejores condiciones laborales  y más recursos", sostiene. El acto/fiesta del 25 de noviembre pasado fue la inauguración, demorada, de una construcción vidriada que oficia de nueva fachada del edificio original del Posadas. "Cuando se inauguró el hall central y vino Cristina yo estaba en la guardia y no nos quedaba otra que decirle a los pacientes que no se atendía por falta de espacio. Había pacientes que tenían que estar internados y estaban esperando cama en una silla", concluye el médico. Pero eso no se vio en la TV Pública.

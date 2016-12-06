@@ -1,0 +1,18 @@
+
+El lado B de los Juegos Olímpicos muestra la pobreza de algunos sectores de Río de Janeiro. Y para paliar algunas necesidades de la gente que vive en las favelas, los chefs Massimo Bottura y David Hertz, activaron un plan para rescatar la comida sobrante de la Villa Olímpica y entregarlas en las zonas marginales de la ciudad. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Esta acción fue denominada RefettoRio Gastromotiva y funcionará hasta el final de los Juegos 2016 y también durante los Juegos Paralímpicos. Así ayudarán con 5 mil comidas diarias a los más pobres y evitarán que los alimentos vayan directamente a la basura.  Hertz, quien también es fundador de la empresa social Gastromotiva, le dijo a la agencia Reuters que RefettoRio recolectará la comida en buen estado como “fruta y vegetales feos o yogurt que se tirará si no se compra. El beneficio será para las personas en situación de desventaja como indigentes”.

@@ -1,0 +1,50 @@
+
+Después de que el titular del Sistema Federal de Medios, Hernán Lombardi, le propusiera a Víctor Hugo Morales seguir con sus programas en los medio públicos, el periodista salió a contestarle por Twitter y lo tildó de hipócrita."#Hipocrecía" (sic). Así, con el desliz de un error ortográfico que luego corrigió, comenzó su respuesta en Twitter el periodista. "@heranlombardi Hace 15 años hago GRATIS los ciclos de clásica en Radio Nacional", fue el primer tuit, en el que incluyó el link de una nota del diario La Nación sobre la propuesta de Lombardi. El funcionario, junto con Jorge Sigal (secretario de Medios Públicos) y Miguel Pereira (presidente de Radio y Televisión Argentina) habían asegurado en sendas entrevistas con ese diario y con Clarín que querían que Víctor Hugo siguiera con los tres programas que tiene en Radio Nacional, FM Nacional Clásica y DeporTV. "Le proponemos que continúe", dijo Lombardi a Clarín.
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/vh590/status/688001673889988609",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68800167388998860")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+El primer tweet de Víctor Hugo Morales para responder a LombardiVíctor Hugo aseguró que no hablaron con él y le recriminó a Lombardi que "usan el anuncio para que se crea que son plurales".
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/vh590/status/687993903627284480",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68799390362728448")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+También pidió que "nadie crea que cuidan la Libertad de Expresión al hablar de programas que hacía gratis por Radio Pública".
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/vh590/status/687993107196063744",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_68799310719606374")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+Leé también: Víctor Hugo, descolocado cuando le recordaron que el kirchnerismo ordenó silenciar periodistas

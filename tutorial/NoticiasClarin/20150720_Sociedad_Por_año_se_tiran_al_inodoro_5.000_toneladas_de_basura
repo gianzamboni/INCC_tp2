@@ -1,0 +1,134 @@
+
+¿Qué se puede tirar en el inodoro? Nada, excepto el papel higiénico. Por más obvia que parezca la respuesta, la realidad demuestra lo contrario: cada año, AySA extrae de las plantas depuradoras 5.000 toneladas de sólidos urbanos, basura que debería de haber sido tirada en un tacho de basura y no en el inodoro.  Algodón, juguetes, preservativos, pañales, toallitas, medias, maquinitas de afeitar, envoltorios de golosinas, pelos y bolsas. La lista de objetos, marañas de pelos  y residuos hechos con material que no se degrada y que llegan a las planta depuradora de San Fernando provenientes de los hogares es larga.
+
+
+“Por cada metro cúbico de agua que se recibe en las  plantas depuradoras, 10 gramos son residuos urbanos”
+
+
+
+
+
+var act_9fb = new gigya.socialize.UserAction();
+
+var emailBodyCustom_9fb = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_9fb.setTitle('“Por cada metro cúbico de agua que se recibe en las&nbsp; plantas depuradoras, 10 gramos son residuos urbanos”');
+act_9fb.setSubtitle('MEDIO AMBIENTE'); 
+act_9fb.setLinkBack('http://www.clarin.com/sociedad/inodoro-basura-Aysa_0_1393060948.html');
+act_9fb.setDescription('Los residuos que deberían haber ido a los cestos generan serios problemas en las redes cloacales. En las plantas de AySA encuentran hasta juguetes y maquinitas de afeitar. Mirá la FOTOGALERÍA en HD.');
+act_9fb.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/inodoro-basura-Aysa_0_1393060948.html');
+
+var showShareBarUI_params_9fb=
+{ 
+containerID: 'shareQuote_9fb',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_9fb,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_9fb
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_9fb);
+Las consecuencias medioambientales y económicas de tirar la basura en  el inodoro son importantes y generan varios inconvenientes. Mario  López, director de Saneamiento de AySA, explicó que los primeros  bloqueos ocurren en los desagües de las conexiones de los hogares y en  los conductos de la red cloacal. Los residuos van acumulándose y forman tapones de basura que impiden el normal recorrido del agua.Y si la basura que se tira en el inodoro logra﻿ transportarse por la red cloacal﻿, recorrerá cientos de kilómetros hasta llegar a las plantas depuradoras de AySA, donde también puede generar conflictos. Los inconvenientes mecánicos pueden aparecer en las bombas y en los sistemas de retención de sólidos que funcionan en las plantas de desechos cloacales donde el agua pasa un período de pretratamiento antes de ingresar al río. FOTOGALERÍA en HDEn esa etapa del saneamiento, el líquido cloacal atraviesa un sector de rejas gruesas y finas para eliminar los residuos que llegan de los hogares y que pueden dañar los equipos. Después, el agua cloacal continuará con los procesos de desarenado y extracción de materiales flotantes para terminar en una serie de procesos físicos, químicos y biológicos que eliminará los contamintantes presentes en el agua antes de que el líquido ingrese al río.  (Planta depuradora Norta, ubicada en San Fernando)
+
+
+Uno de los residuos que más estragos causa en el mundo son las toallitas húmedas.
+
+
+
+
+
+var act_baf = new gigya.socialize.UserAction();
+
+var emailBodyCustom_baf = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_baf.setTitle('Uno de los residuos que más estragos causa en el mundo son las toallitas húmedas.');
+act_baf.setSubtitle('MEDIO AMBIENTE'); 
+act_baf.setLinkBack('http://www.clarin.com/sociedad/inodoro-basura-Aysa_0_1393060948.html');
+act_baf.setDescription('Los residuos que deberían haber ido a los cestos generan serios problemas en las redes cloacales. En las plantas de AySA encuentran hasta juguetes y maquinitas de afeitar. Mirá la FOTOGALERÍA en HD.');
+act_baf.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/inodoro-basura-Aysa_0_1393060948.html');
+
+var showShareBarUI_params_baf=
+{ 
+containerID: 'shareQuote_baf',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_baf,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_baf
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_baf);
+ Conocidas en muchos países como el monstruo que atasca las cloacas, el material del que están hechas la toallitas son una amenaza para las cañerías. En Nueva York, por ejemplo, se estima que ya se gastaron más de 18 millones de dólares en reparar el daño que provocó este residuo. En Europa, la asociación que agrupa a las empresas de abastecimiento y saneamiento de 27 países informó que las toallitas generan un gasto de entre 500 y 1.000 millones de euros cada año. Desde la Agencia de Protección Ambiental de la Ciudad explicaron que es importante no tirarlas por el inodoro porque están hechas con un material que no se desintegra. “A diferencia del papel común, cuando están húmedas las toallitas mantienen su estructura y no se deshacen. Y debido a sus componentes plásticos, son biodegradables en tierra en un tiempo mayor a los 500 años”, explicaron.Además de los problemas de atascamientos que puede generar la basura en la red cloacal, tirar los desperdicios por los lugares donde no corresponde genera un alto costo económico.  “Las plantas depuradoras deben sacar del agua los residuos,  compactarlos y llevarlos al Ceamse, algo que genera un gasto. Todo esto se evitaría si la basura  fuera al lugar correcto: al tacho de basura”, remarcó López.Desde AySA estiman que el gasto anual  es de 15 millones de pesos.   Esta cifra, como la cantidad de basura que se genera, podría  duplicarse  cuando estén en funcionamiento todas las plantas  depuradoras.

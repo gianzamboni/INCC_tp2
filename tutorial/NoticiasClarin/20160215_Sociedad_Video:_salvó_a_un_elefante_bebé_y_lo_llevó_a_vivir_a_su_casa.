@@ -1,0 +1,127 @@
+
+A todos nos conmueven las historias protagonizadas por animales, especialmente cuando estos han sido maltratados y gracias al corazón de algún humano pueden volver a hacer una vida normal. Algo así le pasó a una cría de elefante que estuvo a punto de morir y que ahora disfruta de una vida feliz. La diferencia, y lo realmente sorprendente, es que su vida poco tiene que ver con la de alguien de su especie. Si muchas veces ya es complicado meter una mascota en casa, con mucho más razón en el caso de Moyoque, un elefante bebé enamorado de su nueva dueña, a quien sigue a todas partes. Moyo estuvo a punto de morir cuando, al tratar de cruzar un río, le arrastró la corriente separándolo de su familia. El animal pudo ser rescatado y curado, y fue trasladado al refugio de Wild is Life donde Roxy Danckwerts, la fundadora del espacio, se convirtió en su nueva madre. Hasta el punto de que ahora no puede pasar mucho sin tiempo sin ella y la acompaña en todas sus tareas, trabajos domésticos incluidos. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160215_0009 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160215_0009_703";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Una mujer salva a un bebé elefante y lo adopta en casa',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/15/VID/CLAVID20160215_0009/video_web.flv",
+        image: "http://images.clarin.com/sociedad/mujer-salva-elefante-adopta-casa_CLAVID20160215_0009_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160215_0009',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/15/VID/CLAVID20160215_0009/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/mujer-salva-elefante-adopta-casa_3_1523277666.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160215_0009.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160215_0009){
+            //getBBTStats_CLAVID20160215_0009();
+            varModIdReprod_CLAVID20160215_0009 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+Las imágenes que desde el refugio han colgado con su seguimiento no dejan lugar a dudas. Hay momentos en los que la convivencia acabaría con la paciencia de más de uno, aunque no parece ser el caso de Danckwets, quien ha demostrado que su amor por Moyo está por encima de sofás rotos, plantas destrozadas o caos en la cocina.  Moyo es, aún ahora, un bebé elefante que disfruta con su nuevo hogar aunque, como ha sucedido en las historias de algunas películas protagonizadas por animales salvajes domesticados, no es de extrañar que el día de mañana Roxy tenga que tomar una decisión más contundente y hacer que cada uno de ellos opte por un camino distinto. Por el momento, ambos disfrutan de un amor que va más allá de la diferencia entre especies. Fuente: La Vanguardia

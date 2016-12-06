@@ -1,0 +1,20 @@
+
+Mauricio Macri se reencontró con su par Barack Obama, apenas una semana después de la visita del presidente de los Estados Unidos a nuestro país. El reencuentro se dio en el marco de la cena que otorgó el mandatario norteamericano a sus pares extranjeros, a raíz de la Cumbre de Seguridad Nuclear que se realizará hoy en Washington. El Presidente participó de la recepción que Obama brindó anoche en la Casa Blanca, donde el argentino le entregó una camiseta de la Selección firmada por Messi a las hijas de su anfitrión, Sasha y Malia, que en su paso por nuestro país expresaron su admiración por el jugador argentino. Leé también: Macri cenó con Obama y define su postura sobre temas nucleares Sin embargo, debido al estricto protocolo, Macri dejó las camisetas en el hotel Hay-Adams, donde se aloja junto a su esposa Juliana Awada, para que se las entregaran por los canales correspondientes a las hijas del presidente norteamericano.
+
+Como sucedió en su paso por la Argentina el 23 y 24 de marzo, Obama posó sonriente junto a Macri para las cámaras, un hecho que contrasta con la fría relación que había con la ex presidenta Cristina Kirchner.  MIRÁ TAMBIÉN LA FOTOGALERÍA EN HD Hoy, Macri se reunió con su par chino, Xi Jinping, y luego brindará su discurso en la cumbre. La última vez que se vieron ambos jefes de Estado fue en la ciudad de Bariloche. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/mauriciomacri/status/713162198336552960",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_71316219833655296")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

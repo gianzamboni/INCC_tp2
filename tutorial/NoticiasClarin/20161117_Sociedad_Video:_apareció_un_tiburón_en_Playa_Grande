@@ -1,0 +1,18 @@
+
+Quienes estaban en Playa Grande se llevaron una gran sorpresa cuando vieron, en la escollera, un visitante inusual y de temer: un tiburón. Al parecer, se trató de un tiburón Mako, una especie de altamar, que quedó atrapado accidentalmente entre las rocas. En las imágenes, difundidas por el Canal 10 de Mar del Plata, puede verse cómo un hombre intenta liberar al animal, lo que finalmente habría logrado. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Semanas atrás, la misma Playa Grande fue escenario de otro hecho particular cuando un barco pesquero encalló a pocos metros de la orilla de esa playa marplatense. Mirá también: Encalló un barco pesquero en Playa Grande Según informó en su momento la Prefectura Naval Argentina (PNA), la embarcación se quedó sin propulsión y fue arrastrada hasta la costa en una madrugada de fuertes vientos. Un gran número de curiosos se acerco a mirar el barco encallado, que fue por unas horas, la mayor atracción de la ciudad, que se prepara para recibir el verano. 

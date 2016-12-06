@@ -1,0 +1,34 @@
+
+Mg3Si4O10(OH)2. Es la fórmula del talco (un mineral que contiene magnesio, silicio y oxígeno) y la causal de los US$72 millones que Johnson & Johnson (J&J) tendrá que pagarle a la familia de una mujer que probó ante la Justicia de EE.UU. que el cáncer de ovarios que la mató está relacionado con el uso diario y durante décadas del histórico talco para bebés Johnson's Baby Powder. Mirá también: Millonaria condena para Johnson & Johnson por la muerte de una mujer La condena recae sobre la empresa más grande del mundo en productos de ciudado personal y tuvo tal repercusión que hasta la Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (Anmat) tuvo que aclarar que el producto no está registrado ni se comercializa en Argentina.   Jackie Fox falleció el 6 de octubre de 2015. Aquí con su hijo /FOTO: Beasley Allen Law Film Según contó a Clarín Rubén Sajem, directivo del Colegio Oficial de Farmacéuticos y Bioquímicos de la Ciudad de Buenos Aires, el polvo de Johnson & Johnson que sí se comercializa en nuestro país es una fécula para evitar la paspadura en los bebés "en un envase muy similar al Baby Powder  pero sin asbesto -sustancia prohibida desde los años 70 en la fabricación de productos cosméticos- y que no tiene reportes de provocar efectos adversos".  Los otros dos polvos de talco más conocidos y disponibles en Argentina son los de Véritas (fécula para bebés, desodorantes axilares y para pies) y el talco pédico Efficient de Rexona. "Por el momento tampoco hubo presentaciones en contra de estos productos", agrega y, como la Anmat, quiere "llevar tranquilidad a los argentinos que los usan".    "Los hechos sobre el talco seguro". Así se tituló el descargo que subió Johnson & Johnson ayer a su web. Pero la gran polémica del caso por la muerte de Jackie Fox, de 62 años, en Missouri, EE.UU, es que, como asegura Johnson & Johnson, el Baby Powder no contiene asbesto. Esta sustancia es definida por la American Cancer Society como "un grupo de minerales que se da forma en un conjunto de fibras hechas principalmente de silicio y oxígeno y que reporta una clara relación con el cáncer de ovarios".  De todas maneras, la Justicia estadounidense determinó que J&J es culpable por "responsabilidad ante un producto defectuoso, negligencia y conspiración" porque conocía los riesgos del talco pero no los advirtió en su etiqueta y la condenó a pagar US$10 millones por daños personales y otros US$62 millones por daños punitivos. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/JNJNews/status/702697802112081920",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70269780211208192")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ "Tenés dudas sobre si el talco es seguro? Tenemos los hechos", tuitea la empresa. "Absorbe el exceso de humedad para una piel suave como la seda", dice el Baby Powder en su envase. Si bien se trata de un talco para bebés, es promovido por la empresa para que también sea utilizado por las mujeres. Fox lo usó todos los días durante 35 años como complemento de su higiene vaginal. Según dicen sus abogados, un patólogo encontró talco en los ovarios de Fox. Por tres décadas de uso, partículas del talco habrían entrado por su vagina, pasado el útero y atravesado las trompas de falopio hasta alojarse en uno de sus ovarios, lo que le habría provocado "una terrible inflamación que derivó en cáncer". Fox murió 3 años después de conocer su diagnóstico. Mirá también: Aprueban una droga innovadora para el cáncer de mama metastásico Por primera vez, se decide acordar el cobro de daños y perjuicios por una denuncia sobre los "posibles" efectos perjudiciales del talco. En el juicio -que puede sentar un precedente para futuras demandas a la empresa en todo el mundo- los abogados de Fox presentaron como evidencia un "memorándum interno" de 1997 elaborado por un consultor médico que afirmaba que "todo el que niegue los riesgos entre el uso de talco y el cáncer de ovario sería percibido públicamente como aquellos que antes negaban el vínculo entre el tabaco y el cáncer".  Sobre la relación entre el uso de talco en polvo y el cáncer de ovario, desde el Instituto Nacional del Cáncer (INC) explican a Clarín que la Agencia Internacional para la Investigación del Cáncer (IARC)  clasificó al uso de polvos de talco en zonas genitales como «posible carcinógeno para humanos» "lo que significa que hay muy poca evidencia para asociarlo al desarrollo del cáncer de ovario". Johnson & Johnson niega todo y está evaluando cuál será su próximo paso legal. Mientras tanto, otros 1.200 casos de cáncer de ovario relacionados con el uso de talcos esperan sentencia en las cortes de EE.UU. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/JNJNews/status/702697802112081920",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_70269780211208192")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

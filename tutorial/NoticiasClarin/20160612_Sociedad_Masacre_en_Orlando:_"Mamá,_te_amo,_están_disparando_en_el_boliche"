@@ -1,0 +1,18 @@
+
+"Salgan todos de Pulse y corran". Este mensaje fue publicado en la cuenta de Facebook del boliche de Orlando,  cuando a las 2 de la madrugada del domingo Omar Mateen entró a tiros en la disctoteca lugar y provocó al menos 49 muertos y 53 heridos.  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Horas después de lo ocurrido, cuando las fuerzas de seguridad ya habían llegado al lugar, agregaron: "Tan pronto como tengamos información, actualizaremos. Por favor, recen mientras trabajamos por esta tragedia. Gracias por el apoyo y el cariño". Mirá también: Cómo es Pulse, "el bar más hot" de Orlando Entre los asistentes, algunos intentaron comunicarse con sus familiares en el momento mismo del tiroteo y otros publicaron mensajes en Facebook apenas después de sucedido. -Mamá, te amo, están disparando en el boliche Pulse.-¿Estás bien?-Estoy atrapado en el baño. Llamá a la Policía. Voy a morir. El diálogo, vía Whatsapp, se dio esta madrugada entre Eddie, de 30 años, uno de los muertos en el boliche gay, y su mamá Mina Justice, según publicó el sitio local de noticias WFTV. Mirá también: El tirador llamó al 911 y prometió lealtad al ISIS "Llamá a la Policía, llamá ahora. El viene, voy a morir. Estoy en el baño de mujeres. Tienen que venir por nosotros, que se apuren. El nos tiene en el baño de mujeres, está acá con nosotros", fueron los últimos mensajes desesperados del joven,pidiendo ayuda. La conversación fue dada a conocer por su madre, que estuvo en la puerta del boliche intentando ayudar a su hijo. Mirá también: Habló la ex mujer del tirador: “No era una persona estable” "El tirador abrió fuego a eso de las 2. Los que estaban en la pista y en el bar se tiraron al piso. Algunos quedamos cerca de la salida de atrás y pudimos salir corriendo. Estoy a salvo en casa, esperando que todos puedan salir bien. :(", contó a través de Facebook Ricardo Almodóvar, uno de los asistentes al boliche. También señaló que "no había control de armas" en el ingreso al lugar. Christopher Hansen, quien se encontraba en el VIP del local, contó: "Pensé '¿es una broma?. Me dejé caer al piso y simplemente dije 'por favor, por favor, quiero que esto termine. Y cuando eso sucedió, vi gente baleada y sangre". Mirá también: Gritos y disparos, el drama del boliche de Orlando en videos Libia Carmen, la mamá de una joven que también había ido al lugar, compartió su angustia en la red social: "Mi hija Jocelyn está adentro, esperando por la policía. Me llamó y lo único que escuché fueron disparos. Estoy desesperada". Luego de una hora de espera, finalmente la joven salió junto con otros sobrevivientes.

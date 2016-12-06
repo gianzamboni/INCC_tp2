@@ -1,0 +1,18 @@
+
+   A días de la segunda marcha organizada por el movimiento #NiUnaMenos, que busca concientizar sobre la violencia contra la mujer, un audio no deja bien parado a un dirigente que, paradójicamente, participó de la movilización. El apuntado, presunto autor de la frase que circula por Whatsapp y se viralizó por las redes sociales, es el concejal de Luján por el Frente para la Victoria, Leonardo Boto, quien habría tratado de "loca" a la gobernadora bonaerense María Eugenia Vidal y afirmado que "dan ganas de cagarla a trompadas". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ "Ahí escuchaba a la loca esta de Vidal. Justo después de la charla de ayer te dan ganas de ir y cagarla a trompadas", se escucha en el audio que, al parecer, le envió Boto a uno de sus contactos de Whatsapp. El tono de voz coincide con la que se le puede escuchar en las decenas de videos que subió el FPV durante la última campaña en la que Boto fue candidato.  La nota de voz se completa con una crítica al mensaje de la gobernadora. “Nos sacan la guita, te aumentan los servicios, te cagan la vida pero todo eso es para que estés mejor”, señaló. Mirá también: #NiUnaMenos: multitudinario reclamo contra la violencia machista  Boto, candidato a intendente de Luján del FPV en la última elección, ofició de anfitrión de Cristina Kirchner, en su último desembarco en Luján como Presidenta, con motivo de los festejos por el 25 de Mayo. Durante la gestión K, Boto fue premiado con dos cargos: fue secretario ejecutivo del Instituto Nacional de Promoción del Turismo de Argentina y director de la Fundación Exportar  Ya con Cristina fuera del Gobierno y desde su cargo de concejal, participó activamente de las reuniones del PJ, aunque mantuvo diferencias con los dirigentes de La Cámpora de Luján.

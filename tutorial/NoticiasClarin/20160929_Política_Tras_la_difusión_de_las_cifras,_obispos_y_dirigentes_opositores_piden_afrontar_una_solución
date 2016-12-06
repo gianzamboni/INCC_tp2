@@ -1,0 +1,68 @@
+
+Miembros de la Iglesia argentina, dirigentes opositores y referentes sociales hablaron hoy, tras la difusión oficial de los datos de pobreza e indigencia por parte del Instituto de Estadísticas y Censos. El arzobispo de Rosario, monseñor Eduardo Martín, sostuvo hoy que "lo único" que permitirá superar la pobreza, que según los índices oficiales comprende al 32 por ciento de la población, "es el empleo y la educación". Martín destacó que el 32,2 por ciento de población bajo la línea de pobreza, que dio como resultado el relevamiento del INDEC hasta el segundo trimestre de este año, "coincide con lo que venía difundiendo el Observatorio Social de la Universidad Católica Argentina". 
+
+
+"Nada mejor que reconocer la enfermedad para poder curarse", manifestó el obispo respecto de los datos difundidos ayer por el gobierno nacional.
+
+
+
+
+
+var act_289 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_289 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_289.setTitle('"Nada mejor que reconocer la enfermedad para poder curarse", manifestó el obispo respecto de los datos difundidos ayer por el gobierno nacional.');
+act_289.setSubtitle(' '); 
+act_289.setLinkBack('http://www.clarin.com/politica/difusion-dirigentes-opositores-afrontar-solucion_0_1659434066.html');
+act_289.setDescription('El obispo de Rosario afirmó que "lo único" que permitirá superar la pobreza "es el empleo y la educación". Desde el Observatorio de la UCA aseguraron que "sin duda hubo un aumento de la pobreza" durante la gestión de Macri.');
+act_289.addActionLink('VER MÁS', 'http://www.clarin.com/politica/difusion-dirigentes-opositores-afrontar-solucion_0_1659434066.html');
+
+var showShareBarUI_params_289=
+{ 
+containerID: 'shareQuote_289',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_289,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_289
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_289);
+ Pero "detrás de los números hay personas que sufren y ojalá que esto nos mueva a todos a ser más solidarios desde el lugar en donde estemos", manifestó.En ese sentido, sostuvo que "lo único que puede sacar a la gente de la pobreza es el empleo y la educación". Por su parte,, Agustín Salvia, director del Observatorio de la Deuda Social Argentina, dijo por FM BLUE que en ese departamento de la UCA "mostrábamos indicadores de pobreza y en la etapa anterior se nos imputaba tener intereses políticos". Consideró al titular del Indec Jorge Todesca como "un profesional de alto vuelo para presentar la información a partir del cual la dirigencia tiene que hacerse cargo"  y dijo que "estos son los valores, hay que buscar el diagnóstico de por qué se llegó a esta situación y atacar las causas con políticas". Mirá también: Macri: "Después de años de manipulación, hoy sabemos qué realidad nos golpea" Y aseveró: "Sin duda hubo un aumento de la pobreza" durante la actual gestión presidencial de Mauricio Macri pero aseveró que "la mayor parte de los índices de pobreza que dimos nosotros como los del Indec de ahora son heredados". Por su parte, Fernando "Chino" Navarro, señaló que "en el último año, la pobreza ha empeorado considerablemente. Solamente en el primer trimestre de este año hay 1 millón y medio de nuevos pobres". El diputado bonaerense por el Movimiento Evita dijo por Radio Belgrano expresó que "no puede haber ocultamiento de la pobreza cuando las políticas del kirchnerismo tenían medidas que apuntaban a enfrentar la pobreza, como la Asignación Universal, ingresar jubilaciones a quienes no tenían los aportes necesarios, el plan Progresar, entre otros". Y señaó que "es cierto que el gobierno K a partir del 2013 dejó de medir estos índices, pero fue porque estaba cambiando la metodología", defendió el diputado.  Y cerró: "No hemos derrotado a la pobreza, fue una asignatura pendiente para el gobierno."  "La metodología que utiliza el INDEC hoy es distinta a la que se utilizaba hace dos años", manifestó Navarro. Un especialista en temas sociales es Daniel Arroyo, ex viceministro de Desarrollo Social de la Nación. El hoy miembro del BAPRO señaló que "el gobierno actual tomó un enfermo de 39 grados de temperatura, pero le metió un ajuste en el medio y ahora tiene 41 grados, es decir que objetivamente en estos meses el Gobierno empeoró una situación que venía muy mal a fines del año pasado". Mirá también: La pobreza es más que una cifra Arroyo consideró que "hoy con mucha asistencia del Estado, 1 de cada 3 argentinos es pobre, lo que releva que hay un problema estructural en el funcionamiento de la economía. Hay que abrir los mercados para competir, pero también es necesario proteger las pequeñas industrias y crear trabajos”, dijo el dirigente del Frente Renovador.

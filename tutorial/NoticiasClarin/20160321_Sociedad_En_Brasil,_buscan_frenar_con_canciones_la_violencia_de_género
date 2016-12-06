@@ -1,0 +1,34 @@
+
+A través de cinco videoclips se conocieron las canciones ganadoras del concurso que el Banco Mundial organizó en Brasil contra la violencia familiar y de género, con el apoyo de la Secretaria de la Mujer de la cámara de Diputados de ese país. Mirá también: Mató a su ex delante de la hija de tres años y se fugó por la frontera Entre las composiciones premiadas se destacan historias de vida como el tema “Mi padre es un monstruo” de Dr. Paulo, y letras que alientan a las víctimas a pedir ayuda, como el rock “Llama 180”  ­-una referencia al número brasileño que recibe las denuncias de agresiones contra las mujeres­­- de la cantante Fernanda Azevedo. Además de una samba tradicional,  “Maria da Penha” de Juraildes da Cruz, que cuenta la historia de una esposa sumisa y su marido borracho y machista. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Con el apoyo del Banco Mundial, estos videoclips y otros 20 temas registrados en cinco mil CD serán distribuidos por el país en el marco de una campaña sobre la ley Maria da Penha, de Brasil, contra la violencia de género. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Aunque Brasil cuenta hace más de diez años con esta ley, considerada una de las más completas del mundo en la lucha contra la violencia doméstica, hoy ocupa el quinto lugar en el ránking mundial de homicidios de mujeres a manos de sus parejas.

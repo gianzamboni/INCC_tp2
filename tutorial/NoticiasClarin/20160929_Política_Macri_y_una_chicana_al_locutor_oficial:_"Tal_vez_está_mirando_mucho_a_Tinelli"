@@ -1,0 +1,84 @@
+
+El locutor oficial, como pocas veces durante la actual gestión, había estado particularmente enérgico. Y tal vez no advirtió -o no le avisaron- que en el auditorio de Tecnópolis ya estaban al tanto de quiénes habían sido los docentes ganadores del premio "Maestros Argentinos": hasta se repartió, en la previa, un folleto con dicha información. Ajeno a esa situación, intentó agregarle suspenso y le imprimió una cuota exagerada de efusividad a la presentación de los dos primeros puestos. Algo que percibió el Presidente, que sonrió y soltó un comentario por lo bajo al jefe de Gabinete Marcos Peña y al ministro de Educación, que lo acompañaban en el escenario. Mauricio Macri se guardó esa escena y, tras las fotos y selfies con los docentes ganadores, volvió a traerla a primer plano con una sugestiva alusión a Marcelo Tinelli. 
+
+
+"Se ve que este ambiente de innovación ha inspirado a nuestro locutor a crear también, o tal vez está mirando mucho a Tinelli y esa emoción que genera antes de la votación", dijo Macri. Y, tras un breve silencio, murmuró: "Está bien, me parece bien".
+
+
+
+
+
+var act_dde = new gigya.socialize.UserAction();
+
+var emailBodyCustom_dde = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_dde.setTitle('"Se ve que este ambiente de innovación ha inspirado a nuestro locutor a crear también, o tal vez está&nbsp;mirando mucho a Tinelli y esa emoción que genera antes de la votación", dijo Macri. Y, tras un breve silencio, murmuró: "Está bien, me parece bien".');
+act_dde.setSubtitle('En Tecnópolis'); 
+act_dde.setLinkBack('http://www.clarin.com/politica/Macri-chicana-oficial-mirando-Tinelli_0_1659434095.html');
+act_dde.setDescription('Al distinguir a maestros, volvió a hablar de los datos de la pobreza, y destacó haber "reconocido el grave problema a pesar del dolor y la bronca que genera".  El conductor se enteró por Clarín y lo tuiteó.');
+act_dde.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Macri-chicana-oficial-mirando-Tinelli_0_1659434095.html');
+
+var showShareBarUI_params_dde=
+{ 
+containerID: 'shareQuote_dde',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_dde,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_dde
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_dde);
+  Casualidad o no, minutos antes del acto, el conductor de ShowMatch había salido a jugar fuerte respecto a los derechos de TV al instar a los dirigentes a no seguir "atados a la política"; y lanzó un dardo por elevación al señalar -vía Twitter- que "acá todas las discusiones pasan por saber si las cosas fueron culpa del gobierno anterior o del actual. La solución a los problemas, veremos". Mirá también: Desde el Gobierno afirman que "esta masa de pobres e indigentes no se creó en estos meses" Pareció aludir al debate que se generó luego que ayer el INDeC difundiera el índice de pobreza, que reflejó que más de un tercio de los argentinos son pobres. Situación que el Gobierno adjudicó exclusivamente a la herencia recibida por el kirchnerismo y que no desencadenó ninguna autocrítica por los nuevos pobres que, según mediciones de otras entidades, se generaron en los últimos meses, ya durante el mandato de Macri. Luego de publicada la nota en Clarín.com, Tinelli se divirtió con los dichos presidenciales y tuiteó la nota. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/cuervotinelli/status/781527735973937153",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78152773597393715")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ De la pobreza, precisamente, volvió a hablar el jefe de Estado, que destacó haber "reconocido el grave problema" y el "punto de partida" mostrando las estadísticas, "a pesar del dolor y la bronca que genera"; y aseguró además que la solución "no se logra mágicamente" sino redoblando el "compromiso de trabajar juntos para derrotar a la pobreza". UNA RELACION OSCILANTE Si bien Macri y Tinelli sellaron la paz meses atrás, cuando el conductor y empresario desembarcó en la Quinta de Olivos y hasta se sacaron selfies y grabaron videos para snapchat, la relación entre ambos fue oscilante en los últimos tiempos. Se desgastó a partir del apoyo que Tinelli le dio a Daniel Scioli en la campaña presidencial y tuvo un punto de quiebre a principios de año, cuando el jefe de Estado apostó fuerte para evitar que el dirigente de San Lorenzo se quedara con la presidencia de la AFA.  Aquel encuentro armonioso en la residencia presidencial, sin embargo no acalló a Tinelli, que la semana pasada reclamó por la inseguridad, luego de algunos casos que tuvieron fuerte impacto mediático. "Basta con la mentira de la famosa grieta para hablar de este tema.Esto no es en contra de nadie sino a favor de la vida.Queremos SEGURIDAD", tuiteó. "Si seguimos mezclando temas, a los argentinos nos van a seguir matando en la calle mientras discutimos de política en twitter", agregó. También, siempre a través de las redes sociales, cuestionó a la Comisión Normalizadora de AFA, comandada por Armado Pérez, un hombre de estrecha relación con Macri. "Alguien sabe si actualmente la @FIFAcom alienta o desalienta que el Estado se meta en la @afa ???", inquirió. No fue su único dardo. También replicó un tuit de un colaborador de San Lorenzo que dejaba expuesto su fastidio por cómo pujó el macrismo para quitarlo de la carrera por la entidad que rige el fútbol argentino: "Me acuerdo cuando decían que Tinelli era muy hincha de #SanLorenzo para ser presidente de AFA", rezaba el comentario, acompañado de una foto de Macri posando con una camiseta con su amigo Daniel Angelici, presidente Boca y autor de aquella aseveración.  

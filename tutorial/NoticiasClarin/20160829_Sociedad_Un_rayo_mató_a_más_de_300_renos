@@ -1,0 +1,22 @@
+
+Más de 300 renos murieron en Noruega, alcanzados por un rayo, informaron el lunes las autoridades de ese país.  Los 323 renos fueron hallados muertos el viernes por un guardabosques en la meseta de Hardangervidda, un parque nacional donde viven 10.000 renos en libertad. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ La Agencia Ambiental Noruega difundió imágenes sobrecogedoras de cadáveres de renos desparramados en una zona pequeña de la meseta de Hardangervidda. La agencia dijo que murieron 323 animales, incluidos 70 becerros, en la tormenta eléctrica del viernes.
+
+ Las autoridades de vida silvestre lo consideraron una masacre natural inusual por su magnitud. “Es algo inhabitual. Nunca antes habíamos visto algo similar a una escala tan grande”, agregó. Mirá también: Tormentas y rayos mortales en la India: hay 94 muertos  “Hubo una tormenta muy fuerte el viernes en la región. Los animales se agrupan cuando hay mal tiempo y éstos fueron alcanzados por un rayo”, dijo a la AFP un funcionario de la Dirección noruega de medio ambiente, Kjartan Knutsen.
+
+ El vocero explicó que la muerte de renos u otra fauna silvestre por rayos no es infrecuente, “pero jamás habíamos conocido semejantes cifras”. Y detalló que los renos tienden a juntarse cuando hay mal tiempo, lo cual explicaría la muerte de tantos al mismo tiempo. Miles de renos migran a través de la árida meseta de Hardangervidda al cambiar las estaciones, amplió.  Fuente: Agencias  

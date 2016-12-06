@@ -1,0 +1,134 @@
+
+Cuando terminaba de dar la conferencia en la que comunicaba el hecho inédito de devolver al Gobierno Nacional 13 millones de pesos de sobreprecios que detectó en una obra pública, el intendente de Larroque, Dario Benedetti, no aguantó y se quebró. Por un momento, el hilo de su voz se cortó. Segundo después, pudo reincorporarse y descargar todo ese estrés que tenía contenido desde que asumió y ordenó una auditoria, que descubrió que su antecesor, del Frente para la Victoria, había destinado 21 millones de pesos a una obra cuyo costo, según los estudios, era de apenas 5 millones de pesos.Mirá también: Un intendente devuelve 13 millones de pesos de una obra pública y denuncia sobrepreciosEn diálogo con Clarín, a minutos de anunciar denuncias penales contra el ex intendente y los empresarios de la obra pública, Benedetti se siente mejor, pero vuelve a emocionarse. “Son muchas cosas las que uno siente, fue mucho el esfuerzo, el trabajo de nuestro equipo, es una mezcla de todo, siento alivio”, afirma.-¿Usted imaginaba que iban a encontrarse con algo así?-Sabíamos que había desfasajes, pero creíamos que nos ibamos a encontrar con esta situación, algo raro habia, cuando en la campaña anunciaron la obra por 21 millones teníamos la sospecha. La corrupción es una realidad que estamos viviendo, en los pueblos chicos se ve.-¿Cómo comenzó la investigación?-Un día llegó el dinero a las cuentas del Banco Nación del municipio, nosotros no sabíamos que estaba, pero recibimos un llamado de la empresa reclamando un pago, nos decían que estaba depositado, eso era medio raro, lo supieron antes que nosotros. A raíz de eso, uno tiene principios y tiene ciertas cosas que lo hace diferente a toda esta realidad, empezamos a analizar el tema de ese dinero que me preocupaba mucho.-Es decir que la empresa reclamaba el pago y usted ordenó una auditoria.-Y dijo ‘No paguemos, esperemos’. Fue así que cuando la auditoria termina pudimos constatar un desfasaje que es increíble pero real. Siempre estuvimos en contacto con el ministro Frigerio, le comunicamos esta inquietud, porque el tema del dinero que era preocupante.
+
+
+El intendente presentó una denuncia penal contra el ex intendente, su secretario de Gobierno y el presidente del Concejo Deliberante de Larroque.
+
+
+
+
+
+var act_f93 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_f93 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_f93.setTitle('El intendente presentó una denuncia penal contra el ex intendente, su secretario de Gobierno y el presidente del Concejo Deliberante de Larroque.');
+act_f93.setSubtitle('Entre Ríos'); 
+act_f93.setLinkBack('http://www.clarin.com/politica/intendente-millones-denuncio-corrupcion-Siento_0_1571243015.html');
+act_f93.setDescription('Dario Benedetti lloró al explicar el caso que le tocó atravesar tras descubrir un supuesto sobreprecio de 13 millones de pesos en una obra para asfaltar 14 cuadras de su ciudad.');
+act_f93.addActionLink('VER MÁS', 'http://www.clarin.com/politica/intendente-millones-denuncio-corrupcion-Siento_0_1571243015.html');
+
+var showShareBarUI_params_f93=
+{ 
+containerID: 'shareQuote_f93',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_f93,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_f93
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_f93);
+-¿Qué le dijo el ministro cuando lo dijo que había detectado 13 millones de sobreprecio?-Frigerio me dio confianza. ‘Haga lo que tenga que hacer’, me pidió. Pero como a veces con la palabra no alcanza, uno necesita algo en papeles que justifique el por qué, tras la auditoria y las denuncias, después de andar varias semanas trabajando en esto, se pudo lograr.-Usted entonces pidió devolver el dinero.-Queríamos devolver el dinero, sabemos que los procesos judiciales son largos, pero queríamos evitar que este problema pudiera caerle a la próxima gestión. Es ahí donde surgió esta posibilidad de devolverla, de firmar un acuerdo con el ministro, y es alivio importante, estamos muy contentos.
+
+
+En el Gobierno Nacional esperan que este sea un puntapié inicial para que muchos intendentes se animen a denunciar.
+
+
+
+
+
+var act_89d = new gigya.socialize.UserAction();
+
+var emailBodyCustom_89d = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_89d.setTitle('En el Gobierno Nacional esperan que este sea un puntapié inicial para que muchos intendentes se animen a denunciar.');
+act_89d.setSubtitle('Entre Ríos'); 
+act_89d.setLinkBack('http://www.clarin.com/politica/intendente-millones-denuncio-corrupcion-Siento_0_1571243015.html');
+act_89d.setDescription('Dario Benedetti lloró al explicar el caso que le tocó atravesar tras descubrir un supuesto sobreprecio de 13 millones de pesos en una obra para asfaltar 14 cuadras de su ciudad.');
+act_89d.addActionLink('VER MÁS', 'http://www.clarin.com/politica/intendente-millones-denuncio-corrupcion-Siento_0_1571243015.html');
+
+var showShareBarUI_params_89d=
+{ 
+containerID: 'shareQuote_89d',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_89d,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_89d
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_89d);
+A Benedetti le cuesta decirlo, pero lo hace. “Pudimos descubrir un caso de corrupción”, suelta. En medio de operativos que buscan recuperar activos de casos de lavado de dinero, como los allanamientos del caso Lázaro Báez y de consignas como “Recuperar lo robado”, que propone Elisa Carrió, al intendente de Cambiemos le cuesta poner su caso en ese contexto. “Yo quería el bien para todos y devolverle al pueblo lo que es del pueblo”, señaló.

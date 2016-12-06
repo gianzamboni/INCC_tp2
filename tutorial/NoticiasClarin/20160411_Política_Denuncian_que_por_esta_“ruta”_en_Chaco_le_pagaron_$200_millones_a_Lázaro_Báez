@@ -1,0 +1,195 @@
+
+Las explosivas declaraciones del ex valijero Leonardo Fariña dispararon allanamientos en Buenos Aires y Santa Cruz, pero también en Chaco, donde el empresario Lázaro Báez tiene negocios. Es más, en la provincia que supo ser gobernada por el exjefe de Gabinete, Jorge Capitanich, (hoy intendente de Resistencia) ahora denunciaron que una de las empresas de Lázaro Báez habría cobrado más de $ 200 millones por asfaltar una ruta en la que hoy sólo hay barro y señales truchas, pintadas con aerosol. Esta mañana, diputados nacionales y provinciales del Frente Cambiemos, encabezados por el legislador radical Livio Gutiérrez, mostraron imágenes de cómo se ve hoy la obra que debería estar concluida, y dieron detalles de la presentación de una ampliación de denuncia ante el juez Julián Ercolini.  Mirá también: Sobreprecios, obras inconclusas, nuevas licitaciones: la fórmula de Cristina, De Vido y Báez Acompañado por la diputada nacional Alicia Terada (CC-ARI), que fue a Tribunales el jueves, Gutiérrez pidió reactivar la causa de Elisa Carrió, que data de 2008, por asociación ilícita contra Néstor Kirchner, Julio De Vido, Rudy Ulloa Igor y Lázaro Báez, entre otros exfuncionarios, para investigar el caso de la ruta 7.  “Tenemos datos que en el tramo que va entre Presidencia de la Plaza y Colonias Unidas, un tramo de aproximadamente 37 kilómetros, Vialidad habría desembolsado $ 200 millones, pero no hay nada. La obra no está terminada, los canales para que cruce el agua está resquebrajados y la cartelería es un papelón”, explicó a Clarín el legislador de la UCR. 
+
+
+"Esta es la plata que se llevaron en esta corrupción estructural que también llegó al Chaco", dijo Gutiérrez.
+
+
+
+
+
+var act_1d2 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_1d2 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_1d2.setTitle('"Esta es la plata que se llevaron en esta corrupción estructural que también llegó al Chaco", dijo Gutiérrez.');
+act_1d2.setSubtitle('La ruta del dinero K'); 
+act_1d2.setLinkBack('http://www.clarin.com/politica/Denuncian-Chaco-millones-Lazaro-Baez_0_1556844599.html');
+act_1d2.setDescription('Diputados de Cambiemos piden que se investigue la polémica obra pública. Apuntan a Capitanich. El domingo hubo allanamientos en el marco de la ruta del dinero K.&nbsp;');
+act_1d2.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Denuncian-Chaco-millones-Lazaro-Baez_0_1556844599.html');
+
+var showShareBarUI_params_1d2=
+{ 
+containerID: 'shareQuote_1d2',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_1d2,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_1d2
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_1d2);
+ Gutiérrez recorrió ayer esa ruta y encontró un verdadero barrial. “Ni un kilómetro de pavimento, señales truchas y alcantarillas que ya están quebradas”, resumió. “Por esta razón le pedimos al juez Ercolini que designe peritos ingenieros para que determinen si las certificaciones de obras son correctas y se corresponden con los pagos realizados”, sostuvo. Mirá también: "Capitanich le dio más de $ 500 millones a Báez"  “Esta es la plata que se llevaron en esta corrupción estructural que también llegó al Chaco, nos mataron nuestro pasado, nuestro presente y comprometieron nuestro futuro”, lanzó Gutiérrez, quien hoy fue descalificado por el ahora intendente de Resistencia. Capitanich sostuvo que “no voy a aceptar que el diputado Gutiérrez, que es un lenguaraz que no tiene ningún tipo de fundamento, pueda decir lo que dice”. "Coqui" además afirmó tener un patrimonio casi inexistente tras su juicio de divorcio con la diputada peronista Sandra Mendoza. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160411_0019 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160411_0019_c19";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Capitanich responde sobre su patrimonio',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/04/11/VID/CLAVID20160411_0019/video_web.flv",
+        image: "http://images.clarin.com/politica/Capitanich-responde-patrimonio_CLAVID20160411_0019_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160411_0019',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/04/11/VID/CLAVID20160411_0019/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/2/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/politica/Capitanich-responde-patrimonio_3_1556874316.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160411_0019.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160411_0019){
+            //getBBTStats_CLAVID20160411_0019();
+            varModIdReprod_CLAVID20160411_0019 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+En diálogo con Clarín, Terada recordó la denuncia de Carrió de 2008, donde se hablaba de sobreprecios en la obra pública y señalaba el caso de la ruta 7. “La pavimentación de 25 kilómetros de ruta 4, hecha con las mismas condiciones técnicas, fue presupuestada en 42 millones de pesos, mientras que en esta se habrían pagado 200 millones”, señaló. La ampliación de la denuncia es clara: “Los 166.958.079,74 pesos presupuestados para su realización son una cifra exorbitante para realizar los objetivos de la obra: 57 kilómetros de pavimento en esa zona, más los accesos y empalmes a la ruta. Por poner un ejemplo, la pavimentación de 25 kilómetros de la ruta 4, también en Chaco, está presupuestada en 42.318.634 pesos. La matemática es lapidaria. Un kilómetro de asfalto de la “ruta K” tiene un costo de 2.929.089,10 pesos. La misma extensión, pero en la ruta 4, sale 1.692.745,36 pesos”, señalan citando a Carrió.  Los diputados vinculan esta obra a "La Ruta del dinero K" porque está a cargo de la empresa “Sucesores de Adelmo Biancalani”, que es controlada hoy por Austral Construcciones, nave insignia del grupo de firmas de Lázaro Báez. El fin de semana, tras la declaración de Fariña, el juez Sebastián Casanello ordenó el allanamiento de la empresa en Chaco, donde secuestraron documentación. Allí, los dirigentes de Cambiemos también denuncian que hubo irregularidades. La legisladora Irene Dumrauf afirmó que antes del procedimiento judicial “al menos tres camionetas, habrían salido del predio de la empresa presuntamente llevando documentación y computadoras”.  La imagen de cómo es un cartel de ruta y los que puso la empresa de Báez. Esos vehículos serían los que fueron requisados en el barrio Provincias Unidas de Resistencia. Según informó el diario Norte, una Chevrolet patente MRI 694 y una Nissan patente JET 803, ambas radicadas en Río Gallegos, fueron revisadas a raíz de la presunción de que, antes del allanamiento en en Biancalani, se habría llevado de allí “varias computadoras” y documentación. 
+
+

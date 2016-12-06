@@ -1,0 +1,34 @@
+
+Atrapados a 30 metros de altura. Así quedaron varias personas, entre ellos chicos de 7 años, que se habían subido a una montaña rusa en el parque de diversiones Frontier City, en Oklahoma. Los bomberos tuvieron que intervenir para rescatar a los visitantes que durante varios minutos esperaron ser evacuados.  La atracción se llama Silver Bullet, que en español significa Bala de Plata. En la página de internet del parque describe al juego de esta manera: “Es como salir despedido de un cañón, donde la velocidad aumenta mientras el cohete avanza”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Allí se subieron una docena de visitantes para disfrutar, pero fue en el momento en el que el carrito iba a doblar que se detuvo, justo en lo más alto del juego. Y allí esperaron. Los que estaban en la parte trasera pudieron ser rescatados por personal del parque de diversiones, pero los de adelante tuvieron que esperar a la llegada de los bomberos. También leé: "Video: 10 argentinos atrapados por dos horas en una montaña rusa" Los técnicos del lugar todavía intentan saber qué fue lo que sucedió. En un comunicado Frontier City asegura estar investigando el incidente que por suerte terminó sin heridos. “Aproximadamente a las 4:20, un tren de la montaña rusa Silver Bullet quedó atascado en el ascenso. Debido a la posición del tren, la mitad posterior de los puestos pudieron ser evacuados por el personal del parque. El departamento de bomberos tuvo que ser llamado para evacuar a los visitantes que quedaron en los puestos delanteros”. Así funciona la montaña rusa Silver Bullet:  
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La empresa además afirmó: “La seguridad de los visitantes es la prioridad. Ahora iniciaremos una investigación exhaustiva sobre el motivo del atasco.”. Leé también: "Denuncian que los chicos argentinos atrapados en la montaña rusa no recibieron asistencia"

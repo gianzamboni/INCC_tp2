@@ -1,0 +1,34 @@
+
+Guillermo Moreno, uno de los funcionarios clave del Gobierno de Cristina Kirchner, tomó distancia de Lázaro Báez en medio del escándalo por los videos en los que se ve cómo el hijo del empresario contaba millones de dólares en La Rosadita. El ex secretario de Comercio sostuvo que no pone las manos en el fuego por él porque no lo conoce. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Cómo voy a ponerlas si no lo conozco. No lo conozco. A Lázaro Báez nunca lo vi personalmente", aseguró Moreno en una entrevista que dio al diario El Tribuno de Salta durante una visita a esa ciudad. Mirá también: Báez: los K ocultaron alertas  de lavado por $900 millones Y arremetió con su habitual tono confontativo: "¿Cómo me vas a preguntar si pongo las manos en el fuego por una persona que no conozco? No tiene sentido la pregunta". Luego de que Canal 13 difundiera los videos, el juez Sebastián Casanello citó a indatagatoria a Lázaro Báez para el 26 de baril acusado del delito de lavado de dinero. Además, le prohibió la salida del país y lo inhibió para que no pueda vender sus bienes. Mirá también: Bolsas con plata: el juez llamó a indagatoria a Báez Consultado sobre el video en el que aparece Martín Báez, hijo del empresario patagónico, con otras personas contando dólares, Moreno afirmó: "El video no lo vi, pero avancemos un poco más. ¿Eran pesos o dólares lo que se contaban en ese video". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Como se trataba de dólares, señaló: "El Presupuesto nacional está en pesos así que si eran dólares no eran parte del Presupuesto. Si son pesos y no son parte del Presupuesto, ¿por qué se asocia esto con un hecho de corrupción? Si son dólares no fueron un pago del Gobierno a los empresarios porque se paga en pesos". Mirá también: Jorge Lanata: "Una gran parte de esa plata es de Cristina" Moreno, procesado por incitación a la violencia colectiva y el uso de fondos públicos para confeccionar "cotillón" anti Clarín, indicó que no sabe quién es Martín Báez y sobre su padre, Lázaro, insistió: "Lo conozco por medios periodísticos, nunca lo vi personalmente". "¿Cree que hubo corrupción con la obra pública de Lázaro Báez durante el Gobierno de Cristina?", le preguntaron. A lo cual contestó: "Desconozco. Yo pongo las manos en el fuego por Cristina y pongo las manos en el fuego porque durante mi gestión no hay un solo empresario denunciando situaciones de corrupción. Mirá también: Para Máximo, Cristina Kirchner es víctima de una "persecución notoria" Por otra parte, Moreno responsabilizó a la gestión de Mauricio Macri por la inflación al manifestar que "las decisiones políticas tomadas por la actual administración generaron un incremento brutal en el precio de los alimentos. Esto es pura y exclusiva responsabilidad del actual gobierno". "No hay ninguna posibilidad de que el aumento de los alimentos, que fue brutal, se le pueda endosar al gobierno anterior", consideró. Mirá también: Macri: "Espero que los jueces entiendan la demanda para que se acabe la impunidad" El ex funcionario también se refirió a los índices de pobreza durante el mandato de Cristina Fernández: "Mientras yo estuve en el Ministerio de Economía las estadísticas de pobreza siempre se publicaron". Y ante la repregunta respecto de por qué dejaron de medirse, puntualizó: "Eso se lo tenés que preguntar a (el ex ministro de Economía, Axel) Kicillof, que está recorriendo el país igual que yo. Cuando llegue acá se lo preguntás". Y añadió: "¿Cómo no va a haber diferencia de criterio entre un marxista y un peronista?".

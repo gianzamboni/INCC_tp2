@@ -1,0 +1,354 @@
+
+Para Juan Pablo Culasso ser ciego nunca fue un obstáculo. Hace poco visitó un club hípico y dejó a todos con la boca abierta cuando montó un caballo y pidió que le enseñaran a practicar saltos ecuestres. Pero su máxima habilidad es reconocer las aves que nunca ha visto por los sonidos que emiten. Es capaz de reconocer más de 720 especies. 
+
+
+"Hay que vivir la vida. No me prohíbo nada. La mayoría de los ciegos se mueve solo en el mundo de los ciegos, no sale de esa zona de confort, pero yo nunca fui así. He tenido siempre un gran apoyo familiar para hacer las cosas que quería", dice.
+
+
+
+
+
+var act_adc = new gigya.socialize.UserAction();
+
+var emailBodyCustom_adc = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_adc.setTitle('"Hay que vivir la vida. No me prohíbo nada. La mayoría de los ciegos se mueve solo en el mundo de los ciegos, no sale de esa zona de confort, pero yo nunca fui así. He tenido siempre un gran apoyo familiar para hacer las cosas que quería", dice.');
+act_adc.setSubtitle('Oído absoluto'); 
+act_adc.setLinkBack('http://www.clarin.com/sociedad/ve-puede-reconocer-aves-sonidos_0_1592840789.html');
+act_adc.setDescription('A Juan Pablo Culasso su casi total ceguera no lo detiene. Cuando era chico andaba en bicicleta. Ahora, con 29 a&ntilde;os, es un experto en los sonidos de la naturaleza.');
+act_adc.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/ve-puede-reconocer-aves-sonidos_0_1592840789.html');
+
+var showShareBarUI_params_adc=
+{ 
+containerID: 'shareQuote_adc',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_adc,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_adc
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_adc);
+ De niño andaba en bicicleta en los senderos del Jardín Botánico con sus amigos: se guiaba por el sonido de las otras bicicletas y por las indicaciones de sus compañeros. Caerse y darse un porrazo nunca fue un problema para él. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Culasso, que nació en Montevideo (Uruguay) hace 29 años, siempre ha sido ciego. Para lo único que sirven sus ojos es para indicarle si hay luz: si es de día o es de noche. No distinguen formas, ni siquiera contornos, mucho menos los colores de las aves. Pero no necesita eso para reconocerlas. Si se tiene en cuenta que cada especie de ave es capaz de producir varios cantos diferentes, tres y a veces más, Culasso tiene memorizados y puede distinguir unos 3.000 sonidos diferentes de estos animales. Mirá también: Descubren en la Antártida fósiles de un ave prehistórica "Son pocos en realidad'', dice. Porque esa es una característica de este muchacho: siempre quiere más. Que su vista no funcione nunca fue una barrera. Los oídos han sido desde siempre sus ojos. Así, en 2014 triunfó en el programa Súper Cerebros del canal NatGeo, gracias a su habilidad para identificar aves por el sonido de su canto. En la prueba final debió identificar las voces de quince aves distintas seleccionadas al azar de entre un grupo de 250. Antes ya había tenido que identificar a otras diez especies. No falló ni una sola vez. Se llevó un premio de 45.000 dólares, buena parte de los cuales invirtió en comprar equipos de sonido.
+
+Tal proeza fue posible gracias a su formación musical y a que tiene un don de la naturaleza llamado "oído absoluto'', una facultad que no es privativa de los ciegos, pero es extremadamente rara. Gracias a esa cualidad, Juan Pablo escucha notas musicales en cualquier ruido o sonido. Puede decir que la frenada de un auto es un fa, por ejemplo. Lo descubrió tirando piedras en un río con su padre y explicando qué nota producía cada piedra cuando impactaba en el agua. 
+
+
+"Solo una de cada 10.000 personas tienen oído absoluto", dice Culasso y recuerda que uno de los agraciados fue Mozart.
+
+
+
+
+
+var act_618 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_618 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_618.setTitle('"Solo una de cada 10.000 personas tienen oído absoluto", dice Culasso y recuerda que uno de los agraciados fue Mozart.');
+act_618.setSubtitle('Oído absoluto'); 
+act_618.setLinkBack('http://www.clarin.com/sociedad/ve-puede-reconocer-aves-sonidos_0_1592840789.html');
+act_618.setDescription('A Juan Pablo Culasso su casi total ceguera no lo detiene. Cuando era chico andaba en bicicleta. Ahora, con 29 a&ntilde;os, es un experto en los sonidos de la naturaleza.');
+act_618.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/ve-puede-reconocer-aves-sonidos_0_1592840789.html');
+
+var showShareBarUI_params_618=
+{ 
+containerID: 'shareQuote_618',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_618,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_618
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_618);
+ Alicia Munyo, directora de la licenciatura en fonoaudiología de la Universidad de la República, en Uruguay, explicó que el "oído absoluto'' es una cualidad del cerebro y no del aparato auditivo. "No es que estas personas oigan más, ellos oyen lo mismo que todos. Pero su cerebro tiene una gran capacidad para interpretar los sonidos y sus matices, mucho más que las personas normales". Mirá también: La Reserva Ecológica y la historia de como la naturaleza resistió los cambios Después de aquel hallazgo, su padre comenzó a leerle una enciclopedia sobre aves, que venía acompañada de un casete con el sonido de sus cantos. "Con aquella enciclopedia comencé a entender que podía memorizar aves por sus sonidos, pero solo tenía especies de Estados Unidos y Europa'', recuerda Culasso. "Luego me regalaron una colección de casetes, Cantos de las aves de Argentina. La escuchaba en todo momento. Cuando escuchaba a un hornero, decía: 'está en el casete número 3, lado A, ave número 4'".
+
+Su cacería de sonidos comenzó en 2003 cuando, influido por el amor que se le había despertado por los pájaros y fiel a su espíritu aventurero, acompañó a un ornitólogo en una salida de campo. El experto en aves, sin que lo esperara, le dio una grabadora y una orden: que grabara. "En ese momento sentí que era algo que había estado haciendo toda la vida sin saberlo. Me enamoré de esa tarea", recuerda. Hoy la pasión de Juan Pablo es grabar, registrar y aprender todos los sonidos de la naturaleza. Mirá también: Rescataron 120 animales silvestres que estaban a la venta en una feria de Pompeya De acuerdo al espíritu intrépido que su padre le inculcó para desafiar la ceguera, el último reto cumplido por Culasso fue permanecer dos meses en la Antártida, donde viajó para grabar los sonidos de ese mundo helado. 
+
+
+"Cada vez voy agregando más y más sonidos. En la Antártida grabé a las focas y los leones marinos y un iceberg goteando", cuenta.
+
+
+
+
+
+var act_bc6 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_bc6 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_bc6.setTitle('"Cada vez voy agregando más y más sonidos. En la Antártida grabé a las focas y los leones marinos y&nbsp;un iceberg goteando", cuenta.');
+act_bc6.setSubtitle('Oído absoluto'); 
+act_bc6.setLinkBack('http://www.clarin.com/sociedad/ve-puede-reconocer-aves-sonidos_0_1592840789.html');
+act_bc6.setDescription('A Juan Pablo Culasso su casi total ceguera no lo detiene. Cuando era chico andaba en bicicleta. Ahora, con 29 a&ntilde;os, es un experto en los sonidos de la naturaleza.');
+act_bc6.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/ve-puede-reconocer-aves-sonidos_0_1592840789.html');
+
+var showShareBarUI_params_bc6=
+{ 
+containerID: 'shareQuote_bc6',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_bc6,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_bc6
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_bc6);
+ Con una grabadora profesional y un micrófono direccional envuelto en una especie de piel peluda que en realidad es un filtro que evita que el sonido del viento tape al resto de las voces de la naturaleza, Culasso acompañó a un equipo de la agencia de noticias AP a los bañados del río Santa Lucía, unos 20 kilómetros al oeste de Montevideo. Caminar con él por allí es toda una experiencia. Antes que los ojos de los demás puedan verlos, Culasso va diciendo dónde hay pájaros. "Allí hay un garibaldino'', "por allá hay una ratonera'', nombra a dos aves de la fauna uruguaya e inmediatamente agrega sus nombres científicos.
+
+
+
+
+"Mi pasión avanza, pero todavía lamentablemente no tiene el retorno económico que yo querría. Por eso tengo un empleo, que consiste en vender tecnología para ciegos y dar capacitaciones para las empresas que las compran", explica Juan Pablo.
+
+
+
+
+
+var act_8e5 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_8e5 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_8e5.setTitle('"Mi pasión avanza, pero todavía lamentablemente no tiene el retorno económico que yo querría. Por eso tengo un empleo, que consiste en vender tecnología para ciegos y dar capacitaciones para las empresas que las compran", explica Juan Pablo.');
+act_8e5.setSubtitle('Oído absoluto'); 
+act_8e5.setLinkBack('http://www.clarin.com/sociedad/ve-puede-reconocer-aves-sonidos_0_1592840789.html');
+act_8e5.setDescription('A Juan Pablo Culasso su casi total ceguera no lo detiene. Cuando era chico andaba en bicicleta. Ahora, con 29 a&ntilde;os, es un experto en los sonidos de la naturaleza.');
+act_8e5.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/ve-puede-reconocer-aves-sonidos_0_1592840789.html');
+
+var showShareBarUI_params_8e5=
+{ 
+containerID: 'shareQuote_8e5',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_8e5,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_8e5
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_8e5);
+ Es soltero, no tiene hijos, y está acostumbrándose otra vez a vivir en su Montevideo natal, luego de haber pasado once años en Brasil, donde llegó con su familia, porque allí trabajaba su padre. En aquel país estudió bioacústica con el profesor francés Jacques Vielliard, en la Universidad de Campinas. "No fue un curso oficial, pero estuve dos años en su laboratorio aprendiendo todo lo que tiene que ver con la grabación de sonidos en la naturaleza'', recuerda. Mirá también: GPS Reserva Ecológica de San Isidro: donde el río manda Hoy Culasso extraña las grandes metrópolis brasileñas como San Pablo. "Montevideo tiene sonido de aldea'', dice. Como siempre, piensa en grande: su sueño es un día poder trabajar en la Macaulay Library, de Nueva York. "Tiene la mayor zoonoteca del mundo, 200.000 sonidos en línea'', afirma. Juan Pablo se enoja cuando alguien le niega una oportunidad por ser ciego, sin darle la posibilidad de demostrar que puede. Pero de su condición de no vidente, de sus ojos que solo le dicen si hay luz o no, de esos ojos que no le permiten ver los colores de los cientos de aves a las que reconoce por su canto, de todo eso no tiene quejas. Al contrario. 
+
+
+"Qué mejor que un persona ciega para entender y darle significado a los sonidos", dice. Y concluye: "cuántos ejemplos de músicos ciegos memorables tenemos, cuántos sonidistas, instrumentistas ciegos hay. Yo hago lo mismo, pero con la naturaleza".
+
+
+
+
+
+var act_546 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_546 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_546.setTitle('"Qué&nbsp;mejor que un persona ciega para entender y darle significado a los sonidos", dice. Y concluye:&nbsp;"cuántos ejemplos de músicos ciegos memorables tenemos, cuántos sonidistas, instrumentistas ciegos hay. Yo hago lo mismo, pero con la naturaleza".');
+act_546.setSubtitle('Oído absoluto'); 
+act_546.setLinkBack('http://www.clarin.com/sociedad/ve-puede-reconocer-aves-sonidos_0_1592840789.html');
+act_546.setDescription('A Juan Pablo Culasso su casi total ceguera no lo detiene. Cuando era chico andaba en bicicleta. Ahora, con 29 a&ntilde;os, es un experto en los sonidos de la naturaleza.');
+act_546.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/ve-puede-reconocer-aves-sonidos_0_1592840789.html');
+
+var showShareBarUI_params_546=
+{ 
+containerID: 'shareQuote_546',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_546,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_546
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_546);
+ Fuente: AP

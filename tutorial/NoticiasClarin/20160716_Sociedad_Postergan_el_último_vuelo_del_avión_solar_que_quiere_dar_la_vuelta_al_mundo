@@ -1,0 +1,22 @@
+
+El avión Solar Impulse 2, que funciona exclusivamente con energía solar, tenía previsto despegar hoy a las 19 (hora argentina) de El Cairo rumbo a Abu Dabi en la última etapa de la vuelta al mundo que inició en marzo de 2015. Sin embargo, por un malestar de último momento del piloto, el despegue tuvo que ser postergado.  "Estoy enfermo. Un problema de estómago. Prefiero aplazar el despegue del @solarimpulse. No puedo volar durante 48 horas en este estado. Lo siento", escribió Bertrand Piccard en su cuenta Twitter 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/bertrandpiccard/status/754412422698569728",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75441242269856972")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: El avión solar, a un paso de concretar su hazaña Estaba previsto que el Solar Impulse 2 llegue a Abu Dabi el lunes por la noche a un horario que dependerá de las condiciones del tiempo.
+
+Cuando llegue a su destino, señala la agencia EFE, el SI2 habrá completado una travesía de más de 40.000 kilómetros, 17 vuelos y más de 500 horas sobrevolando el mar de Arabia, India, Myanmar, China, los océanos Pacífico y Atlántico, Estados Unidos, el sur de Europa y el norte de África, desde marzo de 2015. Mirá también: El Impulse 2 cruzó el Atlántico con éxito y ya aterrizó en Sevilla
+
+El SI2, equipado con más de 17.000 células fotovoltaicas, está fabricado con fibra de carbono y se sustenta con una envergadura alar mayor que la del Boeing 747, pero desplaza un peso similar al de un automóvil familiar vacío. Mirá también: El avión solar sobrevoló Nueva York y se apresta a cruzar el Atlántico El avión mantiene una velocidad de travesía de entre 45 y 90 kilómetros por hora, mientras que alcanza un techo de vuelo máximo de 8.500 metros de altitud. Fuente: EFE. 

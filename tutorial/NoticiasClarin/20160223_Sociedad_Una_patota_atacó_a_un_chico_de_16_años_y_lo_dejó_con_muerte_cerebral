@@ -1,0 +1,131 @@
+
+Un chico de 16 años está con muerte cerebral, tras el brutal ataque de una patota. Sucedió durante la madrugada del domingo en el barrio San Alejo de Pilar. Así lo informó el canal de noticias TN Mirá también: Una patota mató a golpes a un chico de 13 años y hay 3 detenidos
+
+(Javier Berdala y Daniel Rausch, papá y tío de Nicolás, agredido por una patota en Pilar. Foto: Gustavo Ortiz) 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160223_0009 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160223_0009_48b";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Atacado por una patota, está en coma. (TN)',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/23/VID/CLAVID20160223_0009/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Atacado-patota-coma-TN_CLAVID20160223_0009_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160223_0009',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/23/VID/CLAVID20160223_0009/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Atacado-patota-coma-TN_3_1528077186.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160223_0009.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160223_0009){
+            //getBBTStats_CLAVID20160223_0009();
+            varModIdReprod_CLAVID20160223_0009 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+El joven, llamado Nicolás Berdala, había salido de una fiesta de 15, con dos amigos. Caminaron unas cuadras y se encontraron con un grupo de jóvenes que los comenzaron a agredir, a insultar y los golpearon. Uno de ellos le tiró a Nicolás un ladrillazo en la cabeza. "Cuando llegó a su casa, le dijo a su mamá que le habían pegado. Se levantó a almorzar, se volvió a acostar y no se levantó más", detalló su tío, Daniel Rauch, en diálogo con TN.
+
+(Bernardo Houssay y Honduras, Pilar, donde fue agredido por una patota Nicolás Berdala. Foto: Gustavo Ortiz) Nicolás está internado en el Hospital Privado, en Martín Coronado, luchando por su vida. "Estamos esperando que reaccione su corazón. Su cerebrito está muerto", detalló el tío. Sus amigo también están hospitalizados, fuera de peligro. Mirá también: En una capilla de Florencio Varela suspendieron los casamientos por los robos El atacante, un joven de 17 años  llamado Lucas Nuñez, está en un centro de  detención de menores, acusado de intento de homicidio. Lo detuvieron después de que publicara un mensaje en Facebook: "ja ja ja cómo lo quebré (...) Esto les hice para que sepan quién maneja la calle. Para que cuando me vean agachen la mirada", escribió. La madre del agresor habló con el canal A24. "Mi hijo dijo que jamás peleó con este chico que está internado. Dice que peleó con un tal Iván", contó la mujer, llamada Yamila. Cuando le consultaron por la publicación de su hijo en Facebook, donde escribió la frase "lo quebré", respondió que "son cosas que ponen los chicos, los términos que usan". Agregó que quedó "shockeada" con la noticia, que siente mucho lo que pasó y que está rezando por la salud de Nicolás.

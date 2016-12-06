@@ -1,0 +1,178 @@
+
+Este domingo la red social Twitter anduvo revolucionada con un hashtag que indignó a los usuarios. #MasAnorexiaMenosGordas fue Trending Topic desde primera hora de la mañana y generó un sinfín de comentarios en contra de esta etiqueta que incita a la anorexia y discrimina a la gente con sobrepeso. Mirá también: Impresionante cambio para vencer a la anorexia Durante toda la jornada, se reprodujeron mensajes lamentables. Algunos intentaban ser humorísticos, pero su tono fue extremadamente agresivo.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/DDiegoloc/status/734140279133872128",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73414027913387212")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/HelionLolk/status/734965087002370048",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73496508700237004")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/PipeDLH/status/734188169315385344",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73418816931538534")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/DDiegoloc/status/734140400399585280",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73414040039958528")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/PipeDLH/status/734192706629586945",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73419270662958694")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: El emotivo video que revela cómo una modelo se convirtió en anoréxica También hubo comentarios alarmantes de algunas chicas. Dejaron al descubierto su rechazo hacia la obesidad y su elogio hacia la delgadez extrema. Como es de suponer, generaron preocupación entre la comunidad tuitera.   
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/DDiegoloc/status/734140731426627584",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73414073142662758")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/DDiegoloc/status/734140442439077888",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73414044243907788")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Pero también estuvieron las que valoran su cuerpo tal como es, con sus defectos y sus kilos de más. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/DDiegoloc/status/734140143829843969",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73414014382984396")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Por supuesto, semejante movida generó numerosas críticas. Muchos de los comentarios hicieron referencia a cómo es posible que el hashtag haya podido convertirse en uno de los principales temas en tan poco tiempo y otros dijeron que era de mal gusto. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/PipeDLH/status/734191293736333313",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73419129373633331")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/PipeDLH/status/734199069573304320",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73419906957330432")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Mirá también: El drama de un ex número 1 del tenis que sufre por la anorexia de su hija Al parecer, una persona se hizo pasar por Aless Gibaja, una celebrity con mucho poder en Twitter y mediante Photoshop hizo creer a la gente que Gibaja se había manifestado a favor de la anorexia. “Ayúdenme twitteando con el hashtag #MásAnorexiaMenosGordas y hagamos una tendencia contra las marranas que dan asco!!! Follow a quien lo haga”. Este es el mensaje que -falsamente escrito por Gibaja- se filtró en las redes sociales. En seguida el joven intentó parar el revuelo que se creó, pero inmediatamente se convirtió en Trending Topic y llegó a superar los 200.000 tweets de gente criticándolo. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/GloriaSofiaF/status/734886166873440256",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73488616687344025")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Otro perfil que fue alimentando el hashtag vino por parte de @AndrasBiersack, una joven que publicó varias fotografías suyas en las que aparece anoréxica y asegura que se siente bella y orgullosa de su cuerpo. Enseguida varios usuarios pidieron que se bloquee la cuenta de esta chica y se denuncie sus comentarios ofensivos. Parece que lo lograron: su perfil ya no existe.  Mirá también: Insólito, ahora las chicas quieren tener cintura A4 Fuente: La Vanguardia

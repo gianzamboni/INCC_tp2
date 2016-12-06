@@ -1,0 +1,138 @@
+
+El desfile de Cristina Kirchner por los juzgados de Tribunales y la imagen de los bolsos de José López dibujó un presente complejo para el peronismo, fuerza política hoy emparentada a la corrupción de los últimos doce años.  Por eso, el próximo año cuando tome envión la campaña electoral para las elecciones de medio término, la corrupción y la marcha de la economía serán, seguramente, los ejes del debate político.  Ante eso, cada fuerza política tiene sus puntales: el Gobierno nacional (y su herramienta política Cambiemos) tendrá a Elisa Carrió como el ícono del combate a la corrupción y como la abanderada de las denuncias sobre los años de gestión kirchnerista. Mirá también: Lilita Carrió, Margarita Stolbizer y el marketing de la honestidad  Sergio Massa, tercero en discordia política entre el macrismo y el peronismo, hoy se muestra con Margarita Stolbizer, quien ha presentado denuncias suculentas contra la ex Presidenta de la Nación y su empresario y amigo Lázaro Báez.
+
+ Ante esto, algunos sectores del peronismo ya exploran la búsqueda de su “pata honesta”, mediante el acuerdo con dirigentes que acreditan honestidad y que se muestren cercanos y sean digeribles para el elector peronista. Allí, aparecen los nombres de Victoria Donda y sus compañeros de centroizquierda, Jorge “Huevo” Ceballos y Humberto Tumini, dirigentes que participaron del kirchnerismo en sus inicios políticos pero que luego se fueron de ese espacio con duras críticas.  La imagen de Donda seduce a intendentes peronistas como al propio Massa. La joven diputada fue, con “Huevo” Ceballos a una recorrida con dos integrantes del llamado “Grupo Esmeralda”, Gabriel Katopodis y Juan Zabaleta. Y Ceballos -quien supo ser funcionario del Ministerio de Desarrollo Social de Kirchner hasta 2008- se reunió en Hurlingham con el intendente Zabaleta ya que el Congreso de su fuerza política “Libres del Sur” se realizará en ese distrito gobernado ahora por el peronismo. 
+
+
+ Además, Vicky Donda fue invitada por Martín Insaurralde (otro miembro del “Esmeralda”) a una recorrida política por Lomas de Zamora, donde hoy gobierna el marido de Jésica Cirio.
+
+
+
+
+
+var act_e74 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_e74 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_e74.setTitle(' Además, Vicky Donda fue invitada por Martín Insaurralde (otro miembro del “Esmeralda”) a una recorrida política por Lomas de Zamora, donde hoy gobierna el marido de Jésica Cirio.');
+act_e74.setSubtitle('Elecciones de 2017'); 
+act_e74.setLinkBack('http://www.clarin.com/politica/peronismo-honesta-Macri-Vidal-Carrio_0_1667833226.html');
+act_e74.setDescription('La corrupción será uno de los temas de la campaña electoral del año próximo. El Gobierno contará con las denuncias de la diputada y Massa, con Stolbizer de aliada. El “Factor Lavandina”.');
+act_e74.addActionLink('VER MÁS', 'http://www.clarin.com/politica/peronismo-honesta-Macri-Vidal-Carrio_0_1667833226.html');
+
+var showShareBarUI_params_e74=
+{ 
+containerID: 'shareQuote_e74',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_e74,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_e74
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_e74);
+  Pero Donda, Ceballos y Tumini no descuidan el vínculo con Massa, a sabiendas de que Stolbizer hoy se muestra más cerca del Frente Renovador que de Cambiemos. Ese vínculo tuvo dos hitos en los últimos dos meses: un asado en la casa del Tigre -con Malena Massa como anfitriona y participante- y una comida en el quincho de Barracas del dirigente del “Movimiento Evita”, Fernando “Chino” Navarro, donde además de Massa estuvieron Felipe Solá y Daniel Arroyo, el especialista del massismo en temas sociales.
+
+Mirá también: En un acto junto a Scioli, Cristina cuestionó los datos de pobreza  Pero estos actores, transformados en la “pata honesta” que seduce al peronismo van a conversar también con Florencio Randazzo, el hombre que reapareció en la vida política tras el ostracismo en el que se recluyó luego de quedar afuera por la pelea presidencial, a la que accedió Daniel Scioli en fórmula con Carlos Zannini.  Donda, Ceballos y Tumini se verán pronto con el ex ministro del Interior, quien ya reflotó sus citas con dirigentes del gremialismo y de los distintos sectores justicialistas y hasta con funcionarios del gobierno de María Eugenia Vidal. 
+
+
+ De todos modos, estos “honestos” no quieren ser el “Factor Lavandina”, el que limpie la imagen de dirigentes ante hechos de corrupción.
+
+
+
+
+
+var act_bd0 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_bd0 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_bd0.setTitle(' De todos modos, estos “honestos” no quieren ser el “Factor Lavandina”, el que limpie la imagen de dirigentes ante hechos de corrupción.');
+act_bd0.setSubtitle('Elecciones de 2017'); 
+act_bd0.setLinkBack('http://www.clarin.com/politica/peronismo-honesta-Macri-Vidal-Carrio_0_1667833226.html');
+act_bd0.setDescription('La corrupción será uno de los temas de la campaña electoral del año próximo. El Gobierno contará con las denuncias de la diputada y Massa, con Stolbizer de aliada. El “Factor Lavandina”.');
+act_bd0.addActionLink('VER MÁS', 'http://www.clarin.com/politica/peronismo-honesta-Macri-Vidal-Carrio_0_1667833226.html');
+
+var showShareBarUI_params_bd0=
+{ 
+containerID: 'shareQuote_bd0',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_bd0,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_bd0
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_bd0);
+ 

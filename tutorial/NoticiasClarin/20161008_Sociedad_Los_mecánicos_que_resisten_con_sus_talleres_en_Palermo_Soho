@@ -1,0 +1,274 @@
+
+¿Si usted tiene que llevar el auto a un mecánico o a hacerle chapa y pintura qué barrio de la Ciudad de Buenos Aires elegiría? Seguramente, entre las últimas opciones estaría Palermo Soho. Allí, los bares, los restoranes, las casas de ropa y de regalos y los lugares de comida gourmet coparon la parada desde hace años. Pero antes de que estos negocios desembarcaran en el barrio, eran los talleres mecánicos o de chapa y pintura los que vivían momentos de esplendor, en medio de conventillos, calles tranquilas y empedradas y vecinos que se conocían de toda la vida.
+
+El inevitable paso del tiempo los dejó en el olvido. Sin embargo hoy, en medio de la comida gourmet, los jóvenes (y no tan jóvenes) que van a divertirse, los extranjeros y los trapitos, todavía hay vecinos que se resisten a que sus talleres se conviertan en restós, panaderías boutique y casas de decoración. Se los puede contar con los dedos de una mano, mezclados y olvidados dentro de la nueva escenografía palermitana, pero los dueños se mantienen firmes, desafiando a la nueva tendencia que de manera irreversible se impone en los últimos tiempos. 
+
+
+En un momento llegó a haber como 180 talleres. Antes eran todos conventillos”
+
+
+
+
+
+var act_226 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_226 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_226.setTitle('En un momento llegó a haber como 180 talleres. Antes eran todos conventillos”');
+act_226.setSubtitle('Sobrevivientes'); 
+act_226.setLinkBack('http://www.clarin.com/sociedad/mecanicos-resisten-talleres-Palermo-Soho_0_1664833589.html');
+act_226.setDescription('En los `70 copaban el barrio. Hoy, unos pocos conviven con locales de ropa, restós y hoteles boutique. Y ni piensan en irse.  ');
+act_226.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/mecanicos-resisten-talleres-Palermo-Soho_0_1664833589.html');
+
+var showShareBarUI_params_226=
+{ 
+containerID: 'shareQuote_226',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_226,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_226
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_226);
+ “En un momento llegó a haber como 180 talleres”, dice Daniel Sinopoli desde la puerta de su local, en Nicaragua 4643. Y recuerda al barrio de su niñez: “Mis tios empezaron a trabajar en este taller con mi viejo, y a final me quedé yo. Hace 40 años que estoy acá. Antes eran todos conventillos. En la esquina de Nicaragua y Armenia, había un gasómetro y nadie se animaba a pasar por ahí. Sólo los borrachos, porque había olor a gas y el miedo a que explotara era mucho”. Mirá también: Palermo Soho es heterosexual En la década del setenta, el gasómetro fue desmantelado y en el lugar se construyó la actual Plaza Armenia. Aunque ofertas para que vendan sus propiedades no sobran, Sinopoli y Trolla aseguran que no van a irse. “Cada tanto me cargan y me dicen: '¿Cuando cerrás y te ponés un restoran?' Pero no, estoy bien acá, este es mi laburo”, cuenta Sinopoli. 
+
+
+Cada tanto me cargan y me dicen: `¿Cuando cerrás y te ponés un restoran?` Pero no, estoy bien acá, este es mi laburo”
+
+
+
+
+
+var act_64d = new gigya.socialize.UserAction();
+
+var emailBodyCustom_64d = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_64d.setTitle('Cada tanto me cargan y me dicen: `¿Cuando cerrás y te ponés un restoran?` Pero no, estoy bien acá, este es mi laburo”');
+act_64d.setSubtitle('Sobrevivientes'); 
+act_64d.setLinkBack('http://www.clarin.com/sociedad/mecanicos-resisten-talleres-Palermo-Soho_0_1664833589.html');
+act_64d.setDescription('En los `70 copaban el barrio. Hoy, unos pocos conviven con locales de ropa, restós y hoteles boutique. Y ni piensan en irse.  ');
+act_64d.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/mecanicos-resisten-talleres-Palermo-Soho_0_1664833589.html');
+
+var showShareBarUI_params_64d=
+{ 
+containerID: 'shareQuote_64d',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_64d,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_64d
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_64d);
+
+
+“Hay un sentido de pertenencia con el barrio, si uno se va pierde la identidad”, agrega Trolla, quien asegura que en más de una ocasión se cruzó caminando por la puerta de su taller al mismísimo Fangio. “Vivía a unas cuadras de acá, con sus sobrinas. Una vez lo paré y le pedí que me firmara un ejemplar de la revista El Gráfico”, dice, orgulloso. Casualidad o no, por algo el múltiple campeón mundial de automovilismo eligió un barrio de mecánicos para vivir. Sinopoli y Trolla no son los únicos "sobrevivientes". Mirá también: BA PASTE UP: paredes que hablan en Palermo Soho En Armenia casi El Salvador, el taller de Carlos se mantiene estoico rodeado de casas de bijouterie, tiendas de ropa y bares. “Yo estoy desde 1978. ¿Sabés las veces que vinieron a rogarme que les subalquilara el local? Ahora ya vienen menos, hay más negocios disponibles. Hasta hace unos años hacíamos un asado todos los viernes, en la puerta. Ahora tenés que tener mucho cuidado, que el auto no tire humo, que no haya olor a nafta...”, cuenta.
+
+Otro problema común para los talleristas es el espacio para estacionar. Cuentan: “Tenemos que usar los nuestros como 'escudos' para que no se te suban arriba de la vereda o te dejen el coche estacionado en la puerta. A veces llegás temprano y no podés entrar. Cuando viene el dueño te pide mil disculpas y te dice: 'el trapito me dejó'. ¿Y quién es el trapito? Lo increíble es que te quieren dar unos mangos a vos...”. 
+
+
+Hasta hace unos años hacíamos un asado todos los viernes, en la puerta. Ahora tenés que tener mucho cuidado, que el auto no tire humo, que no haya olor a nafta...”
+
+
+
+
+
+var act_87d = new gigya.socialize.UserAction();
+
+var emailBodyCustom_87d = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_87d.setTitle('Hasta hace unos años hacíamos un asado todos los viernes, en la puerta. Ahora tenés que tener mucho cuidado, que el auto no tire humo, que no haya olor a nafta...”');
+act_87d.setSubtitle('Sobrevivientes'); 
+act_87d.setLinkBack('http://www.clarin.com/sociedad/mecanicos-resisten-talleres-Palermo-Soho_0_1664833589.html');
+act_87d.setDescription('En los `70 copaban el barrio. Hoy, unos pocos conviven con locales de ropa, restós y hoteles boutique. Y ni piensan en irse.  ');
+act_87d.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/mecanicos-resisten-talleres-Palermo-Soho_0_1664833589.html');
+
+var showShareBarUI_params_87d=
+{ 
+containerID: 'shareQuote_87d',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_87d,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_87d
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_87d);
+ A pocas cuadras, en Thames 1477, está Palermo Car: Carlos y Gabriel, hermanos e hijos de Coco, el fundador, no dudan en seguir con el taller que comenzó el papá: “Cada vez hay menos talleres de chapa y pintura, es un problema que va más allá del barrio. Acá todo cambió mucho. A nosotros siempre nos proponen si no queremos vender o alquilar, por ejemplo, para convertir el lugar en un estacionamiento. Pero este es nuestro oficio, lo consideramos algo artesanal, y estamos orgullosos de estar acá luego de tantos años”. 
+
+
+Tenemos varias generaciones de clientes, vinieron los abuelos y ahora llegan los hijos y los nietos. Acá tenemos a la clientela y a muchos empleados que viven de este trabajo".
+
+
+
+
+
+var act_407 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_407 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_407.setTitle('Tenemos varias generaciones de clientes, vinieron los abuelos y ahora llegan los hijos y los nietos. Acá tenemos a la clientela y a muchos empleados que viven de este trabajo".');
+act_407.setSubtitle('Sobrevivientes'); 
+act_407.setLinkBack('http://www.clarin.com/sociedad/mecanicos-resisten-talleres-Palermo-Soho_0_1664833589.html');
+act_407.setDescription('En los `70 copaban el barrio. Hoy, unos pocos conviven con locales de ropa, restós y hoteles boutique. Y ni piensan en irse.  ');
+act_407.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/mecanicos-resisten-talleres-Palermo-Soho_0_1664833589.html');
+
+var showShareBarUI_params_407=
+{ 
+containerID: 'shareQuote_407',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_407,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_407
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_407);
+ A la vuelta, en Serrano 1343, el Lubricentro Serrano está por cumplir 40 años. “Tenemos varias generaciones de clientes, vinieron los abuelos y ahora llegan los hijos y los nietos. Acá tenemos a la clientela y a muchos empleados que viven de este trabajo. Todos nos conocen. No pensamos en cerrar o mudarnos”, dice Martín, que junto con su hermano Jorge y su hermana Perla están a cargo del negocio que heredaron de su tío.
+
+Todos ellos le dan su propio “glamour” al barrio: las manos están “pintadas” con grasa, en sus locales hay almanaques con mujeres exhuberantes marcando los meses del año y la música tecno o el rock no pueden competir contra los tangos de Pugliese o Julio Sosa. Mirá también: Típica moza de Palermo Soho No son muchos los talleres que todavía quedan en el corazón de Palermo Soho. En los últimos años, porque sus dueños fallecieron y los hijos decidieron vender o cambiar de rubro, la mayoría cerró. Todavía pueden verse, en algunos carteles despintados, inscripciones con palabras sueltas como “carburación” o “chapa y pintura”. Mientras tanto, los que siguen adelante afirman orgullosos que cuentan con trayectoria, confianza y experiencia como para subsistir con la clientela de toda la vida. Incluso, con los nuevos que se acerquen cuando descubran que Palermo Soho no es sólo un barrio fashion y de moda.  

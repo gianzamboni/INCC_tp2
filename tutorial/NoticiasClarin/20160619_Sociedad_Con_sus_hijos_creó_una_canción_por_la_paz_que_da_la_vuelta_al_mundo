@@ -1,0 +1,22 @@
+
+Cuentan que cuando en la escuela le preguntaron a John Lennon qué quería ser cuando fuera grande, respondió “feliz”. Y a todos sorprendió que no eligiera una profesión. Décadas más tarde, el ex Beatle le daría vida a “Imagine”, que se transformaría en una suerte de himno por la paz. Y justamente esa línea marcada a fuego se mueve Jorge Otamendi (32), un papá que compuso junto a sus hijos Helena (10) y Matías (5) “Un mensaje al mundo”, una canción que está por alcanzar el millón de reproducciones en el mundo en la web, algo que sería un regalo inmenso en su día para este papá de Tigre que está obsesionado con un planeta mejor. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+“Un mensaje al mundo” surgió en diciembre último, cuando Geraldine Neuman (32) –la modelo, esposa de Jorge y madre de los chicos– estaba de viaje en Córdoba y el vecino aficionado a la música les propuso a sus hijos componer una canción. “Siempre cantábamos temas de películas, pero tuve ganas de armar algo diferente con ellos. Fue entonces cuando poco a poco Helena y Matías comenzaron a tirar palabras con la temática de buscar un mundo mejor”, cuenta Jorge, fotógrafo de naturaleza y dueño de una productora audiovisual. Y se mete Matías: “Queríamos que las personas se dieran cuenta de lo que hacen mal y que las cosas tienen que cambiar”. Mirá también: Padres de hoy, más comprometidos y sensibles Tres horas les demandó pulir la letra del tema. Y nadie imaginó que en tan poco tiempo, recorriera a través de las redes sociales países como Islandia, Noruega, Israel, España, Etiopía, China, Alemania y Estados Unidos. Además, lo tradujeron al alemán, francés y hebreo. Fueron invitados a distintos eventos y, según cuenta, “unos 30 colegios pidieron la canción para cantarla en los actos”. “Que digan que el cambio está en los chicos me parece un error enorme. Está en nosotros los grandes, para que se lo podamos transmitir a ellos. Les tenemos que enseñar a hacer lo que ellos quieran y a ser felices, porque es ahí donde esta la vida”, resume Otamendi.
+
+​La música siempre formó parte de la rutina de la familia. Cuando Geraldine estaba embarazada, el piano no paraba de sonar cerca de su panza, y la reacción “desde adentro” no se hacía esperar. Jorge había dado sus primeros pasos con la guitarra a los 16 años, y luego siguió experimentando. Nunca se había animado a cantar profesionalmente hasta que su pareja la convenció y comenzó su banda. Mirá también: Los diez países más pacíficos en un mundo cada vez más violento Amantes de la naturaleza y del cuidado del medio ambiente, la familia cuenta que adoran la tranquilidad de su barrio, en especial Jorge, que detesta la ciudad. Disfrutan del jardín de la casa, de los limoneros y de la pequeña huerta con albahaca, tomates y frutillas. Además, salir a andar en bicicleta, porque el entorno es hermoso. Y adentro de casa, la cocina también se convierte en un espacio para compartir recetas.
+
+“Cada Día del Padre reinan los mimos. Los chicos le llevan el desayuno en la cama, dibujan cartelitos y le dan regalos”, señala Geraldine. La mayor de los dos hermanos, tímida, cuenta que lo que además de cantar y tocar instrumentos con papá, le encantan “los abrazos muy fuertes”. Matías, más charlatán y juguetón, asiente. Todos esperan el domingo para saludar al rey de la casa. Por Daniela Hamer  (Clarín Zonales)

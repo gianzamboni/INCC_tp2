@@ -1,0 +1,98 @@
+
+La Corte Suprema de Justicia de la Nación anuló el aumento en las tarifas de gas para usuarios residenciales y estableció que para la fijación de nuevos valores son obligatorias las audiencias públicas, en la reunión que mantuvieron hoy sus integrantes en el Palacio de Tribunales. Tras el fallo conocido esta mañana, dirigentes opositores se manifestaron conformes con la resolución del máximo tribunal y criticaron al Gobierno nacional. El senador peronista Juan Abal Medina escribió en Twitter que "teníamos razón: algo que se hace mal solo puede tener un mal resultado". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/juanabalmedina/status/766285707732217856",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76628570773221785")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Por su parte, el diputado provincial del Movimiento Evita, Fernando "Chino" Navarro afirmó: "La Corte Suprema frenó el Tarifazo!!! Derrota para el gobierno de Mauricio Macri y triunfo de la movilización y lucha del Pueblo Argentino!!" 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/chino_navarro/status/766284312153059328",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76628431215305932")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ " Ahora el desafío lo tenemos la oposición. El Congreso, donde tenemos mayoría, debe resolver la crisis de las tarifas", indicó Navarro. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/chino_navarro/status/766287400846893057",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76628740084689305")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ El diputado nacional por el Frente Renovador Sergio Massa afirmó, resaltando el fallo de la Corte, que "no se puede aumentar las tarifas a un precio irracional". Por su parte, la diputada nacional de La Cámpora, Mayra Mendoza, aseveró que "el fallo de la Corte era lo que esperaba en cuanto a cumplir la Constitución nacional", indicó por  @futurockOk También se expresaron por Twitter el senador Nito Artaza, el intendente Fernando Gray y el diputado Nicolás del Caño. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/fernandogray/status/766295185470918656",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76629518547091865")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/jjohnnyglamour/status/766289990947049473",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76628999094704947")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/rougecaro/status/766289975608500226",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76628997560850022")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

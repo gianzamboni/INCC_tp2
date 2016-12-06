@@ -1,0 +1,20 @@
+
+Un nuevo mapa interactivo muestra el riesgo ambiental de dengue, durante 2016, para toda la Argentina. Fue creado por la Comisión Nacional de Actividades Espaciales (CONAE), actualmente bajo la órbita del Ministerio de Ciencia, Tecnología e Innovación Productiva de la Nación. Leé también: Confirman 23 casos autóctonos de dengue en la Provincia Está a disposición de la sociedad a través de este link. Desde allí el usuario tiene acceso a una pantalla con un visualizador de mapas y una lista de capas ubicada a la izquierda, para desplegar distintas opciones de información. Hay que hacer clic en "Dengue: Riesgo Ambiental 2016". Se pueden identificar las zonas de alto, medio y bajo riesgo de aparición de la enfermedad.
+
+El mapa es el resultado de la combinación de imágenes satelitales que provee la CONAE y de datos específicos recolectados en campo por el Ministerio de Salud. A través del desarrollo conjunto de modelos estadísticos, el uso de herramientas SIG (Sistema de Información Geográfica) y de geoservicios, estos datos iniciales se transforman en un mapa operativo. Espera ser útil como herramienta de control y vigilancia en las zonas afectadas. Leé también: Se registraron en La Plata dos casos de dengue autóctono "Los satélites aportan desde el espacio información ambiental que, combinada con datos de campo, ofrece una herramienta para que los organismos locales vinculados a la salud puedan evaluar el riesgo de aparición y dispersión de la enfermedad de dengue, mejorar la identificación potencial o real de la presencia de brotes, dar alerta temprana a la población, y tomar las medidas sanitarias necesarias", explicó la CONAE en un comunicado. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/Min_Ciencia/status/697555832716677120",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_69755583271667712")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

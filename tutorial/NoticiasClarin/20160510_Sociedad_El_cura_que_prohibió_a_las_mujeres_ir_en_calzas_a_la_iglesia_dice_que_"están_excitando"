@@ -1,0 +1,20 @@
+
+ El párroco Carlos Scarlata prohibió a las mujeres de cualquier edad, incluso nenas, asistir a la iglesia con jeans o calzas. Pertenece a la parroquia San Isidro Labrador, de la localidad de Lima, en el partido bonaerense de Zárate. El tema generó polémica, en especial porque circuló que el padre considera cierta vestimenta femenina como "una provocación". En la puerta de la iglesia, un periodista de TN le preguntó sobre las razones que lo llevaron a tomar esa medida. "Si tiene una calza, una mujer está mal vestida. ¿Vos no sos hombre? ¿No sentís nada? Los hombres que están atrás de una calza... empiezan a mirar para todos lados, para el techo. Porque insinúa, porque está excitando", le respondió Scarlata.   
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Estoy diciendo que una persona tiene que estar bien vestida. En la calle, en todos lados. Si una mujer sabe que está mal vestida, ¿con qué intención se pone eso? Una persona sabe si está mal vestida o bien vestida?", agregó Scarlata. También dejó en evidencia su enojo hacia los periodistas que lo entrevistaban. "Viniste a hacerme una nota. Me estás haciendo pelota", dijo. El medio local Zárate Alerta difundió la imagen de un afiche colocado dentro de la iglesia que especifica la "ropa no permitida" en el templo: minifaldas, transparencias, musculosas, "puperas", shorts, pantalones ajustados e incluso ojotas. El mismo cartel aclara a modo de orientación "la vestimenta cristiana femenina": "ropa suelta, sin escote, con mangas y la falda debajo de la rodilla". Un letrero parecido establece que los varones tampoco pueden entrar con gorros, ojotas, musculosas o pantalones cortos.
+
+ Según Zárate Alerta, el cura, entre sus argumentos habría expresado: “Debajo de la sotana hay un hombre”. 

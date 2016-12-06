@@ -1,0 +1,25 @@
+
+Hay una buena noticia para los viajeros amantes de la adrenalina. El icónico U.S. Bank Tower, el edificio más alto de Los Ángeles (Estados Unidos), inaugura mañana un tobogán de vidrio ubicado a 300 metros de altura. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Mirá la Fotogalería en HD. 
+
+ La atracción, llamada Skyslide, permite deslizarse desde el piso 70 hasta el 69 de esta construcción, en solo cuatro segundos. Es un tobogán de 14 metros de largo y 1,20 metros de diámetro, ubicado en la parte exterior de la torre. El vidrio tiene apenas 3,2 centímetros de espesor, pero la empresa constructora asegura que puede resistir terremotos y huracanes. Mirá también: Puro vértigo: una pareja china juega en el borde de un rascacielos
+
+El tobogán fue construido en vidrio transparente. Por eso, quienes se deslicen por él tendrán una vista panorámica de la ciudad, las montañas y el océano. El recorrido finaliza en una terraza al aire libre, donde se puede observar Los Ángeles a 360 grados.
+
+ Se promociona como una propuesta "para toda la familia y perfecta para todas las edades". La entrada se compra online y por teléfono a un precio de 27 dólares, que incluye el uso del tobogán y el acceso a la terraza. Mirá también: Video: una montaña rusa récord, en primera persona
+

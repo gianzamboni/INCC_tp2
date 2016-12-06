@@ -1,0 +1,18 @@
+
+La ex ministra de Desarrollo Social y actual gobernadora de Santa Cruz, Alicia Kirchner, fue involucrada en una denuncia por el supuesto desvío de $ 22 millones de esa cartera a la Universidad Tecnológica Nacional-Regional La Plata, a través de una consultoría para el Plan Argentina Trabaja. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Durante su gestión en Desarrollo Social, se firmaron 9 convenios con la fundación de la facultad de La Plata de la UTN para contratar ingenieros que monitorearan el Plan Argentina Trabaja, pero una buena parte de los profesionales que figuran en las listas de cobro por ese servicio nunca participaron de esa auditoría. Es más, varios de éstos ingenieros, consultados por Clarín, contaron que resultaron víctimas de una sustracción de identidad para poder cobrar los cheques. Sus nombres fueron usados para figurar como supuestos consultores de Desarrollo Social y los cheques eran cobrados por terceros en una sucursal el Banco Nación de La Plata. Uno de ellos, Ernesto Fudim, es un médico jubilado del PAMI que jamás pisó la UTN y denunció a este diario que le habían robado la identidad para cobrar plata por servicios que nunca dio. La mayoría de los nombres de los “consultores” fueron copiados del padrón de graduados de la facultad de Santa Fe de la UTN, contó a este diario un testigo de identidad reservada (Ver recuadro). Poder Ciudadano presentará mañana una denuncia penal contra Alicia Kirchner y otros supuestos autores de la maniobra (Ver recuadro). Este modus operandi de desvío de plata del Estado, a través de consultorías con universidades para financiar actividades de agrupaciones K o bolsillos de los “cerebros” de la operación se habría dado en otras regionales de la UTN. El Plan Argentina Trabaja fue lanzado en agosto de 2009 e implica el cobro de un ingreso mensual para desocupados por tareas en obras y mantenimiento del espacio público. Los beneficiarios formaron cooperativas y fueron contratados por (municipios, provincias o el INAES). Para controlar este plan, Desarrollo Social firmó convenios con el decano de la facultad La Plata de la UTN, Carlos Fantini. Consultado por Clarín, un vocero de Alicia Kirchner no hizo comentarios al respecto. A su vez, Fantini no contestó los mails y llamadas de este diario. Por su parte, un vocero de la ministra de Desarrollo Social, Carolina Stanley, se negó a dar información a este diario porque los expedientes “están en revisión”. El testigo de identidad reservada le dio a Clarín dos órdenes de pago del 2013 de esos convenios. Una por $ 3.991.800 (Ver facsímil) y otra por 3.115.900 para pagar, a través de la fundación de la facultad La Plata de la UTN, a 248 y 244 profesionales, respectivamente. Esta fundación la preside Carlos Alberto López, hijo de un conocido militante K de La Plata. Según el testigo, el día de pago iban un grupo de “becarios” K a endosar los cheques y cobrarlos. Afuera, los esperaba una camioneta para llevar el efectivo en valijas. Estas dos órdenes de pago están firmadas por el vicedecano, Fernando Zavala. La mayoría de los “becarios” cuyos nombres y apellidos están en la orden escritos todos con mayúscula son del padrón de graduados de Santa Fe. En cambio, la minoría que tienen sus nombres escritos en minúscula estarían relacionados con las autoridades de la fundación. 

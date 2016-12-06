@@ -1,0 +1,68 @@
+
+ Este martes, detuvieron a Edgardo Paolucci, exfuncionario de la Aduana vinculado a Ricardo Echegaray pero que mantuvo su cargo en la actual gestión de Juan José Gómez Centurión. 
+
+
+Luego de un allanamiento en el country Abril, donde Paolucci tiene su casa, el ex director de Puertos de la Aduana fue detenido en una causa por evasión impositiva ligada al contrabando.
+
+
+
+
+
+var act_e72 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_e72 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_e72.setTitle('Luego de un allanamiento en el country Abril, donde Paolucci tiene su casa, el ex director de Puertos de la Aduana fue detenido en una causa&nbsp;por evasión impositiva ligada al contrabando.');
+act_e72.setSubtitle(' '); 
+act_e72.setLinkBack('http://www.clarin.com/politica/Detienen-director-Aduana-causa-contrabando_0_1675032558.html');
+act_e72.setDescription('Edgardo Paolucci había sido suspendido de su cargo por el caso de supuesta connivencia con contrabandistas. Carrió también lo había denunciado. Seguía en la Aduana con Gómez Centurión.');
+act_e72.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Detienen-director-Aduana-causa-contrabando_0_1675032558.html');
+
+var showShareBarUI_params_e72=
+{ 
+containerID: 'shareQuote_e72',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_e72,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_e72
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_e72);
+ Elisa Carrió también lo  lo había denunciado por lavado de dinero. Hacia fines de agosto, el titular de la AFIP había suspendido a cuatro personas de la Aduana, por sospechas de supuesta connivencia con contrabandistas por el que fue separado el titular del organismo,  Juan José Gómez Centurión, quien más tarde recuperó su cargo. El titular de la AFIP, Alberto Abad, decidió desplazar a esos funcionarios -entre los que estaba Paolucci, mientras se termine de aclarar su situación en la Justicia. Pero hoy, la Justicia detuvo al hombre que ya prestaba servicios en la Aduana desde los tiempos de Ricardo Echegaray como hombre fuerte de la AFIP kirchnerista El abogado Edgardo Paolucci era director de fiscalización y operativa aduanera. Según contó Clarín, es un viejo conocido en ese organismo, donde fue director de Legales. Hasta diciembre, se disputaba el poder en el Puerto con Eduardo Bernardi, a quien la Justicia le secuestró 500 mil dólares en su casa durante un allanamiento reciente. Ambos eran subordinados del ex subdirector de Operaciones Aduaneras Metropolitanas Daniel Santana, de reconocida amistad con el ex espía Jaime Stiuso. Así lo declaró ante la Justicia. La voz de Paolucci aparece en los nuevos audios. Habla con Oldemar "Cuqui" Barreiro Laborda, un oscuro personaje involucrado en la denuncia de corrupción. Según Gomez Centurión, era su “informante. Dentro de la Aduana, incluso voces que respaldan su gestión, sostienen que tenía mayor injerencia en las decisiones. Mirá también: Suspendieron a cuatro personas de la Aduana y crece el escándalo  En los audios también aparece Gustavo Mariezcurrena, alias “El Facha”, el segundo de los desplazados. Se trata de un abogado que escaló posiciones en el “círculo rojo” del aeropuerto de Ezeiza, uno de los lugares donde Gomez Centurión intervino con más fuerza. En la Aduana también lo conocen como “El jugador”, porque jugó en el club Huracán.

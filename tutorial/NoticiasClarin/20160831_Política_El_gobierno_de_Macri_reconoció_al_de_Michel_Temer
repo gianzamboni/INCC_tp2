@@ -1,0 +1,68 @@
+
+La administración de Mauricio Macri no se despegó ni una coma de la retórica que adoptó desde un primer momento para posicionarse sobre la crisis institucional en Brasil, reconociendo al gobierno de Michel Temer y por lo tanto la destitución de Dilma Rousseff.   Macri se encontraba ayer en Qatar camino a China con su mujer, con su vocero Iván Pavlovsky y su secretario de Asuntos Estratégicos, Fulvio Pompeo. Ni una palabra salió del Presidente y su entorno. ”Ante los sucesos registrados el día de hoy en Brasil, el Gobierno argentino manifiesta que respeta el proceso institucional verificado en el hermano país y reafirma su voluntad de continuar por el camino de una real y efectiva integración en el marco del absoluto respeto por los derechos humanos, las instituciones democráticas y el derecho internacional” señaló un comunicado de la Cancillería, que agregó: “Argentina renueva su deseo de continuar trabajando con el Gobierno de Brasil para la resolución de los temas de mutuo interés de las agendas bilateral, regional y multilateral, así como para el fortalecimiento del Mercosur”. 
+
+
+Macri y Temer se verán este fin semana en China en la cumbre del G20
+
+
+
+
+
+var act_26f = new gigya.socialize.UserAction();
+
+var emailBodyCustom_26f = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_26f.setTitle('Macri y Temer se verán este fin semana en China en la cumbre del G20');
+act_26f.setSubtitle('Comunicado de la Cancillería'); 
+act_26f.setLinkBack('http://www.clarin.com/politica/gobierno-Macri-reconocio-Michel-Temer_0_1642035950.html');
+act_26f.setDescription('La Argentina expresó su deseo "continuar trabajando con el Gobierno de Brasil" en temas de interés bilateral y regional.');
+act_26f.addActionLink('VER MÁS', 'http://www.clarin.com/politica/gobierno-Macri-reconocio-Michel-Temer_0_1642035950.html');
+
+var showShareBarUI_params_26f=
+{ 
+containerID: 'shareQuote_26f',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_26f,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_26f
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_26f);
+  Más temprano, en su viaje a China para unirse a la delegación presidencial, la ministra Susana Malcorra había entendido que la decisión en el Senado brasileño de destituir a Dilma pero dejarle sus derechos de presentarse a cargos públicos contenía un grado de negociación. No había que apegarse a un lado u otro de la grieta brasileña y apostar por ensalzar la "institucionalidad" de los hechos más allá de lo controvertidos que son el juicio político a Dilma y sus acusadores. Mirá también: Temer: "Prometo mantener, defender y cumplir la Constitución" Cuando Cristina Kirchner y el Frente para la Victoria hablan en la Argentina de “golpe institucional” no hablan sino de otra cosa que de ellos mismos. Hablan de una "persecución judicial" en la Argentina como la que sufren Dilma y su mentor, Luis Inacio Lula da Silva. También lo hace el eje bolivariano protegiendo al venezolano Nicolás Maduro en una región donde en Argentina y Brasil, los dos socios más grandes del Mercosur, comenzó el giro político de la región. Con Temer en la presidencia efectiva de Brasil, el Mercosur también comenzará otro capítulo. En ello entran las negociaciones para un acuerdo de libre comercio con la Unión Europea. Los vecinos estaban en un impasse con el juicio político. Macri fue recibido por Temer cuando viajó a la inauguración de los Juegos Olímpicos. Ahora se espera al brasileño en Buenos Aires antes de fin de año. Por cierto ambos ya dejaron claro desde el principio la dureza que mostraron para con la Venezuela de Maduro.  

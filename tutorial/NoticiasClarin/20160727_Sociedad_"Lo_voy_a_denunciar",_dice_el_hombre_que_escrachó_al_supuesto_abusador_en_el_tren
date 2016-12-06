@@ -1,0 +1,34 @@
+
+La historia del supuesto abusador del ferrocarril Roca que fue escrachado en las redes sociales, continúa generando polémica. Algunos se muestran a favor del escrachado, quien hoy publicó un video en el perfil de Facebook de su esposa en donde cuenta que en realidad fue víctima de un robo. Mientras otros aseguran que el hombre miente y que “toca” mujeres desde hace tiempo. El que también habló ahora es quien filmó el video en el tren: “Hablé con dos chicas que fueron toqueteadas por él y lo vamos a denunciar”.  Durante todo el día de ayer, las redes sociales se hicieron eco de un video filmado en el ferrocarril Roca, donde un grupo de personas increpa a un hombre, acusándolo de abusador y de haberle apoyado el pene a una mujer. En el video sólo se observa en primer plano al hombre acusado diciendo que no hizo nada y se lo ve cuando baja del tren, mientras uno de los pasajeros lo insulta y le advierte: “Vas a quedar escrachado”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Ese pasajero se llama David y habló con Clarin. Contó que él vió como Leonardo Zaracosa -así se llama el presunto acosador- le apoyaba su miembro a una chica que estaba justo en frente suyo: “No lo vi yo sólo, había un guarda y también lo observó. Fue él quien le dijo que se bajara en la próxima estación porque sino lo iban a linchar”, contó y dijo que luego de que se difundieran las imágenes, dos chicas se comunicaron le escribieron para contarle que también habían sido víctimas de ese misma persona: “Hoy a la tarde vamos a hacer la denuncia en la Policía”. David relata que se subieron juntos en la estación Banfield, pero que fue a la altura de Lanús - cuando el tren se descomprimió- que vio a Zaracosa como le apoyaba su pene a una chica mientras intentaba taparse con una campera: “Ahí lo empujé y le dije '¿Qué estás haciendo?'. Se puso pálido, se tapó, agarré el celular y empecé a filmarlo, por eso se llega a ver el momento en el que baja”. Leé también: "Lo escracharon por acosar a una chica en el tren y dice que la víctima fue él"  Después de que se viralizaran las imágenes, el acusado del supuesto abuso filmó un video casero donde da su versión de los hechos, dijo que en realidad él fue la víctima de un robo: “Quiero decirles que fui víctima de una persona que intentó robarme y que cuando me di cuenta me acusó de que yo estaba con el miembro afuera. Les quiero pedir a quienes estuvieron en el tren que diga lo que vieron, que me ayude a denunciar al tipo que me filmó”, se defendió. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ Por su parte David ahora explica que quiere encontrar al guarda que estaba en ese momento y que fue uno de los testigos de lo ocurrido: “Voy a ir a Constitución para ver si puedo encontrarlo y hablar con él. Yo subí el video para alertar a mis contactos, pero nunca imaginé que se iba a viralizar así. Al parecer es un hombre que hace esto desde hace tiempo”.

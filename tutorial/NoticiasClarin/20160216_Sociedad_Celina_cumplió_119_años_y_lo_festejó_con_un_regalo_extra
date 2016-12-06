@@ -1,0 +1,129 @@
+
+Ayer, en Merlo, un pasacalle anunciaba un hecho inédito: “Abu, en este día tan especial, queremos que te sientas una princesa: felices 119 años”. Adentro, unos pocos globos rosas, veinte familiares de todas las edades y tres tortas de colores eran la escenografía que rodeaba el hecho histórico: Celina Del Carmen Olea festejaba su cumpleaños.  La tatarabuela se levantó entre lágrimas porque “tuvo un presentimiento de que era su cumple”, explica Gladys, la única de los 12 hijos que Celina adoptó. No hace falta adivinar lo que piensa Celina porque, cuando quiere, ella habla. Su fiel oyente es Alberto, su hijo menor. “Toda la vida estuve con ella”. Y con 62 años da testimonio de que nunca la escuchó quejarse. Tampoco la vio tomar remedios. Celina toma sopa todos los días, habla cuando tiene ganas y siempre duerme la siesta. Pero ayer, el día de su cumpleaños, cambió de rutina: con ayuda de sus nietos sopló las tres velas que forman su edad. El cansancio y el calor eran el combo que mantuvieron callada a la abuelita, que ya no camina. Pero Alberto sabía que cuando todos partieran y él la acostar en la cama, ella iba a empezar a hablar. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160215_0027 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160215_0027_9ff";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Celina cumple 119 años.',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/15/VID/CLAVID20160215_0027/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Celina-cumple-anos_CLAVID20160215_0027_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160215_0027',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/15/VID/CLAVID20160215_0027/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Celina-cumple-anos_3_1523277684.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160215_0027.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160215_0027){
+            //getBBTStats_CLAVID20160215_0027();
+            varModIdReprod_CLAVID20160215_0027 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+El 13 de enero Clarín contó la historia de Celina, que vive al fondo de un pasillo de Merlo. Su caso generó muchas repercusiones. Tal vez la mejor fue un regalo para Celina. Antes de cantar el “Feliz cumpleaños”, Gladys firmó el recibo por un cheque de 30 mil pesos. A modo de subsidio anual, el vicegobernador de la Provincia de Buenos Aires, Daniel Salvador, se acercó a la casa y le entregó el regalo.
+
+Todavía no saben qué uso le van a dar, pero las necesidades son varias porque hace años que Alberto y Celina viven a costa de una pensión de 2.700 pesos. Pero ya no más. A partir de marzo, Celina cobrará su jubilación. “Fue todo de casualidad”, recuerda Gladys. A los 114 años operaron a Celina por primera vez en su vida de unos quistes en la cara. El cirujano plástico quiso ayudarla y le avisó a un amigo, Daniel Cardozo, quien llevó la historia de Celina al Gobierno. Así lograron que el Ministerio de Desarrollo Social le hiciera una nueva instalación eléctrica y en breve comience una reforma de la casa que habita hace 50 años.  Mientras que Celina esperaba que las cosas mejoraran, seguía cumpliendo años. Quizás la responsable de su larga vida sea Irma, su hija de 83 años, que le pide a Dios que se la conserve “viva y saludable hasta los 120”.  Todos los hijos agradecen, pero no sólo por la vida de Celina, sino por poder estar presentes. Cuando se les pregunta a los más chicos, todos levantan la mano para decir que quieren llegar a la edad de la “nona”. El misterio –para muchas abuelas, tal vez envidia– es cómo llegar como ella. Daniel ahora quiere que el “record Guinness” reconozca a Celina como la mujer más longeva del mundo. El camino formal es muy costoso. Por eso, ahora intentan una alternativa: lograr que el Grupo de Investigación Gerontológico de Estados Unidos compruebe la edad de la cumpleañera a través de documentación. Las bases generadas por este grupo son consultadas por Guinness. Por eso, si figurara allí, llegaría al ránking mundial. Pero, por ahora, Daniel y los parientes de Celina estan en busca de su libreta cívica. Los invitados al cumple no son ni un cuarto de la gran familia que Celina y su marido empezaron en Tucumán. Entre ellos está Tomás que con 10 años acaba de conocer a su tatarabuela. Lejos de Merlo y trabajando está un bisnieto de Celina que ayer también cumplió años, pero 89 menos.  Sobre una de las paredes cuelgan placas. “Placas, nada mas”, dice Gladys al recordar los varios reconocimientos que le hicieron a su madre. Pero hoy esta contenta porque además tendrán una casa renovada y lo necesario para cuidar a la posible mujer con más vida del planeta. 

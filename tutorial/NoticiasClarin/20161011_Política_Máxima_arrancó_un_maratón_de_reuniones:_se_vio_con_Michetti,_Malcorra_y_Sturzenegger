@@ -1,0 +1,24 @@
+
+Con agenda recargada. Así arrancó la visita de Máxima Zorreguieta en el país. Antes de su disertación esta tarde en la Universidad Católica Argentina (UCA), la reina de Holanda se reunía esta mañana con la canciller Susana Malcorra. También participó, junto al titular del Banco Central, Federico Sturzenegger, de una mesa sobre los "Desafíos para fortalecer y expandir la inclusión financiera en Argentina”. Luego, mantuvo una cordial reunión con la vicepresidenta Gabriela Michetti, en un encuentro a solas en su primer día de actividad en Argentina. Mañana será su encuentro con el presidente Mauricio Macri, probablemente en la residencia de Olivos. Máxima llegó ayer al país y mantuvo una cena privada. Aunque tendrá algunas actividades con su familia argentina, participará además del coloquio de IDEA, en la ciudad de Mar del Plata.
+
+La Reina llegó al país en su primera visita oficial desde que fue coronada en 2013 y durante su estancia de dos días, estará en calidad de "Asesora Especial del Secretario de las Naciones Unidas". Su disertación en la UCA será hoy a las 17.45 el Auditorio San Agustín ante los estudiantes de la universidad de la que egresó como economista en 1995. Hablará sobre inclusión financiera para el desarrollo, en un evento "exclusivo para alumnos y docentes" de la casa de estudios, según consta en la página web de la institución.
+
+Hoy más temprano abordó un tema similar, en una mesa redonda “Desafíos para fortalecer y expandir la inclusión financiera en Argentina”, que moderó Sturznegger y de la que participaron también el titular del Banco Nación, Carlos Melconian, junto a Máxima y representantes del sector privado en la sede del Programa de Naciones Unidas para el Desarrollo (PNUD). 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/SusanaMalcorra/status/785849245639245828",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_78584924563924582")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Desde 2009, la Reina ocupa el cargo de Asesora Especial del Secretario de las Naciones Unidas; también se desempeña como presidenta Honoraria de la Alianza Mundial para la Inclusión Financiera del G20 ycomo consejera para la Iniciativa sobre el Futuro del Sistema Financiero Global del Foro Económico Mundial.
+
+La esposa del Rey Guillermo se reunirá mañana al mediodía con Macri, con quien ya se cruzó en enero en Suiza durante el Foro de Davos. También lo verá al ministro de Hacienda, Alfonso Prat Gay. Mirá también: La reina Máxima ya está en Argentina y se encontrará con Macri Si bien Máxima ha visitado en reiteradas ocasiones el país para pasar sus vacaciones con el Rey y sus hijas en la Pagatonia, será la primera vez desde que fue coronada, tras la abdicación de la Reina Beatriz en 2013, en visitar oficialmente a un mandatario argentino. El encuentro que mantendrán Máxima y Macri se realiza en una semana agitada para el mandatario argentino, quien tiene previsto reunirse en estos días con el presidente de Finlandia Sauli Niinistö, viajar a Roma a un encuentro con el Papa Francisco, abrir en Mar del Plata el coloquio de IDEA y anunciar el soterramiento del Tren Sarmiento, entre otras actividades.

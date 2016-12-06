@@ -1,0 +1,34 @@
+
+Los Juegos Olímpicos son mucho más que un evento deportivo. A lo largo de la historia moderna han generado hechos políticos y sociales revolucionarios e inolvidables. Como las victorias del atleta negro Jesse Owens frente a Adolf Hitler en los Juegos Olímpicos de Berlin en 1936, o la reciente protesta del maratonista etíope Feyisa Lilesa, que llegó a la meta con las manos cruzadas para denunciar que podía ser arrestado por su creencia religiosa apenas regresara a su país. Los juegos son también una prueba para la ciencia y para mostrar los límites del cuerpo humano. Si los griegos pensaron la competencia para buscar la perfección del cuerpo humano, hoy la mejor representación de ese ideal es Usain Bolt, el jamaiquino triple campeón de 100 y 200 metros, que recupera oxígeno en cámaras hiperbáricas y entrena con “electroestimulación”, dosis de corriente eléctrica sobre los músculos para mejorar la contracción de las fibras de su cuerpo, nada que los griegos hubieran soñado. Tampoco entonces estaba claro que un atleta de alto rendimiento tiene mayor concentración de materia gris en el cerebro: cada vez está más claro que las neurociencias aportan su papel fundamental para ayudar a descontar milésimas. Mirá también: Maratón sin límites: quieren llegar a los 42K en menos de 2 horas 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Las estadísticas de los últimos juegos marcan que no queda mucho margen para mejorar. En las últimas Olimpíadas 19 records mundiales. En Londres 2012 se habían batido 28 y en Beijing 2008 habían sido 34. Según un estudio, los atletas de los primeros juegos usaban el 75% de su capacidad potencial, mientras que ahora están en el 99% de su rendimiento. Para el Instituto Francés del Deporte, los récords mundiales tocarán su techo en 2060. Pero investigadores coreanos afirman que las marcas límite llegarán más pronto, en 2026. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El médico deportólogo Oscar Incarbone aporta más datos sobre los límties del cuerpo: “Para el doctor Jean-Francois Toussaint, no será biológicamente posible que un velocista corra algún día los 100 metros por debajo de nueve segundos ‘sin ayuda externa’. Lo mismo ocurre para el salto con garrocha, incapaz de algún día superar los 10 metros de altura. Pero lo cierto es que todavía no se conocen aspectos que podrían incrementar el rendimiento de los atletas. La influencia de la tecnología ha ayudado mucho en todo, desde la vestimenta a cómo lograr evaluar el punto óptimo en un momento clave de la competencia para superar la fatiga o compensarla con métodos de entrenamiento más avanzados”. Mirá también: Más cerca del Everest atlético ¿Por qué estamos cerca del límite? Los argumentos de los especialistas tienen que ver con que ya están dadas las condiciones ideales de alimentación, indumentaria y la interacción con otras disciplinas, como las neurociencias, mindfulness y terapias que ayudan a mejorar el rendimiento. O, mejor dicho, que ayudan a que el cuerpo y la mente funcionen en conjunto. “Sería soberbio de mi parte decir que tal atleta llegó a su límite, pero tampoco puedo decir que el límite es infinito”, dice Dolores Cardona, psiquiatra y directora del área de INECO Alto Rendimiento Deportivo. “Hoy tenemos deportistas que nos dicen que llegaron a su nivel físico óptimo, y que para mejorar tienen que cambiar su forma de pensar, sus pensamientos antes de afrontar una competencia”. Ejercicios de control inhibitorio, planificación y organización, flexibilidad cognitiva, memoria de trabajo, coaching psicológico y mindfulness son cada vez más usados. Mirá también: 5 cosas que podemos aprender de los atletas olímpicos Con toda la ayuda actual, Bolt fue capaz de correr los 100 metros en 9,58 segundos, pero según los especialistas, el límite del cuerpo humano podrá llegar solamente a 9,48. Leonardo Malgor, entrenador del equipo olímpico de maratón, dice que es imposible que una mujer llegue a correr los 100 metros en menos de 10 segundos. El caso de la atleta estadounidense Florence Griffith Joyner sirve para mostrar que el cuerpo humano no es una máquina. En 1988 marcó el récord para los 100 metros, con la fabulosa marca de 10,44 segundos. Es uno de los records más antiguos de la historia del atletismo. Pero la exigencia fue demasiado. Griffith Joyner murió a los 38 años, después de un ataque de epilepsia. Su autopsia marcó que tenía graves problemas coronarios por los esteroides y anabólicos que había tomado.  La tecnología, una clave para la perfección La tecnología puesta al servicio de la indumentaria de los atletas es clave para bajar los tiempos y llevar al extremo el cuerpo humano. Desde detalles sencillos, como los nadadores estrellas Michael Phelps y Katie Ladecky que usan dos gorras (una de latex, simplemente para sostener el pelo; la otra de silicona, para corregir el efecto arrugado de la primera gorra y mejorar el efecto hidrodinámico y reducir el rozamiento con el agua), las medias de compresión, que ayudan a mejorar el flujo sanguíneo, hasta los atletas que trabajan de manera personalizada con sus sponsort, para tener un calzado que se adapte a sus necesidades. Nike, por ejemplo, realizó zapatillas especiales para las corredoras Allyson Felix y Shelly Ann Fraser (Zoom Superfly Flyknit y Elite), ambas campeonas olímpicas, con tecnología de impresoras 3D.

@@ -1,0 +1,22 @@
+
+Dos guías de montaña nepaleses y dos fotógrafos se convirtieron en los primeros en documentar la ruta sur hacia la cumbre del Monte Everest con una cámara de formato 360 grados. Lograron así registrar la vía de escalada sur del Everest, que comienza en el campo base de Nepal hasta el "techo del mundo", documentada en realidad virtual mediante videos y fotos de alta definición. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ El grupo que llevó a cabo el proyecto se llama Mammut Sports Group y fueron ellos quienes enviaron un equipo de sherpas (pobladores de las regiones montañosas de Nepal) y dos fotógrafos que trabajaron durante la escalada para documentar el ascenso: "La idea básica fue llevar el concepto de Google Street View a las montañas más bellas de este planeta, y de ese modo crear una nueva forma de documentación de estas vías de escalada", dijeron los responsables del grupo.
+
+También leé: "El mundo, en fotos espectaculares: panorámicas y desde el aire"  "Comenzamos el proyecto en 2014 con la subida icónica de la cara norte del Eiger y Matterhorn, y desde entonces añadimos muchas nuevas rutas, algunas de ellas con los atletas y otras con nuestros propios colaboradores", agregaron. Mammut dijo que esta iniciativa es también un homenaje a los primeros escaladores Edmund Hillary y Tensing Norgay que optaron por esa ruta en 1953. La recompensa es la vista desde el punto más alto en la tierra - una altitud de más de 8800 metros, y a la que pudo llegar el aventurero actor Facundo Arana.
+
+ Desde el primero momento se supo que para documentar el acceso al Everest, los sherpas serían los más adecuados, quienes se mostraron orgullosos de llevar las cámaras hasta el techo del mundo. Estos pobladores de las monatañas subieron desde el campamento de base a 5380 metros de altura hacia la cumbre de la montaña, que se encuentra a 8848 metros, pasando por lo puntos destacados de la ruta.

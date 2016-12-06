@@ -1,0 +1,69 @@
+
+Mauricio Macri retomó hoy su actividad oficial, tras la arritmia que obligó a su internación el viernes pasado. El Presidente de la Nación fue hasta Lomas de Zamora y se mostró junto a la gobernadora María Eugenia VIdal y el intendente local Martín Insaurralde. 
+
+
+"Gracias a todos por los mensajes. Estoy bien", dijo Macri al hacer uso de la palabra delante de los chicos y padres que asisten a ese club donde se filmó la película argentina dirigida por Juan José Campanellade Lomas de Llavallol.
+
+
+
+
+
+var act_34b = new gigya.socialize.UserAction();
+
+var emailBodyCustom_34b = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_34b.setTitle('"Gracias a todos por los mensajes. Estoy bien", dijo Macri al hacer uso de la palabra delante de los chicos y padres que asisten a ese club donde se filmó la película argentina dirigida por Juan José Campanellade Lomas de Llavallol.');
+act_34b.setSubtitle('EN LLAVALLOL'); 
+act_34b.setLinkBack('http://www.clarin.com/politica/Macri-actividad-oficial-Gracias-mensajes_0_1590440986.html');
+act_34b.setDescription('Despu&eacute;s de la arritmia, el Presidente fue a un club de barrio en Lomas de Zamora, donde se film&oacute; la pel&iacute;cula &quot;Luna de Avellaneda&quot; de Campanella.');
+act_34b.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Macri-actividad-oficial-Gracias-mensajes_0_1590440986.html');
+
+var showShareBarUI_params_34b=
+{ 
+containerID: 'shareQuote_34b',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_34b,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_34b
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_34b);
+ Macri pidió que se leyera una carta del cineasta Juan Campanella y anunció la devolución del 40% de lo que se cobró en las tarifas de luz con aumento para los clubes de barrio, retroactivo al mes de abril. Mirá también: La foto de la vuelta de Macri: reapareció en Lomas de Zamora tras la arritmia "Acá estoy, estoy bien para seguir trabajando juntos por esa Argentina que soñamos. Y ésta es una manera maravillosa de comenzar la semana", dijo Macri.  Retomando el trabajo en Lomas de Zamora. Gracias por los mensajeshttps://t.co/x1AMeBwMzJ— Mauricio Macri (@mauriciomacri) 6 de junio de 2016
+  El Presidente retomó su actividad, después del episodio de salud que padeció el pasado sábado y que obligó a su internación, al encabezar un acto en un club social de Llavallol, partido de Lomas de Zamora. Mirá también: Según el médico presidencial, Macri puede ejercer su función sin restricciones: "Fue una locura del corazón" El Presidente, luego de dos días de descanso en su quinta por una arritmia, llegó al Club Social y Deportivo Juventud Unida de Lavallol, sur del conurbano bonaerense, donde anuncióayuda a las entidades barriales, apremiadas por el aumento tarifario. Luego del anuncio, el ministro de Educación, Esteban Bullrich, y el secretario de Deportes, Carlos Mac Allister, aseguraron en rueda de prensa que se encuentran trabajando con otras áreas del gobierno nacional para que el beneficio para los clubes se extienda a los servicios de gas y agua. Mirá también: El país que enferma a sus presidentes

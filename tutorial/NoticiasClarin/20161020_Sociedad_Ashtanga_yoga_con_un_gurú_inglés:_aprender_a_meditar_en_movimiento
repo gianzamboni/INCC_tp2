@@ -1,0 +1,202 @@
+
+"Viene Matthew”, me dijo entusiasmada Mariel, mi profesora de ashtanga yoga, a principios de año. No necesitaba explicarme de quién hablaba: Matthew Vollmer, gurú inglés, formado en Mysore, India, por Sri K. Pattabhi Jois, el gran difusor de esta disciplina en el siglo XX. Nuestro maestro llegaría a Buenos Aires para dar uno de sus seminarios, muy esperados por sus seguidores, que se enteraron por el boca a boca, ya que no hubo publicidad. Me anoté rápido para asegurarme un lugar: cupos limitados.
+
+Después de cinco años de práctica, cumplía con el único requisito para participar: conocer de memoria la primera serie de posturas. Pero, esta vez, el desafío era más grande: tenía por delante dos semanas intensas, con un total de veinticuatro horas de entrenamiento físico y otras doce de charlas teóricas. Todo esto sin abandonar mi trabajo: mi día se dividiría entre mi intento de vivir como una “ashtangui” por las mañanas y mis responsabilidades en la oficina por la tarde. Mirá también: Furor por el yoga: sale del circuito especializado y copa los gimnasios Empiezo el workshop. Mis jornadas arrancan al amanecer: a las 6.30 llego a Colegiales. En una calle arbolada, de casas bajas, me uno al grupo de “yoguis”, en su mayoría treintañeros, que llegan con sus mats (alfombras de yoga) bajo el brazo. Después de atravesar un portón negro ingresamos al “shala” (lugar de práctica), una sala luminosa y austera. Allí nos recibe un cartel: “Por favor: silencio o susurros.” Cada uno sabe lo que tiene que hacer: descalzarse, desplegar su mat, juntar las manos en el pecho, recitar el mantra de inicio, repetir los saludos al sol (una de las secuencias clásicas del yoga) y empezar la serie. Matthew está presente y observa desde un rincón, sin palabras. No es el estereotipo del gurú hindú. Es rubio, de ojos azules, el pelo corto, bronceado. Alto, cuerpo delgado pero firme, mirada calma. Es un hombre sin edad. Espero que salude o sonría. Nada de eso. Pero su sola presencia me resulta tranquilizante. Afuera hace frío. Adentro, sin moverme todavía, ya estoy transpirando, y sé que voy a hacerlo cada vez más durante dos horas. Los hombres se sacan las remeras, las chicas se quedan en top, con las toallas a mano. La menor cantidad de ropa posible. Los vidrios de las ventanas también transpiran, se empañan. Mucha energía junta. Mucho calor. 
+
+
+En medio del silencio, se escucha fuerte el sonido de las inhalaciones y exhalaciones. Nuestra respiración es el hilo que sincroniza cada asana (postura). Es una meditación en movimiento.
+
+
+
+
+
+var act_6f0 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_6f0 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_6f0.setTitle('En medio del silencio, se escucha fuerte el sonido de las inhalaciones y exhalaciones. Nuestra respiración es el hilo que sincroniza cada asana (postura). Es una meditación en movimiento.');
+act_6f0.setSubtitle('Dos semanas de práctica intensa'); 
+act_6f0.setLinkBack('http://www.clarin.com/sociedad/ashtanga-yoga-matthew-vollmer-seminario_0_1671433029.html');
+act_6f0.setDescription('Una cronista de Clarín participó en un seminario del maestro Matthew Vollmer. Ésta fue su experiencia.');
+act_6f0.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/ashtanga-yoga-matthew-vollmer-seminario_0_1671433029.html');
+
+var showShareBarUI_params_6f0=
+{ 
+containerID: 'shareQuote_6f0',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_6f0,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_6f0
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_6f0);
+ Al segundo día, durante la misma rutina, Matthew se me acerca por primera vez y me pregunta mi nombre. Me ayuda, presiona con su mano y su rodilla sobre mi espalda. Duele mucho, pero cuando me suelta, siento alivio y sonrío. El sufrimiento es temporal. La práctica de ashtanga requiere predisposición para liberarse de algunos paradigmas del pensamiento occidental. Dejar de lado la competencia, la ambición y el ego. Las mañanas siguientes transcurren entre resistencias y repeticiones mudas. Al terminar, compartimos mates, bananas, frutillas y frutos secos. Sabemos que deberíamos mantener el ayuno anterior y posterior a la práctica, pero necesitamos recuperarnos. Muchos de mis compañeros son profesores de yoga, otros acróbatas, bailarines, y una minoría, como yo, entusiastas curiosos. Algunos llevan veinte años practicando la primera serie. Son seis, pero no se conoce quién haya llegado al final del camino, que puede llevar toda la vida. Otra vez: la noción del tiempo y de los objetivos es muy diferente a la que estamos acostumbrados. 
+
+
+La práctica requiere liberarse de paradigmas occidentales: dejar de lado la competencia, la ambición y el ego.
+
+
+
+
+
+var act_354 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_354 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_354.setTitle('La práctica requiere liberarse de paradigmas occidentales: dejar de lado la competencia, la ambición y el ego.');
+act_354.setSubtitle('Dos semanas de práctica intensa'); 
+act_354.setLinkBack('http://www.clarin.com/sociedad/ashtanga-yoga-matthew-vollmer-seminario_0_1671433029.html');
+act_354.setDescription('Una cronista de Clarín participó en un seminario del maestro Matthew Vollmer. Ésta fue su experiencia.');
+act_354.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/ashtanga-yoga-matthew-vollmer-seminario_0_1671433029.html');
+
+var showShareBarUI_params_354=
+{ 
+containerID: 'shareQuote_354',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_354,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_354
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_354);
+ En el quinto día, empiezo a molestarme por un ejercicio que no me sale. No puedo mantener el equilibrio y me caigo. Veo a mi alrededor cuerpos mucho más entrenados y tonificados que el mío y me frustro. Matthew me habla con una mezcla de inglés, portugués, español y sánscrito: “Hasta acá llega tu práctica”, alcanzo a entenderle. “Poné toda tu energía, todo tu amor, en intentar esa postura que no te sale. Aceptá el resultado. Sea lo que sea. Y sé feliz con eso”. Lo escucho, pero me voy con bronca, me quedo todo el día pensando en mi límite, en que quizás nunca me salga, aunque me esfuerce. A pesar del enojo y del dolor en mi cuerpo, que se acrecienta a lo largo de la semana, me doy cuenta de que el resto del día estoy más lúcida, más aguda, más consciente de mis hábitos, más conectada con mi interior y exterior. Mirá también: Qué es el yoga de la risa Durante las clases teóricas, sentados alrededor del maestro, escuchamos: “Lo importante no es la meta, no es el resultado, sino la propia práctica”. “¿La limitación es física o mental?”, pregunta un alumno. “No creo que necesites saberlo. No creo que importe. Enfocate en la respiración y todo vendrá”, responde. Nos deja en silencio. 
+
+
+“¿La limitación es física o mental?”, pregunta un alumno. “No creo que necesites saberlo. No creo que importe. Enfocate en la respiración y todo vendrá”, responde.
+
+
+
+
+
+var act_2fe = new gigya.socialize.UserAction();
+
+var emailBodyCustom_2fe = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_2fe.setTitle('“¿La limitación es física o mental?”, pregunta un alumno. “No creo que necesites saberlo. No creo que importe. Enfocate en la respiración y todo vendrá”, responde.');
+act_2fe.setSubtitle('Dos semanas de práctica intensa'); 
+act_2fe.setLinkBack('http://www.clarin.com/sociedad/ashtanga-yoga-matthew-vollmer-seminario_0_1671433029.html');
+act_2fe.setDescription('Una cronista de Clarín participó en un seminario del maestro Matthew Vollmer. Ésta fue su experiencia.');
+act_2fe.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/ashtanga-yoga-matthew-vollmer-seminario_0_1671433029.html');
+
+var showShareBarUI_params_2fe=
+{ 
+containerID: 'shareQuote_2fe',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_2fe,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_2fe
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_2fe);
+ El último día, nos cuenta que se mudará de Berlín, donde vive ahora, a un pequeño pueblo de Brasil, donde cultivará sus propios alimentos. “En las ciudades grandes estamos completamente alejados de la naturaleza, de sus ciclos y ritmos. El yoga nos ayuda a acercarnos a nuestro interior. La iluminación es individual, pero la evolución espiritual será colectiva”, dice al despedirse. Luego de dos semanas de “retiro” sin retirarme, días de aprendizajes intensos, me llevo a casa una tarea simple y transformadora: controlar mi respiración, que conecta con mi cuerpo, que conecta con mi mente. Lo pienso y lo intento. Todos los días.  Mirá también: Mindfulness: control de nuestra mente, cuerpo y emociones

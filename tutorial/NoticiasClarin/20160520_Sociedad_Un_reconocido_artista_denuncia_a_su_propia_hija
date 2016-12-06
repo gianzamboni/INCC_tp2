@@ -1,0 +1,22 @@
+
+El argentino Nicolás García Uriburu, reconocido artista plástico y arquitecto que exhibe sus obras en los principales museos y galerías del mundo, denuncia a su única hija. "Ella pretende hacerse cargo de mi obra y mis bienes sin esperar mi muerte", asegura en una solicitada publicada en Clarín. Mirá también: García Uriburu: un pincel verde para defender el planeta "Nunca pensé estar en esta situación pues siempre he sido un padre presente y hasta he compartido hace unos meses un tiempo en su casa sin pensar que esa estadía iba a ser utilizada en mi contra", comienza García Uriburu. "Tenía la idea de que luego de cumplir el precepto materno de casarse con un hombre rico, mi hija vería saciado su afán de riquezas materiales, pero me equivoqué. No solo va por más, sino que no duda en avasallar los derechos de todos", continúa.
+
+"Ella pretende hacerse cargo de mi obra y de mis bienes sin esperar mi muerte", señala Uriburu, que nació en Buenos Aires y tiene 78 años. "Llegar a esta edad teniendo que demostrar a través de análisis médicos que soy capaz, como lo vengo haciendo en este último mes, no ha sido suficiente y sigo esperando", dice en la solicitada.
+
+(Muestra de Nicolás García Uriburu en la galería Henrique Faria, en marzo de 2016. Foto: Silvana Boemo). El artista no duda en usar duras palabras para describir a su hija. "No basta con sentar a un cura los domingos en su mesa para ser buena cristiana", dice. "Respetar y querer a tus mayores es parte de ese sentimiento cristiano que mi hija desconoce totalmente", agrega. Mirá también: Leo García, sobre los incidentes en ArteBA: "Me sentí como un Chano descontrolado" El trabajo de García Uriburu es mundialmente reconocido. En 1998, obtuvo el Gran Premio de Pintura Nacional y, entre los premios internacionales, recibió el Prix Lefranc (París, 1968); el Primer Premio de la Bienal de Tokio (Tokio, 1975); y el Premio a la Trayectoria del Fondo Nacional de las Artes (Buenos Aires, 2000). En 1968 realizó la Coloración del Gran Canal de Venecia. Desde entonces intentó dar, a través de sus intervenciones a gran escala en la naturaleza, una señal de alarma contra la contaminación. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Uriburu preside la Fundación que lleva su nombre, dedicada al estudio del arte de los pueblos originarios de América. Es curador vitalicio del museo que lleva su nombre en la ciudad de Maldonado, Uruguay, en donde se exhibe la Colección de Pintura y Escultura Nacional, que el artista ha donado al estado uruguayo. Mirá también: Alborosie: "El apellido de mi mamá es Piazzolla" Su caso parece insólito, pero no es el único. El reconocido orfebre Juan Carlos Pallarols también tiene graves conflictos familiares. El papa Francisco está disgustado con el hijo mayor del Platero, Carlos, quien había recorrido el país pidiendo dinero para un cáliz que quería obsequiarle al Pontífice. Pallarols se comunicó con Clarín, negó haber solicitado dinero y dijo que es víctima de una pelea con otro de sus hijos, Adrián, que busca desprestigiarlo. 

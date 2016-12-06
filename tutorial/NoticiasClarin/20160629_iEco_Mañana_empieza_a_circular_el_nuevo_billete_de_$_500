@@ -1,0 +1,21 @@
+
+A partir de mañana, el Banco Central comenzará a distribuir el nuevo billete de 500 pesos. Este trae la imagen del yaguareté, inaugurando la familia de billetes denominada “Animales autóctonos de la Argentina”, dijeron en el BCRA. El nuevo billete fue presentado hoy por el titular del Banco, Federico Sturzenegger, quien señaló: " La nueva familia de billetes tendrá como figuras a la fauna autóctona argentina de las diversas regiones del país. Cada uno de los billetes presentará en el anverso la figura de un animal típico de la región y en el reverso el hábitat característico de esa especie". 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+"Una novedad adicional -agregó el Sturzxenegger- es que los billetes tienen formato vertical, con lo cual es importante que lo miren de esa manera. La confusión que se produjo con el diseño de la ballena franca austral, justamente tuvo que ver con eso, y no está de más aclararlo".
+
+Después del yaguareté, representante de la región norte, vendrán otros billetes con animales. "Prontamente también estaremos presentando el billete de 20, con la figura del “guanaco”, representante de la estepa patagónica -añadió el titular del BCRA-. El de 50 con el “cóndor”, que representa a la región andina. En el billete de 100 estará la “taruca”, de la región noroeste. En el de 200 estará la “ballena franca austral” representando a la Patagonia y a nuestro territorio marino. Finalmente, en el de 1000 encontraremos a nuestra ave nacional, el “hornero”, de la región centro". En lo que hace a las medidas de seguridad, el nuevo billete tiene una marca de agua, y al trasluz, se observa el retrato del yaguareté y la denominación “500”, moldeados en el papel. También tiene un hilo de seguridad, incorporado al papel de la que se perciben segmentos con efectos dinámicos y cambio de color del verde al azul y, al trasluz, se distingue el valor “$ 500” y la sigla “BCRA”. Para las personas con capacidades visuales reducidas, tanto un código bajo la silueta del animal y el valor en número romano “D”, presentan relieve perceptible al tacto.
+

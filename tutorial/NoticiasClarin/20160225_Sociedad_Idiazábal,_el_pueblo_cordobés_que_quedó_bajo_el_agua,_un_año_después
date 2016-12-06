@@ -1,0 +1,127 @@
+
+En febrero de 2015, un temporal dejó al pueblo de Idiazábal, en Córdoba, totalmente cubierto por el agua. Lo que vino después fue un verdadero éxodo. El 90 % de los habitantes tuvieron que evacuar el lugar. De las 1.680 personas que viven allí, solo unos pocos decidieron quedarse, para cuidar sus casas o porque no tuvieron alternativa, como fue el caso de médicos, bomberos y policías. El feroz temporal, con desborde de ríos y arroyos, azotó varias zonas de Córdoba y el Gobierno de la provincia tuvo que declarar el "estado de emergencia" en todo el territorio. Idiazábal fue el pueblo más afectado por el desastre. El 5 de marzo del año pasado, Clarín recorrió la zona y confirmó que el agua llegó a picos de 1,80 metros, hasta los techos de las casas. Los vecinos patrullaron las calles en tractores para repartir ayuda, rescatar perros y darse apoyo. La inundación duró en total 17 días. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160225_0017 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160225_0017_831";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Idiazábal, a un año del éxodo de todo un pueblo',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/25/VID/CLAVID20160225_0017/video_web.flv",
+        image: "http://images.clarin.com/sociedad/Idiazabal-ano-exodo-pueblo_CLAVID20160225_0017_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160225_0017',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/25/VID/CLAVID20160225_0017/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/Idiazabal-ano-exodo-pueblo_3_1529277074.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160225_0017.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160225_0017){
+            //getBBTStats_CLAVID20160225_0017();
+            varModIdReprod_CLAVID20160225_0017 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+Recién el 13 de marzo el agua se había desagotado y se recuperó el servicio eléctrico. Las casas estaban arruinadas y las calles repletas de ropa, muebles y electrodomésticos. Hubo vehículos que dejaron de funcionar. "Con ese panorama, los vecinos comenzaron el retorno a casa: grandes y chicos, con palas, escobas y mangueras iniciaron el duro trabajo para rehacer el pueblo", recuerda hoy el diario La Voz del Interior. Mirá también: Una insólita batalla entre vecinos por una inundación En los meses posteriores a la inundación se hicieron obras de protección para futuras precipitaciones. Se construyó un canal de seis kilómetros de largo y otros sobre la cuenca del arroyo San José. Además, se realizaron nuevas lagunas de retención en campos vecinos. Todo, para evitar que ante un nuevo diluvio el agua impactara en la zona urbana.  Hace una semana, Idiazábal se encontró con un desafío: un violento temporal azotó gran parte de Córdoba. Pero el pueblo logró resistir. "Los vecinos ya duermen más tranquilos e incluso algunos bromean con que les gusta que llueva mucho y fuerte para poner a prueba las obras", cuenta La Voz.

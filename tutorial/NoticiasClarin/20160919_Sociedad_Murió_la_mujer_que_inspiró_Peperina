@@ -1,0 +1,34 @@
+
+Hace 37 años, el 16 de noviembre de 1979, cuando la dictadura cívico-militar todavía rugía con fuerza y sus voceros aseguraban que los argentinos éramos derechos y humanos, un irreverente y provocador Charly García se presentaba en el Club Municipal de barrio Alta Córdoba.  Patricia Perea, una joven cordobesa que había cubierto el recital para la revista Expreso Imaginario, criticó con dureza el show de Serú Girán –la mítica banda de García en esa época- en Córdoba: “Un espectáculo decadente”, dominado por un clima “histérico y bufonesco”, había escrito la cronista. Perea no podía imaginarse que se convertiría en Peperina, una figura mítica del rock nacional y que esa “cruz” la acompañaría toda su vida. Murió ayer, a los 56 años.  Hace pocos años, en una entrevista al diario cordobés La Voz del Interior, la ex corresponsal de Expreso Imaginario había ratificado sus críticas: “A toda la prensa nos molestó su actitud. Vi a Serú en Capital. Charly dio un show tranquilo, sin bardo, tocó afinado. Acá venía a chicanearnos, tenía esa cosa petulante. Se sacó la camisa por la bragueta y la movía como si fuera un pene. Fue el antecedente de cuando se bajó los pantalones”. Mirá también: Así se rescataron 1500 discos de grandes músicos argentinos La canción se editó en el disco Peperina de Serú Girán y fue tocada por primera vez en vivo en Obras, en septiembre de 1981, Un par de años después, cuando la primavera democrática comenzaba --a mediados de diciembre de 1983--, Charly García presentaba Clics Modernos ante un Luna Park repleto y la incluyó en la lista. “Voy a tocar un tema de una chica que le gustaba ir a habitaciones de moteles, a ver si le daban algo. Y cuando no le daban, se enojaba. Decía ‘ay estos chicos, qué mal que tocan’. Ahora vienen hasta periodistas hombres... ¡lo que es el destape, viejo!”, bromeó... Y arrancó con los acordes de Peperina. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+ La vida de Patricia Perea, cuenta ella, fue un calvario psicológico. Logró mantenerse medianamente a flote al dedicarse a estudiar filosofía en la Universidad Nacional de Córdoba (UNC). Sin embargo, el fantasma de Peperina la perseguía por los claustros. “La música de Charly sonaba en todos lados, no sólo la escuchaban los rockeros. Era genial su música, eso no se discute. Se pueden discutir otras cosas”, señaló esta licenciada en filosofía, amiga de Pipo Lernoud, uno de los biógrafos del rock nacional.  “Por mucho tiempo quedé estigmatizada en el personaje Peperina. Hubo personas que se sintieron muy heridas con esa crítica, con el hecho de que una adolescente les dijera la verdad. No les gustó, además, que no quisiera prenderme en la de ellos. Tuve ofertas para meterme en sus historias, pero yo sabía que no iba a terminar bien”, le contó a La Voz del Interior.  Como forma de curar sus heridas se recibió de licenciada en Filosofía –fue adscripta en la cátedra de Filosofía de la Historia- y escribió Peperina por Peperina, que se publicó en 1995. Ese mismo año, tuvo otro bajón, cuando Raúl de la Torre llevó al cine su historia con el protagónico de Andrea del Boca. El año pasado, para exorcizar los males del filme de De la Torre, Perea publicó Peperina II. Gourmet lacaniano, donde relata detalladamente las situaciones que atravesó en su vida. Mirá también: "El rock se volvió muy masculino y envejeció" “Fue una cruz que tuve que llevar toda mi vida, hasta el día de hoy. Hay gente que imagina que soy lo que dice la película o la canción y nada que ver”, dijo alguna vez. Esa cruz duró hasta ayer, en que, apenas con 56 años murió Patricia Perea, la chica de típica mente pueblerina, como la calificó Charly García. La letra de Peperina: Quiero contarles una buena historia la de una chica que vivió la euforia de ser parte del rock ​tomando té de peperina. Típicamente mente pueblerina no tenía huevos para la oficina ​subterráneo lugar de rutinaria ideología. Romántica entonaba los poemas más brillantes susurrándo al oído de mil representantes: ​te amo, te odio, dame más. Mirando al campo se olvidó del hombre mirando al rico se vistió del pobre ​ para poder saber lo que chusmeaban las vecinas. En su cabeza lleva una bandera ella no quiere ser como cualquiera ella adora mostrar la paja de la cara ajena Y dentro de su cuento ella era Cenicienta su príncipe era un hippie de los años sesenta ​ te amo, te odio, dame más. Trabaja en los recitales vive escribiendo postales duerme con los visitantes y juega con los locales su cuerpo tiene pegada grasa de las capitales. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Peperina es el primer tema del homónimo cuarto álbum de estudio de Serú Girán, editado en agosto de 1981.

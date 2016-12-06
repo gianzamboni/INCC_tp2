@@ -1,0 +1,129 @@
+
+Las máquinas le han vuelto a ganar a los humanos. Mientras Lucas Etter marcó el récord mundial de cubo Rubik al resolverlo en 4,90 segundos, un robot bautizado ‘Sub1’ logró resolver el famoso rompecabezas en solo 0,887 segundos y 20 movimientos, lo que sería un nuevo récord para una máquina. Aunque aún en este caso está pendiente del veredicto de Guinness, toda una autoridad mundial en materia de records. Leé también: Festejan el año nuevo chino con 540 robots y una flota de 29 drones Para el funcionamiento del ‘Sub1’, el robot creado de Adam Beer, realiza unos agujeros en los laterales del cubo Rubik, una particularidad permitida por la World Cube Association. De esta manera los brazos robóticos pueden manipular el popular juguete a grandes velocidades. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+    var varModIdReprod_CLAVID20160215_0003 = false;
+
+    var mediaPlayerId = "mediaplayer_CLAVID20160215_0003_4b2";
+    var playerInstance = jwplayer(mediaPlayerId);
+
+    var setup = {
+        title: 'Un robot resuelve el cubo Rubik en menos de un segundo',
+        displaytitle: false,
+        id: mediaPlayerId,
+        flashplayer: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/jwplayer.flash.swf',
+        base: 'http://www.clarin.com/static/CLAClarinV3/js/jwplayer7.5.2/',
+        file: "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/15/VID/CLAVID20160215_0003/video_web.flv",
+        image: "http://images.clarin.com/sociedad/robot-resuelve-cubo-Rubik-segundo_CLAVID20160215_0003_34.jpg",
+        width: "472",
+        height: "281",
+        autostart: "",
+        plugins: {},
+        ga: {},
+        events: {}
+    }
+
+    setup.localization = { loadingAd: 'Cargando Publicidad' };
+
+    var JWPObjectEvents = {
+        nameEvent:  "",
+        videoId:    'CLAVID20160215_0003',
+        videoTitle: setup.title,
+        cb:         function() {}
+    };
+
+    if((navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+        setup.file = "http://contenidos2.clarin.com/sincro/diario/flv/2016/02/15/VID/CLAVID20160215_0003/video_iphone.mp4";
+    }
+
+    setup.related = {
+        heading: "Videos Relacionados",
+        file: "/rss/video/section/7/",
+        onclick: "play",
+        oncomplete: 'autoplay',
+        autoplaytimer: 3,
+        autoplaymessage: '__title__ comenzará en xx segundos!'
+    }
+
+    setup.sharing = {
+        "heading": 'Comparte este video',
+        "link": "http://www.clarin.com/sociedad/robot-resuelve-cubo-Rubik-segundo_3_1523277660.html",
+        "code": encodeURI("<iframe src='http://www.clarin.com/embed/video_CLAVID20160215_0003.html' height='261' width='424' scrolling='no' allowfullscreen='true'> </iframe>")
+    }
+
+    
+
+    setup.advertising = {
+        client: 'vast',
+        schedule: {
+            adpreroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=1&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "pre"
+            },
+            adpostroll: {
+                tag: document.location.protocol + '//ww619.smartadserver.com/ac?siteid='+sas_site_id+'&pgid='+sas_pageVideo_id+'&fmtid=30973&ab=3&tgt=&oc=1&out=vast&ps=1&pb=0&visit=S&vcn=s&tmstp=' + Math.round(new Date().getTime()/1000),
+                offset: "post"
+            }
+        },
+        cuetext: "Publicidad",
+        admessage: "Su contenido comenzará en XX segundos",
+        skipoffset: 3,
+        skipmessage: "Podrás saltar la publicidad en XX segundos",
+        skiptext: "Saltar"
+    }
+
+    
+
+    playerInstance.on('play', function(event){
+        if (!varModIdReprod_CLAVID20160215_0003){
+            //getBBTStats_CLAVID20160215_0003();
+            varModIdReprod_CLAVID20160215_0003 = true;
+        }
+
+        // no hay un FIRSTPLAY event, lo individuamos con los segundos
+        pos = playerInstance.getPosition();
+        if (pos < 1) {
+            JWPObjectEvents.eventName   = "video-firstPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        } else if(eventObject.oldstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPlay";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('pause', function(event){
+        if (event.oldstate == "PLAYING" && event.newstate == "PAUSED") {
+            JWPObjectEvents.eventName   = "video-playerPaused";
+            sendEmbeddedVideoEvents(JWPObjectEvents);
+        }
+    });
+
+    playerInstance.on('complete', function(){
+        JWPObjectEvents.eventName   = "video-playerPlayEnd";
+        sendEmbeddedVideoEvents(JWPObjectEvents);
+    });
+
+    playerInstance.setup(setup);
+
+    if (typeof JW6SS !== 'undefined') {
+        JW6SS.observe(playerInstance);
+    }
+
+
+
+En solo 887 milisegundos el ‘Sub1’ realiza dos fotografías para calcular la posición del cubo, computa el algoritmo de mejor resolución y ejecuta los 20 precisos movimientos. No hay margen para el error, ya que perdería unas valiosas milésimas. Leé también: Crearon el primer robot que cambia de color según la ocasión Adam Beer, economista e ingeniero, no es el único que ha intentado crear la máquina más rápida del mundo que resuelva un cubo de Rubik. Este mismo febrero se presentó otro robot que necesitaba solo 0,9 segundos para resolverlo, un récord que ahora queda obsoleto.
+
+(Campeonato de cubo de Rubik en Alemania, en 2010. AFP) “Este tipo de ingenieros intentan batir el récord mundial porque el que lo consiga recibirá 1.000 dólares. Este dinero fue recaudado para promover el interés por la robótica y la ingeniería”, afirma uno de los representantes del Guinness en The Telegraph. Fuente: La Vanguardia.

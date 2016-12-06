@@ -1,0 +1,22 @@
+
+Apenas 24 horas después de la impactante noticia que determinó un capítulo más de la corrupción en tiempos K, la casa de unos de los puntales de la obra pública durante los 12 años de gobiernos kirchneristas, el secretario José López, segundo del ministro Julio De Vido, fue allanada en otro espectacular operativo. Fuerzas de seguridad federales y provinciales, encabezadas por el Grupo Halcón, entraron a la propiedad ubicada junto al río Luján. Mirá también: Encuesta: cómo les cayó a los kirchneristas la detención de José López 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El ex secretario de Obras Públicas kirchnerista fue detenido la madrugada del martesmientras dejaba casi 9 millones de dólares en un convento del Gran Buenos Aires. En consecuencia,las justicias provincial y federal ordenaron ayer trece allanamientos llevados a cabo en diversas propiedades relacionadas con el ex funcionario. Mirá la fotogalería HD  López fue trasladado esta mañana a los tribunales federales de la avenida Comodoro Py para ser indagado en una vieja causa por la presunta comisión del delito de enriquecimiento ilícito. Mirá también: Jorge Lanata: "Alguien le dijo a López que lo iban a allanar"
+
+ Los allanamientos se llevaron a cabo en dos propiedades alquiladas de la ciudad de Río Gallegos que figuran en la declaración jurada de bienes de López e incorporada a la causa que se le sigue por supuesto enriquecimiento ilícito, otros tres terrenos sin construir en la localidad turística santacruceña de El Calafate y tres más en Tucumán en igual condición, una caja de seguridad en un banco porteño, y un departamento y una oficina en Capital Federal.
+
+ Los otros dos allanamientos fueron llevados a cabo en su casa del Tigre, junto al río Luján y en el convento de General Rodríguez donde había sido detenido el martes a la madrugada mientras intentaba dejar allí casi 9 millones de dólares en bolsos que descargaba de su camioneta. En su casa la Policía encontró otros US$ 2.500 mientras que en la caja de seguridad del Banco Patagonia se habrían hallado otros US$ 70.000. Mirá también: El humilde tucumano que se convirtió en un funcionario altanero

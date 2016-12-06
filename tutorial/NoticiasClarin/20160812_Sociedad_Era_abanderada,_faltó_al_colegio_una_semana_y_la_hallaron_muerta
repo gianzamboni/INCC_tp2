@@ -1,0 +1,22 @@
+
+Diana Pieraccioli tenía 18 años y era la abanderada del colegio Florencio Molina Campos, en Las Heras (Gran Mendoza). Su asistencia era casi perfecta. Por eso las autoridades se preocuparon cuando el 27 de julio concurrió por última vez a clases. Pasaron los días y la joven, que era insulinodependiente, no aparecía. Primero llamaron a su casa. Y luego, el viernes, el regente y la preceptora fueron al domicilio donde vivía con su abuela (72) y bisabuela (90). Allí encontraron a la chica estaba tirada el piso, tapada con un sábana, sin vida. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Si bien aún se esperan los resultados de la necropsia, los investigadores presumen que Diana no fue asesinada (no había signos de violencia en su cuerpo) y que falleció por causas naturales. Otro gran misterio que deberá resolver la Justicia es por qué las ancianas no le brindaron asistencia ni denunciaron su muerte. Una de las hipótesis es que la abuela padece demencia senil, aunque algunos vecinos del barrio Ujemvi tienen otra teoría y dijeron que la mujer maltrataba a su nieta “fisica y psicológicamente”. En este sentido mencionaron que era capaz de esconderle la medicina o apagarle la luz cuando estudiaba. En la zona recordaron a Diana como una chica educada, reservada, alegre y responsable. Por eso nadie se imaginaba la pesadilla que vivía en su casa. “Daba miedo, era tétrico su aspecto. Vivían realmente en muy malas condiciones”, indicó un investigador que llegó a la vivienda para realizar pericias.
+
+El caso generó conmoción en el colegio y en toda la sociedad mendocina. “Cuando vimos que la nena no iba a clases nos movilizamos, hicimos más de lo que nos marca la reglamentación. Cuando advertimos que no venía fuimos a buscarla y la encontramos el viernes pasado. Hicimos todo lo que pudimos”, explicó el director de la escuela, Marcelo Merenda, al diario Los Andes. Impactados por la noticia, todos sus compañeros de 5° 2° fueron a cursar el lunes vestidos de negro. “Era muy alegre. Iluminaba todos los días”, la definió una amiga del colegio, donde se vivió una jornada de duelo y reflexión.
+
+La abuela tenía la tutela de Diana porque su madre la había abandonado. La mujer decía que su nieta estaba enferma y por eso no opuso resistencia cuando los representantes de la escuela llegaron a la casa para conocer qué había ocurrido con la joven, que también iba a coro en la iglesia de su barrio. El canto era una de sus grandes pasiones e incluso había participado del casting para formar parte del programa Elegidos. La fiscal Gabriela Chaves, de Las Heras, está a cargo de la investigación que por el momento está caratulada como muerte sin asistencia médica. Los resultados de la autopsia determinarán las causas definitivas y el momento del deceso ya que, por sus inasistencias a la escuela, se supone que Diana falleció varios días antes.

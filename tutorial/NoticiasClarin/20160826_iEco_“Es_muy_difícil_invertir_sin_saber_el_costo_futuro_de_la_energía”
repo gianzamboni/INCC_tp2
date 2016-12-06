@@ -1,0 +1,34 @@
+
+“Es muy difícil para una empresa venir a invertir a la Argentina si no sabe cuál será el costo energético a futuro”. La frase le pertenece a Gerardo Mato, CEO del banco HSBC para América. El ejecutivo dialogó con Clarín en el marco del Council of Americas sobre de las inquietudes de los inversores sobre Argentina. Resaltó la importancia de que Argentina gane credibilidad en el ámbito internacional, e hizo hincapié en que el Gobierno no debe fijar metas que no pueda cumplir. “Que demore la adecuación de las tarifas puede demorar las inversiones, pero lo importante es que el rumbo no ha cambiado”, dijo Mato. Después de once años de evitar a la prensa local, el máximo referente del HSBC para la región explica la razón de más de una década de silencio. “Estuve tan alejado de este país, que no tenía información para hablar sobre el país, porque el volumen de negocios era insignificante. El día a día te lleva a donde están los negocios”, explicó. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Los últimos años no han sido fáciles para el HSBC en la Argentina. Durante la gestión kirchnerista quedó en medio de la puja con los holdouts, lo cual le valió las críticas del ex ministro de Economía, Axel Kicillof, y a Gabriel Martino –su ceo local- la inhabilitación durante 2015 para operar en el mercado local. Pero Mato afirma: “Nunca pensamos en dejar el país”. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+El titular del banco, sostiene que “hay financiamiento que Argentina aún no ha explorado” y que para el país “la variable internacional juega a favor, pero tiene que solucionar sus problemas internos”. “Los inversores están de luna de miel con Argentina porque tiene un equipo económico muy reconocido a nivel internacional, pero lo que no debería hacer el Gobierno es ponerse objetivos que no pueden lograr porque dañará su credibilidad”, dijo Mato. Para el ejecutivo, “las inversiones no llegarán de un día para el otro”. Mato, que dice no recordar cuál fue la última vez que participo de un evento empresario en Argentina, se lamenta ante quien se lo cruza en los pasillos del hotel Alvear por haber sido señalado hace un tiempo por una publicación estadonidense como uno de los ejecutivos que podía haber ayudado al país y eligió no hacerlo. “Siempre estuve a disposición del anterior gobierno pero el problema es que ellos no se dejaban ayudar”, afirma. “Estamos dispuestos a financiar a empresas que quieran venir a instalarse en el país y también a empresas locales que quieran expandirse hacia la región”, dijo. ¿Qué miran hoy los inversores cuando analizan a la Argnentina?, preguntó este diario a Mato.“ Están observando que el uso de los fondos que obtiene la Argentina, en la medida de que vean que se destina a inversión para el crecimiento e infraestructura, les preocupa que se tome deuda para cubrir el gasto corriente”, respondió. Pero celebró el regreso a los mercados del mundo tras la salida del default. "No hay país en el mundo que haya logrado reorganizar su economía en tan poco tiempo como lo hizo Argentina".  Según Mato los capitales interesados en el país no son especulativos. "Hay mucho real money, que soy aquellos que compran los bonos para quedárselos y no para venderlos " y destacó que este año "Argentina haya emitido 6 mil millones de dólares para las provincias y 4 mil millones para empresas en emisiones internacionales". ¿Cuándo barajarán para Argentina las tasas de financiamiento en los mercados internacionales?, repreguntó este diario. “Para bajar las tasas se necesita que las calificadoras mejoren la nota crediticia, y para eso si o si hay que cumplir con los objetivos económicos, hacer crecer las reservas, recuperar el crecimiento y el empleo y bajar la inflación”.  "Hay un camino por recorrer para bajar el costo financiero. El bono que emitió Argentina a 10 años está traedeando hoy a una tasa del 5%, mientras que el de 20 años en 6,6%. Brasil antes de sus crisis conseguía el 3%", advirtió. También destacó que “bajar los costos de producción, de energía , de logística y de capital es indispensable para que lleguen inversiones en infraestructura”. 

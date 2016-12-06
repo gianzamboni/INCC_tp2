@@ -1,0 +1,34 @@
+
+La ex presidenta Cristina Fernández de Kirchner anunció por la red social Twitter que estará presente este jueves en la Ciudad de Buenos Aires, para participar de un homenaje que se le realizará al fallecido ex presidente venezolano Hugo Chavez en Capital Federal. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/CFKArgentina/status/758420275016896512",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75842027501689651")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ La ex mandataria anunció así lo que será su tercera visita a Capital Federal luego de finalizar su mandato el nueve de diciembre pasado, la que iniciará esta tarde en el Instituto Patria, ubicado en Rodríguez Peña 80 de la Capital Federal. Mirá también: Stolbizer y Jorge Macri: básquet y foto en Tecnópolis, con aroma electoral "Mañana 28 de julio se cumple el 62° aniversario del natalicio de Hugo Chávez" y "la embajada de la República Bolivariana de Venezuela en Argentina y el Instituto Patria realizan un homenaje", mencionó anoche por Twitter la ex presidenta. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/CFKArgentina/status/758420156444016644",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_75842015644401664")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ "No quiero estar ausente. Por cuestiones de horarios de vuelo estaré allí sobre la hora de cierre", anunció Cristina: "nos vemos en el Instituto Patria. Un fuerte abrazo a todos y todas", finalizó. Mirá también: Uno por uno, los jueces y fiscales que atormentan al macrismo Además, publicó el banner del anuncio del evento, que comenzará a las 19 y en el que disertarán el parlamentario del Mercosur Agustín Rossi, el embajador de Venezuela en el país Carlos Eduardo Martínez Mendoza; y los periodistas Stella Calloni y Luis Bruschtein. Mirá también: Macri y Tinelli se reunieron en Olivos y sellaron la paz

@@ -1,0 +1,34 @@
+
+Pokémon cumple 20 años y estrena un nuevo juego para celulares y tablets, Pokémon GO. Las millonarias ganancias que se esperan por parte de los gamers que lo prueben, ameritan un anuncio durante la tanda del espectáculo deportivo más taquillero del mundo. El video de Pokémon Go homenajea la trayectoria de la compañía, que desde hace dos décadas entró en la casa de los chicos -y no tanto- a través de una nutrida constelación de "animalitos" digitales. El video se emitirá primero que todos en el descanso del Super Bowl 2016, pese a que ya fue publicado este lunes en su canal oficial de YouTube. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+Con más de 2.872.599 de visualizaciones, el anuncio es un guiño entre la liga Pokémon y la del fútbol americano, se llama Train on (Seguí entrenando) y se expondrá ante la multitud de fanáticos de ese deporte el 7 de febrero. No es casual que la liga liderada por Pikachu quiera mostrar su nuevo juego en la 50° edición del SuperBowl, donde Coldplay será la atracción principal en un show musical de entretiempo en el que también estarán Bruno Mars y Beyoncé. Las grandes empresas eligen la tanda del SuperBowl para estrenar anuncios o, en este caso, promocionar lanzamientos. El año pasado lo hizo Budweiser y enterneció a todos con el estreno del comercial "Perro perdido". 
+
+ Pero también marcó presencia el anuncio del videojuego para móviles Clash of Clans, que eligió a Liam Neeson en modo Bryan Mills de la saga Taken. El video fue visto casi 98 millones de veces. 
+
+Y Dove decidió apuntar al aspecto más paternal de los televidentes del SuperBowl 2015 con una campaña que afirmaba que la fuerza real de los hombres se pone a prueba con la "suavidad" y cuidado que tengan durante la crianza de sus hijos.
+
+ Doritos se llevó algunas críticas sobre el sexismo del comercial llamado "Asiento del medio": 
+
+ Más allá de lo que pasó en la costosísima tanda del año pasado, estas son las mejores publicidades que quedaron en el recuerdo de los televidentes del SuperBowl: 
+
+ Pepsi Diet,  UhUh. Con Ray Charles (1991) 
+
+ Air Nike, Michael Jordan y Bugs Bunny (1992) 
+
+ ​Primer comercial de la Macintosh de Apple (1984) Y, para muchos, el mejor de todos los tiempos es el protagonizado por Walter White de Breaking Bad, también de 2015:  
+
+

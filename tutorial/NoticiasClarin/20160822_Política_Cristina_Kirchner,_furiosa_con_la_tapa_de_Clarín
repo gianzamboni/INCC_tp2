@@ -1,0 +1,66 @@
+
+Cristina Fernández Kirchner contestó hoy la nota que publicó el diario Clarín en su tapa con una seguidilla de tuits. "Revelan que Cristina ocultó movimientos por casi US$ 500 millones” dice Clarín sin un sólo documento a nombre de CFK. PORQUE NO EXISTEN", afirma la ex Presidenta. Y continuó: " En la nota, ni una sola mención a transferencias ni cuentas Kirchner. PORQUE NO EXISTEN". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/CFKArgentina/status/767732262817427456",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76773226281742745")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ En la nota de hoy de Clarín se publica que hay registrados movimientos millonarios de hijos del ex socio de Cristina Fernández, Martín Báez, del financista histórico de la familia, Ernesto Clarens, del abogado de los Báez, Jorge Chueco, operador en la financiera SGI, hoy preso junto a su ex jefe en el penal de Ezeiza; de Federico Elaskar, ex propietario de esa financiera, apodada “La Rosadita” por su vinculación con el poder, quien a pesar de estar embargado por juicios incluso de una empresa familiar logró girar montos millonarios a los Estados Unidos. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/CFKArgentina/status/767731814089785344",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76773181408978534")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+  Clarín había adelantado también sobre el intento de ocultamiento de estas cuentas descubiertas por los buitres, de cómo el Gobierno K supo del tema. PPT mostró nuevas revelaciones de los “CristinaLeaks”, tras analizar alrededor de 3.500 páginas que incluyen miles de operaciones bancarias. El programa también mostró el origen de la información, el estudio que defendió a la Argentina en el juicio contra los buitres. 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/agustinbide/status/767735882506002432",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76773588250600243")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ Cristina siguió vía Twitter: "Si no hay pruebas INVENTEMOS TITULOS. Si hay tarifazo INVENTEMOS TITULOS. Si hay inflación INVENTEMOS TITULOS". 
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/LacamporaLa/status/767735885706194945",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_76773588570619494")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+

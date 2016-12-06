@@ -1,0 +1,100 @@
+
+Esta madrugada detuvieron al intendente de la localidad riojana de Chamical, Daniel Elías, por no querer realizarse un test de alcoholemia. El personal policial que lo interceptó mientras circulaba por la Ruta N° 38, a la salida de una fiesta, filmó al jefe comunal cuando amenazaba con "llamar al gobernador" para evitar el control. En las imágenes se ve cómo lo acusan de tener "aliento etílico" pero Elías se excusa apelando a un insólito argumento: que se estaba "curando una muela con alcohol".  El "Negro" Elías, como apodan al intendendente de Chamical, una ciudad a 141 kilómetros de la capital riojana, intentó eludir un control policial pero no lo logró. Según difundió el portal riojavirtual.com, cuando los efectivos policiales lograron que frenara su camioneta Toyota Hilux 4x4 se negó a soplar la pipeta que mide el grado de alcohol en sangre y los policías lo detuvieron. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+En el video, difundido a través de las redes sociales, se ve a los policías pidiéndole la documentación al Intendente. "Soy la primera autoridad del departamento", alardea y le exige el apellido del oficial que a cargo del control vehicular a modo de amenaza. 
+
+
+"Me estoy curando la muela con alcohol", fue el insólito argumento del intendente
+
+
+
+
+
+var act_882 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_882 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_882.setTitle('"Me estoy curando la muela con alcohol", fue el insólito argumento del intendente');
+act_882.setSubtitle('La Rioja'); 
+act_882.setLinkBack('http://www.clarin.com/sociedad/Detuvieron-intendente-manejar-borracho-alcohol_0_1577242367.html');
+act_882.setDescription('Daniel El&iacute;as, de la localidad de Chamical, apel&oacute; a una ins&oacute;lita excusa para saltearse un test de alcoholemia.&nbsp;');
+act_882.addActionLink('VER MÁS', 'http://www.clarin.com/sociedad/Detuvieron-intendente-manejar-borracho-alcohol_0_1577242367.html');
+
+var showShareBarUI_params_882=
+{ 
+containerID: 'shareQuote_882',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_882,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_882
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_882);
+ "Vos no podés pasar sobre mi autoridad. No me podés hacer pasar vergüenza en toda la provincia por ser un agente", sigue el jefe comunal con el teléfono celular en la mano. "Usted viene ebrio, vamos hágase el control. Yo hice que me soplara en la cara y se le siente aliento etílico. Necesito que me acompañe", le pide el oficial en el control. A lo que Elías se justificó: "Me estoy curando la muela con alcohol". Según fotos difundidas por periodistas locales en la cuenta @GermanLaRioja, una vez en la dependencia policial retuvieron el registro de conducir del Intendente de Chamical, que estaba vencido desde el ocho de mayo.  
+
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/GermanLaRioja/status/731922804061405184",
+            jsonp: "callback",
+            cache: 'false',
+            dataType: "jsonp",
+            success: function( response ) {
+                $("#tweet_73192280406140518")
+                    .html(response.html)
+                    .trigger('columnGrowUp', 2000);
+            }
+        });
+    });
+ En junio del año pasado se aprobó en La Rioja el Decreto provincial 840 que establece que "será reprimido con hasta treinta (30) días de arresto y multa el que condujere vehículos de cualquier tipo o especia en la vía pública, en estado de ebriedad, que supere los 200 miligramos de alcohol por litro de sangre, o bajo efecto de estupefacientes". Este es el segundo mandato de Daniel Germán Elías (39) al frente de Chamical. Fue electo por el partido Acción Riojana. 

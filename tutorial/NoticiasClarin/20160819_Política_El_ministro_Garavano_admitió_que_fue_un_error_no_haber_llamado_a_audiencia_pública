@@ -1,0 +1,68 @@
+
+Germán Garavano, el ministro de Justicia de la Nación, habló este viernes tras el fallo de la Corte Suprema de Justicia que frenó la suba del gas. Mirá también: El fallo de la Justicia: tres dagas caen sobre la economía El funcionario nacional dijo que "el Gobierno siempre hace autocrítica" respecto de las decisiones de varios jueces que frenaron las subas de tarifas.  
+
+
+Y afirmó: "No vivimos el fallo de la Corte como una derrota".
+
+
+
+
+
+var act_eb5 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_eb5 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_eb5.setTitle('Y afirmó:&nbsp;"No vivimos el fallo de la Corte como una derrota".');
+act_eb5.setSubtitle('TARIFAS'); 
+act_eb5.setLinkBack('http://www.clarin.com/politica/ministro-Justicia-vivimos-Corte-derrota_0_1634836529.html');
+act_eb5.setDescription('El ministro de Justicia dijo que "con el fallo en la mano" se puede reconocer esa equivocación del Gobierno. Y aseguró que "no vivimos el fallo de la Corte como una derrota".');
+act_eb5.addActionLink('VER MÁS', 'http://www.clarin.com/politica/ministro-Justicia-vivimos-Corte-derrota_0_1634836529.html');
+
+var showShareBarUI_params_eb5=
+{ 
+containerID: 'shareQuote_eb5',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_eb5,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_eb5
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_eb5);
+ Garavano fue consultado sobre si había sido "un error" aplicar los aumentos sin la audiencia pública previa. "Hoy, con el fallo en la mano, sí, efectivamente", respondió en radio La Red.. Aunque sostuvo que la decisión "no es tan negativa como se presenta" y dijo que su colega de Energía, Juan José Aranguren, continuará en su cargo.  Además, admitió que tras la decisión del máximo tribunal, en el Poder Ejecutivo se manejó la posibilidad de dejar liberado al mercado el precio del gas en boca de pozo, "lo que generaría un costo mucho mayor para la gente, con tarifas mucho más altas", dijo en Radio Nacional.  "Era una cuestión controvertida, pero hoy con el fallo en la mano, sí, definitivamente", respondió el funcionario al ser consultado sobre si entendía que se había cometido un error en la aplicación de incrementos en los servicios públicos.  Garavano insistió con que la situación "era realmente controvertida" ya que la obligación de audiencias públicas para establecer el precio del gas en boca de pozo "no está previsto en la ley". Según Garavano, el Gobierno de Mauricio Macri "va a tener en cuenta las opiniones que se viertan en estos veinte días" y aseveró: "Podría haber matices pero el fallo está dentro de lo que imaginábamos". Mirá también: El Gobierno cosechó su propia siembra Además, en la entrevista que brindó por Radio Nacional, detalló que "la Corte divide aguas en el valor de mercado del gas", dijo que "los matices del fallo están en el valor del pozo" y contó que  "en estos veinte días antes de la audiencia vamos a recibir propuestas" Mirá también: Tras el revés en la Corte, el Gobierno convocó a audiencia pública por el gas: será el 12 de septiembre Este mismo viernes, el Gobierno nacional convocó a una primera audiencia pública para el 12 de septiembre, en la Usina del Arte, en el barrio de La Boca. Según Garavano, "estábamos frente a muchas disyuntivas técnicas" y afirmó: "Es bueno que la Corte haya dado certeza en un tiempo razonable".

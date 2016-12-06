@@ -1,0 +1,134 @@
+
+El intendente de Ezeiza, Alejandro Granados, fue uno de los cuatro jefes comunales que no fueron ayer a la reunión que organizó Cristina Fernández de Kirchner para reunir a la tropa peronista en busca de la unidad partidaria. Y hoy disparó con munición gruesa contra la ex presidenta de la Nación. "Cristina a mí no me conduce más", aseguró en una entrevista que realizó en América 24. Mirá también: Quiénes son los intendentes que se rebelaron y faltaron a la cita con Cristina En la charla, el ex ministro de Seguridad bonaerense durante la gestión de Daniel Scioli afirmó: "Por ahora no hay nadie que sea el número uno en el Justicialismo. Y dentro de muy poquito va a ser Gioja. Tiene que haber un amplio debate para ver por qué se perdió y todos los que quieran competir tendrán que presentarse a las PASO, que es una herramienta muy valedera". 
+
+
+"Me dolío la falta de colaboración de Cristina con el candidato del PJ"
+
+
+
+
+
+var act_767 = new gigya.socialize.UserAction();
+
+var emailBodyCustom_767 = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_767.setTitle('&quot;Me dol&iacute;o la falta de colaboraci&oacute;n de Cristina con el candidato del PJ&quot;');
+act_767.setSubtitle('Tras la reunión de la ex presidente con intendentes del PJ'); 
+act_767.setLinkBack('http://www.clarin.com/politica/Cristina-conduce-dijo-intendente-GBA_0_1561643961.html');
+act_767.setDescription('Alejandro Granados, de&nbsp;Ezeiza, cruz&oacute; a la ex mandataria con dureza: &quot;Por ahora no hay nadie que sea el n&uacute;mero 1 del Justicialismo. Y dentro de poquito va a ser Gioja&quot;, dijo.&nbsp;');
+act_767.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Cristina-conduce-dijo-intendente-GBA_0_1561643961.html');
+
+var showShareBarUI_params_767=
+{ 
+containerID: 'shareQuote_767',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_767,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_767
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_767);
+ Respecto de las últimas elecciones, agregó: "Me dolío la falta de olaboración de Cristina con el candidato del PJ... Scioli era ideal para esta transición. Yo hubiera preferido que Cristina nos hubiera convocado tres meses antes a Olivos y que nos pregunte ¿muchachos, qué hacemos para ganar?". Mirá también: El Movimiento Evita pide una autocrítica y se aleja más de los K Sobre su faltazo de ayer a la reunión de intendentes programada por la ex presidenta, Granados fue claro: "Lo que menos me preocupa es ir al microcentro al lanzamiento de un frente". 
+
+
+"Con Néstor nos reuníamos tres miércoles por mes. El Flaco era inigualable".
+
+
+
+
+
+var act_a4d = new gigya.socialize.UserAction();
+
+var emailBodyCustom_a4d = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_a4d.setTitle('&quot;Con N&eacute;stor nos reun&iacute;amos tres mi&eacute;rcoles por mes. El Flaco era inigualable&quot;.');
+act_a4d.setSubtitle('Tras la reunión de la ex presidente con intendentes del PJ'); 
+act_a4d.setLinkBack('http://www.clarin.com/politica/Cristina-conduce-dijo-intendente-GBA_0_1561643961.html');
+act_a4d.setDescription('Alejandro Granados, de&nbsp;Ezeiza, cruz&oacute; a la ex mandataria con dureza: &quot;Por ahora no hay nadie que sea el n&uacute;mero 1 del Justicialismo. Y dentro de poquito va a ser Gioja&quot;, dijo.&nbsp;');
+act_a4d.addActionLink('VER MÁS', 'http://www.clarin.com/politica/Cristina-conduce-dijo-intendente-GBA_0_1561643961.html');
+
+var showShareBarUI_params_a4d=
+{ 
+containerID: 'shareQuote_a4d',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_a4d,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_a4d
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_a4d);
+ En un momento de la nota, Granados hizo hincapié en las diferencias que él sentía entre Néstor Kirchner y Cristina: "Con Néstor nos reuníamos tres miércoles por mes. El Flaco era inigualable. A Cristina la vi cuatro minutos en los últimos años. Ya ni la llamábamos. Yo dejé de pertenecer al FPV. No le voy a negar capacidad a Cristina, es una dirigente de peso. Pero el de ella es un vínculo muy frío, distante". Mirá también: Cristina les bajó línea a los intendentes del PJ bonaerense Volviendo sobre lo que se viene en la interna peronista, Granados sentenció: "Si quiere ser presidente del PJ que se presente a una elección". "¿Qué es el Frente ciudadano que propone?". se preguntó. Al final, también dejó en claro su buen vínculo con el Gobierno actual: "Por suerte hay buen diálogo con la Provincia. Estamos preparando una batería de medidas y necesitamos fondos para terminar obras importantes. Creo que van a empezar a aparecer las soluciones. Hay que poner en marcha la obra pública ya". Clarín Zonales

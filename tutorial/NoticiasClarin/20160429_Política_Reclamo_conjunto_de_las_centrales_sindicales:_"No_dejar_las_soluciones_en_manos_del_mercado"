@@ -1,0 +1,74 @@
+
+El acto de las centrales sindicales en rechazo a la política económica del Gobierno, arrancó pasadas las 15, con la lectura de un duro documento en el que las entidades advirtieron que las soluciones "no pueden quedar sujetas al mercado". En el texto, leído por el titular de Dragado y Balizamiento, el moyanista Juan Carlos Schmid, las CGT Azopardo y Balcarce, así como las dos versiones de las CTA, coincidieron en dar respaldo a la declaración de la emergencia ocupacional, proyecto que ya tiene media sanción del Senado y que incluye la prohibición de los despidos por 180 días. En el escenario, montado en la esquina de Paseo Colón e Independencia, frente al Monumento al Trabajo, estuvieron Hugo Yasky, Pablo Micheli, Antonio Caló y Hugo Moyano. Mirá también: Barrionuevo no va a la marcha: "Se nos colaron los mariscales de la derrota" Tras breves discursos de Micheli y Yasky, de los dos sectores de la CTA, y de Caló, de la CGT Balcarce, Moyano cerró el acto afirmando que "así como en la década del 90 se impuso la flexibilización laboral para explotar a los trabajadores", ahora "se cambió la palabra y se usa la precarización laboral". Lo dijo en referencia a la aparición de Uber, para trasladar pasajeros, en competencia con el trabajo de los taxistas.
+
+Mirá también: Para el Gobierno, la marcha será "un homenaje" por el 1° de mayo: "Otra cosa sería difícil de justificar" "El Gobierno tomó medidas rápidamente en beneficio de un sector y tarda demasiados en tomar medidas para proteger a los sectores de menores recursos", advirtió. "No se acuerda de los trabajadores y de los jubilados", sostuvo. Y, aunque reconoció que "no queremos que no den participación en el gobierno", pidió que "seamos consultados" cada vez que se toman medidas dirigidas a los sectores que representan los gremios.Por otro lado, reclamó un aumento de emergencia para los jubilados. 
+
+"Cuales son las medidas que el Gobierno ha tomado para detener la inflación que en cuatro meses está arriba del 40 por ciento", se preguntó y siguió: "¿Cómo no toman medidas inmediatas para solucionarlo?". 
+
+
+Los trabajadores generan la riqueza de la tierras y sin embargo los millonarios de turno toman determinaciones como si fueran salvadores de la Patria", disparó Moyano.
+
+
+
+
+
+var act_e1d = new gigya.socialize.UserAction();
+
+var emailBodyCustom_e1d = '<table style="border:1px solid #ccc; width:500px;padding: 6px;"> \
+					<tr>\
+						<td style="background:#D02128; padding: 5px; display: block; margin-bottom: 7px;"><p style="font-size: 11px; font-family: arial; margin: 0px; color: rgb(255, 255, 255);">Mensaje enviado por:</p><a style="font-size: 11px; font-family: arial; color: rgb(255, 255, 255);"> $sender$ </a></td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font: 12px Sans-serif; border-bottom: 1px dotted #4B4B4B; color: #4B4B4B; padding-bottom: 8px;font-style: italic; margin: 0px;">$userMsg$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="color: #D02128; font-size: 20px;margin: 0px;">$title$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td>\
+							<p style="font-family: arial; padding: 3px 0px; font-size: 13px;margin: 0px;">$description$</p>\
+						</td>\
+					</tr>\
+					<tr>\
+						<td style="border-top: 1px dotted #4B4B4B; padding: 7px 0 0;margin: 0px; text-decoration: none; color: #000; font-family: arial; font-weight: bold; font-size: 11px;">$actionLinkTitle$</td>\
+					</tr>\
+				</table>';
+
+act_e1d.setTitle('Los trabajadores generan la riqueza de la tierras y sin embargo los millonarios de turno toman determinaciones como si fueran salvadores de la Patria", disparó&nbsp;Moyano.');
+act_e1d.setSubtitle('La situación laboral'); 
+act_e1d.setLinkBack('http://www.clarin.com/politica/arranque-centales-sindicales-reclamaron-soluciones_0_1567643353.html');
+act_e1d.setDescription('Frente a una multitud concentrada frente al Monumento al Trabajo, se ley&oacute; un documento conjunto de las centrales sindicales con duras cr&iacute;ticas a la pol&iacute;tica econ&oacute;mica del Gobierno.');
+act_e1d.addActionLink('VER MÁS', 'http://www.clarin.com/politica/arranque-centales-sindicales-reclamaron-soluciones_0_1567643353.html');
+
+var showShareBarUI_params_e1d=
+{ 
+containerID: 'shareQuote_e1d',
+shareButtons: [
+			{ 
+				provider: 'Share',
+				iconOnly: true,
+		        enableCount: false,
+		        iconImgUp: '/static/DESGigyaConnect/images/share_quote.jpg'
+			}
+			],
+iconsOnly: 'true',
+showEmailButton: true, 
+emailBody: emailBodyCustom_e1d,
+useHTML: true,
+shortURLs: 'never',
+buttonWithCountTemplate: '<div class="sBtnWrap"><a href="#" onclick="$onClick"><div class="sBtn">$text<img src="$iconImg" /></div><div class="sCountBox">$count</div></a></div>',
+
+userAction: act_e1d
+}
+
+
+
+
+   gigya.socialize.showShareBarUI(showShareBarUI_params_e1d);
+ Agregó que "como dijo Caló, esto no es contra nadie", aunque tomó distancia de la gestión de Macri, al sostener que "ustedes saben que siempre estuve más cerca del olor de los trabajadores que de los perfumes de los funcionarios de turno". Se quejó, además de que "el domingo dicen que vuelve a aumentar ola nafta, debe ser el regalo que le da a los trabajadores", ironizando sobre lo que el Presidente haría el 1° de Mayo. Mirá también: Macri dijo que tiene la misma agenda que los gremios: "Bajar la inflación, generar empleo e inversiones" "Lo que está haciendo son platos de comida que le faltan a las familias más humildes", dijo en parte del mensaje que dirigió en primera persona a Macri. Y le pidió que no atienda los consejos "que le dan algunos asesores".
+
+En otro disparo contra las primeras líneas del gobierno macrista, el camionero sostuvo que "los trabajadores generan la riqueza de la tierras y sin embargo los millonarios de turno toman determinaciones como si fueran salvadores de la Patria". "Los empresarios viven las crisis, los trabajadores las sufren", criticó. Y advirtió: "Si no hay cambios, habrá paro" Mirá también: Yasky, sobre la marcha: "Nadie con sentido común puede decir que es una reacción prematura" Más adelante, en tono más conciliador, sostuvo que "queremos colaborar" para buscar soluciones. Pero rechazó que la Ley antidespidos impulsada por el sindicalismo y que avanza en el Congreso sea "perjudicial", como insiste el Presidente en sus últimos mensajes. Y a cambio sacó a relucir un informe de Fedecámaras, una entidad empresaria que respaldó la gestión kirchnerista, en la que se sostiene que ese proyecto "no es perjudicial para las pequeñas empresas". Sobre la interna sindical, indicó que "con los compañeros Caló, Yasky, Micheli y el otro sector (en alusión a Barrionuevo, que se bajó del acto a último momento y al que no mencionó)", vamos a trabajar por la unidad de los trabajadores. 

@@ -1,0 +1,18 @@
+
+Un joven de 19 años resultó muerto en una Fiesta por el Día de la Primavera en Moreno, a la que convocaron con el nombre Proyecto XXX. Mirá también: Un muerto en una fiesta del Día de la Primavera Fuentes policiales identificaron al joven fallecido como Nicolás Matías Rivero, de 19 años, que llegó muerto a un hospital de la zona al que lo trasladaron. Mirá también: "Proyecto X", el film que inspiró la fiesta del Día de la Primavera en Moreno Otros dos jóvenes, uno de 18 años, de Moreno, con una herida de arma blanca en la espalda; y otro de 19, de Bella Vista, con heridas superficiales en la cabeza fueron asistidos en el mismo centro de salud y están fuera de peligro. Mirá también: Están prófugos los organizadores de la fatal fiesta del Día de la Primavera En las redes sociales se viralizaron videos que muestran cómo ocurrió el tiroteo durante la noche. 
+
+    function sendEmbeddedVideoEvents(objEvent) {
+        if (cX) {
+            
+            cX.sendEvent(   objEvent.eventName, 
+                            {videoId: objEvent.videoId, videoTitle: objEvent.videoTitle.substr(0, 29)}, 
+                            {callback: objEvent.cb}
+            );
+        }
+    }
+
+
+
+
+
+La fiesta se desarrolló en una casaquinta ubicada en la ruta 23 y Ozanam, en el barrio Las Catonas, de Moreno, en el oeste del conurbano bonaerense. Mirá también: Cristian, un joven que fue a la fiesta: "Un tiro le pegó a un chico que estaba adelante mío"
