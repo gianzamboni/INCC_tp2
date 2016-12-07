@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 
 import scrapy
 import os
@@ -75,7 +74,7 @@ def getLinks(news):
 	for link in links:
 		splittedLink = link.split("/")
 		if(splittedLink[1] == "ieco" or splittedLink[1] == "politica" or splittedLink[1] == "opinion" or splittedLink[1] == "sociedad"):
-			totalLinks.append((prefijo + link).encode("utf-8"))
+			totalLinks.append((prefijo + link).decode("utf-8"))
 
 	return totalLinks
 
@@ -109,7 +108,7 @@ def getText(response, url):
 		for element in quotes:
 			element.extract()
 
-	contenido = divNota.text.encode('utf-8')
+	contenido = divNota.text.encode("utf-8")
 
 	meta = htmlParseado.find("div", {"class" : "breadcrumb" }).find("ul").find_all("li")
 	categoria = meta[1].text.encode('utf-8')
@@ -147,6 +146,49 @@ def getNewsLinks(body, url):
 	logFile.close()
 	listFile.close()
 
+def todasLasNoticiasPagina12():
+	global DICCFECHAS
+	logFile = open("log", "ab")
+	folder = "listasNoticiasPagina12"
+	noticias = []
+	for filename in os.listdir(folder):
+		f = open(os.path.join(folder, filename), "rb")
+		noticiasDelArchivo = pickle.load(f)
+		noticias.extend(noticiasDelArchivo)
+		fecha = filename.split("&")[0]
+		for link in noticiasDelArchivo:
+			DICCFECHAS[link.split("/")[-1]] = fecha
+		f.close()
+	logFile.write(str(len(noticias)) + "\n")
+	logFile.close()
+	return noticias;
+
+def getTextPagina12(response, url):
+	logFile = open("log", "ab")
+	htmlParseado = BeautifulSoup(response, 'html.parser')
+	
+	#Buscar Noticias
+	divNota = htmlParseado.find("div", { "id" : "cuerpo" })
+	contenido = divNota.text.decode("iso-8859-1").encode("utf-16")
+	logFile.write(contenido)
+
+	# meta = htmlParseado.find("div", {"class" : "breadcrumb" }).find("ul").find_all("li")
+	# categoria = meta[1].text.encode('utf-8')
+	# fecha = DICCFECHAS[url.split("/")[-1]]
+	
+	# titulos = htmlParseado.find("h1").text.encode('utf-8')
+	# titulos = titulos.replace(" ", "_")
+	
+
+	# filename = fecha + "_" + categoria + "_" + titulos	
+	# file = open("NoticiasPagina12/" + filename, "wb")
+	# file.write(contenido)
+	# file.close()
+
+	# logFile.write("Archivo " + filename + " guardado\n")
+	logFile.close()
+	# return filename	
+
 class ClarinSpider(scrapy.Spider):
     name = "clarin"
     allowed_domains = ["clarin.com", "ieco.clarin.com"]
@@ -182,3 +224,12 @@ class pagina12Spider(scrapy.Spider):
 
 	def parse(self, response):
 		getNewsLinks(response.body, response.url)
+
+class pagina12NoticiasSpider(scrapy.Spider):
+	name = "pagina12Noticias"
+	allowed_domains = ["pagina12.com.ar"]
+	start_urls = todasLasNoticiasPagina12()[0:1]
+
+
+	def parse(self, response):
+		getTextPagina12(response.body, response.url)
