@@ -1,50 +1,0 @@
-
-La agrupación Tupac Amaru junto a organizaciones sociales, en su mayoría vinculadas al kirchnerismo, cortó esta la mañana los principales accesos a la ciudad, en el marco de la "jornada nacional de lucha", para reclamar la liberación de Milagro Sala.Leé también: La lujosa vida de Milagro SalaHubo piquetes y enormes problemas de tránsito en puentes, rutas y calles en distintos puntos de la Capital Federal y en el interior del país. Los principales inconvenientes se dieron en la ruta Panamericana con un corte total en la mano al norte, a la altura del kilómetro 29.
-
-
-    $(document).ready(function() {
-        $.ajax({
-            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/FernandoSostre/status/699961905134374912",
-            jsonp: "callback",
-            cache: 'false',
-            dataType: "jsonp",
-            success: function( response ) {
-                $("#tweet_69996190513437491")
-                    .html(response.html)
-                    .trigger('columnGrowUp', 2000);
-            }
-        });
-    });
-El epicentro de la protesta fue el Puente Pueyrredón. Estos fueron los principales cortes: Puente La Boca (Nicolas Avellaneda),  Puente La Noria,  Autopista del Oeste (Altura Nine),  Panamericana y 197 , Autopista BA-LP Ruta 2 y Alpargatas,  Camino del Buen Ayre, Ruta 3 y la Vía (Casanova),  Bariloche,  Chaco - Puente chaco Corrientes-,   Concordia,  Córdoba - Puente Centenario,  Gral. Roca,  Jujuy (Acceso Sur en la capital y otros 5 cortes en distintos puntos de la provincia), La Rioja, Mar del Plata: Ruta 2 y Constitución,  Misiones - El Dorado  Misiones - Posadas , Nudo Vial de Mendoza, Puente Parana-Santa Fe,  Puente Resistencia-Corrientes,  Rio Negro Puente Cipolletti-Neuquen,  Rio Turbio, Rosario: Autopista BA-Rosario,  Aut. Rosario-Cordoba,  Aut. Rosario-Santa Fe,  San Juan, Tucumán.
-
-
-    $(document).ready(function() {
-        $.ajax({
-            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/PrensaTupac/status/699920255074832384",
-            jsonp: "callback",
-            cache: 'false',
-            dataType: "jsonp",
-            success: function( response ) {
-                $("#tweet_69992025507483238")
-                    .html(response.html)
-                    .trigger('columnGrowUp', 2000);
-            }
-        });
-    });
-Junto a la Tupac, participaron de la protesta la CTA de los Trabajadores, La Cámpora, la Federación Tierra y Vivienda (FTV) - Miles, Movimiento Evita, CTEP, CTD Anibal Verón, Movimiento Nacional Campesino Indígena, Partido Comunista, MTL, y el Frente Transversal.Leé también: Milagro Sala recibe un regalo del Papa a un mes de su detención
-
-
-    $(document).ready(function() {
-        $.ajax({
-            url: "https://api.twitter.com/1/statuses/oembed.json?url=https://twitter.com/PrensaTupac/status/699953879597846528",
-            jsonp: "callback",
-            cache: 'false',
-            dataType: "jsonp",
-            success: function( response ) {
-                $("#tweet_69995387959784652")
-                    .html(response.html)
-                    .trigger('columnGrowUp', 2000);
-            }
-        });
-    });
-

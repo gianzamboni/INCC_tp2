@@ -40,30 +40,35 @@ def todasLasFechas():
 
 def todasLasFechasPagina12():
 	links = []
-	date = "2014-07-02"
-	year = 2014
-	month = 07
-	day = 02
-	prefijoPais = "https://www.pagina12.com.ar/diario/elpais/index-{0}.html"
-	prefijoEco = "https://www.pagina12.com.ar/diario/economia/index-{0}.html"
-	prefijoSoc = "https://www.pagina12.com.ar/diario/sociedad/index-{0}.html"
-	while(date != "2016-11-15"):
-	 	links.append(prefijoPais.format(date))
-	 	links.append(prefijoEco.format(date))
-	 	links.append(prefijoSoc.format(date))
-	 	day += 1
-	 	if(day == 32):
-	 		day = 1
-	 		month += 1
+	if os.path.isfile("listaLinksPagina12"):
+		linksFile = open("listaLinksPagina12", "rb")
+		links = pickle.load(linksFile)
+		linksFile.close()
+	else:
+		date = "2014-07-02"
+		year = 2014
+		month = 07
+		day = 02
+		prefijoPais = "https://www.pagina12.com.ar/diario/elpais/index-{0}.html"
+		prefijoEco = "https://www.pagina12.com.ar/diario/economia/index-{0}.html"
+		prefijoSoc = "https://www.pagina12.com.ar/diario/sociedad/index-{0}.html"
+		while(date != "2016-11-15"):
+		 	links.append(prefijoPais.format(date))
+		 	links.append(prefijoEco.format(date))
+		 	links.append(prefijoSoc.format(date))
+		 	day += 1
+		 	if(day == 32):
+		 		day = 1
+		 		month += 1
 
-	 	if(month == 13):
-	 		month = 1
-	 		year += 1
+		 	if(month == 13):
+		 		month = 1
+		 		year += 1
 
-	 	date = str(year) + "-" + str(month).zfill(2) + "-" + str(day).zfill(2)
-	linksFile = open("listaLinks", "wb")
-	pickle.dump(links, linksFile) 	
-	linksFile.close()
+		 	date = str(year) + "-" + str(month).zfill(2) + "-" + str(day).zfill(2)
+		linksFile = open("listaLinksPagina12", "wb")
+		pickle.dump(links, linksFile) 	
+		linksFile.close()
 	return links
 
 def getLinks(news):
@@ -94,7 +99,7 @@ def todasLasNoticias():
 		for link in noticiasDelArchivo:
 			DICCFECHAS[link.split("/")[-1]] = fecha
 		f.close()
-	logFile.write(str(len(noticias)) + "\n")
+	#logFile.write(str(len(noticias)) + "\n")
 	logFile.close()
 	return noticias;
 
@@ -102,26 +107,29 @@ def todasLasNoticias():
 def getText(response, url):
 	logFile = open("log", "ab")
 	htmlParseado = BeautifulSoup(response, 'html.parser')
-	divNota = htmlParseado.find("div", { "class" : "nota" })
-	quotes = divNota.find_all("p", {"style" : "text-align: right;"})
-	if(quotes != []):
-		for element in quotes:
-			element.extract()
+	try:
+		divNota = htmlParseado.find("div", { "class" : "nota" })
+		quotes = divNota.find_all("p", {"style" : "text-align: right;"})
+		if(quotes != []):
+			for element in quotes:
+				element.extract()
 
-	contenido = divNota.text.encode("utf-8")
+		contenido = " ".join([ p.text.encode("utf-8") for p in divNota ])
 
-	meta = htmlParseado.find("div", {"class" : "breadcrumb" }).find("ul").find_all("li")
-	categoria = meta[1].text.encode('utf-8')
-	fecha = DICCFECHAS[url.split("/")[-1]]
-	
-	titulos = htmlParseado.find("h1").text.encode('utf-8')
-	titulos = titulos.replace(" ", "_")
-	
-	filename = fecha + "_" + categoria + "_" + titulos	
-	file = open("NoticiasClarin/" + filename, "wb")
-	file.write(contenido)
-	file.close()
-	logFile.write("Archivo " + filename + " guardado\n")
+		meta = htmlParseado.find("div", {"class" : "breadcrumb" }).find("ul").find_all("li")
+		categoria = meta[1].text.encode('utf-8')
+		fecha = DICCFECHAS[url.split("/")[-1]]
+		
+		titulos = htmlParseado.find("h1").text.encode('utf-8')
+		titulos = titulos.replace(" ", "_")
+		
+		filename = fecha + "_" + categoria + "_" + titulos	
+		file = open("NoticiasClarin/" + filename, "wb")
+		file.write(contenido)
+		file.close()\
+	except:
+		logFile.write("No se puedo guardar el archivo con url: " + url)
+	#logFile.write("Archivo " + filename + " guardado\n")
 	return filename
 
 
@@ -138,7 +146,7 @@ def getNewsLinks(body, url):
 	pagina = BeautifulSoup(body, "html.parser")
 	noticias = pagina.find_all("div", { "class" : "noticia" })
 	linksNoticias = [ a.get('href') for a in [ h.find("a") for h in [n.find("h2") for n in noticias] ]]
-	logFile.write(str(linksNoticias))
+	#logFile.write(str(linksNoticias))
 	
 	totalLinks = [ prefijo + link for link in linksNoticias]
 	pickle.dump(totalLinks, listFile)
@@ -165,27 +173,25 @@ def todasLasNoticiasPagina12():
 
 def getTextPagina12(response, url):
 	logFile = open("log", "ab")
-	htmlParseado = BeautifulSoup(response, 'html.parser')
+	htmlParseado = BeautifulSoup(response, 'lxml-xml')
 	
 	#Buscar Noticias
-	divNota = htmlParseado.find("div", { "id" : "cuerpo" })
-	contenido = divNota.text.decode("iso-8859-1").encode("utf-16")
-	logFile.write(contenido)
+	try:
+		parrafos = htmlParseado.find("div", { "id" : "cuerpo" }).find_all("p")
+		contenido = "".join([p.text.encode("iso-8859-1") for p in parrafos])
 
-	# meta = htmlParseado.find("div", {"class" : "breadcrumb" }).find("ul").find_all("li")
-	# categoria = meta[1].text.encode('utf-8')
-	# fecha = DICCFECHAS[url.split("/")[-1]]
-	
-	# titulos = htmlParseado.find("h1").text.encode('utf-8')
-	# titulos = titulos.replace(" ", "_")
-	
+		splittedUrl = url.split("/")
+		categoria = splittedUrl[-2]
+		fecha = DICCFECHAS[url.split("/")[-1]]
+		titulos = htmlParseado.find("head").find("title").text.encode("iso-8859-1").split(":: ")[-1].replace(" ", "_").replace('\x94', '').replace('\x93', '').decode("iso-8859-1").encode("utf-8")
+		filename = fecha + "_" + titulos
+		file = open("NoticiasPagina12/" + filename, "wb")
+		file.write(contenido)
+		file.close()
+		logFile.write("Archivo " + filename + " guardado\n")
+	except:
+		logFile.write("No se puedo guardar el archivo con url: " + url)
 
-	# filename = fecha + "_" + categoria + "_" + titulos	
-	# file = open("NoticiasPagina12/" + filename, "wb")
-	# file.write(contenido)
-	# file.close()
-
-	# logFile.write("Archivo " + filename + " guardado\n")
 	logFile.close()
 	# return filename	
 
