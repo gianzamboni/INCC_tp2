@@ -114,23 +114,23 @@ def getText(response, url):
 			for element in quotes:
 				element.extract()
 
-		contenido = " ".join([ p.text.encode("utf-8") for p in divNota ])
-
+		contenido = " ".join([ p.text.encode("utf-8") for p in divNota.find_all("p") ])
 		meta = htmlParseado.find("div", {"class" : "breadcrumb" }).find("ul").find_all("li")
 		categoria = meta[1].text.encode('utf-8')
 		fecha = DICCFECHAS[url.split("/")[-1]]
 		
-		titulos = htmlParseado.find("h1").text.encode('utf-8')
+		titulos = htmlParseado.find("h1").text.encode('utf-8').replace('/'," ")
 		titulos = titulos.replace(" ", "_")
 		
 		filename = fecha + "_" + categoria + "_" + titulos	
 		file = open("NoticiasClarin/" + filename, "wb")
 		file.write(contenido)
-		file.close()\
+		file.close()
+		logFile.write("Guardado el archivo con url: " + url + "\n")
 	except:
-		logFile.write("No se puedo guardar el archivo con url: " + url)
+		logFile.write("No se puedo guardar el archivo con url: " + url + "\n")
+		raise
 	#logFile.write("Archivo " + filename + " guardado\n")
-	return filename
 
 
 def getNewsLinks(body, url):
@@ -183,7 +183,7 @@ def getTextPagina12(response, url):
 		splittedUrl = url.split("/")
 		categoria = splittedUrl[-2]
 		fecha = DICCFECHAS[url.split("/")[-1]]
-		titulos = htmlParseado.find("head").find("title").text.encode("iso-8859-1").split(":: ")[-1].replace(" ", "_").replace('\x94', '').replace('\x93', '').decode("iso-8859-1").encode("utf-8")
+		titulos = htmlParseado.find("head").find("title").text.encode("iso-8859-1").split(":: ")[-1].replace("/"," ").replace(" ", "_").replace('\x94', '').replace('\x93', '').decode("iso-8859-1").encode("utf-8")
 		filename = fecha + "_" + titulos
 		file = open("NoticiasPagina12/" + filename, "wb")
 		file.write(contenido)
@@ -191,6 +191,7 @@ def getTextPagina12(response, url):
 		logFile.write("Archivo " + filename + " guardado\n")
 	except:
 		logFile.write("No se puedo guardar el archivo con url: " + url)
+		raise
 
 	logFile.close()
 	# return filename	
@@ -234,7 +235,7 @@ class pagina12Spider(scrapy.Spider):
 class pagina12NoticiasSpider(scrapy.Spider):
 	name = "pagina12Noticias"
 	allowed_domains = ["pagina12.com.ar"]
-	start_urls = todasLasNoticiasPagina12()[0:1]
+	start_urls = todasLasNoticiasPagina12()
 
 
 	def parse(self, response):
